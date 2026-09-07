@@ -1,0 +1,55 @@
+{
+  "source_commit": "e8ce6d484a692d89456d898e97bd9d832bdf5455",
+  "books": [
+    {
+      "book": 1,
+      "chapters": 17,
+      "words": 59111,
+      "source_words": 56406,
+      "reclaimed_uses": 844,
+      "source_reclaimed_uses": 741
+    },
+    {
+      "book": 2,
+      "chapters": 20,
+      "words": 52452,
+      "source_words": 49239,
+      "reclaimed_uses": 415,
+      "source_reclaimed_uses": 341
+    },
+    {
+      "book": 3,
+      "chapters": 24,
+      "words": 54747,
+      "source_words": 53776,
+      "reclaimed_uses": 633,
+      "source_reclaimed_uses": 601
+    },
+    {
+      "book": 4,
+      "chapters": 22,
+      "words": 49371,
+      "source_words": 46578,
+      "reclaimed_uses": 782,
+      "source_reclaimed_uses": 749
+    },
+    {
+      "book": 5,
+      "chapters": 23,
+      "words": 59339,
+      "source_words": 58379,
+      "reclaimed_uses": 959,
+      "source_reclaimed_uses": 929
+    },
+    {
+      "book": 6,
+      "chapters": 24,
+      "words": 54835,
+      "source_words": 54493,
+      "reclaimed_uses": 732,
+      "source_reclaimed_uses": 697
+    }
+  ],
+  "complete_manuscript_words": 329879,
+  "chapters": 130
+}

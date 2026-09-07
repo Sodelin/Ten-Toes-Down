@@ -1,5 +1,17 @@
 # Ten Toes Down
 
+## The Niggatorial Tellings — complete revised edition
+
+**329,879 words · six books · 130 chapters.** Opens with Aiden's funeral, then moves into the Vegas origin as a flashback. Includes revised and expanded scenes throughout all six books and the complete ending.
+
+- [Read the complete new edition](editions/niggatorial-tellings/)
+- [Download EPUB](https://github.com/Sodelin/Ten-Toes-Down/raw/refs/heads/main/editions/niggatorial-tellings/book.epub)
+- [Read or download PDF](editions/niggatorial-tellings/book.pdf)
+- [Complete editable manuscript](editions/niggatorial-tellings/manuscript.md)
+- [Revision and verification record](editions/niggatorial-tellings/editorial-record.md)
+
+The earlier editions and their reading files below remain intact.
+
 ## The Greatest Man Alive
 
 The complete six-book Aiden epic: **318,891 words, 129 chapters, 2,049 PDF pages**. Written by ChatGPT for Nolan, following Nolan's creative direction.
