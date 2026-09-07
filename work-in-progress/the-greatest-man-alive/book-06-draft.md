@@ -250,7 +250,59 @@ Vesper emerged from the long black car. The applause changed when people recogni
 
 "Ask after lunch."
 
-A siren shrieked from the far end of the boulevard.
+Two men came out of a watch shop arguing before either of them had reached me.
+
+"Nigga, I told you that was him."
+
+"You said it was the singer."
+
+"The singer is the nigga. The driver is the nigga. The captain is the same fucking nigga."
+
+The second man looked at my badge, then at the Lamborghini, then at Shawna.
+
+"All that one nigga?"
+
+"All this one nigga," I told him.
+
+His friend slapped his shoulder. "See? Nigga verified himself."
+
+Shawna folded her arms, trying not to laugh.
+
+"Don't encourage him."
+
+"Ma'am," the first man said, "your nigga drove through the wall and knocked over the emperor. Encouragement already happened."
+
+"The emperor's statue," I corrected.
+
+"For now," Tank said.
+
+Both men looked at him.
+
+Tank looked back. "What? Niggas got a schedule."
+
+The watch seller took off his apron and held it out toward my trousers.
+
+"Captain, you need something clean."
+
+"Nigga, I'm not putting on your apron."
+
+"To wipe the coffee!"
+
+"Good, because Shawna already got me cooking when I'm famous."
+
+My wife took the apron, cleaned the worst of the stain, and handed it back with a kiss on the man's cheek. The nigga went silent. His friend looked at him, then at me.
+
+"You broke him."
+
+"My wife did that. Separate department of greatness."
+
+The first man finally found his voice.
+
+"Nigga, frame the apron."
+
+His friend nodded. "Already thinking it."
+
+
 
 Black armored cars turned the corner. The crowd broke apart, doors opening, hands pulling friends into shops. The band stopped in the middle of a note. Zero's men spread across the street beneath flags with a silver circle on them.
 
@@ -864,6 +916,58 @@ Shawna raised her glass at the phone.
 
 The ballroom roared.
 
+Omar's wife arrived twenty minutes later with a handbag big enough to discipline a whole household. She saw him beside Tank and stopped with both hands on her hips.
+
+"Nigga, you went to clean an airport."
+
+"I did clean some of it."
+
+"Now you eating with the nigga on television."
+
+"He came through the window."
+
+"Aiden came through your window?"
+
+"A car came through first. Then that nigga came through."
+
+Tank nodded. "That's usually how you know he's close."
+
+She looked at me.
+
+"Captain, this nigga has been telling me for thirty years that nothing interesting happens at work."
+
+"Ma'am, he was saving it."
+
+Omar stood to embrace her. She hit his arm once, then held him for so long the whole table learned why the nigga had wanted to get home.
+
+When she let go, he pointed toward the courtyard.
+
+"They got me a new cart."
+
+"Nigga, forget the cart. You alive."
+
+"It's got a little motor."
+
+She paused.
+
+"A motor?"
+
+"June fixed it."
+
+His wife looked at June, who lifted her glass without apology.
+
+"This nigga gonna drive it around our kitchen," the woman said.
+
+"Only on weekends," Omar promised.
+
+"Nigga, I know you."
+
+I leaned toward Shawna. "That's marriage."
+
+She kissed my cheek. "That is exactly marriage."
+
+
+
 I sat beside my wife with dust in my hair and a silver car outside that had been a gift for less than twenty minutes before surviving an airfield gunfight. Inez stole a piece of bread off Cassius's plate. He pretended to object, then moved the whole basket toward her.
 
 Magnolia studied them over her wine.
@@ -1238,9 +1342,61 @@ I looked at him. Under the scorched uniform and ridiculous hair was the same pro
 
 "Yeah," I said. "I knew."
 
-He nodded once.
+He nodded once. Then the nigga ruined the dignified moment by pointing at my wet hair.
 
-That was all either of us needed.
+"Were you bathing when I called?"
+
+"Yeah."
+
+"This nigga got out of a bath to save me."
+
+"Nigga, don't make it sound intimate. There was a plane."
+
+"An entire plane," Victor agreed. "The nigga was not even dry."
+
+"You want a certificate?"
+
+"I want the school to know. They will add it to the painting."
+
+I looked at him. "What painting?"
+
+Victor grinned.
+
+"Dean Storm commissioned a portrait for the main hall. Captain Aiden above the clouds. Very dignified."
+
+"Nigga, what am I wearing?"
+
+"Your uniform."
+
+"Good. Because you telling everybody about the bath like some nigga about to paint my ass."
+
+Victor laughed until he had to put a hand over his ribs.
+
+"The faculty argued over the inscription."
+
+"What they choose?"
+
+"A Man Above Us All."
+
+I considered that.
+
+"Accurate niggas."
+
+"One professor suggested Outstanding Attendance."
+
+"That nigga knows comedy."
+
+Victor wiped his eyes. "You would have liked the meeting. They spent forty minutes arguing about how much larger than life to make you."
+
+"Nigga, start with actual size. Work from there."
+
+He leaned his head against the tire and smiled into the morning.
+
+I passed him the water again. This time his hands were steadier. Mine were too.
+
+Two exhausted niggas beneath a plane, arguing about a painting neither of us had asked for. I would have come out of a thousand baths for that.
+
+
 
 Down below, an armored truck crashed through the exhibition hall's front doors.
 
@@ -1914,6 +2070,94 @@ At the hotel, Magnolia insisted on dessert.
 
 "We survived an emperor's manners," she said. "We deserve sugar."
 
+Liora refused to sit until she had seen the hotel roof. June took her upstairs. When they returned, both women were smiling in a way that made Adrian ask where he should hide his tools.
+
+"The emperor's transport fleet crosses the city tomorrow," Liora said. "Cars, fuel tenders, aircraft parts. Everything he wants inside the fortress before he closes the outer districts."
+
+Cassius leaned forward. "What cars?"
+
+"His champions' collection."
+
+"Nigga, say that with more detail," I told her.
+
+She named three cars. Cassius put his wine down. She named two more. Inez leaned across him and asked her to repeat the last one.
+
+"That's mine," Inez said.
+
+The table quieted.
+
+"Your actual car?" Shawna asked.
+
+"My father's early championship car. Sol de Abril. Years before the White Heron. I was told it had burned after an earlier race."
+
+Liora shook her head. "It sits in the west motor gallery. Silver with a red stripe. A little sun painted beside the driver's name."
+
+Inez looked at Cassius. The expression on her face made all the racing jokes leave him at once. He took her hand beneath the table, quietly, without turning the gesture into anything the rest of us had to watch.
+
+"We'll get it," he said.
+
+"You don't know that."
+
+"I know who's sitting here."
+
+Nigga, the whole table looked at me.
+
+I wiped my mouth. "Y'all give a man one bite of cake before assigning greatness."
+
+Tank laughed. "You want the little fork or the rescue fork?"
+
+"Nigga, both."
+
+Liora drew the procession on the back of a menu. Not a neat little plan. A memory of where things stood, which roads went uphill, where she had seen the old race car beneath a silk cover. She stopped whenever she was uncertain. June filled in the streets she knew. Vesper named the houses overlooking them. I watched people who had met yesterday build a way through a city that had spent years telling them they were alone.
+
+Gideon stayed silent.
+
+I caught his eye.
+
+"You got something?"
+
+He swallowed. "Roland chooses the lead drivers. He will expect an attack."
+
+"That nigga expects compliments. He gets both tomorrow."
+
+"Captain, I am serious."
+
+"So am I. Ask his boat."
+
+Liora touched Gideon's face. "You got me out. You don't have to be frightened of every next minute."
+
+He covered her hand with his own.
+
+I wanted to believe that would be enough for the nigga. Love had made me brave and stupid in roughly equal proportions. Sometimes it did the same for another man. Sometimes it only gave fear a name to use.
+
+I did not know which kind Gideon was yet.
+
+Inez stood and walked to the window. Shawna followed her. They spoke softly beside the glass while the rest of us considered tomorrow's road. After a moment Inez laughed, short and surprised, and Shawna put an arm around her shoulders.
+
+Cassius watched them.
+
+"Your wife," he said, "is a remarkable woman."
+
+"Nigga, you just now arriving at that conclusion?"
+
+"I have been arriving repeatedly."
+
+"Good. Parking's free."
+
+He laughed and looked at the window again.
+
+I knew that look. A man could own every fast car alive and still need help crossing six feet of carpet to tell the right woman something true.
+
+"Tomorrow," I told him, "bring her car home."
+
+He nodded.
+
+"And then quit acting like you only came over here to borrow the bread basket."
+
+The nigga blushed. Cassius Chrome, who had raced under a burning bridge without lifting his foot, blushed at my dinner table.
+
+I considered that another personal achievement.
+
 Tank sat beside Rosa with his boat keys on the table. I looked at them.
 
 "You keep those?"
@@ -1925,3 +2169,1693 @@ I raised my glass.
 "To love."
 
 Every nigga at that table raised a glass with me.
+
+## 5. The Fastest Funeral Procession in History
+
+The next morning I stole forty-seven cars before breakfast and still got blamed for being late.
+
+"Nigga," Tank said over the radio, "your eggs cold."
+
+"Put them in the microwave."
+
+"This hotel don't have one. Chef says it affects the texture."
+
+"Then tell that nigga to warm them with respect. I'm busy."
+
+I was hanging out of a moving Rolls-Royce at the time, trying to convince its driver to stop shooting at my wife.
+
+That sounds like a strange place to begin a morning, but the morning had started stranger.
+
+At seven, June and Adrian unveiled the car they had prepared for me overnight. It sat in the hotel courtyard under a white sheet. All our people had come down to see it. Cassius held coffee. Inez held a photograph of her father's missing race car. Shawna stood beside me in a black driving suit with a blue scarf tied around her hair.
+
+June pulled off the sheet.
+
+Nigga, the car looked like a thunderstorm had acquired credit.
+
+Dark blue. Long hood. Wide shoulders. A low roof that made the windows look angry. My captain's badge shone above the grille, and beneath it, in polished silver, June had fixed one word.
+
+MAGNIFICENT.
+
+I stared.
+
+Shawna touched the cross at my chest and began laughing.
+
+"Dante would have loved that."
+
+"Dante had taste," I said.
+
+Marcellus came forward, adjusting his glasses.
+
+"The lettering is excellent."
+
+"You did it," June told him.
+
+"I enjoy recognizing my own work."
+
+Everybody laughed. The old nigga looked delighted with himself.
+
+Adrian opened the driver's door.
+
+"We call it the Last Word."
+
+"That nigga's car got an argument built in," Tank said.
+
+"It should," Shawna replied. "It belongs to him."
+
+I sat behind the wheel. The engine started with a low roar that made conversations stop all the way across the courtyard. A waiter carrying breakfast stood perfectly still. The little dog in diamonds barked once, then apparently decided to respect authority.
+
+"How fast?" I asked.
+
+June leaned in.
+
+"Fast enough that I want you to remember my name when you become insufferable."
+
+"Nigga, you met me yesterday. That deadline passed."
+
+She grinned.
+
+The Last Word was not magic. It would not repair itself, fly, or apologize. It was a car built by two people who had spent their lives listening to engines and had finally been given somebody else's money without a nigga leaning over them saying cheaper. That made it close enough to a miracle for me.
+
+We drove to the motor gallery in six cars.
+
+The city had begun preparing for Zero's final procession. Black banners hung over the boulevard. Armored escorts lined the crossroads. At the top of the hill, the fortress gates stood open like a mouth waiting for everything rich to crawl inside.
+
+Liora's description had been right. The prize fleet stood in a long glass gallery, forty-seven cars polished beneath chandeliers. Drivers in white suits waited beside them. Roland Ruin stood at the head of the line with a bandage over his temple and the expression of a nigga whose week had become personal.
+
+I pulled up outside the gallery.
+
+Shawna got out beside me.
+
+The guards saw the badge and hesitated. It happened a lot. Criminals expected the police to arrive with paperwork. Police expected criminals to arrive without the police. I enjoyed being inconvenient to both.
+
+Roland came toward us.
+
+"Captain. You have survived another morning."
+
+"Nigga, you look like you slept inside a boat accident."
+
+His bandage moved when his jaw tightened.
+
+"This collection belongs to the emperor."
+
+Inez stepped out of Cassius's car.
+
+"Not all of it."
+
+She walked past me toward the silver car beneath a half-drawn cover. A red stripe ran along its hood. The little painted sun sat beside Esteban Inferno's name. SOL DE ABRIL gleamed on a narrow plate beneath it. She stopped with one hand over her mouth.
+
+Cassius came up beside her and said nothing.
+
+That was the smartest shit the nigga had done all morning.
+
+Roland moved to block them.
+
+I stepped between.
+
+"Don't."
+
+"You have no authority here."
+
+"Nigga, I keep hearing that in places where I'm doing whatever the fuck I want. Somebody ought to investigate."
+
+Shawna folded her arms.
+
+"Could be a police matter."
+
+"Excellent point, baby."
+
+I took out my badge.
+
+Roland looked from it to the forty-seven cars.
+
+"You cannot confiscate an imperial procession."
+
+"Watch how educational this gets."
+
+He laughed once, sharp and disbelieving.
+
+Then he did something I respected.
+
+He offered a race.
+
+"You and I," he said. "Through the city to the fortress road. If you win, take the silver car. If I win, you kneel before the emperor in the square."
+
+I looked at Shawna.
+
+She looked at me.
+
+"He wants your knees," she said.
+
+"Popular request."
+
+"Aiden."
+
+"My bad."
+
+I turned back to Roland.
+
+"All the cars."
+
+"One."
+
+"All forty-seven, and the drivers leave with whoever they choose."
+
+"You think very highly of yourself."
+
+"Nigga, I'm the one doing the thinking. Of course it's high quality."
+
+The drivers behind him began whispering.
+
+"That's the Monaco nigga," one said.
+
+"I know which nigga he is," another answered. "That's why I'm not betting my salary against him."
+
+"Ruin knows these roads."
+
+"Nigga, Aiden knows the gas pedal."
+
+I heard all of it. Roland heard it too. His face changed in the particular way a proud man changes when backing down becomes more embarrassing than losing.
+
+"Done," he said.
+
+The city learned about the race before we reached the starting line.
+
+People came out onto balconies. Shopkeepers rolled their shutters up. The motor-gallery drivers lined their cars behind ours, ready to follow. Zero's procession had become my audience, and the nigga on the throne had not yet been informed he was sponsoring another event.
+
+Roland chose a black machine with a red interior. I chose the Last Word.
+
+Shawna leaned through my window.
+
+"You tired?"
+
+"From loving you? Never."
+
+"From yesterday, you shameless motherfucker."
+
+I flexed my hand for her. Steady now. No blue light. No need.
+
+"I'm good."
+
+She kissed me, then looked across at Roland.
+
+"You should have asked to race me."
+
+He frowned.
+
+"Why?"
+
+"I'd have embarrassed you more politely."
+
+She walked away before he could answer.
+
+Cassius dropped the flag.
+
+We launched.
+
+Nigga, the Last Word spoke fluent violence. The engine pulled me into the seat. The gallery vanished behind us. Roland took the first turn tight, brushing the curb. I stayed beside him, close enough to see him clench his teeth.
+
+We tore down the boulevard past the fountain where his emperor's statue had drowned its dignity the morning before. People screamed my name from the sidewalks. A woman on a balcony threw a scarf. It landed on Roland's windshield. He ripped it away and threw it out.
+
+I caught it through my open window.
+
+Nigga, don't waste a gift.
+
+I looped it around the gear lever and took the next corner one-handed.
+
+Roland stared.
+
+Then he accelerated.
+
+The road narrowed into the old quarter. Gold towers gave way to sandstone walls and hanging market awnings. Our engines bounced between the buildings like thunder trapped in a beautiful argument. Ahead, a delivery truck blocked half the street.
+
+Roland went left.
+
+I went right, up a shallow flight of steps and through an empty café terrace. Chairs scattered. A waiter leaped onto a table holding a tray above his head. I came off the terrace beside Roland again, the Last Word landing hard enough to make my teeth meet.
+
+"Nigga!" the waiter yelled behind me.
+
+"Put it on my room!" I shouted back.
+
+We reached the canal road together.
+
+The dry canal ran beneath the city toward the fortress. A series of stone bridges crossed it. Roland dropped down the service ramp, tires throwing dust. I followed. The cars behind us poured into the canal like jewels spilling from a broken necklace.
+
+Then the shooting began.
+
+A black Rolls-Royce came off a side ramp ahead of us. Its rear window lowered. A gun appeared.
+
+I knew immediately the race had acquired an employee.
+
+"Roland!" I shouted through my window. "Your niggas cheating!"
+
+He looked at the Rolls, and for half a second I believed his surprise.
+
+The gunman fired at both of us.
+
+That settled it.
+
+Zero had decided losing one champion was cheaper than allowing another man to win.
+
+Roland swerved. The bullets tore into the canal wall. I swung beside him and pointed toward the next ramp.
+
+He shook his head.
+
+Proud nigga. Stupid nigga. Almost me on a worse day.
+
+The Rolls slowed to block us. Behind it, an armored truck appeared on the bridge overhead. Its guards aimed down into the canal.
+
+I grabbed the radio.
+
+"Shawna, we got company!"
+
+"I see them."
+
+Her Lamborghini came down the far ramp, blue lights flashing. She cut across the Rolls's path, forcing it toward the canal wall. The gunman turned toward her.
+
+That was his mistake.
+
+I drove alongside, opened my door, and stepped across the narrow gap onto the Rolls's running board while both cars moved beneath the bridge.
+
+Nigga, a man can learn some very unreasonable shit when he spends enough time refusing to let his wife get shot.
+
+I caught the rear window frame and shoved the gun aside. The shot went into the ceiling. The gunman tried to drag me inside. I hit him with the gold badge on my fist and pulled the weapon free.
+
+The driver looked back.
+
+"Eyes on the fucking road!" I yelled.
+
+He obeyed on instinct.
+
+For one beautiful second, the nigga kidnapping me was following police instructions.
+
+Then Roland bumped the Rolls from behind.
+
+I slammed against the door. Shawna came close on the other side. She held the Lamborghini steady while I climbed across the Rolls's hood and jumped onto her passenger seat through the open roof.
+
+I landed badly, one knee between the seats, my face almost in her lap.
+
+"Nigga," she said, "we in traffic."
+
+"I was rescuing myself!"
+
+"Then sit up like a rescued person!"
+
+Behind us, June caught the empty Last Word before it struck the wall. She had come up in the silver coupe, crossed into my car with Adrian holding her door, and taken its wheel like the two of them had rehearsed impossible shit in their sleep.
+
+"You leave my car rolling again," she shouted over the radio, "I'm charging you a babysitting fee!"
+
+"Our car!"
+
+"Nigga, not when you doing that!"
+
+The Rolls crashed into a pile of road barriers. Its gunman crawled out with both hands raised. The armored truck on the bridge tried to turn after us.
+
+Tank's Mercedes struck its rear wheel.
+
+The truck hit the parapet and stopped sideways. Tank climbed out, pointed at the guards, and looked so personally disappointed that three of them dropped their weapons before Knox even arrived to arrest them.
+
+"Y'all shooting at my breakfast delivery," he said. "Niggas got no home training."
+
+I laughed so hard I nearly missed the next turn.
+
+Roland's car limped ahead of us. Smoke came from its hood. He had taken a bullet through a tire and was fighting the wheel to keep it straight.
+
+The finish lay at the top of the fortress road.
+
+He could not reach it.
+
+He tried anyway.
+
+I watched the black car fishtail toward the ramp. Its damaged tire came apart. The car swung sideways, struck the edge of a stone drainage channel, and tipped toward the drop beyond.
+
+Shawna braked.
+
+I was already out.
+
+The black car hung with one rear wheel in the air. Roland struggled with his belt. Smoke filled the cabin. Below the edge, the canal dropped into an old pumping basin deep enough to make surviving the fall a matter for somebody else's imagination.
+
+I caught his door.
+
+"Nigga, move!"
+
+"I'm stuck!"
+
+I reached in, pulled the belt loose from the twisted seat, and grabbed his shoulder. The car shifted. Stone cracked beneath its front tire.
+
+He looked at me.
+
+For the first time since we'd met, the nigga did not look like a champion, or a guard, or a man rehearsing an insult. He looked like somebody who wanted another morning.
+
+"Aiden."
+
+"I know my fucking name. Get out!"
+
+I hauled him through the window.
+
+We fell backward as the car went over.
+
+It struck the bottom with a deep crash that seemed to come up through the soles of my shoes. Smoke billowed into the canal. Roland lay beside me, coughing, one hand still gripping my jacket.
+
+Shawna knelt beside us.
+
+"You two finished racing?"
+
+I looked at Roland.
+
+"Nigga, you want a rematch on foot?"
+
+He laughed once. Then again. A helpless, disbelieving laugh that kept turning into coughing.
+
+"You're impossible," he said.
+
+"And yet here I am."
+
+June brought the Last Word to a stop beside us. Cassius and Inez arrived behind her with the fleet. The drivers got out one by one and looked down at Roland's ruined car, then at the man I had pulled out of it.
+
+He sat up slowly.
+
+I offered my hand.
+
+He took it.
+
+"The cars," I said.
+
+Roland looked toward the fortress. At the black banners. At the guards who had fired on him as readily as they had fired on me.
+
+Then he turned toward his drivers.
+
+"The captain won."
+
+Nobody argued.
+
+Inez went to her father's car. She opened the door and sat behind the wheel. Her hands rested there for a long time before she tried the key.
+
+Cassius stood beside her, quiet again.
+
+The engine turned over.
+
+She closed her eyes.
+
+Nigga, sometimes a car is a car. Sometimes it's a room where somebody you loved is still waiting for you to remember how they laughed.
+
+She looked up at me with tears running down her cheeks and did not bother hiding them.
+
+"Thank you."
+
+"Drive it," I said. "That's what it wants."
+
+Cassius slid into the passenger seat.
+
+She smiled at him.
+
+Then she took off so fast the nigga's head hit the seat.
+
+"That is my girl!" he shouted out the window.
+
+She shouted something back that made the whole canal laugh.
+
+We brought forty-seven cars to the hotel.
+
+The owner came outside, counted until his lips stopped moving, and asked whether I wanted the adjoining courtyard opened.
+
+"Nigga, open the adjoining city. We got parking needs."
+
+Roland arrived last, riding with Knox. She had taken his gun. He had not complained. His white suit was torn and blackened, his sunglasses gone. He stood in the courtyard looking at the people who had been his enemies an hour earlier.
+
+Tank approached with a plate.
+
+"Eggs?"
+
+Roland stared.
+
+"I tried to kill your brother."
+
+"Nigga, everybody here knows somebody who tried that. You hungry or emotional?"
+
+Roland took the plate.
+
+Rosa made room at the table, not close enough to mistake him for family, but close enough to let the man eat.
+
+Shawna sat on my lap. I held her around the waist while June argued with the hotel owner about where to put forty-seven keys. Marcellus admired the Last Word's lettering again. Victor asked whether his roundabout could have one of the cars displayed in the center.
+
+I looked across at Roland.
+
+"Your emperor sends you after me again," I said, "tell that nigga to come himself."
+
+He put down his fork.
+
+"He will not come."
+
+"Then I'll visit."
+
+Roland looked at the palace above the city. His face changed.
+
+"The palace is a front room," he said. "You haven't seen where he keeps the door locked."
+
+I kissed my wife's shoulder.
+
+"Nigga, I been breaking doors since college."
+
+## 6. The Man They Put on Every Stage
+
+Shawna had sold out the Golden Arena before Zero could cancel her concert.
+
+The nigga tried anyway.
+
+At noon, a palace messenger arrived at our hotel carrying a decree. At twelve-oh-one, Rosa took it from him, read the first sentence, and handed it back folded into a paper fan.
+
+"Tell your emperor it's hot," she said.
+
+At twelve-oh-three, Mercedes posted a photograph of the fan beside the concert tickets.
+
+At twelve-oh-five, the remaining seats sold out.
+
+Nigga, even censorship was working for my wife's promotion.
+
+I found her in the ballroom rehearsing with Sable, the cellist, and three musicians Seraphine had brought from Sky High. Rosa sat at the piano. The women had taken the room from champagne to music without asking any of the armed men to have an opinion. I stood in the doorway and listened until Shawna caught me.
+
+"You hovering?"
+
+"Nigga, I'm appreciating."
+
+"Appreciate from over here."
+
+She held out her hand.
+
+I went to her.
+
+"Sing the second line."
+
+"Baby, you got professionals."
+
+"I married one."
+
+Rosa looked up from the piano.
+
+"Don't start that modest shit. You do it twice a year and nobody enjoys it."
+
+Tank appeared behind me holding a tray of drinks.
+
+"This nigga modest? Where? I wanna see."
+
+"I was being supportive," I said.
+
+"Nigga, support the melody."
+
+The pianist played the phrase again.
+
+I sang it.
+
+The room stopped.
+
+Sable lowered her violin. The music instructor took off his glasses. Tank looked from me to the ceiling like he expected somebody to explain why his brother had been hiding another fucking talent.
+
+Shawna smiled.
+
+"Again."
+
+I sang with her this time. Her voice rose over mine, bright and fierce, and I held the lower line steady beneath it. We had sung in cars, in bedrooms, over breakfast while she stole my toast. I knew how her breath moved before a high note. I knew when she would lean forward, when she would close her eyes, when she would smile halfway through a word because something in it belonged to us.
+
+That knowledge sounded different through a microphone.
+
+When we finished, the Sky High instructor sat down very slowly.
+
+"Captain," he said, "have you received formal training?"
+
+Tank answered for me.
+
+"Nigga doesn't attend classes. Classes attend him."
+
+The room broke apart laughing.
+
+Shawna kissed my hand.
+
+"You're singing tonight."
+
+"How many songs?"
+
+"One."
+
+"Nigga, I already know they gonna ask for more."
+
+"Then learn the second verse before you become difficult."
+
+Across the courtyard, June and Adrian were fitting stronger lights to the rescue vehicles. Liora stood with them, explaining the airship berths above the arena. Zero housed traveling workers in locked quarters beneath the stands whenever he wanted to make sure the show finished before anybody collected their pay. There were technicians, cooks, dancers, drivers. Grown people who had come for a contract and discovered the city treated leaving as a privilege.
+
+Tonight the arena would be full. Tonight those workers would be close to a door.
+
+I went outside and found Roland standing over Liora's sketch.
+
+Tank stood beside him with his arms folded.
+
+"This nigga tells us one lie," Tank said, "I'm making him eat the sketch."
+
+Roland nodded.
+
+"A reasonable precaution."
+
+"Don't agree so politely. Makes me suspicious."
+
+I leaned over the table.
+
+"What's the problem?"
+
+Roland pointed at the western entrance.
+
+"Anton Atlas. Zero's arena champion. He controls the lower halls."
+
+"He a lock?"
+
+"He is a very large man."
+
+"Nigga, so is Tank. I still get into the kitchen."
+
+Tank grinned.
+
+"Atlas will not leave his post while the workers remain inside," Roland said.
+
+"Then I'll move his post."
+
+Liora looked up.
+
+"Aiden, he isn't the only guard."
+
+"Good. Nigga would get lonely."
+
+Shawna joined us, looked at the sketch, and listened without interrupting. When Roland finished, she pointed at the stage entrance on the opposite side.
+
+"The musicians use this hall?"
+
+Liora nodded.
+
+"Then Sable's people can bring them through during the last song. Everybody in black stage clothes. Nobody stops a crew carrying cases while the lights are down."
+
+"The guards may," Roland said.
+
+Shawna looked at me.
+
+"That's why my husband is going to become distracting."
+
+Nigga, the room had never accused me of lacking that qualification.
+
+The Golden Arena looked like a crown laid flat on the ground. Gold arches circled a central stage. Above it, airship platforms extended from four towers. Below, a thousand doors led into corridors where Zero kept the people who made his parties possible.
+
+We arrived at dusk.
+
+The crowd knew my wife's name.
+
+Not Mrs. Aiden. Shawna.
+
+They chanted it when her car stopped. Women in blue dresses waved from the steps. Men held records and photographs. A group of singers from the old quarter had brought a banner with a painted microphone on it. Shawna looked at the crowd and went very still beside me.
+
+"Baby?"
+
+She swallowed.
+
+"They came for the songs."
+
+"Nigga, what you think you been doing all this time?"
+
+She hit my arm lightly, laughing through the sudden shine in her eyes.
+
+"You know what I mean."
+
+I did.
+
+I got out first, then opened her door.
+
+The cheering hit us like weather.
+
+A woman near the barrier began singing one of Shawna's songs. Somebody joined her. Then somebody else. My wife stood on the steps listening to a thousand strangers carry her words back to her, and I had never been more proud of anything I had failed to personally invent.
+
+"That's my wife," I told a guard.
+
+"Yes, Captain."
+
+"Nigga, I just wanted to make sure the information was circulating."
+
+He smiled.
+
+"Widely."
+
+Inside, Anton Atlas waited beside the stage doors.
+
+Roland had not exaggerated. The nigga looked like somebody had built a second man around a first man for protection. Thirty-six, according to the fight posters. Shaved head. Black suit. Hands big enough to argue with furniture.
+
+He held up one of those hands when I approached.
+
+"Performers only."
+
+I pointed at the microphone in my hand.
+
+"What you think this is? A little flashlight?"
+
+"You are not on the program."
+
+Shawna took the printed program from him, found a pen in her bag, and wrote my name beneath hers.
+
+"Now he is."
+
+Anton looked at the page. Then at me.
+
+"You think that settles it?"
+
+"Nigga, I'm married. I know when something settled."
+
+He did not move.
+
+Tank came up beside me.
+
+Anton looked at Tank.
+
+Tank looked at Anton.
+
+A whole conversation happened without words. Two very large niggas examining whether the other one was worth the trouble of taking off a jacket.
+
+"I got this," I told Tank.
+
+"I wanted some of it."
+
+"Save your suit. Rosa got pictures planned."
+
+He sighed and stepped back.
+
+Anton smiled.
+
+"The captain wants to fight?"
+
+"The captain wants to sing. You the nigga making it athletic."
+
+He took off his jacket.
+
+So did I.
+
+Somebody in the corridor shouted that Aiden was fighting Atlas. Within thirty seconds the arena camera crew had arrived, followed by three palace officials who all wanted to decide whether the fight counted as part of the show. They argued until Shawna took the nearest camera and pointed it at us herself.
+
+"It counts," she said.
+
+The big screens above the stage lit up.
+
+The audience roared.
+
+Anton heard them and grinned.
+
+"They love a champion."
+
+"Nigga, wait till they see the other one."
+
+He swung.
+
+I ducked under the punch and struck his side. The nigga barely moved. I hit him again. He caught my shoulder and threw me into a stack of padded equipment cases.
+
+The crowd gasped through the speakers.
+
+I stood, adjusted my shirt, and looked at my wife.
+
+"Sound check."
+
+She laughed.
+
+Anton came forward.
+
+This time I moved before he reached me. I stepped onto the lowest case, ran up the next two, and jumped over his reaching arm. My boot caught his shoulder. I landed behind him and drove him into the wall with every ounce of momentum I had borrowed from gravity.
+
+The wall cracked.
+
+The nigga laughed.
+
+"Good!"
+
+"Don't encourage him," Tank muttered.
+
+Anton turned and caught me around the middle. He lifted. My feet left the floor.
+
+I had one clear thought.
+
+This nigga is about to make my wife watch me become furniture.
+
+I braced my hands against the doorframe above us, pulled my knees up, and pushed off. Anton stumbled backward with me still in his arms. We hit the edge of the stage door together and burst into the arena beneath a storm of lights.
+
+The audience stood.
+
+Shawna walked onto the stage behind us carrying her microphone.
+
+"Good evening," she said. "My husband is running slightly late."
+
+Nigga, the whole arena laughed while I fought for my fucking schedule.
+
+Anton tried to turn me over his shoulder. I twisted, landed on my feet, and caught his arm. The stage beneath us vibrated with the bass line Rosa had instructed the band to start. The musicians were scoring my fistfight like I had rehearsed it.
+
+I hit Anton in the chest. Once. Twice. He swung again. I slipped inside the reach and drove upward with a punch that made his eyes widen.
+
+The giant stepped back.
+
+Another step.
+
+Then he sat down in the chair placed for the cellist.
+
+The chair broke.
+
+The arena exploded.
+
+Anton lay in the wreckage for a moment, staring up at me. I stood over him breathing hard, my shirt torn at one shoulder, my wife beside me with a hand on her hip.
+
+"You finished?" she asked.
+
+I looked at Anton.
+
+He started laughing.
+
+"Nigga," he said, "you really are that man."
+
+I offered my hand.
+
+"Been trying to tell people."
+
+He took it. I hauled him up. The audience cheered louder when he raised my arm than when I had knocked him down.
+
+Behind the stage, Tank and Liora moved through the now-unwatched corridor.
+
+Shawna touched my face.
+
+"Sing."
+
+I took the microphone.
+
+The band began.
+
+Nigga, I sang like I had not just argued with a mountain. I sang to my wife in front of the whole city. The first line came out low and steady. The second rose. When Shawna joined me, the arena changed from a place where somebody might get killed into a room where nobody wanted the night to end.
+
+Below us, Sable's people began bringing workers through the stage corridor. Black clothes. Instrument cases. Heads down, then lifting as they heard the crowd. Rosa met each group at the loading doors and sent them toward the waiting cars.
+
+I saw it from the stage in flashes.
+
+A cook gripping a violin case he did not know how to hold. A dancer carrying a cable coil like a crown. Two drivers supporting a man with a sprained ankle. Grown people moving toward an exit that finally belonged to them.
+
+Then a Black Mantle officer appeared at the corridor mouth.
+
+He raised his gun.
+
+Shawna saw him before I did.
+
+She turned the last note into a shout.
+
+"Down!"
+
+I grabbed her and dropped behind the piano as the shot cracked over the stage.
+
+The audience screamed.
+
+Anton moved.
+
+Nigga, that big motherfucker crossed the stage like a building had decided to change addresses. He struck the officer before a second shot could come. The gun flew. Tank caught the next guard coming through the door and drove him backward into the corridor.
+
+I rose behind the piano with my pistol in my hand.
+
+Shawna took the microphone.
+
+"Stay low! Follow the lights on the left!"
+
+Her voice cut through the panic. People listened because they had already spent the night listening to her. The crowd moved toward the open aisles. Seraphine appeared above the far entrance, wind holding a falling light rig away from the seats. Victor stood beside her, electricity flashing between his hands in short, controlled bursts that drove the guards off the upper walkway.
+
+I fired toward the stage door, covering Tank and Anton as they pushed the attackers back. Shawna stayed behind the piano, guiding the audience until Knox's officers reached the aisles.
+
+A palace truck crashed through the loading entrance.
+
+Then the Last Word crashed through the opposite door.
+
+June drove it onto the stage.
+
+Nigga, my car had made its concert debut before my second verse.
+
+"Get in!" she yelled.
+
+"The workers!"
+
+"Rosa has them! Get your famous ass inside!"
+
+Anton lifted the piano's fallen side panel away from Shawna. I pulled her into the car. Tank jumped onto the rear step, holding the open door as June drove us off the stage, through the loading hall, and into the cool night beyond.
+
+We emerged behind a line of buses full of the people we had come for.
+
+Rosa stood through the roof of the lead bus, waving both arms.
+
+"Everybody accounted for!"
+
+Shawna leaned against me and laughed once, breathless and shaking.
+
+"I didn't finish the song."
+
+"Nigga, you sold out the building and stole the staff. That's a strong debut."
+
+She put her forehead against mine.
+
+Behind us, the arena glowed under emergency lights. The emperor's officers ran through corridors that no longer held the people they had expected to command.
+
+Anton climbed onto the back of the bus beside Tank.
+
+The two giants looked at each other.
+
+"You hit him hard," Tank said.
+
+"He hit me harder."
+
+"Nigga, welcome to the experience."
+
+At the hotel, the rescued workers filled the courtyard with noise. Some called friends. Some cried. Some went straight to the kitchen because apparently surviving captivity did not cure a cook of wanting to inspect somebody else's stove.
+
+Shawna sat on the fountain wall. I sat beside her.
+
+A woman from the stage crew approached carrying a cracked microphone.
+
+"You left this," she said.
+
+Shawna took it.
+
+"Thank you."
+
+"My mother watched the broadcast. She said you were magnificent."
+
+My wife looked at me.
+
+I touched the cross under my torn shirt.
+
+"Runs in the family."
+
+She laughed and leaned against my shoulder.
+
+A moment later, the courtyard began singing her unfinished song.
+
+One voice. Then another. Then all those niggas, all those women, all those people who had walked through a door because she kept the city listening.
+
+She stood.
+
+I gave her the microphone.
+
+This time, nobody interrupted the last verse.
+
+## 7. A Nigga with a Train to Catch
+
+At four in the morning, Tank knocked on my door holding a wedding magazine and a shotgun.
+
+"I need your opinion."
+
+I looked from one item to the other.
+
+"Nigga, on which?"
+
+"Blue flowers or white?"
+
+Shawna rolled over beside me.
+
+"Blue," she said into the pillow.
+
+Tank nodded solemnly.
+
+"That's what I thought."
+
+He stood there another second.
+
+"Also, Zero's moving an armored train through the north quarter."
+
+I sat up.
+
+"You lead with flowers?"
+
+"Nigga, the train ain't getting married."
+
+I loved my brother so much it occasionally interfered with hating his timing.
+
+We met downstairs while the hotel slept badly around us. Last night's rescued workers occupied the spare rooms, the ballroom, and half the couches in the lobby. The owner had stopped counting guests and started introducing himself as the man who gave Aiden a place to put everybody. He looked exhausted and rich in ways he had not anticipated.
+
+Liora spread an old rail map across the breakfast table. Gideon stood behind her, rubbing his hands together. Roland leaned against the wall. Knox watched him from a chair with her coffee balanced on one knee.
+
+"The train carries the fortress payroll and the command standard," Liora said. "Zero uses it when he moves the final court from the palace into the inner city."
+
+"Command standard?" Tank asked.
+
+"A flag," Roland said.
+
+"Nigga, say flag."
+
+"It is also a ceremonial—"
+
+"A fancy flag. Got it."
+
+I looked at the map. The railway circled the city, crossed a deep ravine, and entered the fortress through a stone gate beneath its western wall. A second track branched toward an old mining quarter that had been abandoned when Zero discovered casinos made money without requiring anybody important to become dusty.
+
+"Who's on it?" I asked.
+
+Roland hesitated.
+
+"Orson Vex. Forty-five. Commander of the Black Mantle."
+
+"He impressive?"
+
+"Very."
+
+"Good. Nigga deserves a memorable disappointment."
+
+Gideon pointed at the old branch line.
+
+"The freight stop here is still open. You can reach the train before the ravine."
+
+Liora looked at him.
+
+"That stop was sealed last winter."
+
+"The lower entrance. The vehicle ramp remains."
+
+He said it quickly. Too quickly for four in the morning.
+
+I watched his finger on the map. Shawna watched his face.
+
+"How you know?" she asked.
+
+"My company serviced the line."
+
+"When?"
+
+"Recently."
+
+Nigga, recently is a word people use when dates might get them punched.
+
+I set my cup down.
+
+"We look before we leap. June, take the ridge road with Adrian. Check what you can see."
+
+Gideon swallowed.
+
+"Of course."
+
+Liora's eyes stayed on him for another moment. Then she turned back to the map. I did not like the space between them. Yesterday the nigga had held her like losing her would end the world. This morning he stood half a step too far away from her questions.
+
+We left in the Last Word, Tank's Mercedes, and two of the recovered fleet cars. Cassius drove one. Inez drove Sol de Abril, the little sun on its hood catching the dawn. She had called her father the previous night and held the phone in front of the running engine until both of them laughed too hard to speak.
+
+Some niggas send flowers home.
+
+We sent horsepower.
+
+Shawna rode beside me, wearing a dark jacket over her driving suit. She held two cups of coffee in a carrier.
+
+"You remember the last time?" she asked.
+
+"Nigga sent me a coffin."
+
+"And I saved the coffee."
+
+"Most of it."
+
+"You want to drive or argue?"
+
+"Baby, I got range."
+
+The rail line appeared beneath the cliffs as the sun rose. The train moved through a low veil of dust, black and silver, long enough to look like a road that had decided to travel. Armored cars stood on open flatbeds. Behind them came passenger coaches with dark windows. At the rear, a glass-roofed carriage held what appeared to be a garden.
+
+"This nigga got a greenhouse on his train," Tank said over the radio.
+
+"Maybe he likes tomatoes," I replied.
+
+"Zero ain't watered shit in his life."
+
+June's voice cut in.
+
+"Aiden. Freight stop's blocked. Concrete all across the ramp."
+
+I looked at Shawna.
+
+She was already looking at me.
+
+"Gideon," she said.
+
+"Later."
+
+Ahead, the old branch disappeared behind a hill. The main line continued toward the ravine. We had a narrow road beside it, an armored train gathering speed, and a nigga in our hotel who had just become more interesting than I wanted him to be.
+
+"Can we get alongside?" I asked June.
+
+"For half a mile. After that the road climbs away."
+
+"Half a mile's generous."
+
+"To who?"
+
+"Niggas with ambition."
+
+I accelerated.
+
+The Last Word caught the rear carriage just as the train reached the straight stretch. Through the glass roof I saw palms, white chairs, and a black-uniformed guard eating breakfast beneath a lemon tree.
+
+I looked at Shawna.
+
+"You take the wheel."
+
+"You take your time coming back. I'm starting to enjoy this car."
+
+We changed places while moving slowly enough for her to curse me with accuracy. Then I climbed onto the passenger window, caught the rail beside the rear platform, and pulled myself across.
+
+The guard beneath the lemon tree stared at me.
+
+I straightened my jacket.
+
+"Ticket inspection."
+
+The nigga reached for his gun.
+
+I threw a lemon at him.
+
+It struck his forehead with a sound so personally insulting that Tank laughed over the radio before I had even drawn my pistol.
+
+"Nigga got vitamin C!"
+
+I kicked the gun under a chair and put the guard against the wall.
+
+"Stay there."
+
+He stayed.
+
+Another guard came through the carriage door. I caught his wrist, turned him into the first nigga, and closed the connecting door behind both of them. Somebody began kicking it immediately.
+
+"No running between cars," I called.
+
+Shawna's voice came through my earpiece.
+
+"You enjoying yourself?"
+
+"Nigga, I paid no fare. I'm getting value."
+
+The next carriage held uniforms hanging on racks and a table covered with medals. Zero had apparently packed enough honor to decorate every nigga who remained willing to stand near him. I took a black coat off a hook and threw it over a camera above the door.
+
+A voice spoke from the ceiling.
+
+"Captain Aiden."
+
+I stopped.
+
+"Orson?"
+
+"You have entered a moving fortress."
+
+"Nigga, your moving fortress has lemons."
+
+"You will find the next carriage less accommodating."
+
+"That's what every landlord says."
+
+The door ahead slid open.
+
+Four guards waited on the other side.
+
+I dropped as they fired. Bullets tore through the hanging uniforms. Medals rang on the table. I rolled behind a trunk, fired twice toward the lights, and let the carriage plunge into strobing shadow as the damaged fixtures swung.
+
+The train leaned into a curve.
+
+The trunk slid.
+
+So did I.
+
+I hit the guards at floor level, took the nearest nigga's legs out, and rose inside their line before they could turn. My elbow struck one face. The trunk struck another. The fourth man had the good sense to throw down his weapon and raise both hands before the furniture developed further opinions.
+
+I held him against the door.
+
+"Driver. Which way?"
+
+He pointed forward.
+
+"Nigga, I worked out forward. How many cars?"
+
+"Six."
+
+"There you go. Specificity saves lives."
+
+Outside, Shawna kept the Last Word beside the train. Tank's Mercedes followed close behind. Cassius and Inez took the outer road, racing ahead toward the ravine bridge.
+
+A roof hatch opened above me.
+
+Orson Vex dropped through it.
+
+The nigga landed like he had been paid by the pound. Broad shoulders. Gray at the temples. Black gloves. A scar down one side of his face that somebody had probably admired before making a bad decision.
+
+He hit me before I could lift the gun.
+
+The pistol flew beneath a seat. I hit the wall. He came after me with a short baton, striking hard enough to split the wood beside my head when I ducked.
+
+"You have become tiresome," he said.
+
+"Nigga, I just got here."
+
+I drove my shoulder into him. We crashed through the connecting door onto the narrow platform between carriages. Wind struck us. The rails flashed below. Orson grabbed my jacket and forced me toward the side.
+
+I caught the handrail.
+
+He hit my fingers.
+
+Pain shot up my arm. I held on.
+
+Nigga, I had promises waiting in Vegas. A man does not let go of a train when his brother still needs him to stand beside the altar.
+
+I pulled Orson close and drove my forehead into his face.
+
+He staggered.
+
+I did it again.
+
+The nigga let go of my jacket.
+
+I climbed the ladder to the roof because every sensible exit was currently occupied by somebody trying to kill me. Orson followed. We came up into the dawn with the whole train stretching ahead and the ravine opening beyond it.
+
+Below, Shawna looked up.
+
+"Aiden!"
+
+"Busy!"
+
+"Bridge!"
+
+I turned.
+
+The railway bridge rose between two cliffs. On its far side, the fortress guns pointed toward the track.
+
+Orson smiled through the blood on his lip.
+
+"You should have trusted your host."
+
+Nigga, there it was. Gideon's little freight-stop mistake had not been a mistake. The train had been waiting for me to climb aboard before taking me somewhere that would enjoy my arrival too much.
+
+I looked down at Shawna.
+
+She understood from my face.
+
+"Get off!"
+
+Orson swung at me.
+
+I caught his arm, turned with the train's sway, and drove him onto his back. His baton skidded along the roof. He rolled, caught it, and came up again.
+
+The road beside the train began climbing away.
+
+My wife had seconds before the gap became too wide.
+
+I could fight this nigga until the fortress killed both of us. I could jump and leave our people below facing a train full of guns. Or I could spend the thing I had been saving.
+
+Blue light flashed between my fingers.
+
+Orson saw it.
+
+For the first time, the nigga stepped back.
+
+"There he is," I said.
+
+The charge ran through my body in one hard burst. The world sharpened. Wind slowed enough for me to see dust spinning above the roof. I moved past Orson's strike, caught his shoulder, and threw him across the roof into a raised hatch.
+
+Metal buckled.
+
+He went down and stayed down, breathing hard, his baton gone.
+
+I staggered.
+
+The blue light vanished.
+
+My hands shook.
+
+Shawna brought the Last Word onto a rising bank beside the track. She was higher now, almost level with the carriage roof. I saw her mouth move.
+
+Jump.
+
+I jumped.
+
+Nigga, the space between a train and the woman you love is long enough to reconsider every fucking decision that led to it.
+
+I hit the passenger seat shoulder-first. Pain flashed white. Shawna caught my collar with one hand and kept the car straight with the other.
+
+"Inside!"
+
+"Working on it!"
+
+She pulled. I folded into the car. The Last Word dropped off the bank and landed on the road with a violent bounce.
+
+Behind us, Orson's train entered the bridge.
+
+Ahead, Cassius and Inez had reached the old signal tower. June stood beside them waving both arms. Liora's second message had come through: an emergency siding remained open before the fortress gate, leading into the abandoned quarry instead of the inner city.
+
+We did not touch the railway machinery ourselves. A railway worker from the arena crew had come with Knox, a grown man who knew the line and had spent six years hating where it took him. He stood inside the tower now, making his own decision about which master would receive the morning train.
+
+The points changed.
+
+The train turned away from the fortress.
+
+Orson saw it too late.
+
+The locomotive thundered into the quarry, slowed against the rising track, and struck the old sand stop hard enough to throw dust over every carriage. The glass garden roof burst. Lemons flew into the dawn.
+
+Tank stared.
+
+"Nigga, you derailed breakfast."
+
+"The train stopped," I said. "Breakfast made its own choices."
+
+Knox's officers surrounded the carriages. Guards emerged coughing, their hands raised. Orson came out last with two men helping him. He looked at me sitting on the Last Word's hood with Shawna holding a cold bottle against my shoulder.
+
+"You cannot keep winning," he said.
+
+I looked around at my friends, the captured train, the payroll crates, the ridiculous black-and-gold flag hanging out of a broken window.
+
+"Nigga, the evidence is getting inconvenient for you."
+
+Knox took him away.
+
+Tank climbed into the command carriage and returned carrying the emperor's standard. He held it up, considered the design, and turned it upside down.
+
+"Rosa could make this into tablecloths."
+
+"Don't disrespect the wedding," Shawna said.
+
+He lowered it immediately.
+
+Inside the train, we found money, weapons, food, uniforms, and people who had expected to spend the rest of the week inside Zero's last locked room. We took the prisoners back under guard. We took the workers back with breakfast. We took the money because, nigga, I had never claimed to be above a profitable rescue.
+
+By the time we reached the hotel, my shoulder ached and my hands had steadied enough to hold a cup.
+
+Gideon waited in the courtyard.
+
+Liora stood beside him.
+
+She looked at the dust on our cars, the captured guards, the way Shawna helped me out without making it look like help.
+
+Then she looked at the man she had planned to marry.
+
+"You told them the stop was open."
+
+Gideon said nothing.
+
+Tank shut the Mercedes door very softly.
+
+Nigga, I had heard him slam it during gunfights. The soft sound worried me more.
+
+I walked toward Gideon with my wife's hand still in mine.
+
+"Come upstairs," I said.
+
+"Captain—"
+
+"Nigga. Upstairs."
+
+The courtyard went quiet around us.
+
+For the first time since we had entered the Last City, the danger was already inside the hotel.
+
+## 8. The Night They Burned My Hotel
+
+Gideon Gold sat in a velvet chair while Tank stood behind it, and I could see the nigga considering whether velvet might be strong enough to hide inside.
+
+Liora stood by the window. She had taken the ring off the chain around her neck and held it in her closed hand. Shawna sat beside me. Knox waited near the door. Nobody had raised a voice yet.
+
+That frightened Gideon more than shouting would have.
+
+"I made a mistake," he said.
+
+"Nigga, a mistake is ordering fish at a gas station," Tank replied. "You put my brother on a train with a professional murderer."
+
+Gideon looked at me.
+
+"Zero said he would detain you."
+
+"And you believed that nigga?"
+
+"He promised Liora safe passage. He promised my properties would be restored."
+
+Liora opened her hand.
+
+The ring lay in her palm.
+
+"Your properties."
+
+"For us."
+
+"Don't put me inside that sentence."
+
+The room went still.
+
+She set the ring on the mantel. Carefully. No dramatic throw, no glitter flying across the carpet. She placed it there like an object whose purpose had ended.
+
+"You had me," she said. "I was here. I was standing beside you. What else did you think a palace could give you?"
+
+Gideon's eyes filled.
+
+I did not enjoy it. Nigga, I had watched enough people cry to know tears were not a receipt for being right.
+
+"Who contacted you?" I asked.
+
+He wiped his face.
+
+"A courier. Last night. After the concert."
+
+"What you tell him besides the train route?"
+
+He said nothing.
+
+Tank put one hand on the chair's back. Wood creaked beneath the velvet.
+
+"Nigga."
+
+"The hotel arrangements," Gideon whispered. "Which floor. The courtyard exits. Where the crown is kept."
+
+Shawna stood.
+
+I was already moving.
+
+The first explosion struck the hotel's north wall before we reached the door.
+
+The room flashed orange. Glass burst inward. Tank caught Liora and dragged her down. I pulled Shawna behind the sofa as plaster rained across the carpet. Somewhere below us, people screamed.
+
+For one second I heard nothing but a high ringing in my ears.
+
+Then the hotel alarm began.
+
+Nigga, Zero had learned the wrong lesson from my rescuing people. He thought if he put enough of them in danger at once, I would have to choose which ones mattered.
+
+I got up with my gun in my hand.
+
+"Knox! Take Gideon. Don't let him near a fucking window!"
+
+"Understood!"
+
+"Tank, get everybody moving! South stairs!"
+
+"On it!"
+
+Shawna caught my arm.
+
+"Marcellus."
+
+We ran.
+
+The corridor filled with smoke from the north wing. Guests came out in robes, evening clothes, half-packed confusion. Rosa moved against them, guiding people toward the safe stairwell with the same voice she used to tell musicians they were playing the wrong song.
+
+"South stairs! Keep moving! Shoes can be replaced! Your ass cannot!"
+
+Mercedes carried the little dog under one arm and two gun cases under the other. Porsche helped a shaken violinist wrap a wet towel around her face. Magnolia came down the corridor with her cane and the hotel owner beside her.
+
+"Bernard," she told him, "if you apologize for the inconvenience, I will strike you."
+
+The owner shut his mouth.
+
+I liked that woman more every time she threatened somebody.
+
+Marcellus's door stood open.
+
+Inside, he was putting the Crown of Midnight into its case. The old nigga had smoke around his ankles and was still handling the jewel like haste might offend its maker.
+
+"Marcellus!"
+
+"I am coming."
+
+"Nigga, the hotel is actively leaving without us!"
+
+He closed the case, picked up the small pouch containing Blue Mercy, and looked around once.
+
+"Celeste's letter."
+
+Shawna found it beside the lamp. She slipped it into his coat and took his arm.
+
+"We have it. Let's go."
+
+Another explosion shook the building.
+
+The lights went out.
+
+For a moment the only light came from the burning wing at the corridor's far end. Then emergency lamps flickered red along the floor.
+
+I looked through a broken window into the courtyard.
+
+Black Mantle trucks stood outside the gates. Men fired toward the hotel doors. Our cars were moving, one after another, drivers pulling them out of the north side before falling debris could trap them. June stood on the fountain wall directing traffic with a flare. Adrian drove a bus full of rescued workers toward the south exit.
+
+The niggas had brought a war to a hotel full of people who had spent the last three days rehearsing survival together.
+
+They were about to discover the difference.
+
+Shawna took Marcellus toward the stairs.
+
+I covered them until they reached Tank.
+
+Then a scream came from the north corridor.
+
+I turned.
+
+A housekeeper stood beyond a fallen beam, holding another woman's arm. Both were grown. One had blood running from a cut above her eye. Behind them, fire licked up the curtains.
+
+"Aiden!" Shawna called.
+
+I looked back.
+
+She saw them.
+
+Then she nodded.
+
+Nigga, she knew who she had married. Not because I was good. Because once I saw somebody reaching, I could never pretend my hands were empty.
+
+I ran toward the beam.
+
+Heat struck my face. The wood lay diagonally across the corridor, one end buried in a wall, the other resting on a crushed service cart. I tried lifting it. Pain tore through my shoulder. The beam moved an inch and settled back.
+
+Blue light did not come.
+
+I had spent it on the train. My body had nothing left to lend me.
+
+"Nigga," I muttered, "we doing this regular."
+
+I put my back beneath the higher end and pushed.
+
+The wood creaked.
+
+The women crouched.
+
+I pushed harder. Every muscle in my legs shook. The old scar in my side pulled tight. Smoke filled my mouth. I heard one woman coughing as she crawled under, then the second.
+
+The beam slipped.
+
+I caught it on my shoulder and felt the whole world narrow to one bright point of pain.
+
+Then enormous hands closed around the wood beside me.
+
+Anton Atlas lifted.
+
+The beam rose.
+
+"Move," he said.
+
+I moved.
+
+He dropped it behind us and lifted the injured woman into his arms. I helped the other one walk. We reached the safe stairs with smoke following close behind.
+
+"Nigga," I gasped, "you ever think about furniture delivery?"
+
+Anton looked at me.
+
+Then he laughed so hard he had to adjust the woman in his arms.
+
+"Only if you stop breaking the buildings first."
+
+At the foot of the stairs, Knox's officers formed a line across the lobby. Tank stood in the center with a shotgun. Rosa reloaded behind the reception desk. The piano had been pushed against the doors as a barricade, and Sable sat behind it holding a pistol like she had found a new string instrument she strongly disliked.
+
+I looked at Tank.
+
+"Everybody out?"
+
+"South wing clear. June's got the buses. Victor and the dean checking the roof."
+
+"Shawna?"
+
+"With Marcellus. Crown's safe. Letters safe. Old nigga worried about his good shoes."
+
+"Then he good."
+
+A burst of gunfire shattered the lobby chandelier.
+
+Crystal rained over the floor.
+
+Tank ducked, then looked up at the ruined fixture.
+
+"Niggas keep shooting the fancy shit."
+
+I went to the doorway beside him.
+
+Across the courtyard, a black armored car idled behind the attackers. Emperor Zero stood through its roof, watching his men fire into our hotel. At last the nigga had come himself. He wore a long black coat and no expression at all.
+
+I stepped into view.
+
+Our eyes met across the fountain.
+
+He lifted one hand.
+
+The guards aimed at me.
+
+I fired first.
+
+The shot struck the edge of the armored car's roof. Zero dropped inside. Tank fired beside me. Two guards fell back. Knox's officers joined, forcing the attackers behind their trucks.
+
+Then Shawna drove the Last Word into the courtyard from the south passage.
+
+Blue police lights cut through the smoke. June rode beside her, firing toward the trucks. My wife swung the car between the fountain and the lobby steps, putting its armored side between the doorway and Zero's men.
+
+"Get in!" she yelled.
+
+"The others!"
+
+"Moving! Get in, nigga!"
+
+Tank pushed Rosa into the back. I helped Sable in beside her. Anton climbed onto the running board, one hand braced against the roof. The nigga made the car lean. June looked at him.
+
+"You're affecting my suspension."
+
+"I apologize."
+
+"Don't be polite. It confuses me."
+
+I got into the passenger seat as June moved to the rear. Shawna drove before I had closed the door.
+
+We tore across the courtyard.
+
+Zero's car backed toward the gate. I fired through the window, forcing its driver to turn sharply. The armored car struck a fountain pillar, recovered, and sped out into the street.
+
+The emperor looked back at me through the rear glass.
+
+I held his gaze until smoke hid him.
+
+Nigga, there are promises a man makes out loud because people need to hear them. There are others he makes so quietly the whole world has to wait to learn what happened.
+
+I made one then.
+
+We regrouped at June's old garage outside the city wall.
+
+The place was smaller than the hotel, dusty, crowded, and still standing. Adrian had brought the buses through first. Workers sat on tool chests and folding chairs, wrapped in blankets. The housekeepers I had helped were with Vega. Magnolia held Bernard's hand while he stared toward the smoke rising above his hotel.
+
+I went to him.
+
+"We'll rebuild it."
+
+He shook his head.
+
+"Forty years."
+
+"I know."
+
+"My wife chose the courtyard trees. She died before the second one flowered."
+
+Nigga, I had come ready to promise money. The man had handed me something money could only stand beside.
+
+I sat next to him on an overturned crate.
+
+For a while neither of us spoke.
+
+Then Shawna came over carrying a small clay pot.
+
+Inside was a young palm shoot, its leaves dusty but green.
+
+"June took it from the courtyard," she said. "It was by the kitchen door."
+
+Bernard touched one leaf with his fingertip.
+
+His face crumpled.
+
+Magnolia put an arm around him.
+
+I looked toward June. She stood beside Adrian pretending very hard to inspect a wheel.
+
+"Nigga," I whispered, "that's a good mechanic."
+
+Shawna leaned against me.
+
+"I know."
+
+Across the garage, Knox brought Gideon out of a locked office. His wrists were restrained. Liora stood several feet away, wearing a blanket over her shoulders. She did not go to him.
+
+He looked at the smoke beyond the ridge.
+
+"I didn't know."
+
+Tank took one step forward.
+
+I put a hand against his chest.
+
+"I got it."
+
+Gideon's eyes came to me.
+
+"Captain, I swear—"
+
+"Nigga, stop offering me your word. You spent it."
+
+He lowered his head.
+
+Knox took him back inside. He would leave with her officers when the road was safe. He had sold our rooms, our people, and the place where an old man remembered his wife. I did not need to shoot him to make what he had done remain true.
+
+Liora watched the office door close.
+
+Then she turned to June.
+
+"You still need somebody who can fly an airship?"
+
+June smiled.
+
+"Nigga, we got a whole roof full of needs."
+
+By sunset, the garage had become our last camp.
+
+Cars stood in rows beneath the desert sky. The recovered fleet glittered beside buses and police vehicles. Sky High instructors helped mechanics hang lights. Sable and her sister played quietly near the medical tables. Rosa handed out food. Tank sat beside her whenever she stopped moving long enough to permit it.
+
+Marcellus opened the Crown's case once, checked the jewel, then closed it and put it beneath his chair.
+
+"Still beautiful?" I asked.
+
+"Of course."
+
+"Nigga, you could compliment me that confidently."
+
+He looked up through his glasses.
+
+"I engraved your car, young man. I am ahead of the conversation."
+
+I laughed.
+
+Roland came to stand beside me at the garage doors. Beyond the dunes, the Last City's inner fortress glowed red under the evening lights. Zero had retreated there after the hotel attack. The outer palace stood dark now, a beautiful empty shell.
+
+"There is a ceremonial road through the western gorge," Roland said. "The emperor uses it when he wishes to be seen by his army."
+
+"Wide enough for cars?"
+
+"Wide enough for all of yours."
+
+I looked at the rows behind me.
+
+"Nigga, think carefully about that answer."
+
+He almost smiled.
+
+"Most of yours."
+
+Shawna came to my side. Her dress from the emperor's dinner was gone, burned somewhere in the hotel. She wore a borrowed shirt, my ring, Dante's watch, and dust on one cheek.
+
+She looked more like my future than any palace ever had.
+
+"When?" she asked.
+
+I watched the fortress lights.
+
+"Tomorrow."
+
+Tank joined us. Then Rosa. Then, without anybody calling them, the others came toward the garage doors. Cassius and Inez. Victor and Seraphine. Knox. Mercedes and Porsche. June and Adrian. Liora, Sable, Magnolia, Bernard. Marcellus carrying his case.
+
+All those people. All those lives. Nigga, every road I had driven had brought somebody here.
+
+I turned toward them.
+
+"Get some sleep."
+
+Tank looked at the fortress.
+
+"And tomorrow?"
+
+I took my wife's hand.
+
+"Tomorrow that nigga finds out who came to the city."

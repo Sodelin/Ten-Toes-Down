@@ -1675,3 +1675,1531 @@ By midnight, seven had pledged themselves to me.
 Rusk wrote the last name with a bandage around his hand and a new expression whenever he said Captain.
 
 Nigga, sometimes all you have to do to improve a party is save everybody at it.
+
+## 5. The Nigga on the Hood Was Me
+
+"That nigga left us seven cars."
+
+Tank stood in the hotel garage staring at the keys in his hand.
+
+"Which nigga?" I asked.
+
+"All the niggas. Every house you saved last night sent a car."
+
+"See, nigga? That's gratitude with tires."
+
+There was a yellow Ferrari, a blue Aston Martin, a white Lamborghini, a black Rolls-Royce, two Bentleys, and something low and silver that looked like it had been designed by a man who hated speed limits personally.
+
+Porsche walked between them in a white jacket and stopped beside the silver one.
+
+"That one's mine."
+
+"Your name ain't on it," Mercedes said.
+
+"Neither is yours."
+
+"Nigga, her name is Porsche," Tank told me. "She gonna keep doing this forever."
+
+"Let her. We got enough cars to make a point slowly."
+
+Marcellus came down the stairs carrying the silver invitation case. He looked tired, but not worried. A jeweler who had spent his life around criminals learns there are too many opportunities to worry and not enough hours to do all of them properly.
+
+He set the case on the hood of the Rolls.
+
+"The seal is genuine."
+
+"Good. I rescued it dramatically. I'd hate to have done that for a fake."
+
+"It belonged to the old royal household. The underside shows part of the Crown's setting."
+
+I leaned closer.
+
+"Worth something?"
+
+"The Crown itself is worth a fortune. What it proves may be worth more."
+
+"Nigga, everybody keep telling me something worth more than money. Then they ask for money."
+
+Marcellus smiled.
+
+"This may be one of the rare exceptions. The stones were arranged to identify the family's private books. The Crown was a key in the ordinary sense: a recognized object, a pattern, a claim. Men trusted the bearer enough to open doors."
+
+"And Zero wants the books."
+
+"He wants everyone to believe he already controls them."
+
+Shawna came down wearing jeans, a silk shirt, and my chain over her own necklace because she'd decided it looked better that way. The DBM cross lay against her chest. Nigga, I would've let her take my spine if she wore it that confidently.
+
+"What are we doing today?"
+
+"Bastien says he got something to show Marcellus."
+
+"Then I'm driving."
+
+Tank looked at me.
+
+I looked at Tank.
+
+"Nigga," he said carefully, "you gonna let somebody else drive one of the seven cars you just got?"
+
+"That's my wife."
+
+"I know who the nigga's wife is. I'm asking if the nigga knows who usually drives."
+
+Shawna took the Aston Martin keys out of his hand.
+
+"Today the woman who hasn't crashed a Ferrari in this country."
+
+"You helped crash both of them," I told her.
+
+"And I looked gorgeous. Imagine what I can do with the wheel."
+
+We left in three cars. Shawna and me in the Aston. Marcellus with Mercedes and Porsche in the Rolls. Tank and Rosa in the Lamborghini, because Rosa said her fiancé deserved something pretty enough to distract people from his driving.
+
+The coast road curved along the city's old walls. Sea below. Mansions above. Little cafés filled with men who had probably spent their whole lives looking important in the same chair. Every time we passed, somebody stood to wave.
+
+"That nigga know us?" I asked.
+
+Shawna glanced at a man holding up a newspaper with my face on it.
+
+"Apparently."
+
+"Nigga waving like I paid his rent."
+
+"You wrecked his landlord's house last night."
+
+I leaned out the window and waved back harder.
+
+Bastien's address was an old observatory above the harbor. The road narrowed as we climbed. A stone wall ran along one side, and on the other was enough empty air to make a man reconsider how much he trusted his wife.
+
+I trusted mine plenty.
+
+"You taking this corner kind of beautiful," I told her.
+
+"Don't flirt when I'm concentrating."
+
+"Nigga, you married a distraction."
+
+The first black motorcycle appeared behind us just before the observatory gates.
+
+Then another.
+
+Then a van blocked the road ahead.
+
+Shawna saw it before I said anything. Her hands tightened, the car slowed, and the look on her face changed from vacation to somebody about to regret interrupting her outfit.
+
+"Aiden."
+
+"I see them."
+
+"I'm not asking. I'm telling you to buckle your greatness down."
+
+The van doors opened.
+
+She reversed so fast my shoulders hit the seat before the gunfire started.
+
+"Nigga!"
+
+"You told me I was beautiful on corners!"
+
+The Aston swung backward around the bend. A motorcycle came too close. I fired through the open side window and the rider dropped behind his handlebars. The bike hit the wall and scraped along it in a shower of sparks.
+
+Behind us, Tank put the Lamborghini sideways across the road, blocking the second motorcycle from reaching the Rolls. Rosa leaned out and threw a full bottle of mineral water at the rider's face.
+
+"Nigga, that was glass!" Tank shouted.
+
+"I read the label!"
+
+The rider went down. The bottle did too. Rosa looked genuinely offended by the waste.
+
+Shawna turned us at a little overlook no wider than the car. The Aston's back tires hung close enough to the edge that I saw the sea in the side mirror where road should've been.
+
+"Baby."
+
+"Trust me."
+
+"Nigga, I'm married to you. That's documented."
+
+She put the car forward and shot through the gap between the van and the stone wall. Metal shrieked along our side. I fired toward the men crouching behind the open doors. One dropped his gun. Another jumped away so fast he left a shoe.
+
+We cleared the van and reached the observatory gates.
+
+They were already open.
+
+Inside, Bastien stood on the steps with a pistol in his hand and a fallen man at his feet. Three more attackers moved between the garden statues. The old nigga had his jacket off, and there was nothing tired about him now.
+
+Shawna braked beside the steps.
+
+"Get him!"
+
+I was out before the car stopped.
+
+One attacker turned from Bastien toward me. I hit him across the face with the door. The second tried to come around a statue and discovered Tank had arrived behind us with a very personal opinion about statues being in his way.
+
+The stone saint lost an arm.
+
+The attacker lost interest.
+
+Bastien covered Marcellus while Mercedes and Porsche got him into the observatory. Rosa followed carrying a bag of medical supplies she'd started keeping after realizing our vacations required them.
+
+A black SUV burst through the lower gate.
+
+Its passenger leaned out with a gun aimed at Shawna's window.
+
+Nigga, there are some sights that make thought too slow to bother with.
+
+I ran across the garden, stepped onto the broken base of the saint, and threw myself onto the SUV's hood.
+
+My body struck metal hard enough to knock the breath out of me. I caught the edge near the windshield with both hands. The driver screamed. The passenger twisted toward me, but he couldn't get the angle before I kicked the weapon away.
+
+The SUV kept going.
+
+Straight down the slope.
+
+"AIDEN!"
+
+That was Shawna.
+
+Then the Aston's engine rose behind us.
+
+Nigga, my wife came after me like the whole road had insulted her marriage.
+
+The driver swerved. I held on. The hood was hot beneath my chest. The city flashed past sideways. My shoes dragged at the edge of the windshield, and the passenger kept trying to pull me through the broken side of his own problem.
+
+"Get off!" he shouted.
+
+"Nigga, stop the car!"
+
+"Get off the car!"
+
+"Stop giving me travel advice while you kidnapping my ass!"
+
+Shawna drew alongside. The road barely held both vehicles. Her window was down. Her hair whipped across her face.
+
+"Come here!"
+
+"You sound like we in the kitchen!"
+
+"Then move like you're hungry!"
+
+The SUV hit a pothole. My grip slipped. For one second I saw nothing beneath me but moving road and my own hands failing to agree about staying attached.
+
+I called a little blue thunder.
+
+Not enough to turn the car into lightning. Enough to wake every tired nerve at once. Enough to pull myself across the hood as Shawna matched our speed.
+
+I jumped.
+
+My shoulder struck the Aston's roof. I slid, caught the open passenger window, and folded into the seat with less dignity than a king should legally be allowed to carry.
+
+Shawna didn't look away from the road.
+
+"You good?"
+
+I tried to answer and swallowed half my breath instead.
+
+"Nigga, I'm excellent."
+
+"You bleeding on the seat."
+
+"Excellence leaks."
+
+She laughed once, wild and furious and relieved, then turned the wheel so sharply the SUV driver followed by instinct and ran out of road before he ran out of confidence.
+
+His vehicle crashed through the low wall into an empty terrace café.
+
+Tables flew. An umbrella opened in the middle of the wreck like somebody still hoped it would be a pleasant afternoon.
+
+The SUV stopped against a fountain.
+
+Water shot into the sky.
+
+The owner came out holding a broom, saw me getting out of the Aston, and put the broom down.
+
+"Captain?"
+
+"Charge it to the niggas in the fountain."
+
+Ardent's police arrived almost as fast as the crowd.
+
+He looked at the destroyed SUV, my torn shirt, Shawna calmly checking her lipstick in the passenger mirror, and the Aston missing half its beautiful paint.
+
+"Another attack?"
+
+"No, nigga. I was trying a new taxi."
+
+His younger officers laughed before remembering they were on duty. One of them stepped close enough to see the badge.
+
+"They said you rode the hood all the way from the observatory."
+
+"They talk fast in this city."
+
+"My brother saw you from his balcony. He said no one could survive that."
+
+I put a hand on the officer's shoulder.
+
+"Tell your brother to get a better view next time."
+
+Shawna took my other arm before I could turn a torn shirt into a full speech.
+
+"Come on, greatness. Somebody needs to clean your elbow."
+
+Back at the observatory, Bastien had set his pistol beside a telescope and returned to looking like a man who might recommend a quiet book.
+
+Rosa was wrapping Tank's knuckles.
+
+"You hit a statue."
+
+"Nigga was behind it."
+
+"The statue didn't know that."
+
+"It know now."
+
+Mercedes and Porsche had found the attackers' discarded coats. In one pocket was a black invitation stamped with Zero's private crest. In the other was a portrait photograph of Bastien taken through a window.
+
+"They came for you," I said.
+
+Bastien looked at the photograph without surprise.
+
+"They have been coming for what I remember for sixteen years. Today they grew impatient."
+
+He led us upstairs into a round room beneath the old telescope dome. Sunlight came through a narrow opening and fell across a wooden chest. No gold case. No dramatic locks. Just a chest somebody had cared enough to repair more than once.
+
+Bastien opened it.
+
+Inside lay a woman's red coat, carefully folded, and a letter tied with blue thread.
+
+Vesper arrived while he was lifting the coat.
+
+I hadn't heard her car. I only noticed the room change when she entered.
+
+"You brought them here," she told Bastien.
+
+"Yes."
+
+"You promised me you would keep it safe."
+
+"I did."
+
+"This is not safe."
+
+The old man looked at her for a long time.
+
+"Neither is letting you spend the rest of your life protecting the man who took yours away."
+
+Vesper's face lost its color.
+
+Outside, police radios crackled. Somebody moved the wrecked car at the gate. The whole city kept going while a room full of people waited for one woman to decide whether she could bear hearing what she'd suspected.
+
+Shawna sat beside her without asking.
+
+Vesper didn't move away.
+
+Bastien unfolded the letter.
+
+"Eliane wrote this the night before the harbor burned," he said. "She believed I would be angry with her. For sixteen years, that has been the part I cannot forgive myself for."
+
+I sat on the edge of a table, my scraped elbow wrapped, my wife's hand reaching back to find mine.
+
+"Tell it straight," I said. "All of it."
+
+Bastien looked down at the red coat.
+
+And the old nigga began.
+
+## 6. The Woman in the Red Coat
+
+"Before he tells you," Vesper said, "I need you to know that Nico wasn't brave in the way this city remembers him."
+
+Bastien lowered the letter.
+
+She sat with her hands flat on her knees. No queen pose. No glass held just so. Her fingers trembled, and she was angry enough about it that I looked at her face instead.
+
+"They put him on statues with a sword," she said. "He hated swords. He cut his thumb opening a parcel once and accused the paper of treason."
+
+Tank made a small sound.
+
+Rosa nudged him.
+
+"I liked the nigga," Tank said. "That's a good accusation."
+
+Vesper smiled without meaning to.
+
+"The last afternoon I saw him, he arrived at this observatory carrying a live chicken."
+
+I blinked.
+
+"A whole chicken?"
+
+"He had won it in a wager and couldn't bear to send it to the kitchens. He named it Admiral."
+
+"Nigga promoted the chicken."
+
+"Very rapidly."
+
+She looked toward the balcony, and I followed her eyes until I could almost see the younger woman standing there: twenty-one, waiting for a prince she loved, trying to look disappointed when he brought the wrong kind of present.
+
+Vesper told us how Nico had climbed the stairs with the bird under one arm and a stolen orange in his pocket. Real stolen fruit that time. Apparently he had decided his reputation needed work.
+
+He'd put the chicken on the table. It had knocked over a vase. Vesper had told him that if their married life involved poultry on the furniture, she expected at least a larger house.
+
+"He said he would buy me the sea," she told us.
+
+"Ambitious nigga," I said.
+
+Shawna glanced back at me.
+
+"You gave me an island. Don't act unfamiliar."
+
+"Baby, I won that efficiently."
+
+Vesper laughed again, and the sound hurt her afterward. I saw it. The little pause before she could keep going.
+
+Nico had been due at the harbor that evening. His father, King Adrien Valcour, was meeting merchants aboard the royal ship. The Crown of Midnight would travel with him, because even a man going to discuss cargo apparently needed to look like he owned the moon.
+
+But Nico didn't want to go.
+
+He wanted to stay at the observatory. He wanted to eat the orange with Vesper and explain why Admiral had already earned an upgrade in rank. He wanted, in the plain stupid beautiful way men sometimes want things, one evening that didn't belong to his name.
+
+"I told him to go," Vesper said.
+
+Shawna's hand moved over hers.
+
+"You didn't know."
+
+"I know that now. I have known it for years. Knowing has never made the sentence less true."
+
+Bastien stared at the letter. His face looked older than it had when he was fighting men outside his own door.
+
+Vesper continued.
+
+Nico had kissed her at the gate. Then he'd come back because he forgot the chicken. Then he'd come back again because she had laughed at him, and he wanted another kiss while she was still laughing.
+
+"That's the last one," she said. "Everybody expects the last kiss to announce itself. It was quick. I was holding a ridiculous bird. I remember being worried about my sleeve."
+
+Nobody spoke.
+
+Then Bastien turned the letter over.
+
+"Eliane was with the king that night," he said.
+
+His voice sounded different when he said her name. Not weaker. More careful. Like he had been carrying it a long way and didn't want anybody to think he was tired of the weight.
+
+He was fifty-two then. Eliane was forty-four. She made gowns for the court and costumes for the opera, and according to Bastien she could tell what a person feared by looking at what they wore to dinner.
+
+"What would've she said about me?" I asked.
+
+He looked at my white shirt, torn at one shoulder, my badge, the ring on my hand.
+
+"That you wanted everyone to know who had chosen you."
+
+Shawna turned all the way toward me.
+
+Nigga, the old man had gone straight through the shirt.
+
+"Aight," I said. "She was talented."
+
+Bastien and Eliane had been together seven years. Never married. He'd asked. She'd said yes, then asked him to choose a month when nobody planned to kill the king. He kept telling her next spring.
+
+Seven springs.
+
+"I thought there would always be another," he said.
+
+The afternoon before the fire, Eliane had come to his rooms wearing the red coat. She had sewn it herself, crooked on purpose at one pocket because he had once teased her about making everything too perfect to touch.
+
+She'd brought him bread and a little cheese, and she'd been angry.
+
+He remembered the bread first. That was what he told us. The smell of it. Warm enough to fog the paper. Every time he tried to remember her voice exactly, the bread arrived before the words.
+
+"You are leaving again," she'd told him.
+
+"The king needs me."
+
+"The king has thirty guards. I have one fool, and he is late."
+
+"Tomorrow."
+
+"You love that word."
+
+He had tried to kiss her. She'd turned her face, then caught his hand before he could mistake anger for an invitation to leave.
+
+"Bastien, listen to me. Rafael has been moving the household accounts."
+
+Rafael Sorel.
+
+The man the city would later call Emperor Zero.
+
+At thirty-six he had been the king's favored minister, handsome enough to be welcome in rooms where his family name wouldn't have got him past the stairs. He smiled well. He remembered birthdays. He never raised his voice at servants where anybody could hear.
+
+"The nigga was practicing," Tank said.
+
+Bastien nodded once.
+
+Eliane had been altering a coat for Rafael when she found a folded instruction beneath the lining. Not a murder confession sitting politely in a pocket. A shipping order. A list of names. A date. The kind of thing a seamstress was expected to return without reading because a man who wore a crown nearby assumed every other person was scenery.
+
+But Eliane recognized three names.
+
+Men who had already disappeared.
+
+She had made clothes for their wives after their funerals.
+
+"She asked him about it?" Rosa said.
+
+"No. She copied what she saw. Then she hid the copy where she believed he would never look."
+
+Bastien touched the red coat.
+
+"On a woman he thought beneath notice."
+
+Marcellus leaned forward, studying the embroidery at the cuff.
+
+"Those are account marks."
+
+"Yes."
+
+I looked at the little silver stitches. They had seemed like flowers a moment earlier. Now they looked like a woman daring a whole kingdom to learn how to see.
+
+"Nigga," I said softly. "She wore the evidence."
+
+Eliane had come to Bastien with enough to make him doubt Rafael, but not enough to make him accuse the king's favorite in public. Bastien had served Adrien Valcour for twenty-eight years. He knew the king was vain, generous when watched, cruel when frightened, and devoted to his son in a way that sometimes looked like trying to own the air around him.
+
+He also knew Rafael had become necessary.
+
+Necessary men are dangerous when you discover you can live without them.
+
+Bastien had told Eliane to wait.
+
+"One evening," he'd said. "After the harbor meeting, I will take this to the king."
+
+She had looked at him for a long time.
+
+Then she'd kissed him.
+
+Not because she agreed.
+
+Because she had already decided to do something else.
+
+Vesper got up and walked to the balcony. Shawna followed, stopping beside her without saying anything. I could see both women's reflections in the old glass, the living one holding a ring from her first marriage on a chain beneath her shirt, the queen holding nothing where a ring had used to be.
+
+Bastien read the letter aloud.
+
+*My stubborn love,*
+
+*You will be angry that I went without you. Be angry after you eat. I know you will forget the bread if there is a crisis, and I refuse to lose an argument to your empty stomach.*
+
+Tank looked down at his hands.
+
+Rosa took one of them.
+
+*I am going to the harbor because the prince will be there. Rafael believes I have brought him the household book. I have brought him a copy made for a man who sees numbers and thinks he understands people. The true book remains behind the old royal face. You know the face I mean. You once told me its nose was wrong.*
+
+Marcellus looked up sharply.
+
+Bastien kept reading.
+
+*The Crown identifies the shelves. It does not contain the truth by itself. Do not let a glittering thing persuade you to stop looking. Men have done that all my life.*
+
+I saw Vesper close her eyes at the balcony.
+
+*I believe I can get Nico away. He listens when I scold him, perhaps because I am the only woman at court who does not want him to grow taller in a portrait. If his father comes, I will bring him too. I make no promises about the father's manners.*
+
+Rosa laughed once through her nose.
+
+*If I return, we marry in autumn. I have chosen it. You have had seven springs to offer something better.*
+
+Bastien stopped.
+
+The paper trembled in his hand.
+
+Nobody hurried him.
+
+*If I do not return, do not turn me into a reason to become a smaller man. You were difficult enough at your proper size. Love someone who needs you. Love something you can still reach. Wear the blue coat when you are sad. The black one makes you look like an undertaker who has misplaced his customer.*
+
+He smiled. A broken, astonished smile, like she had found him through sixteen years just to insult his jacket again.
+
+*I have loved you in rooms too narrow for your shoulders. I have loved you in the five minutes between one duty and another. I have loved you badly on Thursdays and wonderfully on Sundays and stubbornly whenever you deserved worse. If there is another life, come early. I am tired of waiting with dinner.*
+
+*Eliane.*
+
+Bastien folded the letter with hands that knew every crease.
+
+For a while, the only sound was the harbor outside.
+
+Then I said, "What happened on the ship?"
+
+He looked at me.
+
+"The king was already dead when she arrived."
+
+Vesper turned from the balcony.
+
+"You never told me that."
+
+"I could not prove it."
+
+"You could have told me."
+
+"Yes," he said. "I could have."
+
+That answer hit her harder than an excuse would have.
+
+Rafael had summoned Bastien away from the harbor with an order bearing the royal seal. A disturbance at the eastern gate. A threat to Vesper's household. Bastien had taken six guards and gone because the prince loved Vesper, and protecting what the prince loved felt like protecting him.
+
+By the time he realized the road was empty, smoke rose over the water.
+
+He had ridden back through streets full of people running the opposite way. The royal ship burned from bow to stern. Men shouted that the king was aboard. Others shouted that he had escaped. Nobody agreed on anything except that the water was bright with fire.
+
+Bastien found Nico on the quay.
+
+Alive.
+
+Vesper made a sound so small I almost missed it.
+
+"Alive?"
+
+Bastien nodded.
+
+"Eliane got him off. She gave him her coat because his shirt was burning. He was hurt, but he knew me. He told me Rafael had ordered the harbor gates closed. He told me his father had been dead before the meeting began."
+
+"Then why—"
+
+Vesper couldn't finish.
+
+Bastien did it for her.
+
+"Because Rafael's men reached us before the physician."
+
+The old man's jaw tightened. He didn't give us every wound. He didn't need to. He told us about the sudden circle of black coats, the prince trying to stand, the one loyal guard who pushed Bastien into the water because a living witness was all he could save.
+
+Bastien went over the quay with Eliane's coat caught around one wrist.
+
+When he came up, Nico was gone.
+
+The city buried a closed coffin three days later.
+
+Eliane never came back from the ship.
+
+Vesper stared at Bastien.
+
+"And you stood beside me at the funeral."
+
+"Yes."
+
+"You let me thank him."
+
+"I was afraid."
+
+The words sat there naked.
+
+A man who had just fought off killers in his own garden said them without trying to dress them up.
+
+"He knew I had survived. He knew I had the coat. He did not know what she had written into it. He offered your life in exchange for my silence. I had watched everyone else die. I thought keeping you alive was the only thing I could still do correctly."
+
+Vesper slapped him.
+
+The sound cracked through the room.
+
+Nobody moved.
+
+Bastien didn't raise a hand to his face.
+
+"You let me become useful to him," she said.
+
+"Yes."
+
+"You let me call it strength."
+
+"Yes."
+
+"You should have trusted me."
+
+"Yes."
+
+She looked ready to hit him again. Then her face collapsed, and the old man caught her as she stepped into him instead.
+
+Shawna came back to me while they held each other.
+
+I put an arm around her waist.
+
+Nigga, I had spent the morning on the hood of a moving car. I had been shot at by men who thought a road belonged to them. None of that made me feel as exposed as watching an old man discover he'd been protecting somebody and betraying her at the same time.
+
+After a while Vesper sat down.
+
+Her face was wet. She didn't hide it.
+
+"Why now?" she asked.
+
+Bastien looked at me.
+
+"Because last night I watched a man refuse a price. And because the emperor has finally become afraid enough to make mistakes."
+
+I straightened.
+
+"Aight. Then let's make him keep making them."
+
+Marcellus spread the coat across the table. He didn't cut it. He studied the stitched marks beside the invitation seal, then turned the seal so the little crown faced the light.
+
+"The old royal face," he said. "A portrait?"
+
+Bastien nodded.
+
+"Adrien's first coronation portrait. It hangs in the House of Nine Doors."
+
+I stared at him.
+
+"The house I drove through?"
+
+"Yes."
+
+Tank leaned back and laughed.
+
+"Nigga, you been in the evidence twice already."
+
+"I was busy arresting dinner!"
+
+Shawna covered her mouth. Mercedes and Porsche started laughing too, not because any of it was small, but because we'd been holding our breath for so long that the first ridiculous thing felt like a window opening.
+
+Vesper wiped her face with a handkerchief Bastien gave her.
+
+"Silas Bell acquired the house from Rafael after the fire," she said. "He never knew what was hidden there."
+
+"Then we go get it," I said.
+
+"The emperor will have sealed the house by now."
+
+I touched my badge.
+
+"Nigga, so will I."
+
+A car horn sounded outside.
+
+Ardent stood at the garden gate with three police vehicles and a folded document in his hand. He looked pleased until he saw Vesper's face. Then he became very careful.
+
+"Captain. The emperor has issued a request for your presence. Tonight. The Palace of Mirrors."
+
+I took the paper.
+
+The next tournament round.
+
+PAIRS OF ALLEGIANCE.
+
+Every claimant and their chosen partner would enter together.
+
+Only one prize would leave with them.
+
+Shawna read it beside me.
+
+"He thinks he's about to test us."
+
+I looked back at the red coat, the letter, Vesper standing beside the man she'd just forgiven enough to keep hurting over.
+
+"Nigga," I said, "he don't know who already tested everybody."
+
+## 7. We Chose Each Other and Took Both Cars
+
+"Nigga, why this invitation got two seats and one exit?"
+
+Tank held the card up to the light.
+
+Rosa took it from him.
+
+"Because somebody thinks they're clever."
+
+"I don't like clever niggas with buildings."
+
+"You love Aiden."
+
+"Aiden breaks his own buildings. That's different."
+
+I was standing in front of the mirror while Shawna tied my black tie. She had refused three hotel stylists and told a fourth that if he touched her hair again she would make him explain it to the ocean.
+
+Tonight she wore red.
+
+The kind of red that made a nigga forget blue had ever accomplished anything.
+
+"You looking at the tie?" she asked.
+
+"I'm looking near it."
+
+"Try higher."
+
+"Baby, you gave me a difficult route."
+
+She pulled the knot snug and kissed me.
+
+Behind us, Tank groaned.
+
+"Nigga, we got a betrayal appointment. Can y'all flirt in the car like normal dangerous people?"
+
+The Palace of Mirrors stood on a little island reached by a bridge of white stone. Every window reflected the water. Every guard wore silver. I had started to notice a pattern: the worse the man inside, the more somebody polished the outside.
+
+Rusk greeted us at the entrance with his bandaged hand tucked behind his back.
+
+"Captain. Madame."
+
+"You walking better," I said.
+
+"I owe you my life."
+
+"Start with good seats."
+
+He actually smiled.
+
+Nigga, I had improved him too.
+
+Inside, the couples stood beneath a ceiling of turning mirrors. Old kings with old queens. Young claimants with new girlfriends. One prince with two wives who looked more interested in talking to each other than standing beside him. All of us adults, all dressed like consequences had been invited somewhere else.
+
+Vesper waited beside a raised platform. Zero stood at its center.
+
+"Tonight," he said, "we discover what each of you values more than victory."
+
+I leaned toward Shawna.
+
+"Nigga finna discover how much I value dinner."
+
+She bit back a laugh.
+
+Zero's gaze found us.
+
+"Some men are loudest when they are uncertain."
+
+"Some niggas build a mirror palace because one reflection ain't agreeing with them."
+
+A sound went through the room. Half laughter, half men trying not to be seen laughing.
+
+Zero's expression didn't change.
+
+"The pairs will enter separately. Each will be offered a private bargain. Wealth. Authority. Freedom from a debt. The power to decide who leaves victorious."
+
+"And nobody gets hurt?" Lady Orsini asked.
+
+"Unless they choose very unwisely."
+
+Her husband sighed.
+
+"Darling, perhaps we should have stayed for dessert."
+
+"We did. They interrupted it."
+
+Shawna put her hand in mine.
+
+"Whatever he offers you, make him say the price out loud."
+
+"Whatever he offers you, tell him your husband already got it in another color."
+
+She smiled.
+
+"Even the ocean?"
+
+"Nigga, especially the ocean."
+
+A servant took me through a mirrored door. Another took Shawna through the one beside it. We let go at the same time, not because either of us wanted to, but because there are men who can smell hesitation and I wasn't feeding this one anything.
+
+My room contained a chair, a table, and a view of the harbor.
+
+On the table lay the deed to an estate.
+
+Beside it, a photograph of Shawna performing at the island celebration.
+
+Zero entered through a side door.
+
+"You collect extraordinary women," he said.
+
+"Nigga, I married one. You collecting terrible openings."
+
+He sat without inviting me to.
+
+I sat anyway.
+
+"Your wife has talent. Real talent. A world tour could make her independent of everything you are."
+
+"She already independent of my permission."
+
+"And if independence takes her away from you?"
+
+I looked at the photograph. Her head tilted back, her mouth open on a note, her whole body giving something to the crowd that I loved partly because it didn't belong only to me.
+
+"Then I buy a ticket."
+
+Zero waited.
+
+"Front row," I added. "Nigga, don't get cheap in your imagination."
+
+He moved the deed closer.
+
+"This estate includes the city's western harbor. Its ships. Its clubs. Its protection. All I ask is that you withdraw from the final Crown round. Your wife receives the opera house outright."
+
+"She pick her own songs?"
+
+"Of course."
+
+"Then she's gonna sing about the nigga who lost his crown to me. You sure you want that in your building?"
+
+For the first time, he showed irritation without covering it immediately.
+
+"You confuse defiance with strength."
+
+"You confuse furniture with leverage."
+
+He leaned back.
+
+"Very well. The next door leads to your partner. One of you must surrender your token before it opens. The other keeps the prize."
+
+He placed a gold token on the table.
+
+Mine bore a crown.
+
+Through the wall, faintly, I heard Shawna laugh.
+
+Nigga, that laugh saved me five minutes of wondering.
+
+"What you offer her?"
+
+Zero stood.
+
+"You may ask her if you reach her."
+
+After he left, a voice instructed me to place my token into a slot beside the door. A little screen showed two cars on opposite ends of a track suspended above the palace's indoor pool. In one car sat Shawna.
+
+In the other was an empty driver's seat waiting for me.
+
+I looked at the screen.
+
+"Nigga, this is a date with extra nonsense."
+
+The door opened.
+
+The track was a long silver curve beneath the turning mirrors. Half of it vanished behind a wall. The cars were small open racers, beautiful and ridiculous, with polished steering wheels and almost no room for a man to hide his feelings.
+
+Shawna lifted her hand when she saw me.
+
+"They offer you a harbor?"
+
+"You an opera house?"
+
+"And a separation agreement."
+
+The room went quiet.
+
+I looked up at the balcony where Zero had reappeared.
+
+"Nigga."
+
+Just that.
+
+He looked down calmly.
+
+Shawna raised a folded paper.
+
+"I wrote a review on the back."
+
+"What it say?"
+
+"That your mother raised you better than his did."
+
+Tank's laugh came through a doorway somewhere behind the spectators.
+
+Nigga, they hadn't even put that man in a car yet and he was already winning something.
+
+Vesper announced the rules. The track had two paths. Each driver controlled a gate on the other person's route. To reach the finish first, a claimant could close their partner's passage and take the central lane. If both kept the gates open, neither would reach the prize before the countdown ended.
+
+"So the rules are be a shitty husband or lose?" I asked.
+
+"The rules are as stated," Zero said.
+
+"Then you stated some shitty rules."
+
+I got into the car.
+
+Shawna settled her shoulders, smiling across at me.
+
+"You trust me?"
+
+"Nigga, you drove me off another nigga's hood this morning. We established that."
+
+The lights changed.
+
+We moved.
+
+At first the cars were slow enough to feel insulting. Then the track steepened and the little engines found their courage. Mirrors above us swung, making the route look like it kept splitting into ten impossible directions.
+
+I couldn't see Shawna after the first turn.
+
+I could hear her.
+
+"Right gate!"
+
+I kept it open.
+
+"Your turn!"
+
+"Left!"
+
+Her gate opened before I reached it.
+
+The spectators shouted. Some wanted us to win. Some wanted us to choose wrong. Nigga, rich people will watch a marriage like it's a horse race if you give them chairs and something cold to drink.
+
+The countdown appeared above the track.
+
+Thirty seconds.
+
+Ahead of me, the central prize platform held two silver keys.
+
+One for the estate.
+
+One for the opera house.
+
+The track bent away from it. I could see the trick now. The gates weren't the only choice. The cars had been placed close enough to the platform that a driver with more ambition than caution could reach it.
+
+Zero had counted on us wanting the steering wheel more than each other.
+
+"Baby," I called.
+
+"I see it."
+
+"You know which side?"
+
+"The pretty side."
+
+"Nigga, that's both of mine."
+
+She laughed.
+
+We came out of opposite turns together. Twenty seconds. I saw her face, the red dress tucked around her knees, the confidence in her hands.
+
+I stood in the moving car.
+
+The crowd screamed.
+
+Zero leaned forward.
+
+I jumped toward Shawna's car as she drew alongside.
+
+My empty racer shot through the center lane and struck the low prize platform. Silver keys flew up. I caught one. Shawna caught the other against her chest with one hand while keeping the car straight with the other.
+
+Nigga, my wife caught an opera house without letting go of the wheel.
+
+I landed half in her lap, half behind the seat, all greatness and terrible posture.
+
+"You heavy," she said.
+
+"That's reputation."
+
+She drove us through the finish together.
+
+The countdown stopped at eight.
+
+For a moment nobody knew what to do with a rule that had been embarrassed in public.
+
+Then Lady Orsini stood up and clapped.
+
+"They both arrived!"
+
+Her husband joined her.
+
+"And nobody divorced! Excellent round!"
+
+The crowd erupted.
+
+I climbed out and helped Shawna stand. Her hair had come loose. Her dress had a little streak of grease near the hem. She held up the opera key like it had always been hers and the palace had merely taken too long to find it.
+
+Zero descended the stairs.
+
+"You abandoned your vehicle."
+
+"I improved my company."
+
+"The rules required—"
+
+Vesper stepped between us.
+
+"A claimant and partner at the finish. They are both here. The tokens were not surrendered. The gates remained open."
+
+Zero looked at her.
+
+"You are becoming precise at unusual times."
+
+"You asked me to govern the tournament."
+
+"I asked you to remember who governs you."
+
+The words made the room colder.
+
+I moved beside her, not in front, because she hadn't asked me to become a wall between her and her own decision.
+
+"Nigga," I said, "she remembers plenty. That's your problem."
+
+He held my gaze, then smiled for the audience.
+
+"The prizes are awarded."
+
+Applause. Relieved at first, then louder as people decided which version of courage was safest to admit.
+
+Tank and Rosa came out of their separate rooms a few minutes later carrying two smaller prize boxes.
+
+"What happened?" I asked.
+
+Rosa opened hers. A diamond bracelet.
+
+Tank opened his. A matching necklace.
+
+"They tried to make us argue," he said.
+
+"And?"
+
+"Nigga, we already know how. We took the jewelry."
+
+Mercedes and Porsche emerged behind them with a furious prince between them.
+
+"What did y'all do?" Shawna asked.
+
+"Made him choose," Mercedes said.
+
+"He chose wrong," Porsche added.
+
+The prince opened his mouth.
+
+Both women looked at him.
+
+He closed it.
+
+Outside, Vesper caught us at the bridge.
+
+For the first time since we'd met her, she looked afraid without trying to turn it into elegance.
+
+"He knows something has changed."
+
+"A lot changed," I said.
+
+"I have people in that palace. People he can hurt because I hesitate."
+
+"Then we get your people out."
+
+"It is not that simple."
+
+Shawna took the opera key out of my hand and put it into Vesper's.
+
+"A whole building just became mine. Use the dressing rooms. Use the stage. Use every stupid little balcony. Get them there."
+
+Vesper stared at the key.
+
+"You have not even seen it."
+
+"Then make sure somebody waters the flowers before I do."
+
+Nigga, my wife handed a queen a way out and still made it sound like she was arranging opening night.
+
+Vesper closed her fingers around the key.
+
+"Thank you."
+
+I looked back at the shining palace.
+
+Zero stood in an upper window, a dark shape surrounded by reflections of himself.
+
+I kissed Shawna on the bridge where he could see.
+
+Not for him.
+
+Because the nigga had given me an excellent reason to remember who kept winning.
+
+## 8. The King Behind the Wall
+
+By noon the opera house belonged to Shawna, contained forty-seven people Vesper wanted alive, and had sold out a concert my wife hadn't agreed to give yet.
+
+"Nigga, how you sell tickets before the singer says yes?" I asked the manager.
+
+The manager, a round man named Paolo, held his hat against his chest.
+
+"We heard she was coming."
+
+"She came to look at curtains."
+
+"The city would pay to see that also."
+
+Shawna looked up from the stage.
+
+"What time?"
+
+"Eight."
+
+"Get me a piano."
+
+Nigga, that was the entire negotiation.
+
+Rosa stood beside her in rehearsal clothes, looking out over the velvet seats.
+
+"I want the second song."
+
+"You can have three."
+
+"I knew this marriage would eventually benefit me."
+
+Tank sat in the front row with his feet spread so far nobody else could use it. He watched Rosa cross the stage like the theater had been built to solve his particular eyesight.
+
+"That nigga in love," I told Shawna.
+
+"That nigga has been in love. He just finally stopped looking surprised."
+
+Vesper's people occupied the dressing rooms upstairs. Assistants. Drivers. Two singers. An old cook who had brought her own knives because she didn't trust palace kitchens she couldn't insult personally. No prisoners in chains. People who had served one house so long that leaving it felt like stepping out of their own names.
+
+Vesper moved among them, checking rooms, carrying bags, doing little practical things with a seriousness nobody had ever applauded her for.
+
+I let her work.
+
+Bastien met me at the stage door with Marcellus. Both wore dark suits. Both looked like they had decided to attend a funeral and were willing to arrange one if necessary.
+
+"Nigga, y'all dress like the portrait owes you money."
+
+"In a sense," Marcellus said.
+
+Shawna came down the steps and straightened my collar.
+
+"Bring back the book."
+
+"That's all?"
+
+"And yourself. The book can't come to my show alone."
+
+I kissed her.
+
+"Front row."
+
+"Better be."
+
+The House of Nine Doors looked worse in daylight.
+
+Nigga, I had done quality work. One balcony still had tire marks across the marble. The gallery doors were boarded. Somebody had placed flowers near the broken orchestra platform, and I couldn't tell whether they were mourning the musicians' equipment or the baron's dignity.
+
+Police guarded the front entrance.
+
+Black Mantle soldiers guarded the back.
+
+Zero's men. Different uniforms, same rich-man posture: shoulders wide because somebody else had promised to pay for the consequences.
+
+Ardent stood between both groups looking like his afternoon had become legally confusing.
+
+He brightened when he saw me.
+
+"Captain."
+
+"Nigga, who invited the funeral jackets?"
+
+"The emperor claims an interest in the property."
+
+"I claimed it first. With evidence. And a Ferrari."
+
+A Black Mantle officer approached. Tall. Blond. A little scar beside his mouth. He introduced himself as Colonel Severin Drake, forty-six, commander of Zero's household forces, like any of that was supposed to make me stop standing where I was.
+
+"The house is closed."
+
+I showed him my badge.
+
+"Open."
+
+"Your foreign rank has no authority here."
+
+Ardent straightened.
+
+"The captain acts with my full cooperation."
+
+Drake looked at him.
+
+"You should be more careful with that."
+
+"Nigga, you should be more careful with your tone," I said. "This man been nothing but handsome and helpful."
+
+Ardent's younger officers tried not to smile.
+
+Drake stepped closer.
+
+"You enjoy making people love you."
+
+"You enjoy making them wait while you finish a threat. We all got interests."
+
+Bastien walked past us toward the front door.
+
+Drake moved to stop him.
+
+I caught Drake's wrist.
+
+Not hard enough to injure him. Hard enough for his face to understand the rest of the sentence.
+
+"Let the old nigga walk."
+
+For a moment all the guns around us seemed to remember what they were for.
+
+Then Drake stepped back.
+
+"You have fifteen minutes."
+
+"Nigga, I was gonna take twenty. You just made it thirty."
+
+Inside, the house smelled of smoke, polish, and rich people pretending damage wasn't permanent if they could afford repairs. Bastien led us through a long corridor into a portrait room I hadn't reached during the car chase.
+
+King Adrien Valcour hung above a fireplace in a gold frame.
+
+He wore the Crown of Midnight.
+
+For the first time, I got a good look at the thing we had crossed a sea to take from Zero.
+
+Black diamonds. White gold. Seven rising points. A blue stone at the front dark enough to look like midnight had learned how to shine.
+
+"That's a crown," I said.
+
+Marcellus smiled.
+
+"Yes."
+
+"Nigga, I was expecting a crown, but that's a crown."
+
+Bastien stood beneath the portrait.
+
+"His nose was wrong."
+
+Eliane's letter came back to me.
+
+The old royal face.
+
+The face whose nose was wrong.
+
+Marcellus studied the frame. Bastien looked at the fireplace. I looked at both men looking until I decided we were giving the wall too much time to feel important.
+
+"Can I take it down?"
+
+"Carefully," Marcellus said.
+
+Nigga, I took it down carefully enough that only one corner of the wall objected.
+
+Behind the portrait was a shallow bronze door.
+
+No glitter. No dramatic ticking. Just a family crest worn smooth where somebody's hand had once touched it often.
+
+Bastien took a key from inside his coat.
+
+I looked at him.
+
+"You had that the whole time?"
+
+"I did not know where it belonged."
+
+"Nigga, this city got too many sentimental pockets."
+
+The key turned.
+
+Inside sat a small black book, a red ribbon, and a child's drawing old enough that the paper had browned. A little boy had drawn a ship and a man with a crown too large for his head.
+
+Nico's name was written at the bottom.
+
+Bastien touched the edge of the paper with one finger.
+
+Marcellus lifted the book.
+
+Names. Payments. Promises. Not magic. Worse, in a way: men writing down what they would do to other men if enough money reached the right table.
+
+Eliane's stitched marks matched the page corners.
+
+Marcellus found Rafael Sorel's name three times before I heard footsteps in the corridor.
+
+"Time," I said.
+
+Drake stood in the doorway with six men.
+
+"You have recovered imperial property."
+
+"Nigga, you timed that beautifully."
+
+"Give it to me."
+
+Bastien closed the bronze door. Marcellus slipped the book inside his jacket.
+
+I picked up the portrait.
+
+"You want your old king back?"
+
+Drake raised his gun.
+
+I threw King Adrien Valcour at him.
+
+Nigga, the king finally did something useful after sixteen years on the wall.
+
+The frame struck Drake across the shoulder. His shot went into the ceiling. I drove forward before his men could get a clear line, hit the nearest one hard enough to put him into a cabinet, and heard Bastien's pistol answer from beside the fireplace.
+
+Marcellus ducked behind a table. Ardent's officers shouted from the front hall. The house filled with the same noise it had made two nights earlier, and I started to understand why rich people kept extra mansions.
+
+Drake pulled free of the broken frame and came at me with a knife.
+
+He was good.
+
+Not Gault strong. Not red-mask fast. Precise. Every movement meant something ugly and arrived without introduction.
+
+He cut my sleeve. I hit his jaw. He drove me against the fireplace. I caught his wrist before the knife found anything I couldn't replace with a tailor.
+
+"You think they love you?" he hissed.
+
+"Nigga, you asking while we wrestle? Pick a mood."
+
+I slammed him into the mantel.
+
+The knife fell.
+
+Bastien fired over my shoulder at a man rushing the doorway. I shoved Drake into the broken portrait and went after Marcellus.
+
+The front hall was blocked.
+
+The gallery was burning again.
+
+Nigga, that house had an unfortunate relationship with my visits.
+
+"Back way," Bastien said.
+
+"That's where his men are."
+
+"Not all the way back. The ninth door."
+
+I stared at him.
+
+"The wall door?"
+
+He nodded.
+
+Tank's earlier threat about taking the whole wall came to mind, and I decided my brother deserved a chance to be right at a distance.
+
+We ran upstairs.
+
+The little blue door opened onto nothing.
+
+Nothing, in this case, meant twenty feet of air above the harbor, a narrow stone ledge, and a maintenance boat tied below.
+
+Marcellus looked down.
+
+"I am sixty-two."
+
+"Nigga, you wearing it beautifully. Come here."
+
+I helped him through onto the ledge. Bastien followed. Gunfire struck the door behind us. I kicked it shut, looked at the boat, and called down to its startled driver.
+
+"Move left!"
+
+"What?"
+
+"Nigga, your other left!"
+
+He moved.
+
+We jumped.
+
+The boat rocked so hard the harbor tried to get in with us. Marcellus landed against a coil of rope. Bastien hit the bench and rolled. I came down last, caught the boat's canopy, and tore half of it loose before my feet found the deck.
+
+The driver stared.
+
+"Captain Aiden?"
+
+"Drive, my nigga. Autographs when the roof stops shooting."
+
+The boat shot away from the house as bullets struck the water behind us.
+
+Ardent's patrol launch cut across the harbor to meet us. His officers opened the way. Above, on the balcony I'd driven through before, Drake stood with blood at his mouth and the king's torn portrait tangled around one boot.
+
+I waved.
+
+Nigga, manners matter when you leave somebody's house.
+
+We reached the opera house at seven forty-three.
+
+Shawna was furious.
+
+Not because I'd been late.
+
+Because I'd been early enough for her to see the sleeve.
+
+"You bleeding?"
+
+"Mostly architecture."
+
+"Aiden."
+
+"Little cut. Nothing interesting."
+
+She checked it herself, cleaned it, and put a fresh shirt in my hands.
+
+"You have twelve minutes."
+
+"To explain?"
+
+"To sit down and look like my husband."
+
+I did it in nine.
+
+Nigga, greatness respects showtime.
+
+The opera house filled until people stood along the walls. Vesper's household sat together in one balcony. Ardent and his officers occupied another, their uniforms bright beneath the chandeliers. Gault arrived in a dark suit with no chain. When he saw me, he raised a hand and the whole row around him stood to make room.
+
+Tank sat beside me with Rosa's engagement ring box in his pocket, though she'd already said yes on the island. He liked carrying it. Said it reminded him he had managed one proposal without anybody shooting.
+
+The lights went down.
+
+Shawna walked onto the stage.
+
+No crown. No gun. No car.
+
+Just my wife, a piano, and a room that had no idea how quiet she could make it.
+
+She sang the first song without looking for me.
+
+That was what I loved about it. She wasn't borrowing courage from my face. She had brought her own.
+
+By the second verse, a woman behind me was crying. By the final note, even the waiters had stopped moving. The applause came a second late because everybody needed a moment to remember they had hands.
+
+Nigga, I stood first.
+
+I stood so fast Tank stood with me on instinct, and the rest of the room followed like my wife's voice had pulled the city onto its feet.
+
+She found me then.
+
+Smiled.
+
+Everything I'd stolen, won, survived, or driven through felt small enough to put in a pocket beside that look.
+
+Rosa took the stage for the second song. Tank forgot to sit down. She pointed at him once during the chorus, and the nigga actually touched his own chest like he needed confirmation she meant him.
+
+Mercedes leaned over from the next row.
+
+"That's your woman, nigga. Stop looking adopted by surprise."
+
+He laughed, embarrassed and proud, and I put an arm around his shoulders while the whole theater cheered her name.
+
+Upstairs afterward, Marcellus laid the recovered ledger beside Eliane's coat.
+
+Vesper read in silence.
+
+Payments to the harbor commander.
+
+Orders transferring the old king's properties before the fire.
+
+Names of men who had sworn loyalty at a funeral for people they'd helped kill.
+
+Then she reached the last page and stopped.
+
+"What?" I asked.
+
+She turned the book toward me.
+
+A newer sheet had been tucked inside the old binding. Bell must have added it after acquiring the house. A record of the coming tournament's final wager.
+
+The Crown was to be awarded publicly.
+
+Then the winner would be invited aboard Zero's armored yacht for a private coronation.
+
+No winner was meant to return.
+
+Tank stared at the page.
+
+"Nigga, they got a whole funeral scheduled after your trophy."
+
+I looked at Shawna standing in the doorway, still wearing the dress the city had just applauded.
+
+Then I looked at Vesper.
+
+"Aight," I said. "We gonna need a bigger after-party."
