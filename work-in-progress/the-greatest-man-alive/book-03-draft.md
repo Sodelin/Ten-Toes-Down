@@ -1,6 +1,4 @@
-# Book 3: unfinished drafting checkpoint
-
-Written by ChatGPT for Nolan. These chapters remain subject to revision.
+# BOOK III: THE FASTEST KING ALIVE
 
 ## 1. The Ocean Was Waiting on Me
 
@@ -36,7 +34,33 @@ My police Lamborghini arrived before I did. Dark blue, gold badge on the doors, 
 
 They had flown ahead with Marcellus to make sure the rooms were right. Apparently the rooms had started a fight.
 
-Our helicopter settled onto the rear deck. Before its blades stopped, the man in the feathered hat marched toward us carrying a silver tray. He had a mustache thin enough to have been signed by a jeweler.
+Our helicopter settled onto the rear deck. A valet hurried toward it with a little numbered ticket.
+
+"For the aircraft, sir."
+
+Tank looked at the ticket.
+
+"Nigga, you parking the helicopter?"
+
+"I supervise arrivals."
+
+"This nigga supervised gravity and called it a job," I said.
+
+The valet looked from Tank to me, then at the pool full of people watching us.
+
+"You're Captain Aiden."
+
+"Now you supervising recognition."
+
+He laughed before he could stop himself. Then he put the ticket away and opened both arms toward the yacht like he had personally built it during our flight.
+
+"Anything you need, Captain."
+
+"Nigga, start with my people. Everybody eats, everybody gets a room, nobody got to explain who they came with twice."
+
+He nodded hard and went to work.
+
+Before the blades stopped, the man in the feathered hat marched toward us carrying a silver tray. He had a mustache thin enough to have been signed by a jeweler.
 
 “Captain Aiden,” he announced. “By special instruction of His Grace, Duke Aurelio Cruel—”
 
@@ -380,7 +404,29 @@ The month had begun.
 
 ## 2. The Woman Who Drove Through Fire
 
-The Royal Meridian gave me a bedroom with a ceiling painted like heaven and a bathtub big enough to baptize a basketball team.
+The Royal Meridian gave me a bedroom with a ceiling painted like heaven and a bathtub big enough to baptize a basketball team. Two porters argued over which bags belonged to me.
+
+"The black ones are the captain's."
+
+"Nigga, all of them are the captain's," Tank said.
+
+"Even the white—"
+
+"Especially the white ones. That's his wife."
+
+"And the trunks?"
+
+"That's the nigga preparing to stay great in different weather."
+
+I let them finish before pointing to Shawna's little blue case.
+
+"That one comes with me."
+
+A porter reached for it anyway.
+
+"Nigga, I said with me. My wife asked me to carry it. I ain't promoting you into my marriage."
+
+Shawna leaned against the door laughing. The porter apologized, grinning now, and Tank took the two largest trunks himself because the conversation had apparently made him impatient with luggage.
 
 I put Shawna in the bathtub before anybody had a chance to ask me another question.
 
@@ -1030,7 +1076,29 @@ Nigga, I laughed so hard she smiled before she could help it. Then I took her fa
 
 She hit me with the earring box.
 
-The banquet occupied a terrace above the sea. Three hundred people sat beneath chandeliers hanging from living trees. A string orchestra played on a platform over the swimming pool. Along the terrace stood twelve cars under silk covers, each with its own guard and a woman holding a silver card naming the race it belonged to.
+The banquet occupied a terrace above the sea. Three hundred people sat beneath chandeliers hanging from living trees. At the entrance, a young doorman looked at my invitation, then at my badge, then back at the invitation.
+
+"It says king."
+
+"It also says captain," I told him.
+
+"Which should I announce?"
+
+Tank leaned over his shoulder.
+
+"Nigga, use your diaphragm and say both."
+
+"Is there a preferred order?"
+
+"The nigga arrived first at everything today. Any order works."
+
+The doorman laughed, took a breath and announced me so loudly the nearest chandelier trembled.
+
+I slipped a folded bill into his palm.
+
+"That's for respecting punctuation."
+
+He looked at the amount, looked at me and announced my wife with even more feeling. Nigga had found a second diaphragm. A string orchestra played on a platform over the swimming pool. Along the terrace stood twelve cars under silk covers, each with its own guard and a woman holding a silver card naming the race it belonged to.
 
 I walked in with Shawna on my arm, my badge against my chest and Tank behind me in a white suit that made him look like he had personally purchased summer.
 
@@ -1373,6 +1441,26 @@ She punched my shoulder lightly.
 “Try to keep your car out of the architecture.”
 
 The anthem finally ended. Drivers climbed in. The crowd grew tight and loud around us.
+
+A marshal leaned through the window to ask whether my police lights were part of the car's original equipment.
+
+"Nigga, they're part of the car's personality."
+
+"They may distract other drivers."
+
+"My face does that. You want me to race backward?"
+
+Shawna bent at the waist laughing. The marshal tried to stay serious and failed around the mouth.
+
+"Please use them only when necessary."
+
+"Nigga, I am a necessary situation."
+
+Tank pointed at the marshal from behind the barrier.
+
+"That nigga about to learn."
+
+"All of them," Porsche said.
 
 I put both hands on the wheel.
 
@@ -3239,3 +3327,3593 @@ Shawna took it from him, opened it and read the single line inside.
 I looked out at the harbor.
 
 “Nigga,” I said, “tell him put on something waterproof.”
+
+## 9. I Put My Badge on a Speedboat
+
+“Nigga, you don't own a racing yacht.”
+
+Tank said it with the confidence of a man standing on one of my regular yachts, looking at two more of my regular yachts, while a waiter brought him breakfast on a plate that cost more than my first apartment.
+
+I looked at him.
+
+“Did that sentence feel poor when it came out?”
+
+“Aiden.”
+
+“Nigga, did your mouth need a loan?”
+
+Rosa put down her coffee before she spilled it laughing.
+
+Tank pointed toward the duke's new announcement. The third key would be awarded after the Sea Crown, a race around the offshore islands in high-powered boats. Drivers could bring their own crews. The duke would provide a vessel to any competitor who needed one.
+
+His offered vessel for me was called Second Chance.
+
+It was painted yellow.
+
+The nigga had written the joke on the side of the boat for me.
+
+“I ain't riding that,” I said.
+
+Lark examined the photograph.
+
+“No,” she agreed. “You aren't.”
+
+“What's wrong with it?” Shawna asked.
+
+“It belongs in a museum. A museum that apologizes.”
+
+Cassius laughed, then held his shoulder. The sling was gone now, replaced by strict instructions from the doctor and Inez's willingness to enforce them with eye contact.
+
+“My father kept a boat here,” he said. “Before the island.”
+
+Esteban looked up.
+
+“The Red Saint?”
+
+“Yes.”
+
+“Nigga,” I said, “every vehicle in this family got a religious problem.”
+
+The Red Saint sat in a locked shed beyond the fishing harbor. Cassius had inherited the lease and paid it for years without opening the place. He told us that on the drive there, looking out the window as if the words were written on the sea.
+
+“I thought if I opened it, I'd have to decide what to throw away.”
+
+“Now you can ask him,” I said.
+
+He nodded once.
+
+The shed doors rolled back to reveal a red racing boat beneath a gray cover. Its shape was low and clean, all muscle. Lark walked around it slowly. Esteban touched the side with the tenderness of a man finding an old friend's coat.
+
+“Nero beat me three times in this,” he said.
+
+Cassius smiled.
+
+“He said four.”
+
+“One was wind.”
+
+“Nigga, wind participates in boats,” Tank said.
+
+Esteban laughed. The sound came easier now. Not easy, but easier.
+
+We uncovered the Red Saint together. Dust rose in the light. Beneath the windshield lay a pair of old gloves and a little photograph of Cassius at twenty-four, standing beside his father with both of them grinning like the camera owed them money.
+
+Cassius picked it up.
+
+Inez stood beside him. She didn't say anything. Just stayed there while he looked.
+
+Lark found the engine sound enough for the race after work and attention. We gave her both. She brought in three mechanics from the rescued crews, paid them before they touched a tool and told them this boat was carrying a man who considered walls a rumor.
+
+“Nigga,” one mechanic said, looking at me, “you the fountain driver?”
+
+“The yacht driver,” another corrected.
+
+“The staircase driver,” the third said.
+
+Tank folded his arms.
+
+“All them niggas is the same nigga. Keep up.”
+
+They stared at me with open delight.
+
+Then they made the Red Saint shine.
+
+That night we went to the Coral Crown, a casino built above the harbor on pillars shaped like women holding the roof. Its owner, Rocco Silvar, met us at the door in a pink jacket and enough gold to make Marcellus squint.
+
+“Captain Aiden,” he said. “A pleasure.”
+
+“Depends how the night goes.”
+
+Rocco was forty-two, round-faced, merry and dangerous in a way that didn't require pretending he wasn't enjoying himself. He had known Mercedes for years. She kissed his cheek, then held his chin between two fingers.
+
+“You still owe Paloma.”
+
+His smile faltered.
+
+“I sent the payment.”
+
+“You sent flowers.”
+
+“Very expensive flowers.”
+
+“Nigga, flowers don't pay rent unless she sells the whole funeral.”
+
+He looked at Porsche.
+
+She held out her phone.
+
+“She's awake. You can apologize live.”
+
+He paid before we reached the table.
+
+I loved my people.
+
+The casino had prepared a private room for us, but I wanted the main floor. I liked the noise, the light, the sight of grown men begging colored chips to improve their lives. Rocco gave us a table near the band. Rosa sang one song because the singer recognized her and almost dropped the microphone. Tank stood beside the stage trying to look calm while six men told him the woman he loved had the voice of an angel who knew exactly what a bad night cost.
+
+“Nigga, I know,” he kept saying.
+
+Then he tipped the band so much the drummer stood up.
+
+I played cards with Cassius, Rocco and a man named Count Adrian Tide, who would captain the duke's newest boat in the Sea Crown. Adrian was thirty-five, broad, blond and handsome enough to have learned how rarely apologies were required if he smiled at the right angle.
+
+He looked at my chips.
+
+“You drive well,” he said. “Water is different.”
+
+“Nigga, I been wet.”
+
+Rocco laughed into his drink.
+
+Adrian kept smiling.
+
+“Have you ever captained a racing boat?”
+
+“No.”
+
+“Then tomorrow will be educational.”
+
+“For somebody.”
+
+He put down his cards. A very good hand.
+
+I put down mine. Better.
+
+The table went quiet. Then Cassius started laughing.
+
+“You did that on purpose.”
+
+“Won? Yeah.”
+
+Rocco pushed the chips toward me with both hands.
+
+“Nigga, the house is impressed,” he said.
+
+“The house should add a balcony.”
+
+Adrian watched me collect the pot. His smile had become something he was carrying rather than wearing.
+
+“Ten million on tomorrow,” he said.
+
+“Twenty.”
+
+He blinked.
+
+Rocco made a delighted little noise.
+
+“Twenty,” Adrian agreed.
+
+I looked toward Shawna. She sat with Mercedes and Porsche, laughing at something Alina had said. The rescued woman wore a green dress Mercedes had helped her choose and looked like somebody returning to her own face.
+
+Shawna caught my eye.
+
+I held up two fingers.
+
+She looked at the chips. Then at Adrian. Then back at me.
+
+“Bring me something nice,” she mouthed.
+
+Nigga, the wager became sacred.
+
+We stayed until the band changed sets twice. There was champagne. There were women in diamonds and men trying to become stories worth telling them. In one private room, rich fools had laid out enough cocaine to make their noses seem ambitious. I walked past with my wife and let them ruin their own timing. I needed my hands steady in the morning, and I already felt like the most dangerous drug in the building.
+
+Mercedes and Porsche left the casino with a contract for the Grand Prix's official hospitality team, written on terms they had chosen, and Rocco's apology recorded for Paloma. Tank left with Rosa on his arm and a thousand people convinced he was the luckiest man alive after me.
+
+I left twenty million richer in possibility.
+
+The Sea Crown began at noon.
+
+Our boat waited at the end of the quay, red hull shining, my gold badge fixed above the dashboard. Cassius had insisted on placing his father's little white bird beside it.
+
+“He'd like that,” he said.
+
+“Tell him yourself when we bring it back.”
+
+Lark took the engineer's place. Esteban came as navigator. Tank squeezed into the rear seat and immediately accused the boat of being small on purpose. Shawna stayed on the viewing yacht with Rosa, Mercedes, Porsche and Inez. She had kissed me before we boarded, then put a folded handkerchief into my pocket.
+
+“For when you pretend the spray isn't in your eyes.”
+
+“Nigga, you think of everything.”
+
+“That is why you keep surviving.”
+
+The starting horn sounded.
+
+Adrian's white boat leaped ahead. Three others followed in a roar of engines and spray. I brought the Red Saint out behind them, feeling the water through the hull, listening to Esteban's voice and Lark's sharp little comments from the engine station.
+
+“Easy through the chop.”
+
+“I got it.”
+
+“Nigga, the sea doesn't care you won cards.”
+
+“Then it's about to learn.”
+
+Tank gripped the side rail as we hit the first swell.
+
+“Nigga!”
+
+“What?”
+
+“The water punched me!”
+
+“Punch it back.”
+
+He looked at the sea with genuine consideration.
+
+Esteban laughed so hard he had to repeat the next turn.
+
+We rounded the first island in fourth. Took third across the open channel. The Red Saint handled like it had been waiting seven years to be angry at somebody. I learned its movements fast, the lift before a wave, the shiver when I asked too much, the smooth powerful answer when I stopped fighting what it already knew.
+
+Adrian stayed ahead.
+
+He was excellent. I could see why the duke had chosen him. His boat ran clean, straight and wickedly fast. He used the islands to break the following boats' sight of him, opening space whenever the water narrowed.
+
+But he kept looking back.
+
+Nigga knew I was coming.
+
+At the second marker we passed a blue boat whose captain had driven too hard into the crosswind. It listed sharply, one side low, two crewmen waving for help. Adrian went past without slowing.
+
+Esteban saw it.
+
+“Aiden.”
+
+“I see them.”
+
+We turned.
+
+Tank stood up before I told him. Lark threw a line toward the damaged boat. The first crewman caught it. The second slipped, vanished into the water and came up coughing beside the hull.
+
+Tank reached over the side and hauled him aboard with one arm.
+
+“Nigga, you heavy when wet.”
+
+The man lay on the deck, gasping.
+
+“Thank you.”
+
+“Thank the captain. I was eating lunch before he made this a lifestyle.”
+
+We stayed until the rescue boat arrived. By then Adrian had gained nearly a minute.
+
+Esteban looked at me.
+
+“My wife would have liked you.”
+
+“Nigga, she had taste.”
+
+Then I turned the Red Saint toward the last channel.
+
+We chased.
+
+The coast blurred. Spray hit my face. Tank shouted every time we rose over a swell, and after a while his shouting changed from protest to celebration. Lark leaned forward, watching the boat, watching me, her mouth open in disbelief as the white shape ahead grew larger.
+
+“You're catching him,” she said.
+
+“Yeah.”
+
+“You stopped.”
+
+“Yeah.”
+
+“You shouldn't be catching him.”
+
+“Nigga, stop telling the boat.”
+
+Esteban pointed toward the final turn, a gap between two rocky islands with the finish line beyond it. Adrian entered first. I came alongside halfway through, the red and white boats so close their spray struck together in a high shining wall.
+
+He looked over.
+
+I smiled.
+
+That same fraction of a second again.
+
+Some niggas never learn what their pride costs them.
+
+We came out of the channel level. The harbor opened ahead, full of boats and flags and people standing wherever a human body could fit. On the viewing yacht I could see Shawna at the rail, both hands raised.
+
+I heard her even over the engine.
+
+“Aiden!”
+
+I gave the Red Saint everything it had asked me for.
+
+We crossed first by a breath.
+
+The horn sounded. Tank stood up and roared. Lark grabbed my shoulder hard enough to bruise it. Esteban took off his cap and held it against his chest.
+
+For a moment he wasn't looking at the finish.
+
+He was looking at the little white bird.
+
+Adrian came alongside after the race. He sat still in his white boat, wet and furious and trying to decide whether he had just witnessed an insult or a miracle.
+
+“You've never done that before?” he called.
+
+“No.”
+
+He looked at the Red Saint. At my badge. At Tank, who was now waving at strangers like he owned their country.
+
+Then Adrian laughed, helplessly.
+
+“You magnificent bastard.”
+
+“Nigga, pay the woman.”
+
+He did.
+
+Twenty million went into Shawna's account before I got off the boat. She met me on the quay, took my wet face in both hands and kissed me while the third jeweled key hung between us.
+
+“What'd you buy me?” she asked.
+
+“Options.”
+
+She smiled.
+
+“I want the opera house.”
+
+“Then we better finish the month.”
+
+Above the cheering crowd, I saw Aurelio standing on his balcony beside the stranger in the dark uniform. The stranger wasn't watching the boats.
+
+He was watching me.
+
+When our eyes met, he raised two fingers in a slow salute.
+
+I didn't salute back.
+
+Nigga, a man that still in the middle of all that noise was either very impressed or very dangerous.
+
+I had room in my schedule for both.
+
+## 10. The Strongest Man in the Room Met Me
+
+The night after I won the Sea Crown, Mercedes and Porsche opened a club on somebody else's yacht.
+
+That somebody was Rocco Silvar. He insisted it was a temporary partnership. Porsche told him every partnership was temporary if he kept talking through the women explaining it to him.
+
+The yacht had three bars, a glass dance floor and a bedroom upstairs whose ceiling opened to the stars. Rocco showed me the bedroom personally.
+
+“Very popular,” he said.
+
+“With who?”
+
+“Guests.”
+
+“Nigga, that's a wide category.”
+
+He spread his hands, smiling. “We respect discretion.”
+
+From downstairs, Mercedes shouted his name.
+
+His smile vanished.
+
+“We also respect punctual payment,” he added, and hurried away.
+
+I brought Shawna flowers that night. Actual flowers, purchased without destroying the place they came from. She examined the bouquet like she suspected a car might be hidden inside it.
+
+“No fountain?” she asked.
+
+“No.”
+
+“No injured driver?”
+
+“No.”
+
+“You just went to a shop?”
+
+“Nigga, I am a complicated man.”
+
+She kissed me beside the yacht's rail while the party built around us. The harbor shone. Music rose through the deck. Beyond the lights, Isla Gloria lay somewhere in the dark, holding men who should have been sitting at tables like ours.
+
+We hadn't forgotten them.
+
+We also hadn't promised the duke we'd stop living while we came for him.
+
+Mercedes's club was called Blue Hour. The women working it had chosen their clothes, their prices and who they wanted near them. Some danced. Some hosted tables. Some took men upstairs and came back smiling at their phones rather than at the men. Nobody's passport disappeared into an office. Porsche kept the door with two huge attendants and the calm expression of a woman who had made an excellent list of people she wasn't allowing inside.
+
+Tank stood at the bar beside Rosa. A woman in silver leaned toward him, touched his sleeve and asked if he wanted company.
+
+He pointed to Rosa.
+
+“I got company.”
+
+The woman looked at her. Then back at him.
+
+“Oh. Good company.”
+
+“The best.”
+
+Rosa pretended not to hear. Failed so badly she had to look down into her drink.
+
+I nudged Tank.
+
+“Nigga, you glowing.”
+
+“That's the lights.”
+
+“Nigga, them lights don't have feelings.”
+
+“Mind your marriage.”
+
+“My marriage upstairs choosing what to take from the stars.”
+
+He laughed and pulled Rosa closer.
+
+Cassius arrived with Inez half an hour later. No sling. Just a dark jacket and the cautious way he held his shoulder. She wore red and carried the silver horse cane because, she said, it had grown on her.
+
+They weren't holding hands when they came aboard.
+
+They were by the time they reached our table.
+
+Nobody said a word for almost three seconds.
+
+Then Tank leaned forward.
+
+“Nigga.”
+
+Cassius closed his eyes.
+
+“Please don't.”
+
+“Nigga, your hand got a girlfriend.”
+
+Inez burst out laughing. Cassius tried to keep his face straight and lost immediately.
+
+Shawna kissed Inez's cheek.
+
+“You look happy.”
+
+“I am annoyed in a new direction.”
+
+Cassius lifted their joined hands.
+
+“Very committed annoyance.”
+
+We drank to that.
+
+Rosa sang first. The band gave her something slow and deep, a rhythm that moved through the floor before anybody decided to dance. She stood in the light with one hand on the microphone, looking at Tank while she sang about a man who kept arriving at her door pretending he had forgotten something.
+
+Tank looked at me.
+
+“Nigga, that ain't about me.”
+
+“Of course not.”
+
+“I really left my jacket.”
+
+“Seven times?”
+
+“Different jackets.”
+
+When the song ended, Rosa walked straight off the stage into his arms. He lifted her without thinking. The whole club cheered, and for once the man who could carry a car looked embarrassed by the attention.
+
+Then Mercedes announced the evening's guest.
+
+Bruno Bastion.
+
+Thirty-eight years old, six feet eight, shoulders like a doorway, champion of a dozen strength contests whose trophies looked too small in photographs because he was holding them. He came aboard wearing a sleeveless black shirt, white trousers and a gold belt large enough to keep a small nation together.
+
+Rocco had hired him for an exhibition. Guests could challenge him at the strength table. Anybody who beat him would receive a gold bar and a year's membership at the Coral Crown.
+
+Bruno looked around the club and smiled.
+
+“Who wants to try?”
+
+Four men did.
+
+Four men regretted it.
+
+The first lasted two seconds. The second lasted one. The third tried using both hands and lost more publicly. The fourth sat down, looked at Bruno's arm and decided he had always preferred dancing.
+
+Bruno laughed with him, not at him. I noticed that.
+
+Then he saw me.
+
+“Captain Aiden.”
+
+“Nigga, you know me?”
+
+“I watched the boat race.”
+
+“Which boat?”
+
+“The one where the car flew out of it.”
+
+“Oh. Regular boat race.”
+
+He laughed. A good big sound.
+
+“Come sit down.”
+
+The crowd began chanting before I moved.
+
+Shawna looked at Bruno's arm. Then mine. Then my face.
+
+“You're going to do it.”
+
+“Nigga, they got a chair ready.”
+
+“Aiden.”
+
+“I can't disrespect furniture twice in one night.”
+
+I sat opposite Bruno.
+
+Up close, his hand was enormous. He wrapped it around mine carefully, checking that I was ready instead of trying to surprise me. That made me like him more, which was unfortunate for his record because now I wanted him to have a memorable defeat.
+
+“No powers?” he asked.
+
+“No thunder.”
+
+“Good.”
+
+“No excuses?” I asked.
+
+He grinned.
+
+“None.”
+
+Porsche stood beside the table.
+
+“Ready?”
+
+Bruno nodded.
+
+I nodded.
+
+“Go.”
+
+The table creaked immediately.
+
+Nigga was strong.
+
+Not famous strong. Not gym-picture strong. Actual strength that arrived all at once and expected the world to make room. His forearm tightened. His shoulder rolled forward. My elbow pressed into the pad, and for half a second my hand moved toward the table.
+
+The crowd screamed.
+
+Tank slapped both hands over his head.
+
+“Nigga, don't let that mountain take you!”
+
+I looked at Bruno.
+
+He looked at me.
+
+We both smiled.
+
+Then I pushed back.
+
+Slowly.
+
+His eyes changed first. Then his breathing. Then the grin disappeared because his face had found more urgent work. I brought our hands upright, held them there for a beat and heard the whole club go quiet enough for the band to stop playing.
+
+Shawna stood behind me.
+
+“Come on, baby.”
+
+Nigga, that was unfair to Bruno.
+
+I put his hand down.
+
+The table broke.
+
+Not exploded. Not shattered into a weapon. It simply gave up beneath the amount of greatness it had been asked to host, one leg folding, the top dropping, both of us standing at once to keep from landing in our own victory.
+
+For a second Bruno stared at the broken wood.
+
+Then at his hand.
+
+Then he threw his head back and laughed so loudly the people on the neighboring yacht started cheering without knowing why.
+
+“You are a fucking monster.”
+
+“Nigga, I'm a husband.”
+
+Shawna came around the table and kissed me.
+
+The club lost its whole mind.
+
+Bruno took off his gold belt and put it over my shoulder before Rocco could explain that it wasn't part of the prize. I gave him my gold wheel from the harbor qualifier in return. Marcellus had fixed the clasp. It could handle a big nigga.
+
+“Now you raced,” I told him.
+
+He held it up, laughing.
+
+“Now you lifted.”
+
+We became friends over broken furniture. It happens.
+
+Later, Shawna went onstage.
+
+She asked for the pianist to stay, then looked toward me.
+
+“Aiden.”
+
+I froze with my drink halfway to my mouth.
+
+Tank saw my face.
+
+“Oh, nigga.”
+
+“What?”
+
+“She called you by the whole name.”
+
+“Nigga, that's the only name.”
+
+“She used all of it.”
+
+Shawna held out one hand.
+
+“Come here.”
+
+I went.
+
+The pianist stood up and offered me the bench. I looked at him.
+
+“Nigga, don't get generous.”
+
+Shawna leaned close.
+
+“You played for me in Vegas.”
+
+“That was a room.”
+
+“This is a bigger room.”
+
+I sat.
+
+I knew enough piano to make a woman stay beside it. I did not know every song in the world. My wife chose one I knew, and when I touched the first chord, she began singing before I could get distracted by the fact that an entire yacht had decided to watch my hands.
+
+Her voice settled over the notes.
+
+I followed it.
+
+That was the trick, if you can call loving somebody's voice a trick. I didn't try to outrun her. Didn't fill every space because I was afraid the room might notice silence. I gave her a place to step, and she stepped into it so beautifully that the people closest to the stage stopped holding their drinks halfway through their mouths.
+
+Then she changed the melody.
+
+Looked at me.
+
+Dared me.
+
+Nigga, I caught it.
+
+The pianist, standing beside the stage, put both hands on his head.
+
+Shawna laughed into the next line. I answered her with a bright run of notes that surprised me enough to make me grin. She came closer, one hand on my shoulder, singing now like we were alone again, except three hundred people were finding out what alone with her could sound like.
+
+When we finished, nobody moved for a breath.
+
+Then the room stood.
+
+Bruno lifted his new gold wheel above his head. Tank shouted so hard Rosa covered one ear. Mercedes climbed onto a chair. Porsche kept filming, steady as a woman who understood the value of proof.
+
+Shawna bent and kissed me at the piano.
+
+“You keep surprising me,” she whispered.
+
+“Nigga, I got to. You married me.”
+
+Her eyes shone.
+
+Upstairs, later, with the ceiling open and the stars above us, she laid her head on my chest and listened to the sea.
+
+“You liked them cheering,” she said.
+
+“Yeah.”
+
+“I liked them cheering too.”
+
+I looked down at her.
+
+“For you?”
+
+“For us.”
+
+She traced the edge of the cross at my chest. DBM. Damn, boy. Magnificent. Shawna had put those ridiculous words on Dante's cross years before I knew either of them, and now the gold lay warm against my skin like the dead nigga had handed me a compliment with instructions to keep earning it.
+
+“Do you ever get tired?” she asked.
+
+“Of you?”
+
+“Of needing to be the greatest thing in the room.”
+
+I considered lying beautifully.
+
+Didn't.
+
+“Sometimes.”
+
+She kissed my chest.
+
+“You can sleep in this room.”
+
+So I did.
+
+For three hours, nigga, the fastest king alive didn't go anywhere.
+
+At dawn, somebody knocked.
+
+It was Bruno, now wearing a shirt large enough to suggest he had borrowed a sail. Beside him stood Lark, holding a message written on the back of a shipyard meal ticket.
+
+Mateo's handwriting.
+
+She was smiling and crying at the same time.
+
+“He got my letter,” she said. “He knows we're coming.”
+
+I took the message.
+
+Most of it was for her. Ordinary things. Their apartment. The plant he had finally bought instead of flowers. The way he missed her swearing at the kettle. At the bottom he had added a line for me.
+
+*The duke is moving the old captains before the final race. There is a road under the opera house. Celadon says the third key opens more than a trophy.*
+
+I looked at the jeweled sea key on the bedside table.
+
+Bruno folded his huge arms.
+
+“I heard you need help on an island.”
+
+I smiled.
+
+“Nigga, bring a bigger table.”
+
+## 11. Three Cars and a Whole Lot of Me
+
+Porsche refused to drive a Porsche in the Midnight Relay.
+
+“Nigga, I'm not putting my name on somebody else's steering wheel,” she said.
+
+I looked at the red Ferrari she had chosen.
+
+“You understand that's another nigga's name too?”
+
+“Not mine. That's the distinction.”
+
+Mercedes leaned against the passenger door, wearing a white racing suit with blue stripes.
+
+“She been waiting all week to say distinction.”
+
+“And used it perfectly.”
+
+The Midnight Relay required three cars and three drivers on each team. One leg through the old city, one along the harbor, one up the royal road to the palace. The fourth key would go to the team with the fastest combined time.
+
+Naturally, the duke expected me to run the final leg alone while my people lost enough time to make my greatness mathematically inconvenient.
+
+Nigga didn't know my people.
+
+Porsche took the first leg with Mercedes. Tank took the second with Rosa because he said if a race required somebody shouting at him from the passenger seat, he wanted his favorite voice. I took the last in the police Lamborghini with Shawna.
+
+Lark ran the garage. Cassius and Inez entered together on another team, joined by Rafe Velluto, who had decided nearly dying beside Bellario was a poor foundation for continued loyalty to the duke. Bruno supervised our starting area by standing in it. Nobody argued with the placement.
+
+We practiced in the afternoon on a closed road above the port.
+
+Porsche was fast immediately.
+
+Not reckless. Fast. She read the road with a hard, clear attention I recognized from watching her negotiate. Once she chose a line, she committed to it. Mercedes called the turns and insulted her at useful moments.
+
+“Brake, nigga.”
+
+“I am braking.”
+
+“Then brake with your foot instead of your opinion.”
+
+The car came around the bend beautifully.
+
+They both screamed with delight.
+
+Tank was a different experience.
+
+He had chosen a huge black performance coupe because he said small cars made him feel like somebody had shipped his knees separately. He sat behind the wheel with both shoulders taking up the available country and looked at the practice course.
+
+“I got this.”
+
+Rosa tightened her belt.
+
+“I know.”
+
+He took the first turn too wide.
+
+She grabbed the door.
+
+“I knew less than I thought.”
+
+He corrected, overcorrected and brought the car to a stop beside the cones with one cone under the front bumper and another somehow upright on the hood.
+
+I walked over.
+
+“Nigga.”
+
+Tank stared through the windshield.
+
+“Don't.”
+
+“Nigga, the cone riding better than you.”
+
+Rosa covered her face.
+
+Tank opened the door and got out.
+
+“Then you show me.”
+
+So I did.
+
+Not with a lecture. I put him in the passenger seat and drove the course once, slow enough for him to feel what I was doing. Then once fast. He watched my hands. Asked a question without pretending he already knew the answer. I liked him for that more than I could have told him without making him uncomfortable.
+
+When he took the wheel again, he was better.
+
+By the fifth run, he was good.
+
+By the eighth, Rosa came out of the car laughing instead of gripping the door like it owed her money.
+
+“Nigga,” Tank said, looking at me, “you should teach.”
+
+“I already graduated.”
+
+“That ain't the same thing.”
+
+“It was when I did it.”
+
+He shook his head, grinning, and went for another run.
+
+At dusk, the teams gathered beneath the palace hill. The city had strung lights along the course. Blue over the harbor, gold through the old streets, red above the final climb. It looked like somebody had dressed an entire country for my entrance.
+
+The duke stood on the ceremonial platform with Count Adrian, three local magnates and the stranger in the dark uniform. Bellario's empty chair had been removed. No announcement. Just a gap covered by a vase.
+
+Nigga loved hiding a man with flowers.
+
+Aurelio announced a special prize for the night's winning captain: a diamond-studded steering wheel and the right to choose his place in the island stages.
+
+He looked directly at me when he said choose.
+
+I smiled back.
+
+My third key was in Shawna's pocket. The note about the road beneath the opera house was folded beside it. We were learning what his prizes had been built to control.
+
+The first leg began at nine.
+
+Porsche left the line third.
+
+By the old customs house she was second.
+
+On the big screen above the starting area, we watched her red Ferrari move through the narrow streets, Mercedes's head turning beside her as she called the road. A silver car pressed ahead. A green coupe chased behind. The crowd followed each turn with a roar that rolled across the square.
+
+Tank stood with both hands on his head again.
+
+“Nigga, she driving.”
+
+“She said she would.”
+
+“Nigga, she driving like she mad at the future.”
+
+The silver car braked at the market bend. Porsche slipped inside it, took the lead and came out with her rear tires smoking just enough to make the crowd believe it had witnessed a threat become a woman.
+
+Mercedes's voice came through our radio.
+
+“We first, motherfuckers.”
+
+Porsche shouted something joyous and filthy behind her.
+
+I laughed so hard Shawna had to take the radio from my hand.
+
+At the changeover, Porsche stopped cleanly. Mercedes jumped out with the relay baton, ran to Tank and slapped it into his waiting palm.
+
+“Don't embarrass the ladies.”
+
+“Nigga, watch me.”
+
+Tank went.
+
+The black coupe roared onto the harbor road with Rosa beside him and a cone nowhere in sight. He held first through the opening bend. Lost a little on the long descent. Gained it back where the road widened, letting the car use the power he'd been carrying too carefully in practice.
+
+Rosa's voice came through the channel.
+
+“That's it. That's it, baby.”
+
+Tank laughed.
+
+“Nigga, I can do this.”
+
+I leaned toward the radio.
+
+“You doing it.”
+
+Then the lights went out.
+
+Not all of them. A whole section of the harbor course, two long bends beneath the warehouse roofs. The screen went dark there. We could still hear engines, the crowd's frightened intake of breath, Rosa saying Tank's name once.
+
+My chest tightened.
+
+“Nigga, talk.”
+
+Tank answered immediately.
+
+“I'm here.”
+
+“Keep coming.”
+
+“Something in the road.”
+
+The screen returned in a flash of headlights.
+
+A truck had backed out of a warehouse. Behind it, three motorcycles moved across the course, riders in dark helmets. This wasn't a hidden mistake. This was a public attempt to break the race under enough confusion to blame the night.
+
+Tank slowed.
+
+The green coupe behind him didn't.
+
+It struck his rear corner and pushed him toward the truck.
+
+Rosa cried out.
+
+I was already in my car.
+
+“Aiden,” Shawna said, climbing in beside me.
+
+“I know.”
+
+We hadn't received the baton. My leg hadn't started. I did not give one single magnificent fuck.
+
+I drove.
+
+The police Lamborghini left the staging area in a roar of blue lights. Officials jumped aside. Bruno lifted a barrier out of our path like he was opening a curtain. We hit the harbor road with the siren howling and the crowd splitting around us in a wave of raised hands.
+
+Ahead, Tank had stopped sideways between the truck and the water. One motorcycle lay on its side. Rosa was outside the car, helping its rider away from the hot engine. Even with somebody trying to hurt them, that woman had found a person to save.
+
+The other two riders turned toward us.
+
+“Nigga,” I said, “bad direction.”
+
+I took the car between them.
+
+One swerved into a stack of empty crates. The other dropped his bike and ran. Tank caught him by the back of his jacket before he reached the warehouse door.
+
+“Where you going?” Tank demanded.
+
+The man kicked at him.
+
+Tank lifted him higher.
+
+“Nigga, now you going up.”
+
+I stopped beside Rosa. Shawna jumped out and helped her move the injured rider behind the car. He was groaning, frightened, no longer anybody's dangerous idea. Odette's officers arrived moments later and took the attackers into custody.
+
+Tank came to my window.
+
+“Rosa good?”
+
+“She good.”
+
+“My car ain't.”
+
+I looked at the black coupe. Its rear wheel sat at an angle nature had not intended.
+
+Tank held up the relay baton.
+
+“I got this far.”
+
+I took it from him.
+
+“Nigga, that's far enough. Get your woman.”
+
+He nodded, went to Rosa and gathered her into his arms. She held his face between her hands and kissed him with such fierce relief that even the officers looked away.
+
+I put the baton beside Shawna's seat.
+
+The race channel erupted.
+
+“Captain Aiden has entered the second leg without authorization. The final changeover has not—”
+
+Odette's voice cut across it.
+
+“The changeover occurred at the disabled vehicle. I witnessed it.”
+
+A pause.
+
+“That isn't the designated—”
+
+“I am designating it.”
+
+Nigga, I loved a woman who could finish a sentence like a gunshot.
+
+We went.
+
+The leaders were far ahead. Cassius's team had taken first; Rafe had completed the opening leg, Inez the harbor section, and Cassius himself now drove the final climb with his doctor's reluctant approval and one very determined shoulder.
+
+I wanted him to win something.
+
+Just not this.
+
+We passed the first trailing car at the tunnel. Passed another on the hill. The Lamborghini climbed under us, blue lights washing the palace walls. Shawna watched the clock and the road, then put the clock down.
+
+“What?” I asked.
+
+“I'd rather watch you.”
+
+“Nigga, that costs extra.”
+
+“I paid in years of my life at the ballroom.”
+
+I laughed and took the next turn tighter.
+
+At the final straight, Cassius's silver car appeared ahead. He saw my lights in his mirror. His window came down.
+
+“You stopped again?” he shouted as I came alongside.
+
+“Nigga, y'all keep needing things!”
+
+He laughed, shook his head and put his foot down.
+
+For one long shining second we ran together beneath the palace lights, two men whose fathers and ghosts and impossible women had brought them to the same road.
+
+Then my Lamborghini edged ahead.
+
+We crossed first.
+
+The palace square exploded with noise.
+
+Porsche and Mercedes reached the finish before I got out. They had commandeered a service cart and driven it up the hill with Bruno standing on the back like a monument that had grown impatient.
+
+“We won?” Porsche shouted.
+
+I held up the baton.
+
+“Nigga, we won.”
+
+Mercedes jumped into my arms. Porsche kissed Shawna's cheek. Bruno lifted both women onto his shoulders while the crowd cheered, and Rocco, somewhere near the platform, announced that the Blue Hour team had free drinks for the rest of the month.
+
+Porsche shouted down at him.
+
+“Put it in writing!”
+
+Tank arrived with Rosa in Odette's car. I met him at the door.
+
+“You did good,” I said.
+
+He shook his head.
+
+“You had to come get me.”
+
+“Nigga, you got Rosa out. You kept the baton. You brought your people through. Don't make me argue with you while we winning.”
+
+He looked at me for a moment.
+
+Then he pulled me into a hug so hard my feet nearly left the ground.
+
+“My brother,” he said.
+
+“Always.”
+
+The duke presented the fourth key without touching my hand.
+
+The stranger in the dark uniform stood behind him. This time he spoke.
+
+“You collect people, Captain.”
+
+His voice was deep, quiet, carrying easily through the noise around us.
+
+I looked at him.
+
+“They collect me.”
+
+“An expensive habit.”
+
+“Nigga, I'm rich.”
+
+A faint smile touched his mouth.
+
+“So I see.”
+
+He stepped back before I could ask his name.
+
+Shawna took the new key, laid it beside the third and looked toward the sea.
+
+“Tomorrow,” she said, “we go see my opera house.”
+
+I put an arm around her waist.
+
+“Nigga, let's see what the duke keeps under the music.”
+
+## 12. There Was a Road Under Her Song
+
+Isla Gloria looked like somebody had built a crown and then put beaches around it so it wouldn't seem arrogant.
+
+The palace stood on the highest point, white stone against green hills. Below it, the opera house faced the harbor with six tall columns and a roof the color of old copper. Roads wound between gardens, hotels and little houses painted yellow, blue and pink. At the far end of the island, beyond a black ridge, cranes stood over the shipyard like long-necked birds nobody had fed.
+
+Shawna leaned against the rail of our ferry.
+
+“That one,” she said, pointing at the opera house.
+
+“Nigga, I know.”
+
+“I want the blue room upstairs.”
+
+“You ain't seen upstairs.”
+
+“I can tell.”
+
+Mercedes nodded beside her.
+
+“She can tell.”
+
+Porsche looked at me.
+
+“Nigga, don't argue with architecture. It picked her.”
+
+We had come under an official invitation to tour the island before the final stages. The duke wanted cameras showing us enjoying his hospitality. We wanted to see the road beneath the opera house. Everybody was getting something out of the morning.
+
+Odette stayed on the mainland with Bellario and the witnesses. Bruno came with us. So did Esteban, Cassius, Inez and Lark. Rosa had a rehearsal with the island musicians. Mercedes and Porsche brought clothing and money for people who might need to leave quickly, carried in bags that looked exactly like what rich women brought to an island because they were exactly that too.
+
+Nigga, my people could pack a rescue inside a vacation.
+
+A harbor band greeted us at the quay.
+
+They began the duke's anthem.
+
+Then their drummer recognized me, hit a different rhythm and shouted, “Captain!”
+
+The brass section followed him without permission. The anthem became something faster, louder and much more interested in my arrival. People came out of the cafes. Workers leaned from windows. A man carrying a crate set it down and began clapping over his head.
+
+The duke's representative, a thin man called Lord Orlan, tried to speak through the music.
+
+“Welcome to—”
+
+“Aiden!” the crowd shouted.
+
+“His Grace hopes—”
+
+“Aiden!”
+
+Orlan gave up and handed me the flowers.
+
+Shawna took them.
+
+“For the house,” she said.
+
+A line of cars waited beyond the quay. The duke had arranged sedans. I had arranged for my Lamborghini to come off the ferry behind us. Tank's new black coupe followed it, replacement already purchased because Rosa said she couldn't watch him mourn a wheel for the rest of the month.
+
+Bruno climbed into the back of a large open car and made its suspension bow respectfully.
+
+Orlan led us through town toward the opera house.
+
+People watched from every doorway. Not all of them cheered. Some looked at us with a cautious attention that made the bright buildings seem thinner. They had heard about the rescued workers. They knew people whose names were on Lucien's list. They didn't know yet whether I was a visitor who would leave them with a worse duke or a man who meant what the harbor wall said.
+
+I waved anyway.
+
+Then I stopped the car.
+
+A woman stood outside a bakery holding a little photograph against her apron. She was about sixty, face lined from sun and worry. I got out and walked to her.
+
+“Who?” I asked.
+
+“My son. Julian. He's a mechanic.”
+
+She held up the picture.
+
+I recognized him from Cinder Dock. One of the eleven. The man who had knelt and touched the ground.
+
+“He's safe,” I said.
+
+She stared at me.
+
+“He's on the mainland. Odette's people got him a room. We can call him right now.”
+
+Her hand went to her mouth.
+
+Porsche was beside me already with her phone.
+
+Five minutes later the woman was hearing her son's voice for the first time in two months.
+
+The whole street had stopped.
+
+She laughed. Cried. Called him an idiot for not eating enough. Nigga, mothers can cross an ocean between sentences and still arrive with a complaint ready.
+
+When she handed the phone back, she took my face in both hands and kissed my forehead.
+
+“You came back for him.”
+
+I looked at the crowd around us.
+
+“We got more to do.”
+
+The cheering began slowly this time.
+
+It hit harder.
+
+At the opera house, a conductor named Maestra Valentina Sorell met Shawna at the doors. She was fifty-seven, straight-backed, silver hair pinned high and the expression of a woman who had heard every excuse a singer could invent and rejected most of them before breakfast.
+
+“I heard your performance at the banquet,” she said.
+
+Shawna smiled.
+
+“Thank you.”
+
+“I didn't say whether I liked it.”
+
+“No. But you opened the door.”
+
+Valentina held her gaze.
+
+Then she smiled too.
+
+Nigga, my wife had just won an argument in music without singing.
+
+The hall was magnificent. Red seats, gold balconies, a ceiling painted with clouds. The stage stood beneath a great blue curtain embroidered with silver stars. Shawna walked down the aisle slowly, touching the backs of seats as she passed.
+
+I watched her face.
+
+Some things a man buys because he wants other people to see the price. Some things he wants because he has seen the person he loves imagine a life inside them.
+
+I wanted this whole fucking room.
+
+For her.
+
+Rosa joined the musicians near the pit. Tank followed, carrying her bag like it contained his religion. Mercedes and Porsche went upstairs with a wardrobe assistant who had recognized them from Blue Hour. Lark asked to see the building's old machinery, and Cassius went with her. Esteban remained beside Inez, staring at a portrait in the side corridor.
+
+Amalia.
+
+She had sung here once, he told me. Not professionally. At a festival after a race. The portrait showed her laughing with a flower in her hair, the same open happiness that had survived in the photograph on his table.
+
+The duke hadn't covered this one.
+
+Maybe he thought a dead woman's smile couldn't accuse him.
+
+Nigga was wrong about a lot of things.
+
+Valentina asked Shawna to sing one passage onstage.
+
+Shawna looked at me.
+
+I sat in the front row.
+
+“I'm here.”
+
+She began.
+
+The empty hall filled around her voice. No microphone. No chandelier party. Just air, stone, wood and a woman standing where she wanted to stand. Valentina's expression changed halfway through the first phrase. By the end she had folded her hands against her chest.
+
+Shawna stopped.
+
+The echo stayed.
+
+Valentina looked at me.
+
+“You brought us a queen.”
+
+“Nigga, I've been saying.”
+
+She blinked at the word, then laughed because my face had apparently made the meaning clear enough.
+
+“I should like her to stay.”
+
+“That's her call.”
+
+Shawna came down from the stage.
+
+“I'll sing the closing concert,” she said. “With Rosa. And the full company.”
+
+Valentina nodded.
+
+“The duke has reduced the company.”
+
+“Then unreduced it,” I said.
+
+She looked at me.
+
+“Nigga, bring everybody back.”
+
+For the first time, the old conductor's eyes shone.
+
+We left them discussing music while I went looking for Lark.
+
+I found her beneath the stage, standing in front of an iron door with the third jeweled key in her hand. Shawna had given it to her before rehearsal. Cassius stood beside her, holding a lamp. On the door was the same little white bird.
+
+“The old service road,” Lark said. “Runs beneath the hill to the shipyard.”
+
+“How'd you find it?”
+
+“The stage carpenter's brother is missing. He stopped pretending he didn't know things when I said Mateo's name.”
+
+The key turned.
+
+The door opened onto a sloping passage wide enough for a car. Electric lights ran along one wall. Far below, we could hear engines.
+
+Cassius looked at me.
+
+“My father.”
+
+“Maybe.”
+
+This time he accepted the word.
+
+We went down together, with Tank and Bruno joining us at the first turn. Shawna came after them carrying her jacket and the expression that meant she had heard half an explanation and was coming for the other half in person.
+
+“Nigga, don't leave me upstairs singing to a trapdoor.”
+
+“I was about to call.”
+
+“Then your timing's improving.”
+
+The passage ended at a broad underground garage. Old racing cars stood under covers. Crates filled one wall. At the far end, a group of workers loaded equipment into a truck under the watch of three guards.
+
+Lark stopped so suddenly Cassius nearly walked into her.
+
+“Mateo.”
+
+The man near the truck looked up.
+
+Thirty-four. Dark hair. Lean face. One hand bandaged. He stared at her like the whole underground room had become a dream he was afraid to wake from.
+
+“Lark?”
+
+She ran.
+
+A guard stepped into her path.
+
+Bruno moved first.
+
+Nigga, I had seen strong men hurry. I had never seen a mountain decide it had an appointment. He crossed the space in three strides, caught the guard around the middle and sat him on the hood of a covered car with enough force to end the conversation.
+
+Tank took the second guard.
+
+I took the third.
+
+It was not a long fight. Sometimes a man who has spent months frightening hungry workers discovers he has not actually been practicing for us.
+
+Mateo dropped the crate in his hands.
+
+Lark hit him with both arms around his neck.
+
+He held her so tightly I looked away for a second. Not because it was private in the way a bedroom is private. Because there was something in that first breath together I didn't want to turn into a thing I owned by watching too closely.
+
+Shawna took my hand.
+
+We let them have it.
+
+Then Mateo lifted his head.
+
+“You came.”
+
+Lark was crying openly now.
+
+“Nigga, I told you to buy a plant and come home. You had one job after the plant.”
+
+He laughed into her hair.
+
+“I bought it.”
+
+“Then you better be alive to water it.”
+
+“I am.”
+
+She kissed him like she needed the answer in a language his mouth couldn't get wrong.
+
+Behind them, the other workers began moving toward us.
+
+There were nine in the garage. We took all nine.
+
+Mateo told us Nero and Celadon had been moved that morning to the Sovereign Sun, now anchored beyond the shipyard. The duke's captain, Morcant, had taken them personally. He was preparing to leave the island before the final race.
+
+Cassius swore and turned toward the passage leading deeper under the hill.
+
+I caught his shoulder carefully.
+
+“We got people to bring out.”
+
+“My father—”
+
+“We know where he is. We can go after him with everybody ready.”
+
+His eyes burned.
+
+I held them.
+
+“Nigga, don't make him wait seven years for you to die running past help.”
+
+He looked at the workers. At Lark and Mateo. At Inez, who had reached us now and stood beside the passage without trying to hide how frightened she was for him.
+
+He nodded once.
+
+“All right.”
+
+Then an engine started beyond the garage.
+
+A black armored car came through the far entrance, followed by two motorcycles. Its windows were dark. Its front grille looked like it had been designed specifically to discourage touching.
+
+A voice came through a speaker.
+
+“Step away from the workers.”
+
+I looked at Tank.
+
+Tank looked at Bruno.
+
+Bruno looked at the covered cars.
+
+Nigga, the three of us had the same beautiful problem at once.
+
+No Lamborghini.
+
+Plenty of cars.
+
+I pulled the nearest cover off.
+
+Under it sat a white racing machine with a long nose and a painted bird on the hood.
+
+The White Heron.
+
+Cassius made a sound beside me.
+
+Esteban, arriving at the garage entrance, stopped dead.
+
+“My God.”
+
+I opened the driver's door.
+
+“Nigga, your god got keys?”
+
+Mateo reached into his pocket and threw them to me.
+
+“I kept it running,” he said.
+
+Of course he had.
+
+I got in. Shawna took the seat beside me. Behind us, Tank and Bruno moved the workers toward the service passage while Cassius and Inez covered the retreat.
+
+The armored car came forward.
+
+I started the White Heron.
+
+Seven years of waiting woke beneath the hood.
+
+Esteban put one hand on the roof as I rolled past.
+
+“Bring her back,” he said.
+
+I looked up at him.
+
+“Nigga, I'm bringing everybody back.”
+
+Then I drove straight at the duke's black car.
+
+## 13. I Drove a Legend Through the Opera
+
+The White Heron had a steering wheel made of polished wood, a dashboard full of old-fashioned dials and an engine that sounded like seven years of patience had finally called somebody a bitch.
+
+“Nigga,” I said, “I like this car.”
+
+Shawna pulled her belt tight.
+
+“This car hasn't met you.”
+
+The black armored machine came toward us through the underground garage. Its driver expected me to stop. I could see that in the straight line he held, the lazy confidence of a man whose vehicle weighed twice mine and whose employer had never encouraged imagination.
+
+I went left at the last second.
+
+The White Heron slipped between his bumper and a stack of crates. Wood burst behind us. Shawna ducked as a loose lid flew across the hood. I brought the car around the far end of the garage and headed for the sloping service road while the motorcycles split to follow.
+
+Behind us, Tank and Bruno were getting the workers through the other passage. Cassius had the rear. Inez helped Esteban, who kept turning to look at the white car as if seeing it move had put another age inside his chest.
+
+They were moving.
+
+That was what I needed.
+
+The first motorcycle came alongside.
+
+Its rider looked through Shawna's window.
+
+She looked back.
+
+“Nigga, wrong wife,” I said.
+
+She lifted her pistol just enough for him to see the choice clearly.
+
+He fell back.
+
+The second rider tried the other side. I moved close to the wall, not touching him, simply removing the generous amount of road he had assumed belonged to his bad decision. He braked hard and struck a stack of empty barrels.
+
+They went everywhere.
+
+The nigga disappeared into the sound of his own entrance.
+
+We climbed.
+
+The White Heron wasn't the Lamborghini. It was narrower, lighter in my hands, fierce in a different way. I could feel the old road beneath its tires, the deep worn grooves of a passage built before the duke started calling everything his. The car wanted speed. It wanted a driver who didn't mistake age for apology.
+
+I gave it one.
+
+Shawna looked back.
+
+“The black car's coming.”
+
+“I hear it.”
+
+Ahead, the service road split. One branch climbed toward daylight. The other led beneath the opera stage. I had come down that way. I knew the iron door, the narrow turn, the room where the stage machinery stood.
+
+The armored car couldn't fit through all of it as easily as I could.
+
+Nigga, sometimes being pretty has dimensions.
+
+I took the stage road.
+
+Behind us, the black car hit the corner too wide. Metal screamed against stone. It kept coming, but slower now, one headlight broken, the driver learning that weight could be an inconvenience when the world stopped being impressed by it.
+
+We reached the iron door.
+
+Closed.
+
+Shawna held up the third key.
+
+“Nigga.”
+
+“I know.”
+
+I stopped. She was out before the car settled, key in her hand. The lock turned. The door opened just as the black car appeared around the bend below us.
+
+She got back in.
+
+I drove through.
+
+On the other side, the stage carpenter stood beside a great lifting platform with both hands raised.
+
+“No cars!” he shouted.
+
+“Nigga, temporary exception!”
+
+We rolled onto the platform.
+
+He stared at us.
+
+Then he stared at the armored car squeezing through the iron doorway behind us.
+
+His face changed.
+
+“Up?” he asked.
+
+“Up,” Shawna said.
+
+He pulled the lever.
+
+The platform rose.
+
+Slowly at first. Then faster, old machinery groaning around us. Above, a square of stage floor opened into light. I could hear music. Rosa singing with the orchestra, unaware that her rehearsal was about to acquire a car.
+
+The White Heron emerged through the center of the stage.
+
+Rosa stopped on a note so high it almost became a weapon.
+
+The orchestra stopped with her.
+
+Valentina stood in the conductor's place, baton lifted, looking at the white racing car rising between her singers.
+
+Shawna rolled down her window.
+
+“We found the road.”
+
+Valentina stared.
+
+“Nigga,” Rosa said, “why is your husband in my key change?”
+
+The platform reached the stage.
+
+Behind us, the armored car struck the lift's lower gate. The impact shook the boards beneath our wheels.
+
+I opened my door and stood up.
+
+“Everybody off the stage.”
+
+No speech. No explanation long enough to get somebody hurt. Valentina saw my face, turned to her company and moved them toward the wings with the speed of a woman who had spent forty years making talented people obey a cue.
+
+Rosa came to Shawna's side.
+
+“Tank?”
+
+“Bringing the workers out. He's safe.”
+
+Rosa nodded and took the nearest singer's hand.
+
+We cleared the stage.
+
+Then the black car's roof appeared through the opening.
+
+The driver had forced the lower gate aside and brought his vehicle onto the lift before it could descend fully. The mechanism protested. The stage boards shook. The front of the armored car rose crookedly into the light, one wheel hanging lower than the other.
+
+Nigga was committed to arriving badly.
+
+I climbed back into the White Heron.
+
+Shawna held the door for Rosa to get clear, then shut it and looked at me.
+
+“You got a plan?”
+
+“Enough of one.”
+
+“That is your favorite amount.”
+
+I drove across the stage.
+
+The black car lurched after us, scraping the edge of the opening. We went through the blue curtain into a side passage wide enough for scenery carts. The armored car followed and immediately discovered why scenery carts did not come with armor.
+
+It wedged between the walls.
+
+Stopped.
+
+Its driver revved the engine.
+
+The walls remained unimpressed.
+
+I stopped the White Heron at the far end and got out.
+
+Tank appeared at the passage entrance with Bruno beside him. They had brought the workers upstairs through the side corridor. Mateo stood behind them with Lark holding his arm so tightly I doubted the nigga would ever be allowed to leave a room without checking in again.
+
+Tank looked at the stuck car.
+
+“Nigga parked with confidence.”
+
+Bruno put both hands on its hood.
+
+“You want him out?”
+
+“Yeah.”
+
+They opened the door together.
+
+I am choosing opened because the door eventually did what a door is supposed to do, even if it no longer planned to remain part of the car afterward.
+
+The driver came out with both hands visible.
+
+Smartest thing he'd done all day.
+
+We took his gun, put him beside the other guards and called Odette's officers already waiting near the ferry terminal. Lord Orlan arrived halfway through and tried to explain that the duke would be distressed by the damage to the opera house.
+
+Shawna turned toward him.
+
+“Then he can pay the company to rehearse somewhere while it's fixed.”
+
+“The cost—”
+
+“Nigga,” I said, “look at me before you complain about a bill.”
+
+He looked.
+
+Stopped complaining.
+
+The workers came into the auditorium one by one. Nine people from the underground garage, pale in the daylight falling through the open doors. The singers brought water. The stage crew brought chairs. Somebody found bread. Valentina herself knelt beside a woman whose feet had blistered in old work shoes and helped her take them off.
+
+The grand room changed purpose without losing any of its beauty.
+
+Esteban walked onto the stage and stood beside the White Heron.
+
+Cassius joined him.
+
+Neither touched it at first.
+
+Then Esteban put one hand on the wooden wheel, and Cassius rested his good hand on the door.
+
+“My father told me,” Cassius said, “that this car could make a coward honest because there wasn't enough metal between him and the road to lie.”
+
+Esteban smiled sadly.
+
+“He told me it could make an old man young if the old man stopped talking and drove.”
+
+“Both sound like him.”
+
+“Yes.”
+
+I came up beside them.
+
+“Car did good.”
+
+Esteban looked at me.
+
+“You drove it like you knew her.”
+
+“Nigga, she introduced herself loudly.”
+
+He laughed. Then the laugh broke, and he leaned against the roof with his eyes closed.
+
+Cassius stayed beside him.
+
+No accusation. No seven-year argument reopening because the room had gotten quiet. Just a son and an old friend standing with a car that had outlived a terrible lie.
+
+I left the keys in Cassius's hand.
+
+“Your father going to want those.”
+
+He closed his fingers around them.
+
+“I know.”
+
+Outside, a crowd had gathered on the opera steps. They had heard gunfire under the hill, seen police at the ferry and watched workers come out of a building where the duke had told them nothing unusual happened.
+
+When Mateo stepped through the doors beside Lark, a man in the crowd called his name.
+
+Mateo looked up.
+
+Then three people ran forward. Friends from the island crew. They caught him between them, laughing and crying, asking questions over one another until Lark said, “Niggas, one at a time. I just got him back.”
+
+They made room for her immediately.
+
+Mercedes and Porsche arranged places on the ferry for everybody leaving. They paid for rooms before the boat sailed. No speeches. No making people say thank you to a camera. Just keys, blankets, money in hands that had been empty too long.
+
+A reporter asked me whether the incident would affect my standing in the Grand Prix.
+
+I looked at the opera house behind me.
+
+“Nigga, I just drove a champion out of a basement and gave nine people their afternoon back. My standing looks excellent.”
+
+The crowd roared.
+
+The reporter tried another question.
+
+“Do you still intend to claim the island?”
+
+Shawna came down the steps and took my arm.
+
+I looked at her, then back at him.
+
+“My wife likes the acoustics.”
+
+That was the sentence they played all night.
+
+On the ferry home, Lark and Mateo sat together under a blanket despite the warm evening. He kept touching her hands, her hair, the edge of her sleeve, small checks that she was still there. She let him, though once she caught his wrist and said, “Nigga, I'm not evaporating.”
+
+He smiled.
+
+“I know.”
+
+“You keep looking.”
+
+“I missed looking.”
+
+She went quiet then and leaned into him.
+
+Tank and Bruno stood at the rail discussing the stuck armored car with the professional respect of men who had found a satisfying object to move. Rosa listened for two minutes, shook her head and went to sit with Shawna.
+
+Cassius stood alone near the stern.
+
+I went to him.
+
+“Tomorrow?” he asked before I spoke.
+
+“We find a way onto the Sovereign Sun.”
+
+“I don't want to wait another race.”
+
+“We won't.”
+
+He looked at me then.
+
+“You promise?”
+
+I didn't use the word lightly with a man holding his father's keys.
+
+“Yeah,” I said. “I promise we go.”
+
+Inez joined us, slipped her hand into his and looked toward the dark shape of the flagship beyond the ridge.
+
+“He's coming home,” she said.
+
+Cassius nodded.
+
+Down in the ferry's vehicle bay, the White Heron stood beside my police Lamborghini. Old white, new blue. Two impossible cars from two generations of niggas who had thought a race might let them decide what kind of man they would become.
+
+I rested my hands on the rail.
+
+The duke had lost his hidden road.
+
+He was about to lose his captain.
+
+And if he kept sending cars after me, nigga, he was going to lose the whole fucking garage.
+
+## 14. A Father Is Not a Prize
+
+Cassius wore his father's jacket to the rescue.
+
+It was too loose through the shoulders and a little short at the wrists. He had found it in the shed with the Red Saint, folded in a box beside old race programs. The leather smelled faintly of oil and the kind of time nobody can buy back.
+
+I saw him standing beside the helicopter and didn't make a joke.
+
+Tank did.
+
+“Nigga, you dressed like you about to apologize to a motorcycle.”
+
+Cassius looked down at himself.
+
+“It's my father's.”
+
+Tank's face changed.
+
+“Then it's a good jacket.”
+
+Cassius nodded.
+
+“Yeah.”
+
+That was the whole conversation. Sometimes my brother knew exactly when to stop being funny.
+
+The Sovereign Sun had moved overnight to a private anchorage beyond Isla Gloria's northern cliffs. Its public crew were ashore. Captain Morcant commanded the men left aboard, along with the two prisoners the duke had kept out of sight for seven years.
+
+Odette had received word from a crewman who had managed to leave with the opera workers. Morcant planned to sail before sunset. Nobody knew where.
+
+We weren't letting the afternoon decide for us.
+
+Our pilot was a woman named Selene Price, thirty-nine, former rescue flyer, hired by Rocco after Porsche explained that his casino would benefit from being remembered fondly by the people currently saving his guests. Selene looked at the list of passengers, then at Bruno.
+
+“You're two,” she told him.
+
+He looked at Tank.
+
+“So is he.”
+
+“Nigga,” Tank said, “I don't split fares.”
+
+We took two helicopters.
+
+Shawna came in mine with Cassius and Inez. Tank, Bruno and two of Odette's officers took the second. Rosa stayed on the rescue yacht below with Mercedes, Porsche, Lark, Mateo and a medical crew. Esteban waited there too, holding the goat trophy in both hands like Nero might recognize it before he recognized the years on his friend's face.
+
+Before we boarded, Shawna caught my wrist.
+
+“You're quiet.”
+
+“Thinking.”
+
+“About?”
+
+“The promise.”
+
+She looked toward Cassius.
+
+Then back at me.
+
+“You promised to go. You're going. Bring your eyes with you.”
+
+I kissed her.
+
+“Nigga, you keep making good points at inconvenient times.”
+
+“That is marriage.”
+
+We lifted off.
+
+The island passed beneath us, bright roofs and green hills. Then the northern cliffs opened to the sea, and the Sovereign Sun appeared in the cove below, white decks empty, gold trim shining like the ship hadn't done a damn thing wrong.
+
+Two armed boats circled it.
+
+Morcant had expected trouble.
+
+Nigga, he had underestimated the transportation.
+
+Selene brought us low over the water. The first guard boat turned toward us. A gun flashed from its bow. The helicopter jolted as a shot struck something behind the cabin, loud enough to make Cassius flinch and Inez reach for his good hand.
+
+Selene didn't even swear.
+
+“Rude,” she said.
+
+Then she took us over the yacht's stern.
+
+The second helicopter came across from the other side. Tank stood at its open door, one hand locked on the frame, shouting down at the men on deck like he had come to collect a personal debt from the entire boat.
+
+“Police, niggas!”
+
+I shook my head.
+
+“Nigga love my job.”
+
+Selene set us onto the upper platform hard enough to bounce. I was out before the rotor slowed, Shawna behind me, Cassius and Inez moving toward the stairwell together. The guards on the deck had turned toward Tank's helicopter. By the time they saw us, I had already reached the first one.
+
+He swung his rifle toward me.
+
+I hit him with my shoulder and drove him into a sun lounger. The weapon skidded away. Shawna covered the second guard until Odette's officer took him down. The third ran toward the bridge.
+
+I followed.
+
+The yacht shook under our feet as its engines woke.
+
+Morcant was leaving.
+
+Nigga had seen two helicopters land on his boat and decided the solution was a different patch of ocean.
+
+I reached the bridge door just as he came out.
+
+Morcant was forty-six, heavy through the chest, shaved head, white shirt open at the throat. He carried a pistol in one hand and a ceremonial saber in the other, because apparently he couldn't decide whether to be a captain or a warning label.
+
+“You're on my ship,” he said.
+
+“Nigga, your captain downstairs.”
+
+His jaw tightened.
+
+“Celadon lost his ship.”
+
+“No. A nigga stole it.”
+
+He lifted the pistol.
+
+I moved behind the door as the shot struck the frame. The wood splintered against my shoulder. I hit him before he could bring the gun back around, and we went through the bridge doorway together, knocking a chair across the floor.
+
+He was strong. Fast too. He drove an elbow into my ribs, caught my jacket and threw me against the console. Pain flashed through my side, old and familiar enough to make me angry before I was afraid.
+
+“Nigga,” I said, “you picked the sentimental side.”
+
+He swung the saber.
+
+The blade cut through my sleeve and bit into the chair behind me. I grabbed his wrist, struck him hard and sent the pistol out of his other hand. It slid beneath the console.
+
+He tried to pull the saber free.
+
+I took the chair with it.
+
+For one ridiculous second we stood holding opposite ends of a chair with a sword through it.
+
+Morcant stared at me.
+
+I stared back.
+
+“Nigga, this is embarrassing for your profession.”
+
+Then I drove the chair into him.
+
+He fell against the bridge window. The glass cracked. He came back swinging, no longer interested in dignity, and struck me across the mouth. I tasted blood. Hit him twice. He staggered, caught the edge of the console and reached for a hidden knife.
+
+Shawna appeared in the doorway.
+
+“Don't.”
+
+Her gun was steady.
+
+He looked at her.
+
+At me.
+
+At the knife halfway out of his sleeve.
+
+For one moment he had a chance to be smart.
+
+He chose differently.
+
+He lunged toward her.
+
+I caught him around the waist and drove both of us through the side door onto the narrow exterior walk. We struck the rail. It bent. Morcant's knife flashed past my face and went into the water below.
+
+He grabbed my collar.
+
+The rail gave.
+
+We went over together.
+
+I caught the lower edge with one hand.
+
+Morcant caught my sleeve.
+
+Below us, the yacht's wake boiled white against the hull.
+
+“Nigga,” I gasped, “you heavy for a man with no future.”
+
+He tried to climb me.
+
+The sleeve tore.
+
+I reached down with my free hand, caught his wrist and held him for a second. I wasn't doing it because he deserved a beautiful ending. I wanted him alive to say what he knew, and I didn't want Cassius's reunion to begin with my body in the water.
+
+Morcant looked up at me.
+
+Then he pulled the small gun from his belt with his free hand.
+
+Nigga had learned nothing.
+
+I let go of his wrist and hauled myself toward the rail as the shot went wide.
+
+Morcant fell.
+
+The sea took him out of sight.
+
+I hung there for one hard breath.
+
+Then Bruno's hand closed around my forearm.
+
+“Nigga,” he said, “you weigh less than the table.”
+
+He lifted me onto the deck.
+
+I rolled onto my back, coughing, while Shawna knelt beside me and put both hands on my face.
+
+“You here?”
+
+“Yeah.”
+
+“Stay here.”
+
+“Trying.”
+
+She kissed my bloody mouth without caring what it did to her lipstick.
+
+Behind her, Tank came onto the bridge carrying a man by the back of his shirt.
+
+“This nigga knows the cabins.”
+
+The man nodded so fast I worried about his neck.
+
+“I know. I know.”
+
+I stood.
+
+My knees complained. Nothing blue. Nothing borrowed. Just my own body reminding me it had participated in the morning.
+
+“Show us,” I said.
+
+We went down through the ship.
+
+The corridor below the bridge smelled of polish, old air and food carried past doors without stopping. At the far end stood two locked cabins. The guard's hands shook as he opened the first.
+
+Captain Celadon sat beside the window.
+
+He was fifty-nine, beard gone white, shoulders narrow beneath a clean shirt. He looked up at us without surprise at first, as if he had practiced disappointment often enough to make hope wait outside.
+
+Then he saw the little white bird in Cassius's hand.
+
+“Nero?” he whispered.
+
+“His son,” Cassius said.
+
+Celadon stood.
+
+Slowly. One hand on the chair.
+
+“My God,” he said. “You came.”
+
+Cassius was already at the second door.
+
+The guard opened it.
+
+Nero Chrome stood on the other side.
+
+Fifty-four. Gray in his hair. Leaner than the photographs. One cheek marked by an old scar. He wore a plain blue shirt with the sleeves rolled up and held a book open in one hand, thumb keeping his place as if some part of him had refused to believe any interruption could be final.
+
+He looked at Cassius.
+
+The book fell.
+
+Nobody spoke.
+
+Cassius took one step.
+
+Nero took one.
+
+Then they were holding each other, the father's arms around the son's shoulders, the son's face pressed into the blue shirt, both of them making sounds no proud man would choose in front of strangers and neither caring that we were there.
+
+I stood in the doorway.
+
+Shawna's hand found mine.
+
+Nigga, I had won four keys, three kinds of race and a gold belt off the strongest man in a yacht club. None of it made my chest feel like watching Cassius become somebody's child again without becoming smaller.
+
+Nero held his son's face between both hands.
+
+“Look at you.”
+
+Cassius laughed through tears.
+
+“Look at me? Nigga, look at you.”
+
+Nero laughed too.
+
+Then his eyes moved over the jacket.
+
+“You kept it.”
+
+“Kept everything.”
+
+Inez stood behind Cassius with one hand over her mouth. Nero saw her.
+
+“Amalia's girl.”
+
+She nodded.
+
+He held out an arm, and she went into it with Cassius still beside him.
+
+For a moment the old race had three people in the same room who had all been waiting to finish the same sentence.
+
+Celadon touched my badge.
+
+“Captain?”
+
+“Aiden.”
+
+He looked toward the ceiling, listening to the engines.
+
+“Who's steering my ship?”
+
+I looked at Tank.
+
+Tank looked at Bruno.
+
+Bruno looked back at me.
+
+Celadon closed his eyes.
+
+“Move.”
+
+Nigga walked past all of us like seven years had been an inconvenient delay between him and his bridge.
+
+We followed him up.
+
+The remaining guards had surrendered to Odette's officers. Morcant's boats had been intercepted outside the cove. On the bridge, Celadon took the wheel, looked over the controls, touched one familiar brass fitting with two fingers and brought the Sovereign Sun around toward the harbor.
+
+Nero stood beside him.
+
+Cassius stood beside Nero.
+
+The ship finally looked like it knew where it was going.
+
+Our rescue yacht came alongside near the mainland quay. Esteban waited at the rail holding the goat trophy.
+
+Nero saw it from the bridge.
+
+He stopped breathing for a second.
+
+Then he laughed.
+
+A huge, broken laugh that brought his son turning toward him in alarm.
+
+“That ugly fucking goat.”
+
+Esteban lifted it higher.
+
+“I kept second place,” he called.
+
+Nero came down the gangway slowly. Esteban met him halfway. For a moment they stood facing each other, seven years between them and a little silver animal held like a peace offering neither man knew how to name.
+
+“I believed them,” Esteban said.
+
+Nero's face changed.
+
+“I know.”
+
+“I should have believed you.”
+
+“Yes.”
+
+Esteban bowed his head.
+
+Nero took the trophy from him.
+
+Then he put his other hand on his friend's shoulder.
+
+“Tell me about her,” he said.
+
+Esteban looked up.
+
+“Amalia?”
+
+“All the things we remember before that day.”
+
+They sat together on the deck.
+
+Cassius stayed near them. Inez sat beside him. Nobody hurried the stories.
+
+Captain Celadon's wife arrived at the harbor an hour later. Renee, fifty-seven, dark curls threaded with gray, carrying no bag, wearing the first shoes she had found when Odette called. She ran the length of the quay. Celadon met her at the gangway and held her like the ship beneath his feet had become irrelevant.
+
+The harbor cheered.
+
+Not just for me this time.
+
+For the men coming home.
+
+I stood with Shawna at the rail while the sun moved west.
+
+She touched the split in my lip.
+
+“You promised to go.”
+
+“Yeah.”
+
+“You brought them back.”
+
+“Yeah.”
+
+She smiled, eyes bright.
+
+“Damn, boy.”
+
+I looked down at the cross.
+
+“Magnificent,” I said.
+
+“Nigga,” Tank called from behind us, “y'all flirting in the middle of a national event.”
+
+I pulled Shawna closer.
+
+“Then the nation can learn something.”
+
+## 15. A Nigga Came Home in His Own Jacket
+
+Nero Chrome's first request after seven years of captivity was for a shower.
+
+His second was for a steak.
+
+His third was to know why his son had put a police badge on the Red Saint.
+
+Cassius looked at me across the table.
+
+“Nigga, explain your department.”
+
+We were in Rocco's private dining room at the Coral Crown. Rocco had closed the whole room for us, told the kitchen to make anything we wanted and personally removed a portrait of the duke from the wall. Mercedes watched him carry it out.
+
+“You should have done that earlier.”
+
+“He was a guest.”
+
+“He still can be. In somebody else's house.”
+
+Nero sat beside Cassius, wearing fresh clothes that didn't fit him quite right because the tailor had estimated from a photograph taken before the duke stole seven years of his appetite. He ate slowly at first. Then faster. Celadon sat farther down with Renee leaning against his shoulder, refusing to let an empty chair separate them after everything else had.
+
+Esteban brought the potatoes himself.
+
+Nero looked at them.
+
+“You still overcook the edges.”
+
+“You still like them.”
+
+“Yes.”
+
+The old friend smiled. The son watched. A room full of new people learned where these men had once been young together.
+
+Then Nero asked about Cassius's mother.
+
+Not loudly. Not dramatically. He had been waiting until the room settled, perhaps until he could believe the first answers were real enough to survive the next one.
+
+“Livia?” he said.
+
+Cassius's hand stopped beside his plate.
+
+I saw it happen.
+
+So did Inez.
+
+Nero looked at his son's face, and the answer reached him before the words did.
+
+“No.”
+
+Cassius swallowed.
+
+“Three years ago.”
+
+Nero sat very still.
+
+“She waited?”
+
+“Every day.”
+
+The room went quiet without anybody asking it to.
+
+Cassius reached into his jacket and took out a little envelope. No hidden crime inside. No last secret that would solve the race. Just a letter he had carried because sometimes a man knows which conversation will hurt before he reaches it.
+
+“She wrote this for you. I kept it.”
+
+Nero took the envelope in both hands.
+
+He didn't open it at the table.
+
+“Excuse me,” he said.
+
+Cassius stood with him.
+
+Nero touched his arm.
+
+“Stay. Eat. I want to see you eating when I come back.”
+
+He went out onto the balcony alone.
+
+Nobody followed.
+
+I put my hand on Shawna's knee. She covered it with hers.
+
+Nigga, you can bring a man out of a locked room. You cannot bring back every afternoon somebody stole while he was in it. I hated the duke so cleanly in that moment it almost felt cold.
+
+Cassius stared at his plate.
+
+Inez moved her chair closer.
+
+“She liked you,” he said to her suddenly.
+
+“Your mother?”
+
+“She saw you race. Said you drove like you expected the road to apologize.”
+
+Inez laughed softly.
+
+“She sounded wise.”
+
+“She was.”
+
+He looked toward the balcony.
+
+“I don't know how to give him everything he missed.”
+
+“You don't have to do it before dessert,” Shawna said.
+
+Cassius looked at her.
+
+She smiled gently.
+
+“Start with who's sitting beside you.”
+
+His fingers closed around Inez's.
+
+That was a start.
+
+When Nero returned, his eyes were red. He folded the letter carefully and put it in his shirt pocket. Then he looked at his son, at Inez, at their joined hands.
+
+“About time,” he said.
+
+Cassius stared.
+
+“What?”
+
+“You looked at her like a hungry dog at the old races.”
+
+“I was twenty-four.”
+
+“You were very grown to be that obvious.”
+
+Inez bent forward laughing.
+
+Cassius covered his face.
+
+“Nigga, seven years and this is what you came home to say?”
+
+“I've had time to prepare.”
+
+Tank hit the table with his palm.
+
+“I like this nigga.”
+
+Nero looked at him.
+
+“I heard you pulled a door off my prison.”
+
+“Door was talking crazy.”
+
+“Then I like you too.”
+
+The room breathed again.
+
+After dinner, Cassius took his father down to the garage.
+
+We all went. Of course we did. Nigga had a car waiting that had been gone almost as long as he had, and none of us had developed the modesty to miss it.
+
+The White Heron stood beneath a soft light, cleaned by Lark and Mateo until the old paint shone. My Lamborghini sat beside it, blue and gold, looking like the future had arrived wearing a badge it hadn't entirely earned honestly.
+
+Nero stopped at the white car.
+
+Put one hand on the hood.
+
+“Hello, girl.”
+
+Cassius stood beside him.
+
+“Aiden brought her out.”
+
+“So I heard.”
+
+Nero looked toward me.
+
+“Through an opera house?”
+
+“Nigga, acoustics were excellent.”
+
+He laughed, then opened the driver's door and sat down slowly. His hands found the wheel. His shoulders changed. For a second I could see the man in the photograph, the one before the locked cabin, before the white in his hair.
+
+Mateo stood nearby, nervous.
+
+“I kept her running. Changed what needed changing. Nothing I couldn't put back.”
+
+Nero looked up at him.
+
+“You kept her alive.”
+
+Mateo nodded.
+
+“Trying.”
+
+“Thank you.”
+
+Lark took Mateo's hand. He squeezed it hard enough that she looked at him and smiled.
+
+Nero turned the key.
+
+The engine filled the garage.
+
+Half the hotel came downstairs.
+
+People in bathrobes. A chef with flour on his sleeve. Two women from Blue Hour carrying their heels. Rocco himself, looking alarmed until he recognized the sound and then looking honored that it had chosen his building.
+
+Nero shut the engine off and climbed out.
+
+“Who wants to drive?”
+
+Every man in the garage moved a little.
+
+He smiled at Cassius.
+
+“Your first lap. I promised.”
+
+Cassius looked like somebody had reached back through seven years and opened a door inside him.
+
+He got in.
+
+Nero took the passenger seat.
+
+They drove out together, slowly, up the ramp into the warm night. The crowd at the entrance stepped aside. When people saw who was in the white car, the cheering followed it down the street.
+
+I stood with Shawna at the top of the ramp.
+
+“That's good,” she said.
+
+“Yeah.”
+
+“You look proud.”
+
+“Nigga, I did some good work.”
+
+She kissed my cheek.
+
+“You did.”
+
+The White Heron returned twenty minutes later with Cassius grinning and Nero pretending his son had not impressed him.
+
+“Too cautious through the harbor bend,” Nero said.
+
+“You told me slow down.”
+
+“I was testing whether you'd listen.”
+
+“Nigga, I listened.”
+
+“Then you passed one part.”
+
+Inez leaned into the window.
+
+“Don't worry. I can help him with the other part.”
+
+Nero looked at her, then at his son.
+
+“Oh, I imagine.”
+
+Cassius put his forehead against the wheel.
+
+Nigga had wanted his father back. He was going to have to accept the complete package.
+
+Then Nero turned toward me.
+
+“Your turn.”
+
+I raised my eyebrows.
+
+“You sure?”
+
+“I want to feel what my car felt in that opera house.”
+
+“Nigga, the opera house signed a release.”
+
+He laughed and stayed in the passenger seat.
+
+Shawna folded her arms.
+
+“Bring him back with the same number of years he has right now.”
+
+“I'll try not to add any.”
+
+We drove out.
+
+The city was quieting, lights soft along the waterfront. I kept the White Heron easy through the first streets. Nero watched my hands without speaking. At the closed practice road above the harbor, he looked at me.
+
+“All right.”
+
+I smiled.
+
+The car rose into its power.
+
+We took the first bend fast. The second faster. I could feel Nero's attention sharpen beside me, the little shift in his breathing when he realized I wasn't guessing. The road opened ahead, white lines curving beneath the lamps, and the old machine answered every movement with a clean, fierce joy.
+
+At the overlook I stopped.
+
+Nero sat still for a moment.
+
+Then he laughed.
+
+“Jesus Christ.”
+
+“Nigga, he available for comparison?”
+
+He wiped one eye with the heel of his hand.
+
+“I have spent my whole life around drivers.”
+
+“Good life.”
+
+“I thought I knew the best.”
+
+“You met him late. Still counts.”
+
+He shook his head, delighted.
+
+Then his expression grew serious.
+
+“Aurelio will try to take the final race from you before it starts. He always preferred owning the result to risking the road.”
+
+“He running out of things to own.”
+
+“Yes.”
+
+Nero looked across the water toward Isla Gloria.
+
+“The seven keys were made for the old race. Each opened a part of the island to the winner. The road. The harbor. The palace gates. The fleet house. We turned them into trophies because people like symbols more when they can wear them.”
+
+“What does the last one open?”
+
+“The main harbor chain. The ceremonial entrance. Celadon holds the second lock from the flagship.”
+
+I thought about the duke's insistence on keeping the captain alive.
+
+“He couldn't finish giving away what he stole without him.”
+
+“Exactly.”
+
+“Nigga built himself a cage with a party on top.”
+
+Nero smiled faintly.
+
+“And you keep moving the furniture.”
+
+We sat looking at the water for a little while.
+
+Then he said, “Livia's letter told me to eat well.”
+
+I turned toward him.
+
+“She knew me. Knew I'd come home angry enough to forget ordinary things.”
+
+“You hungry?”
+
+He considered it.
+
+“Yes.”
+
+“Nigga, then let's get something.”
+
+We bought sandwiches from a little late-night place near the harbor. The owner recognized Nero, came around the counter and held him for a long time before taking the order. He recognized me second and gave us both extra meat with a seriousness that made it feel like an award.
+
+We ate in the car.
+
+No cameras for a few minutes. No duke. No crowd needing me to turn the night into a legend.
+
+Just a man who had come home and a nigga helping him remember dinner.
+
+When we returned, Shawna waited outside the hotel with Inez and Cassius.
+
+Nero handed his son the keys.
+
+“Keep them tonight.”
+
+Cassius looked at him.
+
+“I'll see you in the morning?”
+
+The question came out smaller than he meant it to.
+
+Nero put a hand on his shoulder.
+
+“In the morning.”
+
+Cassius nodded.
+
+Inez took his hand, and they walked into the hotel together.
+
+Shawna came to me.
+
+“You add any years?”
+
+“Fed him instead.”
+
+“Good.”
+
+I pulled her close.
+
+Upstairs, on our bed, lay the invitation to the fifth race. Black paper. Silver letters. The Night Baptism, a coastal run after sunset, with a storm expected before the finish.
+
+The duke had added one handwritten sentence.
+
+*Perhaps the weather will do what your friends prevent.*
+
+I showed it to Shawna.
+
+She read it, looked at the clear night outside and handed it back.
+
+“Nigga,” she said, “he still thinks you're going alone.”
+
+## 16. The Storm Asked Who Was Driving
+
+“Nigga, that's a hurricane.”
+
+Tank stood under the hotel canopy looking at the sky. The sky looked back like it had come to collect money.
+
+“It's a storm,” Lark said.
+
+“That storm got a management position.”
+
+Mateo laughed beside her. He had been out of captivity three days and already learned that Tank's weather reports came with threats.
+
+The Night Baptism was scheduled to begin at sunset. Sunset had arrived behind a black wall of cloud, so the duke's officials simply announced that it had happened somewhere and continued laying out the flags.
+
+Rain swept across the harbor in long silver sheets. Boats strained against their ropes. The race road ran along the coast, through old tunnels and over a causeway to a lighthouse before turning back toward the city. It should have been postponed.
+
+Aurelio offered every driver the chance to withdraw.
+
+He did it while standing beside a camera.
+
+Nigga had finally found a way to make weather smug.
+
+I chose an Aston Martin from the loan fleet for the race. Dark green, broad-shouldered, built to carry a man through a bad evening with his suit still attached. The police Lamborghini needed a rest, and Lark had informed me that machines could not file complaints but she could speak for them.
+
+“You'll bring this one back,” she said, standing beside the Aston.
+
+“Nigga, you said that about the last one.”
+
+“And look how necessary it was.”
+
+She and Mateo had prepared the car together. They moved around each other without colliding, handing over tools before the other asked, arguing about small things with the joy of people who had missed having small things to argue about.
+
+I watched them for a second.
+
+Then Lark caught me.
+
+“What?”
+
+“Nothing.”
+
+“Nigga, you smiling.”
+
+“Car looks good.”
+
+She looked at Mateo.
+
+He smiled too.
+
+Shawna wore a dark coat over her team jacket. Rain shone in her hair as she came toward me, carrying my helmet in both hands.
+
+“You don't have to prove the storm wrong,” she said.
+
+“I ain't mad at the storm.”
+
+“Good.”
+
+“Storm ain't met me.”
+
+She closed her eyes briefly.
+
+Then she handed over the helmet.
+
+“Come back and tell me about it.”
+
+I kissed her forehead.
+
+“Every turn.”
+
+Nero stood beside Cassius's silver car at the grid, speaking quietly to his son. Inez waited nearby in red, watching the rain strike the road. Rafe had withdrawn. Adrian had entered. So had six other drivers whose pride, ambition or bank accounts had made a complicated decision on their behalf.
+
+The duke stood beneath a huge green umbrella.
+
+The stranger in the dark uniform stood behind him without one.
+
+Rain ran off his shoulders.
+
+Nigga didn't blink.
+
+I walked past both of them toward the car.
+
+Aurelio spoke.
+
+“Perhaps tonight we discover whether you are fortunate or talented.”
+
+“Nigga, you discovered talent at the fountain. Now you're investigating denial.”
+
+The mechanics nearby burst out laughing.
+
+He let the sound pass over him.
+
+“The sea gives nothing back for admiration.”
+
+“Then stop watching me so hard.”
+
+I got in.
+
+The light changed.
+
+We left into the rain.
+
+The Aston moved differently from the Lamborghini, heavier through the first turn, planted when the road opened. I kept it steady while water blurred the windshield and headlights tore long tunnels through the darkness ahead. Adrian took an early lead. Inez followed him. Cassius stayed just behind me, patient, listening to the road instead of the audience.
+
+The city vanished behind us.
+
+On the coast road, the wind struck sideways hard enough to move the whole car. I corrected and felt the tires answer. Rain drummed against the roof. The engine held its deep note beneath everything, a sound I could trust when the world outside had become water and occasional stone.
+
+“Nigga,” I told the car, “we doing fine.”
+
+It did not answer in words.
+
+Cars know when to be professional.
+
+We reached the first tunnel in fourth. Inside, the sudden absence of rain felt almost violent. The road shone under the lamps. I passed Adrian's teammate at the exit, came out into the storm in third and saw Inez's red taillights ahead.
+
+She moved left before the next bend.
+
+I stayed right.
+
+We ran side by side through a wall of spray.
+
+Then her voice came over the channel.
+
+“You enjoying the ocean now?”
+
+“Nigga, my wife wanted all of it.”
+
+She laughed, and we took the curve together.
+
+At the lighthouse causeway, the marshals waved yellow flags. Water washed over the low wall in bursts, not deep enough to stop the cars but enough to make every movement matter. Adrian slowed. Inez held back. I came alongside the white car at the first long straight and saw his face through the window, jaw tight, eyes fixed ahead.
+
+He was frightened.
+
+Good drivers get frightened. They just don't always let the fear choose their hands.
+
+I passed him cleanly.
+
+The lighthouse rose ahead, its beam sweeping the rain. We circled beneath it and turned back toward the mainland. The sea hit the wall with a force that made the road shake.
+
+Then the lights went out again.
+
+Not the harbor this time. The lighthouse.
+
+The beam stopped.
+
+For one second the whole causeway disappeared.
+
+A truck came out of the darkness at the far end, headlights high, moving toward the race against the traffic.
+
+“Nigga.”
+
+I saw the shape. The distance. The narrow space between its wheels and the wall.
+
+I didn't have time to be angry.
+
+I took the Aston toward the low sea barrier.
+
+The right wheels climbed the stone edge. The car tilted. Rain struck the side window. For a breath we ran on two wheels, the truck filling the space where my hood should have been.
+
+Its mirror struck mine.
+
+Glass vanished.
+
+Then I was past.
+
+The Aston came down hard, rear tire bursting as it hit the road. I fought the wheel, kept the nose straight and heard the truck brake behind me as Inez and Adrian scattered around it.
+
+“Truck on the causeway!” I shouted into the channel.
+
+Cassius answered.
+
+“I see it.”
+
+A crash sounded behind me.
+
+Then his voice again.
+
+“Clear. We're clear.”
+
+I breathed.
+
+The tire was gone. The car dragged to the right. Sparks ran beneath the rear corner, bright against the rain. Ahead lay five miles to the city and the finish.
+
+Lark's voice came through.
+
+“Aiden, stop.”
+
+“The wheel still on.”
+
+“Nigga, that isn't the whole requirement.”
+
+“I can feel it.”
+
+“Then feel where you can pull over.”
+
+I slowed enough to bring the car under control. Other drivers passed. Inez first, then Adrian, then Cassius, who stayed beside me for a moment.
+
+“You need me?” he called.
+
+“Nigga, go win something.”
+
+He hesitated.
+
+“Go!”
+
+He went.
+
+I found a marshal's shelter near the mainland end of the causeway. Two officials stood beneath it, white-faced. One had a radio that wasn't working. The other stared at my ruined wheel.
+
+“Do you have a service car?” I asked.
+
+He nodded toward an old blue coupe parked beneath a tree.
+
+It was not a racing car.
+
+It looked like a schoolteacher had lent it to his cousin and expected it back with a full tank.
+
+The rules allowed a replacement vehicle in the event of race interference, provided the driver completed the course from the point of the stop.
+
+Nero had made me read that part before the start.
+
+Nigga believed in knowing where a duke might try to lie.
+
+I pointed at the coupe.
+
+“That one.”
+
+The official shook his head.
+
+“It's mine.”
+
+“You got insurance?”
+
+“Yes, but—”
+
+“I got money. We both protected.”
+
+He looked at my face.
+
+Then at the race disappearing into the rain.
+
+Then he handed me the keys.
+
+“My wife named it Clementine.”
+
+“Nigga, Clementine about to become famous.”
+
+I got in.
+
+The seat smelled faintly of peppermint. A little knitted bird hung from the mirror. There was a bag of groceries in the back and a classical music station playing softly beneath the storm.
+
+I moved the eggs onto the floor.
+
+Greatness respects breakfast.
+
+Then I drove.
+
+Clementine did not leap forward.
+
+Clementine considered.
+
+Then she went.
+
+I took the first bend clean, let the little car gather speed on the descent and felt its narrow body slip through the wind more easily than the heavier Aston had. It had no business being in the race. Neither had I, according to most of the people whose names were now beneath mine on the standings.
+
+We understood each other.
+
+At the old tunnel I caught the last racing car.
+
+The driver looked over.
+
+Looked again.
+
+“Nigga,” I said through the open window, “you getting passed by groceries.”
+
+I went around him.
+
+The radio crackled with disbelief from the commentary booth. They had found me on a camera and were trying to decide whether the picture had been mislabeled.
+
+“Captain Aiden appears to be driving—”
+
+“A car,” Tank shouted somewhere behind the open team channel. “Nigga, finish the sentence.”
+
+Lark was laughing now. She didn't want to. I could hear her fighting it.
+
+“Keep it together,” she told me.
+
+“Me or Clementine?”
+
+“Both of you fools.”
+
+We climbed toward the city.
+
+One car. Then another. The little blue coupe ran beneath the lamps with its knitted bird swinging wildly and the eggs safe on the floor. I drove every turn as if I had known the machine my whole life. No blue thunder. No borrowed power. Just hands, road and a stubborn little engine discovering it had more in it than its owner had ever asked.
+
+By the harbor I was fourth.
+
+The crowd saw me.
+
+Nigga, I will never forget that sound.
+
+It started with laughter. Not mockery. Astonishment too large to come out politely. Then it became shouting. People pointed at the blue coupe, at my badge held against the windshield, at the grocery bag visible through the rear window.
+
+“That's him!”
+
+“Nigga, that's Aiden!”
+
+“He in a regular car!”
+
+“The nigga made it irregular!”
+
+Inez saw me in her mirror and started laughing over the radio.
+
+“No.”
+
+“Yes.”
+
+“Aiden.”
+
+“Nigga, move. I got milk.”
+
+She fought me through the next bend anyway. Nearly held me. I passed her at the exit with the knitted bird swinging like it was cheering for its own family.
+
+Cassius was second.
+
+Adrian first.
+
+The final straight opened before us, wet and bright beneath the city lights. Adrian's boat-race pride had become a car-race lead, and he meant to keep it. Cassius pressed him on the inside.
+
+I came through the gap between their spray.
+
+Clementine's engine screamed.
+
+The little bird hit the windshield.
+
+We crossed first by half a bumper.
+
+I stopped beneath the finish arch with steam rising from the hood and the classical station still playing.
+
+For three seconds nobody moved.
+
+Then the official whose car I had borrowed arrived on the back of a service motorcycle and fell to his knees in front of Clementine.
+
+“My wife is never going to believe this.”
+
+I got out and handed him the eggs.
+
+“Nigga, breakfast intact.”
+
+Shawna ran toward me laughing so hard she could barely breathe. She hit my chest with both hands, then kissed me, rain on her face, joy everywhere.
+
+“You won in that?”
+
+I looked back at the little blue coupe.
+
+“Baby, that's Clementine.”
+
+The crowd took up the name.
+
+Clementine. Clementine. Clementine.
+
+The duke presented the fifth key while a thousand people chanted for a schoolteacher's grocery car.
+
+Nigga, I had never seen a rich man lose to produce before.
+
+It looked excellent on him.
+
+## 17. They Gave Me a Crown I Didn't Enter For
+
+The Rose and Thunder Ball was supposed to honor the most glamorous people of the Grand Prix.
+
+I did not enter.
+
+I want that understood before anybody starts lying about my humility. I entered a car race. I entered another car race. I entered a boat race because a nigga challenged my relationship with water. I had not entered a contest requiring a sash.
+
+Then Mercedes came into our suite carrying a crown.
+
+“Nigga, stand still.”
+
+“Why?”
+
+“Head measurements.”
+
+“For who?”
+
+She looked at me.
+
+“Nigga, whose head are we discussing?”
+
+Porsche followed with a white suit laid across both arms. The jacket had blue silk inside and gold buttons stamped with a little steering wheel.
+
+Shawna looked up from her music.
+
+“Oh, that's good.”
+
+“You knew?” I asked.
+
+“I suspected the world would notice you were handsome eventually.”
+
+“Nigga, it noticed early.”
+
+“Then put on the suit.”
+
+The ball had started as one of the duke's side events, another evening where rich men paid to be seen beside beautiful women and everybody pretended the seating hadn't been negotiated. Mercedes and Porsche had taken over its hosting after the original organizers tried to underpay the performers.
+
+Now the performers were choosing the prizes.
+
+Rocco said it was a bold direction.
+
+Porsche told him bold directions were expensive and he should sign the check before developing an opinion.
+
+The event took place in the old winter garden, a glass palace above the harbor filled with palms and white flowers. Rain from the storm still glittered on the roof. The city outside smelled clean, as if even the streets had washed up for me.
+
+When we arrived, the band stopped halfway through a song.
+
+The singer pointed.
+
+“That nigga brought the whole moon in a suit.”
+
+The drummer hit a roll so long the saxophonist laughed into his instrument.
+
+I looked at Shawna.
+
+“See? Early.”
+
+She took my arm tighter.
+
+“Try to survive the compliment.”
+
+Mercedes greeted us at the stage. She wore white feathers and diamonds, hair swept up, looking like a woman who could ruin a rich man's sleep by forgetting his name. Porsche wore blue satin with a slit that made three men at the nearest table sit straighter and one woman turn her chair for a better view.
+
+Alina stood beside them in green, holding the microphone with a confidence I hadn't seen on the yacht. She had chosen to host part of the evening. Chosen it herself. That mattered enough that I noticed it before I noticed how beautifully she wore the dress.
+
+“You ready?” Mercedes asked me.
+
+“For what?”
+
+“Nigga, stop pretending the lights ain't on you.”
+
+The lights moved onto me.
+
+The crowd cheered.
+
+Porsche announced the first award: the Golden Heart, chosen by the rescued workers for the person whose name they had heard before they knew his face.
+
+I stopped smiling for a second.
+
+Julian came onstage. The mechanic whose mother had called him from the bakery. He held a little gold heart on a blue ribbon.
+
+“My mother told me to make sure you knew,” he said, voice shaking slightly, “she's keeping bread ready.”
+
+I bent so he could put the ribbon around my neck.
+
+“Nigga, tell her I don't miss dinner.”
+
+He laughed. The room stood.
+
+Then Porsche announced the next award.
+
+Best Dressed.
+
+I looked down at the suit she had literally brought me that afternoon.
+
+“Nigga, you rigged this.”
+
+“We dressed the winner,” she said. “That's different.”
+
+Mercedes put a blue sash across my chest.
+
+The crowd lost its mind again.
+
+Then Alina announced Most Wanted.
+
+I raised an eyebrow.
+
+“By which department?”
+
+“All of them,” Tank shouted from our table.
+
+Rosa nearly fell against him laughing.
+
+Shawna came onto the stage and stood beside me.
+
+“I accept this one on behalf of the household.”
+
+The women in the front row cheered her. One held up a hand-painted sign reading WE RESPECT THE WIFE BUT THE MAN IS BEAUTIFUL.
+
+Shawna read it.
+
+Nodded gravely.
+
+“Accurate.”
+
+Nigga, I loved this room.
+
+The crown came last.
+
+Not the Grand Prix crown. Not the island. A smaller gold thing with blue stones, chosen by the performers, drivers and hospitality crews as their king of the month. Mercedes held it above my head while Porsche adjusted the sash to make room for the new disaster my appearance was about to cause.
+
+“You got a speech?” Mercedes asked.
+
+I looked over the crowd. My people. New friends. Men I'd beaten. Women whose names I had learned because they had more to say than a rich nigga had bothered to hear.
+
+Then I looked at Shawna.
+
+“Nigga,” I said, “I came for a beach.”
+
+The room exploded.
+
+I didn't get to say anything else for almost a minute.
+
+When the noise settled, I lifted my glass.
+
+“To my wife. To my people. To every nigga who thought he could make this month belong to him before we got here.”
+
+I smiled.
+
+“We appreciate your preparation.”
+
+They drank to that so hard the waiters had to move faster.
+
+The dancing began immediately afterward.
+
+Shawna took me onto the floor. She had changed into silver, and under the glass roof she looked like the storm had left its best light on her shoulders. We moved together while the band played something slow enough for the room to watch and fast enough for her to make me work.
+
+“You enjoying your crown?” she asked.
+
+“Nigga, it fits.”
+
+“That's because Mercedes measured your head.”
+
+“She should measure my future.”
+
+Shawna laughed and spun away, then came back against me with one hand at the back of my neck.
+
+“Your future's dancing.”
+
+I kissed her before the turn finished.
+
+The band hit the next note like it approved.
+
+At the edge of the floor, Cassius danced with Inez. He wasn't as smooth as she was. She knew it. She let him find the rhythm without making him feel examined, and when he finally relaxed, she rested her forehead briefly against his.
+
+Nero watched from the table.
+
+Esteban sat beside him.
+
+“Your son steps heavy,” Esteban said.
+
+“Your daughter drives angry.”
+
+“They'll manage.”
+
+“Yes,” Nero said. “They will.”
+
+Celadon and Renee barely moved at all. They stood together in the middle of the floor, holding one another, letting the music pass around them. After seven years, nigga, a man can dance by staying exactly where he wants to be.
+
+Then the glass roof broke.
+
+A black car came through the winter garden's upper service entrance, smashing the doors inward and sending a wave of broken glass across the empty reception area. Two motorcycles followed. Men in dark masks jumped off them with guns in their hands.
+
+The music stopped.
+
+I pulled Shawna down behind a stone planter.
+
+“Nigga,” Tank roared from the other side of the room, “at the dance?”
+
+Apparently at the dance.
+
+The first gunman fired into the ceiling. People screamed and dropped. Alina took the microphone, crouched behind the stage and told the crowd where to move, voice clear enough to cut through the panic. Mercedes and Porsche opened the side doors. Rosa led the people nearest her toward them. Bruno put himself between the gunmen and the dancers like somebody had moved a wall into the room on purpose.
+
+I looked at Shawna.
+
+“You got the side?”
+
+“I got it.”
+
+I went.
+
+The crown stayed on my head.
+
+Nigga, it had a good fit.
+
+I crossed behind the planters while the gunmen looked toward the exits. Tank met the first one at the edge of the dance floor and put him into a table that had done nothing to deserve its evening. Bruno caught another man before he could raise his weapon and lifted him off the ground with a patience that frightened me more than shouting would have.
+
+The third ran toward me.
+
+I hit him with the Most Wanted trophy.
+
+It was heavier than it looked.
+
+He went down.
+
+Somewhere behind me, Porsche shouted, “Nigga, that's engraved!”
+
+“I'll read it later!”
+
+The driver of the black car tried to reverse out through the broken doors. I climbed onto the hood, caught the edge of the roof and swung myself through the open side window before the car moved ten feet.
+
+He stared at me.
+
+I still wore the crown and the sash.
+
+“Nigga,” I said, “you interrupted the king.”
+
+He reached for a gun beside his seat.
+
+I caught his wrist, drove it against the wheel and brought the car to a stop with one foot across the console. The horn sounded beneath his elbow. He tried to hit me. I hit him first.
+
+Then I dragged him out through his own door.
+
+Odette's officers came through the side entrance moments later. They had been stationed nearby because the duke had stopped pretending he respected parties. She took one look at me, the crown, the ruined trophy and the man at my feet.
+
+“Captain.”
+
+“Commandant.”
+
+“Congratulations.”
+
+“On which part?”
+
+She looked around the room.
+
+“All of it, apparently.”
+
+The attackers were taken away alive. One had a broken arm, another would need stitches, and the driver had discovered that a sash did not reduce a man's ability to throw him onto marble.
+
+Nobody in our crowd was shot.
+
+A few cuts. A sprained wrist. Fear that would last longer than the cleanup. But people stood again. Found their friends. Asked where their shoes had gone. Started helping one another gather the pieces of the evening.
+
+Shawna came to me and straightened the crown.
+
+“Crooked.”
+
+“Fight was crooked.”
+
+She kissed me.
+
+Then she looked toward the band.
+
+“Can you still play?”
+
+The pianist checked his hands.
+
+The drummer lifted his sticks.
+
+The singer looked at the broken glass, the overturned tables, the people holding one another in the middle of the floor.
+
+Then he looked at me.
+
+“Nigga, what you want to hear?”
+
+I took Shawna's hand.
+
+“The rest of the song.”
+
+They played it.
+
+The room began dancing again.
+
+Not because nobody was scared. Because the gunmen were gone and we were still there, and my wife had chosen a silver dress she was not going home in after half a song.
+
+The duke sent no flowers this time.
+
+He had left the mainland for his island palace, taking his guards and the stranger in the dark uniform with him. Odette could hold the men we caught. She could protect witnesses. But Aurelio's palace had its own armed gates, and he had decided to make the final days of his race a war from behind them.
+
+Nigga should have stayed at the dance.
+
+At least there I had been dressed for mercy.
+
+## 18. The Duke Finally Drove His Own Bullshit
+
+Aurelio Cruel entered the sixth race himself.
+
+The announcement came from Isla Gloria at breakfast. His Grace would personally defend the honor of the Grand Prix in the Bridge of Kings, a crossing of the floating road between the island's eastern harbor and the old naval fort.
+
+Tank looked at the photograph of the course.
+
+“Nigga, that's water with opinions.”
+
+The road had been assembled from broad linked platforms, each wide enough for two cars, stretching across a sheltered bay. Boats held the outer sections steady. At the far end, a steep ramp climbed onto the fort's quay. The drivers would cross twice, circle the island's coastal road and finish at the palace gate.
+
+Nero studied the picture.
+
+“It used to be a ceremonial crossing. Slow. Flags. Music.”
+
+“Nigga made everything a threat,” I said.
+
+“Yes.”
+
+Celadon stood beside him, arms folded.
+
+“The platforms can carry the cars. The danger is what he asks the drivers to do on them.”
+
+I looked toward the harbor, where the Sovereign Sun now flew its old white bird above the bridge. Celadon had reclaimed the ship in every way that mattered to the people who worked aboard it. The duke still claimed to own it. He also claimed I had ruined the winter garden, which was technically true in enough places to make arguing tedious.
+
+We took the flagship to the race.
+
+Nigga, if somebody steals a man's boat and that man gets it back, you ride with the man.
+
+The whole crew came aboard in the morning. Lark and Mateo loaded the Lamborghini. Tank brought the replacement black coupe. Porsche brought her Ferrari. Cassius drove the White Heron onto the lower deck with Nero beside him. Inez arrived in red and kissed Cassius before handing him his gloves, a gesture so ordinary now that both their fathers looked away to give it room.
+
+Shawna carried her music in a blue case.
+
+“Rehearsal after?” I asked.
+
+“Victory after. Then rehearsal.”
+
+“Nigga, order matters.”
+
+“It does.”
+
+We sailed into Isla Gloria's harbor with the ship's bell ringing. People crowded the quay. They saw Celadon on the bridge, saw Nero standing beside him and began cheering before they even found me on the deck.
+
+I liked that.
+
+Then they found me.
+
+Nigga, I liked that too.
+
+The duke waited at the starting area in a green racing suit. His car was black and gold, long, low and ugly with money. He wore no mask of courtesy now. The white streaks in his hair stood out sharply against the dark suit, and his eyes followed me with a kind of hunger that had forgotten how to look charming.
+
+“You brought stolen property to my island,” he said.
+
+Celadon stepped forward.
+
+“I brought my ship home.”
+
+Aurelio looked at him.
+
+For a moment I saw the old habit in his face: speak sharply, summon a guard, return the man to a room. Then he saw Nero. Cassius. Odette's officers on the quay. The cameras. The crowd pressing close enough to hear every word.
+
+He swallowed the command.
+
+Nigga, it looked painful.
+
+“The race,” he said, “will proceed.”
+
+I stood beside my Lamborghini.
+
+“Good. You been talking for three weeks.”
+
+His jaw tightened.
+
+“You think these people love you.”
+
+I looked around.
+
+A woman held up a loaf of bread from the bakery. Julian stood beside her, waving both arms. Alina stood with Mercedes and Porsche on the viewing platform. Rocco wore a blue shirt with my face on it and looked delighted to have found a profitable form of courage.
+
+“Nigga,” I said, “ask them.”
+
+He didn't.
+
+We lined up at the floating road. Six cars entered. Inez and Cassius had chosen to race. Adrian joined too, along with a veteran driver named Sabine Cross, forty-one, who had told a reporter she considered Aiden impossible but wanted to confirm it at close range.
+
+I respected scientific curiosity.
+
+The first horn sounded.
+
+The platforms moved gently beneath our wheels. Water shone on both sides. The road ahead rose and fell in long shallow motions, never quite still, making distance a thing you had to feel as much as see.
+
+The second horn sounded.
+
+The duke looked across at me.
+
+I smiled.
+
+The third horn sent us forward.
+
+His black car surged first. Mine came beside it. We reached the first joint together, wheels striking the metal seam with a hard ringing sound. The platform dipped beneath us, rose again, and the sea came up level with the lower edge of my window.
+
+Nigga, that got my attention.
+
+Aurelio knew the course. He had practiced. His car moved with ugly confidence, taking the center of each platform and forcing me toward the edge. I let him have the first bend. Stayed close. Watched the way the floating road lifted before the next joint.
+
+Behind us, Inez and Cassius ran side by side in red and white, their cars bright against the blue water. Sabine held fifth. Adrian stayed back, patient after discovering twice that my existence complicated his wagers.
+
+At the halfway point, the duke struck my rear quarter.
+
+Lightly.
+
+Deliberately.
+
+The Lamborghini moved toward the edge.
+
+I caught it.
+
+“Nigga,” I said, “you want to make this personal in public?”
+
+He hit me again.
+
+This time I let the car move farther, gave him the space he expected to take and watched him overcommit into it. His front wheels crossed the seam at the wrong angle. The black car bounced, lost its clean line and fell half a length behind.
+
+I took the center.
+
+The crowd on the fort's quay began screaming.
+
+We hit the final ramp together, blue and black climbing out of the sea. I landed first on the stone road, turned beneath the fort wall and headed back toward the second crossing.
+
+The duke followed.
+
+Close.
+
+He was furious now, but still good. That mattered. A bad driver could have excused himself. Aurelio knew exactly how well I was beating him.
+
+On the return crossing, a platform ahead of us shifted sharply.
+
+One of its holding boats had moved away.
+
+The floating road opened into a narrow gap.
+
+Not huge. Huge would have made the trap obvious enough for everybody to stop. This was the kind of gap meant to catch one car wrong and turn the rest of the race into a tragic discussion about conditions.
+
+I saw the duke look toward it.
+
+Then toward me.
+
+Nigga, there it was.
+
+I didn't call the thunder.
+
+I called his bluff.
+
+I stayed beside him.
+
+Closer.
+
+So close he could not change his line without hitting me hard enough for every camera to see the choice. The gap came toward us. His hands tightened on the wheel.
+
+He braked.
+
+I didn't.
+
+The Lamborghini left the edge, cleared the broken space and landed on the next platform with a crack that went through my teeth. The car stayed straight. Behind me, Aurelio's black machine hit the gap slower, nose dipping, rear wheels lifting before the front caught the far side.
+
+It landed badly.
+
+Its front bumper tore away.
+
+I kept going.
+
+The other drivers slowed and took the gap under the marshals' direction. The race wasn't over. The trap hadn't swallowed anybody. The duke had simply damaged his own car trying to arrange the shape of my fear.
+
+Nigga, expensive lesson.
+
+We came off the floating road onto the island circuit. The coast flashed past my windows. Villages, gardens, the opera house, the bakery where Julian's mother stood waving a blue cloth as I passed.
+
+Inez caught the duke before the palace hill.
+
+Cassius caught him after.
+
+Aurelio tried to hold them off. Couldn't. The black car's damaged front scraped at every dip, throwing sparks beneath the gold paint. He had enough speed to remain dangerous and not enough control to look graceful doing it.
+
+I crossed the finish first.
+
+Inez second.
+
+Cassius third.
+
+The duke came fourth, his car smoking, his face so still it looked painted.
+
+Sabine climbed out behind him and walked straight to me.
+
+“I can confirm it,” she said.
+
+“What?”
+
+“You're impossible.”
+
+“Nigga, peer review.”
+
+She laughed and shook my hand with both of hers.
+
+The sixth key was brought forward by Lord Orlan, who now looked like he had begun rehearsing a life in which he worked for somebody else. He held the cushion out at arm's length.
+
+I took the key.
+
+Behind him, the duke stepped out of his ruined car.
+
+The crowd booed.
+
+Not everybody. Enough.
+
+He looked up at the palace, then back at me.
+
+“You haven't won the island.”
+
+“One more race.”
+
+“One more road.”
+
+“Nigga, I like roads.”
+
+He came closer.
+
+For the first time there were no cameras between us, only at our sides. His voice dropped.
+
+“I can make the island empty before you claim it.”
+
+My smile went away.
+
+He saw it and thought he had found something useful.
+
+“I can burn every car, sink every ship, silence every stage. You can arrive first to ashes.”
+
+I looked at him for a long moment.
+
+Then I took the key off its ribbon and held it between two fingers.
+
+“Nigga, you keep mistaking your last chance to walk away for suspense.”
+
+His eyes hardened.
+
+I didn't raise my voice.
+
+“You touch my people, your last race happens on foot.”
+
+He stepped back.
+
+His guards closed around him. The crowd parted as he walked toward the palace gates. At the top of the steps stood the stranger in the dark uniform.
+
+This time the stranger smiled at me openly.
+
+Like he had enjoyed every second.
+
+Shawna came beside me.
+
+“What'd he say?”
+
+I told her.
+
+All of it.
+
+She looked toward the palace, then down at the six keys in the case Porsche held open beside us.
+
+“Then we don't leave everybody here alone tonight.”
+
+“No.”
+
+“Nigga, good.”
+
+We took over the opera house before sunset.
+
+Not by force. Valentina opened the doors and told us which rooms had beds, which corridors reached the street and which windows stuck when the sea wind turned. The company stayed. Workers brought food. Rocco sent supplies. Celadon kept the Sovereign Sun ready in the harbor, its lights bright, its crew finally working for a captain they trusted.
+
+Tank and Bruno stood at the main doors while people came and went.
+
+Mercedes and Porsche organized rooms with the efficiency of women who had spent their adult lives judging whether a strange building wanted anything good for them.
+
+Nero and Esteban sat with the old island mechanics, drawing the final race course from memory. No secret instructions. Just the shape of roads they loved and the places the duke had changed.
+
+Shawna rehearsed with Rosa and the full company.
+
+I stood in the back of the hall listening.
+
+Outside, the island waited for the night.
+
+Inside, my wife filled the room with a voice the duke had promised to silence.
+
+Nigga, he was going to have to come through me first.

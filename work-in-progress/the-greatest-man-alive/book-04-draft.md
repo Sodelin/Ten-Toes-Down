@@ -1,10 +1,18 @@
-# Book 4: unfinished drafting checkpoint
-
-Written by ChatGPT for Nolan. These chapters remain subject to revision.
+# BOOK IV: EVERY CITY WANTS HIM
 
 ## 1. The City Pulled Me Over to Thank Me
 
-The first police officer who saw me coming home abandoned his motorcycle in the middle of the street and ran alongside my Lamborghini crying.
+The first nigga who saw me coming home abandoned his police motorcycle in the middle of the street and ran alongside my Lamborghini crying. The second nigga saw the first nigga crying and started crying too, and now I had two armed niggas jogging beside my car like I'd returned their childhoods in the trunk.
+
+"Nigga, that's him!"
+
+"I know that's him! Nigga, I'm running!"
+
+"Then salute the nigga!"
+
+"While I'm running?"
+
+These niggas were going to injure themselves appreciating me. I respected the urgency.
 
 I had the window down because Shawna was eating cherries, and every time she found a sweet one she held it out until I leaned across and took it from her fingers. We had been back on American soil for eleven minutes. My wife had decided eleven minutes was long enough to miss the ocean.
 
@@ -57,6 +65,14 @@ Knox put a gold key in my hand. It was longer than my forearm.
 "The city," she said.
 
 "Nigga, where's the door?"
+
+Some nigga behind the band said the key was symbolic. Another nigga asked what symbolic opened. A third nigga said I had already opened every important door by driving through it, and the first nigga said that was precisely his point.
+
+"Niggas," I said, "I appreciate the scholarship. Where does a nigga keep this?"
+
+Tank pointed at my belt.
+
+"Nigga, that's a sword with teeth. You trying to make me a locksmith pirate?"
 
 The chief's mouth twitched. "You have been away long enough."
 
@@ -117,6 +133,20 @@ We made it four blocks into the parade before an armored limousine hit the inter
 I watched my own enormous smiling head roll under a delivery truck.
 
 Tank stopped dancing.
+
+A nigga beside the ruined float took one look at my rolling head and covered his mouth.
+
+"They killed him."
+
+"Nigga, I'm standing here."
+
+"The other you."
+
+"Nigga, there ain't another me."
+
+"The big you!"
+
+Tank grabbed the nigga by the collar and moved him behind the Mercedes. "Both these niggas got heads. Worry about yours."
 
 "That's disrespectful," he said.
 
@@ -200,7 +230,7 @@ The world narrowed. The engine roared blue. We cleared the barriers and left the
 
 For a second the entire city lay under my front bumper.
 
-My own billboard passed beneath me. My face on it looked calm as hell. I respected that nigga.
+My own billboard passed beneath me. My face on it looked calm as hell. I respected that nigga. Billboard nigga had no idea how hard working nigga was about to land. Billboard nigga had clear skin, clean cuffs, no motherfucker shooting at him from a church limousine. Working nigga was jealous. But both niggas had the same wife, which made both niggas winners before the tires came down.
 
 The tires struck the far deck hard enough to make the key to the city jump off the passenger seat. I caught the slide and swung around.
 
@@ -221,6 +251,20 @@ The front passenger door opened over the drop.
 Four men crawled out. The driver stared at my Lamborghini, then at the gap, then at me.
 
 "You shouldn't be able to do that."
+
+The man beside him nodded so hard I heard his teeth.
+
+"Nigga flew."
+
+"I saw."
+
+"No, nigga, the car flew."
+
+"The nigga was in the car."
+
+"Both niggas flew!"
+
+I took his wrists. "Nigga, the vehicle isn't under arrest. Save some vocabulary for yourself."
 
 I put him against the hood. "Tell your lawyer how hurt you feel."
 
@@ -316,13 +360,23 @@ The crowd saw it and went crazier.
 
 "They like you," she said.
 
+Below us a nigga had started chanting my name with both shoes in his hands. Another nigga took his shoes off too, apparently unwilling to let the first nigga love me harder. Three more niggas followed. My wife watched five grown niggas barefoot on hot pavement, discovering consequences in real time.
+
+"Aiden."
+
+"Baby, I never told them niggas to do that."
+
+"I know."
+
+"Niggas inventing devotion. You gotta let a nigga create."
+
 "Baby, they got eyes."
 
 She fed me the last cherry and laughed into my neck.
 
 ## 2. The Heavyweight Champion of His Wife
 
-General Solomon Saint called while I was floating in the pool with my badge on my chest.
+General Solomon Saint called while I was floating in the pool with my badge on my chest. This nigga had tried killing me before lunch and now wanted to discuss my schedule. Some niggas bring flowers. Some niggas bring a question. This nigga brought armed niggas and then called the surviving nigga like we had a reservation together. I answered because a nigga ought to hear audacity at its source.
 
 Not pinned to anything. Just resting there, gold in the sunshine, because Shawna said if I took another work call in the water I should at least dress for it.
 
@@ -359,6 +413,14 @@ Something about that last part hurt him.
 "Won it."
 
 "A distinction of vocabulary."
+
+"Nigga, you watched me race?"
+
+"I watched the result."
+
+"Then you watched this nigga win. You watched the other niggas lose. Nigga with the deed is the winning nigga. Ain't a dictionary in the world confused about this."
+
+Mercedes raised her glass beside the pool. "Educate the nigga."
 
 I sat up. "A distinction of who went home with the fucking island."
 
@@ -454,6 +516,20 @@ Tank coughed.
 
 "Nobody gets hurt bad," Darius corrected.
 
+"Which nigga gets hurt a little?" Tank asked.
+
+Darius looked at me. I looked at Darius. Tank looked between us.
+
+"Niggas, I'm asking a medical question."
+
+"The losing nigga," I said.
+
+"Both niggas think the other nigga losing."
+
+"Good promotion," Darius said.
+
+Tank shook his head. "Hospital about to make its money twice."
+
 Shawna took the robe from him and held it against me. She stood back, considering.
 
 "You can't say no now," she said.
@@ -546,7 +622,7 @@ I heard Rosa say, "Oh, shit."
 
 Darius came forward harder. I met him. Three exchanges, all heat and breath and ropes under our backs. No lightning. No car. Just another man's will trying to move mine.
 
-I loved the motherfucker for making me work.
+I loved the motherfucker for making me work. This nigga wasn't giving me a famous-man round. Nigga wasn't letting the cameras carry my hands. He wanted to know what kind of nigga stood underneath the jacket, and I wanted to show him. Two niggas asking the same question with different fists. Some niggas call that hostility. Nigga, I call it an introduction worth remembering.
 
 At the end of the round he tapped my glove.
 
@@ -591,6 +667,18 @@ Darius looked at me.
 "This happen often?"
 
 "Lately."
+
+"Nigga, lately how often?"
+
+"You want a calendar or you want to duck?"
+
+Darius ducked. "Nigga, I invited you to boxing."
+
+"And another nigga invited himself to losing. We can't control hospitality."
+
+"That nigga got a gun."
+
+"So does this nigga. Give me my coat."
 
 He picked up the stool from his corner and threw it so hard it turned the motorcycle sideways. The rider struck the aisle barrier and landed in a pile of empty popcorn tubs.
 
@@ -670,6 +758,16 @@ Shawna stood beneath the lights with my robe over her evening dress. I walked to
 
 "That's the movie," he whispered.
 
+The camera operator looked at him. "Just the nigga walking?"
+
+"Look how the nigga walks."
+
+"Nigga's going to his wife."
+
+"Exactly. Nigga has somewhere to be."
+
+I heard them and kept walking. Of course a nigga had somewhere to be. My wife stood beneath the lights looking like the answer to why the fuck a nigga bothered winning anything.
+
 I kissed her, and he started crying.
 
 Behind the camera, Porsche negotiated her producer credit while Mercedes sold him the rights to none of our personal lives and all of the motorcycle footage. Darius joined the cast because he said he would be damned if another man got paid to play the nigga I knocked down.
@@ -698,7 +796,7 @@ Leon called after me asking what happened in the next scene.
 
 ## 3. Get Your Warships Off My Beach
 
-My island had a welcome sign, three beautiful beaches, and twelve enemy ships pretending they were decorations.
+My island had a welcome sign, three beautiful beaches, and twelve enemy ships pretending they were decorations. Twelve. Nigga didn't park one ugly boat near my property. Nigga brought eleven friends so the first ugly boat wouldn't feel insecure. I looked down at all them expensive white motherfuckers and thought, this nigga really believes a fleet makes a nigga welcome. Nigga, I own a driveway too. That doesn't make every car in it invited.
 
 I saw them from the plane. White hulls in a crescent around the southern bay, gold flags snapping from their masts. The biggest one carried a platform wide enough to land a helicopter on and a portrait of Solomon Saint big enough to frighten fish.
 
@@ -774,6 +872,18 @@ The crowd heard captain and answered with king.
 
 I wasn't about to interrupt good conversation.
 
+A dockworker elbowed the nigga beside him. "That's our captain."
+
+"Nigga, that's our king."
+
+"Same nigga."
+
+"Then why you arguing with a nigga?"
+
+"Because you keep saying our like the nigga belongs to you."
+
+Shawna took my hand. Both niggas saw it and settled the ownership question immediately.
+
 Solomon Saint met us at the palace gate with two champions on either side. The first man wore a gray uniform and polished boots, a chest like a steel door, and a look that said he'd never been wrong unless another man had failed him. The woman beside him had short dark hair, a yellow suit, and a tiny chess knight pinned at her throat.
 
 "Captain Lionel Graves," Saint said, indicating the man. "Champion of pursuit, combat shooting, and the continental police games."
@@ -835,6 +945,16 @@ I turned to Shawna.
 "So he gets a chair while everybody else works."
 
 "Then take his chair."
+
+Behind us, Tank studied the founder's platform.
+
+"Nigga brought a chair to a championship."
+
+"Nigga brought a throne," Mercedes said.
+
+"A rich chair. Nigga brought a rich chair and wants other niggas to sweat."
+
+I looked at the throne. "Nigga better enjoy the cushioning. I'm about to make standing up expensive."
 
 I loved a woman who understood championship rules.
 
@@ -926,7 +1046,7 @@ The sound was enormous. The bow crumpled. Water shot up over the rail. Tank push
 
 Everybody stayed above the water.
 
-I counted until I believed it.
+I counted until I believed it. Nigga by nigga. Hand by hand. Not uniforms. Not teams. Niggas breathing, niggas coughing, niggas calling the people who would have hated the sea forever if we'd been one minute slower. I needed every nigga who got on that ferry to have another bad breakfast, another argument, another kiss somebody pretended not to want.
 
 Forty.
 
@@ -986,6 +1106,8 @@ Graves stood on my other side.
 
 "She's extraordinary," he said.
 
+The nigga said it like he'd discovered the sea was wet. But I let him have the discovery. Let a nigga hear my wife and find a new room in his own chest. Let the next nigga hear her too. Niggas had come to the island thinking the loudest man owned the evening. My wife hadn't raised her voice, and every nigga with ears knew whose evening it was.
+
 "Nigga, now you're catching up."
 
 When the song ended, the island didn't stop cheering for so long that Saint's opening fireworks went off without anybody watching them.
@@ -997,6 +1119,16 @@ Shawna came down the steps and put her wet arms around my neck.
 "Wasn't one."
 
 "There is now."
+
+Tank raised both hands. "Nigga won the unscheduled boat competition."
+
+"Nigga invented it," Rosa said.
+
+"Other niggas can't beat a nigga in a competition they don't know exists."
+
+"Then them niggas should've watched the water," Shawna said.
+
+I looked at her. My wife was getting good at this. Nigga was falling in love with the same woman all over the damn island.
 
 She kissed me in front of every ship the general owned.
 
@@ -1012,7 +1144,7 @@ And tell Marcellus I have not forgotten how to lead.
 
 ## 4. Every Cop in the World Wanted My Autograph
 
-The general gave me a car with no doors and told me to pursue justice.
+The general gave me a car with no doors and told me to pursue justice. This nigga had seen the Lamborghini. This nigga knew what I drove. Nigga still rolled out a rich man's shopping cart and looked at me like a favor had occurred. I looked at the car, then at the nigga, then back at the car. Somewhere a manufacturer had built this motherfucker without imagining the nigga who would be insulted by it.
 
 I looked at the car. I looked at him.
 
@@ -1033,6 +1165,20 @@ Chief Knox walked the line behind me with the ceremonial sword under one arm. Sh
 My Lamborghini rolled through the gate behind her with Mercedes driving and Porsche leaning over the passenger door eating a peach.
 
 The entire line of police captains turned.
+
+"That's the nigga's police car?"
+
+"That's the nigga's slow police car," Tank said.
+
+"Nigga has a faster one?"
+
+"Nigga has an island full of faster ones."
+
+"How do I join this nigga's department?"
+
+Knox looked down the line. "Start by standing up straight."
+
+Twenty-three niggas found their spines together.
 
 One man took off his sunglasses and put them back on as if the first look had been a problem with the lenses.
 
@@ -1126,6 +1272,18 @@ The nigga bowed.
 
 We were already gone.
 
+Mercedes looked back at the gatekeeper. "Nigga bowed."
+
+"Polite nigga."
+
+"Other niggas just got a flag."
+
+"Other niggas didn't bring you."
+
+She settled deeper into the seat. "Nigga, that's the kind of navigation I enjoy."
+
+I grinned. Behind us the gatekeeper was still waving, some nigga taking pictures of a nigga taking a good morning personally.
+
 On the upper road the sea opened beneath us. It was the kind of blue that made a man forgive weather for everything else it had ever done. White buildings clung to the hillside. People watched from balconies holding breakfast plates, cheering whenever my siren cut through the engines.
 
 A woman threw flowers.
@@ -1197,7 +1355,7 @@ He looked at me for a long moment.
 
 "Then do. You didn't give him your fucking eyes."
 
-The other captains gathered around us. The bald one had a cut above his eyebrow. The handsome one was bleeding through his sleeve. Nobody wanted to get back in a car until they knew whether the next corner had another truck waiting.
+The other captains gathered around us. The bald one had a cut above his eyebrow. The handsome one was bleeding through his sleeve. Nobody wanted to get back in a car until they knew whether the next corner had another truck waiting. I understood. A nigga can agree to lose a race without agreeing to lose a lung. These niggas had come with trophies in mind, not funerals. I looked at the wounded nigga, the bald nigga, the handsome nigga no longer worrying about his sleeve. All of them were waiting for the nigga Saint had told them to beat.
 
 I took the radio from the truck and put it on the hood.
 
@@ -1279,6 +1437,14 @@ The man closed his eyes.
 
 She handed one to every captain.
 
+"Nigga, say thank you," she told the first.
+
+He said it. So did the next nigga. And the next. By the fifth nigga she was smiling like a woman handing out report cards to a class that had finally learned manners.
+
+"Good nigga. Another good nigga. Look at y'all. International courtesy."
+
+The little man in the cream suit wished he had gone into the shed with the flags.
+
 Then she got back in my car and crossed her legs as if she had stepped out to powder her nose.
 
 We entered the stadium together.
@@ -1329,6 +1495,14 @@ Knox stood off to the side, watching twenty-three men wait their turn.
 
 "You collecting departments now?" she asked.
 
+One nigga behind her asked whether I could sign his cap. Another nigga had brought his badge. A third nigga wanted a photograph for his mother but admitted, when Mercedes looked at him, that his mother did not know how to open photographs on a phone.
+
+"Nigga, it's for you," she said.
+
+"It's for me."
+
+"Let the nigga enjoy himself," I told her. "I take excellent pictures."
+
 "Chief, they followed me home."
 
 Shawna came through the crowd and put her hands on my face. She looked at my pupils, my hands, the little line of strain under my mouth.
@@ -1371,7 +1545,7 @@ Saint was not smiling anymore.
 
 ## 5. Marcellus Had Been a Dangerous Nigga Too
 
-Marcellus put on a white dinner jacket to meet a woman who had threatened him with a ribbon.
+Marcellus put on a white dinner jacket to meet a woman who had threatened him with a ribbon. Old nigga had faced guns in a cardigan. Old nigga had watched a forty-million-dollar stone change hands without spilling his drink. One woman said come see me and the nigga discovered cuffs, posture, cologne, the whole frightened ceremony. A nigga can survive prison and still get nervous because another nigga once failed to answer a love letter.
 
 I watched the old nigga adjust his cuffs for the fourth time.
 
@@ -1479,6 +1653,20 @@ Bellanotte wanted a new crown for the festival. Seven points, seven stones, each
 
 They met because she stole his dinner.
 
+"Nigga," I said, "you married the wrong profession."
+
+Marcellus raised an eyebrow.
+
+"You a jeweler. She a dinner thief. Nigga, that's a complete household."
+
+"We were not married."
+
+"But a nigga was hopeful."
+
+Isolde smiled. "A nigga was extremely hopeful."
+
+Tank slapped my shoulder. "Old nigga blushing. Nigga, look at him."
+
 "It was sitting unattended," she told me.
 
 "It was beside my elbow," Marcellus said.
@@ -1493,7 +1681,7 @@ He said she had walked straight into the workshop, taken a pear from his plate, 
 
 "No. You could live somewhere else on that."
 
-Marcellus had put his tool down.
+Marcellus had put his tool down. Of course the nigga put the tool down. A beautiful woman was looking at him like the whole room had narrowed to one lucky nigga, and the nigga wasn't about to keep filing metal. I knew that nigga. I had been that nigga. Half the things I owned came from trying to remain that nigga in front of Shawna.
 
 "You greet every jeweler by suggesting robbery?"
 
@@ -1675,6 +1863,16 @@ He looked up.
 
 "You was a dangerous nigga."
 
+"He was a romantic," Isolde said.
+
+"Same nigga with more paperwork," Tank said.
+
+Marcellus laughed. "You young men think you invented extravagance."
+
+"Nigga, I'm congratulating you. You robbed a king while the king held your jacket. That's advanced nigga. That's a nigga with electives."
+
+The old man covered his face, laughing so hard the white jacket shook.
+
 "Was?" Isolde asked.
 
 Tank laughed. "Oh, she got him. She already got him."
@@ -1755,6 +1953,16 @@ She smiled.
 
 "The boy can dance."
 
+"Boy?" Rosa said. "That nigga opened the whole room up."
+
+"Nigga just needed the right partner," Mercedes said.
+
+"Nigga had the right partner," Tank said. "Nigga needed to stop fighting the floor."
+
+I held Shawna closer. "The floor knows what kind of nigga it's dealing with now."
+
+She smiled against my cheek. "So does this nigga's wife."
+
 "Nigga can do everything," Tank said. "It's starting to hurt my feelings."
 
 I kissed Shawna's forehead and looked down at the seven places where our feet had stopped.
@@ -1799,7 +2007,19 @@ Mina Quill waved me toward the desk beside hers.
 
 She had a smile that made competition feel like a good conversation with something sharp under the table.
 
-I sat. Shawna took a seat in the front row wearing a black dress and my laurel from the pursuit race. Mercedes had lent it to her for the morning and warned the entire audience that they were looking at borrowed greatness.
+I sat. Two niggas at the back whispered my name like it was an objection.
+
+"That nigga took the science test?"
+
+"Nigga hasn't taken it yet."
+
+"Then why everybody clapping for the nigga?"
+
+"Because he sat down beautifully."
+
+I straightened my cuffs. Let a nigga appreciate form before content arrived.
+
+Shawna took a seat in the front row wearing a black dress and my laurel from the pursuit race. Mercedes had lent it to her for the morning and warned the entire audience that they were looking at borrowed greatness.
 
 Saint stood above us on the judges' balcony.
 
@@ -1845,7 +2065,7 @@ The professor looked down at his card.
 
 Mina laughed into her water.
 
-We tied the first round. Nobody else came close.
+We tied the first round. Nobody else came close. One nigga answered a question nobody had asked. Another nigga drew the umbrella where the fireplace should have been. The nigga beside Mina kept looking at his own pencil like it had betrayed a long friendship. I respected the struggle. But a nigga couldn't give them his memory just because the niggas had come dressed for success.
 
 Then they asked us to reproduce the room from memory on a blank board.
 
@@ -1921,6 +2141,16 @@ I put the professor on the middle platform and followed him across before the su
 
 "Then six seconds is rich."
 
+The professor clung to me. "Captain, I cannot—"
+
+"Nigga, you can follow."
+
+"I cannot calculate—"
+
+"Nigga, I already calculated. All you gotta do is be the nigga following the nigga with the answer."
+
+He followed. Smart nigga. Sometimes a nigga proves his intelligence by letting somebody else take the next step first.
+
 We got the last contestant to the stair just as the outer railing tore away and crashed into the pool.
 
 Nobody fell with it.
@@ -1988,6 +2218,8 @@ We played harder.
 On the screen above us, somebody had begun drawing arrows between the pieces. The arrows multiplied until the board looked like twenty tiny wars had argued about directions. I didn't look. I watched Mina's hands. Watched the knight she wanted me to fear. Watched the square she had stopped looking at because she believed I'd forgotten it too.
 
 I gave her my queen.
+
+A nigga in the second row gasped like I'd handed Mina my bank card. The nigga beside him said sacrifice. First nigga said that was a very expensive word for fuck-up. Second nigga told first nigga to wait. I kept my face still. Niggas were about to discover the difference between losing a piece and making a whole room follow it.
 
 Tank made a wounded noise from the audience.
 
@@ -2071,6 +2303,16 @@ Porsche tilted the hat.
 
 "Baby, look at me."
 
+Mercedes opened both eyes. "Nigga's about to explain his life to your neckline."
+
+"Nigga already tried by telephone."
+
+"This nigga never learns," Tank said.
+
+Porsche smiled. "Some niggas teach themselves the wrong lesson every morning. I just arrive in time for the examination."
+
+I looked at Shawna. "Nigga, we brought an excellent faculty."
+
 We looked.
 
 "Fair," I said.
@@ -2102,6 +2344,18 @@ Mercedes spat her drink into the harbor.
 "Nigga misunderstood the entire profession," Tank said.
 
 Porsche lifted one shoulder. "Beautiful horse, though. I kept him."
+
+"What happened to the king?" Tank asked.
+
+"Nigga wanted the horse back."
+
+"Nigga lost the woman and asked for the horse?"
+
+"Nigga thought the horse could still improve his reputation."
+
+Mercedes shook her head. "Some niggas can't tell which part of the evening loved them."
+
+"Horse didn't love him either," Porsche said. "Sensible animal."
 
 We were on the yacht getting ready for Saint's reception. My wife sat at the blue piano with a silver comb between her teeth while Rosa pinned her hair. Mercedes wore green. Porsche wore black, a dress that could have stopped a government if she had been interested in boring work.
 
@@ -2219,7 +2473,7 @@ The yacht eased alongside the pavilion's waterside terrace. The blue piano stood
 
 Every head turned.
 
-Nigga wanted scale. My wife had brought the fucking ocean.
+Nigga wanted scale. My wife had brought the fucking ocean. Some nigga at the back stood to get a better look, and the nigga behind him stood too, and then every nigga in that room was upright like the sea itself had entered wearing her name. Silk looked at the yacht. Looked at me. Nigga was doing arithmetic with the wrong numbers. You can't subtract a husband from the thing his wife just made beautiful.
 
 Her first note came across the water clean enough to hurt.
 
@@ -2289,7 +2543,23 @@ Then I began.
 
 "Nigga got a crown with another crown inside,
 
-"I got Shawna saying baby, tell me who you think is fly."
+"I got Shawna saying baby, tell me who you think is fly.
+
+"Nigga asked for sixteen, I brought streets you couldn't buy,
+
+"Nigga got a moonroof, I put roads across the sky,
+
+"Niggas try to name me, every name comes with a crown,
+
+"But the nigga wearing all of them still ten toes down.
+
+"Nigga, ask my brother why the whole room knows his name,
+
+"Nigga, ask his woman why her heart's a little flame,
+
+"Nigga, ask my wife if I can stay when we get home,
+
+"She said baby, all that greatness and you still can't leave me alone."
 
 The room broke open.
 
@@ -2355,6 +2625,18 @@ Porsche slid across the stage in her black dress and came up beside me.
 
 "Nigga, I saw."
 
+"You saw how the nigga grabbed?"
+
+"Saw how the nigga missed."
+
+"Nigga thought the pearl came with ownership."
+
+"Nigga got neither," I said.
+
+She smiled, fierce and breathing hard. "That's the part I wanted the nigga to understand."
+
+Another shot struck the stage. We moved together before the echo finished.
+
 "He wanted a kiss first."
 
 "What'd you tell him?"
@@ -2411,6 +2693,16 @@ Mercedes lifted the champagne bucket.
 
 "And this."
 
+Silk looked at the people on the deck. "Nigga, is this every party with you?"
+
+"Some niggas bring a bad mood," I said. "Some niggas bring a whole gun crew."
+
+"And your niggas just keep the music going?"
+
+Rosa lifted the microphone she'd brought aboard. "Nigga, we haven't done the encore."
+
+Silk laughed so hard he sat down on the deck. That nigga had found his kind of audience at last.
+
 The yacht carried us into the dark with Shawna's blue piano untouched and Porsche's black pearl resting in my palm.
 
 Behind us, the audience on the far shore began singing my wife's chorus.
@@ -2423,7 +2715,7 @@ And nigga, they knew exactly whose song they wanted to take home.
 
 ## 8. The Floor Got Jealous of My Feet
 
-Saint escaped his own dinner in a submarine the size of a limousine.
+Saint escaped his own dinner in a submarine the size of a limousine. Nigga went underwater to avoid being embarrassed on land. I watched the little hatch close and pictured this decorated nigga crouching beside some other nigga while peaches dried in his beard. A nigga could sink below the sea, but the story of that dinner was already swimming faster than him.
 
 Porsche found that personally offensive.
 
@@ -2449,7 +2741,7 @@ I lifted the black pearl.
 
 By midnight Knox and the captains had the palace gates. The island police stood beside them. Saint's remaining men put down their guns when they realized the crowd behind us included every worker who knew where the exits were.
 
-We didn't cancel the championship.
+We didn't cancel the championship. Niggas had crossed oceans to race, sing, fight, fall in love, and lose bets they shouldn't have made in the first place. One frightened nigga on a submarine wasn't about to send all them hopeful niggas home. I told the captains exactly that. Nigga by nigga, they nodded. Even the nigga who still wanted my autograph put his cap away long enough to agree.
 
 Alma came to me with flour on her hands and asked whether she should throw out the food for the next morning.
 
@@ -2653,7 +2945,7 @@ Graves answered from beside me.
 
 "Around Saint's neck. He wears it beneath his medals. I saw it once when he was injured during a tournament."
 
-The general had the last piece.
+The general had the last piece. Nigga had been walking around with a door handle on his chest calling it destiny. All them medals, all them speeches, and the nigga's most useful possession was a necklace somebody needed to put in a wall. I wanted to tell him so badly my teeth hurt. But first a nigga had to reach the nigga, and Saint had brought eleven spare boats to complicate being reached.
 
 Of course the nigga did. A man couldn't own twelve ships without finding something smaller to be insecure about.
 
@@ -2676,6 +2968,16 @@ The chamber roared.
 "Nigga brought drills and guns," Tank shouted.
 
 "Still can't dance," I said.
+
+Graves ducked beside me. "You are joking now?"
+
+"Nigga, the bullets started before the joke. Don't blame comedy."
+
+"These men are trying to kill us."
+
+"Then don't let these niggas interrupt. You cover that side, I cover this side, Tank covers whatever a nigga shouldn't be able to lift."
+
+Tank grunted from the bridge. "Nigga, I heard that."
 
 I moved along the near bank while Graves kept the gunmen from crossing. Water splashed around my shoes. The stone was slick. My light rolled from my hand and shone upward, catching the gold veins on the doors like lightning trapped in a wall.
 
@@ -2766,3 +3068,1963 @@ The general thought he had an army.
 Nigga, I had everybody I wanted beside me.
 
 And the morning hadn't even started yet.
+
+## 9. My Brother Put a Ring on the Whole Damn Night
+
+Tank practiced proposing to a coconut. My nigga had fought men whose shoulders needed separate introductions. My nigga had driven into gunfire because I called his name. Now this nigga stood in a kitchen worrying whether a piece of fruit would accept his future. Some niggas fear death. My nigga feared getting the words wrong for a woman who already knew his whole heart.
+
+I found him behind the yacht's kitchen at eight in the morning, holding Marcellus's ring box in one enormous hand and looking at a coconut on the counter like the coconut had standards he might not meet.
+
+"Rosa," he said, "you know I ain't always been—"
+
+"Nigga, don't apologize to the fruit."
+
+He spun around.
+
+"How long you been there?"
+
+"Long enough to know that coconut ain't ready for commitment."
+
+He closed the box and put it in his pocket. I leaned against the door while the yacht rocked gently under us. Outside, somebody was practicing a trumpet badly. Silk had agreed to help the island band and now had a whole brass section making him reconsider his generosity.
+
+Tank rubbed his hands together.
+
+"I need it right."
+
+"It is right."
+
+"Nigga, you proposed like you was declaring war on loneliness. You had the house, the flowers, the whole—"
+
+"I was scared too."
+
+He stopped.
+
+"You?"
+
+"Nigga, I can drive off a roof. A roof don't decide it wants somebody else."
+
+Tank looked down at his pocket.
+
+"She deserves something big."
+
+"She picked you. How much bigger you trying to get?"
+
+He laughed despite himself.
+
+The door opened behind me. Rosa stood there in a loose shirt with her hair tied up, looking from us to the coconut.
+
+"What are y'all doing?"
+
+Tank grabbed the coconut.
+
+"Breakfast."
+
+"With no knife?"
+
+He broke it in half with his hands.
+
+Milk went all over the counter.
+
+Rosa stared.
+
+Then she looked at me.
+
+"Why is my man frightened of breakfast?"
+
+"Nigga's exploring himself," I said.
+
+She took half the coconut and kissed his cheek.
+
+"Explore with a towel."
+
+That afternoon we entered the Brothers' Cup.
+
+The name was a lie. Half the teams weren't brothers. One pair were ex-husbands who said fighting together had improved their divorce. Another pair hated each other so loudly the announcer introduced them separately to prevent an argument about whose name should come first.
+
+Tank and me didn't have paperwork making us brothers.
+
+We had blood we'd kept inside each other. We had nights no family album wanted. We had the sound of that old Mercedes coming back when any sensible nigga would have kept driving.
+
+I didn't need the announcer to define shit. This nigga knew when my smile meant fine and when it meant get the car. This nigga could hear my wife's name in the way I stopped talking. Niggas I was related to by blood hadn't stood where Tank stood. A nigga couldn't print that on a program. But every nigga who had watched us walk through a bad night knew which man belonged beside me.
+
+The arena stood on the beach under an open roof. Sand blew against the outside walls. Inside, the fighting floor was padded blue, surrounded by ropes and a thousand people who had brought drinks because they trusted us to make an afternoon worth attending.
+
+Knox sat at ringside beside Graves. Both had their uniforms open at the throat. Mina Quill was eating ice from a paper cup and studying the brackets as if the fighters were a difficult equation.
+
+Shawna sat in the front row with Rosa, Mercedes, and Porsche. All four wore sunglasses. All four looked expensive enough to make a man improve his posture before passing them.
+
+Our first opponents came in wearing matching red masks.
+
+One was tall. The other was shorter and louder, which is how a lot of niggas try to fix height.
+
+"We are the Red Brothers!" the short one shouted.
+
+Tank looked at the announcer.
+
+"Is that information or a warning?"
+
+The bell rang.
+
+The tall one tried to tackle me. I stepped aside and helped his enthusiasm find the corner pad. The short one came at Tank with a spinning kick so elaborate I thought there might be a second show starting inside our fight.
+
+Tank caught him.
+
+Just caught the nigga.
+
+Held him sideways for a second while the man's legs kept trying to finish the kick.
+
+"You done?" Tank asked.
+
+The man stopped moving.
+
+Tank put him down outside the ropes.
+
+The tall brother looked at his partner. Looked at me. Raised one hand.
+
+"We concede."
+
+The crowd booed because the drinks weren't even cold yet.
+
+"Nigga, fight!" somebody shouted.
+
+The short Red Brother looked at the nigga. Looked at Tank. Looked back at the nigga.
+
+"You fight him."
+
+That nigga sat down.
+
+"Wise nigga," Mercedes said. "The wisdom spreading."
+
+Tank lifted both hands. "I ain't doing nothing to these niggas but helping them discover themselves."
+
+"Respect intelligent niggas," I told them.
+
+Our second match lasted longer. The divorced husbands knew each other's habits so well they could argue and attack on the same breath. One would complain that the other always went left, then go right because he knew his ex was lying about the complaint.
+
+They caught Tank once between them and sent him into the ropes. I met them coming back. The quicker one ducked my first strike. The stronger one reached for my waist. I turned through the space they'd left, brought the strong one down, and heard his ex shout, "I TOLD YOU HE WOULD SEE THAT."
+
+Tank laughed so hard he nearly got hit again.
+
+We won when both men tried to prove they should have been in charge and collided in front of me.
+
+Afterward I helped them up.
+
+"Y'all ever think about getting back together?"
+
+They answered no at exactly the same time.
+
+"Best teamwork all day," I said.
+
+By the final, the beach crowd had doubled. People stood on chairs and on the low sea wall, shouting our names. Somebody had made Tank a sign that said BIG MAN, BIGGER HEART. He pretended not to see it until Rosa lifted both hands and pointed at the words.
+
+Our final opponents did not wear masks.
+
+They didn't need them.
+
+Kong Harrow stood seven feet tall and looked like a mountain had learned to dislike people. Beside him, Dietrich Stone rolled his shoulders under a robe the size of a bedspread. Both were veteran champions, both older than us, both smiling the calm smile of men who expected our afternoon to end beneath them.
+
+Kong looked at me.
+
+"No lightning."
+
+"Nigga, you brought enough electricity in those shoulders."
+
+"Your car cannot help you here."
+
+"Neither can your tailor. Let's quit discussing absent people."
+
+The bell rang.
+
+Kong hit me before I finished moving my left foot.
+
+Not clean. I turned enough to keep my head attached to the rest of the investment. But the blow landed across my guard and sent a bright pain down both arms.
+
+Nigga was strong.
+
+Really strong.
+
+I heard the crowd react and felt him enjoy it.
+
+He came again. I moved, let the first shot pass, took the second on my shoulder, and answered to his body. He grunted but barely shifted. Beside us, Dietrich drove Tank toward the ropes. For a few seconds the whole world looked like two larger men carrying two smaller problems toward a sensible conclusion.
+
+Then Tank planted his feet.
+
+I knew that moment. I'd seen it in alleys, hospital rooms, beside a car with a ruined door. It was the moment my brother decided the world had pushed far enough.
+
+Dietrich tried again.
+
+Tank didn't move.
+
+The crowd rose halfway from its seats.
+
+I smiled at Kong.
+
+"Your friend about to learn something."
+
+He swung.
+
+I went under the blow and came up inside his reach. Short strike. Turn. Another strike before he could bring the mountain around. He caught my shoulder and tried to throw me. I stayed with him, changed the direction, and put the big nigga on one knee.
+
+The floor shook.
+
+Kong looked up at me, surprised for the first time.
+
+"There," I said. "Now we can talk comfortably."
+
+He laughed and got up.
+
+The next minute was work.
+
+Sweat in my eyes. Breath burning. My old scar pulling whenever I turned too far. Kong wasn't stupid. He learned. Each thing I did once became harder the next time. I couldn't beat him by being pretty about the same move forever.
+
+So I gave him something new.
+
+I let him think he had my balance. Let him commit that huge body to finishing the thought. Then I moved where his own weight wanted him to go and took the support away from underneath it.
+
+He hit the mat on his back.
+
+The arena went wild.
+
+I didn't stand over him admiring the picture. I got control before he could recover, held through the first enormous effort to throw me off, and waited until his hand struck the mat.
+
+Once. Twice.
+
+The referee pulled us apart.
+
+Kong sat up breathing like a storm.
+
+A nigga near the ropes whispered, "He put that whole nigga down."
+
+"Twice," another nigga said.
+
+"Nigga, I saw once."
+
+"First the knee. Then the whole nigga. That's two floors of nigga."
+
+Kong heard them and laughed, still fighting for breath. A proud nigga could hate losing and still appreciate the particular motherfucker who had done it.
+
+"You are very good," he said.
+
+"Nigga, I'm trying to impress my wife."
+
+He looked toward Shawna.
+
+"Reasonable."
+
+On the other side of the floor, Tank and Dietrich were still standing chest to chest. Neither wanted to give the crowd the pleasure of watching him step back.
+
+Rosa stood.
+
+"Baby," she called, "I got dinner plans."
+
+Tank's eyes changed.
+
+He caught Dietrich's next rush, lifted the man clean off the floor, and put him down so hard the announcer dropped his microphone.
+
+Dietrich lay there staring at the roof.
+
+Tank leaned over him.
+
+"Nigga, I gotta eat."
+
+The referee counted.
+
+At ten, my brother raised both fists and looked straight at Rosa.
+
+The whole beach seemed to stand with him.
+
+They brought us two laurels and a trophy shaped like clasped hands. I took the trophy. Tank took his laurel, put it over Rosa's head as she came through the ropes, and reached into the little pouch he had tied beneath his fighting shorts.
+
+Rosa's expression changed.
+
+"Tank?"
+
+He brought out the ring box.
+
+The crowd got quiet unevenly, pockets of silence spreading as people understood what the big man was holding.
+
+Tank looked at me once.
+
+I nodded.
+
+Nigga had walked into gunfire beside me. Now he had to take the last step himself.
+
+He went down on one knee.
+
+Some nigga in the back shouted that Tank was hurt. Three niggas told that nigga to shut up. Another nigga saw the box and put both hands on his own head like he was about to receive the ring personally. I watched the happiness travel through them, nigga to nigga, every man finding some unfinished part of his own life in the way my brother looked up at Rosa.
+
+The arena roof almost came off from the sound.
+
+"Rosa," he said.
+
+Then stopped.
+
+She covered her mouth.
+
+He looked at the ring. Looked at her. Took a breath so big I could see it move his whole back.
+
+"I practiced a lot of shit."
+
+She laughed through the tears already gathering.
+
+"I know. You broke breakfast."
+
+"Nigga," he whispered, mostly to himself.
+
+Then he looked right into her face.
+
+"I want you there when it's quiet. I want you there when I'm old. I want you there when my knees don't work, which might be Tuesday after fighting that motherfucker."
+
+The crowd laughed with her.
+
+"I want to learn everything you still want. I want to be the man you wake up and bother for the rest of your life. Baby, will you marry me?"
+
+She was nodding before he finished.
+
+"Yes. Yes, you big beautiful idiot. Yes."
+
+He tried to put the ring on her right hand.
+
+She gave him the left without stopping her tears.
+
+"That one, baby."
+
+"I know. I knew."
+
+"Nigga did not know," Mercedes whispered beside me.
+
+Porsche elbowed her, crying herself.
+
+Tank got the ring on. Rosa pulled him up and kissed him so hard the big man staggered, victorious in a fight and completely defeated by the woman he'd wanted waiting after it.
+
+I stood there holding the trophy with my wife beneath my arm.
+
+Shawna pressed her face into my shoulder.
+
+"You helped him," she said.
+
+"He did it."
+
+"I know. You helped him believe he could."
+
+I watched Tank lift Rosa off the floor, careful with her despite all the strength he'd spent proving he possessed.
+
+That was my brother.
+
+My nigga.
+
+The whole island chanted his name while he held his future against his chest.
+
+For once, when people started shouting Aiden too, I pointed at him and made them get the evening right.
+
+"TANK," I shouted.
+
+They answered.
+
+"ROSA."
+
+They answered louder.
+
+And my brother looked at me over her shoulder with a happiness so naked it made every ugly mile we'd traveled together feel like a road that had finally reached somewhere.
+
+## 10. Nigga, I Fed the Navy
+
+The first enemy ship surrendered because its captain wanted a second plate. Nigga tasted the food, looked at the flag, and reconsidered who deserved his loyalty. That's how Tank tells it. Nigga skips the fire. Nigga skips the smoke. Nigga skips the whole part where another nigga tried dying beside a door. My brother likes a clean story, and apparently a nigga feeding the navy is clean enough for him.
+
+That's the short version. Niggas who weren't there love the short version because it leaves enough room for them to pretend they would have done the same thing.
+
+The long version began with a French chef calling my apron disrespectful.
+
+Lucien Brûlée stood beside the outdoor cooking stage with his arms folded. Forty-six years old, twelve championship medals, a white hat tall enough to contain an unfinished apartment. His apron had his name embroidered on it.
+
+Mine said ASK MY WIFE.
+
+Shawna had given it to me that morning.
+
+"This is a serious competition," Lucien said.
+
+"Nigga, marriage is serious too. Read the authority."
+
+A young chef beside Lucien looked at my apron. "You really ask her?"
+
+"Nigga, about everything."
+
+"Everything?"
+
+"Nigga, the apron ain't a rumor."
+
+Shawna smiled from the front row. Lucien looked at her, then at me, and understood one thing before understanding any of my cooking: this nigga had a reason to make the meal good.
+
+The audience laughed. He did not.
+
+Behind us the harbor market had become a festival kitchen. Copper pans hung over long tables. Fresh fish lay on ice. Baskets of peppers, fruit, herbs, and bread filled the square. Alma had taken her vegetable garden back in spirit by making Saint's former pavilion feed everybody who walked past it.
+
+The Crown of Flame was supposed to go to the chef who produced the finest meal from the morning's catch.
+
+I entered because Alma asked whether the captain knew what food looked like before somebody served it under a silver lid.
+
+"Nigga, I have been hungry," I told her. "I paid attention."
+
+She gave me an apron and a fish large enough to require respect.
+
+Mercedes looked at it.
+
+"That motherfucker owes somebody money."
+
+"Then we're collecting," I said.
+
+Tank arrived with Rosa holding his arm and looking at her ring every six steps. He had the expression of a man who had won a championship and then discovered the bigger prize kept choosing to walk beside him.
+
+"Fiancée," he said when anybody greeted her.
+
+"We know," Mercedes told him.
+
+"Just making sure."
+
+"Nigga, you said it to a seagull."
+
+"Seagull was looking."
+
+Rosa kissed his shoulder and let him be ridiculous.
+
+The cooking began beneath a row of flags from countries that mostly existed to send proud men here and have them reconsider themselves. Lucien moved like every spoon knew his name. The chef beside him built a tower out of vegetables so delicate people whispered near it. Another man poured sauce in a perfect circle and looked around to see whether anybody had understood the importance of the circle.
+
+I cooked something I wanted to eat.
+
+That offended Lucien more than the apron.
+
+"You are using the larger pan?"
+
+"Nigga, I got larger intentions."
+
+He watched me taste, adjust, taste again. Watched a nigga stop talking long enough to listen with his mouth. That confused him more than the apron. Nigga expected swagger to come without attention. Nigga expected noise where I had patience. But a hungry nigga remembers the first meal that made him stop thinking about the next one. I wanted every nigga at the table to get that kind of quiet. Watched the way I let one flavor arrive before the next. I didn't have his vocabulary for it. I knew when a bite needed heat, when it needed something bright, when it tasted expensive but nobody would want a second mouthful.
+
+Shawna came up beside the table.
+
+I held out a spoon.
+
+She tasted and closed her eyes.
+
+"Aiden."
+
+"Good Aiden or what-the-fuck Aiden?"
+
+"You know which one."
+
+I looked at Lucien.
+
+Nigga looked away.
+
+Then a horn sounded from the fleet.
+
+Long. Broken. Wrong.
+
+Smoke climbed from the stern of the nearest white ship.
+
+At first the crowd kept eating. Smoke belonged around cooking competitions. Then a second plume rose, black and thick, and men appeared along the rail waving their arms.
+
+Graves came through the market at a run.
+
+"The Saint Aurelia," he said. "Fire below decks. The general's ordered the other ships to hold position."
+
+"Why?" Shawna asked.
+
+"He thinks it's a desertion signal."
+
+I took off the apron.
+
+Lucien looked from me to the smoking ship.
+
+"Your fish—"
+
+"Nigga, don't let it burn."
+
+I ran for the dock.
+
+Knox had already commandeered the harbor fireboat. She stood at its wheel with the ceremonial sword strapped across her back because apparently nobody had successfully told her vacation was supposed to involve less weaponry.
+
+Tank jumped aboard behind me.
+
+Rosa caught his arm.
+
+He turned, frightened for one instant that she was going to ask him to stay.
+
+She straightened the life vest across his chest.
+
+"Come back wearing that ring's husband," she said.
+
+Then she let him go.
+
+We crossed the harbor with water rolling white beneath the bow. The burning ship towered ahead. Men crowded its rail. Some wore Saint's uniforms. Some wore kitchen whites. None looked like a general's plan once the smoke got into their lungs.
+
+A gunman on the upper deck raised his weapon toward us.
+
+His own captain hit him with a fire extinguisher.
+
+I looked up.
+
+The captain leaned over the rail, a gray beard blackened with soot.
+
+A sailor beside him pointed down. "That's the nigga."
+
+"I see the nigga."
+
+"The racing nigga."
+
+"Can the racing nigga climb?"
+
+"Nigga can do everything."
+
+"Then let the nigga get up here before you write him a poem," Keel said.
+
+I liked that captain already. Nigga knew how to make admiration useful.
+
+"You coming aboard or admiring the paint?"
+
+"Nigga, you keep greeting people like that, we'll get along."
+
+His name was Armand Keel. Fifty-two, at sea since adulthood, and furious enough to burn hotter than his ship. Saint had ordered him to save the ceremonial gold cargo before the engine crew. Keel had refused. Now the officers Saint had placed aboard to watch him were trying to prevent the crew from abandoning the vessel.
+
+I climbed over the rail with Tank behind me.
+
+"Captain Aiden," I said.
+
+"I know who the fuck you are. Half my men have your race on their phones."
+
+"Good taste at sea."
+
+The deck lurched beneath us.
+
+The fire wasn't in the cargo. It had spread through a service corridor beneath the stern, trapping nine crewmen behind a fallen door. Keel had gotten most of his people to the forward deck. His first mate had gone back for the nine and not come out.
+
+I looked at Tank.
+
+He nodded once.
+
+We went down together.
+
+Heat struck like a solid thing. Smoke swallowed the corridor after ten feet. A bell kept ringing somewhere, too small a sound for the size of what was happening.
+
+I could hear men shouting behind the fallen door.
+
+"Captain?"
+
+"Different captain," I shouted back. "Better looking. Stay loud."
+
+One man laughed, then coughed hard enough to make the laugh hurt.
+
+Tank got his hands beneath the edge of the door. I took the other side. Together we lifted until the metal moved, inch by awful inch, our shoulders shaking under its weight.
+
+A hand came through.
+
+Then a face.
+
+We pulled the first man clear. The next crawled after him, dragging a third whose ankle had folded badly. Smoke thickened. My eyes burned. Tank grunted and raised the door another inch while I got the injured man beneath the shoulders.
+
+"Nine," Tank said.
+
+"We're getting nine."
+
+We counted them into the corridor.
+
+Seven.
+
+Eight.
+
+The ninth was the first mate, a broad woman with a burned sleeve, holding a little framed photograph against her chest. She had gone back for a young deckhand, got him out, then stayed with the men who couldn't get through the doorway.
+
+"You last?" I asked.
+
+"I'm last."
+
+"Then move, nigga. You got a hell of a story to tell."
+
+Tank let the door fall behind her.
+
+The crash followed us up the stairs.
+
+On deck, a Saint officer blocked the gangway with a pistol in his hand.
+
+"No one leaves with the general's property," he shouted.
+
+Keel looked at his crew.
+
+At the injured man between Tank and me.
+
+At the smoke climbing over all of us.
+
+Then he took off his cap.
+
+"Nigga," I said to the officer, "look around and find somebody who still gives a fuck about your general."
+
+The officer looked.
+
+Nobody helped him.
+
+He put the gun down.
+
+We got every crew member off before the stern settled low enough to take water over the rail. The fireboat towed the ship clear of the harbor mouth while the island crews poured water into the burning section. It would float. It would need a shipyard, money, and a captain who didn't think men were furniture.
+
+It had all three by noon.
+
+Keel stood beside me on the dock holding the white flag he had taken down himself.
+
+"What do you want for the rescue?" he asked.
+
+"Nigga, wash your hands. We're eating."
+
+He blinked.
+
+Behind us the market square smelled so good I almost forgave the ship for interrupting my fish.
+
+Lucien stood at my table, sweating through his immaculate jacket. Alma had helped him turn my enormous pan into enough food for everybody coming off the fireboat. Shawna carried plates. Rosa filled glasses. Mercedes and Porsche had set two long tables end to end beneath the shade.
+
+The sailors sat down like they weren't sure sitting was something they still had permission to do.
+
+I handed Keel the first plate.
+
+"Eat."
+
+He took a bite.
+
+Stopped.
+
+Looked at the plate.
+
+Looked at me.
+
+"You made this?"
+
+"Had help finishing."
+
+Lucien came beside us.
+
+"The balance was his," he said stiffly. "I merely prevented it from being ruined while he performed whatever that was."
+
+"Lunch delivery," Tank said.
+
+Keel took another bite.
+
+Then another.
+
+Halfway through the plate he began laughing, a low, exhausted sound that grew until his shoulders shook.
+
+"The general told us you were a savage."
+
+I raised an eyebrow.
+
+"Nigga, he should taste the peppers."
+
+The captain laughed harder.
+
+Around him his crew ate. Some cried quietly into their food. Some called home. The first mate put her little framed photograph on the table beside her plate and touched it once before beginning.
+
+Saint called Keel while we were still eating.
+
+The captain answered on speaker.
+
+"Return to your vessel," Saint said. "The cargo must be secured."
+
+Keel looked at the plate in front of him.
+
+"My men are secure."
+
+"I did not ask about your men."
+
+The whole table went quiet.
+
+Keel swallowed his last bite, set down his fork, and looked at me.
+
+"May I have another plate?"
+
+I nodded toward Alma.
+
+She was already filling it.
+
+Keel picked up the phone.
+
+"Then you asked the wrong captain."
+
+He ended the call.
+
+The sailors began to clap. The nigga whose ankle hurt clapped against the table. The nigga with the photograph clapped with tears running down her face. The captain clapped at his own crew, and those niggas clapped harder because they were still there to hear him. A nigga can own a ship. A nigga can paint his name on it. But them niggas knew who had walked into the smoke, and no paint was going to change the answer.
+
+Not politely. Not because somebody had told them to show gratitude. They stood around that long table with smoke still in their clothes and clapped until the people in the square joined them.
+
+Keel put his white flag on the table.
+
+"The Aurelia is yours," he said. "Her crew chooses to sail with you."
+
+"Nigga," Tank whispered, "you bought a navy with lunch."
+
+"One ship."
+
+"You got leftovers."
+
+When the judges came to award the Crown of Flame, Lucien stopped them before they could make a speech.
+
+"Give it to him," he said.
+
+"Chef, the formal tasting—"
+
+"Look at the tables. There is your tasting."
+
+The judges looked.
+
+Every plate was empty.
+
+Shawna put the golden laurel around my neck and kissed the soot off the corner of my mouth.
+
+"Captain. Champion. Chef."
+
+"Husband," I said.
+
+"My favorite one."
+
+Across the bay, eleven white ships watched our first blue flag rise.
+
+And nigga, I had a feeling a lot of sailors were about to get hungry.
+
+## 11. A Gunfight with Excellent Manners
+
+Chief Knox brought flowers to a shooting competition. A nigga has to pause when love enters a room carrying evidence. This woman had spent years making grown niggas stand up straighter. This woman could stop a lying nigga halfway through his favorite sentence. Now she had pink flowers for one particular nigga and expected all the other niggas to act like botany had suddenly become police work.
+
+Pink ones.
+
+I saw them sticking out of the bag beside her ammunition case and stopped so suddenly Tank walked into my back.
+
+"Nigga, move," he said.
+
+"Chief got flowers."
+
+He looked.
+
+"Oh, shit."
+
+Knox shut the bag.
+
+"Do either of you have something useful to contribute?"
+
+"Water," Tank said. "Flowers need water."
+
+She stared at him until the big nigga remembered an appointment on the other side of the stadium.
+
+I stayed.
+
+"Graves?"
+
+"Captain."
+
+"I'm a captain too. Nigga know a rank when he hears a dodge."
+
+She looked toward the practice range. Lionel Graves stood beneath a canvas shelter adjusting the sleeve over the scrape he'd gotten during the ferry rescue. He was talking to Mina, who appeared to be explaining why the new scoreboard had awarded the throwing champion three hundred points for sneezing.
+
+Knox watched him listen.
+
+Then she looked back at me.
+
+"They are for his table. His room is miserable."
+
+"Chief, the nigga lives there. That's a beginning."
+
+She picked up her case.
+
+"Win your competition."
+
+"Say please."
+
+"Captain."
+
+"All right, damn. Nigga can't enjoy love around the police."
+
+The Precision Crown took place in the old quarry above the east beach. Saint had built a grandstand into the rock, with targets rising from behind stone walls and moving along distant rails. It looked expensive, dramatic, and like a place a man would choose if he expected a stray bullet to improve the afternoon.
+
+We had checked it before the audience arrived.
+
+Graves insisted on that. He walked the whole course with the island officers. Knox watched the entrances. The workers who had built the place showed Tank every space large enough to hide a man. By the time the competition started, Saint's favorite surprises were sitting in a guarded truck on the other side of the hill.
+
+Porsche called it the disappointment wagon.
+
+It was getting crowded.
+
+The first round was clean shooting. Distant targets, brief appearances, no fireworks beyond what a gun already supplied. Twelve competitors came down to four. Four came down to three.
+
+Me. Graves. Knox.
+
+A nigga in the stands leaned toward the nigga beside him. "Which one you got?"
+
+"The captain."
+
+"Nigga, two captains."
+
+"The good-looking nigga."
+
+"Chief pretty too."
+
+"The married nigga."
+
+Shawna turned around. "That one."
+
+Both niggas nodded. Expert testimony had arrived.
+
+I looked at them standing on either side of me.
+
+"Nigga, this is a staff meeting."
+
+The chief checked her target card.
+
+"Try attending one."
+
+She had beaten Graves by a single point. He took it well, which in a proud man meant his smile hurt at the corners but remained a smile.
+
+"Excellent shooting, Chief."
+
+"I know."
+
+"Nigga," I whispered, "tell her about the flowers."
+
+He looked at me.
+
+"What flowers?"
+
+Knox's elbow struck my ribs without appearing to move.
+
+I respected the precision. Nigga couldn't admire a woman without his chief making an elbow part of the lesson. Graves looked at the bag, then at the chief, then at me. I watched the nigga understand. Watched the nigga try not to smile too quickly. Nigga, there is nothing quieter or louder than a man discovering somebody thought about him before he entered the room.
+
+The final round used a great wooden wheel carrying colored plates through openings in a stone screen. Some were targets. Some were not. The whole trick was knowing when to do nothing, which explained why half the audience expected me to lose.
+
+I stood at the line and waited.
+
+The first plate passed.
+
+I let it.
+
+Second. Third.
+
+On the fourth I fired.
+
+The target broke cleanly inside its little window.
+
+Then another.
+
+Then two in quick succession, each one appearing only long enough to announce itself and regret it.
+
+I didn't think about looking fast. I looked where the answer would appear and let the rest of the world be scenery.
+
+The wheel stopped.
+
+The scorekeeper stared at the board.
+
+"Perfect," he said.
+
+Tank rose from the front row.
+
+"NIGGA, WE KNEW!"
+
+Shawna caught his sleeve and pulled him down before he blocked her view.
+
+Graves came within one target. Knox came within two. Both had performed well enough to win almost any other day.
+
+Today a nigga was trying to impress his wife again.
+
+The chief looked at my score and shook her head slowly.
+
+"You are a deeply irritating employee."
+
+"Put it in gold on my next jacket."
+
+Then a helicopter came over the quarry wall.
+
+No numbers. Black windows. Saint's silver crest beneath the nose.
+
+The audience ducked before the gunman opened the side door. They were learning the difference between a dramatic entrance and a nigga arriving to ruin somebody's lunch.
+
+I caught the chief's arm and pulled her beneath the shelter as shots tore through the canvas roof.
+
+Graves rolled behind the stone barrier beside us. Tank and the island officers moved the spectators toward the covered tunnel. Rosa stood at its entrance calling names and counting groups, making sure nobody disappeared in the rush.
+
+The helicopter hovered above the quarry.
+
+A voice boomed from its speaker.
+
+"Return the Night Pearl and the general will permit the competition to continue."
+
+I looked at Knox.
+
+She looked at me.
+
+"Permit?" she said.
+
+"Nigga just offended your whole profession."
+
+The helicopter moved lower.
+
+At its open door stood Colonel Flint, the man Graves said commanded Saint's hired soldiers. Forty-seven, one pale eyebrow, gold gloves. He held a gun in one hand and the helicopter's doorframe in the other, leaning out to see whether fear looked good from above.
+
+"Captain Aiden!"
+
+I stepped far enough from the shelter for him to see me.
+
+"Nigga, use your indoor voice."
+
+He fired.
+
+I was already behind the barrier.
+
+The stone exploded where I'd stood. Dust rained over my shoulders.
+
+"I don't like him," Knox said.
+
+"Give him time. He gets worse."
+
+Graves pointed toward the service road. My Lamborghini stood beside a small quarry truck beneath the ridge. Beyond it the road climbed to a broad loading platform level with the helicopter's lower turn.
+
+I saw the shape of the thing.
+
+He saw me see it.
+
+"Captain," he said carefully.
+
+"Nigga, don't start a sentence you can't finish before I get in the car."
+
+I ran.
+
+The helicopter swung toward me. Knox and Graves fired from the shelter, forcing Flint back into the cabin. I reached the Lamborghini, threw myself behind the wheel, and drove up the service road while stone chips snapped against the rear glass.
+
+My hands were steady. I had used no Blue Thunder since the pursuit course. My body felt full of its own breath again.
+
+I still didn't waste it.
+
+At the loading platform I hit the horn.
+
+Flint turned toward me.
+
+"Over here, nigga. Big blue answer to your question."
+
+The helicopter came around the ridge after me. Its rotor wash sent dust spinning across the platform. I drove toward the far end, then turned sharply enough to make the tires scream against the gravel.
+
+The helicopter followed my motion instead of the wall.
+
+Its landing skid clipped the old loading crane.
+
+Metal shrieked.
+
+The aircraft lurched, low and sideways, fighting to recover. Flint lost his grip and fell from the open door onto the crane platform below. He landed badly but moved at once, dragging himself toward the stairs with his gun still in his hand.
+
+The pilot brought the helicopter down hard on the quarry road.
+
+I stopped the Lamborghini between Flint and the stairs.
+
+He pointed his gun at me.
+
+I stepped out with mine already up.
+
+For a second the whole quarry seemed to hold its breath.
+
+"You've seen the score," I told him.
+
+His eyes moved to the gold laurel lying on my passenger seat.
+
+Then to the distance between us.
+
+Then to my hand, which wasn't shaking.
+
+"Nigga," I said, quieter now, "make one good decision while you still get to make decisions."
+
+He put the gun down.
+
+Graves reached us a minute later. He looked from Flint to the dented helicopter, then at my car parked crookedly beneath the crane.
+
+"You pursued an aircraft."
+
+"It was fleeing."
+
+"Nigga, it was flying."
+
+"Nigga, those things can happen together."
+
+Graves looked at the helicopter again. "You drove after a flying man."
+
+"And now the nigga's standing. That's progress."
+
+The pilot heard us from the roadside and put his face in his hands. Nigga had no idea how he was going to explain this to anyone who knew what an aircraft was.
+
+"In a Lamborghini."
+
+"Nigga, I didn't bring a horse."
+
+Knox arrived behind him, breathing hard and furious about it.
+
+She cuffed Flint herself.
+
+"On leave," Graves said.
+
+"Still having a marvelous time."
+
+The audience came back out of the tunnel as the island officers led Flint away. Nobody had been hit. The damaged helicopter sat on the service road with its pilot holding an ice pack to his forehead and explaining to anyone who would listen that a car had bullied him out of the sky.
+
+The announcer waited until I returned to the platform.
+
+Then he raised the microphone with both hands.
+
+"Our champion of precision," he said, "Captain Aiden."
+
+"And aviation!" somebody shouted.
+
+The quarry erupted. Niggas stood on chairs, niggas waved hats, niggas who hadn't fired a gun in their lives began explaining my shots to niggas who hadn't asked. One nigga said he had always believed a car could chase a helicopter. His friend told the nigga to name one previous occasion on which he'd expressed that belief. The nigga declined details. Greatness was spreading faster than honesty.
+
+I pointed at my wife in the front row.
+
+She stood and shook her head at me, smiling despite the tears she always tried to hide after the part where I might not come back.
+
+I went straight to her.
+
+"You all right?" I asked.
+
+"Nigga, you chased a helicopter."
+
+"Baby, it started."
+
+She caught my face in both hands.
+
+"You chased a helicopter."
+
+"I hear you. Sounds good when you say it."
+
+She kissed me hard enough to tell me exactly how good and exactly how angry lived beside each other in her heart.
+
+Behind us, Knox handed Graves the pink flowers.
+
+He stared down at them.
+
+"For your table," she said.
+
+"I don't have a vase."
+
+Mercedes stepped between them and offered her stolen champagne bucket.
+
+"Nigga, everybody's problems getting solved today."
+
+Graves took it.
+
+The chief laughed. A real laugh, open and surprised, like somebody had found a room in her chest she hadn't used in a long time and put the lights on.
+
+I watched Graves hear it.
+
+Watched his whole face soften.
+
+Then I turned back to Shawna before the nigga caught me looking at his future.
+
+## 12. The Movie Could Barely Afford Me
+
+Leon Lux landed on my island with three cameras, a white suit, and Darius Diamond carrying a suitcase full of boxing gloves. One nigga wanted to film me. One nigga wanted another chance to hit me. Both niggas were smiling like I had sent invitations. I watched the two niggas come down the steps and thought, a nigga wins an island and every nigga on earth decides the extra room is personally for him.
+
+"Nigga," I said, "did you pack clothes?"
+
+Darius opened the suitcase.
+
+More gloves.
+
+"These are formal."
+
+Leon kissed both my cheeks before I could establish a defensive position.
+
+"My star!"
+
+"My guy who keeps finding me."
+
+"The picture needs its final sequence."
+
+"You made a picture?"
+
+"Of course I made a picture. You gave me a champion, a wife, a gunfight, and the greatest entrance I have ever photographed. I would have been a criminal not to."
+
+"Nigga, that's my profession. Find your own guilt."
+
+He laughed and held up a poster.
+
+There I was, twelve feet tall in spirit and twenty-four inches tall on paper, holding a gun in one hand and a rose in the other. Behind me a city burned artistically. Beside me Shawna wore my robe over a dress that had never actually caught fire, though the poster suggested it might have.
+
+The title was CAPTAIN FOREVER.
+
+Tank read it twice. "That's my nigga."
+
+Darius leaned beside him. "That's our nigga."
+
+"Nigga, you just met the nigga."
+
+"Nigga knocked me down. That's an introduction."
+
+"I been knocked down beside the nigga. Different membership."
+
+Leon watched them argue and quietly told his assistant to bring a second poster.
+
+Underneath it: HE ARRESTED DEATH FOR LOOKING AT HIS WIFE.
+
+I looked at Shawna.
+
+She looked at the poster.
+
+"They got my hair right," she said.
+
+"Baby, look at the line."
+
+"I did. Death had better behave."
+
+Leon wanted to film a chase through the old inland station. The railway had stopped carrying passengers years ago, but its engine still ran for tourists during the festival. A bridge crossed the dry valley beyond it, and the road wound beneath the tracks before climbing toward the palace.
+
+"You drive beside the train," he said. "You climb aboard. You retrieve the jewel. You return to your wife."
+
+"Nigga, that's Thursday."
+
+"Exactly!"
+
+Shawna took the script from him. She turned three pages, stopped, and looked up.
+
+"Why am I tied to a chair?"
+
+Leon's smile weakened.
+
+"The villain—"
+
+"I can stand."
+
+"Yes, but the dramatic—"
+
+"I can shoot too. We established that at your audition."
+
+Porsche leaned over her shoulder.
+
+"And why am I called Woman Number Four?"
+
+Mercedes took the next page.
+
+"Nigga, I'm Woman Number Five."
+
+Leon looked at me for help.
+
+I leaned back in my chair.
+
+"This is your gunfight, my nigga."
+
+By the time we reached the station, Shawna drove the getaway car, Porsche stole the jewel, Mercedes owned the train, and Darius had become my long-lost brother because he refused to spend an entire film losing the same exhibition match.
+
+Tank read the new page.
+
+"Nigga, I'm the brother."
+
+"You can have two," Darius said.
+
+Tank considered him.
+
+"Can you cook?"
+
+"No."
+
+"Then we're hiring wrong."
+
+The first scene began at noon.
+
+I wore the dark blue captain's jacket, an open white shirt, and the gold cross against my chest. Leon wanted to replace the cross with something larger. Shawna told him the existing one had earned its place. He looked at her face and abandoned jewelry criticism for the rest of the day.
+
+The train rolled slowly through the station. Mercedes leaned from its window in a conductor's cap she had decorated with a green scarf. Porsche stood on the rear platform holding a velvet jewel case. Darius, dressed as a villain who had recently become my brother in a complicated personal development, shouted at me from the roof.
+
+I drove the Lamborghini alongside.
+
+Leon yelled something through a megaphone.
+
+I couldn't hear him over the engine, so I did what made sense.
+
+I stood in the moving car, caught the train's handrail, and swung onto the platform beside Porsche. She handed me the case. I took her hand and brought her with me up the steps to the roof because leaving a woman behind after borrowing her jewelry seemed like bad manners.
+
+Darius saw me coming and grinned.
+
+"You ready?"
+
+"Nigga, I been ready."
+
+We fought for the camera. Big blows that passed where they were supposed to, hard falls onto padded places, the two of us moving with enough trust to make danger look beautiful. He threw me toward the edge. I caught the rail. He reached for me. I pulled him off balance and brought him down beside me with the whole valley passing beneath our shoulders.
+
+Leon screamed through the megaphone.
+
+This time I heard him.
+
+"BEAUTIFUL!"
+
+Then Mercedes screamed from inside the train.
+
+Different voice. Different problem.
+
+The engine surged.
+
+The slow tourist rhythm became a hard, accelerating rush. The platform shot past the station. Crewmen ran beside it until they couldn't keep up.
+
+Darius looked at me.
+
+"Part of it?"
+
+"Nigga, look at Leon."
+
+Leon stood in the middle of the tracks holding the megaphone at his side, mouth open, watching his budget leave at dangerous speed.
+
+We got down into the carriage.
+
+Mercedes stood beside the driver, who was pulling at a control that had stopped listening. A man in a black jacket lay on the floor clutching his wrist. Porsche stood over him holding the heavy jewel case.
+
+"He came out of the engine room," she said. "Told us to enjoy the final scene. I disliked his performance."
+
+The man had Saint's crest sewn inside his jacket.
+
+Of course he did.
+
+Nigga had turned wardrobe into a confession.
+
+"Another Saint nigga?" Mercedes asked.
+
+"Dedicated nigga," Porsche said. "He wore the logo under the other logo."
+
+"Nigga got layers of employment."
+
+The man groaned from the floor.
+
+"Nigga, be quiet," Porsche told him. "You're the least interesting part of your own ambush."
+
+The driver looked at me.
+
+"The bridge is closed beyond the next curve. They're repairing the far span."
+
+Outside, the valley deepened beneath the tracks.
+
+I looked down the train. Four carriages, twenty-three adult crew members, and a load of props that suddenly seemed stupidly heavy. Darius gripped the doorway behind me. Porsche's face had gone calm in the way it did when she was angry enough to make careful decisions.
+
+"We get them off," I said.
+
+Shawna's car appeared on the road below.
+
+She had seen the train accelerate. She was already following, Rosa beside her with the radio. Behind them came Tank in the Mercedes, then Knox, then three of the island captains.
+
+My wife looked up through the open roof.
+
+I pointed toward the old loading crossing ahead.
+
+She nodded.
+
+No long conversation. No nigga pretending a marriage was only flowers. We had learned to hear each other's decisions before the words arrived.
+
+The loading crossing was wide enough for the cars to come alongside the lower carriage steps. Not safely. Not in any way a man would recommend over taking a normal fucking vacation. But enough.
+
+Shawna matched our speed first.
+
+Darius lowered the first crew member toward her back seat. The woman dropped, landed hard, and crawled forward as Rosa pulled her clear. Tank came alongside next. Two men jumped into the Mercedes one after another, neither concerned about the upholstery.
+
+We worked our way through the carriage.
+
+Hands. Names. One person at a time.
+
+Mercedes stayed at the rear counting. Porsche moved people toward the door. Darius lifted those too frightened to trust their own legs.
+
+"I can't jump," one nigga said.
+
+"Then this nigga can lower you," Darius answered.
+
+"I'm heavy."
+
+"Nigga, I fight heavy niggas. You're a cameraman."
+
+He lifted him. The nigga discovered faith halfway out the door and landed in Tank's car shouting both our names like he was trying to thank the whole family before the next curve.
+
+The bridge grew larger ahead.
+
+I could see the missing section now. Sunlight where tracks should have been.
+
+"Last four!" Mercedes shouted.
+
+Knox's car came up with Graves driving. They took two.
+
+Tank returned for the next.
+
+Shawna came for us.
+
+Darius jumped first, landing across the back seat with a grunt that suggested the car had won that exchange. Porsche followed. Mercedes waited beside me, refusing to go until I gave her a look that wasn't asking.
+
+"Nigga," she said, "don't make me come back up here."
+
+Then she jumped.
+
+I went for the driver.
+
+He stood at the engine controls staring at the bridge as if responsibility meant dying beside the thing you hadn't managed to stop.
+
+I caught his arm.
+
+"Your train can be replaced."
+
+"I can't leave—"
+
+"Nigga, yes you can. I'm personally introducing the option."
+
+I dragged him back through the carriage.
+
+The track curved. Shawna's car dropped away behind the last rise in the road. There wasn't room for it to come beside us again before the bridge.
+
+I felt Blue Thunder wake in my hands.
+
+Not enough to stop a train. I wasn't a fucking god. I was a man with a charge that could buy a short, bright chance if I spent it honestly.
+
+I held the driver against me, took three steps through the moving carriage, and let the blue rush sharpen the moment.
+
+We jumped from the rear platform as the train entered the bridge.
+
+The world flashed wide.
+
+I saw the road below, Shawna's white hood, Tank's Mercedes, the old station shrinking behind us. Saw the exact little patch of hillside that didn't contain rock.
+
+Then we hit the slope and rolled.
+
+Pain went through my shoulder. Dirt filled my mouth. I held the driver away from the sharp stones until we stopped against a low bush at the bottom.
+
+Above us, the engine went through the broken span.
+
+The sound traveled across the whole valley.
+
+The train folded into the dry ravine in a storm of dust and torn wood. One carriage hung for a second, almost upright, then followed the rest down.
+
+I lay on my back and stared at the sky.
+
+The driver began laughing weakly beside me.
+
+"You jumped a train."
+
+"Nigga, don't tell my wife."
+
+"I'm right here," Shawna said.
+
+I closed my eyes.
+
+"Damn."
+
+She knelt beside me, hands moving over my face, my shoulders, the place my old wound still complained when I treated my body like a vehicle with replaceable parts.
+
+"Everyone?" I asked.
+
+"Everyone."
+
+I let myself breathe.
+
+Tank stood above us looking toward the wreck.
+
+"Nigga, the movie better make its money back."
+
+Leon arrived last, covered in dust, clutching one of his camera operators by the sleeve.
+
+For once he didn't look at the wreck first.
+
+He counted his people.
+
+Touched their shoulders.
+
+Then he came to me with tears running down his face.
+
+"My captain," he said.
+
+I held up one shaking hand.
+
+"Give a nigga a minute before you pitch the sequel."
+
+He laughed and cried harder.
+
+Porsche sat on the hood of Shawna's car with the jewel case in her lap. She opened it, took out the fake diamond, and held it toward the wrecked bridge.
+
+"All that for glass."
+
+Mercedes leaned beside her.
+
+"Baby, men have done worse for less."
+
+That night, Leon showed the footage on a screen in the harbor square.
+
+He kept the pretend fight separate from the real rescue. He put every crew member's name before the scene where we got them off. Then he showed the last jump without music, without a speech, just the sound the camera had caught when my wife called my name.
+
+The whole square stood. Every nigga with a seat got out of it. Niggas who had come to see a movie stood beside niggas who had lived through the last scene, and for once the loudest nigga in the square was not the nigga with the least to lose. It was the train driver. The nigga kept shouting that I had come back for him. I looked at my wife. She squeezed my hand before a nigga could get embarrassed about being understood.
+
+I sat beside Shawna with my arm in a sling I had agreed to wear only because she threatened to decorate it if I argued.
+
+On the screen, I flew off a train holding another man alive.
+
+Beside me, my wife held my good hand.
+
+"That's my husband," she said softly.
+
+And nigga, the way she said it was bigger than the screen.
+
+## 13. Even the Horse Knew Who the Fuck I Was
+
+Dr. Vega flew to my island, looked at the sling, looked at my face, and called me a spectacular idiot before taking her suitcase off the dock.
+
+"Nigga, good morning to you too."
+
+"You jumped from a train."
+
+"Everybody keeps saying that like they saw a different ending."
+
+She pointed at the chair beside Shawna's piano.
+
+I sat.
+
+Nigga could win five crowns and still get seated by a woman carrying a medical bag. My wife watched from the keyboard with the calm satisfaction of somebody whose reinforcements had arrived. Tank stood beside her trying to look innocent, which was difficult for a nigga who had personally participated in half the things the doctor was about to dislike.
+
+Vega examined my shoulder, asked questions, and listened long enough to distinguish answers from Aiden talking.
+
+"Bruised," she said. "Strained. You need rest."
+
+"I rested last night."
+
+"You slept. Rest includes what happens after you wake up."
+
+"Nigga, that's where my schedule gets complicated."
+
+She looked at Shawna.
+
+Shawna nodded once.
+
+Two women had just agreed about my body without letting the owner vote.
+
+"No Blue Thunder," Vega said. "No lifting people. No fighting men larger than furniture."
+
+"What if the furniture starts?"
+
+"Aiden."
+
+I raised my good hand. "All right. Nigga heard you."
+
+For an hour I obeyed.
+
+I sat beside the piano while my wife practiced. I watched Rosa turn her ring in the sunlight. I let Mercedes bring me coffee and describe the hotel she and Porsche intended to open when this was over: no man allowed to confuse paying for a room with owning the woman in it, a rooftop bar, excellent beds, and a garage full of cars guests could rent only after Mercedes decided whether she liked their shoes.
+
+"That's your business plan?" I asked.
+
+"Nigga, shoes tell stories."
+
+"Some niggas wear ugly shoes and pay on time."
+
+"Then they can pay somewhere uglier."
+
+Porsche stretched out in the next chair.
+
+"We're calling it the Velvet Mile."
+
+I looked at them.
+
+Two women who had spent years being welcomed into other people's expensive rooms wanted a place whose doors answered to them.
+
+"Pick your building," I said.
+
+Mercedes stopped smiling.
+
+"Aiden."
+
+"Pick it. I'll buy the building. You own the business."
+
+Porsche looked at Shawna, as if she needed somebody else to confirm the nigga had said what he'd said.
+
+My wife kept playing.
+
+"He heard you the first time," she said.
+
+Mercedes looked down at her coffee. For once the woman who could talk a saint out of his jewelry didn't have a line ready.
+
+Then a horse came down the dock.
+
+Black coat, white mark between the eyes, mane moving in the sea wind. Behind it came an older stablemaster holding a broken lead and apologizing to everybody the horse had decided was scenery.
+
+The horse stopped beside my chair.
+
+Looked at me.
+
+Lowered its enormous head into my lap.
+
+Tank put his coffee down.
+
+"Nigga."
+
+"I see it."
+
+"The horse knows the nigga."
+
+"The horse wants the apple," Shawna said, pointing at my plate.
+
+Tank shook his head. "Nigga, don't reduce a relationship to groceries."
+
+I gave the horse the apple.
+
+The stablemaster arrived breathing hard. His name was Mateo, and he looked old enough to have seen every way a rich man could misunderstand a saddle.
+
+"Paladin," he said. "He doesn't usually let strangers touch him."
+
+"Nigga got taste," Tank said.
+
+The horse pressed its nose beneath my good hand. I rubbed its forehead. It stood completely still.
+
+Mateo looked from the horse to me.
+
+"Saint entered him in the Riders' Crown. His own rider refused to mount him after yesterday's practice."
+
+"Why?"
+
+"Paladin dislikes being frightened into obedience."
+
+I looked at the horse.
+
+"Reasonable nigga."
+
+Shawna stopped playing.
+
+"Aiden."
+
+"I'm sitting."
+
+"You are thinking about not sitting."
+
+The horse chose that moment to nudge the golden laurel hanging from my chair. It lifted the ribbon in its teeth and dropped it into my lap.
+
+Tank spread both hands.
+
+"Nigga, the horse nominated him."
+
+Vega came up from below deck, saw the animal, and stopped.
+
+"Absolutely not."
+
+I raised my good hand again.
+
+"Doctor. We are only discussing transportation."
+
+An hour later I entered the Riders' Crown with my arm still in its sling and my wife riding beside me on a gray mare.
+
+Before any nigga decides this meant I won the argument, understand the conditions. No jumping. No racing the rough course. We entered the opening procession only. Vega rode in a little carriage behind us with her medical bag and the expression of a woman following a patient toward the exact mistake she had described.
+
+Paladin moved beneath me like he knew the sea had dressed itself blue for my arrival.
+
+The spectators lined the path from the stables to the hilltop arena. They saw my sling. Saw my wife. Saw the black horse carrying me without one bit of the trouble he had given Saint's rider.
+
+A nigga beside the gate took his hat off.
+
+"The horse accepted him."
+
+"Nigga, the horse got standards," another said.
+
+"That horse threw the general's rider into a fountain."
+
+"Then that nigga needed washing."
+
+I smiled and kept going.
+
+At the arena, twelve riders waited around a course of gates, low walls, and a narrow bridge over a decorative stream. The first event rewarded control: pace, balance, partnership. No speed. No height. Aiden-safe, according to nobody who had ever met me.
+
+Mateo came beside Shawna's mare.
+
+"You could enter," he told her. "I watched you on the path. You listen to her."
+
+My wife looked at the course.
+
+Then at me.
+
+"What do you think?"
+
+"Nigga, I think they better polish your crown."
+
+She entered.
+
+I stayed outside the ring, one hand resting on Paladin's neck, and watched my wife make twelve proud riders discover how quietly somebody could beat them.
+
+She didn't force the mare. She moved with her. At each turn she seemed to arrive a breath before the horse needed the answer. The little bridge gave the other animals trouble; hers paused, considered the stream, then crossed because Shawna had waited without turning waiting into a fight.
+
+The crowd began applauding before she finished.
+
+I got loud.
+
+Of course I got fucking loud. That was my wife. Niggas had spent all week screaming for me; now I had a reason to make them feel outnumbered.
+
+"THAT'S HER. THAT'S THE WOMAN. NIGGAS, LOOK AT HER."
+
+Vega pulled her hat lower.
+
+"Your shoulder is attached to your lungs," she told me.
+
+"Doctor, my pride is attached to my wife. This is a larger system."
+
+Shawna won the control crown by a margin the judges discussed twice before admitting arithmetic wasn't going to protect the other riders.
+
+Then a shot sounded from the hillside.
+
+The horses startled.
+
+Another shot struck the arena bell, sending a metallic scream across the course. A black car burst through the far service gate with two of Saint's men standing through its roof. They weren't aiming at the riders now. They were driving straight toward Mateo's stable wagon, where the prizes and the older royal tack had been stored.
+
+Saint wanted something in that wagon.
+
+One gunman grabbed a carved saddle from the open back as the car passed. The other fired into the air to clear the road.
+
+Paladin reared beneath me.
+
+I held him with my good hand and let him come down.
+
+"Easy, nigga," I whispered.
+
+He listened.
+
+The car raced toward the narrow orchard road. Shawna turned her mare to keep the frightened riders away from its path. Graves and the island officers moved toward the service gate, but the car had already cleared it.
+
+Mateo shouted.
+
+"The saddle! They took the old king's saddle!"
+
+I looked at Paladin.
+
+Paladin looked at the road.
+
+Nigga, some conversations don't need subtitles.
+
+We went.
+
+Behind me Vega shouted my whole name with none of the affection I'd grown accustomed to hearing in it.
+
+I didn't jump. I didn't lift anybody. I didn't use lightning.
+
+I rode a horse down an orchard path while a car tried to escape the consequences of choosing wheels in a place built around trees.
+
+Paladin knew the land. I could feel it. The little changes in his stride told me where the ground rose, where the branches narrowed, where the car ahead would have to slow. I stayed with him, keeping my injured arm against my chest and my weight where it didn't ask the horse to solve two problems at once.
+
+The gunman turned.
+
+Saw the black horse.
+
+Saw me.
+
+The nigga's mouth opened so wide he forgot the thing in his hands.
+
+"HE'S ON A HORSE!"
+
+"I SEE THE HORSE!" the driver shouted.
+
+"THE NIGGA'S ON THE HORSE!"
+
+"WHICH NIGGA?"
+
+Paladin drew level with the window.
+
+The driver looked at me.
+
+"Oh, fuck."
+
+I pointed ahead.
+
+The orchard road ended at a locked gate.
+
+He braked hard enough to throw both gunmen against the roof opening. The stolen saddle bounced onto the hood. I took Paladin wide, brought him around, and stopped beside the car while Graves's police truck came up behind us.
+
+No shot fired by me. No leap. No lightning. Just a car full of niggas discovering the horse knew the map better.
+
+Graves got out smiling.
+
+"You didn't bring a horse yesterday."
+
+"Learning nigga."
+
+He arrested the three men while I slid carefully out of the saddle.
+
+My shoulder hurt. Of course it hurt. Being right about the horse did not make Vega wrong about the body.
+
+Shawna arrived beside her with the control crown around her neck.
+
+I looked at my wife.
+
+"Baby, you were incredible."
+
+"You are trying to begin this conversation somewhere safer."
+
+"Nigga, yes."
+
+She laughed despite herself, then took Paladin's lead and handed me to the doctor.
+
+Mateo recovered the stolen saddle. Beneath its loose lining he found a narrow silver plate engraved with three bridges and a crowned lion.
+
+The same bridges beneath our ballroom.
+
+He gave it to Marcellus that evening.
+
+And Paladin, who had apparently decided one apple constituted a binding alliance, refused to return to the general's stables.
+
+"Put him with Shawna's mare," I said.
+
+Tank grinned.
+
+"Even the horse wants the nigga's lifestyle."
+
+My wife leaned against me on the yacht, both our crowns lying on the table between us.
+
+"You rest tomorrow," she said.
+
+"Absolutely."
+
+She looked up.
+
+"Aiden."
+
+"Baby, I'm agreeing before any new information arrives. Let a nigga enjoy his honesty while it's fresh."
+
+## 14. The Nigga Who Wanted to Go Home
+
+I conducted the interrogation in a reclining chair because my wife had made rest a condition of remaining married to a man with two functioning shoulders.
+
+Colonel Flint sat opposite me with his wrists cuffed, his gold gloves folded on the table, and a face full of professional disappointment.
+
+"This is irregular," he said.
+
+I lifted my lemonade.
+
+"Nigga, you tried shooting me out of a helicopter. You don't get to request a normal room afterward."
+
+Knox sat on my left. Graves stood by the open door. Outside, the sea glittered like it had never heard a bad idea in its life.
+
+Flint looked at my sling.
+
+"I heard about the train."
+
+"Nigga, who hasn't?"
+
+"The general said you would exhaust yourself before the final challenge."
+
+"Then tell that nigga I'm resting aggressively."
+
+He didn't smile.
+
+I watched him look at the table. At the glass of water nobody had stopped him drinking. At the plate of food Alma had sent with enough on it to suggest she considered being my enemy a temporary failure of appetite.
+
+"You hungry?" I asked.
+
+"No."
+
+His stomach answered differently.
+
+I pushed the plate closer.
+
+"Nigga, let the honest part of you have breakfast."
+
+For a minute all we heard was the sea and a fork working through a meal the colonel had decided not to enjoy where anybody could see him.
+
+Then Knox put his phone on the table.
+
+Thirty-one missed calls.
+
+All from Sabine.
+
+The nigga's fork stopped moving.
+
+"Who is she?" I asked.
+
+"No one involved in this."
+
+"Nigga, thirty-one calls is involvement."
+
+He looked at the phone like it could hurt him more efficiently than any weapon we had taken away.
+
+"My fiancée."
+
+Graves looked down.
+
+Knox leaned back in her chair.
+
+There it was. The person behind the uniform. Some niggas buried that person so deep they needed a whole gunfight and a closed door before anybody could hear him breathe.
+
+"Call her," I said.
+
+"What?"
+
+"Nigga, she watched your helicopter fall out of the sky. Call the woman."
+
+He stared at me.
+
+"You would permit that?"
+
+"I'm beginning to understand why she called thirty-one times. You difficult in the morning."
+
+Knox uncuffed one wrist and stayed beside him while he picked up the phone.
+
+Sabine answered before it finished ringing.
+
+I heard his name, then a sound that made the colonel close his eyes.
+
+"I'm alive," he said.
+
+He listened.
+
+"Yes."
+
+Listened again.
+
+"No, the captain has not—"
+
+He glanced at me.
+
+"He gave me breakfast."
+
+Whatever she said next made his mouth twitch despite himself.
+
+"Yes. That captain."
+
+He looked embarrassed now, which was a much healthier color on the nigga than dead-eyed loyalty.
+
+"Sabine. Please. I know he's handsome. I am trying to tell you I survived."
+
+I turned my head toward the window.
+
+Knox looked at the ceiling.
+
+Graves gave up and walked outside to laugh where the colonel couldn't watch him.
+
+The call lasted six minutes. Flint said very little. At the end he promised something three times, softer each time, and put the phone down with both hands.
+
+"She wants me home," he said.
+
+"Nigga, I gathered."
+
+"I told her one more season. One more contract. Then we would buy a house by the water."
+
+He looked through the window.
+
+"There has always been another season."
+
+I thought of Tank with the coconut. Of Rosa on that fighting floor, laughing through tears because the big nigga had finally stopped waiting for perfection to introduce him.
+
+"You love her?" I asked.
+
+Flint looked at me sharply.
+
+"Of course."
+
+"Then why Saint keep getting the years you promised her?"
+
+The room went quiet.
+
+I let it.
+
+Niggas like me talk because we enjoy the shape of a room answering. Sometimes a nigga has to stop long enough to hear the answer that doesn't want company.
+
+Flint touched the edge of his gold glove.
+
+"He made me a colonel."
+
+"And now you sitting here asking permission to call your own woman. Nigga, what part of the promotion still belongs to you?"
+
+He looked down for a long time.
+
+Then he pushed the glove away.
+
+He told us about the fleet.
+
+Not a map of tricks. Not some little secret button that would make eleven warships surrender because a nigga pressed it correctly. He told us about people. Captains who had not been paid. Sailors whose families had been moved into houses Saint owned. Men ordered to guard gold they had been promised and never allowed to touch.
+
+The festival was supposed to make Saint richer than all of them combined.
+
+The vault was supposed to make him untouchable.
+
+"What is in it?" Knox asked.
+
+Flint shook his head.
+
+"He never said. Money, certainly. Old stones. He mentioned a book once. Names. Promises powerful men made before they were powerful."
+
+"Blackmail," Graves said from the doorway.
+
+"He called it inheritance."
+
+"Nigga names everything except what it is," I said.
+
+Flint looked at me.
+
+"The final challenge will bring him ashore. He cannot bear to surrender the title without being seen defending it. But he has no intention of letting the winner leave the arena."
+
+"I noticed a pattern."
+
+"There is a road beneath the stadium. It runs to the old palace. His cars are there. His own guard. If he loses, he leaves through it and attacks the crowd to cover his escape."
+
+Knox's face hardened.
+
+"Then we clear that road."
+
+Flint shook his head again.
+
+"He will move if he sees officers there. He knows every uniform on the island."
+
+I looked out at the yacht.
+
+Mercedes and Porsche were arguing with a real-estate man about a building in Vegas. The man kept pointing at a photograph. Mercedes kept pointing at a different photograph, apparently explaining that the existence of a cheaper ugly building did not create an obligation to admire it.
+
+"Not every uniform," I said.
+
+That afternoon the Velvet Mile acquired its first employees before it acquired a building.
+
+Six women and three men who had worked Saint's private parties came to the yacht because Porsche had called them by name. All adults. All professionals who had heard enough rich men call them temporary while asking them to stay until morning.
+
+They knew the palace's lower rooms. They knew who came through them. They knew the soldiers who talked too much after the drinks arrived.
+
+I met them at the table with my shoulder still wrapped and my badge beside the lemonade.
+
+"You don't owe us a risk," I said.
+
+Mercedes sat beside me.
+
+"We're asking what you know. You choose what happens after that."
+
+A woman named Leda looked at Porsche.
+
+"You really took his pearl?"
+
+Porsche lifted her chin.
+
+"Nigga put it in my hand."
+
+Leda laughed so hard her earrings shook.
+
+Then the stories came out.
+
+The general who demanded every mirror be covered because he couldn't enjoy himself while another general looked back. The merchant prince who arrived with cocaine on his jacket and insisted it was powdered sugar despite carrying no pastry. The duke who hired three companions, spent the whole night asking whether his ex-wife had seemed happy at a party, and tipped them to lie differently.
+
+Niggas with fleets. Niggas with crowns. Niggas whose entire kingdom collapsed when a woman said she had an early train.
+
+Porsche knew every kind of them.
+
+Mercedes knew which ones had keys to Saint's lower garages.
+
+By evening we knew the people forced to service his cars, the drivers he trusted, and the guard who had been quietly letting kitchen workers leave whenever another attack began.
+
+No one went sneaking through a room for us that night. No one had to become a sacrifice in a dress.
+
+They brought their knowledge. They brought their names. They brought one driver who had decided he was finished carrying a rich man's cowardice from door to door.
+
+That was enough to begin.
+
+When the last guest left, Mercedes sat back and stared at the empty chairs.
+
+"The hotel," she said. "I want them to have somewhere they can come without inventing a reason."
+
+"Then build that," Shawna told her.
+
+Porsche looked at the photograph of the Vegas building they had chosen: curved windows, a rooftop terrace, a garage entrance opening onto a quiet side street.
+
+"Ours," she said softly.
+
+I pushed the purchase agreement toward them. My part was the building. Their part was everything they wanted to make inside it.
+
+Mercedes took the pen.
+
+"Nigga," she said, blinking fast. "You better come to the opening."
+
+"Baby, try keeping me out."
+
+Across the harbor, Saint's eleven ships shone white beneath the stars.
+
+At our table, three women planned a place that would still matter after his fucking flags came down.
+
+I sat there resting exactly as ordered and watched my people get richer in ways a nigga could feel.

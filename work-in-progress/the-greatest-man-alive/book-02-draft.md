@@ -1,6 +1,4 @@
-# Book 2: unfinished drafting checkpoint
-
-Written by ChatGPT for Nolan. These chapters remain subject to revision.
+# BOOK II: SKY HIGH, TEN TOES HIGHER
 
 ## 1. They Put My Parking Space in Heaven
 
@@ -2226,6 +2224,260 @@ Tank watched all three Leons help Porsche with her chair.
 
 Porsche looked delighted. “Finally, enough man for my luggage.”
 
+A waiter brought a silver bowl containing folded cards. Afterglow tapped her glass.
+
+“Our little tradition,” she said. “A guest draws a name, and that guest receives a favor from the champion.”
+
+Shawna's fork stopped.
+
+“What kind of favor?”
+
+“Usually a dance.”
+
+“Then that tradition just got shorter.”
+
+The waiter froze with the bowl halfway over our table. Nigga looked at my wife like she had just canceled the moon.
+
+Afterglow laughed. “A song, then. Or a toast. Something innocent.”
+
+Marcellus reached into the bowl.
+
+“You ain't even competing,” Tank said.
+
+“I am curious.”
+
+He unfolded a card.
+
+It said AIDEN.
+
+He drew another.
+
+AIDEN.
+
+He looked into the bowl. Then he tipped the whole thing onto the table.
+
+My name fell everywhere. Aiden in the breadbasket. Aiden beside the butter. One little Aiden landed directly in Victor's wine.
+
+Victor lifted his glass and watched the card sink.
+
+“Even the fucking refreshments.”
+
+“Who wrote these?” Shawna asked.
+
+The waiter swallowed.
+
+“Several departments participated.”
+
+“Nigga, the kitchen wanted a dance?” Tank asked.
+
+“The kitchen wanted him to taste the soup.”
+
+I picked up a card. A heart had been drawn around my name. Underneath it somebody had written PLEASE SAY IT NEEDS MORE SALT. HE WON'T LISTEN TO US.
+
+That nigga was using my greatness to fix a soup dispute. I respected ambition when I found it.
+
+“Bring the soup.”
+
+The waiter almost dropped the bowl trying to bow.
+
+“Captain, a great honor.”
+
+“Bring enough for my wife.”
+
+He bowed at Shawna too. Nearly put his forehead in the butter.
+
+At the next table sat a enormous man in a white dinner jacket and a woman with a crown of actual living blue flowers. The man had been studying me with that particular face men make when the room has discovered a bigger reason to turn around. His name, according to the little plaque by his plate, was OREN TITAN. SKY HIGH CLASS OF THE YEAR BEFORE LAST. RECORD HOLDER.
+
+Underneath, in smaller letters, it listed his records.
+
+Nigga had so many they had given the plaque a second foot.
+
+“I suppose,” he said, “we are all very impressed with driving.”
+
+I turned in my chair.
+
+“Depends who's driving.”
+
+“Some of us performed our feats without an engine.”
+
+Tank looked at the long plaque.
+
+“This nigga brought his accomplishments to dinner.”
+
+Oren's flower-crowned companion closed her eyes for a second. I recognized the look. A woman hearing her man choose the longest available route to embarrassment.
+
+“Oren,” she said. “Eat.”
+
+“I am speaking to the champion.”
+
+“And the champion was happy eating.”
+
+I liked her already.
+
+Oren stood. His chair seemed grateful. He lifted one hand, and the massive marble pedestal beside his table rose into the air. A vase of blue roses rested on top. The pedestal turned slowly over his palm while guests applauded.
+
+He could make things light. Or himself strong. I didn't know yet. Either way this nigga had interrupted my soup to argue with furniture.
+
+“Six hundred pounds,” he said.
+
+“Nice.”
+
+“With one hand.”
+
+“You want me to hold your plate?”
+
+Porsche put her napkin over her mouth.
+
+Oren smiled harder. The pedestal rose another foot.
+
+“I can balance it indefinitely.”
+
+His companion said, “Then do it outside. You're shedding plaster in my drink.”
+
+He glanced down.
+
+The pedestal tilted.
+
+A very small thing. A shift. But its top was wider than its base, and the vase was wet underneath, and everybody at that table had finally received a reason to stop clapping.
+
+The roses slid.
+
+Oren tried to save the vase with his free hand. His shoulder turned. The pedestal rolled toward the woman in the blue flowers.
+
+I was out of my chair before he knew he'd made two mistakes.
+
+I caught her chair by the back and pulled it away. The pedestal struck the table. Wood cracked. Plates flew. Her glass turned over directly above her face.
+
+I caught the glass too.
+
+Nigga, I didn't want her evening ruined twice.
+
+The table collapsed. The vase broke against the empty chair beside hers. Oren stood with one hand in the air and a rose stuck to his lapel.
+
+I put her glass on our table.
+
+“Shawna, we got company.”
+
+Shawna moved her own chair over.
+
+“Girl, sit.”
+
+The woman looked from the wreckage to her drink in my hand.
+
+“You didn't spill it.”
+
+“It seemed expensive.”
+
+“Nigga, it was,” she said, and started laughing so hard the little flowers in her crown shook.
+
+Her name was Opaline. Forty, a sculptor, and very much tired of watching her dinner become an exhibition. Oren began explaining that the pedestal's balance had been altered by a defect in the floor.
+
+Afterglow looked at the floor.
+
+Then at him.
+
+“My floor was here first.”
+
+Tank pushed an empty chair toward Oren with his foot.
+
+“Sit down, record holder.”
+
+“I am not—”
+
+“Nigga, you about to set one for standing beside a mess.”
+
+He sat.
+
+I expected him to stay furious. Instead he watched Opaline laughing with Shawna, looked down at the rose on his lapel, and started laughing too. Quiet at first. Then with his whole chest.
+
+“I had a speech,” he admitted.
+
+Opaline pointed at him without looking away from Shawna.
+
+“He practiced it in the car.”
+
+“What speech?” I asked.
+
+“About grace under pressure.”
+
+Tank slapped the table. Victor had to remove the card from his wine so he wouldn't inhale my name while he laughed.
+
+“Nigga,” I told Oren, “you can still give it. Make the ending honest.”
+
+He rubbed his face.
+
+Then he stood again. This time both hands stayed where furniture couldn't misunderstand them.
+
+“To the champion,” he said. “Who saved my wife's evening from her husband.”
+
+Opaline lifted her glass.
+
+“Best record you've set all year.”
+
+We drank. Oren drank. The orchestra caught our table's laughter and decided it meant the room wanted a faster song.
+
+Then the soup arrived.
+
+Six cooks came with it.
+
+Nigga, six. One carrying the bowl, five standing behind him with the deadly stillness of men whose whole afternoon had come down to a spoon.
+
+I tasted it.
+
+The cook in front gripped his hat.
+
+“Well?”
+
+I tasted again. Shawna watched me over her glass. She knew I was enjoying this. Aiden in the breadbasket, a record holder at my table, an entire kitchen waiting for judgment. A nigga didn't come to a school in the sky every day. Sometimes you had to let the sky show you what it had learned.
+
+“Needs salt,” I said.
+
+The shortest cook threw both hands up.
+
+“I fucking told you.”
+
+The head cook turned so slowly I thought somebody had stopped time just for his neck.
+
+“You put the cards in the bowl.”
+
+“I put the truth in the bowl.”
+
+Afterglow covered her face. Her golden echo covered its face half a second later.
+
+I held out my hand for the salt.
+
+The head cook gave it to me. I added a little, tasted again, and nodded.
+
+He tasted from his own spoon.
+
+Stopped.
+
+Tasted again.
+
+Then that nigga took off his hat and held it against his chest like I had just returned it from a war.
+
+“I will name it for you.”
+
+“Don't name it before you feed my friends.”
+
+“Every table,” he announced, turning to the kitchen doors. “Aiden's soup. Immediately.”
+
+Oren watched the cooks hurry away.
+
+“You defeated me and seasoned dinner in less than four minutes.”
+
+“Three,” Victor said, checking his watch.
+
+Shawna squeezed my knee under the table.
+
+“Try being married to this nigga.”
+
+“Lucky,” Opaline said.
+
+My wife looked at me. Her smile got smaller and warmer.
+
+“Yeah,” she said. “I know.”
+
 We ate beneath chandeliers full of captured starlight. I don't mean the waiter said starlight and brought candles. Actual little points of fire drifted behind glass. The food was excellent. The wine cost enough to suggest the grapes had attended private school.
 
 I enjoyed every fucking minute.
@@ -2700,6 +2952,242 @@ The nigga looked genuinely confused by the possibility of more than one answer.
 
 We kept moving.
 
+The corridor beyond his post narrowed around a little electric freight cart. Its driver had abandoned it sideways with a stack of clean blankets tied to the back. One blanket had fallen over the wheel. A mug sat in the little holder beside the seat.
+
+Tank looked at the mug.
+
+“Everybody downstairs got coffee except the niggas doing the work.”
+
+I moved the blanket. Beneath it, on the lower shelf, lay a bundle of ordinary clothes: a blue blouse, a man's belt, a pair of red shoes with one broken heel.
+
+Shawna touched the blouse. There was a little paper label tied through a buttonhole.
+
+LENA MARCH.
+
+She looked up at me.
+
+“We close.”
+
+A noise came from behind the service door beside the cart.
+
+Not footsteps.
+
+Scraping.
+
+Tank opened it.
+
+A man in green overalls stood on a stool inside a supply closet, his hands tied above him to a pipe. The stool wobbled every time he tried to turn around. A roll of packing tape lay at his feet. He had been trying to scrape a nail against the binding.
+
+“Don't move,” Tank said.
+
+The man looked at his gun and immediately began moving more.
+
+“Nigga, I mean don't fall. I came to help.”
+
+Tank held the stool while I freed him. He dropped onto his feet and grabbed the doorframe. Shawna gave him water from her little bottle.
+
+“Your name?” she asked.
+
+“Dennis.”
+
+He drank, coughed, drank again.
+
+“Dennis Vale. Laundry.”
+
+He was forty-one, with a wedding ring hanging loose on a finger he'd been rubbing raw against the pipe. His left shoe was untied. That detail made me angrier than I expected. These niggas had tied a man up so carelessly he hadn't even had time to finish being dressed.
+
+“You work here?” I asked.
+
+“Upstairs. I came down because the collection wasn't arriving. Found the clothes. Found names on things. Asked where the people were.”
+
+Tank looked back into the closet.
+
+“That was their answer?”
+
+Dennis nodded.
+
+He saw the badge again. His eyes widened.
+
+“You're the man from the race.”
+
+“Yeah.”
+
+“My wife said if you ever came to dinner she'd use the good dishes.”
+
+“Tell her I'm hungry.”
+
+Nigga started laughing and crying at the same time. He tried to stop both and managed neither. Shawna held his shoulder until his breathing settled.
+
+Pike spoke to one of his officers, who took Dennis toward the stairs. Before he left, Dennis caught my sleeve.
+
+“The bridge ahead is open from the control side. They rolled the walking section away. I heard them talking before they put me in there.”
+
+I looked down the passage. A heavy door stood at the end. Light showed beneath it.
+
+“How far?”
+
+“Across? Maybe twelve feet. The cart rail still runs along the wall.”
+
+Tank looked at the little freight cart.
+
+Then at me.
+
+“Nigga, no.”
+
+“I ain't said nothing.”
+
+“You looking at a vehicle. That's a sentence when you do it.”
+
+Victor bent over the little cart. It had two seats and a flatbed. Its rubber wheels sat on the floor; beside it a narrow steel guide ran toward the door and vanished underneath. The laundry carts used it when the walkway moved away for maintenance. Dennis showed us the hinged little guide wheels tucked beneath the chassis.
+
+“Empty loads only when the bridge is retracted,” he said. “Normally.”
+
+Tank shut his eyes.
+
+“He gave the nigga a normally.”
+
+“Tank, take the rear.”
+
+“Nigga, I can't take the rear. The rear a washcloth.”
+
+He climbed on anyway. Victor stayed behind to help Pike bring the others through once we had the walkway back. Shawna got into the seat beside me.
+
+“Where's my seat belt?” she asked.
+
+I looked down.
+
+There wasn't one.
+
+She took a blanket from the stack and looped it around the front rail, holding the ends in her lap.
+
+“Nigga, drive like you married.”
+
+I pressed the little pedal.
+
+The cart beeped.
+
+It did not move.
+
+Tank looked at me.
+
+“Somebody finally said no.”
+
+Dennis reached through the window and released the brake.
+
+Then we moved.
+
+Slowly.
+
+Nigga, offensively slowly. I had driven through fire. I had outrun bullets in a Mercedes. This little bitch traveled at the speed of a man deciding whether he had forgotten something in the refrigerator.
+
+Behind us Victor began walking.
+
+Kept pace.
+
+Passed us.
+
+He reached the door first and held it open.
+
+“Enjoy your journey.”
+
+“Your doctor know you using sarcasm?”
+
+“Brief use.”
+
+The door opened onto the gap.
+
+The whole middle of the passage was gone. Through it I saw the black underside of the island and a dizzy stretch of stars. A narrow guide rail ran along the outer wall to the other side, where two armed men stood beside the bridge controls.
+
+They saw our little cart.
+
+One laughed.
+
+The other brought up his gun.
+
+Tank stood on the flatbed with the blanket stack in front of his chest. Shawna fired at the hanging lamp above the guards. It burst. They ducked. I held the pedal down as if the little cart might discover a second personality if I believed in it hard enough.
+
+Our front wheels left the ordinary floor.
+
+The guide caught.
+
+We hung against the wall, rolling above the empty air.
+
+Tank stopped joking.
+
+So did I.
+
+For about two seconds.
+
+Then the laundry cart played a little musical chime.
+
+A cheerful four-note warning.
+
+“Nigga,” Tank said, “is it singing us to death?”
+
+“Low battery,” Shawna read from the dash.
+
+We were halfway across.
+
+Of course we were. A less ambitious nigga would've encountered this problem beside a charging socket.
+
+The cart slowed. The guide wheels clicked over a join. On the far side the guards recovered, one reaching for his weapon while the other tried to close the heavy door in front of us.
+
+I took my foot off the pedal.
+
+“What you doing?” Tank said.
+
+“Letting it think.”
+
+Then I pressed down again.
+
+The cart lurched forward on its last little act of loyalty. Shawna flung the blanket ahead of us. It caught the closing door's edge and bunched under it. The door stopped a hand's width short of its frame.
+
+Our front bumper hit the blanket.
+
+I stood and pushed.
+
+Tank pushed behind me.
+
+The door opened with all three of us still attached to the cart. We rolled through into the control room like the worst laundry delivery these niggas had ever received.
+
+One guard swung at me. I pulled his dinner plate-sized control clipboard out of his hand and hit him with the blank side. The other tried to grab Shawna. She drove her elbow into his face and shoved him into Tank.
+
+Tank set him down.
+
+On the desk.
+
+The desk stopped being one desk and became several smaller opportunities for carpentry.
+
+The freight cart gave a final beep.
+
+Died.
+
+I patted its steering wheel.
+
+“Good nigga.”
+
+Shawna looked at the wrecked desk, the two groaning guards, and the little cart's blinking red light.
+
+“You gonna name this one too?”
+
+“Laundry Day.”
+
+Tank started laughing before he could help it.
+
+“Nigga, we almost died on Laundry Day.”
+
+I found the bridge control. The walkway slid back across the gap with a long metallic groan. Victor and Pike came through first. Behind them Dennis stopped beside the cart and stared at the collapsed furniture.
+
+“It only goes eleven miles an hour,” he said.
+
+I handed him his mug.
+
+“That's all I needed.”
+
+He took it with both hands.
+
+“My wife is getting out the fucking dishes.”
+
 The next door opened into a long cell gallery. Some doors stood open. Others remained locked. Men and women watched us from behind thick glass. All adults. Some wore plain gray clothing. Some still wore pieces of whatever lives they had been taken out of: a mechanic's shirt, a dancer's leggings, a suit jacket with the lining torn.
 
 A tall man pressed his palm to the glass.
@@ -3108,7 +3596,7 @@ Storm sat forward.
 
 Voss had disagreed. First politely. Then financially. Then with Sable standing behind him. The chancellor discovered that a man on the other side of the door was willing to exchange prisoners, resources, and protection for technology he should never have seen.
 
-“A colonel named Ernst Keller,” Reiss said. “He commands the Saint-Orage depot. It's a fictional branch now, if you want to call it that. Changed from the moment our machine opened there. But the people inside it are real to themselves. Their pain is real. Their choices are real.”
+“A colonel named Ernst Keller,” Reiss said. “He commands the Saint-Orage depot. It's a separate branch now. Changed from the moment our machine opened there. But the people inside it are real to themselves. Their pain is real. Their choices are real.”
 
 He looked at me as if he expected an argument.
 
@@ -3207,6 +3695,230 @@ She handed me the private-lift key.
 “It's my fucking building.”
 
 I liked that answer.
+
+We went through the side entrance because Voss had barricaded the front with a sculpture of two lovers embracing. It was enormous, naked, and made of polished bronze. A very serious artist had given the man wings, the woman a sword, and both of them asses so large Tank stopped for a second to consider the arrangement.
+
+“Nigga, why her cheeks armed?”
+
+“Keep walking,” Shawna said.
+
+The side entrance opened onto a long shopping gallery. Closed jewelry stores. A fountain full of floating little golden fish. Beyond it, a staircase curled up to the lift lobby in two matching arms.
+
+A security shutter began descending behind us.
+
+Afterglow looked up.
+
+“That is not mine.”
+
+We ran. Pike's officers caught the shutter before it reached the floor, jamming it with the heavy ceremonial bench beside the door. Three of us made the stairs. A gunshot cracked from above, and the marble beside my shoe shattered.
+
+I pulled Shawna behind the fountain.
+
+Tank ducked beside a jewelry kiosk. The glass over him burst. He covered his head with one arm and came up furious.
+
+“These niggas shooting at diamonds.”
+
+“Focus.”
+
+“I am focused. That's a second crime.”
+
+Two men held the balcony. Another crouched beside the lifts. Voss had left a welcoming committee, and every member had apparently been instructed to make my morning worse.
+
+Afterglow knelt beside us. Gold light gathered on her hands.
+
+“The fountain,” she said. “It runs under both stairs.”
+
+I looked down. Beneath the water, a clear maintenance tunnel connected the two sides of the gallery. Lights moved in it. The golden fish weren't ordinary fish. They were little mechanical things suspended above the water by the same kind of decorative field that made the whole rich-ass building impossible to explain to a normal plumber.
+
+“You can open that?” I asked.
+
+She pulled off her gold bracelet and pressed it against the fountain's rim. A little service panel slid aside.
+
+“Staff passage.”
+
+Tank glanced inside.
+
+“Which staff? The staff ants?”
+
+It was narrow. Too narrow for him. Wide enough for me if I didn't get sentimental about the shoulders of my jacket.
+
+Shawna caught my sleeve.
+
+“Come out where I can see you.”
+
+I kissed her quickly.
+
+“Nigga, I been doing that all week.”
+
+Then I went into the fountain.
+
+The passage smelled like water and warm wiring. I crawled beneath the shallow pool while shots struck the far wall above me. Through the clear ceiling I could see the golden fish and, past them, a distorted view of one gunman leaning over the rail.
+
+A fish drifted directly above my face.
+
+Looked down at me with its little jeweled eyes.
+
+Nigga looked impressed.
+
+I accepted that too.
+
+Halfway through, a motor whined. The little fish began turning toward the center of the fountain. Lights flashed blue, then gold. Music started from somewhere under my elbow.
+
+The fountain was doing its sunrise show.
+
+With me inside it.
+
+A jet of water rose above the glass. Then another. The pool churned. Outside, Tank began laughing so loudly I could hear him through the tunnel.
+
+“That nigga got aquatic accompaniment!”
+
+“Tank!” Shawna shouted.
+
+“He said make it loud!”
+
+The music swelled. Some rich bastard's idea of dawn, all trumpets and tiny spinning fish, hid the sound of me pushing open the maintenance hatch on the other side.
+
+I came out behind the left staircase.
+
+A guard had his back to me. He was trying to understand why the fountain had become more dramatic than his ambush.
+
+I caught the back of his jacket and dragged him into the service recess. He swung. His fist hit the wall beside my face. I drove him against the marble, took the gun, and pushed him down behind the cleaning trolley.
+
+The balcony guard saw us.
+
+He turned his weapon.
+
+Victor sent one blue flash into the metal lamp above him. The lamp burst. The guard stumbled back, and Shawna's shot struck the railing where his hand had been. He dropped his gun.
+
+Tank charged up the other staircase.
+
+The last man tried to retreat toward the lifts. Tank reached the top before he did. Nigga had crossed an entire decorative staircase like the stairs owed Rosa money.
+
+He caught the gunman's wrist, spun him, and sat him in the velvet chair beside the lift buttons.
+
+The gunman tried to stand.
+
+Tank put one hand on his shoulder.
+
+“Seated experience.”
+
+The man remained seated.
+
+I came up the left side with my prisoner. Pike's officers followed and took all three. Afterglow reached the top, looked down at the fountain, and let out a breath that seemed to contain the whole building.
+
+“You came through the water.”
+
+“Under it.”
+
+“You were beneath the fish.”
+
+“They seemed cool.”
+
+She looked at me like she was deciding where to put a plaque.
+
+Shawna pulled a piece of gold ribbon off my shoulder. It must have been caught in the service passage. She tucked it into her pocket.
+
+“Souvenir?” I asked.
+
+“Evidence for when you tell this story wrong.”
+
+“Nigga, I ain't told a wrong story in my life.”
+
+She looked back at the bronze lovers visible through the gallery doors.
+
+“Your wedding speech said you invented commitment.”
+
+“Improved it.”
+
+“See?”
+
+Afterglow laughed. Then a voice called from inside the closed perfume shop beside us.
+
+“Eveline?”
+
+She stopped.
+
+“Claudine?”
+
+A woman stood behind the glass holding a little dog in one arm and a store stool in the other. She had barricaded the shop door from inside. A young man in a clerk's waistcoat stood behind her with an enormous bottle of perfume raised like a weapon.
+
+“Are they gone?” she asked.
+
+“From this floor,” Afterglow said. “Open the door.”
+
+The clerk moved the stool. Claudine came out in a pink dressing gown and slippers with feathers on them. She was sixty-three, a guest who had come down early because her dog needed walking. The gunmen had chased her into the shop. She had spent the whole time trying to persuade the little animal not to bark at people carrying rifles.
+
+The dog saw Tank.
+
+Barked once.
+
+Thought about it.
+
+Sat down.
+
+“Good nigga,” Tank said.
+
+Claudine stared at me.
+
+“You're Aiden.”
+
+“Yes, ma'am.”
+
+“I saw you on the moon.”
+
+“Busy night.”
+
+She handed her dog to Tank before he could object, caught both my hands, and kissed my cheek.
+
+“You get younger every time you do something impossible.”
+
+“I started early.”
+
+The perfume clerk looked at the weapon in his hand. Put it down. Picked up a smaller bottle from the display and offered it to me.
+
+“For your wife.”
+
+Shawna took it.
+
+Claudine opened the handbag hanging from her wrist and took out a huge ruby ring. She pressed it against my palm.
+
+I shook my head.
+
+“Keep your ring.”
+
+“My third husband gave it to me.”
+
+“You might want the memory.”
+
+“I kept the second husband's yacht. That is enough memory.”
+
+Tank looked up from the dog.
+
+“This lady understands separation.”
+
+She laughed and closed my fingers around the ruby.
+
+“Then give it to somebody you love.”
+
+I handed it straight to Shawna.
+
+My wife looked at it, then at Claudine.
+
+“Girl.”
+
+“Exactly,” Claudine said.
+
+Afterglow sent a patrol officer down with the woman, the clerk, and the little dog. Tank watched the dog go with surprising reluctance.
+
+“Don't,” I told him.
+
+“I ain't said nothing.”
+
+“You looking at a responsibility. That's a sentence when you do it.”
+
+Shawna laughed first. Then Tank. Even Victor smiled.
+
+The private-lift key was warm in my hand. Above us, twelve staff members were still waiting for the same chance to laugh. I turned toward the stairs, and my people turned with me.
 
 The main lift was disabled above the thirty-sixth. Voss's men held the top stairs. The service lift could reach a glass observation lounge beside the penthouse, but it was watched from inside.
 
@@ -3514,6 +4226,136 @@ Moss looked at them.
 
 Moss laughed and chose the polished brown pair for now. He set the boots beside his chair with the careful pleasure of a man arranging evidence that tomorrow might exist.
 
+His phone call came through while Tank was lacing the boots for him.
+
+A woman filled the screen. Gray curls, a blue bathrobe, eyes so wide she looked almost angry with him.
+
+“Harlan?”
+
+He set the phone against a water glass. Missed. Caught it before it fell.
+
+“Anne.”
+
+She covered her mouth.
+
+He covered his.
+
+For a few seconds the niggas couldn't say anything at all.
+
+Tank stopped touching the boots. I put my coffee down. Around us breakfast kept happening, but slowly, as if everybody near that table had understood there was a voice trying to find its way home.
+
+Anne dropped her hand first.
+
+“Where the fuck have you been?”
+
+Harlan started laughing.
+
+Then crying.
+
+Then trying to answer both questions with the same breath.
+
+“I've had a bad few months.”
+
+“I can see that. Your hair looks terrible.”
+
+He touched it. She began crying too.
+
+Nigga, there are people who need a whole orchestra to tell somebody they love them. That woman had done it with a complaint about his hair, and Harlan heard every note.
+
+He turned the phone to show her the room. Blankets. Breakfast. Shoes. My badge, which she studied with the ferocity of a woman deciding whether to trust the next thing a man in a uniform told her.
+
+“Did you find him?” she asked me.
+
+“My wife did.”
+
+“Then put her on.”
+
+I waved Shawna over. She took the phone, sat beside Harlan, and listened to Anne thank her so many times she finally had to say, “Girl, breathe. We got him.”
+
+Harlan looked at his boots.
+
+“She bought me shoes before our wedding,” he told Tank. “I'd spent everything on the ring.”
+
+Tank nodded gravely.
+
+“Respectable allocation.”
+
+“They were brown. Like these. I wanted black because I thought black looked distinguished.”
+
+“What happened?”
+
+Harlan looked at Anne on the screen.
+
+“What do you think happened?”
+
+Tank looked at Rosa across the room.
+
+“Brown shoes.”
+
+“Brown shoes,” Harlan agreed.
+
+He told us about their wedding while Anne corrected him from the phone. It had rained. The roof had leaked over the little rented chapel's piano. His brother had put a cooking pot under the leak and called it percussion. Anne's mother had objected to the music. Anne had walked down the aisle anyway, carrying her own umbrella, and closed it over her mother's face just long enough to finish saying yes.
+
+“That isn't how it happened,” Anne said.
+
+Harlan smiled at the screen.
+
+“You told your sister you wished it had.”
+
+“My sister talks too much.”
+
+“She sent me the letter.”
+
+Anne stopped.
+
+Then she laughed so hard the picture shook.
+
+That was their whole marriage coming through a little glowing rectangle: the rain, the ridiculous shoes, a letter somebody had kept, an argument that had survived thirty years because neither of them wanted to win it enough to stop having it together.
+
+I looked at Shawna. She looked back.
+
+Thirty years sounded like something a nigga ought to earn one morning at a time.
+
+Anne's face steadied on the screen.
+
+“I'm coming,” she said.
+
+Harlan looked around the floating school. “It's a little complicated to get here.”
+
+“Nigga, I spent five months trying to get you back. Don't tell me about parking.”
+
+Tank bowed his head so she wouldn't see him laughing.
+
+Pike arranged a ground escort to the academy's landing station. Storm offered a shuttle. By the time Anne ended the call, Harlan had said her name so often it had become the easiest word in the room.
+
+He put the phone down gently.
+
+Then he looked at me.
+
+“I don't know what to give you.”
+
+“Take her dancing.”
+
+He looked at the brown shoes.
+
+I pointed.
+
+“Nigga, you already equipped.”
+
+He laughed again. This time it came easily.
+
+Tank finished the last knot, stood, and inspected his work.
+
+“Wedding shoes,” he said.
+
+“Thirty years late,” Harlan answered.
+
+“Thirty years still going.”
+
+Harlan pressed his lips together and nodded.
+
+Then he picked up his fork and ate like a man with somewhere to be.
+
 Shawna sat with Lena. Rosa poured coffee. The three women spoke low enough that I heard only pieces: songs, five months, a sister in Denver, a room with a window. None of it needed me in the middle.
 
 I ate my eggs.
@@ -3566,7 +4408,7 @@ Reiss spread the depot papers across a workbench. Keller's site held eighty-thre
 
 “Then we count when we get there,” Shawna answered.
 
-He showed us the station layout. Not a plan for conquering history. One depot, one connecting yard, one machine chamber Keller had built around the other end of Voss's door. A holding building stood beyond the tracks. A repair shed faced the station. A road led into the fictional town of Saint-Orage, whose name Reiss said had not appeared in the records of the world he had grown up in.
+He showed us the station layout. Not a plan for conquering history. One depot, one connecting yard, one machine chamber Keller had built around the other end of Voss's door. A holding building stood beyond the tracks. A repair shed faced the station. A road led into the town of Saint-Orage, whose name Reiss said had not appeared in the records of the world he had grown up in.
 
 I studied the repair shed.
 
@@ -3837,3 +4679,2401 @@ She laughed once and wiped her eye with the heel of her hand.
 Then I put the car in gear.
 
 The snow beyond the door began turning blue beneath my police lights.
+
+## 9. The Wrong Men Saw the Blue Lights
+
+Snow hit my windshield.
+
+Real snow. Heavy, wet, dirty at the edges of the rail yard. The Lamborghini's tires crunched onto ground that had never heard an engine like mine, and every man carrying a gun turned toward the sound.
+
+I gave them the siren too.
+
+Nigga, if we were introducing ourselves to a century, we were going to enunciate.
+
+Shawna sat very still beside me. Behind us Tank's Mercedes crossed the shining circle, followed by the rescue van. For a second I could see Sky High's clean floor in my mirror, Storm standing at the controls, blue light reflected in her white shirt.
+
+Then Reiss narrowed the opening to a dim seam. He would keep the return boundary alive without leaving a bright invitation for Keller's soldiers. We would signal when we needed it widened. The machinery remained connected; the way home had become small, not gone.
+
+Ahead of us stood the station.
+
+A man in a gray coat shouted something.
+
+Porsche's voice came through the van radio.
+
+“He wants us to stop.”
+
+“Nigga, I gathered the mood.”
+
+The soldier raised his gun.
+
+I drove past him before he could decide where the noise ended and the car began. His shot cracked behind us. Tank swerved the Mercedes between the soldier and the van. Victor sent one bright bolt through the man's weapon, knocking it from his hands.
+
+The soldier fell into the snow holding his wrist.
+
+Nobody stopped to explain electricity to him.
+
+We crossed the yard toward the repair shed. Its doors stood open. A woman in a dark work coat watched us from inside, a heavy wrench in one hand. For one second her face was all astonishment.
+
+Then she saw the guards running behind us.
+
+She swung the shed door wider.
+
+That was all the permission I needed.
+
+The Lamborghini shot inside. The Mercedes followed. Petra drove the van through last, and the woman with the wrench pulled the door shut behind it.
+
+Tank got out laughing once, hard.
+
+“Nigga, pavement. I missed your ugly ass.”
+
+The woman looked at him. Looked at the cars. Looked at Shawna stepping out beside me with her gun held low.
+
+She spoke French.
+
+Porsche answered.
+
+I heard my name, heard something that sounded like police, heard the woman make a disbelieving noise at the sight of my badge.
+
+Porsche turned to me.
+
+“She's asking if we're the people from the blue door.”
+
+“Tell her yes.”
+
+The woman's eyes filled before her face allowed anything else to change.
+
+“Miriam Levin,” she said in careful English. “I work here.”
+
+She tapped the wrench against her palm.
+
+“Not by choice.”
+
+“Aiden.”
+
+She looked at the Lamborghini.
+
+“I have many questions.”
+
+“We going to earn you time for them.”
+
+Outside, boots approached. Miriam pulled a canvas cover over the nearest window. She knew the shed's blind corners, the little door behind a stack of wheels, the place where a loose floor panel could hide six people or one awkwardly positioned Tank.
+
+She didn't hide us there.
+
+She went to the main door and shouted in German.
+
+A guard shouted back.
+
+Her voice became angry in a way that sounded practiced and dangerous. She pointed toward the roof. The guard looked up.
+
+Victor moved behind him.
+
+The man came inside unconscious before his eyes finished coming down.
+
+Miriam shut the door again.
+
+Porsche stared at her.
+
+“What did you say?”
+
+“That his bullets would damage the fuel pipes, and Keller would have him shot for ruining the work.”
+
+Tank looked at the roof.
+
+“Fuel pipes up there?”
+
+“No.”
+
+He smiled at her with open admiration.
+
+“Ma'am, I like how you think.”
+
+More guards were coming. We could hear them gathering outside, trying to understand the three impossible cars now concealed in a building full of tools they did understand.
+
+Miriam led us through the small rear door into a passage beside the holding building. A man waited there with a bundle of cloth under one arm. He was lean, bearded, and tired enough that his eyes looked older than the rest of his face.
+
+“David,” Miriam said.
+
+David Adler. Thirty-four. A physician. Jewish, like Miriam. He had been forced to work in Keller's infirmary and had spent every day since trying to keep people alive with too little medicine and too many orders.
+
+Vega stepped forward.
+
+“Dr. Marisol Vega.”
+
+He looked at her medical bag.
+
+For the first time since we crossed the door, I saw a man look at something other than my car as if it might be a miracle.
+
+“You have supplies?”
+
+“Show me who needs them.”
+
+He did not waste a second on amazement. He took her toward the infirmary. Rosa and Mercedes followed, carrying bags from the van.
+
+Miriam stayed with us.
+
+“There are fewer guards at the rear building now,” she said. “Most are watching your door. They think your machines are an attack.”
+
+I looked toward the sound of men shouting in the yard.
+
+“Finally, some accurate thinking.”
+
+She gave me a sharp little smile.
+
+Then she took us to the woman who had seen me leave.
+
+Her name was Léonie Arnaud. Twenty-nine. She had carried messages for a resistance group before her arrest. She stood behind the holding building's service window with a cut on her lower lip and a folded strip of fabric tied around one hand.
+
+When she saw me, she didn't cry.
+
+She gripped the window bars.
+
+“You came back.”
+
+“Told myself I would.”
+
+“I told them you would too.”
+
+Behind her, faces appeared in the dim room. Men and women. Young adults and older adults. People standing because sitting would have hidden the window. People too tired to stand who looked up from benches when the others made room.
+
+I felt Shawna's hand at my back.
+
+Léonie looked at her.
+
+Something passed between them before either spoke.
+
+“We're getting this open,” Shawna said.
+
+Miriam showed Petra the door.
+
+Petra turned her hands to stone.
+
+Léonie stepped back and told the others to move away from the frame.
+
+The door came inward with one heavy crack.
+
+Nobody cheered.
+
+They listened for the guards.
+
+That hurt more than cheering would have helped.
+
+Shawna went inside first.
+
+“We have a way out. We need you together. We need you listening to the people who know this place. If someone can't walk, tell us now.”
+
+Léonie translated where she needed to. Porsche helped. Miriam moved through the room calling names, asking about injuries, touching shoulders with the quick certainty of a woman who knew exactly who had been missing from breakfast.
+
+I watched her count.
+
+Not numbers first.
+
+People.
+
+Then the rear yard filled with shouting.
+
+The guards had found the empty side of the repair shed.
+
+Tank stepped into the passage beside me.
+
+“How many?”
+
+“Enough to be rude.”
+
+He looked at my badge.
+
+“You arresting these niggas?”
+
+I looked at the uniforms coming around the corner. At the weapons raised toward a door full of people they had locked away.
+
+“Depends how cooperative the evening gets.”
+
+The first shots tore into the brick above us.
+
+The evening was not cooperative.
+
+We answered from the corner while Victor moved across the roof. He used his charge in short bursts, dropping weapons, darkening lamps, giving people space to move. He was not an endless lightning storm. After the third burst, he braced one hand on the chimney and breathed hard.
+
+Tank pulled a metal cart into the passage as cover. I fired around it. Shawna moved the prisoners toward the repair shed while Petra stood between them and the open yard, bullets striking marble shoulders.
+
+A man on the far side of the yard stared at Petra and lowered his gun in pure disbelief.
+
+Miriam threw her wrench.
+
+It hit him square in the face.
+
+“Stop staring,” she said.
+
+Tank looked at her.
+
+“Ma'am.”
+
+“He was blocking the path.”
+
+“Yes, ma'am.”
+
+The prisoners moved. Some supported each other. One older woman, Rivka, sixty, refused to leave until a man named Jakob had his violin case. Not because the case mattered more than life. Because he had been using its strap to help an injured friend walk, and she had noticed when everyone else missed it.
+
+Jakob reached us with the case across his back and his friend's arm over his shoulders.
+
+I caught the other side.
+
+“I got him.”
+
+Jakob looked at me, then at the police lights still flashing through the shed's covered window.
+
+“What country are you from?”
+
+“Long story.”
+
+“Are you winning?”
+
+I tightened my hold on his friend.
+
+“Nigga, look who walking out.”
+
+He didn't know all my words.
+
+He understood that one.
+
+Inside the repair shed, Vega and David worked together over two stretchers. Rosa kept a little clear space around them by the force of her voice alone. Mercedes brought water. Porsche translated a frightened man's questions until his breathing slowed enough for him to answer one of hers.
+
+“Thirty-eight here,” Miriam told me. “Twenty-one in the infirmary and east rooms. The rest at the machine building.”
+
+“Eighty-three still?”
+
+She shook her head.
+
+“Eighty-six. Three arrived yesterday.”
+
+I nodded.
+
+Three more names for the world to keep.
+
+A loudspeaker crackled over the yard.
+
+Keller's voice arrived smooth and amplified.
+
+Porsche listened. Her face hardened.
+
+“He says return the prisoners and he'll permit us to leave.”
+
+I looked around the shed. At the people beginning to believe the door in front of them might open outward. At my wife carrying a cup to a man whose hands shook too badly to hold it alone.
+
+“Tell him I ain't taking requests.”
+
+“He can't hear me from here.”
+
+I glanced at the Lamborghini.
+
+Its police loudspeaker waited behind the siren switch.
+
+Tank saw where I was looking and grinned.
+
+“This nigga brought amplification.”
+
+I got into the car and lifted the microphone.
+
+“Colonel Keller.”
+
+My voice rolled across the yard.
+
+The guards stopped shouting.
+
+“I'm Captain Aiden. You got eighty-six people that belong to themselves. I'm collecting every fucking one.”
+
+Porsche translated beside me into French, then Miriam shouted the essential demand in German from the doorway.
+
+Keller answered immediately.
+
+His voice was angry now.
+
+Good. Some men sounded worse when they were pretending to be reasonable.
+
+Miriam listened, then looked at me.
+
+“He says you have no authority here.”
+
+I looked at the medal ribbon peeking from Shawna's jacket. At Tank loading people into the van's warm interior. At the broken prison door lying where Petra had put it.
+
+“Nigga,” I said into the microphone, “the door disagrees.”
+
+I lowered it and got out.
+
+Léonie stood beside the rear exit, watching the road beyond the yard.
+
+“He will bring men from the barracks,” she said. “We cannot hold this shed all night.”
+
+“Then we don't.”
+
+“The return door is between us and them.”
+
+Miriam joined us. She pointed toward the old service track running behind the shed.
+
+“There is another engine in the machine building. A locomotive. Keller uses it to move the experimental carriages. If we can bring the people there, we can bring the train to your door.”
+
+I looked at the tracks disappearing into the dark.
+
+A train. Of course a nigga's first trip through time needed a train.
+
+Shawna came beside me.
+
+“What you thinking?”
+
+I looked back at the Lamborghini, sitting in the shed like the future had parked wrong on purpose.
+
+“Thinking we gonna make transportation very fucking confusing.”
+
+## 10. My Wife Was Already Inside
+
+Miriam drew the depot in soot on the repair shed's concrete floor.
+
+No ruler. No hesitation. She marked the holding rooms, the infirmary, the machine building, the barracks, and the command house on the little rise beyond the tracks. Then she drew a narrow line beneath the largest building.
+
+“Drainage passage,” she said. “It floods in spring. It is clear now.”
+
+Tank crouched beside her.
+
+“How clear?”
+
+She looked at his shoulders.
+
+“You will hate it.”
+
+“Nigga, I can hate things while fitting through them.”
+
+“Not this one.”
+
+Rosa laughed softly from beside the stretchers. Tank looked at her.
+
+“You supposed to support my dimensions.”
+
+“Baby, I do. That's why I know you ain't fitting.”
+
+For a second, the people nearest us smiled. Then the sound of boots outside brought their faces back to the room they were in.
+
+We didn't have much time. Keller's men held the route to the return door. The prisoners in the machine building would be moved before dawn if the colonel decided the yard could not be secured. Some modern captives wore the same power-draining restraints Finn had used on Victor. Others had no gifts at all and were there because Keller had a use for their hands or Voss wanted people who could not fight back with lightning.
+
+Shawna knelt beside Miriam's drawing.
+
+“This passage comes up where?”
+
+“Under the boiler room.”
+
+“Can you take us?”
+
+Miriam nodded.
+
+“Then take us.”
+
+I looked at my wife.
+
+She looked back before I said anything.
+
+“You making the loud part, aren't you?”
+
+I looked at Tank.
+
+The nigga was already smiling.
+
+“We have some experience.”
+
+Our loud part would be a meeting.
+
+Keller had offered to talk. He clearly believed a man could arrive in an impossible car, rescue thirty-eight prisoners, and still be persuaded by an expensive desk. I had met niggas like that in every year I'd personally occupied.
+
+He wanted the vehicles, the return mechanism, and the people we had taken out of his rooms. He especially wanted Victor and Petra, whose gifts had made his soldiers frightened enough to forget their training. Reiss had warned us Keller thought power was something he could own by putting the right body behind the right lock.
+
+I intended to waste his time beautifully.
+
+Shawna, Miriam, Petra, Mercedes, and Porsche would go through the drainage passage. Victor would stay with the shed group to protect them and conserve his strength. Vega and David would prepare the injured to move. Rosa and Léonie would guide the first group toward the machine building once the way opened.
+
+Tank and I would take the Lamborghini to the command house.
+
+“He will search you,” Miriam warned.
+
+“He can look.”
+
+“He will take your weapons.”
+
+Tank flexed both hands.
+
+“Nigga gonna need a bigger pocket.”
+
+Miriam studied him, then me, and shook her head in something halfway between disbelief and reluctant affection.
+
+“You are either the luckiest men I have ever met, or the most dangerous.”
+
+“Both can fit in one car,” I said.
+
+Before we separated, Shawna pulled me into the narrow space beside the van. She adjusted my collar. There was soot on her cheek. A small tear at the cuff of her sweater. Her eyes were steady.
+
+“Don't get so busy impressing that bastard you forget what we're doing.”
+
+“Baby, I can multitask.”
+
+“Aiden.”
+
+I put my forehead against hers.
+
+“I know.”
+
+We stayed like that for a breath. Then she kissed me once, hard, and went back to Miriam.
+
+I watched her walk away with the women.
+
+That was the part nobody applauded. The part where my greatest strength became a person going somewhere I couldn't stand between her and every gun. I had to trust her skill, her nerve, her right to be more than somebody I protected.
+
+Nigga, trusting that woman had already made my life bigger than Vegas.
+
+I kept doing it.
+
+Outside the shed, a white cloth hung from the Lamborghini's antenna. Keller's men watched us emerge. I drove slowly, police lights turning the snow blue, engine making a low promise beneath the hood.
+
+Tank sat beside me looking out at the guards.
+
+“These niggas dressed like they own the night.”
+
+“Then somebody better tell these niggas morning coming.”
+
+At the command house, two soldiers motioned us to stop. The building had once been somebody's country home. Its windows were tall, its stonework elegant, its front steps worn by years of people whose ordinary lives had been shoved aside for Keller's office.
+
+I thought about the people who had owned those steps.
+
+Then I got out.
+
+The guards stared at the car.
+
+One of them actually walked around it before remembering he was supposed to be searching me. He touched the dark blue paint with one finger and looked at the gold number still on the door.
+
+“First place,” I told him.
+
+He didn't understand.
+
+Tank did.
+
+“Nigga, this car been winning in two centuries.”
+
+The search was rough and thorough. They took our guns. They took Tank's knife. They tried to take my badge.
+
+I caught the soldier's wrist.
+
+Every weapon on the steps lifted.
+
+Tank went very still beside me.
+
+I looked into the guard's eyes.
+
+“That stays.”
+
+For one long second nobody moved.
+
+Then an officer appeared in the doorway and snapped an order. The guard pulled his hand away. The badge stayed inside my jacket.
+
+Keller wanted to meet the man with the strange rank intact.
+
+Fine.
+
+I would give him the full experience.
+
+Inside, the house smelled of tobacco, polished wood, and food people in the shed had not been allowed to eat. A fire burned in the drawing room. Maps covered one wall. On a side table stood a bottle of brandy and a silver dish piled with pears.
+
+Tank looked at the pears.
+
+I looked at him.
+
+We both remembered David counting cups of water.
+
+Keller waited behind a desk.
+
+He was in his forties, broad-faced, with close-cut hair and a neat uniform. He rose when we entered, not from courtesy but because he liked controlling the height of a conversation.
+
+He spoke English.
+
+“Captain Aiden.”
+
+“Colonel.”
+
+“Your arrival has caused considerable disruption.”
+
+“Nigga, that's the small package.”
+
+Tank coughed once into his fist.
+
+Keller's eyes flicked toward him, then back to me.
+
+“You come from Voss's world.”
+
+“I come from mine.”
+
+“And you believe that makes you untouchable.”
+
+“No. I believe the people you locked up want to leave. We should focus on their travel arrangements.”
+
+He sat.
+
+I remained standing.
+
+That bothered him immediately.
+
+Good. I was supposed to keep him occupied.
+
+He spoke about order. About valuable work. About enemies. He tried dressing every ugly thing he had done in a clean word and putting it on the desk between us as if I might buy it.
+
+I let him speak.
+
+Not because he deserved an audience.
+
+Because beneath the depot my wife was moving through a dark passage toward twenty-seven people who deserved a door.
+
+When Keller paused, I picked up a pear.
+
+He stared.
+
+I took a bite.
+
+Tank picked up two.
+
+“You may find,” Keller said coldly, “that your manner is less amusing here.”
+
+“Nigga, I ain't performing for you.”
+
+I set the pear down.
+
+“You got ninety seconds to explain why a man with all these soldiers is scared of people carrying laundry.”
+
+His face flushed.
+
+He rang the bell on his desk.
+
+I heard boots in the corridor.
+
+Good.
+
+More men coming here meant fewer men standing over Shawna.
+
+Later she told me what happened while I was making the colonel hate fruit.
+
+The passage was low and cold. Water soaked their boots. Miriam led with a small lamp, one hand on the wall. Petra had to turn sideways in two places, and Porsche quietly apologized to every expensive shoe she had ever complained about wearing.
+
+They reached the boiler room beneath the machine building. Voices drifted through a grate overhead. Someone coughed. A chain dragged across concrete.
+
+Miriam listened.
+
+“They haven't moved them yet.”
+
+Shawna touched her arm.
+
+“How many doors?”
+
+“Two. One locked from the hall.”
+
+Petra smiled in the dark.
+
+“That's a very short problem.”
+
+She lifted the grate quietly enough that the hinges complained less than Porsche's boots. The women climbed into a storage room smelling of hot metal and damp cloth. Mercedes found a coat hanging beside the door and put it on. In the dim corridor, with a bundle of laundry in her arms and her head lowered, she looked like another person the guards had trained themselves not to see.
+
+Shawna hated that part when she told me.
+
+It worked because the guards had stopped seeing people.
+
+Mercedes crossed the hall. Stumbled. Dropped the laundry in front of a guard carrying keys. He swore and bent down to shove it aside.
+
+Petra took him into the storage room.
+
+The laundry stayed in the hall.
+
+The keys did not.
+
+They opened the first room.
+
+Inside sat eleven adults wearing black restraints. A woman with pale blue hair looked up and began crying so suddenly Shawna knelt beside her before she understood why.
+
+“I saw you on the train video,” the woman said. “The captain's wife.”
+
+Shawna touched her shoulder.
+
+“That's me.”
+
+“They told us nobody knew.”
+
+“We know now.”
+
+Miriam helped Porsche open the restraints with the keys. The pale-haired woman introduced herself as Amaya Tide, thirty, a swimming instructor from the present who could shape water in short, forceful waves. She had no strength left for it at first. Mercedes gave her water to drink instead of asking her to become useful.
+
+That detail mattered when Shawna told me.
+
+I loved my people for knowing the difference.
+
+The second room held sixteen more adults. Some from the present. Some from that year. A man named Tomas Varga, thirty-three, Romani, had been forced to repair the train brakes. He knew the locomotive better than Keller's own driver because he had been the one keeping it from breaking beneath the colonel's demands.
+
+He also knew the guard coming down the hall.
+
+Tomas stepped out before Shawna could stop him and began arguing about the locomotive. The guard answered angrily. They moved toward the far door together, away from the room where people were standing for the first time without restraints around their arms.
+
+Miriam whispered to Shawna, “He is buying time.”
+
+Shawna went after him.
+
+She wasn't about to spend a man as a distraction and leave him there.
+
+At the end of the corridor, the guard raised his weapon toward Tomas.
+
+My wife struck the guard from behind with a metal lamp.
+
+He fell into a pile of his own interrupted orders.
+
+Tomas stared at her.
+
+She handed him the lamp.
+
+“Keep it. Apparently they're useful.”
+
+In Keller's office, four soldiers entered behind us.
+
+Tank finished his second pear.
+
+The colonel rose.
+
+“You will remain here until I decide how to proceed.”
+
+I looked at the clock above his fireplace.
+
+Enough time had passed for Shawna to reach the rooms.
+
+I hoped.
+
+“Nigga,” I said, “you should decide faster.”
+
+Keller came around the desk. He stopped close enough for me to see the little vein beating beside his temple.
+
+“You do not frighten me.”
+
+“Then why you keep calling more niggas into the room?”
+
+Tank smiled around the pear.
+
+Keller hit the fruit out of his hand.
+
+For a second everything became very still.
+
+Tank looked at the pear on the floor.
+
+Then at Keller.
+
+“Nigga,” he said softly, “that was the last good decision you had available.”
+
+Outside, a locomotive whistle rose through the night.
+
+My wife had reached the train.
+
+I smiled at the colonel.
+
+“There she go.”
+
+## 11. The Colonel Had Never Been That Embarrassed
+
+The whistle was still sounding when Tank hit the first soldier.
+
+Nigga, the pear hadn't even stopped rolling.
+
+He moved with the terrible speed of a man who had been asked to wait politely while somebody mistook cruelty for authority. One hand caught the soldier's gun. The other caught his coat. Tank put both items, with the man still unfortunately attached, through the drawing room's small decorative table.
+
+The table had probably survived generations.
+
+It had not been introduced to Tank before.
+
+I drove Keller back against his desk. The second soldier swung toward me. I caught the desk lamp and threw it at his face. Brass struck bone. His shot went through the chandelier. Glass came down around us in a glittering rain that made the room briefly resemble a cheaper version of my banquet.
+
+“Nigga,” Tank said, ducking under the falling pieces, “we can't go nowhere formal.”
+
+The third soldier hit me in the ribs. I felt the old wound flare, hot and intimate, the way history liked reminding me it didn't have to be eighty years old to hurt. I folded just enough to make him think the blow had finished something. Then I came up under his chin and drove him into the map-covered wall.
+
+Keller crawled toward the side door.
+
+I saw him go.
+
+So did Tank.
+
+“Your meeting leaving,” my brother said.
+
+“Let it warm the car.”
+
+The fourth soldier had better judgment than the first three. He backed toward the corridor with his weapon level, keeping enough distance that neither of us could reach him without paying for it. I stood still. Tank stood still. The man's hands shook but his aim didn't wander.
+
+Behind him, a servant stepped out of the kitchen carrying a large iron pot.
+
+She was perhaps fifty, gray-haired, broad through the shoulders, with flour on one sleeve and a face that had run out of patience long before we arrived.
+
+She hit the soldier with the pot.
+
+The sound was magnificent.
+
+He dropped.
+
+She looked at us and spoke French.
+
+I didn't understand the sentence.
+
+I understood the tone of a woman who had waited too long to use her cookware honestly.
+
+“Thank you, ma'am,” I said.
+
+Tank nodded with deep respect.
+
+“That pot earned a medal.”
+
+She pointed toward the front door, where an engine started.
+
+We moved.
+
+Outside, Keller climbed into a long black staff car. Guards crowded around it. The Lamborghini stood at the foot of the steps, beautiful and wrong among all their dull military shapes. One of the soldiers had opened its door and was staring at the dashboard as if the future had left him a difficult exam.
+
+I ran down the steps.
+
+He raised his head.
+
+“Get out my fucking car.”
+
+The tone translated itself.
+
+He scrambled away. Tank caught our confiscated weapons from a guard who was too busy watching Keller flee to notice his own evening ending. We got into the Lamborghini as shots struck the stone behind us.
+
+I started the engine.
+
+The whole yard heard it wake.
+
+Keller's car accelerated down the drive.
+
+I followed him.
+
+The road curved between bare trees, dipped through a hollow, and came out above the depot. Snow packed the edges. The sky was deep black now, with one cold strip of moonlight laid across the hills. My headlights caught the staff car ahead, its tires slipping as the driver tried to make an old machine answer a new kind of fear.
+
+I could have caught him on the first straight.
+
+Then I saw the truck coming up the side road full of soldiers heading toward the machine building.
+
+My wife was at the machine building.
+
+Keller could enjoy another minute of existence.
+
+I turned across the truck's path.
+
+The driver saw a dark blue car sliding sideways into his headlights and did what any sensible man would do when faced with a nigga operating above his century's expectations.
+
+He panicked.
+
+The truck swerved into a snowbank. Men fell over each other in the back. The Lamborghini straightened along the ditch, close enough to the bare trees that branches slapped my window.
+
+Tank laughed.
+
+“This nigga using the weather.”
+
+“Available resource.”
+
+A second truck appeared behind the first. Its passengers raised weapons. I swung the car down the narrow lane toward the depot's west gate. Bullets cracked against stone markers behind us. Tank fired back through the open window, forcing the men down while I kept the car between the road's ruts.
+
+At the gate stood a guard booth and a heavy barrier.
+
+The barrier began lowering.
+
+I did not slow.
+
+Tank looked at it.
+
+Looked at me.
+
+“Nigga, that thing old but solid.”
+
+“So was the table.”
+
+I took the narrow gap beside the booth. One side of the Lamborghini climbed the bank. The car tilted. Its mirror struck the booth window, showering the guard inside with glass. We passed the barrier on two wheels and landed in the yard with the engine screaming and the police lights still politely announcing our profession.
+
+On the machine building's steps, Tomas Varga stopped carrying a toolbox and stared.
+
+Miriam stood beside him.
+
+She covered her mouth.
+
+Then she laughed.
+
+Not at the danger. At the sight of Keller's certainty getting chased through its own gate by a car it couldn't begin to understand.
+
+I pulled up in front of them.
+
+“My wife?”
+
+Miriam pointed inside.
+
+“Already working.”
+
+Of course she was.
+
+Inside the machine building, the world sounded different. No guards shouting over prisoners. People calling instructions to one another. Metal moving because somebody wanted it moved, not because a gun had suggested they should. A low engine beat beneath the floor. Lamps burned over open doors.
+
+Shawna stood beside a long black locomotive with one hand on a rail and the other holding a list Miriam had torn from Keller's office wall. Her hair had escaped its tie. There was oil on her sweater. She looked up when I entered and smiled so fiercely I forgot the pain in my ribs.
+
+“You late.”
+
+“Baby, the colonel needed help leaving his own house.”
+
+She came to me. Touched my cheek where Keller's guard had caught me. Her thumb came away with a small smear of blood.
+
+“You okay?”
+
+“Nigga, look at you. You stole a whole railroad.”
+
+“Miriam stole the railroad. I handled customer complaints.”
+
+Miriam came in behind me and shook her head.
+
+“We are borrowing it.”
+
+Tank looked at the locomotive.
+
+“Ma'am, I support whatever makes the wheels move.”
+
+The rescue had become larger than us in the hour we had spent at Keller's house. Léonie and Rosa had brought the first thirty-eight people from the shed through the service passage. David and Vega moved the twenty-one from the infirmary and eastern rooms on stretchers, carts, and chairs carried between volunteers. The twenty-seven freed from the machine rooms were already helping prepare the train.
+
+Eighty-six.
+
+Nobody missing from the count.
+
+That did not make them safe yet.
+
+But it made them together, and together was the first shape escape had taken that night.
+
+Tomas had worked out which engine could pull the carriages. Miriam knew the yard's old signal box and which tracks led to the transfer chamber. David knew who could endure a rough ride and who needed to be moved gently. Léonie knew where Keller's patrols gathered when the depot alarm sounded.
+
+My greatness did not make those facts appear in my head.
+
+It meant I listened when the people who knew them spoke.
+
+Then I made the loud parts behave.
+
+Victor returned through the rear entrance with Amaya beside him. She had recovered enough to pull water from a broken pipe and cast it across a pursuing guard's path. In the cold yard, the sudden sheet had sent three soldiers sliding into one another. Victor looked so impressed she almost smiled despite her exhaustion.
+
+“You should teach at Sky High,” he told her.
+
+“I used to teach swimming.”
+
+“Start there. Improve the place.”
+
+She looked toward the people gathering around the train.
+
+“I would like a pool with no locks.”
+
+“Then that's the pool,” I said.
+
+She turned toward me.
+
+I held her gaze until she understood I wasn't filling the air just because I could.
+
+“That's the pool.”
+
+A crack of gunfire came from the north doors.
+
+Petra stepped into the opening and turned to marble. Mercedes pulled a cart of blankets clear behind her. The soldiers outside saw the same woman their bullets had failed to move earlier and reconsidered their approach with visible irritation.
+
+Tank joined her with a grin.
+
+“Stone lady, you taking the left?”
+
+“I am the left.”
+
+“Outstanding.”
+
+We held the doors while the boarding began. Petra drove the rescue van onto the first of two flat wagons near the locomotive, and Rosa brought the Mercedes onto the next with Tank shouting encouragement loud enough to be heard from the doors. Miriam had found the loading ramp. Tomas knew which wagons could carry the weight. The last empty flat wagon waited behind the passenger carriages, and I intended to use it once everybody else was aboard.
+
+It was not a clean little sequence where everybody found a seat because the hero had arrived. A man froze at the sight of another train. His breath stopped coming properly. David went to him, spoke softly, and asked him to look at the people carrying the stretchers instead of the guards outside. Rivka sat beside a woman who would not let go of her small cloth bag. Nobody tried to take it from her. Jakob helped a younger man climb the step, then went back for another.
+
+Shawna moved along the carriages counting again.
+
+Names where she knew names.
+
+Hands where she didn't yet.
+
+I saw her put my medal around the neck of a frightened man so she could say, “Hold this until I come back,” and give him something concrete to wait for.
+
+Nigga, they could have given me every medal in the school. None would have looked better than that one did in his hands.
+
+Outside, Keller's voice returned over a loudspeaker.
+
+He had reached the yard in a second vehicle, surrounded by enough men to make his earlier courage seem even more affordable. He ordered the prisoners to surrender. He ordered the guards to retake the building. He ordered the night to become something it had already stopped being.
+
+I stepped onto the locomotive's side platform with the police microphone Bell had linked to our portable radio.
+
+“Colonel.”
+
+My voice came out through the Lamborghini parked by the doors.
+
+He looked toward it.
+
+“You left your house a mess.”
+
+Tank bent double laughing for one dangerous second before the gunfire made him straighten.
+
+Keller shouted an order.
+
+His men advanced.
+
+Victor rose above the locomotive in a flare of blue. He did not strike every soldier. He struck the lamps over the yard, plunging the advancing line into confusion while Petra and Tank held the lit doorway. I covered the right side. Shawna got the final stretcher aboard.
+
+“Eighty-six!” she shouted.
+
+Tomas answered from the cab.
+
+The locomotive gave a deep, living shudder.
+
+Wheels moved.
+
+Miriam climbed onto the side step with a lantern. Léonie pulled the last carriage door closed. Rosa stood inside beside the injured, one hand on the wall, her voice steady above the growing clatter.
+
+Tank backed toward the train.
+
+“Aiden!”
+
+I looked at the Lamborghini.
+
+At the train.
+
+At the open flat wagon behind its last carriage.
+
+Nigga, a solution can be beautiful before it is remotely sensible.
+
+I ran to the car.
+
+Shawna saw me move and swore with love in every syllable.
+
+“Aiden, you better not—”
+
+I started the engine.
+
+The train gathered speed.
+
+The flat wagon passed the loading ramp.
+
+I drove up it.
+
+For one glorious, foolish second my Lamborghini flew beside a locomotive in a year that had no business knowing either my name or my insurance problem.
+
+Then the tires hit the wagon.
+
+The car bounced. Slid. Stopped with six inches between the bumper and the edge.
+
+Tank climbed onto the wagon after me and stared through the window.
+
+“Nigga.”
+
+I turned off the engine.
+
+“We need it to get home.”
+
+He looked at the eighty-six people moving away from Keller's building, then at the car sitting on a train like it had purchased the railroad.
+
+“This nigga don't travel. He escalates transportation.”
+
+I got out and climbed toward the carriage where my wife waited.
+
+Behind us, the machine building receded into smoke and confusion.
+
+Ahead, the tracks curved toward the blue door.
+
+Between us and it, Keller was already moving men into the yard.
+
+We had everybody aboard.
+
+Now we had to make the road belong to them.
+
+## 12. The Train Had Eighty-Six Reasons to Move
+
+The first time somebody shot at my Lamborghini while it was parked on a moving train, I experienced a new and very specific kind of offense.
+
+Nigga, the car wasn't even participating.
+
+A bullet struck the wagon rail. Another skipped across the rear fender. Tank dropped beside me behind the engine block and looked toward the soldiers running along the service road.
+
+“These niggas shooting the luggage now.”
+
+“That's not luggage.”
+
+“It's riding while we do the work.”
+
+I fired back from the wagon's edge. The soldiers scattered behind a stack of timber. The train clattered past them, slow enough to make every yard feel negotiated. Tomas had warned us this engine had been used for hauling, not speed. Keller's experimental equipment made it stronger than it should have been, but strength didn't make old rails straighter.
+
+Ahead of us, Miriam stood in the locomotive cab with a lantern. She knew the points leading to the transfer chamber. She also knew Keller would know that she knew.
+
+Sure enough, the first junction sent us the wrong way.
+
+The track bent toward a loading basin instead of the blue door.
+
+Tomas sounded the whistle.
+
+Three short blasts.
+
+Léonie leaned out of the carriage and shouted something toward the cab. Miriam answered. Porsche translated over the radio before I could ask.
+
+“The signal house is occupied. They changed the route.”
+
+I looked ahead.
+
+A narrow brick tower stood beside the junction, its upper windows lit. Two guards watched the train approach. Beyond it, the wrong track ended at a line of parked freight wagons.
+
+We would have to stop.
+
+Stopping would give Keller his prisoners back within reach.
+
+I was not doing that.
+
+“Victor.”
+
+He appeared on the carriage roof, pale in the moonlight.
+
+“I see it.”
+
+“How much you got?”
+
+He looked at the tower. Flexed his hand. One small thread of blue crossed his palm.
+
+“Enough to get you there.”
+
+“Nigga, I was hoping you would say enough to get you there.”
+
+He smiled tiredly.
+
+“You wanted first place.”
+
+“This nigga remembered rivalry at the worst time.”
+
+Victor caught my arm and lifted us from the wagon. For one breath the train moved beneath our feet and the whole depot spread below us in lamps and shadows. Then he threw us toward the signal house roof, released me, and landed hard beside the chimney.
+
+I rolled through a roof hatch and dropped into the upper room.
+
+The guards turned.
+
+I hit the first with the hatch itself.
+
+The second reached for his rifle. I caught it between us and drove him back against the wall. The room was small, hot, and full of levers I had no intention of pretending to understand. He kicked my knee. I struck his wrist against the iron window frame until the weapon fell.
+
+Below, the train's brakes shrieked.
+
+Nigga, no time.
+
+I shoved him away and went to the control board.
+
+Miriam's voice came through the radio.
+
+“Do not guess.”
+
+“I wasn't.”
+
+I absolutely had been considering a guess.
+
+She guided me through the one change she needed, using the painted yard numbers instead of asking me to become a railway engineer in the middle of gunfire. I moved the heavy lever she identified. Outside, a set of points shifted. Tomas slowed the locomotive almost to a stop, then reversed just far enough to take the corrected line.
+
+The train moved again.
+
+The people inside it remained moving toward a door they had chosen to reach.
+
+Victor came through the hatch breathing hard.
+
+“Return trip?” I asked.
+
+He looked at his hands.
+
+“Stairs.”
+
+“Nigga, respectable invention.”
+
+We went down together.
+
+At the bottom, a soldier stood blocking the exit. He had his rifle aimed at us. His eyes went from Victor's blue uniform to my badge to the train passing beyond the open door.
+
+I held my gun steady.
+
+“Put it down.”
+
+He didn't understand the words.
+
+He understood the choice.
+
+Slowly, he lowered the rifle and stepped aside.
+
+We took the weapon and left him sitting against the wall. I had no interest in wasting a bullet on a man who had stopped trying to make me use one.
+
+Outside, the last wagon rolled past.
+
+Tank reached down and caught Victor's arm. I grabbed the rail beside them and hauled myself aboard.
+
+My brother looked at us.
+
+“Nigga went to the tower and fixed the whole road.”
+
+“Miriam fixed it.”
+
+“You was the tall tool?”
+
+“Extremely handsome tool.”
+
+Victor laughed so hard he had to sit down before his legs made the decision for him.
+
+The next stretch of track ran beside a drainage canal. On the far bank, trucks gathered. Keller had found the place where he could keep pace with us. His men climbed onto running boards and lifted their weapons toward the carriages.
+
+Petra moved along the outside walkway, turning her body to marble wherever the passengers were most exposed. She could protect one opening at a time. She could not become a wall the length of a train.
+
+Amaya climbed onto the platform behind her.
+
+Mercedes tried to help her sit.
+
+“I can do this,” Amaya said.
+
+“You don't owe us a performance.”
+
+“I know. I owe those people a clear window.”
+
+She looked at the canal.
+
+Raised both hands.
+
+Water climbed the bank in one dark, shining sheet and struck the road beside the trucks. Mud and ice spread under their wheels. The first truck slewed sideways. The second stopped before hitting it. Soldiers jumped down, no longer in a position to fire into the passing carriages.
+
+Amaya sank against the rail.
+
+Mercedes caught her.
+
+“Clear window,” she said softly.
+
+Amaya smiled with her eyes closed.
+
+Inside, Vega and David kept the injured steady through the jolts. Rosa talked to people in a low, continuous voice. Not telling them everything was fine. Telling them what was happening, where they were going, who was sitting beside them. Small facts strong enough to hold when the larger ones felt impossible.
+
+Léonie moved between the carriages, speaking with the people from her year. We had to tell them what the door meant before they reached it. Some wanted refuge in the world we came from. Some had family and work in this branch of the past and could not bear to vanish into an unknown future, even a safer one.
+
+She brought me their choice at the carriage connection.
+
+“There is a resistance shelter beyond the eastern road,” she said. “I know the route. I know the people. If we clear the depot, those who choose to remain can leave with me.”
+
+I looked at her.
+
+“You staying?”
+
+She nodded.
+
+“My brother is out there. So are people who helped me before I was taken.”
+
+I wasn't going to tell her my beautiful car outranked her life.
+
+“What do you need?”
+
+“The road clear. A vehicle. Food. A doctor to tell us who can travel safely.”
+
+“We can do that.”
+
+She touched my arm.
+
+“You did come back.”
+
+“Yeah.”
+
+“Then believe me when I say I know where I'm going.”
+
+I did.
+
+David chose to stay with that group. Miriam chose the door. She said there was no one left in this place whom she could reach, and she wanted a life Keller had never seen. Tomas chose to remain and drive the people Léonie would guide. Jakob and Rivka chose the door together, carrying the violin case and the cloth bag as if a future could begin with two things held carefully.
+
+Nobody made those choices easily.
+
+Nobody made them for one another.
+
+We planned to take sixty-two through the door: all thirty-one modern captives and thirty-one people from the altered year who chose refuge with us. Twenty-four would leave the cleared depot along the eastern road with Léonie and David. We counted both groups twice. Miriam wrote their names on separate sheets and handed one to Shawna, one to Léonie.
+
+Eighty-six people.
+
+Two roads.
+
+One promise that neither road would end in Keller's hands.
+
+Then the locomotive stopped so hard the whole train shuddered.
+
+I caught Shawna against me before she hit the carriage wall.
+
+Ahead, a metallic crash rang through the yard.
+
+Tomas sounded the whistle again.
+
+This time he held it.
+
+I climbed onto the roof.
+
+Keller stood on the track in front of the engine.
+
+He wore the machine.
+
+Voss's experiment had taken the shape of a black metal frame locked around his shoulders and legs. Heavy coils rose behind his back. A dull blue charge pulsed through them, the same wrong light I had seen in Victor's racing car. It made the colonel taller, broader, grotesquely strong.
+
+His hands gripped the locomotive's front coupling.
+
+Steam poured around him.
+
+The train tried to move.
+
+He held it.
+
+Behind him, soldiers spread across the route to the return chamber.
+
+Keller looked up at me and smiled.
+
+There was triumph in that smile, and something hungrier beneath it. The pleasure of a man who had finally found a way to make his own body match the violence he had been outsourcing.
+
+“Now,” he shouted, “we can discuss authority.”
+
+Tank climbed up beside me.
+
+He looked at Keller.
+
+Looked at the stalled train.
+
+Then looked at me.
+
+“Nigga put on a building.”
+
+I took off my torn jacket and handed it to Shawna when she reached the roof behind us.
+
+She caught my wrist.
+
+“Aiden.”
+
+I looked at her.
+
+“I know.”
+
+The colonel's machine hummed louder.
+
+I could not outmuscle that metal. I had no thunder in my hands. My ribs hurt, my shoulder burned, and the nigga in front of me had stolen enough power to stop a locomotive.
+
+Behind me, sixty-two people watched the door.
+
+Twenty-four watched the eastern road.
+
+I climbed down onto the track.
+
+“Colonel,” I said. “You had to steal a whole machine to feel like a man.”
+
+His smile vanished.
+
+I showed him mine.
+
+“Nigga, watch how little I need.”
+
+## 13. The Door Opened Both Ways
+
+Keller hit the ground where I had been standing.
+
+The rail bent.
+
+Nigga, I respected the information and moved farther away.
+
+His metal frame made every step heavy enough to shake snow off the locomotive. The blue coils behind his shoulders flared when he lifted his arms. He was strong. Terribly strong. But he turned like a man carrying three other men who disagreed about direction.
+
+I let him learn that in public.
+
+He swung. I stepped inside the arc and struck his face with the heel of my hand. His head snapped back. Not enough to stop him. Enough to make the soldiers behind him see their new miracle get slapped by a nigga in a torn shirt.
+
+Tank roared from the train roof.
+
+“There you go! Educate the big coat!”
+
+Keller grabbed at me. I ducked beneath his arm, rolled across the track, and came up beside the locomotive wheel. His metal fist struck the engine casing. Steam burst between us.
+
+Tomas pulled back inside the cab.
+
+Miriam shouted at me from the side platform.
+
+“He can't keep drawing at that rate!”
+
+I had noticed the machine's ugly rhythm. Every surge made Keller stronger and less steady. Voss had promised him power. Voss had apparently forgotten to promise him a comfortable evening afterward.
+
+Behind the colonel, his soldiers tried to advance.
+
+Petra dropped from the carriage roof into their path, marble from head to heel. Victor joined her with one last useful burst of charge. Weapons sparked. Men fell back. They held the space long enough for Tank to come down and take the left flank.
+
+The train remained full of people.
+
+The people remained the point.
+
+Shawna knew that better than anybody.
+
+While Keller chased me along the engine, she climbed into the cab with Miriam and Tomas. They had to uncouple the empty front wagon from the stalled locomotive's damaged hitch before the carriages could be moved around the blocked line. I did not know how to do that. Tomas did. Miriam knew the adjoining service track. Shawna knew how to keep a gun level while two people worked with their hands.
+
+She gave them room.
+
+I gave her noise.
+
+“Colonel!”
+
+He turned toward my voice.
+
+I stood on the locomotive's running board, one hand on a rail, the other holding my badge where he could see it.
+
+“You under arrest.”
+
+His face twisted.
+
+Tank looked up from behind a wagon wheel.
+
+“Nigga, now?”
+
+“I like the timing.”
+
+Keller charged.
+
+I jumped from the running board to the next wagon. His shoulder struck the locomotive. The whole engine rocked. A coil on his back flashed white. He staggered, caught himself, and came after me again.
+
+I had never made a man so angry at walking.
+
+The soldiers saw the blue flare and retreated farther. A machine they had expected to make them brave was beginning to make them nervous. One dropped his weapon and ran toward the barracks. Another followed.
+
+Keller shouted at them.
+
+They kept running.
+
+Nigga, authority had developed a staffing problem.
+
+The service track cleared.
+
+Tomas moved the locomotive back a short distance while Miriam directed from the side. The damaged front hitch came loose. The passenger carriages shuddered, then began rolling toward the transfer chamber along the repaired route.
+
+Keller saw them moving.
+
+His expression changed.
+
+For the first time he stopped chasing me because hurting me was no longer his favorite option. He turned toward the nearest carriage.
+
+Toward the people inside.
+
+I jumped down in front of him.
+
+“No.”
+
+He struck me across the chest.
+
+I flew backward into the snow.
+
+The pain came all at once. Ribs, shoulder, breath gone. My gun landed somewhere beyond my hand. The sky above me blurred.
+
+Shawna shouted my name.
+
+I tried to rise.
+
+My body had a serious objection.
+
+Keller advanced toward the carriage steps.
+
+Then Rivka stood in the doorway holding a fire extinguisher from the rescue van.
+
+She had watched Mercedes use one earlier in the machine building.
+
+She pointed it at his face and squeezed.
+
+A white cloud engulfed him.
+
+He staggered, blinded, swinging at empty air.
+
+Miriam grabbed my arm.
+
+“Get up.”
+
+I got up.
+
+Not alone.
+
+Because she pulled, and because I pulled with her, and because a nigga's greatness wasn't going to become the excuse he used to refuse the hand saving his life.
+
+Tank reached us.
+
+He took one look at my face.
+
+“Can you move?”
+
+I coughed, found air, and nodded.
+
+“Then move beautiful.”
+
+We ran toward the Lamborghini.
+
+The last flat wagon had been brought level with the transfer yard's loading platform. Its ramp lay down. My car waited where I had left it, dented and outrageous, a dark blue promise on borrowed rails.
+
+I got behind the wheel.
+
+Shawna slid in beside me.
+
+“Your ribs?”
+
+“Still personal.”
+
+She looked at my face, then toward Keller staggering out of the white cloud.
+
+“Drive.”
+
+I drove.
+
+The Lamborghini came off the wagon and hit the yard in a spray of snow. Keller turned at the engine's roar. I went straight at him, then swerved close enough to make him reach.
+
+His metal hand caught the rear rail of the empty wagon behind us instead.
+
+The frame locked.
+
+The wagon moved under his weight.
+
+For one second the colonel stood attached to something larger than himself that did not care what he ordered.
+
+Shawna fired from the window.
+
+Her shots struck the black housing on his back. Blue light jumped through the cracks. The frame convulsed. Keller screamed in anger more than pain, trying to pull free as the empty wagon rolled toward the old freight buffer.
+
+I stopped the car.
+
+Got out with Tank beside me.
+
+Keller tore one arm loose.
+
+The machine was breaking around him. He could have let it go. Could have dropped the weapon now in his free hand. Could have surrendered with the men who had already thrown theirs into the snow.
+
+He aimed at Shawna.
+
+I shot him.
+
+He fell against the wagon. The weapon dropped. The blue coils flickered once, then went dark.
+
+The empty wagon struck the buffer with a heavy crash.
+
+Keller did not rise.
+
+I stood with the gun lowered and watched long enough to know the thing was finished.
+
+Then I turned toward the people.
+
+That was where the rest of the night belonged.
+
+The guards who remained surrendered to Pike's orders relayed through our loudspeaker and Victor standing on the locomotive with one faint blue line still crossing his fingers. We took their weapons, secured them in a room away from the prisoners, and left the local resistance group to decide how to deliver them to people who could hold them. Nobody asked the prisoners to stand beside their captors for a picture.
+
+Léonie found two trucks fit for the eastern road. Tomas examined them with Miriam, and the two mechanics argued over one engine in a mixture of languages that sounded so ordinary it made my throat tighten.
+
+David checked each person choosing to stay. Vega gave him supplies and instructions she wrote slowly enough for him to ask questions. He did not need her to teach him how to care about people. He needed medicine, clean bandages, and a chance to practice what he already knew without a guard deciding whose pain counted.
+
+She gave him what she could.
+
+At the loading platform, the sixty-two choosing the door gathered around Shawna. Some stared at the thin blue seam. Some looked back at the station. Some held the names of people they would never see again in the silence between their breaths.
+
+Miriam stood beside me with her old wrench in her hand. She had retrieved it from the yard because, she said, it was hers.
+
+“What is your world like?” she asked.
+
+I looked at the Lamborghini. At Victor, exhausted beside Petra. At Tank wrapping a blanket around Rosa's shoulders. At my wife, still counting people carefully while a gold medal swung against her blue sweater.
+
+“Complicated,” I said.
+
+Miriam nodded.
+
+“Then I won't be surprised.”
+
+“But we got room.”
+
+She looked at me.
+
+I meant a room with a door she could open. A job if she wanted one. Food without permission. People who would learn her name before they asked what she could do for them.
+
+I couldn't promise her that no ugly thing existed in the future.
+
+I could promise her where she would wake up tomorrow.
+
+She slipped the wrench into her coat.
+
+“All right.”
+
+I called Storm.
+
+Static answered first.
+
+Then her voice, faint and strained.
+
+“Aiden.”
+
+“We have sixty-two coming through. Twenty-four choosing the eastern road with the resistance. Everybody accounted for. Keller's dead.”
+
+She breathed out.
+
+“Bring them.”
+
+The blue seam widened.
+
+Sky High appeared beyond it.
+
+Not peaceful. Not quiet. Red lights flashed along the chamber walls. Bell stood beside the controls with a bandage around his head. Marcellus waited near the entrance, his jacket off, helping Lena arrange chairs and blankets.
+
+I saw smoke in the upper corridor.
+
+“Storm.”
+
+“Bring them now.”
+
+We brought them.
+
+The injured went first in the rescue van. Petra drove slowly through the circle while Vega stayed beside the stretchers. Mercedes walked with Amaya. Jakob carried his violin case. Rivka held the small bag against her chest and did not look back after her first step.
+
+Miriam stopped at the threshold and touched the blue air with two fingers.
+
+Then she crossed.
+
+Behind us, Léonie stood beside the eastern trucks.
+
+Shawna went to her. They embraced hard, two women who had promised each other a door and found different futures beyond it.
+
+“Tell them we made it,” Léonie said.
+
+“Tell them yourself,” Shawna answered. “All the people waiting for you.”
+
+Léonie nodded. Tears ran down her face, but she was smiling when she turned toward the trucks.
+
+David shook my hand.
+
+Tomas clapped Tank on the shoulder and said something that made Porsche laugh when she translated.
+
+“He says you are too large for history's small rooms.”
+
+Tank nodded gravely.
+
+“Nigga, I been explaining that all night.”
+
+The trucks rolled toward the eastern road with Léonie in front, Tomas driving, David beside the people who needed him. We watched until the convoy reached the turn beyond the trees, clear of the depot, where two members of her resistance network stepped from cover to meet them.
+
+Then we went home.
+
+Tank drove the Mercedes through. I followed in the Lamborghini with Shawna beside me. Victor walked last, looking back once at the silent machine building before he crossed.
+
+Storm turned the final ring.
+
+The portal narrowed.
+
+Snow became a line.
+
+Then nothing.
+
+The door was closed.
+
+Reiss pulled the alignment key from the controls and snapped its glass stem beneath a heavy tool. Bell disconnected the first of the frame's great support rings. They would dismantle the rest when the people were safe upstairs. No second journey waiting as an excuse. No promise to fix every grief by finding a convenient year.
+
+We had brought back the people who chose to come.
+
+We had left the others on a road they chose, with one less monster behind them.
+
+For one brief second I let that be enough.
+
+Then an explosion shook the chamber.
+
+Dust fell over my car.
+
+The Heart's light flickered behind its glass.
+
+Storm leaned against the controls, pale with exhaustion.
+
+“Voss,” she said. “He took the upper tower.”
+
+Tank got out of the Mercedes and looked toward the smoke.
+
+“Nigga, we gone one night.”
+
+I opened my door.
+
+Shawna opened hers.
+
+Above us, the whole school began to fall.
+
+## 14. School Was Falling and I Still Had Perfect Attendance
+
+The floor dropped beneath us.
+
+Not a little shake. Not the polite tremble a building used when it wanted people to check the weather. The whole chamber fell hard enough to lift my stomach into my throat. Chairs slid. Glass rattled around the Heart. Somebody screamed my name like I had personally installed gravity.
+
+Nigga, I had been gone one night.
+
+One.
+
+I caught Shawna against the Lamborghini. Tank grabbed the Mercedes door with one hand and Rosa with the other. Petra braced herself across the rescue van's open rear so the stretchers couldn't slide out. Marcellus caught Rivka's chair before it tipped.
+
+Then Storm raised both hands.
+
+The fall slowed.
+
+Her boots left the floor. White light ran along her arms. Outside the chamber windows, clouds climbed past us instead of waiting below.
+
+“Bell,” she said.
+
+The professor was already moving.
+
+He and Reiss worked at the support console, four hands and two hands finding their separate places. I didn't understand half the lights. I understood the strain in Storm's face and the sound of the school trying to remain a school around us.
+
+The floor steadied.
+
+Not level.
+
+Steady enough.
+
+Storm came down on one knee.
+
+Vega reached her immediately.
+
+“How long?” I asked Bell.
+
+He looked at the controls.
+
+“Until he opens another support lock.”
+
+“Nigga, I was hoping for minutes.”
+
+“So was I.”
+
+Voss's voice filled the chamber speakers.
+
+It came from above, smooth and furious, making the whole place feel briefly like the inside of his unpleasant head.
+
+“The academy is now under emergency authority. Surrender the Heart and the unauthorized visitors to the central tower.”
+
+I looked at the sixty-two people who had just crossed out of one man's captivity and heard another man deciding they were negotiable.
+
+My patience left so completely I didn't even feel it go.
+
+“Turn that shit off.”
+
+Bell struck a switch.
+
+The voice continued.
+
+He struck another.
+
+Still Voss.
+
+Tank picked up a chair and smashed the speaker.
+
+Silence.
+
+Bell looked at him.
+
+“Thank you.”
+
+“Nigga, I got a specialty.”
+
+We had to get the returnees away from the hanging annex. The support chamber sat beneath the island, and if Voss severed it from the rest of the foundation, nobody upstairs would have time to watch it fall before we became a very sad cloud.
+
+Pike's voice came over the radio. He held the upper music hall with his officers. Sable remained locked in a patrol cell under guard. Finn remained in another, loudly insisting he had warned everybody about Voss and deserved credit for the parts of the warning he had eventually provided.
+
+I told Pike to keep both cells closed and prepare room for people who had actually helped.
+
+“How many?”
+
+“Sixty-two new arrivals. Some injured. All tired. Make it warm.”
+
+“Already done.”
+
+That nigga was becoming one of my favorite uniforms.
+
+The lift could carry the stretchers. The stairs could take the people able to walk. The cars would go up the old service ramp, which Bell warned was narrow, damaged, and not designed for a Lamborghini.
+
+I looked at him.
+
+He looked back.
+
+“I hear it when I say it now,” he admitted.
+
+Miriam stayed beside the Heart's housing, studying the fittings. She had arrived in a world of floating schools and impossible engines and apparently decided the quickest way to survive the surprise was to find the part that needed fixing.
+
+Bell noticed.
+
+“You understand machinery?”
+
+She gave him a look.
+
+He held up two apologetic hands while the other two remained on the controls.
+
+“Poorly phrased.”
+
+She pointed at a vibration in the support bracket. He looked, adjusted it, and the light over the housing steadied.
+
+For a second the professor forgot the school was falling.
+
+“Would you consider—”
+
+“Later,” she said.
+
+I laughed once.
+
+“Nigga, she just got here and already outranking you.”
+
+Bell nodded with delighted exhaustion.
+
+“Entirely deserved.”
+
+Shawna led the first walking group to the stairs with Mercedes and Rosa. Vega went with the stretchers. Petra escorted the lift. Victor remained below with me, Tank, Bell, Reiss, and Storm.
+
+We had to move the Heart to the central support chamber above the main hall. Voss controlled the old tower, but Bell could isolate its override from the newer system if we reached the central chamber with the real core. The old tower's locks could interrupt the foundation through the existing link. Bringing the core directly into the newer chamber would shorten that vulnerable chain.
+
+That was enough explanation for me.
+
+“Where it fit?” I asked.
+
+Bell looked at the housing, then the Lamborghini.
+
+His expression became pain.
+
+“Passenger seat.”
+
+Tank put a hand on his shoulder.
+
+“Nigga, breathe. This car been a train passenger. It's ready for responsibility.”
+
+We secured the housing inside the Lamborghini with the care a man used when he understood his cargo was currently keeping his wife from dropping through the world. No jokes while we lifted it. No swagger while Bell checked its supports. I let the professor do his work.
+
+Then I sat beside the Heart and felt its blue light wash over my hands.
+
+Still no power.
+
+Just me.
+
+Victor crouched beside the open door.
+
+“I'll keep the upper path clear.”
+
+“You got enough charge?”
+
+“For you to drive fast.”
+
+“Nigga, that's my favorite unit.”
+
+Tank would drive the Mercedes behind me with Reiss. Bell and Storm would climb through the service lift once the last stretcher cleared. The rescue van was already going up with Vega. Nobody was leaving a vehicle full of injured people on a ramp while the action heroes enjoyed their moment.
+
+I started the engine.
+
+The Heart glowed beside me.
+
+“All right, expensive nigga,” I told it. “Let's go pay rent.”
+
+The service ramp curved upward through the island's rock. Water ran down its walls. The headlights caught old warning signs, rusted rails, doors somebody had locked years ago and forgotten to open when the people inside changed.
+
+I drove carefully for the first turn.
+
+Then gunfire struck the wall ahead.
+
+Careful remained a value. It simply became faster.
+
+Two of Voss's men stood behind a maintenance cart at the next bend. Victor came down from the upper landing in a flare of blue, forcing them back. I drove through the space he made. Tank followed, leaning on the horn as if the gunmen were ordinary traffic being rude.
+
+“Move, niggas!” he shouted through the window. “School supplies coming!”
+
+The ramp shook.
+
+A crack opened across the concrete.
+
+I saw it too late to stop.
+
+The Lamborghini leaped the gap.
+
+For one second the Heart's light turned my whole car blue.
+
+Then the tires struck the other side and the engine roared us onward.
+
+Behind me, Tank crossed with the Mercedes. His rear wheels caught the edge, bounced, and landed. Reiss shouted something that sounded like a complicated scientific opinion about death.
+
+Tank laughed into the radio.
+
+“Nigga, welcome to the car.”
+
+The last turn opened onto the music hall's stage.
+
+Yes.
+
+The stage.
+
+Bell had mentioned it as a service entrance. He had not mentioned that an audience of terrified students, freed prisoners, faculty, police, and my wife would be looking straight at us when we emerged.
+
+I drove out beneath the theater lights with the Heart glowing in the passenger seat.
+
+For a second nobody made a sound.
+
+Then Shawna saw me.
+
+She stood so fast her chair fell backward.
+
+“That's my fucking husband.”
+
+The whole hall rose.
+
+Not because the danger was over.
+
+Because the man they had been told to surrender had just driven the thing keeping them alive onto the stage like it was an award he had come to collect.
+
+Nigga, entrances mattered.
+
+I stopped the car, got out, and raised my badge.
+
+“Nobody handing nobody over.”
+
+The roar hit me like heat.
+
+Pike saluted. Elias lifted both fists. Lena stood beside Rosa, her voice joining the chant. The students who had watched my first test shouted my name until it stopped belonging to one throat at a time.
+
+Aiden.
+
+Captain.
+
+Ten toes down.
+
+I let them have five seconds.
+
+Then I pointed toward the doors.
+
+“If you can carry, carry. If you can heal, find the doctor. If you can hold a wall up, nigga, we got walls looking insecure. Nobody running alone. Nobody leaving somebody because that person ain't glowing.”
+
+They moved.
+
+That was the part I was proudest of.
+
+A woman with wings took two medical bags upstairs. Elias lifted a fallen beam clear of the main exit. Sunfire appeared in her racing jacket and began warming the coldest corner of the hall with a controlled glow from her hands. Petra brought the last stretcher out of the lift. Mercedes directed people toward the safe rooms without raising her voice once.
+
+Shawna reached me.
+
+She touched my face.
+
+“You brought it.”
+
+“Baby, I bring things.”
+
+“You brought me back my idiot too.”
+
+“Premium delivery.”
+
+She kissed me quickly and went back to work.
+
+Outside the theater windows, black aircraft gathered around the upper tower.
+
+Voss had watched the hall refuse him.
+
+He was taking it personally.
+
+Good.
+
+I intended to keep making that nigga feel seen.
+
+## 15. Every Cop in the Sky Wanted My Shift
+
+Chief Gloria Knox arrived with three police helicopters and a bottle of champagne.
+
+She said the bottle was for after.
+
+Nobody asked after what. The school was tilting, black aircraft circled the upper tower, and a man in a torn racing jacket was using his bare hands to keep a marble staircase attached to the wall.
+
+After was doing plenty of work already.
+
+Knox stepped onto the landing terrace in a dark coat with her badge over her heart. Two campus officers rushed forward to tell her the airspace was restricted. She looked past them at me standing beside my Lamborghini.
+
+“My captain is here.”
+
+“Ma'am, the chancellor—”
+
+“Looks busy becoming a former chancellor.”
+
+She walked around them.
+
+Tank watched her approach with open delight.
+
+“Nigga, your boss got entrance music even when nobody playing.”
+
+Knox hugged Shawna first. Then she took one look at my shirt, my bruised face, and the newest crack in the Lamborghini's front bumper.
+
+“You making the department proud?”
+
+“Aggressively.”
+
+“Good. Why is there a school in the air?”
+
+“Advanced program.”
+
+She looked up at the towers.
+
+“Clearly.”
+
+Her officers brought medical supplies, extra radios, and enough armed confidence to make Pike stop feeling as if he was defending the entire academy with six loyal people and a bakery next door. Knox put him in charge of getting the injured onto the helicopters. She did not waste time pretending she knew his campus better than he did.
+
+I appreciated that.
+
+A nigga could be impressive without being incorrect at volume.
+
+Inside the central support chamber, Bell and Miriam had installed the Heart into the newer housing. The floor had stopped tilting. For the first time since our return, the academy seemed willing to remain at one altitude long enough for somebody to finish a sentence.
+
+But the old tower still held three foundation locks. Voss could open them one at a time, separating pieces of the floating island from the support field. He could not make himself the school. He could make the school come apart around him.
+
+Bell showed us the tower through a narrow window.
+
+It stood on its own rocky spur beyond the stadium, joined to the main island by a broad bridge. Black metal shutters covered its lower floors. Armed aircraft circled the upper balconies. A narrow maintenance spine ran from its foundation down beneath the stadium.
+
+“We reach the old control room,” Bell said, “and I can sever his override.”
+
+“Then let's reach it,” I said.
+
+“He has fortified the bridge.”
+
+Tank looked out at it.
+
+“Nigga, bridges keep taking jobs they ain't qualified for.”
+
+Storm stood beside the Heart, one hand resting against its glass. Vega had made her drink water and sit for ten minutes. She had obeyed nine of them, which apparently qualified as cooperation among women who could hold cities in the air.
+
+“He wants you on that bridge,” she told me. “He has watched you drive toward every threat since you arrived.”
+
+“He should've learned something encouraging.”
+
+“He has learned what you won't abandon.”
+
+I looked toward the hall where Shawna was helping Miriam find a warm coat.
+
+Storm followed my gaze.
+
+“That is a strength,” she said. “It is also information.”
+
+I nodded.
+
+No lecture. Just a woman who knew the cost of loving people standing beside a man who had made a career out of refusing to admit costs existed.
+
+We could use the maintenance spine to enter below the bridge. It was too narrow for cars. The upper lift was locked from inside. Voss had left the obvious road heavily guarded and the inconvenient one nearly empty, because he still thought danger was something he could arrange neatly for other people.
+
+Shawna listened from the doorway.
+
+“You take the bridge,” she said. “We take the spine.”
+
+I smiled before I could help it.
+
+“Baby, we getting a routine.”
+
+“Then get good at your part.”
+
+She would go with Mercedes, Petra, Bell, and Miriam. The women had already opened more locked rooms together than Voss had managed to keep closed. Bell needed the old control panel. Miriam had the patient hands to help him work while the building argued.
+
+Tank and I would make the bridge loud. Victor and Sunfire would cover the air. Knox's helicopters would keep evacuating the injured and those who wanted solid ground. Storm would remain with the Heart, maintaining the island's support until Bell could cut the last old ties.
+
+Porsche stood in the doorway with a radio in each hand.
+
+“And me?”
+
+“You got everybody talking,” I said. “Keep it that way.”
+
+She looked down at the radios.
+
+“Nigga, finally a job that recognizes my natural gifts.”
+
+Leon appeared behind her carrying three bags at once in three separate bodies.
+
+“Need help?”
+
+She looked at him approvingly.
+
+“All of you, yes.”
+
+We prepared on the landing terrace while the academy worked around us. Students carried stretchers. Faculty opened supply rooms they had previously guarded as if extra blankets might undermine academic prestige. Elias helped Harlan Moss support a cracked garden wall by driving roots through its stone joints. The landscape architect smiled for the first time since his rescue, dirty hands steady on something he had chosen to grow.
+
+Rosa stood beside Tank's Mercedes. She had changed out of her cold-weather coat and into one of his hoodies. It nearly reached her knees. The red ribbon from the race still circled his wrist.
+
+She took that wrist in both hands.
+
+“You keep coming back to me.”
+
+“That's where I'm headed every time.”
+
+“I mean it.”
+
+“So do I.”
+
+He leaned down and kissed her. No joke in it. No performance. Just my brother finding the part of the world where he didn't have to be the biggest thing in the room to feel safe.
+
+I turned away and found Shawna watching me.
+
+“You happy for him?” she asked.
+
+“Nigga finally got somebody who can tell him to sit down and have it happen.”
+
+“That's not what I asked.”
+
+I took her hand.
+
+“Yeah. I am.”
+
+She squeezed it.
+
+Then she held up my torn jacket.
+
+“You wearing this?”
+
+“It's got history.”
+
+“It's got holes.”
+
+“Prestigious holes.”
+
+She shook her head and helped me put it on anyway.
+
+The bridge rose from the academy's eastern plaza in a long white curve. Voss's men had parked two armored carriers across its middle. Portable barriers blocked the gaps. A black aircraft hovered above each side, its gunner watching the approach.
+
+I drove toward them with my siren on.
+
+Tank followed in the Mercedes.
+
+Victor flew low over our roofs. Sunfire swept higher, trailing a ribbon of orange light that made the clouds look as if dawn had decided to try a second entrance.
+
+The guards saw us coming.
+
+One of them lifted a loudspeaker.
+
+“Stop your vehicles.”
+
+I lifted my own microphone.
+
+“Nigga, you first.”
+
+He looked at his parked carrier as if the request had injured logic.
+
+Good. Confusion bought time.
+
+The first aircraft fired across the bridge. Victor caught the gun mount in a bright net of charge and twisted its aim toward empty sky. Sunfire flashed past the second aircraft's windshield, blinding the pilot long enough to make him climb away.
+
+I accelerated.
+
+The guards ducked behind the carriers.
+
+At the last moment I turned toward the bridge's raised service ledge. The Lamborghini climbed onto it, tires gripping the narrow strip while open air waited beyond my left window. I passed the first carrier with inches to spare. Tank struck the movable barrier behind me and shoved it clear for the Mercedes.
+
+His voice came over the radio.
+
+“Nigga, I made a lane.”
+
+“Proud of you.”
+
+“Put that on my diploma.”
+
+Gunfire struck the stone beneath us. I kept the car straight until the service ledge widened near the far end. Then I dropped back onto the main bridge and spun the Lamborghini across the roadway, blocking the guards' line of fire toward the maintenance entrance below.
+
+That entrance opened.
+
+My wife disappeared inside with her team.
+
+The loud part was working.
+
+Voss appeared on a balcony above the bridge.
+
+He had changed out of his charcoal suit. A dark armored coat covered his chest and shoulders. Thin blue channels ran along its sleeves. He held a black staff in one hand, longer and uglier than the cane I had broken.
+
+Nigga had upgraded his attitude into equipment.
+
+“Captain Aiden,” he called down.
+
+I stepped out of the car.
+
+“You keep saying my name like it gonna help you.”
+
+“I offered you honors.”
+
+“You offered everybody underneath us chains.”
+
+He lifted the staff.
+
+The bridge cracked.
+
+A section behind Tank broke away from the main span. His Mercedes slid toward the opening. He hit the brakes, jumped out, and caught the car's door as if personal loyalty could outweigh gravity.
+
+For one terrible second it almost seemed to.
+
+Victor dove.
+
+Blue light caught the Mercedes beneath its chassis. Tank hauled on the door. I ran back and grabbed his arm. Together we dragged the car's front wheels onto solid stone while Victor held the rear above the gap.
+
+The Mercedes settled.
+
+Tank put his forehead against its roof.
+
+“Nigga, don't you leave me.”
+
+Victor landed beside us, breathing hard.
+
+“You could thank the person.”
+
+Tank pulled him into a hug so sudden his boots left the ground.
+
+“My lightning nigga.”
+
+“Can't breathe.”
+
+“That's gratitude.”
+
+Voss watched from above with fury spreading through his face.
+
+He had tried to turn my friendship into a weakness and found it had more hands than he expected.
+
+I looked up at him.
+
+“You got anything else?”
+
+He smiled.
+
+Then the old tower's upper windows lit blue.
+
+In my earpiece, Bell shouted Shawna's name.
+
+I stopped smiling.
+
+The loud part had reached the room my wife was in.
+
+## 16. The Tower Was Scared of My Wife
+
+Bell shouted Shawna's name because she had just kicked him out of the way of a falling beam.
+
+I learned that part three seconds after my heart tried to climb out of my chest.
+
+“I'm fine,” she said over the radio.
+
+“Then tell the four-arm nigga to stop announcing you like a tragedy.”
+
+“He was busy falling.”
+
+Bell sounded deeply offended in the background.
+
+“I was pushed with exceptional force.”
+
+“You're welcome,” my wife said.
+
+I let myself breathe again.
+
+Then the bridge beneath my Lamborghini split.
+
+Voss had stopped pretending he cared what happened to his own people. The guards still stationed along the span scrambled toward the tower doors as cracks ran through the white stone. One carrier slid against the railing. Its driver tried to reverse. The rear wheels spun over open air.
+
+I got into the Lamborghini.
+
+Tank looked at me.
+
+“Which problem?”
+
+“The one with people in it.”
+
+“Nigga, that's every problem.”
+
+“Then we picking by distance.”
+
+I drove alongside the sliding carrier and stopped close enough for its passenger door to open over my roof. The guard inside stared down at me through the gap.
+
+He had been shooting at us five minutes ago.
+
+I looked up at him.
+
+“You coming, or you taking the scenic route?”
+
+He climbed onto the Lamborghini.
+
+Another man followed. Then the driver. Three armed men abandoned their weapons and crawled across my roof toward a piece of bridge their boss had not yet decided to destroy.
+
+Tank hauled them down one by one.
+
+The carrier fell.
+
+It vanished into the clouds without a sound that reached us.
+
+The driver stared after it.
+
+Then he turned toward Voss's balcony.
+
+The look in his face changed the shape of the battle.
+
+“He knew we were there.”
+
+I got out of the car.
+
+“Nigga, he could see you.”
+
+The man swallowed. He was about thirty-eight, close-cropped hair, a scar across his chin, shoulders built for following orders somebody else had made profitable.
+
+“Rook,” he said. “Captain of his air guard.”
+
+I looked at the discarded weapons.
+
+“You done?”
+
+He stared at the clouds where his carrier had gone.
+
+Then nodded.
+
+“I'm done.”
+
+“Good. Help Tank get your people off this fucking bridge.”
+
+Rook moved.
+
+Not to my side because a speech had washed him clean. To the people he had brought here, because he had finally seen what Voss would spend to avoid losing. He shouted names. Men answered. Two lowered their guns. One tried to object and looked toward the balcony for instructions.
+
+Voss raised his staff again.
+
+Rook pulled that man away from the edge a second before the stone beneath him broke.
+
+The objection ended.
+
+Above us, Sunfire drove the remaining aircraft back from the bridge with bright sweeping passes. Victor landed near the tower doors and forced their locking mechanism open with one concentrated burst.
+
+“Aiden!”
+
+I ran toward him.
+
+The Lamborghini and Mercedes remained on the last solid section of the span. Rook's men helped Tank move both into the shelter of the tower's lower service bay. Nigga, five minutes of honest cooperation had improved their employment prospects dramatically.
+
+Inside, the tower was all black stone and blue light. Voss's decorative portraits lined the walls. Chancellor at an unveiling. Chancellor beside a new aircraft. Chancellor holding a ceremonial shovel while three men behind him looked as if they had done the actual digging.
+
+Tank came in behind me and studied the shovel picture.
+
+“This nigga never had dirt on a shoe.”
+
+“We can fix that.”
+
+We climbed toward the control room.
+
+Shawna's team had reached it from below. She stood in the doorway with Mercedes, covering Bell and Miriam while they worked at the old panel. Petra held a damaged support arch above their heads. Blue sparks jumped from the wall every few seconds, lighting the sweat on her face.
+
+I entered.
+
+Shawna looked me over once, made sure the important pieces remained attached, and pointed toward the far stairs.
+
+“He went up.”
+
+“You coming?”
+
+She smiled.
+
+“Nigga, I been inside.”
+
+We went together.
+
+At the top of the stairs, a gallery overlooked the central stadium. Voss stood before a tall window, his armored coat open enough to reveal a harness of black conductors beneath it. Blue light pulsed along his ribs. A portable transmitter sat beside him, linked to the old support system.
+
+He had built himself another way to touch the Heart without standing beside it.
+
+Storm's voice came over the radio.
+
+“He's drawing from the central housing.”
+
+Bell answered from below.
+
+“I can cut the old line, but the surge must go somewhere.”
+
+“Let it burn his tower,” Tank said.
+
+Miriam's voice followed, sharp and practical.
+
+“His tower is still tied to the stadium. There are people there.”
+
+I looked through the window.
+
+The stadium had become an evacuation point. Hundreds of students and visitors gathered on its field while faculty guided them toward airships and helicopters. Sunfire's glow marked one landing area. Knox stood near another, directing people with the authority of a woman who did not care whether the ground had originally intended to float.
+
+Voss had placed his escape inside their danger.
+
+He watched me understand.
+
+“You see?” he said. “Power is arrangement.”
+
+I walked toward him.
+
+“Nigga, you sound like a man trying to sell a bad couch.”
+
+He struck with the staff.
+
+Blue force hit the floor between us and threw me against the wall. Shawna fired. Her shots struck the staff's head, sparking against its black casing. Voss staggered but kept his grip.
+
+Tank charged.
+
+The second burst caught him across the chest and drove him backward into the stair rail. He hit hard, rolled, and came up swearing with both lungs, which reassured me more than any medical assessment available at that moment.
+
+Victor entered through the window in a blaze of blue.
+
+Voss turned toward him.
+
+The harness opened like a hungry hand.
+
+Victor's charge bent into it.
+
+He cried out.
+
+I saw the race again. Saw his car drinking him. Saw Voss discover that the same cruelty could fit more than one occasion.
+
+Shawna shot the transmitter.
+
+The box burst in a shower of sparks.
+
+Victor dropped free.
+
+I caught him before he struck the floor.
+
+Voss looked at my wife with genuine fear.
+
+Not because she was somebody he could use against me.
+
+Because she kept breaking the thing he needed.
+
+“You,” he said.
+
+She aimed again.
+
+“Me.”
+
+He retreated through the upper doorway as the transmitter burned. I helped Victor to Tank and followed with Shawna.
+
+We emerged onto the tower roof.
+
+An aircraft waited on a circular pad. Voss climbed inside and pulled a lever. The old foundation locks began opening beneath us.
+
+The stadium lurched.
+
+I heard the scream of hundreds of people through the open air.
+
+Bell shouted over the radio.
+
+“The central housing is overloading. If he completes the release, the field will tear.”
+
+Voss's aircraft rose.
+
+He looked down through its glass canopy, blue light crawling around his armored chest.
+
+I had never hated a smile more efficiently.
+
+“Enjoy your honors,” he said through the aircraft's speaker.
+
+Then he flew toward the central support chamber.
+
+Toward the Heart.
+
+Toward the people he had left beneath its failing field.
+
+I looked at Shawna.
+
+She looked at the stadium.
+
+Then at the service bay below us where my Lamborghini waited.
+
+“You got a road?” she asked.
+
+I looked across the broken bridge, the floating maintenance platforms, the narrow blue lanes flickering between the towers.
+
+Not a good road.
+
+Not a road anybody would admit drawing on a map.
+
+But a nigga had driven into this school before the road was even open.
+
+“I got something.”
+
+She took my hand.
+
+“Then let's go be magnificent.”
