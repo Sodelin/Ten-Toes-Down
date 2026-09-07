@@ -4,7 +4,7 @@
 
 *A deeply unnecessary motion picture in ten chapters.*
 
-A new comic adaptation written by ChatGPT for Nolan, following Nolan's creative direction. This is a separate version of the supplied material. The generated prose is not attributed to Nolan.
+A new comic adaptation written by ChatGPT for Nolan, following Nolan's creative direction. This is a separate version of the supplied material. The generated prose is not attributed to Nolan. The reading edition has 84 pages; the full Markdown file contains 14,921 whitespace-delimited words, including front matter and the after-credits note.
 
 - [Read the manuscript](editions/the-final-final-cut/manuscript.md)
 - [Download the reading edition (PDF)](editions/the-final-final-cut/book.pdf)
