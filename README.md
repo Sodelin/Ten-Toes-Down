@@ -1,6 +1,26 @@
 # Ten Toes Down
 
-## The Final Final Cut
+## Blood Money and Blue Diamonds
+
+A full-length expansion of Aiden and Shawna's first night in Vegas, written by ChatGPT for Nolan. Crime, romance, revenge, and five nested voices carry the story through fifteen chapters. The reading edition has 200 pages; the Markdown file contains 35,140 whitespace-delimited words including front matter and headings (35,025 from the story and chapter headings).
+
+- [Read the manuscript](editions/blood-money-and-blue-diamonds/manuscript.md)
+- [Download the reading edition (PDF)](editions/blood-money-and-blue-diamonds/book.pdf)
+- [Read the editorial and source record](editions/blood-money-and-blue-diamonds/editorial-record.md)
+
+Rebuild this edition from the repository root:
+
+```sh
+python -m pip install -r requirements.txt
+python scripts/build_blood_money_pdf.py editions/blood-money-and-blue-diamonds/manuscript.md editions/blood-money-and-blue-diamonds/book.pdf
+```
+
+The renderer uses Liberation Serif and DejaVu fonts, as described in the rebuild instructions below. Its default paths also select this edition. The novel is a separate adaptation; earlier versions remain available.
+
+- [First Night in Vegas experiment](experiments/first-night-in-vegas.md)
+- [Experiment record](experiments/README.md)
+
+## Earlier edition: The Final Final Cut
 
 *A deeply unnecessary motion picture in ten chapters.*
 
