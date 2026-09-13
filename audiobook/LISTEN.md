@@ -31,7 +31,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 18/20 recordings uploaded
+## Book 2 — 19/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -53,7 +53,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 16. The Tower Was Scared of My Wife | [MP3 · 8.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-16.mp3) | [Read](chapters/book-02/chapter-16/script.md) |
 | 17. Blue Thunder Looked Good on a Nigga | [MP3 · 11.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-17.mp3) | [Read](chapters/book-02/chapter-17/script.md) |
 | 18. The Sky Stayed Up Because We Did | [MP3 · 10.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-18.mp3) | [Read](chapters/book-02/chapter-18/script.md) |
-| 19. Valedictorian Again, Because Niggas Keep Graduating Me | ready | [Read](chapters/book-02/chapter-19/script.md) |
+| 19. Valedictorian Again, Because Niggas Keep Graduating Me | [MP3 · 16.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-19.mp3) | [Read](chapters/book-02/chapter-19/script.md) |
 | 20. A Nigga This Great Needed an Ocean | ready | [Read](chapters/book-02/chapter-20/script.md) |
 
 [Book 2 playlist](books/book-02.m3u)
