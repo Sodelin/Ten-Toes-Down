@@ -156,7 +156,7 @@
       "segments": 63,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T12:06:31.378582+00:00",
+      "updated_at": "2026-09-13T12:06:42.430870+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-07.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -171,7 +171,7 @@
       "id": "b01-c08",
       "book": 1,
       "chapter": 8,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-08",
       "release_tag": "audiobook-book-01",
       "title": "8. Let Him Think You Love Him",
@@ -180,7 +180,17 @@
       "narrator": "TICKET",
       "segments": 61,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T12:15:32.938003+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-08.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "2f398a5c0702d211ce0f3da0fb16f7a8e0b701e7daa95d9145da31579cef7e1c",
+        "duration_seconds": 1292.2657916666667,
+        "uploaded_at": "2026-09-13T12:15:41.122537+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c09",
