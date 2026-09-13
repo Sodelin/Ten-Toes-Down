@@ -1564,7 +1564,7 @@
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T20:21:59.813932+00:00",
+      "updated_at": "2026-09-13T20:22:10.115083+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-02.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1579,7 +1579,7 @@
       "id": "b04-c03",
       "book": 4,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-03",
       "release_tag": "audiobook-book-04",
       "title": "3. Get Your Warships Off My Beach",
@@ -1588,7 +1588,17 @@
       "narrator": "TICKET",
       "segments": 46,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T20:30:33.786606+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "029b9532d3860ffea7f663afab2d75586cebe887f626c1c0aa48068d65c28b42",
+        "duration_seconds": 1043.2231666666667,
+        "uploaded_at": "2026-09-13T20:30:39.905207+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c04",
