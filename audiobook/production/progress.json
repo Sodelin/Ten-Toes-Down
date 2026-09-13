@@ -1614,7 +1614,7 @@
       "segments": 47,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T20:39:22.016462+00:00",
+      "updated_at": "2026-09-13T20:39:31.895415+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-04.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1629,7 +1629,7 @@
       "id": "b04-c05",
       "book": 4,
       "chapter": 5,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-05",
       "release_tag": "audiobook-book-04",
       "title": "5. Marcellus Had Been a Dangerous Nigga Too",
@@ -1638,7 +1638,17 @@
       "narrator": "TICKET",
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T20:48:22.694542+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-05.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "b8aeeed97321e5c5d2494dc838475eaa351700153eb74a5b1d68add3ee1a2503",
+        "duration_seconds": 1062.10725,
+        "uploaded_at": "2026-09-13T20:48:29.436042+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c06",

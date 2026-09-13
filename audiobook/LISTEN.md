@@ -95,7 +95,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 4/22 recordings uploaded
+## Book 4 — 5/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -103,7 +103,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 2. The Heavyweight Champion of His Wife | [MP3 · 18.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-02.mp3) | [Read](chapters/book-04/chapter-02/script.md) |
 | 3. Get Your Warships Off My Beach | [MP3 · 17.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-03.mp3) | [Read](chapters/book-04/chapter-03/script.md) |
 | 4. Every Cop in the World Wanted My Autograph | [MP3 · 17.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-04.mp3) | [Read](chapters/book-04/chapter-04/script.md) |
-| 5. Marcellus Had Been a Dangerous Nigga Too | ready | [Read](chapters/book-04/chapter-05/script.md) |
+| 5. Marcellus Had Been a Dangerous Nigga Too | [MP3 · 17.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-05.mp3) | [Read](chapters/book-04/chapter-05/script.md) |
 | 6. Nigga, I Also Know the Answer | ready | [Read](chapters/book-04/chapter-06/script.md) |
 | 7. She Stole the Pearl and I Stole the Show | ready | [Read](chapters/book-04/chapter-07/script.md) |
 | 8. The Floor Got Jealous of My Feet | ready | [Read](chapters/book-04/chapter-08/script.md) |
