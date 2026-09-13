@@ -639,7 +639,7 @@
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T15:19:11.596402+00:00",
+      "updated_at": "2026-09-13T15:19:21.051922+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-09.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -654,7 +654,7 @@
       "id": "b02-c10",
       "book": 2,
       "chapter": 10,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-10",
       "release_tag": "audiobook-book-02",
       "title": "10. My Wife Was Already Inside",
@@ -663,7 +663,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T15:25:36.053174+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-10.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "d5d284ca61095f924d07686d77e203eda517eb5394f81219f3200b5684326f0e",
+        "duration_seconds": 746.4531666666667,
+        "uploaded_at": "2026-09-13T15:25:41.699614+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c11",
