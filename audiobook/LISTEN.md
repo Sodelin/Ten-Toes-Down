@@ -61,11 +61,11 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 0/24 recordings uploaded
+## Book 3 — 1/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
-| 1. The Ocean Was Waiting on Me | ready | [Read](chapters/book-03/chapter-01/script.md) |
+| 1. The Ocean Was Waiting on Me | [MP3 · 19.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-01.mp3) | [Read](chapters/book-03/chapter-01/script.md) |
 | 2. The Woman Who Drove Through Fire | ready | [Read](chapters/book-03/chapter-02/script.md) |
 | 3. Dinner with a Man Named Cruel | ready | [Read](chapters/book-03/chapter-03/script.md) |
 | 4. I Arrested the Finish Line | ready | [Read](chapters/book-03/chapter-04/script.md) |
@@ -89,6 +89,9 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 22. I Was the Last Thing He Owned | ready | [Read](chapters/book-03/chapter-22/script.md) |
 | 23. My Wife Sang on My Island | ready | [Read](chapters/book-03/chapter-23/script.md) |
 | 24. The Ocean Fit in My Pocket | ready | [Read](chapters/book-03/chapter-24/script.md) |
+
+[Book 3 playlist](books/book-03.m3u)
+
 
 ## Book 4 — 0/22 recordings uploaded
 
