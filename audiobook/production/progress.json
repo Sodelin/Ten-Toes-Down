@@ -206,7 +206,7 @@
       "segments": 63,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T12:26:18.104653+00:00",
+      "updated_at": "2026-09-13T12:26:27.742199+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-09.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -221,7 +221,7 @@
       "id": "b01-c10",
       "book": 1,
       "chapter": 10,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-10",
       "release_tag": "audiobook-book-01",
       "title": "10. Forty Million and One Woman",
@@ -230,7 +230,17 @@
       "narrator": "TICKET",
       "segments": 55,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T12:30:53.016709+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-10.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "c71f2de07f3b66e0019efc86a72c35c939ca10e3305116b20c0281ada1bf33b2",
+        "duration_seconds": 1168.0463333333332,
+        "uploaded_at": "2026-09-13T12:30:59.658243+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c11",
