@@ -939,7 +939,7 @@
       "segments": 54,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T16:52:50.883237+00:00",
+      "updated_at": "2026-09-13T16:53:01.691616+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-01.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -954,7 +954,7 @@
       "id": "b03-c02",
       "book": 3,
       "chapter": 2,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-02",
       "release_tag": "audiobook-book-03",
       "title": "2. The Woman Who Drove Through Fire",
@@ -963,7 +963,17 @@
       "narrator": "TICKET",
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:01:43.407470+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-02.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "fab1202e71d66e1999f6a2803f0a88324be5712313cd067ca0f2e1ad47dd5a76",
+        "duration_seconds": 1076.91225,
+        "uploaded_at": "2026-09-13T17:01:49.606694+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c03",
