@@ -1289,7 +1289,7 @@
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:44:53.686008+00:00",
+      "updated_at": "2026-09-13T18:45:03.450534+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-15.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1304,7 +1304,7 @@
       "id": "b03-c16",
       "book": 3,
       "chapter": 16,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-16",
       "release_tag": "audiobook-book-03",
       "title": "16. The Storm Asked Who Was Driving",
@@ -1313,7 +1313,17 @@
       "narrator": "TICKET",
       "segments": 35,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:51:58.851676+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-16.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "d2d3df51b04ca8d355d357d20a1f041786de3e354dd89cceb4f0da135f6d659c",
+        "duration_seconds": 783.9567916666666,
+        "uploaded_at": "2026-09-13T18:52:04.696388+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c17",
