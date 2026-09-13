@@ -564,7 +564,7 @@
       "segments": 70,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T14:49:56.877860+00:00",
+      "updated_at": "2026-09-13T14:50:08.415910+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-06.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -579,7 +579,7 @@
       "id": "b02-c07",
       "book": 2,
       "chapter": 7,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-07",
       "release_tag": "audiobook-book-02",
       "title": "7. Forty Floors of Niggas Finding Out",
@@ -588,7 +588,17 @@
       "narrator": "TICKET",
       "segments": 62,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T15:02:34.321729+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-07.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "f57666c753cbe574c4c77a761cc6843614ad99ae9eb2934110726eb5ee18743c",
+        "duration_seconds": 1443.5227916666668,
+        "uploaded_at": "2026-09-13T15:02:41.358712+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c08",
