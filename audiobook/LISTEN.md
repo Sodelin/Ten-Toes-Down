@@ -33,6 +33,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 2 — 20/20 recordings uploaded
 
+[Complete Book 2 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. They Put My Parking Space in Heaven | [MP3 · 22.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-01.mp3) | [Read](chapters/book-02/chapter-01/script.md) |
