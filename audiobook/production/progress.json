@@ -1639,7 +1639,7 @@
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T20:48:22.694542+00:00",
+      "updated_at": "2026-09-13T20:48:33.404478+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-05.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1654,7 +1654,7 @@
       "id": "b04-c06",
       "book": 4,
       "chapter": 6,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-06",
       "release_tag": "audiobook-book-04",
       "title": "6. Nigga, I Also Know the Answer",
@@ -1663,7 +1663,17 @@
       "narrator": "TICKET",
       "segments": 44,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T20:58:52.804848+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-06.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "b26033423d8cbb4200c3fe696c33668f31045f8b9912e285650c986d336ce3b1",
+        "duration_seconds": 970.15275,
+        "uploaded_at": "2026-09-13T20:59:05.024093+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c07",
