@@ -1014,7 +1014,7 @@
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:20:08.532084+00:00",
+      "updated_at": "2026-09-13T17:20:19.149128+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-04.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1029,7 +1029,7 @@
       "id": "b03-c05",
       "book": 3,
       "chapter": 5,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-05",
       "release_tag": "audiobook-book-03",
       "title": "5. The Last Lap Belongs to the Passenger",
@@ -1038,7 +1038,17 @@
       "narrator": "TICKET",
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:28:22.534666+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-05.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "d290ac6350347e4de3767411afb7eae27b5b2fc33343ff52713ba3b631b419f2",
+        "duration_seconds": 937.23075,
+        "uploaded_at": "2026-09-13T17:28:28.581080+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c06",
