@@ -2,7 +2,7 @@
 
 [Open the Start Here index](https://docs.google.com/document/d/1TfSuhI79CTpGRgRYYLrmTI3HI7PYsQTZ4eVS9cubUw0/edit?usp=drivesdk) · [Open the complete library folder](https://drive.google.com/drive/folders/1prsO4zSyh1MZGQKjaWw9o4KLVcolqxPx)
 
-The five editions below contain 15 complete texts and 240 numbered listening parts. Each edition and each book has its own place; versions with matching book titles remain separate.
+The editions below contain 23 complete books and shorter texts, with 381 numbered listening parts. Both Viet versions are listed separately. Each edition and each book has its own place; versions with matching book titles remain separate.
 
 Open a book for the complete text, or open its listening folder and begin with Part 01. Parts preserve the source order and break at paragraph boundaries. They target roughly 3,000 words and stay under 18,000 visible characters, so most are around 20 minutes at 150 words per minute; final parts and actual voices vary.
 
@@ -48,10 +48,30 @@ These are native Google Docs for read-aloud use. Recorded audiobook files have t
 |---|---|---|
 | First Night in Vegas — Experiment | [Open book](https://docs.google.com/document/d/1GmXcH8elOx0y8nAGr3bYBiFHyFWcn8p44J-OuXJF2pg) | [1 numbered parts](https://drive.google.com/drive/folders/1aKak2OCrAcz1mK-OJX0a10tHtRPBMX5i) |
 
-## The Viet Telling
+## The Viet Telling — Bell Street rewrite
 
-The previous four-book edition is available in its [Google Docs folder](https://drive.google.com/drive/folders/10eLOm1a5zyVfR04hj4rj3cwfLMqucK6T). A complete new Bell Street rewrite of all four books is in progress; it will receive a distinct revised reading edition when the manuscripts and copyedit are complete.
+Four completely rewritten novels, 205,636 narrative words, and 70 listening parts. Each book exceeds 50,000 narrative words.
+
+| Book | Complete text | Listening parts |
+|---|---|---|
+| I: The Price of Standing | [Open book](https://docs.google.com/document/d/1Zrl3yx9HDYsR22ua_R2oh9WGFfjfwZwQR2U4r-CNCrA/edit?usp=drivesdk) | [17 numbered parts](https://drive.google.com/drive/folders/1-6WDG4WOfEVlUIJmKFk2AsmEA4ZXWInM) |
+| II: The Man at the Door | [Open book](https://docs.google.com/document/d/12GvCAnpBfHqfpZThzWj4OxoJNgilUUCH7Tlzz2OW-gM/edit?usp=drivesdk) | [18 numbered parts](https://drive.google.com/drive/folders/1CbuLC7XYY3xpquVUfKtPAkZqpYRuP5d4) |
+| III: The River’s Weight | [Open book](https://docs.google.com/document/d/11Gd6PUiPhtZ1mb4lrtEadZP0beNLth2gTlSBVHGwMJs/edit?usp=drivesdk) | [17 numbered parts](https://drive.google.com/drive/folders/1s_YvBVdUv-UI6ft5qV4SvepXhKM3wZM4) |
+| IV: The King Comes Home | [Open book](https://docs.google.com/document/d/10XnX2TYy4Wo97x64bzSz4oJYaNWZjfmsGlO-3kCojok/edit?usp=drivesdk) | [18 numbered parts](https://drive.google.com/drive/folders/1u8ZrnYSfZpB5jI9L6JBG9iLiV9aTAjq4) |
+
+[Play Chapter 1: Money at the Curb](https://drive.google.com/file/d/10nLsHpkwtnQt7hSnej9tuTpoUHuvrmer/view?usp=drivesdk) — 14:19, single voice. The spoken script passed source verification; Vietnamese-name pronunciation has not had a listening review.
+
+## The Viet Telling — first edition archive
+
+The previous four novels remain separate from the Bell Street rewrite.
+
+| Book | Complete text | Listening parts |
+|---|---|---|
+| I: The Price of Standing | [Open first-edition book](https://docs.google.com/document/d/1KzgY1ssymby7EMMGcxqHyW0Gi1b8zHT4iU8b1ssEPa8/edit?usp=drivesdk) | [18 numbered parts](https://drive.google.com/drive/folders/1c2Dd_CgMr4S7NWvBw5y_6zHV8Q2O0Jo_) |
+| II: The Man at the Door | [Open first-edition book](https://docs.google.com/document/d/1JMwZ0KK7TmCp6kpZnFG5ONeAaJNfmBFQM_EJmcLPHlY/edit?usp=drivesdk) | [18 numbered parts](https://drive.google.com/drive/folders/1BCoSmvxWFraDOuNs7_h6N3ICXHpBrJb7) |
+| III: The River’s Weight | [Open first-edition book](https://docs.google.com/document/d/1F64Vs5xoNmkRNHI8KJ-J66sn83pOIoczQqS1GyZbU0w/edit?usp=drivesdk) | [17 numbered parts](https://drive.google.com/drive/folders/1cY1ajXQsG30tKy2IOufcTNjniAcR1x0o) |
+| IV: The King Comes Home | [Open first-edition book](https://docs.google.com/document/d/1y-HpvHB9l6u8xJ8oCDejxf60_sQovTcms-BMWJCirog/edit?usp=drivesdk) | [18 numbered parts](https://drive.google.com/drive/folders/1mGnbROmvemOmGvinTBrD9YGcXc4PkcPd) |
 
 ## Text verification
 
-Imported from the completed source texts at Git commit `4ad3f747a3682b417e2913ed31ab59506f3d7e73`. Each of the 255 native documents was read back and checked against its conversion text. Folder contents were checked for the expected document counts. Duplicate combined manuscripts and unfinished writing checkpoints were not imported as additional books.
+The five earlier reading editions were imported from Git commit `4ad3f747a3682b417e2913ed31ab59506f3d7e73` and passed 255 native text checks. The first Viet edition passed 75. The Bell Street rewrite passed 74, including the final copyedit corrections. All 404 native documents therefore have recorded text checks. Listening folders keep books and versions separate. Sharing permissions are managed by the account owner.
