@@ -231,7 +231,7 @@
       "segments": 55,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T12:30:53.016709+00:00",
+      "updated_at": "2026-09-13T12:31:02.816661+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-10.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -246,7 +246,7 @@
       "id": "b01-c11",
       "book": 1,
       "chapter": 11,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-11",
       "release_tag": "audiobook-book-01",
       "title": "11. Blue Mercy",
@@ -255,7 +255,17 @@
       "narrator": "TICKET",
       "segments": 54,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T12:35:27.614559+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-11.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "99995721a1963e0c69e5e35de31aa379a39372c88b0462910a8339bdf2c12e80",
+        "duration_seconds": 1177.9115,
+        "uploaded_at": "2026-09-13T12:35:34.044658+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c12",
