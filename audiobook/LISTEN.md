@@ -61,7 +61,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 14/24 recordings uploaded
+## Book 3 — 15/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -79,7 +79,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 12. There Was a Road Under Her Song | [MP3 · 13.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-12.mp3) | [Read](chapters/book-03/chapter-12/script.md) |
 | 13. I Drove a Legend Through the Opera | [MP3 · 12.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-13.mp3) | [Read](chapters/book-03/chapter-13/script.md) |
 | 14. A Father Is Not a Prize | [MP3 · 14.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-14.mp3) | [Read](chapters/book-03/chapter-14/script.md) |
-| 15. A Nigga Came Home in His Own Jacket | ready | [Read](chapters/book-03/chapter-15/script.md) |
+| 15. A Nigga Came Home in His Own Jacket | [MP3 · 12.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-15.mp3) | [Read](chapters/book-03/chapter-15/script.md) |
 | 16. The Storm Asked Who Was Driving | ready | [Read](chapters/book-03/chapter-16/script.md) |
 | 17. They Gave Me a Crown I Didn't Enter For | ready | [Read](chapters/book-03/chapter-17/script.md) |
 | 18. The Duke Finally Drove His Own Bullshit | ready | [Read](chapters/book-03/chapter-18/script.md) |

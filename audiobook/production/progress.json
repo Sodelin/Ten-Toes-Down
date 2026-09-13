@@ -1264,7 +1264,7 @@
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:37:57.443752+00:00",
+      "updated_at": "2026-09-13T18:38:07.014274+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-14.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1279,7 +1279,7 @@
       "id": "b03-c15",
       "book": 3,
       "chapter": 15,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-15",
       "release_tag": "audiobook-book-03",
       "title": "15. A Nigga Came Home in His Own Jacket",
@@ -1288,7 +1288,17 @@
       "narrator": "TICKET",
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:44:53.686008+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-15.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "0232f74408529f9dc3c665d4340f89ec96871e43f97d60f853d3d79e79624c9f",
+        "duration_seconds": 757.234625,
+        "uploaded_at": "2026-09-13T18:44:59.569074+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c16",
