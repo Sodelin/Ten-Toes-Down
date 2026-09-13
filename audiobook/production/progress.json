@@ -1339,7 +1339,7 @@
       "segments": 35,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:58:42.185960+00:00",
+      "updated_at": "2026-09-13T18:58:51.725075+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-17.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1354,7 +1354,7 @@
       "id": "b03-c18",
       "book": 3,
       "chapter": 18,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-18",
       "release_tag": "audiobook-book-03",
       "title": "18. The Duke Finally Drove His Own Bullshit",
@@ -1363,7 +1363,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:05:25.598728+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-18.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "2487d8a150a0b957439465227cacfd6c62b5cdc434bbaa318016a088935f5ef6",
+        "duration_seconds": 740.789625,
+        "uploaded_at": "2026-09-13T19:05:31.300856+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c19",
