@@ -1,0 +1,28 @@
+{
+  "role": "AIDEN",
+  "seed": 20260913,
+  "text": "Vegas. After the homecoming. I had been back long enough for these niggas to start charging admission to my problems. Somebody had put angel wings on a photograph of me getting arrested. Cropped out the cuffs, left the officer’s hand on my shoulder. Nigga had a police escort into heaven.",
+  "source": "The Niggatorial Tellings, Book I, chapter 1, paragraphs at source lines 21 and 23; consecutive prose, unchanged words.",
+  "direction": "An adult American male with a deep resonant baritone. Natural African American English conversational cadence, relaxed phrasing, warm chest resonance and a slight grain to the voice. Self-assured, casually amused, talking to a close friend. Understated incredulity at the absurd situation, natural emphasis and little pauses for the joke. Clear words in a close, clean studio recording.",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "model_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+  "versions": {
+    "torch": "2.6.0+cu124",
+    "torchaudio": "2.6.0+cu124",
+    "qwen-tts": "0.1.1",
+    "transformers": "4.57.3",
+    "accelerate": "1.12.0",
+    "soundfile": "0.14.0"
+  },
+  "attention": "sdpa",
+  "dtype": "bfloat16",
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "sample_rate": 24000,
+  "duration_seconds": 15.92,
+  "render_seconds": 30.5,
+  "peak_allocated_gpu_bytes": 4679814656,
+  "reference_sha256": "a8ebab9b6728b86706c35fb2781ddef56d24514e37195066dcdb54382ca2222a",
+  "mp3_sha256": "1f6ad742f715867c8ca207fd942dceaa13bfe8d96f43e8427c5a2ac6328ca457",
+  "mp3_decodes": true,
+  "status": "Generated audition; human performance and spoken-word review pending."
+}

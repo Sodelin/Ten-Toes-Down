@@ -1,0 +1,10 @@
+.venv/
+models/
+cache/
+__pycache__/
+*.pyc
+*.part
+*.raw.wav
+*.cd.wav
+pilot/*.wav
+.venv-qwen/

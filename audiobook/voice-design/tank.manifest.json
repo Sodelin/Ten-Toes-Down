@@ -1,0 +1,28 @@
+{
+  "role": "TANK",
+  "seed": 20260916,
+  "text": "We gathered here because my brother would want these niggas supporting the bar. Aiden was generous. Nigga gave me the shirt off his back.",
+  "source": "The Niggatorial Tellings, Book I, chapter 1, Tank's exact dialogue at lines 149 and 153. Narration and crowd action between the lines omitted only for this isolated casting sample.",
+  "direction": "An adult American man speaking in a very deep, full resonant bass voice. Exceptionally low natural speaking pitch with strong lower-chest resonance, broad warm rounded vowels and a weighty, rich, smooth timbre. Natural African American English conversational cadence, easy connected phrasing and measured delivery. He is relaxed, confident and dryly amused while talking to close friends. His low voice has real body and warmth, with clear consonants and natural conversational emphasis. Close clean studio recording.",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "model_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+  "versions": {
+    "torch": "2.6.0+cu124",
+    "torchaudio": "2.6.0+cu124",
+    "qwen-tts": "0.1.1",
+    "transformers": "4.57.3",
+    "accelerate": "1.12.0",
+    "soundfile": "0.14.0"
+  },
+  "attention": "sdpa",
+  "dtype": "bfloat16",
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "sample_rate": 24000,
+  "duration_seconds": 9.44,
+  "render_seconds": 18.94,
+  "peak_allocated_gpu_bytes": 4480781824,
+  "reference_sha256": "210f9dc804159ebd0ffe15b24dc28284c986bf632d09df03f5ed2814a1640d7b",
+  "mp3_sha256": "05764a1372f743fe43ed4f80cc750f3047b37dc1f7459930e73a1eb7dc870783",
+  "mp3_decodes": true,
+  "status": "Generated audition; human performance and spoken-word review pending."
+}

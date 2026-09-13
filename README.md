@@ -1,5 +1,11 @@
 # Ten Toes Down
 
+## Audiobook pilot
+
+[Listen to the verbatim funeral pilot](audiobook/pilot/funeral-new-voices.mp3) · [Read along](audiobook/pilot/script.md) · [Audio workflow and downloads](audiobook/README.md)
+
+Distinct voices for six characters, including newly designed Aiden and Tank voices. The source text is unchanged and checked before rendering. Includes free local production scripts and reproducible voice references. This is a scene pilot, not the complete six-book recording.
+
 ## The Niggatorial Tellings — complete revised edition
 
 **329,879 words · six books · 130 chapters.** Opens with Aiden's funeral, then moves into the Vegas origin as a flashback. Includes revised and expanded scenes throughout all six books and the complete ending.

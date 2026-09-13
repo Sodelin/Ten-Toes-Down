@@ -1,0 +1,338 @@
+[
+  {
+    "id": "001",
+    "speaker": "AIDEN",
+    "text": "Nigga, it’s my motherfucking funeral.",
+    "pause_ms": 250
+  },
+  {
+    "id": "002",
+    "speaker": "AIDEN",
+    "text": "The man taking tickets didn’t look up.",
+    "pause_ms": 120
+  },
+  {
+    "id": "003",
+    "speaker": "TICKET",
+    "text": "Forty dollars.",
+    "pause_ms": 240
+  },
+  {
+    "id": "004",
+    "speaker": "AIDEN",
+    "text": "I’m Aiden. He looked at me. Looked at the six-foot photograph beside the door. Looked back.",
+    "pause_ms": 180
+  },
+  {
+    "id": "005",
+    "speaker": "TICKET",
+    "text": "You look better in the picture.",
+    "pause_ms": 300
+  },
+  {
+    "id": "006",
+    "speaker": "AIDEN",
+    "text": "Nigga, I’m alive.",
+    "pause_ms": 120
+  },
+  {
+    "id": "007",
+    "speaker": "TICKET",
+    "text": "Then you can pay.",
+    "pause_ms": 450
+  },
+  {
+    "id": "008",
+    "speaker": "AIDEN",
+    "text": "Vegas. After the homecoming. I had been back long enough for these niggas to start charging admission to my problems. Somebody had put angel wings on a photograph of me getting arrested. Cropped out the cuffs, left the officer’s hand on my shoulder. Nigga had a police escort into heaven. I called Tank.",
+    "pause_ms": 200
+  },
+  {
+    "id": "009",
+    "speaker": "AIDEN",
+    "text": "Why there a cover charge at my funeral?",
+    "pause_ms": 100
+  },
+  {
+    "id": "010",
+    "speaker": "TANK",
+    "text": "The shrimp was expensive.",
+    "pause_ms": 180
+  },
+  {
+    "id": "011",
+    "speaker": "AIDEN",
+    "text": "Why do I have shrimp?",
+    "pause_ms": 100
+  },
+  {
+    "id": "012",
+    "speaker": "TANK",
+    "text": "You died successful.",
+    "pause_ms": 330
+  },
+  {
+    "id": "013",
+    "speaker": "AIDEN",
+    "text": "I heard chewing. Nigga, are you eating?",
+    "pause_ms": 100
+  },
+  {
+    "id": "014",
+    "speaker": "TANK",
+    "text": "Grieving.",
+    "pause_ms": 500
+  },
+  {
+    "id": "015",
+    "speaker": "AIDEN",
+    "text": "I paid the forty. The nigga stamped DECEASED on my wrist.",
+    "pause_ms": 150
+  },
+  {
+    "id": "016",
+    "speaker": "TICKET",
+    "text": "That gets you one well drink.",
+    "pause_ms": 100
+  },
+  {
+    "id": "017",
+    "speaker": "AIDEN",
+    "text": "One? Nigga, the sign says two-drink minimum.",
+    "pause_ms": 150
+  },
+  {
+    "id": "018",
+    "speaker": "TICKET",
+    "text": "Second one’s your responsibility.",
+    "pause_ms": 350
+  },
+  {
+    "id": "019",
+    "speaker": "AIDEN",
+    "text": "A nigga behind me shook his head.",
+    "pause_ms": 120
+  },
+  {
+    "id": "020",
+    "speaker": "GUEST",
+    "text": "Hold up. Ain’t that the deceased?",
+    "pause_ms": 120
+  },
+  {
+    "id": "021",
+    "speaker": "AIDEN",
+    "text": "Ticket man looked at my stamp.",
+    "pause_ms": 120
+  },
+  {
+    "id": "022",
+    "speaker": "TICKET",
+    "text": "Paid deceased.",
+    "pause_ms": 330
+  },
+  {
+    "id": "023",
+    "speaker": "AIDEN",
+    "text": "The nigga pulled out his phone.",
+    "pause_ms": 100
+  },
+  {
+    "id": "024",
+    "speaker": "GUEST",
+    "text": "Can I get a picture?",
+    "pause_ms": 100
+  },
+  {
+    "id": "025",
+    "speaker": "AIDEN",
+    "text": "Of me alive?",
+    "pause_ms": 100
+  },
+  {
+    "id": "026",
+    "speaker": "GUEST",
+    "text": "People gonna think I knew you personally.",
+    "pause_ms": 120
+  },
+  {
+    "id": "027",
+    "speaker": "AIDEN",
+    "text": "Nigga, you meeting me personally.",
+    "pause_ms": 120
+  },
+  {
+    "id": "028",
+    "speaker": "GUEST",
+    "text": "Yeah, but the funeral picture hit different.",
+    "pause_ms": 350
+  },
+  {
+    "id": "029",
+    "speaker": "AIDEN",
+    "text": "I kept walking.",
+    "pause_ms": 650
+  },
+  {
+    "id": "030",
+    "speaker": "AIDEN",
+    "text": "Shawna found me beside the chocolate fountain, turning my memorial program upside down.",
+    "pause_ms": 150
+  },
+  {
+    "id": "031",
+    "speaker": "AIDEN",
+    "text": "Why this say I’m survived by eleven children?",
+    "pause_ms": 100
+  },
+  {
+    "id": "032",
+    "speaker": "SHAWNA",
+    "text": "Those are sponsors.",
+    "pause_ms": 160
+  },
+  {
+    "id": "033",
+    "speaker": "AIDEN",
+    "text": "Nigga, one of them’s Jeremiah.",
+    "pause_ms": 100
+  },
+  {
+    "id": "034",
+    "speaker": "SHAWNA",
+    "text": "Jeremiah’s Collision Repair.",
+    "pause_ms": 360
+  },
+  {
+    "id": "035",
+    "speaker": "AIDEN",
+    "text": "My wife looked beautiful in black. Slit up one leg, diamond at her throat, hat tilted like she had already forgiven herself. You enjoying widowhood?",
+    "pause_ms": 120
+  },
+  {
+    "id": "036",
+    "speaker": "SHAWNA",
+    "text": "The parking is excellent.",
+    "pause_ms": 350
+  },
+  {
+    "id": "037",
+    "speaker": "AIDEN",
+    "text": "I pulled her close. She put two fingers against my mouth.",
+    "pause_ms": 100
+  },
+  {
+    "id": "038",
+    "speaker": "SHAWNA",
+    "text": "Eight minutes. Kitchen. Stay there until we get the case.",
+    "pause_ms": 180
+  },
+  {
+    "id": "039",
+    "speaker": "AIDEN",
+    "text": "Nigga, I could take it right now.",
+    "pause_ms": 100
+  },
+  {
+    "id": "040",
+    "speaker": "SHAWNA",
+    "text": "And Silas’s men could start shooting into everybody who paid to eat shrimp.",
+    "pause_ms": 160
+  },
+  {
+    "id": "041",
+    "speaker": "AIDEN",
+    "text": "Apparently excellent shrimp.",
+    "pause_ms": 180
+  },
+  {
+    "id": "042",
+    "speaker": "SHAWNA",
+    "text": "Aiden.",
+    "pause_ms": 300
+  },
+  {
+    "id": "043",
+    "speaker": "AIDEN",
+    "text": "I straightened up. Mercedes stood beside the stage in a red suit, thumb pressed into her palm. She’d been doing that all week. Silas Gold had stolen the original recordings of her first album. The nigga had locked the drive in a silver case and invited buyers to bid. She could sing every song again. She couldn’t rebuild the demolished studio, recall every musician to the same night, or make her voice crack exactly where it had in the last chorus. She had left that crack in. Said it sounded like her.",
+    "pause_ms": 450
+  },
+  {
+    "id": "044",
+    "speaker": "AIDEN",
+    "text": "Silas lived behind bulletproof glass and sent other niggas out to be unpleasant. Tell him Aiden was dead, though, and suddenly the motherfucker wanted fresh air. Shawna had promised a private auction after the memorial. My watch, my cars, the collection. Silas would bring the recordings so they could settle everything together. Mercedes would inspect the case backstage. Porsche would switch it. I would stay in the fucking kitchen.",
+    "pause_ms": 420
+  },
+  {
+    "id": "045",
+    "speaker": "AIDEN",
+    "text": "Mercedes caught me looking and came to fix my collar.",
+    "pause_ms": 120
+  },
+  {
+    "id": "046",
+    "speaker": "MERCEDES",
+    "text": "Nigga, don’t do the thing.",
+    "pause_ms": 160
+  },
+  {
+    "id": "047",
+    "speaker": "AIDEN",
+    "text": "Which thing?",
+    "pause_ms": 150
+  },
+  {
+    "id": "048",
+    "speaker": "AIDEN",
+    "text": "She looked around my funeral.",
+    "pause_ms": 100
+  },
+  {
+    "id": "049",
+    "speaker": "MERCEDES",
+    "text": "The thing where this becomes about you.",
+    "pause_ms": 180
+  },
+  {
+    "id": "050",
+    "speaker": "AIDEN",
+    "text": "My photograph is six feet tall.",
+    "pause_ms": 100
+  },
+  {
+    "id": "051",
+    "speaker": "MERCEDES",
+    "text": "Exactly. The nigga has enough publicity.",
+    "pause_ms": 320
+  },
+  {
+    "id": "052",
+    "speaker": "AIDEN",
+    "text": "I stopped smiling. You’ll get your music.",
+    "pause_ms": 150
+  },
+  {
+    "id": "053",
+    "speaker": "MERCEDES",
+    "text": "I know. I want to enjoy getting it.",
+    "pause_ms": 280
+  },
+  {
+    "id": "054",
+    "speaker": "AIDEN",
+    "text": "She squeezed my shoulder and went back to the stage. Shawna kissed me.",
+    "pause_ms": 140
+  },
+  {
+    "id": "055",
+    "speaker": "SHAWNA",
+    "text": "Kitchen.",
+    "pause_ms": 240
+  },
+  {
+    "id": "056",
+    "speaker": "AIDEN",
+    "text": "Nigga, y’all got one word for me tonight. She turned me toward the door.",
+    "pause_ms": 1000
+  }
+]

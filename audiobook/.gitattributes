@@ -1,0 +1,4 @@
+# Preserve exact bytes for hash-checked source and render manifests on Windows.
+* -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+*.mp3 binary
+*.wav binary

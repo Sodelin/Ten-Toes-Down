@@ -1,0 +1,22 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": "Book I: Blood Money and Blue Diamonds",
+  "chapter": "1. The Funeral Had a Two-Drink Minimum",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-01.md",
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "source_git_blob_oid": "cad33a665fa3c85249abe8ff013ed1d55041361e",
+  "source_hash_basis": "Exact Git blob bytes from the pinned commit; no newline normalization.",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 5,
+    "end_line": 141,
+    "line_bounds": "one-based, inclusive",
+    "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-01.md#L5-L141",
+    "sha256": "81f89faa7073d0476b90d30a5c91d630426f0069b83f53f5fdc84d339003e517",
+    "hash_basis": "Exact selected source-line bytes, including their original line endings."
+  },
+  "spoken_text_policy": "Verbatim. Only printed curly double quotation marks and the standalone *** scene divider are omitted; whitespace is joined for speech. No additions, rewrites, omissions of words, or tts_text overrides."
+}

@@ -1,0 +1,134 @@
+{
+  "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+  "metadata_url": "https://huggingface.co/api/models/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/revision/5ecdb67327fd37bb2e042aab12ff7391903235d3?blobs=true",
+  "verified_at_utc": "2026-09-13T09:57:45.187198+00:00",
+  "selected_extensions": [
+    ".json",
+    ".safetensors",
+    ".txt"
+  ],
+  "files": [
+    {
+      "path": "config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/config.json?download=true",
+      "bytes": 4421,
+      "sha256": "aecd2cc4c1fe9edef1cb7ca7c401685a43879ad43f3f9e883f1c6760b61731e0",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "2c2c027c574a85c0d5a5d48e3cfed1a8a051ff9d"
+      },
+      "reused": false
+    },
+    {
+      "path": "generation_config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/generation_config.json?download=true",
+      "bytes": 245,
+      "sha256": "f1b90b4513f3b34c62851049e2492d7b4c5940daf1276f89c82b8ef04127f3aa",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "1872b16d4535564abf2db5d6debe6cddd82b7f2e"
+      },
+      "reused": false
+    },
+    {
+      "path": "merges.txt",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/merges.txt?download=true",
+      "bytes": 1671839,
+      "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "20024bfe7c83998e9aeaf98a0cd6a2ce6306c2f0"
+      },
+      "reused": false
+    },
+    {
+      "path": "model.safetensors",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/model.safetensors?download=true",
+      "bytes": 3833402552,
+      "sha256": "391e8db219f292c515297cdceeb43e4eae67cdde35fa57e79a6a8a532fca0522",
+      "verification": {
+        "algorithm": "sha256",
+        "expected": "391e8db219f292c515297cdceeb43e4eae67cdde35fa57e79a6a8a532fca0522"
+      },
+      "reused": false
+    },
+    {
+      "path": "preprocessor_config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/preprocessor_config.json?download=true",
+      "bytes": 127,
+      "sha256": "efdde1022ea9d76928bf7a9cd53139138f5ba2e466e837f08f6105ab1af1c119",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "0525dd953bb9241912f7147666f0d535165d5d4f"
+      },
+      "reused": false
+    },
+    {
+      "path": "speech_tokenizer/config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/speech_tokenizer/config.json?download=true",
+      "bytes": 2336,
+      "sha256": "ee65bb901c876664ab8707c487157aa1a6ee57c65969b28fb5ec9dc211e68167",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "06cc8dc4c5ec8a1929086b71b98c313020d9268b"
+      },
+      "reused": false
+    },
+    {
+      "path": "speech_tokenizer/configuration.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/speech_tokenizer/configuration.json?download=true",
+      "bytes": 76,
+      "sha256": "6bc26d64eb5024b4d1dab5a52371958b429256d6c9d59787f1f5294a54e0cebd",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "ab58e2eaf53cd14a1a2a7527d9261ceea93a24cd"
+      },
+      "reused": false
+    },
+    {
+      "path": "speech_tokenizer/model.safetensors",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/speech_tokenizer/model.safetensors?download=true",
+      "bytes": 682293092,
+      "sha256": "836b7b357f5ea43e889936a3709af68dfe3751881acefe4ecf0dbd30ba571258",
+      "verification": {
+        "algorithm": "sha256",
+        "expected": "836b7b357f5ea43e889936a3709af68dfe3751881acefe4ecf0dbd30ba571258"
+      },
+      "reused": false
+    },
+    {
+      "path": "speech_tokenizer/preprocessor_config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/speech_tokenizer/preprocessor_config.json?download=true",
+      "bytes": 234,
+      "sha256": "fcb3805e597e786d4067706e602f6688524640f8d3396790e2e09b5942fcbdfb",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "ba40914f4f49ab98a8ca545d4892ef7291a39592"
+      },
+      "reused": false
+    },
+    {
+      "path": "tokenizer_config.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/tokenizer_config.json?download=true",
+      "bytes": 7344,
+      "sha256": "dc3c31c3bdaedd5016382bb3cbe07323026775ad51f5a4fb564505992ae4a670",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "6ff9fd60cc623bb54bbd603cbd418c97a11528d7"
+      },
+      "reused": false
+    },
+    {
+      "path": "vocab.json",
+      "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign/resolve/5ecdb67327fd37bb2e042aab12ff7391903235d3/vocab.json?download=true",
+      "bytes": 2776833,
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+      "verification": {
+        "algorithm": "git-blob-sha1",
+        "expected": "4783fe10ac3adce15ac8f358ef5462739852c569"
+      },
+      "reused": false
+    }
+  ]
+}

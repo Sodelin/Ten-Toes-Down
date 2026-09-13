@@ -1,0 +1,8 @@
+{
+  "AIDEN": {"voice": "am_fenrir", "speed": 1.03, "direction": "Conversational confidence; same voice for narration and dialogue."},
+  "TICKET": {"voice": "am_michael", "speed": 0.95, "direction": "Dry, unhurried service-counter delivery."},
+  "TANK": {"voice": "am_puck", "speed": 0.96, "direction": "Warm, confident, completely sincere about ridiculous explanations."},
+  "GUEST": {"voice": "am_echo", "speed": 1.05, "direction": "Eager, opportunistic guest."},
+  "SHAWNA": {"voice": "af_heart", "speed": 1.00, "direction": "Clear, confident, affectionate, in charge."},
+  "MERCEDES": {"voice": "af_bella", "speed": 1.00, "direction": "Warm and direct; distinct from Shawna."}
+}
