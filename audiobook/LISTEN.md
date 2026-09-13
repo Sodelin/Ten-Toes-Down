@@ -31,7 +31,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 5/20 recordings uploaded
+## Book 2 — 6/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -40,7 +40,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 3. You Can't Outrun a Nigga with a Siren | [MP3 · 21.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-03.mp3) | [Read](chapters/book-02/chapter-03/script.md) |
 | 4. First Place Was Wherever I Parked | [MP3 · 21.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-04.mp3) | [Read](chapters/book-02/chapter-04/script.md) |
 | 5. The Party Was in My Honor, So the Gunfight Was Too | [MP3 · 26.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-05.mp3) | [Read](chapters/book-02/chapter-05/script.md) |
-| 6. The Basement Found Out Who Lived Upstairs | ready | [Read](chapters/book-02/chapter-06/script.md) |
+| 6. The Basement Found Out Who Lived Upstairs | [MP3 · 26.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-06.mp3) | [Read](chapters/book-02/chapter-06/script.md) |
 | 7. Forty Floors of Niggas Finding Out | ready | [Read](chapters/book-02/chapter-07/script.md) |
 | 8. A Nigga Can't Be Late to Yesterday | ready | [Read](chapters/book-02/chapter-08/script.md) |
 | 9. The Wrong Men Saw the Blue Lights | ready | [Read](chapters/book-02/chapter-09/script.md) |
