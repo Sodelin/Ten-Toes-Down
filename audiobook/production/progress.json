@@ -514,7 +514,7 @@
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T14:22:58.186477+00:00",
+      "updated_at": "2026-09-13T14:23:08.347453+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-04.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -529,7 +529,7 @@
       "id": "b02-c05",
       "book": 2,
       "chapter": 5,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-05",
       "release_tag": "audiobook-book-02",
       "title": "5. The Party Was in My Honor, So the Gunfight Was Too",
@@ -538,7 +538,17 @@
       "narrator": "TICKET",
       "segments": 67,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T14:35:54.341170+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-05.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "62fa6d746868bb71488c5ff6038c26f5b3d8bfdb673629bc4941282f87100735",
+        "duration_seconds": 1568.8767083333332,
+        "uploaded_at": "2026-09-13T14:36:01.570952+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c06",
