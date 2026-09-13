@@ -6,6 +6,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 1 — 17/17 recordings uploaded
 
+[Complete Book 1 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The Funeral Had a Two-Drink Minimum | [MP3 · 14.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-01.mp3) | [Read](chapters/book-01/chapter-01/script.md) |

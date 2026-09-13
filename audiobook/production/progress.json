@@ -414,7 +414,7 @@
       "segments": 62,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T13:25:06.686136+00:00",
+      "updated_at": "2026-09-13T13:25:17.117080+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-17.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -2121,5 +2121,17 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required."
     }
   ],
-  "production_mode": "single narrator: TICKET / am_michael / speed 0.95"
+  "production_mode": "single narrator: TICKET / am_michael / speed 0.95",
+  "books": {
+    "book-01": {
+      "status": "published",
+      "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01.m4b",
+      "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+      "sha256": "002aa960223dffa0a61ac0b78cc407180557e6e32a56c920f936e7d535dd784d",
+      "size": 275082717,
+      "duration_seconds": 21475.613125,
+      "sample_rate": 24000,
+      "chapters": 17
+    }
+  }
 }
