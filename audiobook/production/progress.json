@@ -64,7 +64,7 @@
       "segments": 63,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T11:38:16.600235+00:00",
+      "updated_at": "2026-09-13T11:39:15.603279+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-03.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -79,7 +79,7 @@
       "id": "b01-c04",
       "book": 1,
       "chapter": 4,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-04",
       "release_tag": "audiobook-book-01",
       "title": "4. The Palace of the Woman I Just Met",
@@ -88,7 +88,17 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 66,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "narrator": "TICKET"
+      "narrator": "TICKET",
+      "updated_at": "2026-09-13T11:44:22.523461+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-04.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "cb38cb6c4e14b89dfe791ae8e889da9f4b46c18a321e5f36b7dea7d0eba660bc",
+        "duration_seconds": 1392.3939166666667,
+        "uploaded_at": "2026-09-13T11:44:54.146431+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c05",

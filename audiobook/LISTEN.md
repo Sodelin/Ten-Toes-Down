@@ -4,14 +4,14 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 3/17 recordings uploaded
+## Book 1 — 4/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The Funeral Had a Two-Drink Minimum | [MP3 · 14.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-01.mp3) | [Read](chapters/book-01/chapter-01/script.md) |
 | 2. First Night in Vegas | [MP3 · 31.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-02.mp3) | [Read](chapters/book-01/chapter-02/script.md) |
 | 3. A King with a Hole in Him | [MP3 · 22.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-03.mp3) | [Read](chapters/book-01/chapter-03/script.md) |
-| 4. The Palace of the Woman I Just Met | ready | [Read](chapters/book-01/chapter-04/script.md) |
+| 4. The Palace of the Woman I Just Met | [MP3 · 23.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-04.mp3) | [Read](chapters/book-01/chapter-04/script.md) |
 | 5. Flowers for the Man I Killed | ready | [Read](chapters/book-01/chapter-05/script.md) |
 | 6. Forty Million Reasons to Die | ready | [Read](chapters/book-01/chapter-06/script.md) |
 | 7. The Man Who Cut the Heart Out of a Mountain | ready | [Read](chapters/book-01/chapter-07/script.md) |
