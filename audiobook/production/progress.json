@@ -1189,7 +1189,7 @@
       "segments": 37,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:16:10.463442+00:00",
+      "updated_at": "2026-09-13T18:16:20.544310+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-11.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1204,7 +1204,7 @@
       "id": "b03-c12",
       "book": 3,
       "chapter": 12,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-12",
       "release_tag": "audiobook-book-03",
       "title": "12. There Was a Road Under Her Song",
@@ -1213,7 +1213,17 @@
       "narrator": "TICKET",
       "segments": 36,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:23:30.458406+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-12.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "dfb28cc4d108b3e0a8de51cb99356494accaf9de27a9900e470b65819de7d5a9",
+        "duration_seconds": 812.4284583333333,
+        "uploaded_at": "2026-09-13T18:23:36.643111+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c13",
