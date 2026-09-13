@@ -31,7 +31,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 12/20 recordings uploaded
+## Book 2 — 13/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -47,7 +47,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 10. My Wife Was Already Inside | [MP3 · 12.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-10.mp3) | [Read](chapters/book-02/chapter-10/script.md) |
 | 11. The Colonel Had Never Been That Embarrassed | [MP3 · 13.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-11.mp3) | [Read](chapters/book-02/chapter-11/script.md) |
 | 12. The Train Had Eighty-Six Reasons to Move | [MP3 · 10.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-12.mp3) | [Read](chapters/book-02/chapter-12/script.md) |
-| 13. The Door Opened Both Ways | ready | [Read](chapters/book-02/chapter-13/script.md) |
+| 13. The Door Opened Both Ways | [MP3 · 12.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-13.mp3) | [Read](chapters/book-02/chapter-13/script.md) |
 | 14. School Was Falling and I Still Had Perfect Attendance | ready | [Read](chapters/book-02/chapter-14/script.md) |
 | 15. Every Cop in the Sky Wanted My Shift | ready | [Read](chapters/book-02/chapter-15/script.md) |
 | 16. The Tower Was Scared of My Wife | ready | [Read](chapters/book-02/chapter-16/script.md) |

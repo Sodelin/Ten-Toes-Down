@@ -714,7 +714,7 @@
       "segments": 29,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T15:38:13.579201+00:00",
+      "updated_at": "2026-09-13T15:38:22.727614+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -729,7 +729,7 @@
       "id": "b02-c13",
       "book": 2,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-13",
       "release_tag": "audiobook-book-02",
       "title": "13. The Door Opened Both Ways",
@@ -738,7 +738,17 @@
       "narrator": "TICKET",
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T15:44:21.757261+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "4a3f09e0aa96c6c19d834a4ae04fa4a8c37530b2260b89a03503bf6e1cf14193",
+        "duration_seconds": 745.230875,
+        "uploaded_at": "2026-09-13T15:44:27.636880+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c14",
