@@ -95,11 +95,11 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 0/22 recordings uploaded
+## Book 4 — 1/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
-| 1. The City Pulled Me Over to Thank Me | ready | [Read](chapters/book-04/chapter-01/script.md) |
+| 1. The City Pulled Me Over to Thank Me | [MP3 · 19.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-01.mp3) | [Read](chapters/book-04/chapter-01/script.md) |
 | 2. The Heavyweight Champion of His Wife | ready | [Read](chapters/book-04/chapter-02/script.md) |
 | 3. Get Your Warships Off My Beach | ready | [Read](chapters/book-04/chapter-03/script.md) |
 | 4. Every Cop in the World Wanted My Autograph | ready | [Read](chapters/book-04/chapter-04/script.md) |
@@ -121,6 +121,9 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 20. The Last Thing the General Learned | ready | [Read](chapters/book-04/chapter-20/script.md) |
 | 21. Nigga, We Found the Other Rich | ready | [Read](chapters/book-04/chapter-21/script.md) |
 | 22. A Nigga Leaves with More Than He Brought | ready | [Read](chapters/book-04/chapter-22/script.md) |
+
+[Book 4 playlist](books/book-04.m3u)
+
 
 ## Book 5 — 0/23 recordings uploaded
 
