@@ -61,7 +61,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 6/24 recordings uploaded
+## Book 3 — 7/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -71,7 +71,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 4. I Arrested the Finish Line | [MP3 · 18.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-04.mp3) | [Read](chapters/book-03/chapter-04/script.md) |
 | 5. The Last Lap Belongs to the Passenger | [MP3 · 15.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-05.mp3) | [Read](chapters/book-03/chapter-05/script.md) |
 | 6. The Yacht with a Ballroom in Its Mouth | [MP3 · 15.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-06.mp3) | [Read](chapters/book-03/chapter-06/script.md) |
-| 7. Everybody Get in the Beautiful Car | ready | [Read](chapters/book-03/chapter-07/script.md) |
+| 7. Everybody Get in the Beautiful Car | [MP3 · 14.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-07.mp3) | [Read](chapters/book-03/chapter-07/script.md) |
 | 8. My Wife Knows the Way | ready | [Read](chapters/book-03/chapter-08/script.md) |
 | 9. I Put My Badge on a Speedboat | ready | [Read](chapters/book-03/chapter-09/script.md) |
 | 10. The Strongest Man in the Room Met Me | ready | [Read](chapters/book-03/chapter-10/script.md) |

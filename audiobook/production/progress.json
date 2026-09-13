@@ -1064,7 +1064,7 @@
       "segments": 41,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:36:41.202078+00:00",
+      "updated_at": "2026-09-13T17:36:58.465856+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-06.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1079,7 +1079,7 @@
       "id": "b03-c07",
       "book": 3,
       "chapter": 7,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-07",
       "release_tag": "audiobook-book-03",
       "title": "7. Everybody Get in the Beautiful Car",
@@ -1088,7 +1088,17 @@
       "narrator": "TICKET",
       "segments": 41,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:44:55.436655+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-07.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "316d6f855c56a73f800592b2f12fa73fb6682cf36c3562fb993a1a81122bf185",
+        "duration_seconds": 896.81075,
+        "uploaded_at": "2026-09-13T17:45:01.766338+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c08",
