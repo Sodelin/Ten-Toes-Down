@@ -1314,7 +1314,7 @@
       "segments": 35,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:51:58.851676+00:00",
+      "updated_at": "2026-09-13T18:52:08.239397+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-16.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1329,7 +1329,7 @@
       "id": "b03-c17",
       "book": 3,
       "chapter": 17,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-17",
       "release_tag": "audiobook-book-03",
       "title": "17. They Gave Me a Crown I Didn't Enter For",
@@ -1338,7 +1338,17 @@
       "narrator": "TICKET",
       "segments": 35,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:58:42.185960+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-17.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "005f483dc7422c90d07a911d176bbf4927cfdb4b5437aff97ade6cf850f9ea2a",
+        "duration_seconds": 740.9494583333334,
+        "uploaded_at": "2026-09-13T18:58:48.072469+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c18",
