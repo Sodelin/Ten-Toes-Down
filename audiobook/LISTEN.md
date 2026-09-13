@@ -4,7 +4,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 7/17 recordings uploaded
+## Book 1 — 8/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -16,7 +16,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 6. Forty Million Reasons to Die | failed | [Read](chapters/book-01/chapter-06/script.md) |
 | 7. The Man Who Cut the Heart Out of a Mountain | [MP3 · 21.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-07.mp3) | [Read](chapters/book-01/chapter-07/script.md) |
 | 8. Let Him Think You Love Him | [MP3 · 21.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-08.mp3) | [Read](chapters/book-01/chapter-08/script.md) |
-| 9. Our Valedictorian Has a Gun | ready | [Read](chapters/book-01/chapter-09/script.md) |
+| 9. Our Valedictorian Has a Gun | [MP3 · 23.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-09.mp3) | [Read](chapters/book-01/chapter-09/script.md) |
 | 10. Forty Million and One Woman | ready | [Read](chapters/book-01/chapter-10/script.md) |
 | 11. Blue Mercy | ready | [Read](chapters/book-01/chapter-11/script.md) |
 | 12. The Money at the Bottom | ready | [Read](chapters/book-01/chapter-12/script.md) |
