@@ -31,11 +31,11 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 0/20 recordings uploaded
+## Book 2 — 1/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
-| 1. They Put My Parking Space in Heaven | ready | [Read](chapters/book-02/chapter-01/script.md) |
+| 1. They Put My Parking Space in Heaven | [MP3 · 22.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-01.mp3) | [Read](chapters/book-02/chapter-01/script.md) |
 | 2. My Superpower Was Being That Nigga | ready | [Read](chapters/book-02/chapter-02/script.md) |
 | 3. You Can't Outrun a Nigga with a Siren | ready | [Read](chapters/book-02/chapter-03/script.md) |
 | 4. First Place Was Wherever I Parked | ready | [Read](chapters/book-02/chapter-04/script.md) |
@@ -55,6 +55,9 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 18. The Sky Stayed Up Because We Did | ready | [Read](chapters/book-02/chapter-18/script.md) |
 | 19. Valedictorian Again, Because Niggas Keep Graduating Me | ready | [Read](chapters/book-02/chapter-19/script.md) |
 | 20. A Nigga This Great Needed an Ocean | ready | [Read](chapters/book-02/chapter-20/script.md) |
+
+[Book 2 playlist](books/book-02.m3u)
+
 
 ## Book 3 — 0/24 recordings uploaded
 
