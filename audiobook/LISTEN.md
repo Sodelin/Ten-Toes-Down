@@ -31,12 +31,12 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 1/20 recordings uploaded
+## Book 2 — 2/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. They Put My Parking Space in Heaven | [MP3 · 22.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-01.mp3) | [Read](chapters/book-02/chapter-01/script.md) |
-| 2. My Superpower Was Being That Nigga | ready | [Read](chapters/book-02/chapter-02/script.md) |
+| 2. My Superpower Was Being That Nigga | [MP3 · 22.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-02.mp3) | [Read](chapters/book-02/chapter-02/script.md) |
 | 3. You Can't Outrun a Nigga with a Siren | ready | [Read](chapters/book-02/chapter-03/script.md) |
 | 4. First Place Was Wherever I Parked | ready | [Read](chapters/book-02/chapter-04/script.md) |
 | 5. The Party Was in My Honor, So the Gunfight Was Too | ready | [Read](chapters/book-02/chapter-05/script.md) |

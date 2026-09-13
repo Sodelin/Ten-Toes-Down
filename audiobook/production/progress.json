@@ -439,7 +439,7 @@
       "segments": 59,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T13:50:47.303357+00:00",
+      "updated_at": "2026-09-13T13:50:58.381220+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-01.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -454,7 +454,7 @@
       "id": "b02-c02",
       "book": 2,
       "chapter": 2,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-02",
       "release_tag": "audiobook-book-02",
       "title": "2. My Superpower Was Being That Nigga",
@@ -463,7 +463,17 @@
       "narrator": "TICKET",
       "segments": 59,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T14:01:43.052571+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-02.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "cc6e31de43c748e56c38a8abb2bf49774940e40a485530572f63ed6b54c062d0",
+        "duration_seconds": 1344.98075,
+        "uploaded_at": "2026-09-13T14:01:50.041572+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c03",
