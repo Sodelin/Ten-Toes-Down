@@ -4,7 +4,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 15/17 recordings uploaded
+## Book 1 — 16/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -23,7 +23,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 13. Everybody Bring Your Heart | [MP3 · 18.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-13.mp3) | [Read](chapters/book-01/chapter-13/script.md) |
 | 14. What She Told Me After | [MP3 · 18.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-14.mp3) | [Read](chapters/book-01/chapter-14/script.md) |
 | 15. Ten Toes, Thirty Engines | [MP3 · 20.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-15.mp3) | [Read](chapters/book-01/chapter-15/script.md) |
-| 16. The Last King of Vegas | ready | [Read](chapters/book-01/chapter-16/script.md) |
+| 16. The Last King of Vegas | [MP3 · 20.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-16.mp3) | [Read](chapters/book-01/chapter-16/script.md) |
 | 17. Ten Toes Down Forever | ready | [Read](chapters/book-01/chapter-17/script.md) |
 
 [Book 1 playlist](books/book-01.m3u)
