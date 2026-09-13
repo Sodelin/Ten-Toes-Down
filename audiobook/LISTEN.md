@@ -4,7 +4,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 12/17 recordings uploaded
+## Book 1 — 13/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -20,7 +20,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 10. Forty Million and One Woman | [MP3 · 19.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-10.mp3) | [Read](chapters/book-01/chapter-10/script.md) |
 | 11. Blue Mercy | [MP3 · 19.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-11.mp3) | [Read](chapters/book-01/chapter-11/script.md) |
 | 12. The Money at the Bottom | [MP3 · 19.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-12.mp3) | [Read](chapters/book-01/chapter-12/script.md) |
-| 13. Everybody Bring Your Heart | ready | [Read](chapters/book-01/chapter-13/script.md) |
+| 13. Everybody Bring Your Heart | [MP3 · 18.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-13.mp3) | [Read](chapters/book-01/chapter-13/script.md) |
 | 14. What She Told Me After | ready | [Read](chapters/book-01/chapter-14/script.md) |
 | 15. Ten Toes, Thirty Engines | ready | [Read](chapters/book-01/chapter-15/script.md) |
 | 16. The Last King of Vegas | ready | [Read](chapters/book-01/chapter-16/script.md) |

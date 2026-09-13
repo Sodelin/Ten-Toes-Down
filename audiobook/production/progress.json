@@ -139,7 +139,7 @@
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T11:59:53.628488+00:00",
+      "updated_at": "2026-09-13T12:40:13.306893+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-06.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -304,7 +304,7 @@
       "id": "b01-c13",
       "book": 1,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-13",
       "release_tag": "audiobook-book-01",
       "title": "13. Everybody Bring Your Heart",
@@ -313,7 +313,17 @@
       "narrator": "TICKET",
       "segments": 53,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T12:44:53.150233+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "1c36bfc3bcd59736f5012f3919f8315af13159ec020209e418ad49006417807e",
+        "duration_seconds": 1099.6379583333332,
+        "uploaded_at": "2026-09-13T12:45:04.707902+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c14",
