@@ -38,7 +38,7 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 92,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "updated_at": "2026-09-13T11:32:24.567639+00:00",
+      "updated_at": "2026-09-13T11:33:26.803923+00:00",
       "narrator": "TICKET",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-02.mp3",
@@ -54,7 +54,7 @@
       "id": "b01-c03",
       "book": 1,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-03",
       "release_tag": "audiobook-book-01",
       "title": "3. A King with a Hole in Him",
@@ -63,7 +63,17 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 63,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "narrator": "TICKET"
+      "narrator": "TICKET",
+      "updated_at": "2026-09-13T11:38:16.600235+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "c7e1e5c5cc642f993613fbad52781119e0f903be33ab7aaf513fa4f91c9533c1",
+        "duration_seconds": 1319.2448333333334,
+        "uploaded_at": "2026-09-13T11:38:59.993410+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c04",
