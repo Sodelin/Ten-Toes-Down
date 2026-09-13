@@ -1114,7 +1114,7 @@
       "segments": 44,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:53:53.120453+00:00",
+      "updated_at": "2026-09-13T17:54:03.007127+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-08.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1129,7 +1129,7 @@
       "id": "b03-c09",
       "book": 3,
       "chapter": 9,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-09",
       "release_tag": "audiobook-book-03",
       "title": "9. I Put My Badge on a Speedboat",
@@ -1138,7 +1138,17 @@
       "narrator": "TICKET",
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:01:42.843159+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-09.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "5fa90966bff04664a59069b4f2a09decd6910af07c66f2c5363e859a1104c949",
+        "duration_seconds": 873.706625,
+        "uploaded_at": "2026-09-13T18:01:49.220531+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c10",

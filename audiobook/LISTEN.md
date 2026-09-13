@@ -61,7 +61,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 8/24 recordings uploaded
+## Book 3 — 9/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -73,7 +73,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 6. The Yacht with a Ballroom in Its Mouth | [MP3 · 15.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-06.mp3) | [Read](chapters/book-03/chapter-06/script.md) |
 | 7. Everybody Get in the Beautiful Car | [MP3 · 14.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-07.mp3) | [Read](chapters/book-03/chapter-07/script.md) |
 | 8. My Wife Knows the Way | [MP3 · 16.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-08.mp3) | [Read](chapters/book-03/chapter-08/script.md) |
-| 9. I Put My Badge on a Speedboat | ready | [Read](chapters/book-03/chapter-09/script.md) |
+| 9. I Put My Badge on a Speedboat | [MP3 · 14.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-09.mp3) | [Read](chapters/book-03/chapter-09/script.md) |
 | 10. The Strongest Man in the Room Met Me | ready | [Read](chapters/book-03/chapter-10/script.md) |
 | 11. Three Cars and a Whole Lot of Me | ready | [Read](chapters/book-03/chapter-11/script.md) |
 | 12. There Was a Road Under Her Song | ready | [Read](chapters/book-03/chapter-12/script.md) |
