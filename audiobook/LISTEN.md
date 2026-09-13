@@ -61,7 +61,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 10/24 recordings uploaded
+## Book 3 — 11/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -75,7 +75,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 8. My Wife Knows the Way | [MP3 · 16.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-08.mp3) | [Read](chapters/book-03/chapter-08/script.md) |
 | 9. I Put My Badge on a Speedboat | [MP3 · 14.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-09.mp3) | [Read](chapters/book-03/chapter-09/script.md) |
 | 10. The Strongest Man in the Room Met Me | [MP3 · 12.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-10.mp3) | [Read](chapters/book-03/chapter-10/script.md) |
-| 11. Three Cars and a Whole Lot of Me | ready | [Read](chapters/book-03/chapter-11/script.md) |
+| 11. Three Cars and a Whole Lot of Me | [MP3 · 14.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-11.mp3) | [Read](chapters/book-03/chapter-11/script.md) |
 | 12. There Was a Road Under Her Song | ready | [Read](chapters/book-03/chapter-12/script.md) |
 | 13. I Drove a Legend Through the Opera | ready | [Read](chapters/book-03/chapter-13/script.md) |
 | 14. A Father Is Not a Prize | ready | [Read](chapters/book-03/chapter-14/script.md) |
