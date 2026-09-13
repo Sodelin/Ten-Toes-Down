@@ -1,5 +1,11 @@
 # Ten Toes Down
 
+## Google Docs: books and listening parts
+
+[Choose an edition and book](GOOGLE-DOCS.md) · [Open the Start Here index](https://docs.google.com/document/d/1TfSuhI79CTpGRgRYYLrmTI3HI7PYsQTZ4eVS9cubUw0)
+
+Five editions, 15 complete texts, and 240 numbered listening parts are available as native Google Docs, organized separately by edition and book.
+
 ## Audiobook chapters
 
 [Chapter recordings and progress](audiobook/LISTEN.md) · [Full cast and production workflow](audiobook/production/README.md)
