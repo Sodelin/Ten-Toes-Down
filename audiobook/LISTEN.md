@@ -61,7 +61,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 20/24 recordings uploaded
+## Book 3 — 21/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -85,7 +85,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 18. The Duke Finally Drove His Own Bullshit | [MP3 · 12.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-18.mp3) | [Read](chapters/book-03/chapter-18/script.md) |
 | 19. The Opera Had Security | [MP3 · 12.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-19.mp3) | [Read](chapters/book-03/chapter-19/script.md) |
 | 20. Breakfast Before Paradise | [MP3 · 11.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-20.mp3) | [Read](chapters/book-03/chapter-20/script.md) |
-| 21. The Finish Line Was a Fucking Palace | ready | [Read](chapters/book-03/chapter-21/script.md) |
+| 21. The Finish Line Was a Fucking Palace | [MP3 · 12.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-21.mp3) | [Read](chapters/book-03/chapter-21/script.md) |
 | 22. I Was the Last Thing He Owned | ready | [Read](chapters/book-03/chapter-22/script.md) |
 | 23. My Wife Sang on My Island | ready | [Read](chapters/book-03/chapter-23/script.md) |
 | 24. The Ocean Fit in My Pocket | ready | [Read](chapters/book-03/chapter-24/script.md) |

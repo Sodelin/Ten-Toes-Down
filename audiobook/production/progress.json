@@ -1414,7 +1414,7 @@
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T19:18:42.307258+00:00",
+      "updated_at": "2026-09-13T19:18:51.842603+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-20.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1429,7 +1429,7 @@
       "id": "b03-c21",
       "book": 3,
       "chapter": 21,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-21",
       "release_tag": "audiobook-book-03",
       "title": "21. The Finish Line Was a Fucking Palace",
@@ -1438,7 +1438,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:25:45.792355+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-21.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "c82e493833aa89e420fdad270b8b5d5731fdf8aac7612c07450ac5cc71eb2098",
+        "duration_seconds": 766.32425,
+        "uploaded_at": "2026-09-13T19:25:52.262929+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c22",
