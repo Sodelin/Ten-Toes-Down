@@ -1,0 +1,61 @@
+# 16. The Emperor Left Me a Receipt
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+I woke up in Zero's bed and understood one small part of why the nigga had been so difficult. The mattress was terrible. Six hundred rooms. Nigga had conquered all those people and never won an argument with upholstery. Shawna lay with one leg over mine. The crown sat on the bedside table.
+
+Sunlight shone through its stones while my arm, shoulder, and hands submitted separate complaints about yesterday. My wife opened one eye. "Don't move." "Nigga, I haven't." "You were preparing." "You policing thoughts?" She touched her badge beside the crown. "Promoted." I kissed her forehead. We stayed there. No sirens, no falling plane on the phone, nobody delivering a funeral to my vehicle.
+
+Just sunlight and the woman who knew when I was about to lie about my shoulder. Then Tank knocked. "Brother." Shawna laughed into my chest. "Nigga, what?" "They opened the treasury." I sat up. Bad idea. Good information. "Why you whispering?" "Brother, there's a lot of it." We dressed and went downstairs. Three treasury doors stood open.
+
+Beyond them, gold sat under white lights in quantities that made a nigga want to apologize for every time he'd previously used the word rich. Bars. Coins. Statues. Jewels. Watches. Paintings. Antique swords. Keys to properties Zero apparently bought whenever geography displeased him. Tank waited in a bathrobe over his trousers. "Nigga." "I see it." "Brother.
+
+Nigga." "I see it louder." Cassius appeared carrying vehicle registrations. "Another collection." I closed my eyes. Shawna steadied my good shoulder. "Breathe." "Baby, I'm trying to mature financially." "Nigga, you just smiled at a filing cabinet." A thin accountant with silver spectacles approached.
+
+Fifty-eight, exhausted, carrying the expression of a man who had spent years explaining that money could be moved but arithmetic couldn't be intimidated. "Captain, the liquid holdings alone—" "How much?" He told me. Tank looked at Rosa. Rosa sat on a chest. This woman had sung in rooms where billionaires cried into champagne. The number still sat her ass down.
+
+"That covers the flowers," Tank whispered. "Nigga," she said, "don't you dare call that florist." Shawna laughed against my good side. The accountant waited with his book open, still needing somebody in the room to listen past the number. We did not take everything. Before anybody gets emotional about that, nigga, we took plenty.
+
+But the accountant had lists of wages never paid, homes seized, pensions promised, and money held for people who had spent the last decade learning the palace preferred their patience to their presence. Vesper went through those lists with Noor and Salma. Magnolia recognized names. Liora knew companies. Bernard found the record of the land beneath June's garage.
+
+The people in that room did not need me to become a philosopher about a pile of stolen gold. They needed the nigga holding the keys to stop blocking the door. I put the key ring on the table. "Pay them first." The accountant looked up. "All verified claims?" "Nigga, I don't know their birthdays. You got the books.
+
+Do your job." He removed his glasses. For a second I thought he might cry. Then he smiled with the quiet joy of a man finally permitted to make numbers mean what they said. "Yes, Captain." Tank leaned toward me. "We still rich?" The accountant heard him. "Extremely." Tank relaxed. "Good.
+
+I was supporting the community with anxiety." We made gifts out of the things that mattered to people. June received the deed to her garage, the adjoining workshops, and enough room to build cars without apologizing for the noise.
+
+Adrian read the papers twice, then handed them to her like he was afraid holding them too long might turn the whole thing back into a dream. June looked at me. "Nigga." "You saved my wife on the road." "You already said thank you." "I got vocabulary in property now." She hugged me carefully around the bruised shoulder.
+
+Then she leaned back and pointed at my face. "You are still paying for the Last Word." "Nigga, you own half the neighborhood!" "And you put my car on a tank." "Armored vehicle." "Keep talking. The invoice gets taller." Liora received the airship. She stared when I handed her the papers.
+
+"The whole ship?" "Nigga, it would be rude to give you the front and keep the ass." Porsche clapped. Mercedes hugged her. Liora looked toward the window, where the silver hull floated above the outer court with Tank and Rosa's painted heart still on its side. "I can run passenger routes," she said. "Cargo. Music tours.
+
+People could leave without asking anybody in this palace." "There you go." "What about the name?" Tank folded his arms. "We can negotiate." Rosa slapped his chest. "Let the woman name her own fucking ship." Liora smiled. "First Dance." Tank looked up at the heart again. "Nigga," he said softly.
+
+"That's good." Sienna and her sister chose a music house in the old quarter, a beautiful building with a small stage and rooms above it. Mercedes promised to help them find performers. Porsche promised to make the opening night impossible to ignore. Rosa promised a guest set, provided nobody expected her to organize the chairs herself. "You will organize them anyway," Sienna said.
+
+"Nigga, that's between me and the chairs." Bernard received the land beside the old hotel, money to rebuild, and an apology from three officials who looked like they had rehearsed it while wondering whether I would be present with a gun. I was present with a gun. But I let them finish.
+
+Magnolia held the little palm shoot while Bernard read the rebuilding plans June had sketched on the back of a breakfast menu. "A bigger courtyard," she said. He nodded. "For the tree." "For the people," Magnolia corrected gently. "The tree will manage." Bernard looked at her. She looked back.
+
+Nigga, I saw the smallest beginning of something and had the intelligence to leave it alone before Tank could ask whether we needed to order more flowers. Marcellus wanted no new palace. The old man walked through the jewel room slowly, looking more interested in the workmanship than the prices.
+
+He stopped at a narrow cabinet containing tools: tiny hammers, old files, jeweler's lamps, instruments made by hands that had been dead longer than any of us had been alive. "These," he said. "Take them." "They belong in a workshop." "Then put them in yours." He smiled.
+
+"Celeste would call you extravagant." "Nigga, she'd be correct." He touched the pouch containing Blue Mercy beneath his coat. "She would also like your wife." I looked across the room at Shawna, who was helping Liora read the airship papers while three men tried to explain the same sentence badly. "Everybody with sense does." Marcellus nodded. "Yes." There was no grief speech. No lesson.
+
+The old man had his tools, his stone, his letter, and another morning in which people wanted him around. I let that be enough. Near noon, two men tried to leave the treasury with a chest they had not been given. They wore palace uniforms and expressions of desperate confidence. One carried the front. The other carried the back.
+
+Neither looked at me until I stepped into their path. "Morning." They stopped. The chest tilted. "Captain." "Niggas moving furniture?" "Authorized transfer." "By who?" The front man looked at the back man. The back man looked at the ceiling. Nigga, a whole criminal organization collapsed between those two glances. I set my hand on the chest.
+
+"Open it." Inside lay gold watches, loose stones, and a small diamond horse that Shawna had already told me she wanted because its face looked smug. I lifted the horse. "This one's my wife's." The men swallowed. "Sorry, Captain." "The other shit is somebody else's. You niggas can explain to Knox which somebody you intended to become." They set the chest down.
+
+One looked at the horse in my hand. "It does suit her." "Nigga, don't flirt with your arrest." Tank laughed all the way down the corridor as the officers took them away. By evening, the treasury had become less a room full of Zero's things than a room full of other people's futures. I still left rich enough to offend weather.
+
+Shawna left carrying the diamond horse. Outside, the Last City's square filled with people. The old emperor's banners came down. Nobody had agreed on the new ones yet, so the grown men with ladders argued among themselves while women on balconies told them their knots looked terrible. Somebody hung a huge blue sheet with my name on it.
+
+Somebody else added CAPTAIN above it because apparently the crown had not clarified the job title. I watched from the palace steps. Knox stood beside me. "You could stay," she said. "Nigga, you trying to get rid of me?" "Never. I enjoy having the world's most difficult officer where I can occasionally find him." "Then you know the answer." She nodded.
+
+"Vegas." "Vegas." Behind us, Rosa called that the wedding party's flights were being arranged and anyone who missed departure would be personally removed from her affections for at least a week. Tank took the threat seriously. My wife came to my side.
+
+"Ready?" I looked at the city one last time: the open roads, the people in the square, the fortune still being counted by a man finally enjoying his work. Then I looked at Shawna. "Nigga, I've been ready since the first night." She took my hand. We went to pack for home.

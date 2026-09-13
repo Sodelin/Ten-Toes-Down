@@ -1,0 +1,19 @@
+{
+  "status": "PASS: script matches the source excerpt verbatim",
+  "segments": 36,
+  "spoken_words": 2021,
+  "speakers": [
+    "TICKET"
+  ],
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-04.md",
+  "source_lines": [
+    7358,
+    7664
+  ],
+  "source_sha256": "787f2af92824070840eea51fd5ea4145f3e6b65bb3d783abd8f14bfb7510b4f6",
+  "excerpt_sha256": "b1120c83651a13b51e8144a7a4487dc92ae245bd5083f6c8acb40d812bac3bde",
+  "script_sha256": "2275711ed5d39cf4131b0c33d53104aa0a175af04029c8adb2b93a7ac2c61e4f",
+  "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
+  "audio_listening_verified": false
+}

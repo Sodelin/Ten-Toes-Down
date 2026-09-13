@@ -1,0 +1,95 @@
+# 3. Get Your Warships Off My Beach
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+My island had a welcome sign, three beautiful beaches, and twelve enemy ships pretending they were decorations. Twelve. Nigga didn't park one ugly boat near my property. Nigga brought eleven friends so the first ugly boat wouldn't feel insecure. I looked down at all them expensive white motherfuckers and thought, this nigga really believes a fleet makes a nigga welcome.
+
+Nigga, I own a driveway too. That doesn't make every car in it invited. I saw them from the plane. White hulls in a crescent around the southern bay, gold flags snapping from their masts. The biggest one carried a platform wide enough to land a helicopter on and a portrait of Solomon Saint big enough to frighten fish. Tank leaned across me.
+
+"Nigga ugly from altitude." "That's commitment," I said. Shawna reached over both of us and shut the blind. "We are eating breakfast." So we ate breakfast. My wife could tell a war to wait until her coffee arrived, and the war would find somewhere to sit. Marcellus had barely slept. He held Saint's medal between two fingers, turning it whenever he thought nobody watched.
+
+Beside him lay a photograph of a ballroom with no roof. Palm trees leaned over its broken walls. In the middle of the floor, two young people stood in evening clothes, holding one another like the music was coming out of their own bodies. The man was Marcellus without the gray.
+
+The woman wore a white dress split at the knee and a black ribbon around her throat. She looked straight into the camera as if she had caught it stealing. "Celeste?" I asked. "Before Celeste." He looked at the photograph for another second. "Her name is Isolde. If she answers my message, I may owe somebody thirty-five years of explanation." "Damn, nigga.
+
+Get a comfortable chair." He smiled, but it hurt him around the eyes. We landed to drums. Real island drums, deep enough to come through the soles of my shoes. People lined the runway behind rope barriers waving blue flowers, little handmade flags, and at least three pictures of me that made my shoulders physically impossible.
+
+One painter had given me eight abdominal muscles on each side. I respected the ambition. Chief Knox stepped off behind me in sunglasses and a summer uniform. "You understand I am on leave," she said. An island officer hurried forward and handed her a ceremonial sword. She took it immediately. "For fuck's sake," Mercedes whispered. "Some women like necklaces," I said.
+
+Our people waited beyond the drums. Dockhands, hotel cooks, mechanics, singers, the racers we had helped get out from under Cruel. None of them looked pleased about the ships. They cheered us anyway. A broad woman in a blue dress broke through first and kissed Shawna on both cheeks. Her name was Alma Reyes.
+
+She ran the harbor kitchens and could feed two hundred people without raising her voice. "They put a stage over my vegetable garden," she said. Shawna turned toward the bay. "Who did?" "The general." I knew right then Saint had chosen the wrong garden. Alma's husband, Tomas, handed me a folded plan. A stadium had gone up beside the old racecourse.
+
+A music pavilion filled the square. A glass fighting cage sat on the beach like somebody had trapped a nightclub in an aquarium. Roads had been painted gold. Saint's men had marked off the ruined hillside palace as a private competitors' residence. "Nobody hurt?" I asked. "Not yet," Tomas said. "They pay for what they take.
+
+They tell us that means they are welcome." I looked down at the plan. The whole fucking island was beautiful, and the nigga had somehow found a way to draw himself on all of it. "Keep your wages," I told him. "Keep your houses. If they tell you anything different, tell them the captain's home." The crowd heard captain and answered with king.
+
+I wasn't about to interrupt good conversation. A dockworker elbowed the nigga beside him. "That's our captain." "Nigga, that's our king." "Same nigga." "Then why you arguing with a nigga?" "Because you keep saying our like the nigga belongs to you." Shawna took my hand. Both niggas saw it and settled the ownership question immediately.
+
+Solomon Saint met us at the palace gate with two champions on either side. The first man wore a gray uniform and polished boots, a chest like a steel door, and a look that said he'd never been wrong unless another man had failed him. The woman beside him had short dark hair, a yellow suit, and a tiny chess knight pinned at her throat.
+
+"Captain Lionel Graves," Saint said, indicating the man. "Champion of pursuit, combat shooting, and the continental police games." Graves looked at my badge. "You wear that casually." "Nigga, I wear everything well." Knox made a little sound behind me that might have been agreement or an old knee. "Doctor Mina Quill," Saint continued.
+
+"Three-time winner of the Seven Sciences Crown." Mina held out her hand to Shawna first. "I know your music," she said. "I hope that's good news." "Very. I used your last performance to get through a miserable train journey beside a man who explained trains to me." Mercedes liked her immediately. Saint led us through the gate. In the courtyard, mechanics worked beneath canvas awnings.
+
+Cameras hung from balconies. Waiters carried iced drinks around a marble statue with its face covered by a cloth. I stopped beside it. "Who is that?" "The future champion," Saint said. I lifted the cloth. It was Saint. I looked at him. He looked at me.
+
+"Nigga, you better hope marble comes with an eraser." Shawna took a drink from a passing tray and walked past him smiling into the glass. Our rooms faced the western sea. I gave the balcony view one appreciative minute before I looked for anybody who didn't belong in the room. Tank checked the connecting door.
+
+Mercedes found a silver box full of perfumes and announced that if Saint was poisoning us, at least he understood fragrance. Porsche opened the wardrobe and found her exact size in six colors. "He's been looking," she said. "Let him look," Shawna said. "Looking's the part he can afford." At sunset the whole island gathered for the opening ceremony.
+
+Twenty tall gold columns ringed the new stadium, each topped with a crown. Competitions were painted on the bases: speed, strength, song, strategy, endurance, precision, dance. Saint had given everything a dramatic name, but a nigga could still recognize a fist when somebody called it the Discipline of Kings. He stood on a round platform in the center with the trophy behind him.
+
+It was a crown inside another crown inside a larger crown. A man had to want attention on three separate levels to design that shit. "Each victory," Saint announced, "earns its champion a golden laurel. The leader at the end of the trials earns the right to the final Crown Challenge. The founder defends his title there." I turned to Shawna.
+
+"So he gets a chair while everybody else works." "Then take his chair." Behind us, Tank studied the founder's platform. "Nigga brought a chair to a championship." "Nigga brought a throne," Mercedes said. "A rich chair. Nigga brought a rich chair and wants other niggas to sweat." I looked at the throne. "Nigga better enjoy the cushioning.
+
+I'm about to make standing up expensive." I loved a woman who understood championship rules. The crowd cheered when they showed me on the screen. Then they showed Shawna, and the cheer changed. People lifted their phones, voices coming from all sides. She had not sung one note on that stage yet and already they wanted the next one. Saint noticed.
+
+"Our first exhibition," he said, "will be performed by the fleet." Horns sounded from the bay. The white ships began to move, lights chasing up their masts. Between them, a little passenger ferry carried people from the outer dock toward the stadium. Adult workers and competitors stood along its rail. I could see their bright shirts in the evening light.
+
+One of Saint's ships crossed too close. The ferry swerved. Its engine coughed black smoke. Then the tide took its stern and swung it toward the stone wall at the harbor mouth. People in the stands began to point. Saint kept smiling. "A demonstration of the sea's power," he said into the microphone. I was already moving.
+
+The stairs down to the dock passed beneath the grandstand. I took them three at a time, Tank behind me, Graves following because the nigga could not bear to let another captain run faster in public. At the water, a little silver speedboat waited under a banner bearing Saint's face. I jumped in. "That is assigned to the champion," Graves said.
+
+"Then why the fuck are you still talking? Get in." He got in. Tank caught the bow rail as I pulled away and nearly brought the whole dock with him. The boat rose onto the dark water. Behind us the stadium lights shone across the bay, and the ferry turned slowly toward the wall with forty people aboard. I could hear them now. Not cheering.
+
+That mattered. I knew the difference between a crowd making noise for me and people trying to make enough noise to stay alive. Graves stood beside me. "We need to get them clear before that hull strikes." "Good thinking, captain. I was going to autograph the boat." We came alongside. Tank caught a ferry worker's arm and pulled him across the gap.
+
+The man was shaking too hard to speak. Behind him, another worker held a woman upright against the rail. "Engine room's taking water!" somebody shouted. I looked toward the rocks. Closer now. Too close for polite planning.
+
+"Tank, catch what comes at you." "Nigga, that is not an instruction." "It's your whole career." I put the speedboat against the ferry's side and held it there while Graves helped people across. Wood scraped. Metal screamed. My hands fought the wheel. One man jumped too soon, struck the gap, and vanished below the rail.
+
+I left the wheel to Graves and went over after him. Cold water shut the noise off. For a second there were only lights breaking apart overhead and the man's pale shirt sinking beside me. I caught his shoulder. He grabbed at me, panicked, pulling us both down. I held him from behind, found the dark shape of the hull, and kicked toward air.
+
+Tank's arm came into the water like God had decided to wear a gold watch. He pulled us both out. I landed across the speedboat bench with the man on top of me, coughing seawater into a jacket somebody had tailored in Paris. "Nigga," I told him between breaths, "you owe my wife a dry husband." He cried harder. Graves was still at the wheel.
+
+The ferry hit the first stone marker, and a long ripping sound crossed the water. Two people remained at the far end: an older cook with one leg trapped under a fallen bench and his husband trying to lift it. Tank looked from them to the boat full of shaking passengers. "Go," I said. He jumped.
+
+I watched him land on the ferry, get both hands beneath the bench, and lift. The cook pulled his leg free. Tank dragged the two men toward us as the ferry tilted. Behind us a white launch raced across the bay. Shawna stood in its bow holding a coil of rope while Mercedes steered. Rosa waved a flashlight from the stern.
+
+Porsche had commandeered a second boat and was loading more people into it from our crowded deck. My wife reached Tank just as the ferry struck the harbor wall. The sound was enormous. The bow crumpled. Water shot up over the rail. Tank pushed the two men into Shawna's launch and jumped after them as the ferry slid down the rocks behind him.
+
+Everybody stayed above the water. I counted until I believed it. Nigga by nigga. Hand by hand. Not uniforms. Not teams. Niggas breathing, niggas coughing, niggas calling the people who would have hated the sea forever if we'd been one minute slower. I needed every nigga who got on that ferry to have another bad breakfast, another argument, another kiss somebody pretended not to want.
+
+Forty. All forty. Graves turned toward me. His immaculate uniform was soaked. A bloody scrape ran down his forearm. "You didn't use the lightning," he said. "There were niggas in the water." He looked at the passengers. Looked back at me. Something moved in his face. Not friendship yet. Recognition of a thing his general had neglected to explain.
+
+We came into the harbor with three boats full of rescued people and Tank holding a soaked cook who refused to let go of his neck. The stadium was on its feet. Saint waited at the dock with cameras behind him. He opened his arms as if the rescue had been an entertainment he had generously arranged.
+
+"A remarkable beginning." I got out of the boat and walked straight into his open arms. He wasn't expecting that. I hugged him hard enough to put seawater all over his white jacket and spoke against his ear. "Forty people, nigga. If one had gone under and stayed there, I'd be carrying your ass out instead of talking." His body went stiff.
+
+I released him smiling for the cameras. "Wonderful host," I said. Behind him, Mina Quill had brought blankets. She wrapped one around the cook and gave another to Tank. Marcellus stood with Alma, helping the frightened passengers name the people they needed called. Shawna came ashore barefoot. Her dress clung to her knees. She took one look at the untouched stage and climbed onto it.
+
+Saint started to speak. Rosa took his microphone. "No," she said. Then my wife sang. She didn't sing the big triumphant number everybody expected. She sang something slow enough that the people still shaking could breathe with it. The first line went across the harbor almost bare. By the second, Rosa was beside her.
+
+By the chorus, Alma's cooks were singing from the dock, and the men we had just pulled from the sea were holding each other's hands instead of the boat rails. I stood there dripping beside my enemy while the whole island belonged to my wife. Saint couldn't interrupt it. Couldn't buy it.
+
+Couldn't even clap until everybody else did, because he needed to know what admiration looked like before he copied it. Graves stood on my other side. "She's extraordinary," he said. The nigga said it like he'd discovered the sea was wet. But I let him have the discovery. Let a nigga hear my wife and find a new room in his own chest.
+
+Let the next nigga hear her too. Niggas had come to the island thinking the loudest man owned the evening. My wife hadn't raised her voice, and every nigga with ears knew whose evening it was. "Nigga, now you're catching up." When the song ended, the island didn't stop cheering for so long that Saint's opening fireworks went off without anybody watching them.
+
+Shawna came down the steps and put her wet arms around my neck. "Did you win the boat competition?" she asked. "Wasn't one." "There is now." Tank raised both hands. "Nigga won the unscheduled boat competition." "Nigga invented it," Rosa said. "Other niggas can't beat a nigga in a competition they don't know exists." "Then them niggas should've watched the water," Shawna said.
+
+I looked at her. My wife was getting good at this. Nigga was falling in love with the same woman all over the damn island. She kissed me in front of every ship the general owned. That night, a small envelope appeared beneath our door. No threat. No crest. Just Marcellus's name written in a woman's steady hand.
+
+Inside was a black ribbon and a line of writing. Tell the boy with the impossible car that the general is digging in the wrong room. Underneath, one more sentence. And tell Marcellus I have not forgotten how to lead.

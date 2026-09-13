@@ -1,0 +1,97 @@
+# 8. The Floor Got Jealous of My Feet
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+Saint escaped his own dinner in a submarine the size of a limousine. Nigga went underwater to avoid being embarrassed on land. I watched the little hatch close and pictured this decorated nigga crouching beside some other nigga while peaches dried in his beard. A nigga could sink below the sea, but the story of that dinner was already swimming faster than him.
+
+Porsche found that personally offensive. "Nigga had a submarine and still spent twenty minutes telling me about the chandelier." We stood on the yacht watching its little black shape disappear beneath the harbor lights. Graves had seen it leave the pavilion's hidden lower berth. By the time he reached the water, the general was gone. "His ships will protect him," Graves said.
+
+"From what?" Tank asked. "A dinner review? Nigga got fruit in his beard." "He has soldiers on every deck." I looked toward the white fleet. Twelve ships, their lights bright against the black sea. Saint had come to take my island without putting his own shoes in the mud.
+
+Now he was hiding under it because Porsche knew the difference between a compliment and a man reaching for her wrist. "He'll come back," I said. "How do you know?" Mina asked. I lifted the black pearl. "Nigga left his reason." By midnight Knox and the captains had the palace gates. The island police stood beside them.
+
+Saint's remaining men put down their guns when they realized the crowd behind us included every worker who knew where the exits were. We didn't cancel the championship. Niggas had crossed oceans to race, sing, fight, fall in love, and lose bets they shouldn't have made in the first place. One frightened nigga on a submarine wasn't about to send all them hopeful niggas home.
+
+I told the captains exactly that. Nigga by nigga, they nodded. Even the nigga who still wanted my autograph put his cap away long enough to agree. Alma came to me with flour on her hands and asked whether she should throw out the food for the next morning. "Nigga, throw out what?" I said.
+
+"If the festival is over—" "The festival belongs to us now. Cook everything." She kissed my cheek and went away smiling. The competitors stayed too. Some because they wanted to win. Some because they wanted to see what I would do next.
+
+Silk said he had never been at a music festival where the headline act also removed the gunmen, and he intended to get a verse out of the experience. Saint's voice came over the island speakers at one in the morning. "The challenges continue," he announced. "No crown will be recognized without the founder's final judgment." I took a microphone from Rosa.
+
+"Nigga, come judge in person." The island laughed loud enough to reach his ships. Then I turned the speakers over to Silk and let him play music while people danced in the square. If Saint wanted to listen from his boat, he could buy the album like everybody else. We went up to the old ballroom before dawn.
+
+Isolde waited with the six stones laid out on a white cloth. Marcellus stood beside her wearing the same dinner jacket, now wrinkled at the elbows because he'd spent the night helping carry frightened people off the yacht. Porsche placed the black pearl in the empty space. "One ugly man's favorite conversation piece," she said. Isolde touched it gently.
+
+"You are certain he gave you this?" "He put it in my hand. Then he changed his mind. I respect a man's first instinct." Mercedes set the stolen champagne bucket beside the cloth. "And a vase." Isolde looked inside it. "Did the vase volunteer?" "Saint left without saying goodbye.
+
+I accepted custody." "Nigga," Tank said, "you carried that up the whole hill?" "You carried a gun. I didn't interrogate your accessories." "My gun has a function." Mercedes lifted the bucket with both hands and offered it toward his head. Tank took one respectful step back. "There," Porsche said. "Function." Marcellus reached for the pearl, then stopped.
+
+Mercedes had set the bucket where his right elbow wanted to go. He moved it six inches. She moved it back two. "My dear, I require room." "So does the arrangement." "We are repairing a crown." "Then it should appreciate another beautiful object." Isolde took the bucket herself and placed it at the far end of the table.
+
+Everybody accepted this because she did it with the calm authority of somebody who could make all of us dance backward until we apologized. "Now," she said, "shall we finish one theft before displaying the next?" Porsche held out her hand. There was a faint mark at her wrist where Saint had grabbed it. Mercedes saw me looking and her smile went away.
+
+"He won't get a second try," I said. "I know," Porsche answered. "But nigga, when we tell this later, lead with me taking his pearl." "And me taking his bucket," Mercedes said. Porsche squeezed her fingers. "Yours gets a paragraph." "Mine gets a picture." I watched the two of them lean together while the old jeweler cleared his tools.
+
+Saint had a submarine, soldiers, and twelve ships. These women had come away with his treasure and a running argument over interior decorating. I was putting my money on the women. Marcellus arranged the stones along the tarnished gold strip. They settled into their old places with tiny clicks. The last one, black as the sea outside, completed a narrow crescent of color.
+
+"The crown was broken after Bellanotte died," he said. "This part is enough for the first door." "What killed him?" Tank asked. "His heart." "Nigga finally met an opponent." Isolde held out her hand to me. "Let us see what you remember." I took it. She corrected my shoulder before the music began.
+
+"You are expecting gunfire." "It's been a popular song lately." "For seven turns, expect me." So I did. She was light on her feet without being fragile. Every movement told me where the next one could live. I followed once, then again.
+
+By the third turn I could feel the shape of the dance coming back through my body, the way a road feels familiar before you recognize the building at its corner. We stopped on the final square. The floor rang beneath us. "Good," she said. Then she gave my hand to Shawna.
+
+"Now do it with the woman you are actually listening for." My wife stepped into my arms. "Don't embarrass me," she whispered. "Nigga, you married the floor's favorite man." "The floor can wait its turn." Rosa laughed behind the piano. She had taken over the music, slowing the opening bars until our breathing found them.
+
+First turn, the gold strip in Marcellus's hand caught the lantern light. Second, Isolde placed its stones into the shallow hollows around the pillar. Third, something below us moved. Shawna felt it through the sole of her shoe. Her eyes met mine. "Keep going," she said. Fourth, fifth. The old marble answered with a low mechanical hum.
+
+Sixth, I brought her around the broken column, her dress brushing my leg, her hand firm against my shoulder. Seventh, we stopped together. The table at the center of the room slid backward. Beneath it, a stair opened into darkness. Tank stared. "Nigga just slow-danced a building open." Mercedes folded her arms. "Saint brought drills." "Nigga brought drills," Tank repeated, increasingly delighted.
+
+"Aiden brought his wife." Marcellus stood looking down the steps. The last time he'd seen them, he'd been twenty-seven, carrying a lamp, expecting a whole different life to meet him at the harbor. Isolde took his hand. "This time," she said, "we leave together." He nodded. I went first with Graves behind me. Tank followed, then the others.
+
+The stair smelled of old stone and sea air. Water had found its way into the walls, leaving pale lines like the room had been counting the tides. The antechamber was almost exactly as Marcellus had described it. Cabinets. A stool. The remains of a lamp blackened on one side. A conductor's baton lay in a cracked velvet case on the table.
+
+Marcellus picked it up. "He came back," he said softly. "Who?" I asked. "The conductor. Bellanotte must have had him return to the palace after we left." Isolde opened the case. Beneath the baton lay a folded sheet in an old man's handwriting. Marcellus read it aloud. "To the two young fools who gave an old musician one excellent night. The king is dead.
+
+His son sold the coast. The men who bought it have no patience for music, so they will never find what his father hid. I have kept the last path for people who know how to share a room. If you return, follow the river beneath the lion. And Marcellus, the jacket was worth more than twenty dollars." Tank laughed quietly.
+
+The old man wiped his eyes with the back of his hand. There was a drawing on the other side. A river. A lion. Three little bridges leading toward a pair of enormous doors. The Vault of Kings. Not a metaphor. Not a man selling an expensive story about an empty hole.
+
+Beyond the cabinets, the far wall held a carved lion large enough for a man to stand in its shadow. Beneath its paws, a narrow passage sloped downward toward running water. I shone my light into it. The floor glittered. Gold coins lay in the shallow water like somebody had dropped a handful and decided he was rich enough not to bend over.
+
+"Nigga," Tank said. "Yeah." "No, nigga." "I see it." "I don't think you seeing the amount of nigga I am currently experiencing." Porsche crouched and lifted a coin. One side bore the crowned lion. The other showed a ship sailing under seven stars. "Pretty," she said. Marcellus took it carefully. "Old." Mercedes smiled.
+
+"Those words get along beautifully." We followed the passage to the first bridge. An underground river crossed the cavern ahead. Above it, three stone arches climbed toward a dark platform on the opposite side. On that platform stood the vault doors, taller than the yacht's mast, made of black metal veined with dull gold. Between the doors sat a round red stone.
+
+Except it wasn't a stone. It was an empty setting. Isolde drew in a breath. "The Lion's Heart." "Where's the heart?" I asked. Graves answered from beside me. "Around Saint's neck. He wears it beneath his medals. I saw it once when he was injured during a tournament." The general had the last piece.
+
+Nigga had been walking around with a door handle on his chest calling it destiny. All them medals, all them speeches, and the nigga's most useful possession was a necklace somebody needed to put in a wall. I wanted to tell him so badly my teeth hurt.
+
+But first a nigga had to reach the nigga, and Saint had brought eleven spare boats to complicate being reached. Of course the nigga did. A man couldn't own twelve ships without finding something smaller to be insecure about. I looked at the bridges. Two were broken halfway across. The third stood intact, narrow and wet, rising in a clean curve toward the doors.
+
+"We know where," I said. "Now we know what. That's more than he knows." A light appeared at the far end of the cavern. Then another. Graves pushed me sideways as the first shot struck the wall. Saint's digging crew had found a side passage. They came through it in helmets and dark uniforms, guns flashing over the river.
+
+I pulled Shawna behind a stone column. She took Isolde with her. Tank shoved Marcellus down behind the bridge rail and returned fire. The chamber roared. "Nigga brought drills and guns," Tank shouted. "Still can't dance," I said. Graves ducked beside me. "You are joking now?" "Nigga, the bullets started before the joke.
+
+Don't blame comedy." "These men are trying to kill us." "Then don't let these niggas interrupt. You cover that side, I cover this side, Tank covers whatever a nigga shouldn't be able to lift." Tank grunted from the bridge. "Nigga, I heard that." I moved along the near bank while Graves kept the gunmen from crossing. Water splashed around my shoes. The stone was slick.
+
+My light rolled from my hand and shone upward, catching the gold veins on the doors like lightning trapped in a wall. One gunman reached the intact bridge. I met him halfway. He swung the butt of his rifle. I caught the blow on my shoulder, drove into him, and felt the bridge rail give beneath our weight.
+
+For one second both of us leaned over the river with nothing but my hand on a broken stone between us and the water. He looked at my face. "You," he said. "Nigga, who were you hoping for?" I dragged him back onto the bridge and hit him hard enough to end the conversation. Behind him a second man raised his gun.
+
+Shawna's shot broke the lantern above his head. Darkness swallowed his aim. Graves took him down before he found it again. My wife looked across the chamber at me. "One piece," she called. "Still counting right," I called back. The gunmen retreated into their passage, dragging two wounded men with them. I could have followed. I wanted to follow.
+
+Every part of my body that enjoyed an argument wanted to put Saint's whole digging crew against a wall. Then I heard Isolde cry out. A fallen stone had struck Marcellus's leg. He was awake, furious, and unable to stand. I went back. Tank lifted the stone. I took Marcellus under the shoulders.
+
+The old nigga tried to object until Isolde said his name in a voice that had apparently survived thirty-five years without losing any authority. He shut up. We carried him out together. At the top of the stair, the sky had begun to pale. Rosa helped Shawna close the hidden door while Knox's officers spread across the garden.
+
+The ballroom returned to looking like a ruin somebody might photograph and misunderstand. Marcellus sat on the low wall with his trouser leg rolled up. Bruised, bleeding a little, still arguing that he could walk. Isolde knelt beside him and tied a clean cloth around the cut. "You came back for me," she said. He looked at her.
+
+"I was always coming back." She kissed him before he could say anything else. Tank turned away, grinning like a nigga trying to give two old people privacy while needing every detail. My phone vibrated. Saint, on video, aboard his ship. A red stone hung against his bare throat. The Lion's Heart.
+
+He had taken off his medals so I would be certain to see it. "You have found my door," he said. "Nigga, the deed says mine." "Then earn the key. Continue winning. Reach the final challenge. Face me before the whole world." "Or I come out there and take your necklace." He moved the camera toward the decks behind him.
+
+Armed men stood beside the ship's rail. Beyond them, the other eleven ships held their places around the island. "You may try." I looked past his face at the ships. At the launch hanging from the nearest crane. At the sailor beside it who was listening instead of looking at the general. I smiled. "Oh, nigga," I said.
+
+"I intend to." I ended the call and turned toward my people. Shawna stood barefoot on the old dance floor, my gun in one hand, the seven stones wrapped safely in the other. Tank had an arm around Rosa. Mercedes and Porsche leaned together beneath the broken arch. Knox and Graves watched the sea.
+
+Marcellus had Isolde's lipstick on his mouth and thirty-five years less loneliness in his face. The general thought he had an army. Nigga, I had everybody I wanted beside me. And the morning hadn't even started yet.

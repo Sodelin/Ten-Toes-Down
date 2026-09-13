@@ -1,0 +1,93 @@
+# 5. The Nigga on the Hood Was Me
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+"That nigga left us seven cars." Tank stood in the hotel garage staring at the keys in his hand. "Which nigga?" I asked. "All the niggas. Every house you saved last night sent a car." "See, nigga?
+
+That's gratitude with tires." There was a yellow Ferrari, a blue Aston Martin, a white Lamborghini, a black Rolls-Royce, two Bentleys, and something low and silver that looked like it had been designed by a man who hated speed limits personally. Porsche walked between them in a white jacket and stopped beside the silver one. "That one's mine." "Your name ain't on it," Mercedes said.
+
+"Neither is yours." "Nigga, her name is Porsche," Tank told me. "She gonna keep doing this forever." "Let her. Nigga got enough cars to make a point slowly." Porsche laid her palm on the silver hood. "Listen to this nigga granting permission. Baby, I already introduced myself to the upholstery." Mercedes opened the passenger door. "Then introduce your nigga to the seat controls.
+
+I'm not riding with my knees in the glove box." "You taking half my car?" "Nigga, you taking the whole man's car. We all learning generosity." A garage attendant came running between the cars with a polishing cloth in his hand. Captain. Please. One photograph. I looked at the seven cars behind him. Nigga, which one you need me improving? With all of them. Ambitious.
+
+His friend held up a phone. The first man stood beside me, tried to fold his arms like mine, then unfolded them because he looked as if he were holding himself hostage. Relax, I told him. I am relaxed. Nigga, your shoulders in my pockets. Come down. He laughed. His friend took the photograph at exactly that moment.
+
+Shawna came through the door and stopped beside the Aston. Look at you working before breakfast. Public service. The attendant looked at her, then back at me. Your wife? Nigga, look how quickly you stood straighter. Who else would make both of us do that? She kissed my cheek and took the cloth out of his hand. There was a little mark on my collar.
+
+She wiped it away, smiling to herself while the men watched like they'd been invited behind the curtain of a very expensive miracle. You don't have to do that, ma'am, the attendant said. I know. She did it anyway. Porsche leaned against the silver car. Nigga got seven cars and still the woman detailing him. Mercedes looked over. That's the one she drives home.
+
+Shawna put the cloth back into the attendant's hand, gave my collar one last little tug, and walked on toward the keys. The man watched her go, then showed me the photograph he'd taken. I looked happy in it. Nigga, of course I did. My wife had just polished her favorite thing in the garage. Marcellus came down the stairs carrying the silver invitation case.
+
+He looked tired, but not worried. A jeweler who had spent his life around criminals learns there are too many opportunities to worry and not enough hours to do all of them properly. He set the case on the hood of the Rolls. "The seal is genuine." "Good. Nigga rescued it dramatically.
+
+I'd hate to have done that for a fake." Marcellus gave me his patient look. "You rescued the people around it too." "Nigga, they looked genuine. This little gold motherfucker kept secrets." "And now it will tell us something." "See? That's why I bring my old nigga. He gets jewelry to cooperate without wrecking the room." "It belonged to the old royal household.
+
+The underside shows part of the Crown's setting." I leaned closer. "Worth something?" "The Crown itself is worth a fortune. What it proves may be worth more." "Nigga, everybody keep telling me something worth more than money. Then they ask for money." Marcellus smiled. "This may be one of the rare exceptions. The stones were arranged to identify the family's private books.
+
+The Crown was a key in the ordinary sense: a recognized object, a pattern, a claim. Men trusted the bearer enough to open doors." "And Zero wants the books." "He wants everyone to believe he already controls them." Shawna stood beside the Aston in jeans, a silk shirt, and my chain over her own necklace because she'd decided it looked better that way.
+
+The DBM cross lay against her chest. Nigga, I would've let her take my spine if she wore it that confidently. "What are we doing today?" "Bastien says he got something to show Marcellus." "Then I'm driving." Tank looked at me. I looked at Tank.
+
+"Nigga," he said carefully, "you gonna let somebody else drive one of the seven cars you just got?" "That's my wife." "I know who the nigga's wife is. I'm asking if the nigga knows who usually drives." Shawna took the Aston Martin keys out of his hand.
+
+"Today the woman who hasn't crashed a Ferrari in this country." "You helped your nigga crash both of them," I told her. "And I looked gorgeous. Imagine what I can do with the wheel." Tank lifted both hands. "Nigga, she got an argument." "You on her side?" "I'm on the nigga's side who still has seven running cars.
+
+We trying to preserve him." We left in three cars. Shawna and me in the Aston. Marcellus with Mercedes and Porsche in the Rolls. Tank and Rosa in the Lamborghini, because Rosa said her fiancé deserved something pretty enough to distract people from his driving. The coast road curved along the city's old walls. Sea below. Mansions above.
+
+Little cafés filled with men who had probably spent their whole lives looking important in the same chair. Every time we passed, somebody stood to wave. "That nigga know us?" I asked. Shawna glanced at a man holding up a newspaper with my face on it.
+
+"Apparently." "Nigga waving like I paid his rent." "You wrecked his landlord's house last night." I leaned out the window and waved back harder. Bastien's address was an old observatory above the harbor. The road narrowed as we climbed. A stone wall ran along one side, and on the other was enough empty air to make a man reconsider how much he trusted his wife.
+
+I trusted mine plenty. "You taking this corner kind of beautiful," I told her. "Don't flirt when I'm concentrating." "Nigga, you married a distraction." The first black motorcycle appeared behind us just before the observatory gates. Then another. Then a van blocked the road ahead. Shawna saw it before I said anything.
+
+Her hands tightened, the car slowed, and the look on her face changed from vacation to somebody about to regret interrupting her outfit. "Aiden." "I see them." "I'm not asking. I'm telling you to buckle your greatness down." The van doors opened. She reversed so fast my shoulders hit the seat before the gunfire started.
+
+"Nigga!" "You told me I was beautiful on corners!" The Aston swung backward around the bend. A motorcycle came too close. I fired through the open side window and the rider dropped behind his handlebars. The bike hit the wall and scraped along it in a shower of sparks.
+
+Behind us, Tank put the Lamborghini sideways across the road, blocking the second motorcycle from reaching the Rolls. Rosa leaned out and threw a full bottle of mineral water at the rider's face. "Nigga, that was glass!" Tank shouted. "I read the label!" The rider went down. The bottle did too. Rosa looked genuinely offended by the waste.
+
+Shawna turned us at a little overlook no wider than the car. The Aston's back tires hung close enough to the edge that I saw the sea in the side mirror where road should've been. "Baby." "Trust me." "Nigga, I'm married to you. That's documented." She put the car forward and shot through the gap between the van and the stone wall.
+
+Metal shrieked along our side. I fired toward the men crouching behind the open doors. One dropped his gun. Another jumped away so fast he left a shoe. We cleared the van and reached the observatory gates. They were already open. Inside, Bastien stood on the steps with a pistol in his hand and a fallen man at his feet.
+
+Three more attackers moved between the garden statues. The old nigga had his jacket off, and there was nothing tired about him now. Shawna braked beside the steps. "Get him!" I was out before the car stopped. One attacker turned from Bastien toward me. I hit him across the face with the door.
+
+The second tried to come around a statue and discovered Tank had arrived behind us with a very personal opinion about statues being in his way. The stone saint lost an arm. The attacker lost interest. Bastien covered Marcellus while Mercedes and Porsche got him into the observatory. Rosa followed carrying a bag of medical supplies she'd started keeping after realizing our vacations required them.
+
+A black SUV burst through the lower gate. Its passenger leaned out with a gun aimed at Shawna's window. Nigga, there are some sights that make thought too slow to bother with. I ran across the garden, stepped onto the broken base of the saint, and threw myself onto the SUV's hood. My body struck metal hard enough to knock the breath out of me.
+
+I caught the edge near the windshield with both hands. The driver screamed. The passenger twisted toward me, but he couldn't get the angle before I kicked the weapon away. The SUV kept going. Straight down the slope. "AIDEN!" That was Shawna. Then the Aston's engine rose behind us. Nigga, my wife came after me like the whole road had insulted her marriage.
+
+The driver swerved. I held on. The hood was hot beneath my chest. The city flashed past sideways. My shoes dragged at the edge of the windshield, and the passenger kept trying to pull me through the broken side of his own problem. "Get off, nigga!" he shouted.
+
+"Nigga, stop the car!" "Get off the fucking car!" "Stop giving a nigga travel advice while you kidnapping his ass! You shot at my wife. Now my wife following us. Nigga, your itinerary is getting worse!" Shawna drew alongside. The road barely held both vehicles. Her window was down. Her hair whipped across her face.
+
+"Come here!" "You sound like we in the kitchen!" "Then move like you're hungry!" The SUV hit a pothole. My grip slipped. For one second I saw nothing beneath me but moving road and my own hands failing to agree about staying attached. I called a little blue thunder. Not enough to turn the car into lightning. Enough to wake every tired nerve at once.
+
+Enough to pull myself across the hood as Shawna matched our speed. I jumped. My shoulder struck the Aston's roof. I slid, caught the open passenger window, and folded into the seat with less dignity than a king should legally be allowed to carry. Shawna didn't look away from the road. "You good?" I tried to answer and swallowed half my breath instead.
+
+"Nigga, I'm excellent." "You bleeding on the seat." "Excellence leaks." She laughed once, wild and furious and relieved, then turned the wheel so sharply the SUV driver followed by instinct and ran out of road before he ran out of confidence. His vehicle crashed through the low wall into an empty terrace café. Tables flew.
+
+An umbrella opened in the middle of the wreck like somebody still hoped it would be a pleasant afternoon. The SUV stopped against a fountain. Water shot into the sky. The owner came out holding a broom, saw me getting out of the Aston, and put the broom down.
+
+"Captain?" "Charge it to the niggas in the fountain." Ardent's police arrived almost as fast as the crowd. He looked at the destroyed SUV, my torn shirt, Shawna calmly checking her lipstick in the passenger mirror, and the Aston missing half its beautiful paint. "Another attack?" "No, nigga. I was trying a new taxi." His younger officers laughed before remembering they were on duty.
+
+One stepped close enough to see the badge. "My brother saw a nigga riding the hood all the way from the observatory." "And?" "He said no nigga could survive that." "Then who this?" I asked, pointing at my whole surviving self. The officer grinned. "He said if the nigga survived, it was you." "Now your brother talking sense.
+
+What the other niggas say?" A second officer raised his hand like we were back in my college. "My cousin saw the lady drive beneath you. He said nobody drives like that." Shawna shut the mirror and turned. "Apparently I do." "Nigga, take notes," I told the first officer. "Your brother found me on the hood.
+
+His cousin found my wife making sure I didn't stay there. We got a whole marriage witnessed from different balconies." Ardent took off his hat and looked at her properly. "Madame. Extraordinary driving." "Thank you. Somebody had to come collect him." I put a hand on the younger officer's shoulder. "Tell your nigga to keep watching.
+
+And tell him my wife deserves her own damn view." Shawna took my other arm before I could turn a torn shirt into a full speech. "Come on, greatness. Somebody needs to clean your elbow." Back at the observatory, Bastien had set his pistol beside a telescope and returned to looking like a man who might recommend a quiet book. Rosa was wrapping Tank's knuckles.
+
+"You hit a statue." "Nigga was behind it." "The statue didn't know that." "It know now." Mercedes and Porsche had found the attackers' discarded coats. In one pocket was a black invitation stamped with Zero's private crest. In the other was a portrait photograph of Bastien taken through a window. "They came for you," I said. Bastien looked at the photograph without surprise.
+
+"They have been coming for what I remember for sixteen years. Today they grew impatient." He led us upstairs into a round room beneath the old telescope dome. Sunlight came through a narrow opening and fell across a wooden chest. No gold case. No dramatic locks. Just a chest somebody had cared enough to repair more than once. Bastien opened it.
+
+Inside lay a woman's red coat, carefully folded, and a letter tied with blue thread. Vesper arrived while he was lifting the coat. I hadn't heard her car. I only noticed the room change when she entered. "You brought them here," she told Bastien.
+
+"Yes." "You promised me you would keep it safe." "I did." "This is not safe." The old man looked at her for a long time. "Neither is letting you spend the rest of your life protecting the man who took yours away." Vesper's face lost its color. Outside, police radios crackled. Somebody moved the wrecked car at the gate.
+
+The whole city kept going while a room full of people waited for one woman to decide whether she could bear hearing what she'd suspected. Shawna sat beside her without asking. Vesper didn't move away. Bastien unfolded the letter. "Eliane wrote this the night before the harbor burned," he said. "She believed I would be angry with her.
+
+For sixteen years, that has been the part I cannot forgive myself for." I sat on the edge of a table, my scraped elbow wrapped, my wife's hand reaching back to find mine. "Tell it straight," I said. "All of it." Bastien looked down at the red coat. And the old nigga began.

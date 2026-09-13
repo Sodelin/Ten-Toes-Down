@@ -1,3 +1,5 @@
+> **Current production:** From Book I chapter 2 onward, all narration and dialogue use the funeral ticket man’s voice (Kokoro `am_michael`, speed 0.95), selected by the author. The previously published Chapter 1 and pilot retain their original cast. Historical multi-voice development notes below describe that earlier approach.
+
 # Chapter production
 
 [Listen and track all six books](../LISTEN.md) · [Recurring cast](cast-inventory.md) · [Queue data](progress.json)

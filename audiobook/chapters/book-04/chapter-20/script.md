@@ -1,0 +1,81 @@
+# 20. The Last Thing the General Learned
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+Saint took off his white coat slowly, giving the cameras time to love the motion. They didn't. Every camera kept finding me instead. I stood opposite him on the arena floor with sweat drying on my face, my shoulder hurting, and the last of the Blue Thunder spent somewhere between a drowning man and a mountain full of armed niggas.
+
+My wife had given me water. My brother had put his forehead against mine and said one word. "Finish." I intended to. Saint wore a black fighting shirt beneath the coat. No medals now. Only the Lion's Heart at his throat. He was broader than he'd looked sitting down, strong through the arms, his movements clean.
+
+A man who had trained for violence and then spent years paying other men to do the inconvenient parts. "You are tired," he said. "Nigga, you been avoiding me for twelve days. I had to find hobbies." "You have mistaken popularity for power." I looked around the stadium. At the island captains standing beside the exits. At the sailors watching from the upper rail.
+
+At the people we had pulled off boats, trains, broken platforms, and all the other places his ambition had become somebody else's problem. Then I looked back at him. "Nigga, you keep mistaking an audience for people who can't make up their minds." He smiled thinly. "Three falls. The founder's defense.
+
+Yield, or be put down." "Let's see what the chair taught you." The bell rang. He came fast. Faster than I expected, which was my last free mistake. His first strike hit my guard. The second found the side of my body I'd turned too slowly to protect. Pain sharpened the stadium lights.
+
+I moved back, let him pass, answered with a short blow he took without changing expression. The nigga could fight. I wasn't going to pretend otherwise because the crowd wanted me to be invincible. I had spent enough of my life being underestimated to recognize the danger of returning the favor out of vanity. He worked the injured shoulder. Of course he did.
+
+Saint had watched every recording. He knew where the train had left its hand on me. He drove toward it with a patience that made his cruelty useful. Every time I turned away, he forced me into another angle. Every time I planted, he made the next movement cost more than the last. I heard Shawna call my name once. Not frightened. Certain.
+
+Like she was reminding the nigga inside my body which man he was supposed to be. I stopped retreating in the direction Saint wanted. His next blow came where my shoulder had been. I wasn't there. I came up beside him, close enough that his reach stopped being an advantage, and put him down against the mat with both of us breathing hard.
+
+The referee counted the fall. The crowd exploded. Saint rose slowly. His mouth had stopped smiling. "One," I said. He wiped his lip with his thumb. "You think that means anything?" "Nigga, the board seems excited." The second fall took longer. He made me work for every inch. I felt the morning in my legs, the boat in my hands, the train in my shoulder.
+
+He hadn't climbed the mountain. Hadn't pulled anyone from the water. He was fresh, furious, and strong enough to make those facts matter. He caught my ankle during a turn and sent me down. I hit the mat hard. The stadium gasped. Saint stood over me. "There is the man beneath the legend." I looked up at him. "Nigga, the man still married.
+
+You're not improving my alternatives." Somewhere above us Tank laughed like a gunshot. I got up. One fall each. The referee put himself between us while Saint backed to his side. I walked to mine without showing the crowd how badly I wanted the distance to be shorter. Tank held out water. I took it with my good hand.
+
+"Nigga," he said softly, "you keep trying to make the bad shoulder explain itself. It already told you." "You coaching now?" "Somebody gotta listen to your body. You sure as fuck ain't taking its calls." I drank. Across the floor Saint rolled his neck, watching me over the referee's shoulder. Fresh enough to show off. Tired enough now to need me to notice.
+
+"Look at me," Shawna said. I did. "You don't owe them a pretty win." The stadium kept making noise around her. I could pick out my name, Saint's name, a man insisting the referee needed glasses. My wife waited until I stopped listening to all those niggas and heard the sentence she had actually given me. "I know," I said.
+
+"Then come back with the shoulder you have left." I touched her hand. No promise about ease. No little performance to make her laugh while I worried her. Just the touch, then the water back to Tank. He leaned in. "And if that nigga starts talking about legends again, let him finish. Catch your breath." I laughed once. It hurt less than I expected.
+
+The referee called us forward. I went with my guard where I could hold it, my feet under me, and no Blue Thunder coming to forgive a stupid choice. The last fall would decide it. Saint looked toward the tunnel behind his chair. Just once. But I saw it. His escape road. His waiting cars.
+
+His plan to turn the audience into cover if the applause went wrong. I looked toward the same tunnel. Mercedes stood at its far end with Porsche beside her. Behind them the palace workers were already walking away from the lower rooms, guided by the driver who had come to our table the day before.
+
+Every person Saint meant to use was leaving while he stood here trying to prove he had control. Mercedes lifted one hand. Done. I turned back to him. "No more furniture hiding behind your chair," I said. His eyes narrowed. The final bell rang. He attacked harder now, patience burning away under the insult. That was what I had wanted.
+
+Not for the nigga to become stupid all at once. Men like Saint don't stop being dangerous because you hurt their feelings. They become dangerous in a narrower direction. I let him choose it. Let him believe the injured shoulder was all the map he needed.
+
+When he committed, I moved with the blow instead of against it, turned through the small space his anger had left, and brought him down before his feet could find the ground he expected. He struck the mat on his back. I held him there. He fought to rise. I held. The referee counted. The stadium counted with him.
+
+At the final number, Saint stopped struggling for one second because the sound of thousands of people agreeing he had lost hit him harder than I had. The bell rang. I stood. World Champion of Everything. The whole arena came up around me. Niggas shouting. Women screaming. Flags moving. My brother on his feet with Rosa beside him.
+
+My wife looking at me with both hands against her mouth, eyes bright, her whole body already moving toward the stairs. I looked straight at her. That was my crown. Saint pulled the knife from beneath the edge of the mat. The referee saw it too late. I caught Saint's wrist as he rose. The blade passed my side close enough to cut the shirt.
+
+We collided against his chair, wood cracking beneath our weight. The Lion's Heart swung between us. I caught the chain with my free hand and pulled. It broke. The red stone came into my palm. Saint saw it and made a sound I'd never heard from him before. Not command. Need. He drove his shoulder into me and ran for the tunnel.
+
+Gunfire began above the arena. His remaining guards had been waiting for the signal. They stood from their places along the upper rail, weapons raised toward the crowd. The island captains were already there. Knox had placed them beside every exit and stair. Graves moved across the lower platform with his gun up. Keel's sailors pulled spectators behind the concrete barriers.
+
+Rosa took the microphone and told the audience where to go, her voice cutting through the panic with the same force that had filled the room when she sang about Tank. Shawna reached me at the edge of the floor. "The stone," she said. I put it in her hand. "Take it to Marcellus." She gripped my wrist.
+
+"You come too." I looked at the tunnel Saint had vanished into. Then back at her. "I'm bringing the end." She kissed me once, hard and quick, and went toward the guarded palace passage with Porsche and Mercedes. Tank came beside me. "Nigga?" "Nigga." We ran. The lower road thundered with engines. Saint had four cars waiting beneath the stadium.
+
+Three stood empty because the drivers had left with the workers. The fourth roared toward the far tunnel with Saint in the passenger seat and one loyal guard behind the wheel. My Lamborghini waited at the near entrance where Cassius had left it. Keys inside. Engine warm. Some friendships save time in beautiful ways. Tank got in beside me. I drove.
+
+The tunnel narrowed around us, lights streaking across the windshield. Ahead, Saint's black car swerved between support columns, its rear end striking sparks from the wall. He fired back through the broken rear window. Glass burst across my hood. I kept the Lamborghini steady and let the distance shrink. No Blue Thunder left. No need to pretend there was.
+
+Just my hands, my car, my brother, and a nigga who had run out of other people to stand between us. We came out beneath the palace into the old garden road. Saint's driver took the turn too fast. The car slid across the gravel and struck the low wall beside the ruined ballroom. Saint got out before it stopped moving.
+
+He ran through the arch. Toward the open stair. Shawna and Marcellus had already opened the antechamber from the palace side with Isolde's help. They stood at the far end of the ballroom behind Graves and two officers who had come through the upper passage. Saint saw them, saw the red stone in Marcellus's hand, and fired. Graves pulled the old man behind the pillar.
+
+Shawna returned fire from the other side. Saint ducked down the stair. I followed him into the dark. The river chamber opened ahead, lit now by the lamps Isolde and the workers had brought along the upper path. The great doors stood beyond the water, black and gold, waiting like they had all the time in the world.
+
+Saint stood at the center of the bridge with his gun raised. I stopped behind the lion's stone paw. "No more crowds," he called. "Nigga, you the one who kept inviting them." He fired. Stone jumped beside my face. I waited for his next movement, saw the angle change, and came out far enough to answer. My shot struck his shoulder.
+
+He staggered against the rail but stayed upright. Tank entered behind me. Saint turned toward him. I fired again. The gun left Saint's hand and struck the bridge stones. He stared at the empty hand. Then at me. For a moment the only sound was the river. I walked onto the bridge.
+
+He backed toward the vault doors, one hand pressed against his wounded shoulder, his face gray beneath the fury. "I could have made you rich beyond anything you understand." "Nigga, you couldn't even make yourself happy." "You think a woman and a crowd are enough?" I looked past him at the great closed doors.
+
+At all the wealth he had spent twelve days trying to reach while the people who worked for him went hungry. Then I looked back at the nigga. "I think you saw something you couldn't buy and tried killing everybody who had it." He came at me with the knife he'd kept in his boot. Fast. Desperate. Still dangerous.
+
+I shot him before he reached me. He fell against the vault door, slid down its black face, and sat at the foot of the thing he'd wanted more than the men who had carried him across the sea. His hand opened. The knife struck the floor. Solomon Saint died looking at a door he never opened.
+
+I stood there until I knew there would be no next movement. Then I lowered the gun. Tank came across the bridge and put a hand on my back. Neither of us said anything for a moment. Above us, faint through the stone, the stadium bells began ringing. The championship was over. The guards who had survived had surrendered. The crowd was safe.
+
+The last four white ships were lowering their flags rather than die for a dead man's pride. I learned all that afterward. Right then I heard my wife's footsteps on the bridge. I turned. She came straight into my arms. The red stone was safe with Marcellus. My brother stood beside me. The river kept moving beneath our feet.
+
+My body hurt in every place a body could store a long day. Shawna put both hands against my face. "Finished?" she asked. I looked over her shoulder at the man beneath the vault door. Then back at her. "That nigga is finished." She closed her eyes and leaned her forehead against mine. "Good," she whispered.
+
+"I have been waiting to kiss the world champion without somebody trying to shoot him." "Baby," I said, "the line starts here." She kissed me until the whole underground kingdom felt smaller than the place her hands held.

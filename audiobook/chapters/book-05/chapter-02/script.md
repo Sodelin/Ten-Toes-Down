@@ -1,0 +1,131 @@
+# 2. I Arrested the Man Who Paid for Dinner
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+The first rule was that no king could arrest another king during dinner. "Nigga, why that first?" Lord Rusk looked at my badge. "Experience." "Whose?" "The household's." "So some nigga already needed arresting at dinner." "Captain—" "Nigga, you warned the right guest. Keep reading." The second rule was that every claimant had to bring a gift worth a million dollars.
+
+The third was that the host could reject any gift he considered beneath his station. The fourth concerned seating, inheritance, and a dead prince's second wife, and I stopped listening because Shawna had started rubbing the back of my neck. "What counts as a gift?" I asked. "Gold. Jewels. Land. A pledge of valuable service." "I brought myself." Rusk waited. I waited back.
+
+"Captain, surely you understand—" "Nigga, that's at least two gifts. I'm handsome and I'm here." Shawna bent down beside my ear. "You forgot punctual." "Baby, they started early." Rusk escorted us to a car before I could improve the rules any further. Tank and Rosa followed in a black Bentley the hotel had provided after seeing what had happened to the Ferrari.
+
+Mercedes and Porsche came down together, one in silver and the other in red, arguing about which of them a visiting prince had been looking at across the lobby. "He was looking at me," Mercedes said. "He was looking at the reflection of me in your bracelet," Porsche told her. The prince hurried over holding two bouquets.
+
+"Ladies, perhaps both—" "Nigga, pick a struggle," I said, and kept walking. Dinner was at the House of Nine Doors, a white mansion built over the water. Eight of its doors were enormous. The ninth was little and blue and stood halfway up an outside wall with no stairs beneath it. "What's that one for?" Tank asked. "Disgraced guests," Rusk said.
+
+"Nigga, if somebody tries to put me through a wall door, I'm taking the whole wall." The dining room ran the length of the house. A hundred candles burned along a table set for twenty-four. Every plate had somebody's crest on it. Mine showed a wolf standing on a car, which I decided was close enough. Vesper sat beside an empty chair at the center.
+
+Our host stood when we entered. Baron Silas Bell was a broad man in his forties with a polished head and a beard cut so sharply it looked like it had its own knife. His suit was cream. His rings were black. He wore a little silver crown tilted to one side, like royalty had caught him off guard. "The captain," he said.
+
+"We heard you had a dramatic journey." "Your city put train tracks in my way." "Those have been there seventy years." "Nigga, they should have moved them when they heard I was coming." A man at the far end laughed into his wine. Bell didn't. I kissed Shawna's hand before pulling out her chair. Three other men immediately stood to help their wives sit down.
+
+One wasn't fast enough and his wife gave him a look that ruined the rest of his meal before it arrived. Vesper watched the chain of events with open amusement. "You have introduced a new custom." "You niggas wasn't helping your women sit?" "Some of us were waiting for our women to help us," said an old king with a silver beard.
+
+His wife patted his cheek. "And some of us are still waiting." Wine came. Fish came. A whole roasted bird came under a dome so big two waiters had to lift it together. Tank saw it and sat straighter, finally convinced the trip had a purpose.
+
+Before Bell could begin the formal business, a king with a ruby over one eye leaned across the table and pointed at my badge. "Is that genuine?" I looked down at it. "Nigga, it better be. They made me promise things." "You are a criminal." "And employed. Don't limit a nigga because your imagination got narrow shoulders." His wife laughed into her wine.
+
+He looked at her. She looked right back, still laughing, like marriage didn't require her to pretend he hadn't walked into the joke carrying his own chair. "I mean," the king said carefully, "what do you do with the authority?" "Usually arrive where somebody thought I wouldn't." "And then?" "Depends how handsome the situation is when I get there." Tank leaned over his plate.
+
+"Nigga, don't ask him to explain the whole career. Your food gonna retire." The ruby-eyed king ignored him. "I have commanded men for thirty years." "Nigga, congratulations. They still listen?" His wife put her glass down before she lost it entirely. He turned a shade darker. "My household is loyal." "I ain't doubt your household.
+
+You the nigga doing a speech about it." Across the table, Porsche whispered to Mercedes, "That nigga asked one question and lost three anniversaries." "His wife smiling like she just got a present she picked herself." Shawna laid her hand on my forearm. "Baby. Let him eat." I kissed her fingers. "See? That's command.
+
+Everybody comfortable." The old silver-bearded king at the far end lifted his glass toward us. "I would like to propose a toast." Bell's face tightened. Apparently he owned the toasts along with the furniture. The old man continued anyway.
+
+"To the captain, who has introduced three useful customs to this city in less than a day: arriving when he pleases, telling the truth about our foolishness, and looking at his wife as though he has won something more valuable than an argument." His own wife smiled at him. Nigga, the old man had scored one for himself on my play. I respected the movement.
+
+Glasses rose around the table. Even the ruby-eyed king lifted his, though he held it low enough that a man could pretend he was only checking the color. I stood. "To everybody smart enough to enjoy me while I'm here." Tank raised his drink higher. "That's our nigga." Rosa touched her glass to his. "That's an expensive nigga." Shawna looked up at me.
+
+"That's my husband." Nigga, I sat down so happily the chair probably thought it had won the toast. Bell tapped his glass. "Before we eat, the gifts." A procession started at the door. Emerald swords. A model yacht with keys beneath it. A painting of Bell wearing the exact expression he was wearing while looking at the painting. Mercedes leaned toward Porsche.
+
+"If I ever buy a man a picture of himself, call somebody." "I'll buy you a better man." My turn arrived. Rusk looked nervous enough for both of us. I stood, buttoned my jacket, and set the silver invitation case on the table. Bell's smile vanished. Vesper's stayed still. "This was stolen this afternoon," I said.
+
+"Some niggas tried to make off with it while everybody was busy running. I brought it back." "A recovered object cannot be offered as your own gift," Bell said. "Good thing the gift is this nigga not asking why your crest was inside their van." Bell looked at the case. Then at me.
+
+"You consider that a gift?" "Nigga, I gift-wrapped the question by waiting till everybody had wine. Shawna told me to be social." "He was excited to meet you," my wife said. The nigga looked considerably less excited to have been met. The room went so quiet I heard Tank put his fork down.
+
+Shawna looked at Bell like she had been expecting him to disappoint her and was annoyed by how quickly he had managed it. Bell spread his hands. "Many vehicles in this city bear my crest." "They all carry masked niggas shooting at the parade?" "I rent to a variety of clients." "That's a hell of a variety." Vesper lifted her wine but didn't drink.
+
+Bell turned his head toward a side door. A servant stepped out. Two guards took his place. Their jackets sat wrong over what they were carrying. I knew that shape. Nigga, I had owned that shape in several colors. "You are a guest in my home," Bell said.
+
+"Nigga, I'm also a cop in your dining room." "You accepted my hospitality." "The guest accepted a bird. The cop accepted evidence. You should've asked which one was hungry." Tank looked at his plate, then at Bell. "And this nigga ain't even been served yet. You got problems arriving from every chair." Rusk cleared his throat. "The first rule—" "I remember.
+
+No arrests during dinner." I picked up my plate, ate one bite, and put the napkin down. "I'm finished." Tank stood so fast his chair slid into the man behind him. Rosa caught her wine before it tipped. Porsche took a candle off the table.
+
+Mercedes lifted the long silver serving tray like she had been waiting all night for somebody to hand her a shield. Bell's first guard drew. I hit the table with both hands and tipped its heavy center section up. The gunfire struck the underside. Plates shattered. Roast bird flew over Tank's shoulder.
+
+Every king in the room discovered a reason to be under his chair except the old man with the silver beard, who stayed seated long enough to finish his wine. Shawna dropped behind the raised table beside me.
+
+"You could have let me finish." "I'll buy you another bird." "I wanted the sauce." "Baby, I'm arresting the sauce too." Tank went around the end of the table and put a guard into the wine cabinet. Rosa swept broken glass away from the old queen's shoes and pulled her down behind a pillar.
+
+Mercedes caught a falling lamp on her tray, cursed its ancestors, and launched the whole arrangement at the second guard. The curtains caught fire. "That wasn't the plan," she said. "It was a beautiful plan till the last second," Porsche told her, and threw a pitcher over the flames. Bell ran through a private door.
+
+I followed with Shawna behind me, both of us moving through the smoke and shouting while the kings crawled out of the way. A side corridor opened into a gallery full of cars. Inside the house. Nigga, the baron had parked a whole collection on Persian rugs and still expected me to respect his dinner rules. Bell jumped into a silver coupe. Its engine screamed.
+
+Glass doors at the far end began opening. I got into a black Ferrari beside it. Shawna slid in with me. "You choosing cars by color now?" "I'm choosing the one with keys." Bell tore through the doors onto a balcony wide enough to host another dinner. The sea flashed beneath the railing. He headed for a bridge joining the house to a neighboring tower.
+
+I followed. The Ferrari's tires slid on marble. My left arm still ached from the blue thunder at the pier, and I kept it honest. No power this time. Just me, the engine, and my wife's hand braced against the dash while she laughed like she had personally ordered this evening. Bell knocked over a line of stone flowerpots behind him.
+
+One broke beneath our front tire. Another bounced against the windshield and exploded into dirt. "He throwing gardens at us!" Shawna shouted. "Nigga's out of ideas!" We crossed the bridge. A servant pushing a cake cart flattened himself against the wall. I swerved, clipped the edge of the cart, and launched a six-tier cake through the open doorway of a bedroom. Somebody inside screamed.
+
+Then a woman shouted, "Silas, you said your wife wasn't coming!" Shawna looked at me. "Arrest him twice." The bridge ended inside the tower's second-floor ballroom. Bell drove straight through a circle of musicians. They abandoned their chairs just before his car struck the little conductor's stand. My Ferrari followed beneath a chandelier that had not expected traffic. The exit ahead was narrow.
+
+Bell's coupe fit. My Ferrari didn't look like it would. I turned the wheel, rode one side up a fallen orchestra platform, and went through tilted onto two wheels. A violin bow caught in the passenger mirror. Shawna took it off carefully and laid it in her lap. "Souvenir." We landed on a terrace overlooking the harbor road. Bell had nowhere left to go.
+
+His car spun near the steps. He got out holding a gun and a little black remote. "Stay there!" I stopped. Not because of his voice. Because four waiters and a woman in a chef's coat stood trapped between the cars. He had picked a place where somebody else would pay if the evening went wrong. "Move them," I said.
+
+"You don't command me in my house." "Nigga, I been doing it for twenty minutes." He showed me the remote. "The garage beneath us is full of fuel." Shawna opened her door slowly. Bell pointed the gun at her. My whole body went cold. "Look at me," I said. He did. Everybody did.
+
+There are moments when a man's voice stops belonging to his throat and comes from somewhere lower, somewhere that has buried too much to bargain politely. "You put that on her again and you won't live long enough to hear what you pressed." Bell's hand shook. The woman in the chef's coat stepped sideways. Shawna noticed. So did I.
+
+She was standing beside a large silver trolley, its top covered in empty serving dishes. I couldn't have told anybody afterward how we agreed. My wife looked at the trolley. I looked at Bell. That was enough. "What do you want?" I asked him. "The case. And your badge." "Nigga, you want my jacket too?
+
+It fits better on somebody loved." He took one angry step toward me. Shawna kicked the trolley into his knees. I was out of the car before he hit the ground. His gun went across the stone. I caught his wrist, drove the remote out of his hand, and pinned him against his own silver hood. The waiters ran.
+
+The chef picked up the remote, looked at it, and made the most disgusted face of the night. "This opens the pool cover." Silas Bell shut his eyes. Nigga, I laughed so hard I nearly let him go. Nearly. "Nigga, you threatened my wife with a swimming pool?" "You cannot understand the pressure I am under." The chef held up the remote.
+
+"There are four buttons. Heating. Cover. Lights. Fountain." "Nigga chose fountain and spoke with his whole chest," Shawna said. I had to brace myself against the hood. Bell tried to turn. "Stay there, my nigga. I'm laughing. I ain't resigning." "This is humiliating." "Nigga, you brought that from the factory.
+
+I'm only delivering the handcuffs." Harbor Chief Lucien Ardent arrived with twelve officers and the confidence of a man who had heard I was already there. He was forty-nine, immaculate, and wearing a medal he had not possessed at the pier. Apparently the city gave them out quickly when I was nearby. I handed Bell over. "Attempted murder. Stolen parade furniture.
+
+Whatever you call all that dinner shit." Ardent stared past me at the Ferrari sitting crooked beside the shattered ballroom doors. "You brought that through the tower?" "Most of it." One of his officers leaned toward another. "That nigga drove upstairs." "Inside?" "Nigga, look at the violin.
+
+It's in the car." The second officer looked through the Ferrari's open window and saw Shawna's souvenir laid carefully across the seat. "That nigga went through the orchestra." "Nigga still got his wife with him." "She helped," I told them. "Don't have my wife stand here while y'all give all her greatness to the driver." Both men straightened. One saluted Shawna.
+
+She nodded like he had finally read the proper name on the invitation. "Captain," Ardent said, "our men would be honored to drive under your command tonight." "Then drive my people somewhere with food." By the time we reached the dining room again, Tank had found the kitchen. He stood beside a new platter with gravy on his cuff.
+
+Rosa was sitting on the edge of the table, feeding him a bite while the old queen watched approvingly. Mercedes and Porsche had taken charge of a nervous prince and were making him apologize to the servers one at a time for something he'd said during the gunfire. Vesper stood near the burned curtains. Her dress was untouched. That annoyed me more than a little.
+
+"You could've helped," I told her. "I moved three guests through the west door." "You also watched your baron try to kill us." "He is not my baron." "He had your invitation seal." "So do you. Shall I call you mine?" Shawna came beside me and took my arm. "Try it and see if he answers." For a second Vesper's expression softened. It surprised me.
+
+Not jealousy exactly. More like she had looked through a window and found a room she used to know. Then it was gone. "Silas entered the tournament to clear a debt," she said. "He thought stealing the private seal would keep a stronger claimant out.
+
+He chose poorly." "Who was supposed to get it?" "A man who has not lost a fight in eleven years." Tank stopped chewing. "He overdue." Vesper looked at him, then at me. "Tomorrow night. The cathedral beneath the city. Bring your badge if it comforts you.
+
+The men there won't care." "Nigga, they always care by the time I leave." Outside, the police had closed the waterfront for us. A crowd filled the far side of the barriers. Somebody had already printed the picture of me holding Bell against his car. Shawna took one, studied it, and nodded.
+
+"That's a good picture." "You want your nigga to sign it?" "I want you to explain why your hand looks that good in it." "That's the hand that holds you. Nigga keeps his best work in circulation." "Baby, you handcuffed a man with it." "And came home to you. Look at this nigga completing assignments." Rosa laughed.
+
+Tank told us to get in the car before he had to hear anything else married people thought was private just because they said it softly. We went to a little place beside the harbor with blue chairs and grilled fish and an owner who tried to give us the whole restaurant when he saw the badge. I bought dinner instead.
+
+Nigga, I had arrested enough property for one night. Shawna sat between my knees on the low seawall afterward, holding a paper cup of wine while the city shone behind us. The rest of our people argued over dessert at a table a few feet away. Police cars waited at both ends of the street.
+
+Somewhere a musician was singing about a man who had arrived from the west and broken a king's dinner in half. "That song about me?" I asked. "Already," Shawna said. "He left out the Ferrari." "Give him time." I kissed the side of her neck. She leaned back against me, warm and alive and laughing at something Tank had said.
+
+Then she put her hand over mine. "I saw how you looked when he aimed at me." "Don't want you seeing it again." "I wasn't scared of you." I held her closer. "I know." "And I wasn't waiting for you to do everything." "Baby, you put a whole dinner cart through that nigga's legs.
+
+Nobody confused you with furniture." She laughed so hard her wine nearly went into the harbor. The musician by the harbor stopped singing when he saw me listening. Nigga, that was rude. He'd just reached a part where I sounded extremely good-looking. Keep going, I told him. Captain, I didn't mean— You meant the nigga in the song saved everybody. Keep meaning it.
+
+He laughed and found the chord again. Young man, twenty-nine, hands strong from work that didn't always come with an audience. He'd put my name into a melody that climbed too high in the second line and made him fight his own throat to come home. I held up a hand. Try that part lower. He tried it. The phrase opened. Shawna lifted her head.
+
+There, she said. The musician looked at his guitar as if the instrument had been keeping something from him all afternoon. Nigga, he whispered. Exactly, I told him. Now sing your whole song. He did. Tank started keeping time on the table. Rosa took the harmony without being asked. Mercedes clapped once, then again, until the people outside the restaurant joined her.
+
+By the last chorus, half the harbor was singing about a nigga sitting on a seawall with his wife between his knees. I sang with them. Shawna turned around laughing. You harmonizing with your own legend? Nigga, I know the material. The musician finished red-faced and happy.
+
+I gave him enough money to stop worrying about his next several evenings, and he asked whether I wanted my name on the song. It already in there seven times, I told him. Keep yours on it too. He nodded so hard his guitar moved.
+
+Then he started the song again from the beginning, because apparently some niggas understood a good night when it asked for an encore. The cathedral invitation arrived before dessert. A little black card, carried by a man with one cauliflower ear and two enormous friends. On the front was a painted fist.
+
+On the back, in silver ink, somebody had written: THE CHAMPION ACCEPTS YOUR BADGE AS COLLATERAL. I took out my pen. Underneath, I wrote: NIGGA, HE CAN HOLD MY COAT. I handed it back. Shawna read it over my wrist and kissed me before the messenger could leave. By then the man had seen enough greatness for one shift.
+
+He bowed, actually bowed, and walked backward all the way to the street.

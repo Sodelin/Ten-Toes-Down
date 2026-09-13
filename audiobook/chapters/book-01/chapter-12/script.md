@@ -1,0 +1,113 @@
+# 12. The Money at the Bottom
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+The first page had a date. The second had numbers. On the third, beside Valentino's name, somebody had written settled in red ink. Under it was a copy of the order we had found in the watch. Red had kept his own. I looked up at him. Nigga, you sick motherfucker. Nigga, careful where you point that mouth. Shawna snatched the pages from my hand.
+
+She found the order. Read it. Turned the page like there might be something on the other side that could make it less real. She already knew what it said. I had watched her read the original. Knowing didn't make her ready to see it sitting in a drawer under the man's desk, waiting beside his good pens. You kept this? she asked.
+
+Red didn't answer her directly. T believed in records. Nigga kept everything. You're sitting behind the desk. Shawna. You're sitting behind the fucking desk. She threw the order at him. It struck his chest and fell across the edge of the blotter. He looked down at it. Then at me. I was going to make this generous. Nigga, shut your mouth.
+
+Tank moved closer to me. The men at the door moved with him. Red noticed. His expression changed into something almost happy. Maybe you should ask your man what generosity looks like. Tank went still. I turned toward him. What the fuck is this nigga talking about? Aiden. Nigga. What? Red picked up a remote from the desk. A screen on the wall lit up.
+
+An empty swimming pool filled it. For a second I was back at the motel. T's gun against my side. Shawna on the balcony. Cash blowing across blue tiles while I tried to keep another man from deciding whether I got to breathe. Then I saw Tank climbing down into the pool. On the recording, our Mercedes was already gone. Tank had a bag.
+
+He began putting the money inside. I watched until I couldn't. Nigga, you heard enough breathing in this room. Turn it off. Red left it playing. Onscreen, Tank went back for another bag. The nigga stepped around the same place where T had fallen, leaned over, and picked up a loose bundle beside his shoe. Nigga. Turn it the fuck off. Red pressed the remote.
+
+The office became quiet enough that I could hear Shawna breathing. Three million, Red said. All of it. Your friend is thorough. Tank looked at me. He didn't look away when I turned on him. Nigga, you took her money? Nigga, I took it out the pool. I'm standing here saying that. Don't play with me. I'm not. You watched her hold me together.
+
+You saw her drive off with me bleeding. And you went back for the fucking money? His jaw moved. Yes. I hit him. I couldn't even remember deciding to. My fist caught the side of his face. Pain went through my ribs so hard my knees almost followed it. Tank stayed where he was. I hit him again. He took that one too.
+
+Nigga, look at me and hit me back. No. Hit me the fuck back. Shawna caught my arm. Tank's mouth was bleeding. He looked at her, then at me. I'm not hitting you. Red leaned against his desk. This is touching. I turned so fast Shawna tightened her grip. You say one more word— And what? You'll die rich?
+
+He glanced at the blue box in my hand. I had forgotten I was holding it. Forty million dollars, and I wanted to throw it through his fucking face. Marcellus stepped closer to the desk. His eyes moved over the stone under the lamp. The look on his face stopped me. Aiden, he said. Red looked at him.
+
+The old man didn't stop looking at the box. Close it. What? Close the box. I did. He raised his eyes to mine. Whatever he had seen, he didn't want Red hearing it yet. Tank wiped his mouth with the back of his hand. It's at your house. Back of my closet. I moved it when we moved in. Shawna stared at him.
+
+All of it? Every fucking dollar. Why didn't you tell us? He looked down at the floor. Then he looked back up because I had stepped toward him again. Because I thought you was going to leave. That stopped me for half a breath. Nigga, what? You got her. T was dead. You had the car.
+
+You was talking about water and houses and taking her anywhere. I thought you was gone. Nigga, I was fucking dying. I know. Do you? His eyes filled, which made me angrier. Tank was not supposed to do that. Tank was supposed to be something solid I could hit until the rest of the world made sense.
+
+I thought if you left, I'd have something, he said. That's it. That's the whole thing. Red shook his head. Tell the nigga the rest. Tank looked at Red. You called me. And you answered. You sent me that video. And you answered again. Shawna let go of my arm. You told him where we were? No. Tank. No, Shawna.
+
+I didn't tell him about the house by the lake. Didn't tell him what you was doing. He knew you were coming here because you fucking told him. Red's smile thinned. I offered him his place back. I looked at Tank. What place? Yours, Red said. The room seemed to move farther away from me. All those nights with Tank outside my door.
+
+The spare phone. The way he watched when I called men who used to answer to T and heard them answer to me instead. You want it? I asked him. Tank said nothing. Nigga, I'm standing right here. You want it? He looked at my white suit. At the red mark coming through near my side. I hadn't noticed it before.
+
+Then he shook his head. Nigga, I wanted you to ask me to stay. Me. Not whoever drove the car. I didn't have an answer ready for that. Nigga, I had an answer ready for a hundred different betrayals. That one caught me with my hands empty. Red opened another drawer. Took out a car key and tossed it onto the desk.
+
+You can still make the intelligent decision, he told Tank. Bring me my money. Walk out of here with a future. Tank looked at the key. He picked it up. My whole body went cold. Then the nigga threw it through Red's window. The glass cracked under the impact without breaking apart. The key bounced down onto the carpet. Tank looked at the window.
+
+Then at Red. Fuck your car too. Everything happened close. One of Red's men caught Tank by the shoulder. Tank turned and drove him into the wall hard enough to knock a framed picture sideways. The other man reached inside his jacket. Shawna grabbed the desk lamp and smashed it across his arm. The room flashed white as the bulb burst.
+
+Red caught her from behind. I went toward them, and the man beside the door hit me in the side with something heavy. Nigga, the whole world left my lungs. I fell against the desk. Papers slid beneath my hands. Red dragged Shawna toward the inner door while she fought him, her shoes scraping the floor. Let her go.
+
+It came out barely louder than breathing. I tried again. Let her fucking go. Tank tore the man away from me. Marcellus caught my sleeve and pulled me upright. I had the blue box in one hand and Dante's folder under the other. I don't know why I held on.
+
+Maybe because letting go of one more thing felt like the end of the whole fucking world. A gun went off. The sound filled the room. A piece of wood jumped from the desk beside my hand. Somebody downstairs screamed, then more people screamed, then the party stopped pretending to be beautiful. Red had Shawna in front of him by the inner doorway.
+
+The gun was against her. I stopped. Tank stopped. For one second, everybody did exactly what Red wanted. There, he said. You can learn. Shawna's hair had come down. One earring was gone. She stared at me over his arm, and I could see her trying not to cry because she thought that would make me do something stupid. Nigga, I was already past stupid.
+
+I was standing in the place where I would've paid for my next breath with every life in the building if it let me reach her. Take me, I said. Red looked almost offended. Nigga, I don't want you. Let her walk. I'll stay. I heard you. Shawna shook her head. Just once. Hard. Aiden. I couldn't look away from the gun.
+
+Aiden, take it and go. I'm not leaving you. Go. The inner door opened wider. Another man stood behind Red. Shawna saw him before I did. Something in her eyes changed, and she used the last second she had to look straight at Tank. Get him out. Then Red pulled her through the door. I went after them. Tank caught me around the chest.
+
+I fought that nigga harder than I had fought anybody the night they jumped me in. I hit him in the face. In the shoulder. I told him I would kill him. I meant it. He kept pulling me away while a man behind us shouted and another shot struck the wall. Marcellus was at the outer door.
+
+Rosa appeared beyond him with her red dress gathered in one fist. Her face changed when she saw Shawna wasn't with us. Where is she? He has her, Marcellus said. Rosa tried to go past him. The old man caught her hand. Not this way. Tank dragged me into the hall. I could still hear Shawna on the other side of the office.
+
+Then I couldn't. We reached the ballroom stairs just as one of Red's men pulled the front doors shut. Nigga, he actually put his back against them. A whole room full of people trying to leave, and this motherfucker decided the most important thing in the building was the fact that his boss hadn't said they could. "Open them!" Rosa shouted. He raised his gun.
+
+Tank pulled me behind the banister as the shot struck the wall above us. I could still hear Shawna's voice in my head. Take it and go. I had taken the box. I had taken the papers.
+
+Nigga, I had left the only thing in that room I wanted, and now a man was pointing a gun at Rosa because he thought the evening still had instructions. I put the blue box inside my jacket. The folder went under my belt. My badge lay against both of them. "Put me down." Tank tightened his grip. "Aiden—" "Nigga, I ain't going back upstairs.
+
+I'm getting these people out. Put me on my fucking feet." He did. The room stopped tipping after one terrible second. I caught the rail. Got enough breath to remember I had lungs. Then I looked down at the man by the doors. "Police!" He laughed. I opened my jacket. The gold badge caught the light. "Captain, nigga.
+
+Try your joke with the right title." His eyes moved from the badge to my gun. For half a second I thought he might be intelligent. Then he fired again. I went over the lower banister and hit the carpet beside a table. Tank came down the stairs behind me, firing toward the door. People crawled away from us.
+
+A woman in diamonds grabbed my sleeve and asked if we were going to die. "Not with that nigga shooting," I told her. "Get behind the table." She went. Her husband followed so closely he lost a shoe and didn't even look back for it. A second guard came through the side corridor.
+
+He saw me crouched beside the table and tried to get his gun around the corner. Rex Crown hit him from behind. The two men crashed into a champagne tower. Glass fell like a crystal fucking waterfall. Rex held on, driving the guard into the wall with all the strength he'd been saving for a better ending to his night. "Captain!" he shouted.
+
+I fired past him toward the front door. The guard there dropped behind a planter. Tank reached the doors and pulled one open while the people closest to him ran into the lobby. Rex wrestled the second man to the floor. The guard hit him across the face with the gun. Rex went sideways, stunned, and the man rolled free.
+
+I crossed the room before he could stand. He raised the weapon at Rex. I hit him with the heavy blue box through my jacket. Forty million dollars made a solid fucking sound against his head. Later I'd find out it wasn't worth forty million. At that moment it was worth exactly one living boxer. The man went down.
+
+I took his gun away and kicked it under the bar. Rex looked up at me with blood running from his eyebrow. "Twice," he said. "Nigga, you keeping score now?" "You beat me. Then you saved me." "Keep up. Night ain't over." He got up laughing, blood on his teeth, and put his huge shoulder under my good arm.
+
+Together we went toward the doors while Tank held them and Rosa pushed Marcellus ahead of her. Above the staircase, the statue's bowl of fire tipped. Something had struck its base. I never saw what. I heard metal grind, looked up, and saw burning liquid spill down the bronze woman's arms. Flame ran over the flowers beneath her.
+
+The statue leaned toward the people in the passage below. Mercedes stood directly underneath it pulling a man off the floor. "Move!" I shouted. She looked up. The bronze woman fell. I got to Mercedes as the statue struck the banister. Bronze snapped wood.
+
+The bowl flew one way, the statue another, and I drove both her and the man through the open passage before the whole staircase's broken lower section hit the carpet behind us. Heat rolled over my back. My side went white with pain. Mercedes caught my face in her hands when we stopped sliding. "Nigga.
+
+Nigga, you got me?" "I got you." "You sure?" "Baby, count your fucking legs." She looked down at herself. Two legs. One shoe. A dress she was going to mention for the rest of my natural life. Then she kissed my forehead so hard I thought the bullet might come out from gratitude. "You beautiful, stupid, magnificent motherfucker." I tried to get up.
+
+Couldn't the first time. Rex and Tank reached me together and lifted. The people behind us had found their way through. Porsche stood outside holding the lobby door open with one leg and shouting directions nobody dared ignore. The woman in diamonds I'd spoken to stopped beside me, caught my hand, and pressed her wedding ring into it. "For saving us." I pushed it back.
+
+"Nigga, keep your husband nervous. I got a woman waiting." She laughed through her tears. My own woman wasn't waiting outside. That thought hit as soon as the cold air touched my face. All the people I'd brought out moved around me, alive and calling me Captain, and the one voice I needed wasn't among them. I turned toward the stairs again.
+
+Tank caught my shoulder. "Not that way." The look on his face stopped me harder than his hands. "She told me to get you out. Nigga, you alive enough to go get her somewhere else. That's what we got left." I let him take me to the car. Rosa went with Marcellus to another car.
+
+Before she got in, she pushed one of the gala photographs through my open window. She gave me this, she said. The picture showed Shawna between me and Red. His hand against her arm. His ring under the lights. My hand at her waist like I thought holding her in a photograph meant the world couldn't take her anywhere. Rosa's voice broke.
+
+She told me to keep one for when you two got married. I stared at it. Then Tank drove. The police Lamborghini stayed with Knox's officers at the Saint; they would bring it back when the road was clear. We didn't get far before Marcellus called. I put him on speaker. My fingers had gone sticky against the blue box. The stone, he said. Aiden.
+
+Listen carefully. The stone you have is the duplicate. Tank looked at me. I opened the box beneath the dashboard light. Blue looked back at me. You sure? Nigga, I made it. I shut the lid. Nigga. We had gone in with Shawna and come out with a fucking lie in velvet. Does Red know? Tank asked. Marcellus didn't answer right away.
+
+He expected you to take it. The road lights passed across the windshield. One. Another. Another. I counted them because if I stopped looking at something in front of me, I saw Red's arm across Shawna's chest. Rosa took the phone. We still have the original order. And you have his papers. I looked at the folder against my leg. The corners were bent.
+
+On one page, a line of red ink lay beneath Valentino's name. On another was a list of payments tied to the old jewel transaction. Evidence of the life Red had built out of other people's bodies. I don't want his fucking papers. I know. I want her. I know, Aiden. Tank drove faster. Not wild.
+
+Just like every second now had somebody's hand around its throat. My phone lit up with an unknown number. I answered before the first ring finished. Shawna? Red breathed into the line. I wondered how long it would take you to notice the gift. I put the phone against my ear so hard it hurt. Let me hear her. Your friend has my three million.
+
+You have papers that belong in my desk. And somewhere, somebody is holding a very old note. Let me hear her. A sound came through. Movement. A door. Then Shawna. Baby. I closed my eyes. I'm here. I know. I'm coming. I know. Red took the phone away. The unfinished casino in the desert. Midnight. Bring the money. Bring the papers. Bring the original.
+
+I looked at the clock on the dashboard. We had less than three hours. If you hurt her— Then come before I get bored. The call ended. Tank kept his eyes on the road. For a while neither of us spoke. I held the photograph in one hand and the worthless blue box in the other. My white suit was ruined.
+
+My cheek still held the heat of Shawna's slap. Every place she had touched me that night felt like the only part of my body still alive. Take me to the money, I told Tank. Yeah. All of it. Yeah. I put the photograph inside my jacket, over the cross.
+
+I had walked into the Saint thinking I could steal a fortune and a future in one night. Now that nigga had my future locked in a room somewhere, and all the money in Vegas couldn't make the next red light change. Tank. What? After we get her. He glanced at me. Nigga, we are getting her. I looked out at the city.
+
+After we get her, there isn't going to be enough desert left to hide what we do to him.

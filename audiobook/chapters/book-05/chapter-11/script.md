@@ -1,0 +1,109 @@
+# 11. My Wife Sang Through the Whole Damn Thing
+
+Single narrator: the funeral ticket man. Verbatim chapter body.
+
+Paolo sold the benefit out before Shawna finished telling him what a benefit was. Nigga, the man heard people, money, and my wife's name in one sentence and began opening the doors with his whole heart.
+
+By seven that evening, there were cars along both sides of the opera house, people leaning from the hotel balconies, and a white banner across the street announcing SHAWNA AND ROSA — ONE NIGHT FOR THE HOUSE. Underneath, in smaller letters, somebody had added CAPTAIN AIDEN WILL BE PRESENT. I stood in the street looking at it. "Smaller letters?" Shawna hooked her arm through mine.
+
+"You singing?" "Nigga could." "Then you can audition next time. Tonight you buy a ticket." I bought the whole front row. She made me keep one seat and give the others back to the guests who'd been waiting. Nigga, I had married a woman who could redistribute my greatness with two fingers and a look.
+
+Inside, the forty-seven people from Vesper's household had turned the opera house into something that smelled like supper instead of fear. The cook ran the kitchen. Drivers helped park cars. Two singers warmed up with Rosa behind the stage.
+
+The others carried flowers, hung lamps, checked seats, did the practical little things people do when they want the place keeping them alive to feel like somewhere they chose. Nobody wore Vesper's colors. Nobody had to explain why they were there. Paolo called them the house company, and for that evening the name fit.
+
+Dalia was setting a covered sculpture in the lobby when we came in. Corvin stood beside her telling a man in an expensive coat how much the marble had cost. Dalia kept working around him as if he were another piece of furniture somebody had delivered before she approved the measurements. "What's under there?" I asked. She stepped back. "Your wife." Shawna stopped.
+
+Dalia pulled away the cloth. The sculpture was smaller than life, white marble catching the lobby light, Shawna's face turned slightly toward something beyond the room. The scar above her eyebrow was there.
+
+So was the little lift at one corner of her mouth, the expression she wore when she knew I was about to do something expensive and had already decided to love me through it. I looked at Dalia. "Nigga, you got her." The sculptor smiled. "She sat for twenty minutes. You spent nineteen of them telling her she looked beautiful.
+
+It helped." Shawna touched the edge of the marble shoulder. "You kept the scar." "It's yours." Corvin put a hand on the pedestal. "An extraordinary piece. I could place it in my west gallery." Dalia moved his hand gently out of the way. "It belongs here." He blinked. "I paid for the—" "Stone," she said.
+
+"You paid for the stone." I took my checkbook out before the sentence finished. "Nigga, how much rock you want reimbursed?" Shawna put her hand on mine. Dalia was already smiling at Corvin. "A gift to the house. Put your name on the little card if you need help enjoying it." The people around us laughed.
+
+Corvin looked at the statue, then at Dalia's face, and found a better answer than the one he'd come with. "Your name first," he said. She looked at him for a long second. "There might be hope for you." Porsche leaned toward Mercedes. "Everybody learning tonight." Mercedes looked at Laurent, who was helping an older woman find her seat without mentioning his family once.
+
+"Nigga class filling up." Gault arrived in a dark suit that made the former champion look like he'd come to apologize to a chandelier for how close his shoulders were getting. He shook my hand at the stage door. "I hear the harbor went well." "Nigga, the harbor still there. That's a strong start." He smiled.
+
+"Laurent told me you turned the ferry." "Laurent needs to stop remembering things before people start asking me to do them twice." Gault looked into the theater. Saw Rosa at the piano, Shawna speaking to the conductor, Tank moving a heavy piece of scenery by himself because a woman had said it needed moving and he didn't want to waste the compliment arriving afterward.
+
+"Where do you need me?" I pointed at the lobby. "Smile at the rich people. Let them know the money going somewhere they can feel good about surviving." "I can do that." He went out and immediately made a man buy twelve tickets to a show that was already sold out. Nigga, I respected a fighter who understood the second half of his career.
+
+Backstage, Shawna stood in a deep blue dress with her hands flat on a little table. She was quiet in a way I knew now. Not frightened of singing. Frightened of caring how much the singing might mean. I came behind her and put my hands over hers. "Baby." "I know.
+
+I'm going to be good." "Nigga, good ain't big enough for you." She looked at me in the mirror. "You keep saying things like that before I go onstage." "Then go onstage and make me look honest." Her laugh came back. Small at first, then whole. She turned around, put both hands against my chest, and straightened the gold cross.
+
+"Keep the car out of the theater." "Why you starting the night with limits?" "Because I know my husband." "Nigga knows his wife too. She gonna make those people cry and then charge them for another song." She kissed me. "Go sit down, Captain. Let me work." The first song brought the whole house to its feet. Shawna began alone. No orchestra. No piano.
+
+Just her voice rising from the middle of the stage while the audience quieted one person at a time until even the men who usually made noise with their money had nothing worth interrupting her with. I sat in the front row and forgot where my hands were. Tank nudged me.
+
+"Nigga, you're gripping the chair." "Chair should feel honored." Onstage, she lifted her head for the last note. It filled the space above us, touched the high painted ceiling, came back carrying every time I'd heard her stop halfway through a song because the room in her head had gotten too crowded. She didn't stop tonight.
+
+The applause hit so hard I felt it through the floor. Rosa came out for the second number in red, all confidence, one hand on the microphone like she had finally found something in the city worth telling how she felt. Tank stood up before anybody else. She pointed at him once.
+
+"This one is for a man who still thinks buying two identical cars counts as a personality." The whole theater laughed. Tank put both hands on his chest. "Nigga, she talking about me." "We got there," I told him. "Everybody got there." He sat down smiling so hard his face looked different.
+
+I would've stayed in that seat all night watching my people become beautiful in public. Then I saw the man at the side door. Gray jacket. Black glove on one hand. No program. He looked toward the balcony, touched his ear, and turned away without looking at the stage once. Nigga, everybody looked at Rosa. I got up.
+
+Tank saw my face and came with me. The man disappeared into the corridor beside the dressing rooms. I followed far enough to hear a door close upstairs. A heavy door. Then a short cry that somebody tried to swallow before it reached the music. Tank looked at me. "The company rooms." I nodded.
+
+Vesper's forty-seven people were supposed to be spread through the house working. Some were still upstairs waiting to go on or helping the older staff get ready for the reception. Those rooms were where somebody would go if he wanted the people more than the audience. I took the stairs two at a time.
+
+At the landing, a man in a dark uniform stood beside the wardrobe door. Not Ardent's police. Black Mantle. He saw me and reached for his gun. I hit him with the door before he got it out. The wood struck his shoulder. He went into the wall.
+
+Tank caught him on the way down and put him on the floor without letting the sound reach Rosa's verse. Inside the wardrobe room, six people stood against the wall with their hands raised. Two men held guns on them. A third was going through a list. The old cook had one hand around a rolling pin. "You let her keep that?" I asked.
+
+All three men turned. "Nigga, you already lost." The cook hit the nearest man across the forearm before he finished looking at me. His gun dropped. Tank came through behind my shoulder and drove the second man into a rack of costumes. Silk and velvet fell over both of them like the theater was trying to dress the beating properly. The third man fired.
+
+The shot struck the doorframe beside my face. Downstairs the orchestra hit a loud brass chord at exactly the same moment, and for one terrible, beautiful second the audience applauded without knowing what we'd just kept away from them. I fired back. The man dropped behind the dressing table.
+
+I crossed the room, caught his jacket, and dragged him out before he could decide he liked that position. His gun skidded across the floor. The cook kicked it under a cupboard and looked at me. "They came for us." "Nigga, they came to get disappointed. You stay behind Tank." The man with the list tried to crawl toward the window.
+
+Mercedes appeared on the other side of it from the narrow balcony and put one high heel against the frame. "Wrong exit, baby." He stopped so suddenly his forehead hit the sill. Porsche came through the door behind us with Gault. Between them they had another two men by the collars. Gault looked almost apologetic about how unconscious his man was.
+
+"He argued." "Nigga, you have a persuasive face," I told him. Mercedes climbed through the window and brushed her dress straight. "Three more in the laundry lift. I saw them from the stairs." I looked toward the corridor. The lift began moving.
+
+The old theater's laundry lift was a wooden platform inside an iron frame, big enough to move scenery when the regular stage lift broke. I had watched Paolo bring a piano up in it that afternoon, worrying over the instrument like the whole house might forget music if it got scratched. Now three armed men rode it toward the top floor.
+
+Their chief stood beside the gate wearing a long gray coat. He had a rifle in one hand and a little radio in the other. When he saw me, he looked almost relieved. "Captain Aiden. Finally." "Nigga, everybody says finally right before their night gets shorter." He lifted the radio. "Colonel Drake will be pleased." "Then call the nigga after.
+
+Let him enjoy the suspense." The lift reached the floor. The gate opened. Tank hit the chief into it, and the two of them fell onto the platform. The armed men inside tried to raise their guns without shooting their own commander. That little hesitation gave Gault room to join the conversation. The whole lift shook.
+
+I came in low as a gun went off above us. Wood splintered. Somebody hit the lever on the wall, and the platform began sinking while five grown men tried to decide who got to remain standing on it. We dropped past the first floor. Past the galleries. Straight toward the orchestra pit. I heard the music growing louder beneath us.
+
+Rosa was at the end of her song. Shawna had joined her for the last chorus. Their voices came up together while Tank held the chief's arm away from all the people he could hurt. One of the men shoved Gault against the rail. Gault caught himself, then the man, and put them both on the floor. I hit another against the lift's side.
+
+The third lost his footing and went through the open gate onto the stage level, rolling behind a curtain. I followed him out. The curtain flew aside. For one second I stood in front of a packed theater with a gunman by the back of his coat and my wife holding a microphone ten feet away. Shawna looked at me. Then at the gunman.
+
+Then at the empty space where her show had been proceeding beautifully. "Aiden." "Baby, keep singing." Nigga, she did. She turned toward the audience and sang the next line louder. Rosa came beside her, took the harmony, and the orchestra caught them without missing the measure.
+
+I put the gunman through the open scenery door before anybody in the front row finished deciding whether that was part of what they'd paid for. It wasn't. They applauded anyway. The chief escaped Tank's grip when the lift stopped below the stage. He came through a lower door into the loading courtyard, coat torn, radio gone, one hand clamped around his gun.
+
+I saw him from the stage wing as he ran toward a black car waiting outside. He got in. The car moved. My Lamborghini stood across the courtyard. I looked at it. Shawna saw me looking from the stage. Even while she sang, she shook her head. I held up one finger. Nigga, my wife knew how much trouble I could fit inside one finger.
+
+I ran. The Lamborghini's engine came alive under me while the black car turned toward the market street. I followed it out of the courtyard, gold badge shining on the door, siren splitting the night open beside the opera house's music. People jumped back from the curb. The black car swerved around a flower cart and clipped a stone pillar.
+
+I stayed close enough to see the driver looking into his mirror, trying to understand how the same man had been upstairs, onstage, and behind his car before the song ended. Nigga, I had an active marriage. He turned into the narrow service street behind the theater. There was a delivery truck at the far end.
+
+No room to pass unless a man loved his car less than he loved the person he'd left singing. I loved my car plenty. The truck just wasn't getting my vote.
+
+I drove up the low stone edge beside it, tilted the Lamborghini against the lane's raised border, and slid past with one side high enough to make the driver of the truck remove his cap and hold it against his chest. Then I came down in front of the black car. Its driver braked. Too late to keep his dignity.
+
+Just early enough to keep his face. The black car struck my rear bumper and stopped. Ardent's police filled the street behind it. Gault stood beside the chief's passenger door before the man could open it. Tank came from the other side, breathing hard, still wearing a strip of opera curtain across one shoulder.
+
+"Nigga," he said through my window, "you told her you was keeping the car out the theater." "I did. This street." He looked around. "Technically." "A nigga keeps his promises." Ardent got out of his car and looked at the Black Mantle chief. "And whose performance were you hoping to interrupt?" The man said nothing. "Good answer," Ardent said.
+
+"Keep it until we reach the station." I got back into my seat before the final note ended. My shirt was torn at the shoulder. My hair had acquired a little theater dust. There was a scratch on my cheek that Shawna would inspect later with the intensity of a woman deciding whether she needed to be angry or only very close to me.
+
+Onstage, my wife sang the last line directly at my face. Rosa held the harmony beneath it. The whole house rose. People clapped until the conductor turned around smiling. Dalia stood beside her statue in the lobby with one hand over her mouth.
+
+Laurent held the door for the company members returning downstairs, making sure every one of the forty-seven found a place among the applause. Mercedes sat beside me and crossed her legs. "Beautiful show." "Nigga, I caught most of it." "You were in some of it." "Versatile." She laughed and put her hand over mine for one second. "They all safe upstairs." I nodded.
+
+Then Shawna held out her hand from the stage. I went to her. She kissed me in front of the whole theater, turned me toward the audience, and pointed at the torn shoulder of my shirt. "My husband," she said into the microphone. "He promised to sit still." The laughter rolled upward through three balconies. I took the microphone gently from her hand.
+
+"Nigga, I sat extremely still when I finally got there." They laughed harder. Then they began calling my name. Shawna leaned against my good side and let them. Afterward, Paolo showed us the money the benefit had raised. Enough to keep the company fed, paid, housed, and working long after Zero's people stopped believing they could order everybody back through the door they had escaped.
+
+I doubled it. Then Corvin, trapped between Dalia's smile and a whole lobby of witnesses, doubled what I'd doubled. Dalia kissed him on the cheek. "Look at you," she said. "Useful marble." The prince laughed. Gault laughed. Tank pulled Rosa close with one arm and tried to pretend he wasn't holding her as carefully as a man carrying his future down a staircase.
+
+Shawna put her hand inside mine. "You heard the last song?" "Every word." "You were outside for part of it." "Baby, a nigga can hear home from the street." She smiled. And all the noise in the house became the right kind again.

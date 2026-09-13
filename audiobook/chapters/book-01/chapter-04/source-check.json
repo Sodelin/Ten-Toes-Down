@@ -1,23 +1,9 @@
 {
   "status": "PASS: script matches the source excerpt verbatim",
-  "segments": 390,
+  "segments": 66,
   "spoken_words": 3784,
   "speakers": [
-    "AIDEN",
-    "B01C04_CASH_TABLE_MAN",
-    "B01C04_DANCER",
-    "B01C04_DEALER",
-    "B01C04_PRETTY_MAN",
-    "B01C04_REAL_ESTATE_AGENT",
-    "B01C04_WHISPERING_GUEST",
-    "GLORIA_KNOX",
-    "LEON",
-    "MERCEDES",
-    "PORSCHE",
-    "ROMAN_PIKE",
-    "ROSA",
-    "SHAWNA",
-    "TANK"
+    "TICKET"
   ],
   "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
   "repository_path": "editions/niggatorial-tellings/books/book-01.md",
@@ -27,7 +13,7 @@
   ],
   "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
   "excerpt_sha256": "93e30f2ff115c27f69896b50a18b261f5767b9cd75b4798811eca0df5064cdb0",
-  "script_sha256": "59957c5040d414c1011321fbb3a23ad1c2023d8e41627030db0a481470706b92",
+  "script_sha256": "b03602ec7b200e1087c666f627880336f4b723c658690cb0bb769aaaa409c98a",
   "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
   "audio_listening_verified": false
 }

@@ -1,18 +1,9 @@
 {
   "status": "PASS: script matches the source excerpt verbatim",
-  "segments": 307,
+  "segments": 63,
   "spoken_words": 3650,
   "speakers": [
-    "AIDEN",
-    "B01C07_GUARD",
-    "B01C07_PRISON_BULLY_1",
-    "B01C07_PRISON_BULLY_2",
-    "CELESTE",
-    "DANTE",
-    "MARCELLUS",
-    "RED",
-    "SHAWNA",
-    "VALENTINO"
+    "TICKET"
   ],
   "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
   "repository_path": "editions/niggatorial-tellings/books/book-01.md",
@@ -22,7 +13,7 @@
   ],
   "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
   "excerpt_sha256": "ba992ad0b05ef8f3eabf435d2d1f68c48ae650b42ca1624809666e26b40b40ae",
-  "script_sha256": "09248e7d54072ef100e46d744c81458f11d086957327c68c1afc60a62a88373a",
+  "script_sha256": "58abe65bceffc539593a721ea682551275029f05105c8096cea79bb23ddf917f",
   "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
   "audio_listening_verified": false
 }

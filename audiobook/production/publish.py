@@ -28,7 +28,7 @@ def save(path,value):
 
 def write_index(package,progress):
     lines=['# Listen to The Niggatorial Tellings','',
-           'Chapter recordings are being produced in book order, with a consistent cast and verbatim source scripts. This page distinguishes published audio from chapters still in preparation.','',
+           'Chapter recordings are being produced in book order with verbatim source scripts. From Book I chapter 2 onward, the funeral ticket man narrates every part in one voice; Chapter 1 retains its earlier cast. This page distinguishes published audio from chapters still in preparation.','',
            '[Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)','']
     for book in range(1,7):
         jobs=[j for j in progress['chapters'] if j['book']==book]
