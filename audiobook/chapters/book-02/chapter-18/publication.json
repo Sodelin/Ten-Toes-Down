@@ -1,0 +1,9 @@
+{
+  "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-18.mp3",
+  "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+  "audio_sha256": "b8a87932436e88d42fe0b35b8ffa27eef19d00e7d074ea3913da7f519892dc66",
+  "duration_seconds": 633.9762083333334,
+  "uploaded_at": "2026-09-13T16:10:49.934756+00:00",
+  "checks": "verbatim input, audio integrity and remote asset hashes passed",
+  "listening_review": "pending"
+}
