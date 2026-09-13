@@ -63,6 +63,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 3 — 24/24 recordings uploaded
 
+[Complete Book 3 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The Ocean Was Waiting on Me | [MP3 · 19.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-01.mp3) | [Read](chapters/book-03/chapter-01/script.md) |
