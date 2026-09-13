@@ -589,7 +589,7 @@
       "segments": 62,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T15:02:34.321729+00:00",
+      "updated_at": "2026-09-13T15:02:44.712374+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-07.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -604,7 +604,7 @@
       "id": "b02-c08",
       "book": 2,
       "chapter": 8,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-08",
       "release_tag": "audiobook-book-02",
       "title": "8. A Nigga Can't Be Late to Yesterday",
@@ -613,7 +613,17 @@
       "narrator": "TICKET",
       "segments": 54,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T15:12:50.394555+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-08.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "d71f3a4a70799f8e79b8b9ab529dabc02a41a78a3ecd307298c5040322802b81",
+        "duration_seconds": 1216.788875,
+        "uploaded_at": "2026-09-13T15:12:57.016056+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c09",
