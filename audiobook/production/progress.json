@@ -1364,7 +1364,7 @@
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T19:05:25.598728+00:00",
+      "updated_at": "2026-09-13T19:05:34.883644+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-18.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1379,7 +1379,7 @@
       "id": "b03-c19",
       "book": 3,
       "chapter": 19,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-19",
       "release_tag": "audiobook-book-03",
       "title": "19. The Opera Had Security",
@@ -1388,7 +1388,17 @@
       "narrator": "TICKET",
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:12:11.355571+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-19.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "c1b6de369f845fef0973a03b8a16c1bf5f3ea15d83bd50b21607595a1b471c0f",
+        "duration_seconds": 734.61325,
+        "uploaded_at": "2026-09-13T19:12:17.663736+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c20",
