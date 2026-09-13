@@ -1089,7 +1089,7 @@
       "segments": 41,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:44:55.436655+00:00",
+      "updated_at": "2026-09-13T17:45:05.435271+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-07.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1104,7 +1104,7 @@
       "id": "b03-c08",
       "book": 3,
       "chapter": 8,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-08",
       "release_tag": "audiobook-book-03",
       "title": "8. My Wife Knows the Way",
@@ -1113,7 +1113,17 @@
       "narrator": "TICKET",
       "segments": 44,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:53:53.120453+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-08.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "48ba7d3339b8978f9b2db9c4200c49f83740ed0c95af546126ab52f789e2d569",
+        "duration_seconds": 993.3452083333333,
+        "uploaded_at": "2026-09-13T17:53:59.376154+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c09",
