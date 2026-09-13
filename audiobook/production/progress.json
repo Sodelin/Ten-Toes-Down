@@ -964,7 +964,7 @@
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:01:43.407470+00:00",
+      "updated_at": "2026-09-13T17:01:53.215645+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-02.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -979,7 +979,7 @@
       "id": "b03-c03",
       "book": 3,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-03",
       "release_tag": "audiobook-book-03",
       "title": "3. Dinner with a Man Named Cruel",
@@ -988,7 +988,17 @@
       "narrator": "TICKET",
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:10:33.945249+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "1c0c50c69d201229530e86a6a50ddb0d7a3c6b9f3ae1bddf3b21848dee2027c9",
+        "duration_seconds": 1068.2718333333332,
+        "uploaded_at": "2026-09-13T17:10:42.103895+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c04",
