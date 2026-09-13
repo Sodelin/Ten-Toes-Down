@@ -1,0 +1,612 @@
+{
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "reviewer": "gpt-5.6-sol medium; historical speakers and authored letter voices; choices documented",
+  "quote_count": 121,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3761,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 2,
+      "line": 3763,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 3,
+      "line": 3765,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 4,
+      "line": 3767,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 5,
+      "line": 3779,
+      "speaker": "B01C07_PRISON_BULLY_1"
+    },
+    {
+      "quote": 6,
+      "line": 3781,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 7,
+      "line": 3783,
+      "speaker": "B01C07_PRISON_BULLY_1"
+    },
+    {
+      "quote": 8,
+      "line": 3787,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 9,
+      "line": 3795,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 10,
+      "line": 3797,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 11,
+      "line": 3799,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 12,
+      "line": 3803,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 13,
+      "line": 3805,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 14,
+      "line": 3809,
+      "speaker": "B01C07_PRISON_BULLY_2"
+    },
+    {
+      "quote": 15,
+      "line": 3813,
+      "speaker": "B01C07_PRISON_BULLY_2"
+    },
+    {
+      "quote": 16,
+      "line": 3815,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 17,
+      "line": 3823,
+      "speaker": "B01C07_PRISON_BULLY_1"
+    },
+    {
+      "quote": 18,
+      "line": 3833,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 19,
+      "line": 3835,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 20,
+      "line": 3837,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 21,
+      "line": 3849,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 22,
+      "line": 3853,
+      "speaker": "B01C07_GUARD"
+    },
+    {
+      "quote": 23,
+      "line": 3855,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 24,
+      "line": 3857,
+      "speaker": "B01C07_GUARD"
+    },
+    {
+      "quote": 25,
+      "line": 3861,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 26,
+      "line": 3865,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 27,
+      "line": 3869,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 28,
+      "line": 3871,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 29,
+      "line": 3873,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 30,
+      "line": 3877,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 31,
+      "line": 3879,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 32,
+      "line": 3890,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 33,
+      "line": 3894,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 34,
+      "line": 3896,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 35,
+      "line": 3898,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 36,
+      "line": 3900,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 37,
+      "line": 3902,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 38,
+      "line": 3904,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 39,
+      "line": 3908,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 40,
+      "line": 3910,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 41,
+      "line": 3912,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 42,
+      "line": 3916,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 43,
+      "line": 3926,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 44,
+      "line": 3928,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 45,
+      "line": 3930,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 46,
+      "line": 3932,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 47,
+      "line": 3934,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 48,
+      "line": 3938,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 49,
+      "line": 3942,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 50,
+      "line": 3944,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 51,
+      "line": 3946,
+      "speaker": "DANTE"
+    },
+    {
+      "quote": 52,
+      "line": 3948,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 53,
+      "line": 3954,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 54,
+      "line": 3970,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 55,
+      "line": 3972,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 56,
+      "line": 3974,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 57,
+      "line": 3980,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 58,
+      "line": 3986,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 59,
+      "line": 3990,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 60,
+      "line": 3998,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 61,
+      "line": 4004,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 62,
+      "line": 4004,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 63,
+      "line": 4008,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 64,
+      "line": 4018,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 65,
+      "line": 4022,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 66,
+      "line": 4026,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 67,
+      "line": 4028,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 68,
+      "line": 4030,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 69,
+      "line": 4032,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 70,
+      "line": 4058,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 71,
+      "line": 4060,
+      "speaker": "RED"
+    },
+    {
+      "quote": 72,
+      "line": 4062,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 73,
+      "line": 4072,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 74,
+      "line": 4074,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 75,
+      "line": 4074,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 76,
+      "line": 4090,
+      "speaker": "RED"
+    },
+    {
+      "quote": 77,
+      "line": 4090,
+      "speaker": "RED"
+    },
+    {
+      "quote": 78,
+      "line": 4096,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 79,
+      "line": 4096,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 80,
+      "line": 4100,
+      "speaker": "RED"
+    },
+    {
+      "quote": 81,
+      "line": 4108,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 82,
+      "line": 4108,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 83,
+      "line": 4124,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 84,
+      "line": 4126,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 85,
+      "line": 4128,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 86,
+      "line": 4130,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 87,
+      "line": 4132,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 88,
+      "line": 4142,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 89,
+      "line": 4146,
+      "speaker": "VALENTINO"
+    },
+    {
+      "quote": 90,
+      "line": 4148,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 91,
+      "line": 4172,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 92,
+      "line": 4192,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 93,
+      "line": 4196,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 94,
+      "line": 4200,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 95,
+      "line": 4200,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 96,
+      "line": 4204,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 97,
+      "line": 4206,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 98,
+      "line": 4221,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 99,
+      "line": 4223,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 100,
+      "line": 4225,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 101,
+      "line": 4227,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 102,
+      "line": 4229,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 103,
+      "line": 4231,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 104,
+      "line": 4233,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 105,
+      "line": 4237,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 106,
+      "line": 4237,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 107,
+      "line": 4239,
+      "speaker": "MARCELLUS"
+    },
+    {
+      "quote": 108,
+      "line": 4241,
+      "speaker": "CELESTE"
+    },
+    {
+      "quote": 109,
+      "line": 4273,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 110,
+      "line": 4275,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 111,
+      "line": 4277,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 112,
+      "line": 4279,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 113,
+      "line": 4281,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 114,
+      "line": 4285,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 115,
+      "line": 4289,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 116,
+      "line": 4289,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 117,
+      "line": 4291,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 118,
+      "line": 4293,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 119,
+      "line": 4297,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 120,
+      "line": 4301,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 121,
+      "line": 4303,
+      "speaker": "SHAWNA"
+    }
+  ]
+}

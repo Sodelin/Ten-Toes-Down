@@ -32,7 +32,7 @@ Setup downloads packages and approximately 354 MB of model assets. After setup, 
 
 ## Source fidelity and retakes
 
-`render.py` now requires `source-excerpt.md` and `source.json` beside every chapter script. It verifies the excerpt hash and checks the entire script against it before synthesis. Only whitespace, curly double quotation marks and standalone `***` dividers are ignored. Changed words, punctuation and `tts_text` overrides fail the check.
+`render.py` requires `source-excerpt.md` and `source.json` beside every chapter script. It verifies the excerpt hash and checks the entire script against it before synthesis. Whitespace, curly double quotation marks, paired Markdown emphasis and standalone `***` dividers are treated as typography. Enclosed words are retained. Changed words, other punctuation and `tts_text` overrides fail the check.
 
 ```powershell
 .\.venv\Scripts\python.exe render.py --validate-only
@@ -58,7 +58,7 @@ The renderer does not automatically assign speakers from raw novel prose. Models
 | `pilot/script.json` | Exact spoken text, speaker IDs and pauses |
 | `pilot/source.json` and `source-excerpt.md` | Pinned source and hash-checked excerpt |
 | `pilot/funeral-pilot.manifest.json` | Cast, timing, hashes and technical/source checks |
-| `cast.json` | Provisional Kokoro presets and speeds |
+| `cast.json` | Production cast presets, speeds and fixed lead-voice references |
 | `render.py` | Cached synthesis, assembly, leveling and export |
 | `verify_verbatim.py` | Mandatory source-fidelity check |
 | `voice-design/` | Aiden and Tank performance experiment |
@@ -67,7 +67,7 @@ The renderer does not automatically assign speakers from raw novel prose. Models
 
 ## Full audiobook and CDs
 
-The source has 130 chapters and approximately 329,879 words. At an assumed 150–170 spoken words per minute, the full reading would take roughly **32–37 hours**, before pauses. It has not been produced. Settle the cast with short scenes, then produce and review chapter MP3s. Chaptered M4B files can follow.
+The source has 130 chapters and approximately 329,879 words including headings. At an assumed 150–170 spoken words per minute, the full reading would take roughly **32–37 hours**, before pauses. Production proceeds chapter by chapter with the selected lead voices. See the [live recording index](LISTEN.md) for completed recordings. Each complete book is also packaged as a chaptered M4B.
 
 A normal audio CD holds about 74–80 minutes. The saga would need at least **25–28 fully packed 80-minute discs**, likely more with chapter breaks. MP3/data discs need a compatible player. [Audacity's CD guide](https://manual.audacityteam.org/man/burning_music_files_to_a_cd.html)
 

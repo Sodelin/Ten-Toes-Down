@@ -1,0 +1,2480 @@
+[
+  {
+    "id": "b01-c03-u0001",
+    "speaker": "AIDEN",
+    "text": "Nigga, the doctor asked Shawna who she was to me.",
+    "pause_ms": 180,
+    "source_line": 1383
+  },
+  {
+    "id": "b01-c03-u0002",
+    "speaker": "SHAWNA",
+    "text": "\"His wife,\"",
+    "pause_ms": 200,
+    "source_line": 1385
+  },
+  {
+    "id": "b01-c03-u0003",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1385
+  },
+  {
+    "id": "b01-c03-u0004",
+    "speaker": "AIDEN",
+    "text": "Nigga, I tried to live harder when I heard that. I had been slipping in and out the whole ride, seeing my mother's kitchen and the motel swimming pool, hearing Big T call me son like he still had the right. But I heard wife clear as a church bell.",
+    "pause_ms": 180,
+    "source_line": 1385
+  },
+  {
+    "id": "b01-c03-u0005",
+    "speaker": "DR_VEGA",
+    "text": "\"Name?\"",
+    "pause_ms": 200,
+    "source_line": 1389
+  },
+  {
+    "id": "b01-c03-u0006",
+    "speaker": "AIDEN",
+    "text": "the doctor asked.",
+    "pause_ms": 180,
+    "source_line": 1389
+  },
+  {
+    "id": "b01-c03-u0007",
+    "speaker": "SHAWNA",
+    "text": "\"Shawna.\"",
+    "pause_ms": 200,
+    "source_line": 1391
+  },
+  {
+    "id": "b01-c03-u0008",
+    "speaker": "DR_VEGA",
+    "text": "\"His name.\"",
+    "pause_ms": 200,
+    "source_line": 1393
+  },
+  {
+    "id": "b01-c03-u0009",
+    "speaker": "SHAWNA",
+    "text": "\"Aiden. His name is Aiden.\"",
+    "pause_ms": 200,
+    "source_line": 1395
+  },
+  {
+    "id": "b01-c03-u0010",
+    "speaker": "DR_VEGA",
+    "text": "\"Let go of him, Shawna.\"",
+    "pause_ms": 200,
+    "source_line": 1397
+  },
+  {
+    "id": "b01-c03-u0011",
+    "speaker": "AIDEN",
+    "text": "She wouldn't. They were trying to move me onto another bed and she had both hands caught in my shirt. Her black dress had gone brown where my blood dried. One of her earrings was missing. She was barefoot in a hospital that smelled like flowers and cost more every minute than my old apartment cost every month.",
+    "pause_ms": 180,
+    "source_line": 1397
+  },
+  {
+    "id": "b01-c03-u0012",
+    "speaker": "AIDEN",
+    "text": "\"Baby,\"",
+    "pause_ms": 180,
+    "source_line": 1401
+  },
+  {
+    "id": "b01-c03-u0013",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1401
+  },
+  {
+    "id": "b01-c03-u0014",
+    "speaker": "AIDEN",
+    "text": "She looked down.",
+    "pause_ms": 180,
+    "source_line": 1401
+  },
+  {
+    "id": "b01-c03-u0015",
+    "speaker": "AIDEN",
+    "text": "\"Don't let them cut my chain.\"",
+    "pause_ms": 180,
+    "source_line": 1405
+  },
+  {
+    "id": "b01-c03-u0016",
+    "speaker": "AIDEN",
+    "text": "She took it off me herself. Kissed the cross. Put it around her neck.",
+    "pause_ms": 180,
+    "source_line": 1405
+  },
+  {
+    "id": "b01-c03-u0017",
+    "speaker": "AIDEN",
+    "text": "Then everything went dark.",
+    "pause_ms": 650,
+    "source_line": 1405
+  },
+  {
+    "id": "b01-c03-u0018",
+    "speaker": "AIDEN",
+    "text": "When I woke up, a woman in a white coat was looking at me like she knew exactly how much bullshit I was capable of.",
+    "pause_ms": 180,
+    "source_line": 1405
+  },
+  {
+    "id": "b01-c03-u0019",
+    "speaker": "DR_VEGA",
+    "text": "\"Dr. Marisol Vega,\"",
+    "pause_ms": 200,
+    "source_line": 1415
+  },
+  {
+    "id": "b01-c03-u0020",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1415
+  },
+  {
+    "id": "b01-c03-u0021",
+    "speaker": "DR_VEGA",
+    "text": "\"You're alive.\"",
+    "pause_ms": 200,
+    "source_line": 1415
+  },
+  {
+    "id": "b01-c03-u0022",
+    "speaker": "AIDEN",
+    "text": "\"Shawna?\"",
+    "pause_ms": 180,
+    "source_line": 1417
+  },
+  {
+    "id": "b01-c03-u0023",
+    "speaker": "DR_VEGA",
+    "text": "\"Sleeping.\"",
+    "pause_ms": 200,
+    "source_line": 1419
+  },
+  {
+    "id": "b01-c03-u0024",
+    "speaker": "AIDEN",
+    "text": "\"Where?\"",
+    "pause_ms": 180,
+    "source_line": 1421
+  },
+  {
+    "id": "b01-c03-u0025",
+    "speaker": "AIDEN",
+    "text": "She pointed.",
+    "pause_ms": 180,
+    "source_line": 1421
+  },
+  {
+    "id": "b01-c03-u0026",
+    "speaker": "AIDEN",
+    "text": "Shawna was in a chair by the window, curled around my bloody shirt. Somebody had put hospital socks on her. She had my cross around her neck and Dante's watch hanging loose on her wrist.",
+    "pause_ms": 180,
+    "source_line": 1421
+  },
+  {
+    "id": "b01-c03-u0027",
+    "speaker": "AIDEN",
+    "text": "\"Don't wake her,\"",
+    "pause_ms": 180,
+    "source_line": 1427
+  },
+  {
+    "id": "b01-c03-u0028",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1427
+  },
+  {
+    "id": "b01-c03-u0029",
+    "speaker": "DR_VEGA",
+    "text": "\"She'll wake herself. She has been doing it every eleven minutes.\"",
+    "pause_ms": 200,
+    "source_line": 1429
+  },
+  {
+    "id": "b01-c03-u0030",
+    "speaker": "AIDEN",
+    "text": "I tried to sit up. Pain hit me so hard I forgot what I was trying to do.",
+    "pause_ms": 180,
+    "source_line": 1429
+  },
+  {
+    "id": "b01-c03-u0031",
+    "speaker": "AIDEN",
+    "text": "\"Fuck.\"",
+    "pause_ms": 180,
+    "source_line": 1433
+  },
+  {
+    "id": "b01-c03-u0032",
+    "speaker": "DR_VEGA",
+    "text": "\"Yes,\"",
+    "pause_ms": 200,
+    "source_line": 1435
+  },
+  {
+    "id": "b01-c03-u0033",
+    "speaker": "AIDEN",
+    "text": "Vega said.",
+    "pause_ms": 180,
+    "source_line": 1435
+  },
+  {
+    "id": "b01-c03-u0034",
+    "speaker": "DR_VEGA",
+    "text": "\"That. You will be doing quite a lot of that if you continue.\"",
+    "pause_ms": 200,
+    "source_line": 1435
+  },
+  {
+    "id": "b01-c03-u0035",
+    "speaker": "AIDEN",
+    "text": "I stayed down.",
+    "pause_ms": 180,
+    "source_line": 1435
+  },
+  {
+    "id": "b01-c03-u0036",
+    "speaker": "AIDEN",
+    "text": "\"Where's the bullet?\"",
+    "pause_ms": 180,
+    "source_line": 1439
+  },
+  {
+    "id": "b01-c03-u0037",
+    "speaker": "DR_VEGA",
+    "text": "\"Still inside you. Removing it would add risks you do not need. We treated the damage. You need time.\"",
+    "pause_ms": 200,
+    "source_line": 1441
+  },
+  {
+    "id": "b01-c03-u0038",
+    "speaker": "AIDEN",
+    "text": "I looked at the ceiling. Big T was dead and the nigga had still managed to move in with me.",
+    "pause_ms": 180,
+    "source_line": 1441
+  },
+  {
+    "id": "b01-c03-u0039",
+    "speaker": "AIDEN",
+    "text": "\"How much time?\"",
+    "pause_ms": 180,
+    "source_line": 1445
+  },
+  {
+    "id": "b01-c03-u0040",
+    "speaker": "DR_VEGA",
+    "text": "\"More than you want.\"",
+    "pause_ms": 200,
+    "source_line": 1447
+  },
+  {
+    "id": "b01-c03-u0041",
+    "speaker": "AIDEN",
+    "text": "\"Niggas waiting downstairs, Doc. A nigga can't run a whole west side horizontal.\"",
+    "pause_ms": 180,
+    "source_line": 1449
+  },
+  {
+    "id": "b01-c03-u0042",
+    "speaker": "DR_VEGA",
+    "text": "\"They can keep waiting.\"",
+    "pause_ms": 200,
+    "source_line": 1451
+  },
+  {
+    "id": "b01-c03-u0043",
+    "speaker": "AIDEN",
+    "text": "She checked what she needed to check. I couldn't lift my head without the room going sideways. There was nothing kingly about it. A woman I barely knew had to help me drink water. Nigga, I could own the whole city and still drown trying to take a fucking sip.",
+    "pause_ms": 180,
+    "source_line": 1451
+  },
+  {
+    "id": "b01-c03-u0044",
+    "speaker": "AIDEN",
+    "text": "I dropped the cup, and Shawna woke.",
+    "pause_ms": 180,
+    "source_line": 1451
+  },
+  {
+    "id": "b01-c03-u0045",
+    "speaker": "AIDEN",
+    "text": "She came out of the chair like somebody had called her name in a burning house.",
+    "pause_ms": 180,
+    "source_line": 1451
+  },
+  {
+    "id": "b01-c03-u0046",
+    "speaker": "SHAWNA",
+    "text": "\"Aiden?\"",
+    "pause_ms": 200,
+    "source_line": 1459
+  },
+  {
+    "id": "b01-c03-u0047",
+    "speaker": "AIDEN",
+    "text": "\"Right here.\"",
+    "pause_ms": 180,
+    "source_line": 1461
+  },
+  {
+    "id": "b01-c03-u0048",
+    "speaker": "AIDEN",
+    "text": "She touched my face, my shoulders, the hair above my ear. She wouldn't look at the bandages.",
+    "pause_ms": 180,
+    "source_line": 1461
+  },
+  {
+    "id": "b01-c03-u0049",
+    "speaker": "SHAWNA",
+    "text": "\"You scared me,\"",
+    "pause_ms": 200,
+    "source_line": 1465
+  },
+  {
+    "id": "b01-c03-u0050",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1465
+  },
+  {
+    "id": "b01-c03-u0051",
+    "speaker": "AIDEN",
+    "text": "\"I'm sorry, baby.\"",
+    "pause_ms": 180,
+    "source_line": 1467
+  },
+  {
+    "id": "b01-c03-u0052",
+    "speaker": "SHAWNA",
+    "text": "\"Don't be sorry. Don't do it.\"",
+    "pause_ms": 200,
+    "source_line": 1469
+  },
+  {
+    "id": "b01-c03-u0053",
+    "speaker": "AIDEN",
+    "text": "She kissed my forehead. Then she slapped my arm. Then she kissed me again, crying so hard I felt the tears on my mouth.",
+    "pause_ms": 180,
+    "source_line": 1469
+  },
+  {
+    "id": "b01-c03-u0054",
+    "speaker": "AIDEN",
+    "text": "Vega went out and closed the door.",
+    "pause_ms": 180,
+    "source_line": 1469
+  },
+  {
+    "id": "b01-c03-u0055",
+    "speaker": "AIDEN",
+    "text": "\"You told them you're my wife,\"",
+    "pause_ms": 180,
+    "source_line": 1475
+  },
+  {
+    "id": "b01-c03-u0056",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1475
+  },
+  {
+    "id": "b01-c03-u0057",
+    "speaker": "AIDEN",
+    "text": "Shawna wiped her face with the back of her hand.",
+    "pause_ms": 180,
+    "source_line": 1475
+  },
+  {
+    "id": "b01-c03-u0058",
+    "speaker": "SHAWNA",
+    "text": "\"They weren't going to let me in.\"",
+    "pause_ms": 200,
+    "source_line": 1479
+  },
+  {
+    "id": "b01-c03-u0059",
+    "speaker": "AIDEN",
+    "text": "\"You could've said sister.\"",
+    "pause_ms": 180,
+    "source_line": 1481
+  },
+  {
+    "id": "b01-c03-u0060",
+    "speaker": "SHAWNA",
+    "text": "\"I wanted them to let me in. I didn't want to make it weird when I kissed you.\"",
+    "pause_ms": 200,
+    "source_line": 1483
+  },
+  {
+    "id": "b01-c03-u0061",
+    "speaker": "AIDEN",
+    "text": "I laughed. That hurt too. Everything I wanted to do with her cost me something in my side.",
+    "pause_ms": 180,
+    "source_line": 1483
+  },
+  {
+    "id": "b01-c03-u0062",
+    "speaker": "AIDEN",
+    "text": "\"Say it again,\"",
+    "pause_ms": 180,
+    "source_line": 1487
+  },
+  {
+    "id": "b01-c03-u0063",
+    "speaker": "AIDEN",
+    "text": "I told her.",
+    "pause_ms": 180,
+    "source_line": 1487
+  },
+  {
+    "id": "b01-c03-u0064",
+    "speaker": "SHAWNA",
+    "text": "\"What?\"",
+    "pause_ms": 200,
+    "source_line": 1489
+  },
+  {
+    "id": "b01-c03-u0065",
+    "speaker": "AIDEN",
+    "text": "\"What you told the doctor.\"",
+    "pause_ms": 180,
+    "source_line": 1491
+  },
+  {
+    "id": "b01-c03-u0066",
+    "speaker": "AIDEN",
+    "text": "She sat on the edge of the bed.",
+    "pause_ms": 180,
+    "source_line": 1491
+  },
+  {
+    "id": "b01-c03-u0067",
+    "speaker": "SHAWNA",
+    "text": "\"Nigga, you trying to die married?\"",
+    "pause_ms": 200,
+    "source_line": 1495
+  },
+  {
+    "id": "b01-c03-u0068",
+    "speaker": "AIDEN",
+    "text": "\"Trying to live that way.\"",
+    "pause_ms": 180,
+    "source_line": 1497
+  },
+  {
+    "id": "b01-c03-u0069",
+    "speaker": "AIDEN",
+    "text": "Her hand stopped on my cheek.",
+    "pause_ms": 180,
+    "source_line": 1497
+  },
+  {
+    "id": "b01-c03-u0070",
+    "speaker": "AIDEN",
+    "text": "For a second she looked scared of me. Not the gun, not the blood. Your nigga lying there asking for a whole fucking life when we'd barely made it through a night.",
+    "pause_ms": 180,
+    "source_line": 1497
+  },
+  {
+    "id": "b01-c03-u0071",
+    "speaker": "AIDEN",
+    "text": "Then she put her head beside mine.",
+    "pause_ms": 180,
+    "source_line": 1497
+  },
+  {
+    "id": "b01-c03-u0072",
+    "speaker": "SHAWNA",
+    "text": "\"Let me get you home first.\"",
+    "pause_ms": 650,
+    "source_line": 1505
+  },
+  {
+    "id": "b01-c03-u0073",
+    "speaker": "AIDEN",
+    "text": "Tank showed up that afternoon in a fresh suit with dirt on his shoes. My nigga had dressed like he was coming to finish the job.",
+    "pause_ms": 180,
+    "source_line": 1505
+  },
+  {
+    "id": "b01-c03-u0074",
+    "speaker": "AIDEN",
+    "text": "He stood in the doorway holding flowers. He looked wrong holding anything that couldn't break a man's ribs.",
+    "pause_ms": 180,
+    "source_line": 1505
+  },
+  {
+    "id": "b01-c03-u0075",
+    "speaker": "TANK",
+    "text": "\"These for her,\"",
+    "pause_ms": 200,
+    "source_line": 1513
+  },
+  {
+    "id": "b01-c03-u0076",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 1513
+  },
+  {
+    "id": "b01-c03-u0077",
+    "speaker": "AIDEN",
+    "text": "Shawna didn't take them.",
+    "pause_ms": 180,
+    "source_line": 1513
+  },
+  {
+    "id": "b01-c03-u0078",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, put the flowers down before we both start feeling strange,\"",
+    "pause_ms": 180,
+    "source_line": 1517
+  },
+  {
+    "id": "b01-c03-u0079",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1517
+  },
+  {
+    "id": "b01-c03-u0080",
+    "speaker": "AIDEN",
+    "text": "He did.",
+    "pause_ms": 180,
+    "source_line": 1517
+  },
+  {
+    "id": "b01-c03-u0081",
+    "speaker": "AIDEN",
+    "text": "The nigga had a bruise on his forehead shaped like the mistake he'd made grabbing me. I wanted to hit him again. I wanted to thank him for getting the car. I wanted him out of my room and I wanted somebody big between that door and Shawna.",
+    "pause_ms": 180,
+    "source_line": 1517
+  },
+  {
+    "id": "b01-c03-u0082",
+    "speaker": "AIDEN",
+    "text": "\"You alone?\"",
+    "pause_ms": 180,
+    "source_line": 1523
+  },
+  {
+    "id": "b01-c03-u0083",
+    "speaker": "AIDEN",
+    "text": "I asked.",
+    "pause_ms": 180,
+    "source_line": 1523
+  },
+  {
+    "id": "b01-c03-u0084",
+    "speaker": "TANK",
+    "text": "\"Niggas downstairs waiting.\"",
+    "pause_ms": 200,
+    "source_line": 1525
+  },
+  {
+    "id": "b01-c03-u0085",
+    "speaker": "AIDEN",
+    "text": "\"Whose niggas?\"",
+    "pause_ms": 180,
+    "source_line": 1527
+  },
+  {
+    "id": "b01-c03-u0086",
+    "speaker": "TANK",
+    "text": "\"Were T's.\"",
+    "pause_ms": 200,
+    "source_line": 1529
+  },
+  {
+    "id": "b01-c03-u0087",
+    "speaker": "AIDEN",
+    "text": "\"And now?\"",
+    "pause_ms": 180,
+    "source_line": 1531
+  },
+  {
+    "id": "b01-c03-u0088",
+    "speaker": "AIDEN",
+    "text": "He looked at Shawna before answering.",
+    "pause_ms": 180,
+    "source_line": 1531
+  },
+  {
+    "id": "b01-c03-u0089",
+    "speaker": "TANK",
+    "text": "\"That's what they wanna know.\"",
+    "pause_ms": 200,
+    "source_line": 1535
+  },
+  {
+    "id": "b01-c03-u0090",
+    "speaker": "AIDEN",
+    "text": "She stood up.",
+    "pause_ms": 180,
+    "source_line": 1535
+  },
+  {
+    "id": "b01-c03-u0091",
+    "speaker": "SHAWNA",
+    "text": "\"I'm not leaving.\"",
+    "pause_ms": 200,
+    "source_line": 1539
+  },
+  {
+    "id": "b01-c03-u0092",
+    "speaker": "TANK",
+    "text": "\"Didn't ask you to,\"",
+    "pause_ms": 200,
+    "source_line": 1541
+  },
+  {
+    "id": "b01-c03-u0093",
+    "speaker": "AIDEN",
+    "text": "Tank said.",
+    "pause_ms": 180,
+    "source_line": 1541
+  },
+  {
+    "id": "b01-c03-u0094",
+    "speaker": "SHAWNA",
+    "text": "\"You looked.\"",
+    "pause_ms": 200,
+    "source_line": 1543
+  },
+  {
+    "id": "b01-c03-u0095",
+    "speaker": "TANK",
+    "text": "\"I got eyes.\"",
+    "pause_ms": 200,
+    "source_line": 1545
+  },
+  {
+    "id": "b01-c03-u0096",
+    "speaker": "AIDEN",
+    "text": "I held out my hand. Shawna took it, but she kept looking at him.",
+    "pause_ms": 180,
+    "source_line": 1545
+  },
+  {
+    "id": "b01-c03-u0097",
+    "speaker": "AIDEN",
+    "text": "\"Where's T?\"",
+    "pause_ms": 180,
+    "source_line": 1549
+  },
+  {
+    "id": "b01-c03-u0098",
+    "speaker": "AIDEN",
+    "text": "I asked.",
+    "pause_ms": 180,
+    "source_line": 1549
+  },
+  {
+    "id": "b01-c03-u0099",
+    "speaker": "TANK",
+    "text": "\"Funeral people got him.\"",
+    "pause_ms": 200,
+    "source_line": 1551
+  },
+  {
+    "id": "b01-c03-u0100",
+    "speaker": "AIDEN",
+    "text": "\"His other niggas?\"",
+    "pause_ms": 180,
+    "source_line": 1553
+  },
+  {
+    "id": "b01-c03-u0101",
+    "speaker": "TANK",
+    "text": "\"One alive. One ain't.\"",
+    "pause_ms": 200,
+    "source_line": 1555
+  },
+  {
+    "id": "b01-c03-u0102",
+    "speaker": "AIDEN",
+    "text": "Shawna lowered her eyes. She knew which one she had shot. I squeezed her fingers. Nigga, if she needed me to lie awake with her about it, I would. If she needed me to say she'd done right, I would say that too.",
+    "pause_ms": 180,
+    "source_line": 1555
+  },
+  {
+    "id": "b01-c03-u0103",
+    "speaker": "SHAWNA",
+    "text": "\"The money?\"",
+    "pause_ms": 200,
+    "source_line": 1559
+  },
+  {
+    "id": "b01-c03-u0104",
+    "speaker": "AIDEN",
+    "text": "she asked.",
+    "pause_ms": 180,
+    "source_line": 1559
+  },
+  {
+    "id": "b01-c03-u0105",
+    "speaker": "AIDEN",
+    "text": "Tank stared at the end of my bed.",
+    "pause_ms": 180,
+    "source_line": 1559
+  },
+  {
+    "id": "b01-c03-u0106",
+    "speaker": "TANK",
+    "text": "\"Pool was empty when I got back.\"",
+    "pause_ms": 200,
+    "source_line": 1563
+  },
+  {
+    "id": "b01-c03-u0107",
+    "speaker": "SHAWNA",
+    "text": "\"Three million doesn't walk,\"",
+    "pause_ms": 200,
+    "source_line": 1565
+  },
+  {
+    "id": "b01-c03-u0108",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1565
+  },
+  {
+    "id": "b01-c03-u0109",
+    "speaker": "TANK",
+    "text": "\"Plenty people got legs.\"",
+    "pause_ms": 200,
+    "source_line": 1567
+  },
+  {
+    "id": "b01-c03-u0110",
+    "speaker": "AIDEN",
+    "text": "She let go of my hand.",
+    "pause_ms": 180,
+    "source_line": 1567
+  },
+  {
+    "id": "b01-c03-u0111",
+    "speaker": "SHAWNA",
+    "text": "\"Look at me when you say it.\"",
+    "pause_ms": 200,
+    "source_line": 1571
+  },
+  {
+    "id": "b01-c03-u0112",
+    "speaker": "AIDEN",
+    "text": "Tank looked at her.",
+    "pause_ms": 180,
+    "source_line": 1571
+  },
+  {
+    "id": "b01-c03-u0113",
+    "speaker": "TANK",
+    "text": "\"I looked, Shawna. Niggas move fast when nobody watching. Money wasn't there.\"",
+    "pause_ms": 200,
+    "source_line": 1575
+  },
+  {
+    "id": "b01-c03-u0114",
+    "speaker": "AIDEN",
+    "text": "I believed him then. I had plenty of stupid left in me.",
+    "pause_ms": 180,
+    "source_line": 1575
+  },
+  {
+    "id": "b01-c03-u0115",
+    "speaker": "AIDEN",
+    "text": "\"Leave it,\"",
+    "pause_ms": 180,
+    "source_line": 1579
+  },
+  {
+    "id": "b01-c03-u0116",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1579
+  },
+  {
+    "id": "b01-c03-u0117",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, she threw it away to save me. It saved me. That's money spent.\"",
+    "pause_ms": 180,
+    "source_line": 1579
+  },
+  {
+    "id": "b01-c03-u0118",
+    "speaker": "TANK",
+    "text": "\"You always this rich?\"",
+    "pause_ms": 200,
+    "source_line": 1581
+  },
+  {
+    "id": "b01-c03-u0119",
+    "speaker": "AIDEN",
+    "text": "Tank asked.",
+    "pause_ms": 180,
+    "source_line": 1581
+  },
+  {
+    "id": "b01-c03-u0120",
+    "speaker": "AIDEN",
+    "text": "\"I woke up.\"",
+    "pause_ms": 180,
+    "source_line": 1583
+  },
+  {
+    "id": "b01-c03-u0121",
+    "speaker": "AIDEN",
+    "text": "He looked at the machines beside me, then back at my face.",
+    "pause_ms": 180,
+    "source_line": 1583
+  },
+  {
+    "id": "b01-c03-u0122",
+    "speaker": "TANK",
+    "text": "\"Yeah,\"",
+    "pause_ms": 200,
+    "source_line": 1587
+  },
+  {
+    "id": "b01-c03-u0123",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 1587
+  },
+  {
+    "id": "b01-c03-u0124",
+    "speaker": "TANK",
+    "text": "\"You did.\"",
+    "pause_ms": 200,
+    "source_line": 1587
+  },
+  {
+    "id": "b01-c03-u0125",
+    "speaker": "AIDEN",
+    "text": "He told me what waited downstairs. Men from the club. Men who supplied it. Men who thought a dead boss meant they could keep whatever they owed. Red had stopped answering calls from the west side. T's office was locked. By sundown, somebody was going to decide that meant there wasn't a west side anymore.",
+    "pause_ms": 180,
+    "source_line": 1587
+  },
+  {
+    "id": "b01-c03-u0126",
+    "speaker": "TANK",
+    "text": "\"T put you there,\"",
+    "pause_ms": 200,
+    "source_line": 1591
+  },
+  {
+    "id": "b01-c03-u0127",
+    "speaker": "AIDEN",
+    "text": "Tank said.",
+    "pause_ms": 180,
+    "source_line": 1591
+  },
+  {
+    "id": "b01-c03-u0128",
+    "speaker": "TANK",
+    "text": "\"People heard him. But putting you there and keeping you there ain't the same shit.\"",
+    "pause_ms": 200,
+    "source_line": 1591
+  },
+  {
+    "id": "b01-c03-u0129",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, you keeping me there?\"",
+    "pause_ms": 180,
+    "source_line": 1593
+  },
+  {
+    "id": "b01-c03-u0130",
+    "speaker": "AIDEN",
+    "text": "He worked his jaw.",
+    "pause_ms": 180,
+    "source_line": 1593
+  },
+  {
+    "id": "b01-c03-u0131",
+    "speaker": "TANK",
+    "text": "\"I drove your car.\"",
+    "pause_ms": 200,
+    "source_line": 1597
+  },
+  {
+    "id": "b01-c03-u0132",
+    "speaker": "AIDEN",
+    "text": "\"That ain't what I asked.\"",
+    "pause_ms": 180,
+    "source_line": 1599
+  },
+  {
+    "id": "b01-c03-u0133",
+    "speaker": "AIDEN",
+    "text": "Shawna stood beside the window. The sunlight caught the watch on her wrist, and Tank looked at it long enough that I noticed.",
+    "pause_ms": 180,
+    "source_line": 1599
+  },
+  {
+    "id": "b01-c03-u0134",
+    "speaker": "TANK",
+    "text": "\"I ain't putting another man in the desert,\"",
+    "pause_ms": 200,
+    "source_line": 1603
+  },
+  {
+    "id": "b01-c03-u0135",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 1603
+  },
+  {
+    "id": "b01-c03-u0136",
+    "speaker": "AIDEN",
+    "text": "Then he went to get the men downstairs.",
+    "pause_ms": 650,
+    "source_line": 1603
+  },
+  {
+    "id": "b01-c03-u0137",
+    "speaker": "AIDEN",
+    "text": "Dr. Vega found nine men in my room, two in the hall, and a duffel bag on the visitor's chair.",
+    "pause_ms": 180,
+    "source_line": 1603
+  },
+  {
+    "id": "b01-c03-u0138",
+    "speaker": "DR_VEGA",
+    "text": "\"Absolutely not,\"",
+    "pause_ms": 200,
+    "source_line": 1611
+  },
+  {
+    "id": "b01-c03-u0139",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1611
+  },
+  {
+    "id": "b01-c03-u0140",
+    "speaker": "AIDEN",
+    "text": "Everybody turned. These niggas had gold teeth, prison scars, guns under their jackets, and the kind of silence they wore to make other people nervous. Vega pointed at the hallway.",
+    "pause_ms": 180,
+    "source_line": 1611
+  },
+  {
+    "id": "b01-c03-u0141",
+    "speaker": "DR_VEGA",
+    "text": "\"Two visitors. The rest of you leave.\"",
+    "pause_ms": 200,
+    "source_line": 1615
+  },
+  {
+    "id": "b01-c03-u0142",
+    "speaker": "AIDEN",
+    "text": "Nobody moved.",
+    "pause_ms": 180,
+    "source_line": 1615
+  },
+  {
+    "id": "b01-c03-u0143",
+    "speaker": "AIDEN",
+    "text": "\"Niggas, she said move. You want the woman who kept me alive having to step over you?\"",
+    "pause_ms": 180,
+    "source_line": 1619
+  },
+  {
+    "id": "b01-c03-u0144",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1619
+  },
+  {
+    "id": "b01-c03-u0145",
+    "speaker": "AIDEN",
+    "text": "They moved.",
+    "pause_ms": 180,
+    "source_line": 1619
+  },
+  {
+    "id": "b01-c03-u0146",
+    "speaker": "AIDEN",
+    "text": "Tank stayed. So did an older man from T's club who laid a stack of papers on my bed and wouldn't look at the wound.",
+    "pause_ms": 180,
+    "source_line": 1619
+  },
+  {
+    "id": "b01-c03-u0147",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"Money coming in Friday,\"",
+    "pause_ms": 200,
+    "source_line": 1625
+  },
+  {
+    "id": "b01-c03-u0148",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 1625
+  },
+  {
+    "id": "b01-c03-u0149",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"People need paying today.\"",
+    "pause_ms": 200,
+    "source_line": 1625
+  },
+  {
+    "id": "b01-c03-u0150",
+    "speaker": "AIDEN",
+    "text": "\"What's in the bag?\"",
+    "pause_ms": 180,
+    "source_line": 1627
+  },
+  {
+    "id": "b01-c03-u0151",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"Yesterday.\"",
+    "pause_ms": 200,
+    "source_line": 1629
+  },
+  {
+    "id": "b01-c03-u0152",
+    "speaker": "AIDEN",
+    "text": "Tank opened it. Cash all the way to the zipper. My old life had ended less than twenty-four hours earlier, and now niggas described a fortune by the day of the week.",
+    "pause_ms": 180,
+    "source_line": 1629
+  },
+  {
+    "id": "b01-c03-u0153",
+    "speaker": "AIDEN",
+    "text": "\"Niggas worked, niggas getting paid,\"",
+    "pause_ms": 180,
+    "source_line": 1633
+  },
+  {
+    "id": "b01-c03-u0154",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1633
+  },
+  {
+    "id": "b01-c03-u0155",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"From this?\"",
+    "pause_ms": 200,
+    "source_line": 1635
+  },
+  {
+    "id": "b01-c03-u0156",
+    "speaker": "AIDEN",
+    "text": "\"Unless you got some fucking magic beans.\"",
+    "pause_ms": 180,
+    "source_line": 1637
+  },
+  {
+    "id": "b01-c03-u0157",
+    "speaker": "AIDEN",
+    "text": "He nodded and made a mark on the paper.",
+    "pause_ms": 180,
+    "source_line": 1637
+  },
+  {
+    "id": "b01-c03-u0158",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"Red wants a meeting.\"",
+    "pause_ms": 200,
+    "source_line": 1641
+  },
+  {
+    "id": "b01-c03-u0159",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, Red can call.\"",
+    "pause_ms": 180,
+    "source_line": 1643
+  },
+  {
+    "id": "b01-c03-u0160",
+    "speaker": "B01C03_CLUB_ELDER",
+    "text": "\"He wants it face to face.\"",
+    "pause_ms": 200,
+    "source_line": 1645
+  },
+  {
+    "id": "b01-c03-u0161",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, look at mine. I'm busy.\"",
+    "pause_ms": 180,
+    "source_line": 1647
+  },
+  {
+    "id": "b01-c03-u0162",
+    "speaker": "AIDEN",
+    "text": "The man swallowed. Tank closed the bag.",
+    "pause_ms": 180,
+    "source_line": 1647
+  },
+  {
+    "id": "b01-c03-u0163",
+    "speaker": "AIDEN",
+    "text": "I could feel the room waiting for me to become somebody. T had known how to sit still and make men ashamed of talking. I was twenty-four with a leaking hole under my ribs and Shawna's lip gloss on my forehead. I didn't know how to become T. I just knew the nigga couldn't have his chair back.",
+    "pause_ms": 180,
+    "source_line": 1647
+  },
+  {
+    "id": "b01-c03-u0164",
+    "speaker": "AIDEN",
+    "text": "\"Nobody touches Shawna,\"",
+    "pause_ms": 180,
+    "source_line": 1653
+  },
+  {
+    "id": "b01-c03-u0165",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 1653
+  },
+  {
+    "id": "b01-c03-u0166",
+    "speaker": "AIDEN",
+    "text": "\"Nobody says her name to Red. Anybody got a problem with that can leave the keys on the bed.\"",
+    "pause_ms": 180,
+    "source_line": 1653
+  },
+  {
+    "id": "b01-c03-u0167",
+    "speaker": "AIDEN",
+    "text": "The older man looked at Tank.",
+    "pause_ms": 180,
+    "source_line": 1653
+  },
+  {
+    "id": "b01-c03-u0168",
+    "speaker": "AIDEN",
+    "text": "Tank looked at me.",
+    "pause_ms": 180,
+    "source_line": 1653
+  },
+  {
+    "id": "b01-c03-u0169",
+    "speaker": "TANK",
+    "text": "\"You heard him.\"",
+    "pause_ms": 200,
+    "source_line": 1659
+  },
+  {
+    "id": "b01-c03-u0170",
+    "speaker": "AIDEN",
+    "text": "The keys stayed in his pocket.",
+    "pause_ms": 180,
+    "source_line": 1659
+  },
+  {
+    "id": "b01-c03-u0171",
+    "speaker": "AIDEN",
+    "text": "When he left, I sank back against the pillows. My shirt was wet under the bandages. All that talking had taken more out of me than the fight.",
+    "pause_ms": 180,
+    "source_line": 1659
+  },
+  {
+    "id": "b01-c03-u0172",
+    "speaker": "AIDEN",
+    "text": "Tank moved the bag closer.",
+    "pause_ms": 180,
+    "source_line": 1659
+  },
+  {
+    "id": "b01-c03-u0173",
+    "speaker": "TANK",
+    "text": "\"You want me counting it?\"",
+    "pause_ms": 200,
+    "source_line": 1667
+  },
+  {
+    "id": "b01-c03-u0174",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, I want you watching that door like your brother in here.\"",
+    "pause_ms": 180,
+    "source_line": 1669
+  },
+  {
+    "id": "b01-c03-u0175",
+    "speaker": "TANK",
+    "text": "\"For who?\"",
+    "pause_ms": 200,
+    "source_line": 1671
+  },
+  {
+    "id": "b01-c03-u0176",
+    "speaker": "AIDEN",
+    "text": "\"Every fucking nigga.\"",
+    "pause_ms": 180,
+    "source_line": 1673
+  },
+  {
+    "id": "b01-c03-u0177",
+    "speaker": "AIDEN",
+    "text": "The nigga took the chair outside.",
+    "pause_ms": 180,
+    "source_line": 1673
+  },
+  {
+    "id": "b01-c03-u0178",
+    "speaker": "AIDEN",
+    "text": "That was the first night he guarded me.",
+    "pause_ms": 650,
+    "source_line": 1673
+  },
+  {
+    "id": "b01-c03-u0179",
+    "speaker": "AIDEN",
+    "text": "Shawna's friend arrived carrying three bags, a red velvet coat, and enough rage to get past every man in the hallway.",
+    "pause_ms": 180,
+    "source_line": 1673
+  },
+  {
+    "id": "b01-c03-u0180",
+    "speaker": "ROSA",
+    "text": "\"Where the fuck is she?\"",
+    "pause_ms": 200,
+    "source_line": 1683
+  },
+  {
+    "id": "b01-c03-u0181",
+    "speaker": "SHAWNA",
+    "text": "\"Rosa,\"",
+    "pause_ms": 200,
+    "source_line": 1685
+  },
+  {
+    "id": "b01-c03-u0182",
+    "speaker": "AIDEN",
+    "text": "Shawna said.",
+    "pause_ms": 180,
+    "source_line": 1685
+  },
+  {
+    "id": "b01-c03-u0183",
+    "speaker": "AIDEN",
+    "text": "They hit each other halfway across the room and held on. Rosa was thirty-four, with copper hair, a broken-heart tattoo under her ear, and a voice that sounded like she'd been awake through every bad night in Vegas. She sang at the Saint on weekends and took paying men upstairs when the singing didn't cover what life wanted.",
+    "pause_ms": 180,
+    "source_line": 1685
+  },
+  {
+    "id": "b01-c03-u0184",
+    "speaker": "AIDEN",
+    "text": "She had known Shawna when the suitcase still had its tags.",
+    "pause_ms": 180,
+    "source_line": 1685
+  },
+  {
+    "id": "b01-c03-u0185",
+    "speaker": "ROSA",
+    "text": "\"You don't answer your fucking phone?\"",
+    "pause_ms": 200,
+    "source_line": 1691
+  },
+  {
+    "id": "b01-c03-u0186",
+    "speaker": "AIDEN",
+    "text": "she said against Shawna's hair.",
+    "pause_ms": 180,
+    "source_line": 1691
+  },
+  {
+    "id": "b01-c03-u0187",
+    "speaker": "SHAWNA",
+    "text": "\"I broke it.\"",
+    "pause_ms": 200,
+    "source_line": 1693
+  },
+  {
+    "id": "b01-c03-u0188",
+    "speaker": "ROSA",
+    "text": "\"You borrow a phone, bitch. You send a pigeon. You don't let me hear you're dead from some nigga in a rhinestone hat.\"",
+    "pause_ms": 200,
+    "source_line": 1695
+  },
+  {
+    "id": "b01-c03-u0189",
+    "speaker": "SHAWNA",
+    "text": "\"I'm here.\"",
+    "pause_ms": 200,
+    "source_line": 1697
+  },
+  {
+    "id": "b01-c03-u0190",
+    "speaker": "ROSA",
+    "text": "\"I see you. I'm mad anyway.\"",
+    "pause_ms": 200,
+    "source_line": 1699
+  },
+  {
+    "id": "b01-c03-u0191",
+    "speaker": "AIDEN",
+    "text": "Rosa held her at arm's length and checked her face. Then she looked at me.",
+    "pause_ms": 180,
+    "source_line": 1699
+  },
+  {
+    "id": "b01-c03-u0192",
+    "speaker": "ROSA",
+    "text": "\"This him?\"",
+    "pause_ms": 200,
+    "source_line": 1703
+  },
+  {
+    "id": "b01-c03-u0193",
+    "speaker": "SHAWNA",
+    "text": "\"Aiden.\"",
+    "pause_ms": 200,
+    "source_line": 1705
+  },
+  {
+    "id": "b01-c03-u0194",
+    "speaker": "ROSA",
+    "text": "\"You shoot that nigga T?\"",
+    "pause_ms": 200,
+    "source_line": 1707
+  },
+  {
+    "id": "b01-c03-u0195",
+    "speaker": "AIDEN",
+    "text": "\"Yeah.\"",
+    "pause_ms": 180,
+    "source_line": 1709
+  },
+  {
+    "id": "b01-c03-u0196",
+    "speaker": "ROSA",
+    "text": "\"Good.\"",
+    "pause_ms": 200,
+    "source_line": 1711
+  },
+  {
+    "id": "b01-c03-u0197",
+    "speaker": "AIDEN",
+    "text": "She came to the bed and kissed my forehead, right on top of Shawna's mark.",
+    "pause_ms": 180,
+    "source_line": 1711
+  },
+  {
+    "id": "b01-c03-u0198",
+    "speaker": "ROSA",
+    "text": "\"Stay alive. She doesn't have another black dress in her.\"",
+    "pause_ms": 200,
+    "source_line": 1715
+  },
+  {
+    "id": "b01-c03-u0199",
+    "speaker": "AIDEN",
+    "text": "Shawna started crying again. Rosa pulled her close before I could see her face.",
+    "pause_ms": 180,
+    "source_line": 1715
+  },
+  {
+    "id": "b01-c03-u0200",
+    "speaker": "AIDEN",
+    "text": "I lay there wishing money could do one useful thing. A whole fucking bag beside my bed and I couldn't make either woman stop hurting.",
+    "pause_ms": 180,
+    "source_line": 1715
+  },
+  {
+    "id": "b01-c03-u0201",
+    "speaker": "AIDEN",
+    "text": "Rosa had brought clothes, food nobody in that hospital could spell, and Shawna's old songbook. She'd kept it after Dante died. Shawna opened the book to the middle and shut it so fast the pages snapped.",
+    "pause_ms": 180,
+    "source_line": 1715
+  },
+  {
+    "id": "b01-c03-u0202",
+    "speaker": "SHAWNA",
+    "text": "\"Later,\"",
+    "pause_ms": 200,
+    "source_line": 1723
+  },
+  {
+    "id": "b01-c03-u0203",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1723
+  },
+  {
+    "id": "b01-c03-u0204",
+    "speaker": "ROSA",
+    "text": "\"Whenever,\"",
+    "pause_ms": 200,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0205",
+    "speaker": "AIDEN",
+    "text": "Rosa told her.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0206",
+    "speaker": "AIDEN",
+    "text": "That night Rosa sat at the window painting Shawna's nails. Tank ate in the hallway. Some nigga downstairs sent more money, and I told them to leave it there. For once I had everything I wanted inside the room.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0207",
+    "speaker": "AIDEN",
+    "text": "Then Shawna fell asleep against me and whispered Dante's name.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0208",
+    "speaker": "AIDEN",
+    "text": "Nigga, I heard it.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0209",
+    "speaker": "AIDEN",
+    "text": "I lay still until morning.",
+    "pause_ms": 650,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0210",
+    "speaker": "AIDEN",
+    "text": "On the third afternoon, somebody sent me a coffin.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0211",
+    "speaker": "AIDEN",
+    "text": "Not an arrangement shaped like one. A real fucking coffin. Black lacquer. Silver handles. My name engraved across the lid like the nigga had paid by the letter and wanted his money's worth.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0212",
+    "speaker": "AIDEN",
+    "text": "Two delivery men rolled it into the private entrance downstairs. The nurse who called up sounded offended more than scared.",
+    "pause_ms": 180,
+    "source_line": 1725
+  },
+  {
+    "id": "b01-c03-u0213",
+    "speaker": "B01C03_NURSE",
+    "text": "\"Mr. Aiden, there is an item here for you.\"",
+    "pause_ms": 200,
+    "source_line": 1743
+  },
+  {
+    "id": "b01-c03-u0214",
+    "speaker": "AIDEN",
+    "text": "\"Flowers?\"",
+    "pause_ms": 180,
+    "source_line": 1745
+  },
+  {
+    "id": "b01-c03-u0215",
+    "speaker": "B01C03_NURSE",
+    "text": "\"It is larger than flowers.\"",
+    "pause_ms": 200,
+    "source_line": 1747
+  },
+  {
+    "id": "b01-c03-u0216",
+    "speaker": "AIDEN",
+    "text": "\"Piano?\"",
+    "pause_ms": 180,
+    "source_line": 1749
+  },
+  {
+    "id": "b01-c03-u0217",
+    "speaker": "B01C03_NURSE",
+    "text": "\"It is a coffin.\"",
+    "pause_ms": 200,
+    "source_line": 1751
+  },
+  {
+    "id": "b01-c03-u0218",
+    "speaker": "AIDEN",
+    "text": "Tank came out of his chair so fast his food hit the floor.",
+    "pause_ms": 180,
+    "source_line": 1751
+  },
+  {
+    "id": "b01-c03-u0219",
+    "speaker": "AIDEN",
+    "text": "\"Don't open it,\"",
+    "pause_ms": 180,
+    "source_line": 1755
+  },
+  {
+    "id": "b01-c03-u0220",
+    "speaker": "AIDEN",
+    "text": "I told her.",
+    "pause_ms": 180,
+    "source_line": 1755
+  },
+  {
+    "id": "b01-c03-u0221",
+    "speaker": "B01C03_NURSE",
+    "text": "\"I wasn't planning to try it on.\"",
+    "pause_ms": 200,
+    "source_line": 1757
+  },
+  {
+    "id": "b01-c03-u0222",
+    "speaker": "AIDEN",
+    "text": "Shawna grabbed the phone from me and started telling the nurse to move people away. I was already reaching for my trousers.",
+    "pause_ms": 180,
+    "source_line": 1757
+  },
+  {
+    "id": "b01-c03-u0223",
+    "speaker": "TANK",
+    "text": "\"Nigga, no,\"",
+    "pause_ms": 200,
+    "source_line": 1761
+  },
+  {
+    "id": "b01-c03-u0224",
+    "speaker": "AIDEN",
+    "text": "Tank said.",
+    "pause_ms": 180,
+    "source_line": 1761
+  },
+  {
+    "id": "b01-c03-u0225",
+    "speaker": "AIDEN",
+    "text": "\"Get my shoes.\"",
+    "pause_ms": 180,
+    "source_line": 1763
+  },
+  {
+    "id": "b01-c03-u0226",
+    "speaker": "TANK",
+    "text": "\"You got hospital socks.\"",
+    "pause_ms": 200,
+    "source_line": 1765
+  },
+  {
+    "id": "b01-c03-u0227",
+    "speaker": "AIDEN",
+    "text": "\"Then get shoes worthy of the fucking socks.\"",
+    "pause_ms": 180,
+    "source_line": 1767
+  },
+  {
+    "id": "b01-c03-u0228",
+    "speaker": "AIDEN",
+    "text": "Mercedes and Porsche had come to visit with fruit, champagne nobody was allowed to open, and a photograph of my Mercedes in the air. Somebody on the sidewalk had taken it. They had enlarged the picture until you could see Shawna screaming and me looking handsome under tremendous pressure.",
+    "pause_ms": 180,
+    "source_line": 1767
+  },
+  {
+    "id": "b01-c03-u0229",
+    "speaker": "MERCEDES",
+    "text": "\"That's the coffin they're sending you?\"",
+    "pause_ms": 200,
+    "source_line": 1771
+  },
+  {
+    "id": "b01-c03-u0230",
+    "speaker": "AIDEN",
+    "text": "Mercedes asked, looking down through the window.",
+    "pause_ms": 180,
+    "source_line": 1771
+  },
+  {
+    "id": "b01-c03-u0231",
+    "speaker": "MERCEDES",
+    "text": "\"Baby, even your enemies know you're expensive.\"",
+    "pause_ms": 200,
+    "source_line": 1771
+  },
+  {
+    "id": "b01-c03-u0232",
+    "speaker": "AIDEN",
+    "text": "Porsche wasn't laughing. She was counting the men outside.",
+    "pause_ms": 180,
+    "source_line": 1771
+  },
+  {
+    "id": "b01-c03-u0233",
+    "speaker": "PORSCHE",
+    "text": "\"There are four more by the cars. Those two aren't delivering shit.\"",
+    "pause_ms": 200,
+    "source_line": 1775
+  },
+  {
+    "id": "b01-c03-u0234",
+    "speaker": "AIDEN",
+    "text": "I saw them then. Two white sedans across the private drive. Men trying too hard to look bored, looking at the entrance instead of the street.",
+    "pause_ms": 180,
+    "source_line": 1775
+  },
+  {
+    "id": "b01-c03-u0235",
+    "speaker": "AIDEN",
+    "text": "The men by the coffin reached into their jackets.",
+    "pause_ms": 180,
+    "source_line": 1775
+  },
+  {
+    "id": "b01-c03-u0236",
+    "speaker": "AIDEN",
+    "text": "Tank pulled me back from the window as the first shot broke the glass downstairs.",
+    "pause_ms": 180,
+    "source_line": 1775
+  },
+  {
+    "id": "b01-c03-u0237",
+    "speaker": "AIDEN",
+    "text": "For a second the hospital filled with sounds it had never charged anybody for. A woman screamed. The entrance doors shattered. Somewhere below us an alarm began ringing, and through it I could hear a man's voice telling people to get on the floor.",
+    "pause_ms": 180,
+    "source_line": 1775
+  },
+  {
+    "id": "b01-c03-u0238",
+    "speaker": "AIDEN",
+    "text": "\"Shawna, with Rosa. Bathroom. Lock it.\"",
+    "pause_ms": 180,
+    "source_line": 1785
+  },
+  {
+    "id": "b01-c03-u0239",
+    "speaker": "SHAWNA",
+    "text": "\"I'm not—\"",
+    "pause_ms": 200,
+    "source_line": 1787
+  },
+  {
+    "id": "b01-c03-u0240",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, be alive when I come back so you can cuss me out.\"",
+    "pause_ms": 180,
+    "source_line": 1789
+  },
+  {
+    "id": "b01-c03-u0241",
+    "speaker": "AIDEN",
+    "text": "She looked at the gun in my hand, then my face. Whatever she found there made her take Rosa's hand. Mercedes went after them with a heavy glass vase in both fists. Porsche stayed by the hall door.",
+    "pause_ms": 180,
+    "source_line": 1789
+  },
+  {
+    "id": "b01-c03-u0242",
+    "speaker": "PORSCHE",
+    "text": "\"Wheelchair,\"",
+    "pause_ms": 200,
+    "source_line": 1793
+  },
+  {
+    "id": "b01-c03-u0243",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1793
+  },
+  {
+    "id": "b01-c03-u0244",
+    "speaker": "AIDEN",
+    "text": "Tank looked at her.",
+    "pause_ms": 180,
+    "source_line": 1793
+  },
+  {
+    "id": "b01-c03-u0245",
+    "speaker": "PORSCHE",
+    "text": "\"The man can't walk fast. He can roll.\"",
+    "pause_ms": 200,
+    "source_line": 1797
+  },
+  {
+    "id": "b01-c03-u0246",
+    "speaker": "AIDEN",
+    "text": "Nigga, that was why I respected women who could drive.",
+    "pause_ms": 180,
+    "source_line": 1797
+  },
+  {
+    "id": "b01-c03-u0247",
+    "speaker": "AIDEN",
+    "text": "Tank put me in the chair, and Porsche pushed. We came into the hall as a nurse was trying to move an older man toward the stairs. He had one leg in a cast, a hospital gown falling open at the back, and the face of a man who had lived sixty years without expecting his next problem to come in a coffin.",
+    "pause_ms": 180,
+    "source_line": 1797
+  },
+  {
+    "id": "b01-c03-u0248",
+    "speaker": "AIDEN",
+    "text": "\"Go with them,\"",
+    "pause_ms": 180,
+    "source_line": 1803
+  },
+  {
+    "id": "b01-c03-u0249",
+    "speaker": "AIDEN",
+    "text": "I told Porsche.",
+    "pause_ms": 180,
+    "source_line": 1803
+  },
+  {
+    "id": "b01-c03-u0250",
+    "speaker": "PORSCHE",
+    "text": "\"Who pushes you?\"",
+    "pause_ms": 200,
+    "source_line": 1805
+  },
+  {
+    "id": "b01-c03-u0251",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, I got hands.\"",
+    "pause_ms": 180,
+    "source_line": 1807
+  },
+  {
+    "id": "b01-c03-u0252",
+    "speaker": "AIDEN",
+    "text": "She caught the old man's bed before it struck the wall. Tank went ahead to the corner. I followed, one wheel at a time, my side hurting like somebody was twisting the bullet to find a better station.",
+    "pause_ms": 180,
+    "source_line": 1807
+  },
+  {
+    "id": "b01-c03-u0253",
+    "speaker": "AIDEN",
+    "text": "At the far end of the hall a gunman came through the stairwell door.",
+    "pause_ms": 180,
+    "source_line": 1807
+  },
+  {
+    "id": "b01-c03-u0254",
+    "speaker": "AIDEN",
+    "text": "He saw Tank first and stopped smiling. Then he saw me in the chair, and the smile came back.",
+    "pause_ms": 180,
+    "source_line": 1807
+  },
+  {
+    "id": "b01-c03-u0255",
+    "speaker": "B01C03_GUNMAN_1",
+    "text": "\"That's the king?\"",
+    "pause_ms": 200,
+    "source_line": 1815
+  },
+  {
+    "id": "b01-c03-u0256",
+    "speaker": "TANK",
+    "text": "\"That's the nigga,\"",
+    "pause_ms": 200,
+    "source_line": 1817
+  },
+  {
+    "id": "b01-c03-u0257",
+    "speaker": "AIDEN",
+    "text": "Tank said.",
+    "pause_ms": 180,
+    "source_line": 1817
+  },
+  {
+    "id": "b01-c03-u0258",
+    "speaker": "AIDEN",
+    "text": "The man raised his gun.",
+    "pause_ms": 180,
+    "source_line": 1817
+  },
+  {
+    "id": "b01-c03-u0259",
+    "speaker": "AIDEN",
+    "text": "Tank hit the wall beside me. I leaned out of the chair and fired. The gunman fell back through the doorway, his weapon skidding across the polished floor. I could hear more feet coming up behind him.",
+    "pause_ms": 180,
+    "source_line": 1817
+  },
+  {
+    "id": "b01-c03-u0260",
+    "speaker": "AIDEN",
+    "text": "Porsche had reached the corner with the nurse and the bed. The old man was holding his gown shut with both hands.",
+    "pause_ms": 180,
+    "source_line": 1817
+  },
+  {
+    "id": "b01-c03-u0261",
+    "speaker": "AIDEN",
+    "text": "\"Don't look down,\"",
+    "pause_ms": 180,
+    "source_line": 1825
+  },
+  {
+    "id": "b01-c03-u0262",
+    "speaker": "AIDEN",
+    "text": "I told him.",
+    "pause_ms": 180,
+    "source_line": 1825
+  },
+  {
+    "id": "b01-c03-u0263",
+    "speaker": "B01C03_PATIENT",
+    "text": "\"Wasn't planning to, son.\"",
+    "pause_ms": 200,
+    "source_line": 1827
+  },
+  {
+    "id": "b01-c03-u0264",
+    "speaker": "AIDEN",
+    "text": "\"Good. Your nigga's got this.\"",
+    "pause_ms": 180,
+    "source_line": 1829
+  },
+  {
+    "id": "b01-c03-u0265",
+    "speaker": "AIDEN",
+    "text": "The ceiling sprinkler above us burst. Water came down so suddenly I thought somebody had opened the sky. Tank grabbed the back of my chair and ran.",
+    "pause_ms": 180,
+    "source_line": 1829
+  },
+  {
+    "id": "b01-c03-u0266",
+    "speaker": "AIDEN",
+    "text": "We shot through the wet corridor. Wheels rattling. Water in my face. Pain running up my ribs every time the chair hit a seam. Behind us two men came around the corner, and I turned far enough to see them trying to follow without slipping.",
+    "pause_ms": 180,
+    "source_line": 1829
+  },
+  {
+    "id": "b01-c03-u0267",
+    "speaker": "AIDEN",
+    "text": "\"Tank!\"",
+    "pause_ms": 180,
+    "source_line": 1835
+  },
+  {
+    "id": "b01-c03-u0268",
+    "speaker": "TANK",
+    "text": "\"I see them!\"",
+    "pause_ms": 200,
+    "source_line": 1837
+  },
+  {
+    "id": "b01-c03-u0269",
+    "speaker": "AIDEN",
+    "text": "\"Then quit sightseeing and push!\"",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0270",
+    "speaker": "AIDEN",
+    "text": "He pushed harder. We hit the doors to the atrium, crashed through, and came out on a tiled balcony above the entrance. Below, the coffin stood in the middle of a fountain. One of the delivery men had taken cover behind it. The other was pointing his gun up at us.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0271",
+    "speaker": "AIDEN",
+    "text": "I fired first.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0272",
+    "speaker": "AIDEN",
+    "text": "Tank pulled me away from the railing as shots cracked into the tiles. My chair went over on its side. I caught the arm, rolled, and came up on one knee with all the breath knocked out of me.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0273",
+    "speaker": "AIDEN",
+    "text": "The old man on the bed was behind us. So was the nurse. Porsche stood between them and the doors, holding a chair like she intended to make a career-ending point with it.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0274",
+    "speaker": "AIDEN",
+    "text": "There wasn't anywhere else for them to go.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0275",
+    "speaker": "AIDEN",
+    "text": "I looked down at the coffin.",
+    "pause_ms": 180,
+    "source_line": 1839
+  },
+  {
+    "id": "b01-c03-u0276",
+    "speaker": "AIDEN",
+    "text": "\"Nigga,\"",
+    "pause_ms": 180,
+    "source_line": 1853
+  },
+  {
+    "id": "b01-c03-u0277",
+    "speaker": "AIDEN",
+    "text": "I said,",
+    "pause_ms": 180,
+    "source_line": 1853
+  },
+  {
+    "id": "b01-c03-u0278",
+    "speaker": "AIDEN",
+    "text": "\"who sent it?\"",
+    "pause_ms": 180,
+    "source_line": 1853
+  },
+  {
+    "id": "b01-c03-u0279",
+    "speaker": "AIDEN",
+    "text": "The man below looked up. He actually answered.",
+    "pause_ms": 180,
+    "source_line": 1853
+  },
+  {
+    "id": "b01-c03-u0280",
+    "speaker": "B01C03_DELIVERY_GUNMAN",
+    "text": "\"Who you think?\"",
+    "pause_ms": 200,
+    "source_line": 1857
+  },
+  {
+    "id": "b01-c03-u0281",
+    "speaker": "AIDEN",
+    "text": "\"I think your taste is fucking awful.\"",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0282",
+    "speaker": "AIDEN",
+    "text": "I kicked the overturned wheelchair through the rail's broken section.",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0283",
+    "speaker": "AIDEN",
+    "text": "It fell into the fountain with a crash of metal and water, hitting the coffin hard enough to send it sliding. The man behind it jumped clear. Tank fired from the balcony. The man spun behind a marble column and stayed there.",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0284",
+    "speaker": "AIDEN",
+    "text": "I stood up.",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0285",
+    "speaker": "AIDEN",
+    "text": "Not because the pain had stopped. Nigga, the pain got its own fucking feet and stood with me. But the people behind us needed a door, and I could see one across the atrium below.",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0286",
+    "speaker": "AIDEN",
+    "text": "Tank saw where I was looking.",
+    "pause_ms": 180,
+    "source_line": 1859
+  },
+  {
+    "id": "b01-c03-u0287",
+    "speaker": "TANK",
+    "text": "\"Don't you dare.\"",
+    "pause_ms": 200,
+    "source_line": 1871
+  },
+  {
+    "id": "b01-c03-u0288",
+    "speaker": "AIDEN",
+    "text": "\"Catch up.\"",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0289",
+    "speaker": "AIDEN",
+    "text": "I went over the rail.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0290",
+    "speaker": "AIDEN",
+    "text": "The coffin took my landing in the middle of its lid. Black wood split beneath my shoes. The fountain water exploded around me. For one second I was standing on my own fucking name with a pistol in my hand and every person in that lobby staring up from the floor.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0291",
+    "speaker": "AIDEN",
+    "text": "Then the nigga behind the column came at me.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0292",
+    "speaker": "AIDEN",
+    "text": "He didn't fire. Maybe his gun was empty. Maybe he thought a wounded man standing inside a coffin would finally understand the invitation.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0293",
+    "speaker": "AIDEN",
+    "text": "I hit him with the broken lid.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0294",
+    "speaker": "AIDEN",
+    "text": "Wood cracked against his shoulder. He went backward into the fountain, and I went with him, water in my mouth and his hands trying to find my throat. My side screamed. I drove him off me and held the pistol close enough that he stopped reaching.",
+    "pause_ms": 180,
+    "source_line": 1873
+  },
+  {
+    "id": "b01-c03-u0295",
+    "speaker": "AIDEN",
+    "text": "\"You finished?\"",
+    "pause_ms": 180,
+    "source_line": 1887
+  },
+  {
+    "id": "b01-c03-u0296",
+    "speaker": "AIDEN",
+    "text": "He nodded.",
+    "pause_ms": 180,
+    "source_line": 1887
+  },
+  {
+    "id": "b01-c03-u0297",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, use your words.\"",
+    "pause_ms": 180,
+    "source_line": 1891
+  },
+  {
+    "id": "b01-c03-u0298",
+    "speaker": "B01C03_DELIVERY_GUNMAN",
+    "text": "\"Finished.\"",
+    "pause_ms": 200,
+    "source_line": 1893
+  },
+  {
+    "id": "b01-c03-u0299",
+    "speaker": "AIDEN",
+    "text": "\"Then stay fucking finished.\"",
+    "pause_ms": 180,
+    "source_line": 1895
+  },
+  {
+    "id": "b01-c03-u0300",
+    "speaker": "AIDEN",
+    "text": "Tank reached me before I could get out by myself. He had come down the stairs like an avalanche in a suit. Porsche and the nurse brought the bed through behind him, and the old man on it raised one fist at me.",
+    "pause_ms": 180,
+    "source_line": 1895
+  },
+  {
+    "id": "b01-c03-u0301",
+    "speaker": "B01C03_PATIENT",
+    "text": "\"That's my boy!\"",
+    "pause_ms": 200,
+    "source_line": 1899
+  },
+  {
+    "id": "b01-c03-u0302",
+    "speaker": "AIDEN",
+    "text": "I didn't know that man from anybody. He was proud of me anyway. Nigga, I was collecting fathers faster than the bad ones could die.",
+    "pause_ms": 180,
+    "source_line": 1899
+  },
+  {
+    "id": "b01-c03-u0303",
+    "speaker": "AIDEN",
+    "text": "Outside, the white sedans tried to leave. One got as far as the gate before a police cruiser struck it broadside. The other stopped behind it with nowhere to go. A woman stepped out of the cruiser carrying a long gun and wearing dark glasses that didn't move when she shouted.",
+    "pause_ms": 180,
+    "source_line": 1899
+  },
+  {
+    "id": "b01-c03-u0304",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"Hands where I can fucking see them!\"",
+    "pause_ms": 200,
+    "source_line": 1905
+  },
+  {
+    "id": "b01-c03-u0305",
+    "speaker": "AIDEN",
+    "text": "Every hand in the white cars appeared immediately.",
+    "pause_ms": 180,
+    "source_line": 1905
+  },
+  {
+    "id": "b01-c03-u0306",
+    "speaker": "AIDEN",
+    "text": "Chief Gloria Knox came through the broken entrance two minutes later. Fifty-three, silver at her temples, blue uniform sharp enough to cut a confession out of a man's throat. She looked at the fountain, the coffin, the shattered rail above it, and finally at me.",
+    "pause_ms": 180,
+    "source_line": 1905
+  },
+  {
+    "id": "b01-c03-u0307",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"You jumped from there?\"",
+    "pause_ms": 200,
+    "source_line": 1911
+  },
+  {
+    "id": "b01-c03-u0308",
+    "speaker": "AIDEN",
+    "text": "\"Nigga was in my way.\"",
+    "pause_ms": 180,
+    "source_line": 1913
+  },
+  {
+    "id": "b01-c03-u0309",
+    "speaker": "AIDEN",
+    "text": "She tilted her head.",
+    "pause_ms": 180,
+    "source_line": 1913
+  },
+  {
+    "id": "b01-c03-u0310",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"And that solved it?\"",
+    "pause_ms": 200,
+    "source_line": 1917
+  },
+  {
+    "id": "b01-c03-u0311",
+    "speaker": "AIDEN",
+    "text": "The gunman in the fountain groaned.",
+    "pause_ms": 180,
+    "source_line": 1917
+  },
+  {
+    "id": "b01-c03-u0312",
+    "speaker": "AIDEN",
+    "text": "Knox smiled.",
+    "pause_ms": 180,
+    "source_line": 1917
+  },
+  {
+    "id": "b01-c03-u0313",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"Apparently.\"",
+    "pause_ms": 200,
+    "source_line": 1923
+  },
+  {
+    "id": "b01-c03-u0314",
+    "speaker": "AIDEN",
+    "text": "Vega arrived behind her with Shawna and the others. The doctor took one look at my wet clothes and made a sound that hurt worse than the bullet.",
+    "pause_ms": 180,
+    "source_line": 1923
+  },
+  {
+    "id": "b01-c03-u0315",
+    "speaker": "DR_VEGA",
+    "text": "\"Aiden.\"",
+    "pause_ms": 200,
+    "source_line": 1927
+  },
+  {
+    "id": "b01-c03-u0316",
+    "speaker": "AIDEN",
+    "text": "\"Everybody's alive.\"",
+    "pause_ms": 180,
+    "source_line": 1929
+  },
+  {
+    "id": "b01-c03-u0317",
+    "speaker": "DR_VEGA",
+    "text": "\"You were in bed.\"",
+    "pause_ms": 200,
+    "source_line": 1931
+  },
+  {
+    "id": "b01-c03-u0318",
+    "speaker": "AIDEN",
+    "text": "\"Didn't have wheels.\"",
+    "pause_ms": 180,
+    "source_line": 1933
+  },
+  {
+    "id": "b01-c03-u0319",
+    "speaker": "AIDEN",
+    "text": "Porsche lifted her hand.",
+    "pause_ms": 180,
+    "source_line": 1933
+  },
+  {
+    "id": "b01-c03-u0320",
+    "speaker": "PORSCHE",
+    "text": "\"I tried a chair.\"",
+    "pause_ms": 200,
+    "source_line": 1935
+  },
+  {
+    "id": "b01-c03-u0321",
+    "speaker": "AIDEN",
+    "text": "Vega shut her eyes, then opened them on me again.",
+    "pause_ms": 180,
+    "source_line": 1935
+  },
+  {
+    "id": "b01-c03-u0322",
+    "speaker": "DR_VEGA",
+    "text": "\"You saved my nurse.\"",
+    "pause_ms": 200,
+    "source_line": 1939
+  },
+  {
+    "id": "b01-c03-u0323",
+    "speaker": "AIDEN",
+    "text": "\"She saved my ass first.\"",
+    "pause_ms": 180,
+    "source_line": 1941
+  },
+  {
+    "id": "b01-c03-u0324",
+    "speaker": "AIDEN",
+    "text": "The nurse started crying. The old man demanded to shake my hand. Knox gave me her card without waiting for me to ask what she wanted.",
+    "pause_ms": 180,
+    "source_line": 1941
+  },
+  {
+    "id": "b01-c03-u0325",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"When you're tired of people sending coffins,\"",
+    "pause_ms": 200,
+    "source_line": 1945
+  },
+  {
+    "id": "b01-c03-u0326",
+    "speaker": "AIDEN",
+    "text": "she said,",
+    "pause_ms": 180,
+    "source_line": 1945
+  },
+  {
+    "id": "b01-c03-u0327",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"come see me. I'd rather give you a badge.\"",
+    "pause_ms": 200,
+    "source_line": 1945
+  },
+  {
+    "id": "b01-c03-u0328",
+    "speaker": "AIDEN",
+    "text": "Tank stared at her.",
+    "pause_ms": 180,
+    "source_line": 1945
+  },
+  {
+    "id": "b01-c03-u0329",
+    "speaker": "TANK",
+    "text": "\"This nigga?\"",
+    "pause_ms": 200,
+    "source_line": 1949
+  },
+  {
+    "id": "b01-c03-u0330",
+    "speaker": "GLORIA_KNOX",
+    "text": "\"Especially this nigga.\"",
+    "pause_ms": 200,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0331",
+    "speaker": "AIDEN",
+    "text": "Shawna got her arms around me before I could say anything worth remembering. She was laughing and furious, kissing my face, calling me impossible right in front of the chief of police.",
+    "pause_ms": 180,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0332",
+    "speaker": "AIDEN",
+    "text": "I stood there soaked to the waist and bleeding again, my woman holding me, a whole hospital looking at me like I'd arrived from somewhere higher than the third floor.",
+    "pause_ms": 180,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0333",
+    "speaker": "AIDEN",
+    "text": "They carried the broken coffin out that evening. Knox had it put on the back of a truck with the two surviving attackers beside it in handcuffs. The one I'd fought kept looking up at my window.",
+    "pause_ms": 180,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0334",
+    "speaker": "AIDEN",
+    "text": "I gave him a little wave.",
+    "pause_ms": 180,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0335",
+    "speaker": "AIDEN",
+    "text": "Then I let Vega put me back in bed before she personally finished what the nigga had started.",
+    "pause_ms": 650,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0336",
+    "speaker": "AIDEN",
+    "text": "Five days passed before Vega let your nigga leave, and she made it clear that leaving did not mean I was healed. I could walk slowly. I could sit. I could get tired crossing a room and pretend I had stopped to look at something expensive.",
+    "pause_ms": 180,
+    "source_line": 1951
+  },
+  {
+    "id": "b01-c03-u0337",
+    "speaker": "DR_VEGA",
+    "text": "\"No heroics,\"",
+    "pause_ms": 200,
+    "source_line": 1967
+  },
+  {
+    "id": "b01-c03-u0338",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 1967
+  },
+  {
+    "id": "b01-c03-u0339",
+    "speaker": "AIDEN",
+    "text": "Tank stood behind my wheelchair holding two duffel bags and the red coat.",
+    "pause_ms": 180,
+    "source_line": 1967
+  },
+  {
+    "id": "b01-c03-u0340",
+    "speaker": "SHAWNA",
+    "text": "\"He won't,\"",
+    "pause_ms": 200,
+    "source_line": 1971
+  },
+  {
+    "id": "b01-c03-u0341",
+    "speaker": "AIDEN",
+    "text": "Shawna said.",
+    "pause_ms": 180,
+    "source_line": 1971
+  },
+  {
+    "id": "b01-c03-u0342",
+    "speaker": "AIDEN",
+    "text": "Vega looked at her.",
+    "pause_ms": 180,
+    "source_line": 1971
+  },
+  {
+    "id": "b01-c03-u0343",
+    "speaker": "DR_VEGA",
+    "text": "\"You either.\"",
+    "pause_ms": 200,
+    "source_line": 1975
+  },
+  {
+    "id": "b01-c03-u0344",
+    "speaker": "AIDEN",
+    "text": "They understood each other better than I wanted them to.",
+    "pause_ms": 180,
+    "source_line": 1975
+  },
+  {
+    "id": "b01-c03-u0345",
+    "speaker": "AIDEN",
+    "text": "Downstairs, six black cars waited under the hospital entrance. Men stood beside them when Tank brought me out. They straightened when they saw me, even in the fucking chair.",
+    "pause_ms": 180,
+    "source_line": 1975
+  },
+  {
+    "id": "b01-c03-u0346",
+    "speaker": "AIDEN",
+    "text": "One opened the Mercedes door.",
+    "pause_ms": 180,
+    "source_line": 1975
+  },
+  {
+    "id": "b01-c03-u0347",
+    "speaker": "B01C03_CREW_DRIVER",
+    "text": "\"Welcome back.\"",
+    "pause_ms": 200,
+    "source_line": 1983
+  },
+  {
+    "id": "b01-c03-u0348",
+    "speaker": "AIDEN",
+    "text": "Back. Like I'd had a kingdom before I had a woman. Like these niggas hadn't learned my name while I was bleeding through somebody else's sheets.",
+    "pause_ms": 180,
+    "source_line": 1983
+  },
+  {
+    "id": "b01-c03-u0349",
+    "speaker": "AIDEN",
+    "text": "I stood because I wanted Shawna to see me stand.",
+    "pause_ms": 180,
+    "source_line": 1983
+  },
+  {
+    "id": "b01-c03-u0350",
+    "speaker": "AIDEN",
+    "text": "She took my arm because she knew what it cost.",
+    "pause_ms": 180,
+    "source_line": 1983
+  },
+  {
+    "id": "b01-c03-u0351",
+    "speaker": "SHAWNA",
+    "text": "\"Where we going?\"",
+    "pause_ms": 200,
+    "source_line": 1991
+  },
+  {
+    "id": "b01-c03-u0352",
+    "speaker": "AIDEN",
+    "text": "she asked.",
+    "pause_ms": 180,
+    "source_line": 1991
+  },
+  {
+    "id": "b01-c03-u0353",
+    "speaker": "AIDEN",
+    "text": "I looked down at her.",
+    "pause_ms": 180,
+    "source_line": 1991
+  },
+  {
+    "id": "b01-c03-u0354",
+    "speaker": "AIDEN",
+    "text": "\"Home, baby. We just gotta get one.\"",
+    "pause_ms": 800,
+    "source_line": 1995
+  }
+]

@@ -1,0 +1,2151 @@
+[
+  {
+    "id": "b01-c07-u0001",
+    "speaker": "AIDEN",
+    "text": "The room had rose petals on the bed, Shawna said, but Dante was gathering them in his hands and putting them in the ice bucket.",
+    "pause_ms": 180,
+    "source_line": 3757
+  },
+  {
+    "id": "b01-c07-u0002",
+    "speaker": "AIDEN",
+    "text": "She was still wearing her wedding dress.",
+    "pause_ms": 180,
+    "source_line": 3757
+  },
+  {
+    "id": "b01-c07-u0003",
+    "speaker": "SHAWNA",
+    "text": "Are they bothering you?",
+    "pause_ms": 200,
+    "source_line": 3761
+  },
+  {
+    "id": "b01-c07-u0004",
+    "speaker": "AIDEN",
+    "text": "she'd asked.",
+    "pause_ms": 180,
+    "source_line": 3761
+  },
+  {
+    "id": "b01-c07-u0005",
+    "speaker": "DANTE",
+    "text": "They got dirt on them.",
+    "pause_ms": 200,
+    "source_line": 3763
+  },
+  {
+    "id": "b01-c07-u0006",
+    "speaker": "SHAWNA",
+    "text": "Dante.",
+    "pause_ms": 200,
+    "source_line": 3765
+  },
+  {
+    "id": "b01-c07-u0007",
+    "speaker": "DANTE",
+    "text": "I don't want you sleeping in dirt.",
+    "pause_ms": 200,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0008",
+    "speaker": "AIDEN",
+    "text": "She had laughed and kicked off her shoes. He had watched them hit the carpet as if he hadn't quite believed she intended to stay.",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0009",
+    "speaker": "AIDEN",
+    "text": "That part fucked with me. I knew exactly how that man had looked at her shoes. I'd looked at her watch the same way, checking whether she'd put anything down long enough to live with me.",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0010",
+    "speaker": "AIDEN",
+    "text": "Shawna kept talking.",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0011",
+    "speaker": "AIDEN",
+    "text": "Dante sat beside the bucket full of roses and told her he'd been in prison before they met. Nine months of his life, a little more than three years before this morning in my bedroom. He'd been twenty-eight then. His first afternoon, a man at the next table spilled soup down the front of an older prisoner's shirt. The older man looked down at himself,",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0012",
+    "speaker": "AIDEN",
+    "text": "then carried on eating.",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0013",
+    "speaker": "AIDEN",
+    "text": "Dante waited.",
+    "pause_ms": 180,
+    "source_line": 3767
+  },
+  {
+    "id": "b01-c07-u0014",
+    "speaker": "B01C07_PRISON_BULLY_1",
+    "text": "You hear me, old man?",
+    "pause_ms": 200,
+    "source_line": 3779
+  },
+  {
+    "id": "b01-c07-u0015",
+    "speaker": "AIDEN",
+    "text": "the first man said.",
+    "pause_ms": 180,
+    "source_line": 3779
+  },
+  {
+    "id": "b01-c07-u0016",
+    "speaker": "MARCELLUS",
+    "text": "I heard you.",
+    "pause_ms": 200,
+    "source_line": 3781
+  },
+  {
+    "id": "b01-c07-u0017",
+    "speaker": "B01C07_PRISON_BULLY_1",
+    "text": "Then look at me.",
+    "pause_ms": 200,
+    "source_line": 3783
+  },
+  {
+    "id": "b01-c07-u0018",
+    "speaker": "AIDEN",
+    "text": "The older prisoner put his spoon down.",
+    "pause_ms": 180,
+    "source_line": 3783
+  },
+  {
+    "id": "b01-c07-u0019",
+    "speaker": "MARCELLUS",
+    "text": "You have my soup on your hand.",
+    "pause_ms": 200,
+    "source_line": 3787
+  },
+  {
+    "id": "b01-c07-u0020",
+    "speaker": "AIDEN",
+    "text": "The man slapped him.",
+    "pause_ms": 180,
+    "source_line": 3787
+  },
+  {
+    "id": "b01-c07-u0021",
+    "speaker": "AIDEN",
+    "text": "Dante got up.",
+    "pause_ms": 180,
+    "source_line": 3787
+  },
+  {
+    "id": "b01-c07-u0022",
+    "speaker": "AIDEN",
+    "text": "He told Shawna he didn't remember crossing the space between the tables. One minute he was sitting down. The next he was holding the man against a wall with blood on his own shirt, shouting for someone to bring the old man another fucking bowl.",
+    "pause_ms": 180,
+    "source_line": 3787
+  },
+  {
+    "id": "b01-c07-u0023",
+    "speaker": "AIDEN",
+    "text": "\"What happened after the soup?\"",
+    "pause_ms": 180,
+    "source_line": 3795
+  },
+  {
+    "id": "b01-c07-u0024",
+    "speaker": "AIDEN",
+    "text": "I asked Shawna.",
+    "pause_ms": 180,
+    "source_line": 3795
+  },
+  {
+    "id": "b01-c07-u0025",
+    "speaker": "SHAWNA",
+    "text": "\"I just told you.\"",
+    "pause_ms": 200,
+    "source_line": 3797
+  },
+  {
+    "id": "b01-c07-u0026",
+    "speaker": "AIDEN",
+    "text": "\"You told me a nigga got hit. Baby, you skipped the part where the nigga found out.\"",
+    "pause_ms": 180,
+    "source_line": 3799
+  },
+  {
+    "id": "b01-c07-u0027",
+    "speaker": "AIDEN",
+    "text": "She looked at me for a second. Then she settled farther back against the pillows.",
+    "pause_ms": 180,
+    "source_line": 3799
+  },
+  {
+    "id": "b01-c07-u0028",
+    "speaker": "SHAWNA",
+    "text": "\"Dante said the man had three friends.\"",
+    "pause_ms": 200,
+    "source_line": 3803
+  },
+  {
+    "id": "b01-c07-u0029",
+    "speaker": "AIDEN",
+    "text": "\"There we go.\"",
+    "pause_ms": 180,
+    "source_line": 3805
+  },
+  {
+    "id": "b01-c07-u0030",
+    "speaker": "AIDEN",
+    "text": "The first friend got up when Dante crossed the room. A big man with a shaved head and a towel over one shoulder, forty years old and proud of how much space he took from everybody around him. He put himself between Dante and the older man.",
+    "pause_ms": 180,
+    "source_line": 3805
+  },
+  {
+    "id": "b01-c07-u0031",
+    "speaker": "B01C07_PRISON_BULLY_2",
+    "text": "\"Sit your ass down.\"",
+    "pause_ms": 200,
+    "source_line": 3809
+  },
+  {
+    "id": "b01-c07-u0032",
+    "speaker": "AIDEN",
+    "text": "Dante kept walking.",
+    "pause_ms": 180,
+    "source_line": 3809
+  },
+  {
+    "id": "b01-c07-u0033",
+    "speaker": "B01C07_PRISON_BULLY_2",
+    "text": "\"Nigga, you deaf?\"",
+    "pause_ms": 200,
+    "source_line": 3813
+  },
+  {
+    "id": "b01-c07-u0034",
+    "speaker": "DANTE",
+    "text": "\"No. You finished?\"",
+    "pause_ms": 200,
+    "source_line": 3815
+  },
+  {
+    "id": "b01-c07-u0035",
+    "speaker": "AIDEN",
+    "text": "The man swung. Dante caught the edge of it across his jaw and hit him with the tray he'd still been carrying. Food went everywhere. A cup rolled off the table and broke under somebody's shoe.",
+    "pause_ms": 180,
+    "source_line": 3815
+  },
+  {
+    "id": "b01-c07-u0036",
+    "speaker": "AIDEN",
+    "text": "Then everybody stood up.",
+    "pause_ms": 180,
+    "source_line": 3815
+  },
+  {
+    "id": "b01-c07-u0037",
+    "speaker": "AIDEN",
+    "text": "The man who'd spilled the soup grabbed Marcellus by his collar. He was smiling at Dante, enjoying how quickly a stranger had given him something useful to hurt.",
+    "pause_ms": 180,
+    "source_line": 3815
+  },
+  {
+    "id": "b01-c07-u0038",
+    "speaker": "B01C07_PRISON_BULLY_1",
+    "text": "\"You want the old nigga? Come get him.\"",
+    "pause_ms": 200,
+    "source_line": 3823
+  },
+  {
+    "id": "b01-c07-u0039",
+    "speaker": "AIDEN",
+    "text": "Dante went over the table.",
+    "pause_ms": 180,
+    "source_line": 3823
+  },
+  {
+    "id": "b01-c07-u0040",
+    "speaker": "AIDEN",
+    "text": "Shawna lifted one hand when she told me. I could see her husband for a second in the shape she made: feet off the floor, hands already reaching, a man who'd decided the space between him and somebody in trouble belonged to him now.",
+    "pause_ms": 180,
+    "source_line": 3823
+  },
+  {
+    "id": "b01-c07-u0041",
+    "speaker": "AIDEN",
+    "text": "I knew that decision. I didn't like sharing it with him, but nigga, I knew it.",
+    "pause_ms": 180,
+    "source_line": 3823
+  },
+  {
+    "id": "b01-c07-u0042",
+    "speaker": "AIDEN",
+    "text": "Dante hit the man holding Marcellus with both knees. They went down together. The old man fell against the bench, caught himself, and picked up his soup spoon before anybody stepped on it.",
+    "pause_ms": 180,
+    "source_line": 3823
+  },
+  {
+    "id": "b01-c07-u0043",
+    "speaker": "AIDEN",
+    "text": "\"He picked up the spoon?\"",
+    "pause_ms": 180,
+    "source_line": 3833
+  },
+  {
+    "id": "b01-c07-u0044",
+    "speaker": "AIDEN",
+    "text": "I asked.",
+    "pause_ms": 180,
+    "source_line": 3833
+  },
+  {
+    "id": "b01-c07-u0045",
+    "speaker": "SHAWNA",
+    "text": "\"He liked that spoon.\"",
+    "pause_ms": 200,
+    "source_line": 3835
+  },
+  {
+    "id": "b01-c07-u0046",
+    "speaker": "AIDEN",
+    "text": "\"Nigga, I respect an attachment.\"",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0047",
+    "speaker": "AIDEN",
+    "text": "The third man came behind Dante with a chair. Marcellus saw him first. He put a foot against the man's ankle as he passed, just enough to spoil the step, and the chair struck the table instead of Dante's head.",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0048",
+    "speaker": "AIDEN",
+    "text": "Dante turned into him.",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0049",
+    "speaker": "AIDEN",
+    "text": "He told Shawna he never knew which part of the fight broke his finger. He remembered the pain later. What he remembered then was getting that chair away, seeing the old man standing up again, hearing men all around them shout because somebody had finally interrupted the same ugly afternoon they'd been living for years.",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0050",
+    "speaker": "AIDEN",
+    "text": "By the time the guards came, the soup was on the floor and three men were finding new reasons to stay there.",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0051",
+    "speaker": "AIDEN",
+    "text": "Dante stood in the middle of it with blood on his shirt.",
+    "pause_ms": 180,
+    "source_line": 3837
+  },
+  {
+    "id": "b01-c07-u0052",
+    "speaker": "DANTE",
+    "text": "\"Another bowl,\"",
+    "pause_ms": 200,
+    "source_line": 3849
+  },
+  {
+    "id": "b01-c07-u0053",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 3849
+  },
+  {
+    "id": "b01-c07-u0054",
+    "speaker": "AIDEN",
+    "text": "The nearest guard pointed at the door.",
+    "pause_ms": 180,
+    "source_line": 3849
+  },
+  {
+    "id": "b01-c07-u0055",
+    "speaker": "B01C07_GUARD",
+    "text": "\"Move.\"",
+    "pause_ms": 200,
+    "source_line": 3853
+  },
+  {
+    "id": "b01-c07-u0056",
+    "speaker": "DANTE",
+    "text": "\"Nigga, the old man ain't eaten.\"",
+    "pause_ms": 200,
+    "source_line": 3855
+  },
+  {
+    "id": "b01-c07-u0057",
+    "speaker": "B01C07_GUARD",
+    "text": "\"Move now.\"",
+    "pause_ms": 200,
+    "source_line": 3857
+  },
+  {
+    "id": "b01-c07-u0058",
+    "speaker": "AIDEN",
+    "text": "Marcellus put a hand on his shoulder.",
+    "pause_ms": 180,
+    "source_line": 3857
+  },
+  {
+    "id": "b01-c07-u0059",
+    "speaker": "MARCELLUS",
+    "text": "\"I can wait.\"",
+    "pause_ms": 200,
+    "source_line": 3861
+  },
+  {
+    "id": "b01-c07-u0060",
+    "speaker": "AIDEN",
+    "text": "Dante looked at the empty bowl on the table. Then at the men on the floor. Then he picked up the bowl and put it in the guard's hand.",
+    "pause_ms": 180,
+    "source_line": 3861
+  },
+  {
+    "id": "b01-c07-u0061",
+    "speaker": "DANTE",
+    "text": "\"So can they.\"",
+    "pause_ms": 200,
+    "source_line": 3865
+  },
+  {
+    "id": "b01-c07-u0062",
+    "speaker": "AIDEN",
+    "text": "Shawna smiled when she remembered that part. I let her have the smile. Her dead man had earned that much.",
+    "pause_ms": 180,
+    "source_line": 3865
+  },
+  {
+    "id": "b01-c07-u0063",
+    "speaker": "AIDEN",
+    "text": "\"Three niggas,\"",
+    "pause_ms": 180,
+    "source_line": 3869
+  },
+  {
+    "id": "b01-c07-u0064",
+    "speaker": "AIDEN",
+    "text": "I said.",
+    "pause_ms": 180,
+    "source_line": 3869
+  },
+  {
+    "id": "b01-c07-u0065",
+    "speaker": "SHAWNA",
+    "text": "\"Three.\"",
+    "pause_ms": 200,
+    "source_line": 3871
+  },
+  {
+    "id": "b01-c07-u0066",
+    "speaker": "AIDEN",
+    "text": "\"I had twelve.\"",
+    "pause_ms": 180,
+    "source_line": 3873
+  },
+  {
+    "id": "b01-c07-u0067",
+    "speaker": "AIDEN",
+    "text": "She hit me with a pillow so gently even my bullet didn't complain.",
+    "pause_ms": 180,
+    "source_line": 3873
+  },
+  {
+    "id": "b01-c07-u0068",
+    "speaker": "SHAWNA",
+    "text": "\"You asked for the story.\"",
+    "pause_ms": 200,
+    "source_line": 3877
+  },
+  {
+    "id": "b01-c07-u0069",
+    "speaker": "AIDEN",
+    "text": "\"I'm listening. Nigga can listen and hold the record.\"",
+    "pause_ms": 180,
+    "source_line": 3879
+  },
+  {
+    "id": "b01-c07-u0070",
+    "speaker": "AIDEN",
+    "text": "She laughed, and for a second Dante wasn't sitting between us anymore. He was somewhere behind her, where she could turn and see him without leaving my bed.",
+    "pause_ms": 180,
+    "source_line": 3879
+  },
+  {
+    "id": "b01-c07-u0071",
+    "speaker": "AIDEN",
+    "text": "It bought him punishment and a friendship.",
+    "pause_ms": 180,
+    "source_line": 3879
+  },
+  {
+    "id": "b01-c07-u0072",
+    "speaker": "AIDEN",
+    "text": "The old man's name was Marcellus Vale.",
+    "pause_ms": 180,
+    "source_line": 3879
+  },
+  {
+    "id": "b01-c07-u0073",
+    "speaker": "AIDEN",
+    "text": "When Dante came back, Marcellus was sitting on his bunk with a little paper box in his hands. Inside was a broken plastic comb, several buttons, and a gold-colored wrapper folded into a heart.",
+    "pause_ms": 180,
+    "source_line": 3879
+  },
+  {
+    "id": "b01-c07-u0074",
+    "speaker": "MARCELLUS",
+    "text": "For your trouble,",
+    "pause_ms": 200,
+    "source_line": 3890
+  },
+  {
+    "id": "b01-c07-u0075",
+    "speaker": "AIDEN",
+    "text": "he said.",
+    "pause_ms": 180,
+    "source_line": 3890
+  },
+  {
+    "id": "b01-c07-u0076",
+    "speaker": "AIDEN",
+    "text": "Dante looked at the heart.",
+    "pause_ms": 180,
+    "source_line": 3890
+  },
+  {
+    "id": "b01-c07-u0077",
+    "speaker": "DANTE",
+    "text": "Nigga, what am I supposed to do with this?",
+    "pause_ms": 200,
+    "source_line": 3894
+  },
+  {
+    "id": "b01-c07-u0078",
+    "speaker": "MARCELLUS",
+    "text": "Give it to somebody.",
+    "pause_ms": 200,
+    "source_line": 3896
+  },
+  {
+    "id": "b01-c07-u0079",
+    "speaker": "DANTE",
+    "text": "A woman?",
+    "pause_ms": 200,
+    "source_line": 3898
+  },
+  {
+    "id": "b01-c07-u0080",
+    "speaker": "MARCELLUS",
+    "text": "If you like women.",
+    "pause_ms": 200,
+    "source_line": 3900
+  },
+  {
+    "id": "b01-c07-u0081",
+    "speaker": "DANTE",
+    "text": "I like women.",
+    "pause_ms": 200,
+    "source_line": 3902
+  },
+  {
+    "id": "b01-c07-u0082",
+    "speaker": "MARCELLUS",
+    "text": "Then perhaps one will like a heart.",
+    "pause_ms": 200,
+    "source_line": 3904
+  },
+  {
+    "id": "b01-c07-u0083",
+    "speaker": "AIDEN",
+    "text": "Dante took it. The folds were so small and straight they looked pressed by a machine.",
+    "pause_ms": 180,
+    "source_line": 3904
+  },
+  {
+    "id": "b01-c07-u0084",
+    "speaker": "DANTE",
+    "text": "You make jewelry?",
+    "pause_ms": 200,
+    "source_line": 3908
+  },
+  {
+    "id": "b01-c07-u0085",
+    "speaker": "MARCELLUS",
+    "text": "I did.",
+    "pause_ms": 200,
+    "source_line": 3910
+  },
+  {
+    "id": "b01-c07-u0086",
+    "speaker": "DANTE",
+    "text": "Used to steal it myself.",
+    "pause_ms": 200,
+    "source_line": 3912
+  },
+  {
+    "id": "b01-c07-u0087",
+    "speaker": "AIDEN",
+    "text": "Marcellus looked up.",
+    "pause_ms": 180,
+    "source_line": 3912
+  },
+  {
+    "id": "b01-c07-u0088",
+    "speaker": "MARCELLUS",
+    "text": "Then we may have met professionally.",
+    "pause_ms": 200,
+    "source_line": 3916
+  },
+  {
+    "id": "b01-c07-u0089",
+    "speaker": "AIDEN",
+    "text": "Dante laughed. The old man didn't, but he moved over so Dante could sit.",
+    "pause_ms": 180,
+    "source_line": 3916
+  },
+  {
+    "id": "b01-c07-u0090",
+    "speaker": "AIDEN",
+    "text": "For two months they ate together. Marcellus taught him cards. Dante taught him which men to leave alone and which men only wanted somebody to be frightened of them. Marcellus had already been inside for years. He knew the difference. He let Dante tell him anyway.",
+    "pause_ms": 180,
+    "source_line": 3916
+  },
+  {
+    "id": "b01-c07-u0091",
+    "speaker": "AIDEN",
+    "text": "At night, the old man held a photograph under the light from the corridor.",
+    "pause_ms": 180,
+    "source_line": 3916
+  },
+  {
+    "id": "b01-c07-u0092",
+    "speaker": "AIDEN",
+    "text": "Celeste stood on a little stage with a microphone in her hand. Her mouth was open. Her eyes were closed. A blue stone lay at the base of her throat.",
+    "pause_ms": 180,
+    "source_line": 3916
+  },
+  {
+    "id": "b01-c07-u0093",
+    "speaker": "DANTE",
+    "text": "Your wife?",
+    "pause_ms": 200,
+    "source_line": 3926
+  },
+  {
+    "id": "b01-c07-u0094",
+    "speaker": "AIDEN",
+    "text": "Dante asked one night.",
+    "pause_ms": 180,
+    "source_line": 3926
+  },
+  {
+    "id": "b01-c07-u0095",
+    "speaker": "MARCELLUS",
+    "text": "Yes.",
+    "pause_ms": 200,
+    "source_line": 3928
+  },
+  {
+    "id": "b01-c07-u0096",
+    "speaker": "DANTE",
+    "text": "She beautiful.",
+    "pause_ms": 200,
+    "source_line": 3930
+  },
+  {
+    "id": "b01-c07-u0097",
+    "speaker": "MARCELLUS",
+    "text": "I know.",
+    "pause_ms": 200,
+    "source_line": 3932
+  },
+  {
+    "id": "b01-c07-u0098",
+    "speaker": "DANTE",
+    "text": "She still come see you?",
+    "pause_ms": 200,
+    "source_line": 3934
+  },
+  {
+    "id": "b01-c07-u0099",
+    "speaker": "AIDEN",
+    "text": "Marcellus turned the photograph over.",
+    "pause_ms": 180,
+    "source_line": 3934
+  },
+  {
+    "id": "b01-c07-u0100",
+    "speaker": "MARCELLUS",
+    "text": "No.",
+    "pause_ms": 200,
+    "source_line": 3938
+  },
+  {
+    "id": "b01-c07-u0101",
+    "speaker": "AIDEN",
+    "text": "Dante didn't ask again until the day a letter arrived and Marcellus sat with it unopened through dinner.",
+    "pause_ms": 180,
+    "source_line": 3938
+  },
+  {
+    "id": "b01-c07-u0102",
+    "speaker": "DANTE",
+    "text": "You want me to read it?",
+    "pause_ms": 200,
+    "source_line": 3942
+  },
+  {
+    "id": "b01-c07-u0103",
+    "speaker": "AIDEN",
+    "text": "Dante said.",
+    "pause_ms": 180,
+    "source_line": 3942
+  },
+  {
+    "id": "b01-c07-u0104",
+    "speaker": "MARCELLUS",
+    "text": "I know what it says.",
+    "pause_ms": 200,
+    "source_line": 3944
+  },
+  {
+    "id": "b01-c07-u0105",
+    "speaker": "DANTE",
+    "text": "Then why they send it?",
+    "pause_ms": 200,
+    "source_line": 3946
+  },
+  {
+    "id": "b01-c07-u0106",
+    "speaker": "MARCELLUS",
+    "text": "Because some people think they can finish a love affair by closing a bank account.",
+    "pause_ms": 200,
+    "source_line": 3948
+  },
+  {
+    "id": "b01-c07-u0107",
+    "speaker": "AIDEN",
+    "text": "Dante sat on the other bunk.",
+    "pause_ms": 180,
+    "source_line": 3948
+  },
+  {
+    "id": "b01-c07-u0108",
+    "speaker": "AIDEN",
+    "text": "Marcellus stared at the envelope.",
+    "pause_ms": 180,
+    "source_line": 3948
+  },
+  {
+    "id": "b01-c07-u0109",
+    "speaker": "MARCELLUS",
+    "text": "She died three months ago.",
+    "pause_ms": 200,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0110",
+    "speaker": "AIDEN",
+    "text": "Neither man said anything for a while.",
+    "pause_ms": 180,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0111",
+    "speaker": "AIDEN",
+    "text": "Then Dante asked about the diamond.",
+    "pause_ms": 650,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0112",
+    "speaker": "AIDEN",
+    "text": "When Marcellus first saw the stone, it didn't look like forty million dollars. It looked like a dirty piece of sky somebody had knocked loose and tried to bury.",
+    "pause_ms": 180,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0113",
+    "speaker": "AIDEN",
+    "text": "He bought it from a man who carried it in an empty cigarette packet. He paid too much, threatened two people who thought they were entitled to part of it, and came home with an empty account and a fist-sized bruise on his jaw.",
+    "pause_ms": 180,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0114",
+    "speaker": "AIDEN",
+    "text": "Celeste was frying chicken.",
+    "pause_ms": 180,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0115",
+    "speaker": "AIDEN",
+    "text": "She took one look at him and turned the burner down.",
+    "pause_ms": 180,
+    "source_line": 3954
+  },
+  {
+    "id": "b01-c07-u0116",
+    "speaker": "CELESTE",
+    "text": "How much?",
+    "pause_ms": 200,
+    "source_line": 3970
+  },
+  {
+    "id": "b01-c07-u0117",
+    "speaker": "MARCELLUS",
+    "text": "Wait until you see it.",
+    "pause_ms": 200,
+    "source_line": 3972
+  },
+  {
+    "id": "b01-c07-u0118",
+    "speaker": "CELESTE",
+    "text": "How much, Marcellus?",
+    "pause_ms": 200,
+    "source_line": 3974
+  },
+  {
+    "id": "b01-c07-u0119",
+    "speaker": "AIDEN",
+    "text": "He put the cigarette packet on the table.",
+    "pause_ms": 180,
+    "source_line": 3974
+  },
+  {
+    "id": "b01-c07-u0120",
+    "speaker": "AIDEN",
+    "text": "She looked inside. Then she looked at him.",
+    "pause_ms": 180,
+    "source_line": 3974
+  },
+  {
+    "id": "b01-c07-u0121",
+    "speaker": "CELESTE",
+    "text": "We are not eating that.",
+    "pause_ms": 200,
+    "source_line": 3980
+  },
+  {
+    "id": "b01-c07-u0122",
+    "speaker": "AIDEN",
+    "text": "He took the stone from her and held it toward the kitchen window. Light passed through the rough blue surface and laid a strange little shape across her white sleeve.",
+    "pause_ms": 180,
+    "source_line": 3980
+  },
+  {
+    "id": "b01-c07-u0123",
+    "speaker": "AIDEN",
+    "text": "She stopped looking angry for a moment.",
+    "pause_ms": 180,
+    "source_line": 3980
+  },
+  {
+    "id": "b01-c07-u0124",
+    "speaker": "CELESTE",
+    "text": "Oh,",
+    "pause_ms": 200,
+    "source_line": 3986
+  },
+  {
+    "id": "b01-c07-u0125",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 3986
+  },
+  {
+    "id": "b01-c07-u0126",
+    "speaker": "AIDEN",
+    "text": "He watched her instead of the stone.",
+    "pause_ms": 180,
+    "source_line": 3986
+  },
+  {
+    "id": "b01-c07-u0127",
+    "speaker": "MARCELLUS",
+    "text": "Yes.",
+    "pause_ms": 200,
+    "source_line": 3990
+  },
+  {
+    "id": "b01-c07-u0128",
+    "speaker": "AIDEN",
+    "text": "It took him months to cut it. He worked in a room behind their house, shut the door, and disappeared for days at a time while Celeste sang at a lounge that barely paid her. She brought him food. Half the time it was still there when she came back.",
+    "pause_ms": 180,
+    "source_line": 3990
+  },
+  {
+    "id": "b01-c07-u0129",
+    "speaker": "AIDEN",
+    "text": "At the end of the first month, she moved his pillow into the workshop.",
+    "pause_ms": 180,
+    "source_line": 3990
+  },
+  {
+    "id": "b01-c07-u0130",
+    "speaker": "AIDEN",
+    "text": "At the end of the second, she put a photograph of herself beside the lamp.",
+    "pause_ms": 180,
+    "source_line": 3990
+  },
+  {
+    "id": "b01-c07-u0131",
+    "speaker": "CELESTE",
+    "text": "So you remember who the fuck lives out here,",
+    "pause_ms": 200,
+    "source_line": 3998
+  },
+  {
+    "id": "b01-c07-u0132",
+    "speaker": "AIDEN",
+    "text": "she told him.",
+    "pause_ms": 180,
+    "source_line": 3998
+  },
+  {
+    "id": "b01-c07-u0133",
+    "speaker": "AIDEN",
+    "text": "At the end of the third, he came into the lounge wearing his good suit.",
+    "pause_ms": 180,
+    "source_line": 3998
+  },
+  {
+    "id": "b01-c07-u0134",
+    "speaker": "AIDEN",
+    "text": "Celeste was halfway through a song. The piano player saw Marcellus coming and lost his place. Celeste stopped, turned, and saw the little box in her husband's hands.",
+    "pause_ms": 180,
+    "source_line": 3998
+  },
+  {
+    "id": "b01-c07-u0135",
+    "speaker": "CELESTE",
+    "text": "Don't you propose to me again,",
+    "pause_ms": 200,
+    "source_line": 4004
+  },
+  {
+    "id": "b01-c07-u0136",
+    "speaker": "AIDEN",
+    "text": "she said into the microphone.",
+    "pause_ms": 180,
+    "source_line": 4004
+  },
+  {
+    "id": "b01-c07-u0137",
+    "speaker": "CELESTE",
+    "text": "I fell for that shit once.",
+    "pause_ms": 200,
+    "source_line": 4004
+  },
+  {
+    "id": "b01-c07-u0138",
+    "speaker": "AIDEN",
+    "text": "People laughed. Marcellus kept walking until he reached the stage.",
+    "pause_ms": 180,
+    "source_line": 4004
+  },
+  {
+    "id": "b01-c07-u0139",
+    "speaker": "MARCELLUS",
+    "text": "I made you something.",
+    "pause_ms": 200,
+    "source_line": 4008
+  },
+  {
+    "id": "b01-c07-u0140",
+    "speaker": "AIDEN",
+    "text": "She came down the steps. He opened the box.",
+    "pause_ms": 180,
+    "source_line": 4008
+  },
+  {
+    "id": "b01-c07-u0141",
+    "speaker": "AIDEN",
+    "text": "The room got quiet.",
+    "pause_ms": 180,
+    "source_line": 4008
+  },
+  {
+    "id": "b01-c07-u0142",
+    "speaker": "AIDEN",
+    "text": "The stone was blue in a way Dante later told Shawna he couldn't explain. Shawna told me he held her hand against the lamp trying to show her what Marcellus meant. Blue that deepened when you moved it away from the light. Blue that kept looking wet after you understood it was dry.",
+    "pause_ms": 180,
+    "source_line": 4008
+  },
+  {
+    "id": "b01-c07-u0143",
+    "speaker": "AIDEN",
+    "text": "Celeste put her fingers over her mouth.",
+    "pause_ms": 180,
+    "source_line": 4008
+  },
+  {
+    "id": "b01-c07-u0144",
+    "speaker": "CELESTE",
+    "text": "Marcellus.",
+    "pause_ms": 200,
+    "source_line": 4018
+  },
+  {
+    "id": "b01-c07-u0145",
+    "speaker": "AIDEN",
+    "text": "He lifted the necklace out.",
+    "pause_ms": 180,
+    "source_line": 4018
+  },
+  {
+    "id": "b01-c07-u0146",
+    "speaker": "MARCELLUS",
+    "text": "Turn around.",
+    "pause_ms": 200,
+    "source_line": 4022
+  },
+  {
+    "id": "b01-c07-u0147",
+    "speaker": "AIDEN",
+    "text": "She did. He fastened it behind her neck. The diamond rested against her skin, surrounded by little pale stones that made it look even darker.",
+    "pause_ms": 180,
+    "source_line": 4022
+  },
+  {
+    "id": "b01-c07-u0148",
+    "speaker": "CELESTE",
+    "text": "What'd you call it?",
+    "pause_ms": 200,
+    "source_line": 4026
+  },
+  {
+    "id": "b01-c07-u0149",
+    "speaker": "AIDEN",
+    "text": "she asked.",
+    "pause_ms": 180,
+    "source_line": 4026
+  },
+  {
+    "id": "b01-c07-u0150",
+    "speaker": "MARCELLUS",
+    "text": "Blue Mercy.",
+    "pause_ms": 200,
+    "source_line": 4028
+  },
+  {
+    "id": "b01-c07-u0151",
+    "speaker": "CELESTE",
+    "text": "Mercy for what?",
+    "pause_ms": 200,
+    "source_line": 4030
+  },
+  {
+    "id": "b01-c07-u0152",
+    "speaker": "MARCELLUS",
+    "text": "The last three months.",
+    "pause_ms": 200,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0153",
+    "speaker": "AIDEN",
+    "text": "She put her arms around him and kissed him in front of everybody.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0154",
+    "speaker": "AIDEN",
+    "text": "Somewhere in that room, a man saw forty million dollars. Valentino was sitting near the back with Red, who was twenty-eight at the time and hungry for more than he could afford.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0155",
+    "speaker": "AIDEN",
+    "text": "Celeste saw her husband coming home from the little room behind the house.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0156",
+    "speaker": "AIDEN",
+    "text": "That's the shit Marcellus told Dante. Dante told his new wife. And his wife sat beside me years later with another dead man's necklace in my fist, telling me about all of them.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0157",
+    "speaker": "AIDEN",
+    "text": "I wanted to interrupt her. I wanted to ask whether Dante kissed better than me, whether he had ever promised her more, whether this old nigga's beautiful wife had looked at him the way mine looked at a fucking watch.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0158",
+    "speaker": "AIDEN",
+    "text": "I kept my mouth shut.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0159",
+    "speaker": "AIDEN",
+    "text": "Nigga, I wanted to hear what happened more than I wanted to hear myself.",
+    "pause_ms": 650,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0160",
+    "speaker": "AIDEN",
+    "text": "Red came to the workshop two weeks later with T and a bottle of wine that cost more than Marcellus's first car.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0161",
+    "speaker": "AIDEN",
+    "text": "He said he wanted to buy the stone.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0162",
+    "speaker": "AIDEN",
+    "text": "Marcellus said it wasn't for sale.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0163",
+    "speaker": "AIDEN",
+    "text": "Red doubled the number he'd been planning to offer before he even said it.",
+    "pause_ms": 180,
+    "source_line": 4032
+  },
+  {
+    "id": "b01-c07-u0164",
+    "speaker": "MARCELLUS",
+    "text": "It belongs to my wife,",
+    "pause_ms": 200,
+    "source_line": 4058
+  },
+  {
+    "id": "b01-c07-u0165",
+    "speaker": "AIDEN",
+    "text": "Marcellus told him.",
+    "pause_ms": 180,
+    "source_line": 4058
+  },
+  {
+    "id": "b01-c07-u0166",
+    "speaker": "RED",
+    "text": "Then ask your wife.",
+    "pause_ms": 200,
+    "source_line": 4060
+  },
+  {
+    "id": "b01-c07-u0167",
+    "speaker": "MARCELLUS",
+    "text": "She isn't for sale either.",
+    "pause_ms": 200,
+    "source_line": 4062
+  },
+  {
+    "id": "b01-c07-u0168",
+    "speaker": "AIDEN",
+    "text": "T laughed. Red didn't.",
+    "pause_ms": 180,
+    "source_line": 4062
+  },
+  {
+    "id": "b01-c07-u0169",
+    "speaker": "AIDEN",
+    "text": "They left the wine on the table.",
+    "pause_ms": 180,
+    "source_line": 4062
+  },
+  {
+    "id": "b01-c07-u0170",
+    "speaker": "AIDEN",
+    "text": "Celeste came in afterward, read the label, and carried it straight to the sink.",
+    "pause_ms": 180,
+    "source_line": 4062
+  },
+  {
+    "id": "b01-c07-u0171",
+    "speaker": "AIDEN",
+    "text": "Marcellus caught her wrist.",
+    "pause_ms": 180,
+    "source_line": 4062
+  },
+  {
+    "id": "b01-c07-u0172",
+    "speaker": "MARCELLUS",
+    "text": "Do you know what that's worth?",
+    "pause_ms": 200,
+    "source_line": 4072
+  },
+  {
+    "id": "b01-c07-u0173",
+    "speaker": "CELESTE",
+    "text": "Yes.",
+    "pause_ms": 200,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0174",
+    "speaker": "AIDEN",
+    "text": "She pulled free and poured it out.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0175",
+    "speaker": "CELESTE",
+    "text": "That's why I don't want to find out what we owe him if we drink it.",
+    "pause_ms": 200,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0176",
+    "speaker": "AIDEN",
+    "text": "But money was tight. A stone worth a fortune didn't pay the electric bill if nobody intended to sell it. Marcellus agreed to exhibit it at a private showing Valentino arranged. A rich client wanted jewelry made in the same blue setting. Other men wanted to pay him just to look at stones they already owned.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0177",
+    "speaker": "AIDEN",
+    "text": "He told Celeste it would give him enough work to stop worrying.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0178",
+    "speaker": "AIDEN",
+    "text": "She asked whether he would ever have enough work to stop.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0179",
+    "speaker": "AIDEN",
+    "text": "Before the showing, he made a duplicate. A lesser blue stone, convincing under warm light, in an identical necklace. He could leave that in the display while Celeste wore the original. He marked the removable mounting in a place only he thought to check. The true diamond had its own tiny irregularity inside, older than anybody who'd ever owned it. No second stone could share",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0180",
+    "speaker": "AIDEN",
+    "text": "it.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0181",
+    "speaker": "AIDEN",
+    "text": "The men who came to the showing took both.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0182",
+    "speaker": "AIDEN",
+    "text": "They took the necklaces, the loose jewels in the back room, and the book with his customers' names. T held Marcellus against his own workbench. Valentino lifted the necklace from Celeste's throat so carefully he didn't disturb her hair.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0183",
+    "speaker": "AIDEN",
+    "text": "Red stood in the doorway.",
+    "pause_ms": 180,
+    "source_line": 4074
+  },
+  {
+    "id": "b01-c07-u0184",
+    "speaker": "RED",
+    "text": "Now,",
+    "pause_ms": 200,
+    "source_line": 4090
+  },
+  {
+    "id": "b01-c07-u0185",
+    "speaker": "AIDEN",
+    "text": "he said,",
+    "pause_ms": 180,
+    "source_line": 4090
+  },
+  {
+    "id": "b01-c07-u0186",
+    "speaker": "RED",
+    "text": "perhaps we can agree on a price.",
+    "pause_ms": 200,
+    "source_line": 4090
+  },
+  {
+    "id": "b01-c07-u0187",
+    "speaker": "AIDEN",
+    "text": "Marcellus lunged at him. T hit him hard enough to knock the lamp over.",
+    "pause_ms": 180,
+    "source_line": 4090
+  },
+  {
+    "id": "b01-c07-u0188",
+    "speaker": "AIDEN",
+    "text": "Celeste dropped to the floor beside her husband.",
+    "pause_ms": 180,
+    "source_line": 4090
+  },
+  {
+    "id": "b01-c07-u0189",
+    "speaker": "CELESTE",
+    "text": "Take it,",
+    "pause_ms": 200,
+    "source_line": 4096
+  },
+  {
+    "id": "b01-c07-u0190",
+    "speaker": "AIDEN",
+    "text": "she said to Red.",
+    "pause_ms": 180,
+    "source_line": 4096
+  },
+  {
+    "id": "b01-c07-u0191",
+    "speaker": "CELESTE",
+    "text": "Go.",
+    "pause_ms": 200,
+    "source_line": 4096
+  },
+  {
+    "id": "b01-c07-u0192",
+    "speaker": "AIDEN",
+    "text": "Red looked down at her.",
+    "pause_ms": 180,
+    "source_line": 4096
+  },
+  {
+    "id": "b01-c07-u0193",
+    "speaker": "RED",
+    "text": "You should've said that in the beginning.",
+    "pause_ms": 200,
+    "source_line": 4100
+  },
+  {
+    "id": "b01-c07-u0194",
+    "speaker": "AIDEN",
+    "text": "He left an envelope on the workbench. There was a fraction of the money inside. Enough that he could say he'd paid. Not enough that any of them could mistake what had happened for a sale.",
+    "pause_ms": 180,
+    "source_line": 4100
+  },
+  {
+    "id": "b01-c07-u0195",
+    "speaker": "AIDEN",
+    "text": "Marcellus stayed on the floor after they left.",
+    "pause_ms": 180,
+    "source_line": 4100
+  },
+  {
+    "id": "b01-c07-u0196",
+    "speaker": "AIDEN",
+    "text": "Celeste held a towel against his face.",
+    "pause_ms": 180,
+    "source_line": 4100
+  },
+  {
+    "id": "b01-c07-u0197",
+    "speaker": "CELESTE",
+    "text": "Look at me,",
+    "pause_ms": 200,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0198",
+    "speaker": "AIDEN",
+    "text": "she kept saying.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0199",
+    "speaker": "CELESTE",
+    "text": "It's gone. Look at me.",
+    "pause_ms": 200,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0200",
+    "speaker": "AIDEN",
+    "text": "He was looking at her throat.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0201",
+    "speaker": "AIDEN",
+    "text": "That was the part that made the old man's voice change when he told Dante.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0202",
+    "speaker": "AIDEN",
+    "text": "His wife was right there. She was alive. She was asking him to look at her.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0203",
+    "speaker": "AIDEN",
+    "text": "He could only see where the diamond had been.",
+    "pause_ms": 650,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0204",
+    "speaker": "AIDEN",
+    "text": "He went after it. Of course he fucking went after it. By the time Shawna said that, I was standing beside the window imagining my own hands around Red's throat.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0205",
+    "speaker": "AIDEN",
+    "text": "Marcellus went after the diamond in the same good suit he'd worn to give it away.",
+    "pause_ms": 180,
+    "source_line": 4108
+  },
+  {
+    "id": "b01-c07-u0206",
+    "speaker": "AIDEN",
+    "text": "\"He told Dante that?\"",
+    "pause_ms": 180,
+    "source_line": 4124
+  },
+  {
+    "id": "b01-c07-u0207",
+    "speaker": "AIDEN",
+    "text": "I asked.",
+    "pause_ms": 180,
+    "source_line": 4124
+  },
+  {
+    "id": "b01-c07-u0208",
+    "speaker": "SHAWNA",
+    "text": "\"He said Celeste tried to stop him.\"",
+    "pause_ms": 200,
+    "source_line": 4126
+  },
+  {
+    "id": "b01-c07-u0209",
+    "speaker": "AIDEN",
+    "text": "\"With words?\"",
+    "pause_ms": 180,
+    "source_line": 4128
+  },
+  {
+    "id": "b01-c07-u0210",
+    "speaker": "SHAWNA",
+    "text": "\"With his car keys.\"",
+    "pause_ms": 200,
+    "source_line": 4130
+  },
+  {
+    "id": "b01-c07-u0211",
+    "speaker": "AIDEN",
+    "text": "\"Smart woman.\"",
+    "pause_ms": 180,
+    "source_line": 4132
+  },
+  {
+    "id": "b01-c07-u0212",
+    "speaker": "AIDEN",
+    "text": "He went in a taxi. Sat in the back with the gun in his coat and an envelope of money on his knee. Celeste stood in the doorway holding the keys he no longer needed. She didn't shout after him. That was the part he wished he could stop remembering.",
+    "pause_ms": 180,
+    "source_line": 4132
+  },
+  {
+    "id": "b01-c07-u0213",
+    "speaker": "AIDEN",
+    "text": "The club Valentino owned had gold doors and a stairway lit from underneath. A singer Marcellus knew was onstage when he went in. She stopped halfway through a line when she saw his face.",
+    "pause_ms": 180,
+    "source_line": 4132
+  },
+  {
+    "id": "b01-c07-u0214",
+    "speaker": "AIDEN",
+    "text": "Valentino sat in a private booth with two men.",
+    "pause_ms": 180,
+    "source_line": 4132
+  },
+  {
+    "id": "b01-c07-u0215",
+    "speaker": "AIDEN",
+    "text": "Marcellus put the envelope on the table.",
+    "pause_ms": 180,
+    "source_line": 4132
+  },
+  {
+    "id": "b01-c07-u0216",
+    "speaker": "MARCELLUS",
+    "text": "\"Your money.\"",
+    "pause_ms": 200,
+    "source_line": 4142
+  },
+  {
+    "id": "b01-c07-u0217",
+    "speaker": "AIDEN",
+    "text": "Valentino looked inside. Smiled. Set it down again.",
+    "pause_ms": 180,
+    "source_line": 4142
+  },
+  {
+    "id": "b01-c07-u0218",
+    "speaker": "VALENTINO",
+    "text": "\"You came to buy something?\"",
+    "pause_ms": 200,
+    "source_line": 4146
+  },
+  {
+    "id": "b01-c07-u0219",
+    "speaker": "MARCELLUS",
+    "text": "\"I came for what's mine.\"",
+    "pause_ms": 200,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0220",
+    "speaker": "AIDEN",
+    "text": "The man on Valentino's right stood up. Marcellus hit him with the gun before he finished, and the man went across the table into a bottle of champagne.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0221",
+    "speaker": "AIDEN",
+    "text": "The other man reached under his jacket.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0222",
+    "speaker": "AIDEN",
+    "text": "Marcellus fired.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0223",
+    "speaker": "AIDEN",
+    "text": "The sound stopped the whole room. The man fell back against the booth and slid down holding his shoulder. He lived. Marcellus would hear that again and again later, as if it were the part of the night he'd hoped to get wrong.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0224",
+    "speaker": "AIDEN",
+    "text": "Valentino had disappeared behind the booth.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0225",
+    "speaker": "AIDEN",
+    "text": "The old man went after him through a door beside the bar. A corridor. Another door. A room full of jewelry laid out beneath bright lights, rings and watches and little boxes bearing names he recognized.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0226",
+    "speaker": "AIDEN",
+    "text": "His own tools sat on a table.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0227",
+    "speaker": "AIDEN",
+    "text": "He picked one up. Turned it over. His initials were still there, small and careful, engraved when he'd first had enough money to believe he would own things for a long time.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0228",
+    "speaker": "AIDEN",
+    "text": "The diamond wasn't.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0229",
+    "speaker": "AIDEN",
+    "text": "Behind him a door opened. Two men came in from the corridor. Another appeared at the far end of the room.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0230",
+    "speaker": "AIDEN",
+    "text": "Marcellus turned with the gun in his hand.",
+    "pause_ms": 180,
+    "source_line": 4148
+  },
+  {
+    "id": "b01-c07-u0231",
+    "speaker": "MARCELLUS",
+    "text": "\"Where is it?\"",
+    "pause_ms": 200,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0232",
+    "speaker": "AIDEN",
+    "text": "Nobody answered.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0233",
+    "speaker": "AIDEN",
+    "text": "The first blow took him behind the ear. He went against the table. Rings scattered across the floor. He tried to keep the gun up and couldn't. Somebody caught his wrist, somebody else hit his stomach, and the whole room tipped until his cheek was against the cold tiles among things he'd once made beautiful.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0234",
+    "speaker": "AIDEN",
+    "text": "When the police came, Valentino stood in the doorway explaining what a dangerous man grief could make.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0235",
+    "speaker": "AIDEN",
+    "text": "Marcellus could hear him.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0236",
+    "speaker": "AIDEN",
+    "text": "That was why he tried to stand again.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0237",
+    "speaker": "AIDEN",
+    "text": "That was why the men holding him wouldn't let him.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0238",
+    "speaker": "AIDEN",
+    "text": "They carried him through the club past the singer, past the gold doors, past the taxi still waiting at the curb. The driver held up his meter like the night might still become ordinary if somebody paid for it.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0239",
+    "speaker": "AIDEN",
+    "text": "Celeste came to the station wearing slippers.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0240",
+    "speaker": "AIDEN",
+    "text": "Marcellus saw them first. Little blue slippers with one heel crushed under her foot. She had hurried so much she hadn't put them on properly.",
+    "pause_ms": 180,
+    "source_line": 4172
+  },
+  {
+    "id": "b01-c07-u0241",
+    "speaker": "MARCELLUS",
+    "text": "\"I didn't find it,\"",
+    "pause_ms": 200,
+    "source_line": 4192
+  },
+  {
+    "id": "b01-c07-u0242",
+    "speaker": "AIDEN",
+    "text": "he told her.",
+    "pause_ms": 180,
+    "source_line": 4192
+  },
+  {
+    "id": "b01-c07-u0243",
+    "speaker": "AIDEN",
+    "text": "She looked at the blood on his face.",
+    "pause_ms": 180,
+    "source_line": 4192
+  },
+  {
+    "id": "b01-c07-u0244",
+    "speaker": "CELESTE",
+    "text": "\"I found you.\"",
+    "pause_ms": 200,
+    "source_line": 4196
+  },
+  {
+    "id": "b01-c07-u0245",
+    "speaker": "AIDEN",
+    "text": "He couldn't answer her. He told Dante he'd spent eight years trying to get back to that moment with something better in his mouth.",
+    "pause_ms": 180,
+    "source_line": 4196
+  },
+  {
+    "id": "b01-c07-u0246",
+    "speaker": "AIDEN",
+    "text": "\"Nigga,\"",
+    "pause_ms": 180,
+    "source_line": 4200
+  },
+  {
+    "id": "b01-c07-u0247",
+    "speaker": "AIDEN",
+    "text": "I said when Shawna stopped,",
+    "pause_ms": 180,
+    "source_line": 4200
+  },
+  {
+    "id": "b01-c07-u0248",
+    "speaker": "AIDEN",
+    "text": "\"Red got to die.\"",
+    "pause_ms": 180,
+    "source_line": 4200
+  },
+  {
+    "id": "b01-c07-u0249",
+    "speaker": "AIDEN",
+    "text": "She squeezed my hand.",
+    "pause_ms": 180,
+    "source_line": 4200
+  },
+  {
+    "id": "b01-c07-u0250",
+    "speaker": "SHAWNA",
+    "text": "\"Keep listening.\"",
+    "pause_ms": 200,
+    "source_line": 4204
+  },
+  {
+    "id": "b01-c07-u0251",
+    "speaker": "AIDEN",
+    "text": "\"I'm listening. That's what the listening is doing.\"",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0252",
+    "speaker": "AIDEN",
+    "text": "Marcellus went to prison.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0253",
+    "speaker": "AIDEN",
+    "text": "Red opened the Saint with money raised against a diamond he said he'd bought from a respected jeweler. Marcellus read about it in a magazine somebody left in the visiting room.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0254",
+    "speaker": "AIDEN",
+    "text": "Celeste visited him as long as she could.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0255",
+    "speaker": "AIDEN",
+    "text": "At first she wore bright dresses and told him stories from the lounge. When he interrupted to ask which men had been asking about the necklace, she told him to eat the candy she'd brought.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0256",
+    "speaker": "AIDEN",
+    "text": "Later she came less often because she was sick. He thought she was punishing him. They argued through the glass about a doctor she hadn't mentioned and money he couldn't send.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0257",
+    "speaker": "AIDEN",
+    "text": "During her last visit, she wore the earrings he had made before either of them knew a man called Red.",
+    "pause_ms": 180,
+    "source_line": 4206
+  },
+  {
+    "id": "b01-c07-u0258",
+    "speaker": "CELESTE",
+    "text": "I want you to do something,",
+    "pause_ms": 200,
+    "source_line": 4221
+  },
+  {
+    "id": "b01-c07-u0259",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 4221
+  },
+  {
+    "id": "b01-c07-u0260",
+    "speaker": "MARCELLUS",
+    "text": "What?",
+    "pause_ms": 200,
+    "source_line": 4223
+  },
+  {
+    "id": "b01-c07-u0261",
+    "speaker": "CELESTE",
+    "text": "Remember the first thing you ever gave me.",
+    "pause_ms": 200,
+    "source_line": 4225
+  },
+  {
+    "id": "b01-c07-u0262",
+    "speaker": "MARCELLUS",
+    "text": "The earrings.",
+    "pause_ms": 200,
+    "source_line": 4227
+  },
+  {
+    "id": "b01-c07-u0263",
+    "speaker": "CELESTE",
+    "text": "No.",
+    "pause_ms": 200,
+    "source_line": 4229
+  },
+  {
+    "id": "b01-c07-u0264",
+    "speaker": "MARCELLUS",
+    "text": "The little bracelet.",
+    "pause_ms": 200,
+    "source_line": 4231
+  },
+  {
+    "id": "b01-c07-u0265",
+    "speaker": "CELESTE",
+    "text": "No, Marcellus.",
+    "pause_ms": 200,
+    "source_line": 4233
+  },
+  {
+    "id": "b01-c07-u0266",
+    "speaker": "AIDEN",
+    "text": "He looked at her, frightened now because he couldn't get it right.",
+    "pause_ms": 180,
+    "source_line": 4233
+  },
+  {
+    "id": "b01-c07-u0267",
+    "speaker": "CELESTE",
+    "text": "A ride,",
+    "pause_ms": 200,
+    "source_line": 4237
+  },
+  {
+    "id": "b01-c07-u0268",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 4237
+  },
+  {
+    "id": "b01-c07-u0269",
+    "speaker": "CELESTE",
+    "text": "I was standing in the rain. You drove me home. You didn't ask for my number until we got there.",
+    "pause_ms": 200,
+    "source_line": 4237
+  },
+  {
+    "id": "b01-c07-u0270",
+    "speaker": "MARCELLUS",
+    "text": "I remember.",
+    "pause_ms": 200,
+    "source_line": 4239
+  },
+  {
+    "id": "b01-c07-u0271",
+    "speaker": "CELESTE",
+    "text": "Then remember that man too.",
+    "pause_ms": 200,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0272",
+    "speaker": "AIDEN",
+    "text": "She put her hand against the glass.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0273",
+    "speaker": "AIDEN",
+    "text": "After she died, a letter arrived among her things. Marcellus carried it until the folds began to split. One night he finally unfolded it in front of Dante and read it aloud.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0274",
+    "speaker": "AIDEN",
+    "text": "Shawna said Dante had written the words down after he got out because he was scared of forgetting them. He read them to her on their wedding night. She remembered the ones that mattered. When I met Marcellus later that day, he showed me the paper itself, and I read the rest with my own fucking eyes.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0275",
+    "speaker": "AIDEN",
+    "text": "My love,",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0276",
+    "speaker": "AIDEN",
+    "text": "You think I never understood that stone. I did. I understood every hour you spent getting it right. I know the little words you hid beneath the blue mounting. I know you were waiting for me to find them, and I know you were disappointed when I liked the front so much I forgot to look behind it.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0277",
+    "speaker": "AIDEN",
+    "text": "I found them the night you fell asleep with your shoes on. I was angry with you for missing supper. I took the necklace off and nearly dropped it, and there you were underneath, saying what you used to say at my door.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0278",
+    "speaker": "AIDEN",
+    "text": "I came for you.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0279",
+    "speaker": "AIDEN",
+    "text": "I wore those words against me every night afterward. You never asked whether I'd found them. You just watched me wear it and smiled.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0280",
+    "speaker": "AIDEN",
+    "text": "I am so tired now, Marcellus. I can't keep driving out there. Don't let anybody tell you I stopped because I stopped loving you. I am stopping because I am sick, and I want the strength I have left for things that don't require me to pass through a locked door.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0281",
+    "speaker": "AIDEN",
+    "text": "If you get your beautiful stone back, put it down before you touch somebody you love. I know your hands. They are warmer without all that metal in them.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0282",
+    "speaker": "AIDEN",
+    "text": "And if you are still angry when you come home, be angry. You always were. Just open the curtains. Pay the piano man what I owe him. There is chicken in the freezer because I never learned how to cook for one.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0283",
+    "speaker": "AIDEN",
+    "text": "I would take the ride again.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0284",
+    "speaker": "AIDEN",
+    "text": "Celeste.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0285",
+    "speaker": "AIDEN",
+    "text": "Shawna stopped.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0286",
+    "speaker": "AIDEN",
+    "text": "Nigga, I was still facing the window. I didn't turn around until I could trust my fucking face.",
+    "pause_ms": 180,
+    "source_line": 4241
+  },
+  {
+    "id": "b01-c07-u0287",
+    "speaker": "AIDEN",
+    "text": "What did Dante do?",
+    "pause_ms": 180,
+    "source_line": 4273
+  },
+  {
+    "id": "b01-c07-u0288",
+    "speaker": "AIDEN",
+    "text": "I asked.",
+    "pause_ms": 180,
+    "source_line": 4273
+  },
+  {
+    "id": "b01-c07-u0289",
+    "speaker": "SHAWNA",
+    "text": "He told Marcellus he'd get it back.",
+    "pause_ms": 200,
+    "source_line": 4275
+  },
+  {
+    "id": "b01-c07-u0290",
+    "speaker": "AIDEN",
+    "text": "For a man he met in prison?",
+    "pause_ms": 180,
+    "source_line": 4277
+  },
+  {
+    "id": "b01-c07-u0291",
+    "speaker": "SHAWNA",
+    "text": "For him. For her. For whatever he thought that would make him.",
+    "pause_ms": 200,
+    "source_line": 4279
+  },
+  {
+    "id": "b01-c07-u0292",
+    "speaker": "AIDEN",
+    "text": "And you?",
+    "pause_ms": 180,
+    "source_line": 4281
+  },
+  {
+    "id": "b01-c07-u0293",
+    "speaker": "AIDEN",
+    "text": "Her voice was small when she answered.",
+    "pause_ms": 180,
+    "source_line": 4281
+  },
+  {
+    "id": "b01-c07-u0294",
+    "speaker": "SHAWNA",
+    "text": "I thought I married the kind of man who'd do that.",
+    "pause_ms": 200,
+    "source_line": 4285
+  },
+  {
+    "id": "b01-c07-u0295",
+    "speaker": "AIDEN",
+    "text": "I nodded. I didn't like the dead nigga any better. I just had a harder time hating him the easy way.",
+    "pause_ms": 180,
+    "source_line": 4285
+  },
+  {
+    "id": "b01-c07-u0296",
+    "speaker": "SHAWNA",
+    "text": "Dante took the three million first,",
+    "pause_ms": 200,
+    "source_line": 4289
+  },
+  {
+    "id": "b01-c07-u0297",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 4289
+  },
+  {
+    "id": "b01-c07-u0298",
+    "speaker": "SHAWNA",
+    "text": "He wanted money to get Marcellus a lawyer and buy us a way out when Red found out what else he wanted. He thought T would choose him. T was his brother.",
+    "pause_ms": 200,
+    "source_line": 4289
+  },
+  {
+    "id": "b01-c07-u0299",
+    "speaker": "AIDEN",
+    "text": "But he didn't.",
+    "pause_ms": 180,
+    "source_line": 4291
+  },
+  {
+    "id": "b01-c07-u0300",
+    "speaker": "SHAWNA",
+    "text": "No.",
+    "pause_ms": 200,
+    "source_line": 4293
+  },
+  {
+    "id": "b01-c07-u0301",
+    "speaker": "AIDEN",
+    "text": "She lifted the watch.",
+    "pause_ms": 180,
+    "source_line": 4293
+  },
+  {
+    "id": "b01-c07-u0302",
+    "speaker": "SHAWNA",
+    "text": "The last night Dante came home, he asked me whether this still looked too big on me. I told him everything he owned was too big on me. He said he'd put something in it that fit.",
+    "pause_ms": 200,
+    "source_line": 4297
+  },
+  {
+    "id": "b01-c07-u0303",
+    "speaker": "AIDEN",
+    "text": "I looked at her.",
+    "pause_ms": 180,
+    "source_line": 4297
+  },
+  {
+    "id": "b01-c07-u0304",
+    "speaker": "AIDEN",
+    "text": "What something?",
+    "pause_ms": 180,
+    "source_line": 4301
+  },
+  {
+    "id": "b01-c07-u0305",
+    "speaker": "SHAWNA",
+    "text": "I thought he meant himself.",
+    "pause_ms": 200,
+    "source_line": 4303
+  },
+  {
+    "id": "b01-c07-u0306",
+    "speaker": "AIDEN",
+    "text": "She worked the clasp open with shaking hands.",
+    "pause_ms": 180,
+    "source_line": 4303
+  },
+  {
+    "id": "b01-c07-u0307",
+    "speaker": "AIDEN",
+    "text": "For the first time since I met her, the dead nigga was about to give us something we could use.",
+    "pause_ms": 800,
+    "source_line": 4303
+  }
+]

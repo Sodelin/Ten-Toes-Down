@@ -67,3 +67,11 @@ Delay exact casting until each relevant chapter is prepared:
 - Books V-VI: Bastien, Magnolia Saint-Clair, Noor Vale, Salma, Anton Atlas, Roland Ruin, Gideon, Orson, June, Adrian. Noor Vale is explicitly unrelated to Marcellus (VI.9:4055-4059).
 
 For each chapter, extract only named dialogue turns and locally recurring unnamed roles, reconcile aliases against the JSON inventory, and then add a voice only when the chapter proves it needs one. That keeps publication token-efficient while preserving identities that matter.
+
+## Reviewed chapter casting
+
+- [Book I, chapter 1](chapter-one-cast.md)
+- [Book I, chapters 2–4](chapter-cast-notes.md)
+- [Book I, chapters 5–7](b01-c05-c07-cast.md)
+
+[Production voice registry](../cast.json) records the actual presets and fixed lead references. Delivery notes guide casting; stock Kokoro voices do not interpret written acting directions.

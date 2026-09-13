@@ -5,7 +5,7 @@
       "id": "b01-c01",
       "book": 1,
       "chapter": 1,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-01",
       "release_tag": "audiobook-book-01",
       "title": "1. The Funeral Had a Two-Drink Minimum",
@@ -13,73 +13,101 @@
       "quotes": 133,
       "speaker_review": "gpt-5.6-sol medium; source-attribution pass",
       "segments": 272,
-      "source_check": "PASS: script matches the source excerpt verbatim"
+      "source_check": "PASS: script matches the source excerpt verbatim",
+      "updated_at": "2026-09-13T10:53:57.344144+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-01.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "450044553da3befee461c6e205e0707ab587dbc176c3f23b64ae64b034ff3837",
+        "duration_seconds": 842.399125,
+        "uploaded_at": "2026-09-13T10:54:17.188424+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c02",
       "book": 1,
       "chapter": 2,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-02",
       "release_tag": "audiobook-book-01",
       "title": "2. First Night in Vegas",
       "words": 5287,
-      "quotes": 190
+      "quotes": 190,
+      "speaker_review": "gpt-5.6-sol medium; full chapter attribution",
+      "segments": 451,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c03",
       "book": 1,
       "chapter": 3,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-03",
       "release_tag": "audiobook-book-01",
       "title": "3. A King with a Hole in Him",
       "words": 3617,
-      "quotes": 172
+      "quotes": 172,
+      "speaker_review": "gpt-5.6-sol medium; full chapter attribution with physician continuity inference",
+      "segments": 354,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c04",
       "book": 1,
       "chapter": 4,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-04",
       "release_tag": "audiobook-book-01",
       "title": "4. The Palace of the Woman I Just Met",
       "words": 3784,
-      "quotes": 183
+      "quotes": 183,
+      "speaker_review": "gpt-5.6-sol medium; full chapter attribution",
+      "segments": 390,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c05",
       "book": 1,
       "chapter": 5,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-05",
       "release_tag": "audiobook-book-01",
       "title": "5. Flowers for the Man I Killed",
       "words": 3563,
-      "quotes": 98
+      "quotes": 98,
+      "speaker_review": "gpt-5.6-sol medium; complete chapter attribution",
+      "segments": 290,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c06",
       "book": 1,
       "chapter": 6,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-06",
       "release_tag": "audiobook-book-01",
       "title": "6. Forty Million Reasons to Die",
       "words": 3378,
-      "quotes": 154
+      "quotes": 154,
+      "speaker_review": "gpt-5.6-sol medium; complete chapter attribution",
+      "segments": 304,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c07",
       "book": 1,
       "chapter": 7,
-      "status": "needs_cast",
+      "status": "ready",
       "path": "chapters/book-01/chapter-07",
       "release_tag": "audiobook-book-01",
       "title": "7. The Man Who Cut the Heart Out of a Mountain",
       "words": 3650,
-      "quotes": 121
+      "quotes": 121,
+      "speaker_review": "gpt-5.6-sol medium; historical speakers and authored letter voices; choices documented",
+      "segments": 307,
+      "source_check": "PASS: script matches the source excerpt verbatim"
     },
     {
       "id": "b01-c08",

@@ -14,3 +14,4 @@ production/local-config.json
 chapters/**/audio.mp3
 chapters/**/audio.wav
 chapters/**/audio.cd.wav
+books/*.m4b

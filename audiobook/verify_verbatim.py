@@ -1,7 +1,8 @@
 """Verify an audiobook script against its pinned, unchanged source excerpt.
 
-Only whitespace, curly double quotation marks, and standalone *** scene
-dividers are ignored. Apostrophes and all other punctuation remain significant.
+Only whitespace, curly double quotation marks, paired Markdown emphasis,
+and standalone *** scene dividers are ignored. Enclosed words, apostrophes
+and all other punctuation remain significant.
 """
 
 from pathlib import Path

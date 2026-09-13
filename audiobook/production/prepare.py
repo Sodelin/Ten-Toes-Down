@@ -9,6 +9,17 @@ from state import locked_progress
 COMMIT='3f16cb8dc89171439167297d744e623d6b16df25'
 REPOSITORY='https://github.com/Sodelin/Ten-Toes-Down'
 QUOTES=re.compile(r'“[^”]*”|"[^"]*"',re.S)
+DIALOGUE_SPAN_EXCEPTIONS={
+    # b04-c07: one 16-line rap opens each printed verse line with a quote and
+    # closes only the final line. The excerpt hash prevents this exception from
+    # applying if the pinned source bytes change.
+    '6e482f034a67b1fe68e0298afe132e527239ae06614ce384a01aa2d5d95f0a6e': [
+        (
+            '"Nigga, I came home, the whole road stood up,',
+            'She said baby, all that greatness and you still can\'t leave me alone."',
+        ),
+    ],
+}
 
 def sha(data): return hashlib.sha256(data).hexdigest()
 def save(path,data):
@@ -36,12 +47,37 @@ def extract(repo,book,chapter):
     return relative,raw,excerpt,start+1,stop,title,len(headings)
 
 def get_quotes(text,start_line):
+    exception_specs=DIALOGUE_SPAN_EXCEPTIONS.get(sha(text.encode('utf-8')),[])
+    explicit=[]
+    for opening,closing in exception_specs:
+        if text.count(opening)!=1 or text.count(closing)!=1:
+            raise ValueError('Pinned dialogue-span exception markers are not unique.')
+        start=text.index(opening)
+        end=text.index(closing,start)+len(closing)
+        explicit.append((start,end))
+    explicit.sort()
+    if any(left[1]>right[0] for left,right in zip(explicit,explicit[1:])):
+        raise ValueError('Pinned dialogue-span exceptions overlap.')
+
+    spans=[]
+    position=0
+    for start,end in explicit:
+        section=text[position:start]
+        spans.extend((position+m.start(),position+m.end()) for m in QUOTES.finditer(section))
+        rest=QUOTES.sub('',section)
+        if any(c in rest for c in '“”"'):
+            raise ValueError('Unmatched quotation marks need source review.')
+        spans.append((start,end))
+        position=end
+    section=text[position:]
+    spans.extend((position+m.start(),position+m.end()) for m in QUOTES.finditer(section))
+    rest=QUOTES.sub('',section)
+    if any(c in rest for c in '“”"'):
+        raise ValueError('Unmatched quotation marks need source review.')
+
     rows=[]
-    for ordinal,m in enumerate(QUOTES.finditer(text),1):
-        rows.append({'quote':ordinal,'line':start_line+text[:m.start()].count('\n'),'start':m.start(),'end':m.end(),'text':m.group()})
-    # Never silently narrate an unmatched quotation mark as an attributed turn.
-    rest=QUOTES.sub('',text)
-    if any(c in rest for c in '“”"'): raise ValueError('Unmatched quotation marks need source review.')
+    for ordinal,(start,end) in enumerate(sorted(spans),1):
+        rows.append({'quote':ordinal,'line':start_line+text[:start].count('\n'),'start':start,'end':end,'text':text[start:end]})
     return rows
 
 def initialize(repo):
@@ -142,7 +178,8 @@ def prepare(repo,book,chapter,assignments,reviewer):
     with locked_progress(progress_path) as progress:
         job=next(j for j in progress['chapters'] if j['id']==identity)
         if job['status'] in ['rendering','published']: raise ValueError('Do not replace an active or published chapter in place.')
-        job.update(status='ready',speaker_review=reviewer,segments=len(rows),source_check=report['status'])
+        job.update(status='ready',speaker_review=reviewer,segments=len(rows),quotes=len(quotes),words=report['spoken_words'],source_check=report['status'])
+        job.pop('parse_error',None)
     print(json.dumps({'chapter':identity,'segments':len(rows),'voices':len(report['speakers']),'words':report['spoken_words'],'status':'ready'}))
 
 def main():

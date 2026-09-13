@@ -4,6 +4,30 @@ import json, msvcrt, os, tempfile, time
 from pathlib import Path
 
 @contextmanager
+def publication_lock(log_root):
+    """Serialize chapter/book release uploads and shared Git checkout writes."""
+    path=Path(log_root)/'publication.lock'
+    path.parent.mkdir(parents=True,exist_ok=True)
+    with path.open('a+b') as handle:
+        if handle.seek(0,2)==0:
+            handle.write(b'0'); handle.flush()
+        deadline=time.monotonic()+1800
+        while True:
+            handle.seek(0)
+            try:
+                msvcrt.locking(handle.fileno(),msvcrt.LK_NBLCK,1)
+                break
+            except OSError:
+                if time.monotonic()>deadline:
+                    raise TimeoutError('Another GitHub publication stayed busy for 30 minutes.')
+                time.sleep(1)
+        try:
+            yield
+        finally:
+            handle.seek(0)
+            msvcrt.locking(handle.fileno(),msvcrt.LK_UNLCK,1)
+
+@contextmanager
 def locked_progress(path):
     path=Path(path)
     lock=path.with_suffix('.lock')

@@ -1,0 +1,867 @@
+{
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "reviewer": "gpt-5.6-sol medium; full chapter attribution with physician continuity inference",
+  "quote_count": 172,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1385,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 2,
+      "line": 1389,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 3,
+      "line": 1391,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 4,
+      "line": 1393,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 5,
+      "line": 1395,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 6,
+      "line": 1397,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 7,
+      "line": 1401,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 8,
+      "line": 1405,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 9,
+      "line": 1415,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 10,
+      "line": 1415,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 11,
+      "line": 1417,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 12,
+      "line": 1419,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 13,
+      "line": 1421,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 14,
+      "line": 1427,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 15,
+      "line": 1429,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 16,
+      "line": 1433,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 17,
+      "line": 1435,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 18,
+      "line": 1435,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 19,
+      "line": 1439,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 20,
+      "line": 1441,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 21,
+      "line": 1445,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 22,
+      "line": 1447,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 23,
+      "line": 1449,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 24,
+      "line": 1451,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 25,
+      "line": 1459,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 26,
+      "line": 1461,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 27,
+      "line": 1465,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 28,
+      "line": 1467,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 29,
+      "line": 1469,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 30,
+      "line": 1475,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 31,
+      "line": 1479,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 32,
+      "line": 1481,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 33,
+      "line": 1483,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 34,
+      "line": 1487,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 35,
+      "line": 1489,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 36,
+      "line": 1491,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 37,
+      "line": 1495,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 38,
+      "line": 1497,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 39,
+      "line": 1505,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 40,
+      "line": 1513,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 41,
+      "line": 1517,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 42,
+      "line": 1523,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 43,
+      "line": 1525,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 44,
+      "line": 1527,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 45,
+      "line": 1529,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 46,
+      "line": 1531,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 47,
+      "line": 1535,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 48,
+      "line": 1539,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 49,
+      "line": 1541,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 50,
+      "line": 1543,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 51,
+      "line": 1545,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 52,
+      "line": 1549,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 53,
+      "line": 1551,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 54,
+      "line": 1553,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 55,
+      "line": 1555,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 56,
+      "line": 1559,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 57,
+      "line": 1563,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 58,
+      "line": 1565,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 59,
+      "line": 1567,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 60,
+      "line": 1571,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 61,
+      "line": 1575,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 62,
+      "line": 1579,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 63,
+      "line": 1579,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 64,
+      "line": 1581,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 65,
+      "line": 1583,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 66,
+      "line": 1587,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 67,
+      "line": 1587,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 68,
+      "line": 1591,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 69,
+      "line": 1591,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 70,
+      "line": 1593,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 71,
+      "line": 1597,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 72,
+      "line": 1599,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 73,
+      "line": 1603,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 74,
+      "line": 1611,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 75,
+      "line": 1615,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 76,
+      "line": 1619,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 77,
+      "line": 1625,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 78,
+      "line": 1625,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 79,
+      "line": 1627,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 80,
+      "line": 1629,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 81,
+      "line": 1633,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 82,
+      "line": 1635,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 83,
+      "line": 1637,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 84,
+      "line": 1641,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 85,
+      "line": 1643,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 86,
+      "line": 1645,
+      "speaker": "B01C03_CLUB_ELDER"
+    },
+    {
+      "quote": 87,
+      "line": 1647,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 88,
+      "line": 1653,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 89,
+      "line": 1653,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 90,
+      "line": 1659,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 91,
+      "line": 1667,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 92,
+      "line": 1669,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 93,
+      "line": 1671,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 94,
+      "line": 1673,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 95,
+      "line": 1683,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 96,
+      "line": 1685,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 97,
+      "line": 1691,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 98,
+      "line": 1693,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 99,
+      "line": 1695,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 100,
+      "line": 1697,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 101,
+      "line": 1699,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 102,
+      "line": 1703,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 103,
+      "line": 1705,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 104,
+      "line": 1707,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 105,
+      "line": 1709,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 106,
+      "line": 1711,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 107,
+      "line": 1715,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 108,
+      "line": 1723,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 109,
+      "line": 1725,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 110,
+      "line": 1743,
+      "speaker": "B01C03_NURSE"
+    },
+    {
+      "quote": 111,
+      "line": 1745,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 112,
+      "line": 1747,
+      "speaker": "B01C03_NURSE"
+    },
+    {
+      "quote": 113,
+      "line": 1749,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 114,
+      "line": 1751,
+      "speaker": "B01C03_NURSE"
+    },
+    {
+      "quote": 115,
+      "line": 1755,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 116,
+      "line": 1757,
+      "speaker": "B01C03_NURSE"
+    },
+    {
+      "quote": 117,
+      "line": 1761,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 118,
+      "line": 1763,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 119,
+      "line": 1765,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 120,
+      "line": 1767,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 121,
+      "line": 1771,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 122,
+      "line": 1771,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 123,
+      "line": 1775,
+      "speaker": "PORSCHE"
+    },
+    {
+      "quote": 124,
+      "line": 1785,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 125,
+      "line": 1787,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 126,
+      "line": 1789,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 127,
+      "line": 1793,
+      "speaker": "PORSCHE"
+    },
+    {
+      "quote": 128,
+      "line": 1797,
+      "speaker": "PORSCHE"
+    },
+    {
+      "quote": 129,
+      "line": 1803,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 130,
+      "line": 1805,
+      "speaker": "PORSCHE"
+    },
+    {
+      "quote": 131,
+      "line": 1807,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 132,
+      "line": 1815,
+      "speaker": "B01C03_GUNMAN_1"
+    },
+    {
+      "quote": 133,
+      "line": 1817,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 134,
+      "line": 1825,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 135,
+      "line": 1827,
+      "speaker": "B01C03_PATIENT"
+    },
+    {
+      "quote": 136,
+      "line": 1829,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 137,
+      "line": 1835,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 138,
+      "line": 1837,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 139,
+      "line": 1839,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 140,
+      "line": 1853,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 141,
+      "line": 1853,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 142,
+      "line": 1857,
+      "speaker": "B01C03_DELIVERY_GUNMAN"
+    },
+    {
+      "quote": 143,
+      "line": 1859,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 144,
+      "line": 1871,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 145,
+      "line": 1873,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 146,
+      "line": 1887,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 147,
+      "line": 1891,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 148,
+      "line": 1893,
+      "speaker": "B01C03_DELIVERY_GUNMAN"
+    },
+    {
+      "quote": 149,
+      "line": 1895,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 150,
+      "line": 1899,
+      "speaker": "B01C03_PATIENT"
+    },
+    {
+      "quote": 151,
+      "line": 1905,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 152,
+      "line": 1911,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 153,
+      "line": 1913,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 154,
+      "line": 1917,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 155,
+      "line": 1923,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 156,
+      "line": 1927,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 157,
+      "line": 1929,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 158,
+      "line": 1931,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 159,
+      "line": 1933,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 160,
+      "line": 1935,
+      "speaker": "PORSCHE"
+    },
+    {
+      "quote": 161,
+      "line": 1939,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 162,
+      "line": 1941,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 163,
+      "line": 1945,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 164,
+      "line": 1945,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 165,
+      "line": 1949,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 166,
+      "line": 1951,
+      "speaker": "GLORIA_KNOX"
+    },
+    {
+      "quote": 167,
+      "line": 1967,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 168,
+      "line": 1971,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 169,
+      "line": 1975,
+      "speaker": "DR_VEGA"
+    },
+    {
+      "quote": 170,
+      "line": 1983,
+      "speaker": "B01C03_CREW_DRIVER"
+    },
+    {
+      "quote": 171,
+      "line": 1991,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 172,
+      "line": 1995,
+      "speaker": "AIDEN"
+    }
+  ]
+}

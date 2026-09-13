@@ -280,6 +280,30 @@ def publish_chapter(config: dict, chapter: dict, log_path: Path) -> None:
     run_logged(command, log_path, "chapter publication")
 
 
+def package_completed_book(config: dict, progress_path: Path, book: int) -> None:
+    progress = load_progress(progress_path)
+    key = f"book-{book:02}"
+    chapters = [row for row in progress["chapters"] if row["book"] == book]
+    if not chapters or any(row["status"] != "published" for row in chapters):
+        return
+    if progress.get("books", {}).get(key, {}).get("status") == "published":
+        return
+    log_path = config["log_root"] / f"{key}-package.log"
+    try:
+        run_logged([
+            str(config["qwen_python"]),
+            str(config["package_root"] / "production" / "package_book.py"),
+            "--config", str(config["config_path"]), "--book", str(book),
+        ], log_path, "complete book packaging")
+    except Exception as exc:
+        # A packaging failure never changes already published chapter statuses.
+        with locked_progress(progress_path) as current:
+            current.setdefault("books", {})[key] = {
+                "status": "failed", "error": log_tail(log_path, str(exc)),
+                "updated_at": now(),
+            }
+
+
 def process_job(config: dict, progress_path: Path, chapter: dict, stop_path: Path) -> None:
     log_path = config["log_root"] / f"{chapter['id']}.log"
     try:
@@ -293,6 +317,7 @@ def process_job(config: dict, progress_path: Path, chapter: dict, stop_path: Pat
             return
         publish_chapter(config, chapter, log_path)
         update_chapter(progress_path, chapter["id"], "published")
+        package_completed_book(config, progress_path, chapter["book"])
     except Exception as exc:
         error = log_tail(log_path, f"{type(exc).__name__}: {exc}")
         update_chapter(progress_path, chapter["id"], "failed", error)

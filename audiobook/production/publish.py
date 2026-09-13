@@ -2,7 +2,7 @@
 from pathlib import Path
 import argparse, copy, hashlib, json, shutil, subprocess, sys, textwrap
 from datetime import datetime,timezone
-from state import locked_progress
+from state import locked_progress, publication_lock
 from worker import resolve_config, verify_result
 
 REPO='Sodelin/Ten-Toes-Down'
@@ -33,7 +33,11 @@ def write_index(package,progress):
     for book in range(1,7):
         jobs=[j for j in progress['chapters'] if j['book']==book]
         done=[j for j in jobs if j.get('publication')]
-        lines += [f'## Book {book} — {len(done)}/{len(jobs)} recordings uploaded','', '| Chapter | Recording | Script |','|---|---|---|']
+        lines += [f'## Book {book} — {len(done)}/{len(jobs)} recordings uploaded','']
+        compiled=progress.get('books',{}).get(f'book-{book:02}',{})
+        if compiled.get('status')=='published':
+            lines += [f"[Complete Book {book} · chaptered M4B]({compiled['audio_url']})",'']
+        lines += ['| Chapter | Recording | Script |','|---|---|---|']
         playlist=['#EXTM3U']
         for job in jobs:
             pub=job.get('publication')
@@ -57,6 +61,7 @@ def sync_package(package,repo):
         rel=path.relative_to(package)
         if '__pycache__' in rel.parts or path.suffix in ['.pyc','.part','.lock']: continue
         if rel.parts[0]=='chapters' and path.suffix in ['.mp3','.wav']: continue
+        if rel.parts[0]=='books' and path.suffix=='.m4b': continue
         if rel.parts[0]=='pilot' and path.suffix=='.wav': continue
         if path.name=='local-config.json': continue
         destination=target/rel
@@ -137,6 +142,9 @@ def publish(config,identity):
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--config',type=Path,required=True); p.add_argument('--chapter',required=True)
-    a=p.parse_args(); publish(resolve_config(a.config),a.chapter)
+    a=p.parse_args()
+    config=resolve_config(a.config)
+    with publication_lock(config['log_root']):
+        publish(config,a.chapter)
 
 if __name__=='__main__': main()

@@ -2,7 +2,10 @@
   "AIDEN": {
     "voice": "am_fenrir",
     "speed": 1.03,
-    "direction": "Conversational confidence; same voice for narration and dialogue."
+    "direction": "Conversational confidence; same voice for narration and dialogue.",
+    "engine": "qwen-base",
+    "locked": true,
+    "reference": "voice-design/aiden-reference.wav"
   },
   "TICKET": {
     "voice": "am_michael",
@@ -12,7 +15,10 @@
   "TANK": {
     "voice": "am_puck",
     "speed": 0.96,
-    "direction": "Warm, confident, completely sincere about ridiculous explanations."
+    "direction": "Warm, confident, completely sincere about ridiculous explanations.",
+    "engine": "qwen-base",
+    "locked": true,
+    "reference": "voice-design/tank-reference.wav"
   },
   "GUEST": {
     "voice": "am_echo",
@@ -78,5 +84,299 @@
     "voice": "af_sky",
     "speed": 1.02,
     "direction": "Playful and decisive."
+  },
+  "BIG_T": {
+    "voice": "am_michael",
+    "speed": 0.94,
+    "direction": "Firm crew leader with paternal warmth.",
+    "engine": "kokoro"
+  },
+  "RED": {
+    "voice": "am_onyx",
+    "speed": 0.95,
+    "direction": "Possessive, controlled authority that hardens under challenge.",
+    "engine": "kokoro"
+  },
+  "DR_VEGA": {
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "direction": "Clear, practical physician; dry authority.",
+    "engine": "kokoro"
+  },
+  "ROSA": {
+    "voice": "af_nova",
+    "speed": 1.01,
+    "direction": "Grounded, frank and warm.",
+    "engine": "kokoro"
+  },
+  "PORSCHE": {
+    "voice": "af_nicole",
+    "speed": 1.01,
+    "direction": "Alert, direct, socially quick.",
+    "engine": "kokoro"
+  },
+  "MARCELLUS": {
+    "voice": "am_santa",
+    "speed": 0.92,
+    "direction": "Older jeweler, measured, precise and emotionally present.",
+    "engine": "kokoro"
+  },
+  "VICTOR": {
+    "voice": "am_adam",
+    "speed": 0.98,
+    "direction": "Loyal, capable and direct.",
+    "engine": "kokoro"
+  },
+  "CASSIUS": {
+    "voice": "am_eric",
+    "speed": 1.0,
+    "direction": "Confident, practical professional.",
+    "engine": "kokoro"
+  },
+  "INEZ": {
+    "voice": "af_sky",
+    "speed": 1.01,
+    "direction": "Brisk, observant and decisive.",
+    "engine": "kokoro"
+  },
+  "ISOLDE": {
+    "voice": "bf_isabella",
+    "speed": 0.97,
+    "direction": "Mature composure and exact, patient instruction.",
+    "engine": "kokoro"
+  },
+  "GLORIA_KNOX": {
+    "voice": "af_river",
+    "speed": 0.98,
+    "direction": "Calm institutional authority.",
+    "engine": "kokoro"
+  },
+  "VOSS": {
+    "voice": "am_liam",
+    "speed": 0.96,
+    "direction": "Clipped, calculating adversary.",
+    "engine": "kokoro"
+  },
+  "LIORA": {
+    "voice": "af_kore",
+    "speed": 1.0,
+    "direction": "Poised, articulate and purposeful.",
+    "engine": "kokoro"
+  },
+  "VESPER": {
+    "voice": "bm_george",
+    "speed": 0.97,
+    "direction": "Controlled, polished and attentive.",
+    "engine": "kokoro"
+  },
+  "LEON": {
+    "voice": "am_echo",
+    "speed": 1.01,
+    "direction": "Affluent warmth and socially open humor.",
+    "engine": "kokoro"
+  },
+  "ROMAN_PIKE": {
+    "voice": "am_onyx",
+    "speed": 1.02,
+    "direction": "Entitled local authority, forceful and reactive.",
+    "engine": "kokoro"
+  },
+  "B01C02_CREW_MEMBER_1": {
+    "voice": "am_adam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_CREW_MEMBER_2": {
+    "voice": "am_echo",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_DIAMOND_WOMAN_1": {
+    "voice": "af_alloy",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_DIAMOND_WOMAN_2": {
+    "voice": "af_aoede",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_VALET": {
+    "voice": "am_eric",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_RED_GUARD_1": {
+    "voice": "am_fenrir",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_MOTEL_CLERK": {
+    "voice": "am_liam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C02_CALLER": {
+    "voice": "am_onyx",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_CLUB_ELDER": {
+    "voice": "am_adam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_NURSE": {
+    "voice": "af_alloy",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_GUNMAN_1": {
+    "voice": "am_echo",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_PATIENT": {
+    "voice": "am_eric",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_DELIVERY_GUNMAN": {
+    "voice": "am_fenrir",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C03_CREW_DRIVER": {
+    "voice": "am_liam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_REAL_ESTATE_AGENT": {
+    "voice": "af_alloy",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_DEALER": {
+    "voice": "am_adam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_DANCER": {
+    "voice": "af_aoede",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_PRETTY_MAN": {
+    "voice": "am_eric",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_WHISPERING_GUEST": {
+    "voice": "am_fenrir",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "B01C04_CASH_TABLE_MAN": {
+    "voice": "am_liam",
+    "speed": 1.0,
+    "direction": "See production/chapter-cast-notes.md; fixed chapter-specific supporting role.",
+    "engine": "kokoro"
+  },
+  "LITTLE_SAINT": {
+    "voice": "am_eric",
+    "speed": 1.07,
+    "direction": "Bold and quick; eager to prove useful. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "DANTE": {
+    "voice": "am_echo",
+    "speed": 1.0,
+    "direction": "Protective, impulsive, funny and emotionally direct. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "CELESTE": {
+    "voice": "af_aoede",
+    "speed": 1.0,
+    "direction": "Practical warmth and quick wit. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "VALENTINO": {
+    "voice": "am_adam",
+    "speed": 0.94,
+    "direction": "Smooth transactional control. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C05_CHAPEL_ONLOOKER": {
+    "voice": "am_michael",
+    "speed": 1.05,
+    "direction": "Excited public outcry. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C05_ATTACKER": {
+    "voice": "am_echo",
+    "speed": 1.01,
+    "direction": "Frightened defiance becomes unwilling admiration. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C05_RESCUED_WOMAN": {
+    "voice": "af_bella",
+    "speed": 0.97,
+    "direction": "Shaken gratitude. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C06_VALET": {
+    "voice": "am_liam",
+    "speed": 1.03,
+    "direction": "Cautious employee. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C06_OFFICER": {
+    "voice": "am_michael",
+    "speed": 1.0,
+    "direction": "Brief professional amazement. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C06_DRESS_FITTER": {
+    "voice": "af_bella",
+    "speed": 1.02,
+    "direction": "Practical reluctance. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C07_PRISON_BULLY_1": {
+    "voice": "am_michael",
+    "speed": 0.98,
+    "direction": "Taunting dominance. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C07_PRISON_BULLY_2": {
+    "voice": "am_fenrir",
+    "speed": 1.0,
+    "direction": "Confident challenge. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
+  },
+  "B01C07_GUARD": {
+    "voice": "am_liam",
+    "speed": 0.96,
+    "direction": "Clipped commands. See production/b01-c05-c07-cast.md.",
+    "engine": "kokoro"
   }
 }

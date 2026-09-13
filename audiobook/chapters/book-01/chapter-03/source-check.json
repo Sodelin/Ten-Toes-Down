@@ -1,0 +1,32 @@
+{
+  "status": "PASS: script matches the source excerpt verbatim",
+  "segments": 354,
+  "spoken_words": 3617,
+  "speakers": [
+    "AIDEN",
+    "B01C03_CLUB_ELDER",
+    "B01C03_CREW_DRIVER",
+    "B01C03_DELIVERY_GUNMAN",
+    "B01C03_GUNMAN_1",
+    "B01C03_NURSE",
+    "B01C03_PATIENT",
+    "DR_VEGA",
+    "GLORIA_KNOX",
+    "MERCEDES",
+    "PORSCHE",
+    "ROSA",
+    "SHAWNA",
+    "TANK"
+  ],
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_lines": [
+    1383,
+    1995
+  ],
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "excerpt_sha256": "94f09d424f8baf38555f7dd0afbf7bf5ee87cb49361d72218d8d0b3fb3d4531c",
+  "script_sha256": "3bc38259caa7f9c06fba5489cdbc8d4ac47e4f757eb720adeef8604957ad2122",
+  "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
+  "audio_listening_verified": false
+}

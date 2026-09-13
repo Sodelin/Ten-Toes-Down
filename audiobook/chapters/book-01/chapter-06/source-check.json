@@ -1,0 +1,27 @@
+{
+  "status": "PASS: script matches the source excerpt verbatim",
+  "segments": 304,
+  "spoken_words": 3378,
+  "speakers": [
+    "AIDEN",
+    "B01C06_DRESS_FITTER",
+    "B01C06_OFFICER",
+    "B01C06_VALET",
+    "LITTLE_SAINT",
+    "RED",
+    "ROSA",
+    "SHAWNA",
+    "TANK"
+  ],
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_lines": [
+    3203,
+    3753
+  ],
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "excerpt_sha256": "15b5e94ded3fafd1f6bb42ba5e04ecfcca78d54c42eda4b273e4d6db11a48c81",
+  "script_sha256": "76d4b64d3c7a52a0719a58761936ac61f2823aea0da5af3064fbf48960c6a032",
+  "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
+  "audio_listening_verified": false
+}

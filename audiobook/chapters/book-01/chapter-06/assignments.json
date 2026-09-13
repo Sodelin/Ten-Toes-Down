@@ -1,0 +1,777 @@
+{
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "reviewer": "gpt-5.6-sol medium; complete chapter attribution",
+  "quote_count": 154,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3211,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 2,
+      "line": 3213,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 3,
+      "line": 3217,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 4,
+      "line": 3219,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 5,
+      "line": 3221,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 6,
+      "line": 3227,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 7,
+      "line": 3231,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 8,
+      "line": 3237,
+      "speaker": "RED"
+    },
+    {
+      "quote": 9,
+      "line": 3237,
+      "speaker": "RED"
+    },
+    {
+      "quote": 10,
+      "line": 3239,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 11,
+      "line": 3241,
+      "speaker": "RED"
+    },
+    {
+      "quote": 12,
+      "line": 3243,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 13,
+      "line": 3253,
+      "speaker": "RED"
+    },
+    {
+      "quote": 14,
+      "line": 3255,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 15,
+      "line": 3257,
+      "speaker": "RED"
+    },
+    {
+      "quote": 16,
+      "line": 3261,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 17,
+      "line": 3263,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 18,
+      "line": 3265,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 19,
+      "line": 3269,
+      "speaker": "RED"
+    },
+    {
+      "quote": 20,
+      "line": 3271,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 21,
+      "line": 3281,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 22,
+      "line": 3283,
+      "speaker": "RED"
+    },
+    {
+      "quote": 23,
+      "line": 3285,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 24,
+      "line": 3289,
+      "speaker": "RED"
+    },
+    {
+      "quote": 25,
+      "line": 3291,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 26,
+      "line": 3293,
+      "speaker": "RED"
+    },
+    {
+      "quote": 27,
+      "line": 3295,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 28,
+      "line": 3305,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 29,
+      "line": 3305,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 30,
+      "line": 3309,
+      "speaker": "RED"
+    },
+    {
+      "quote": 31,
+      "line": 3311,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 32,
+      "line": 3315,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 33,
+      "line": 3319,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 34,
+      "line": 3321,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 35,
+      "line": 3323,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 36,
+      "line": 3329,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 37,
+      "line": 3331,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 38,
+      "line": 3337,
+      "speaker": "RED"
+    },
+    {
+      "quote": 39,
+      "line": 3339,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 40,
+      "line": 3345,
+      "speaker": "RED"
+    },
+    {
+      "quote": 41,
+      "line": 3351,
+      "speaker": "RED"
+    },
+    {
+      "quote": 42,
+      "line": 3353,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 43,
+      "line": 3355,
+      "speaker": "RED"
+    },
+    {
+      "quote": 44,
+      "line": 3357,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 45,
+      "line": 3361,
+      "speaker": "RED"
+    },
+    {
+      "quote": 46,
+      "line": 3365,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 47,
+      "line": 3367,
+      "speaker": "RED"
+    },
+    {
+      "quote": 48,
+      "line": 3369,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 49,
+      "line": 3373,
+      "speaker": "RED"
+    },
+    {
+      "quote": 50,
+      "line": 3375,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 51,
+      "line": 3377,
+      "speaker": "RED"
+    },
+    {
+      "quote": 52,
+      "line": 3381,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 53,
+      "line": 3383,
+      "speaker": "RED"
+    },
+    {
+      "quote": 54,
+      "line": 3385,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 55,
+      "line": 3389,
+      "speaker": "RED"
+    },
+    {
+      "quote": 56,
+      "line": 3389,
+      "speaker": "RED"
+    },
+    {
+      "quote": 57,
+      "line": 3391,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 58,
+      "line": 3393,
+      "speaker": "RED"
+    },
+    {
+      "quote": 59,
+      "line": 3395,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 60,
+      "line": 3403,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 61,
+      "line": 3403,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 62,
+      "line": 3407,
+      "speaker": "RED"
+    },
+    {
+      "quote": 63,
+      "line": 3409,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 64,
+      "line": 3411,
+      "speaker": "RED"
+    },
+    {
+      "quote": 65,
+      "line": 3417,
+      "speaker": "RED"
+    },
+    {
+      "quote": 66,
+      "line": 3421,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 67,
+      "line": 3423,
+      "speaker": "RED"
+    },
+    {
+      "quote": 68,
+      "line": 3425,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 69,
+      "line": 3427,
+      "speaker": "RED"
+    },
+    {
+      "quote": 70,
+      "line": 3429,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 71,
+      "line": 3431,
+      "speaker": "RED"
+    },
+    {
+      "quote": 72,
+      "line": 3433,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 73,
+      "line": 3435,
+      "speaker": "RED"
+    },
+    {
+      "quote": 74,
+      "line": 3439,
+      "speaker": "RED"
+    },
+    {
+      "quote": 75,
+      "line": 3443,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 76,
+      "line": 3447,
+      "speaker": "RED"
+    },
+    {
+      "quote": 77,
+      "line": 3449,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 78,
+      "line": 3451,
+      "speaker": "RED"
+    },
+    {
+      "quote": 79,
+      "line": 3453,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 80,
+      "line": 3455,
+      "speaker": "RED"
+    },
+    {
+      "quote": 81,
+      "line": 3459,
+      "speaker": "RED"
+    },
+    {
+      "quote": 82,
+      "line": 3463,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 83,
+      "line": 3465,
+      "speaker": "RED"
+    },
+    {
+      "quote": 84,
+      "line": 3467,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 85,
+      "line": 3473,
+      "speaker": "RED"
+    },
+    {
+      "quote": 86,
+      "line": 3479,
+      "speaker": "RED"
+    },
+    {
+      "quote": 87,
+      "line": 3487,
+      "speaker": "RED"
+    },
+    {
+      "quote": 88,
+      "line": 3489,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 89,
+      "line": 3499,
+      "speaker": "B01C06_VALET"
+    },
+    {
+      "quote": 90,
+      "line": 3501,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 91,
+      "line": 3507,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 92,
+      "line": 3509,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 93,
+      "line": 3511,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 94,
+      "line": 3513,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 95,
+      "line": 3517,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 96,
+      "line": 3519,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 97,
+      "line": 3521,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 98,
+      "line": 3525,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 99,
+      "line": 3529,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 100,
+      "line": 3533,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 101,
+      "line": 3543,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 102,
+      "line": 3545,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 103,
+      "line": 3547,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 104,
+      "line": 3549,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 105,
+      "line": 3565,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 106,
+      "line": 3567,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 107,
+      "line": 3569,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 108,
+      "line": 3597,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 109,
+      "line": 3599,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 110,
+      "line": 3605,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 111,
+      "line": 3607,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 112,
+      "line": 3609,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 113,
+      "line": 3619,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 114,
+      "line": 3619,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 115,
+      "line": 3625,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 116,
+      "line": 3627,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 117,
+      "line": 3631,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 118,
+      "line": 3631,
+      "speaker": "LITTLE_SAINT"
+    },
+    {
+      "quote": 119,
+      "line": 3637,
+      "speaker": "B01C06_OFFICER"
+    },
+    {
+      "quote": 120,
+      "line": 3639,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 121,
+      "line": 3647,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 122,
+      "line": 3649,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 123,
+      "line": 3651,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 124,
+      "line": 3665,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 125,
+      "line": 3667,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 126,
+      "line": 3669,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 127,
+      "line": 3673,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 128,
+      "line": 3679,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 129,
+      "line": 3681,
+      "speaker": "B01C06_DRESS_FITTER"
+    },
+    {
+      "quote": 130,
+      "line": 3683,
+      "speaker": "ROSA"
+    },
+    {
+      "quote": 131,
+      "line": 3689,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 132,
+      "line": 3693,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 133,
+      "line": 3699,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 134,
+      "line": 3701,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 135,
+      "line": 3703,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 136,
+      "line": 3705,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 137,
+      "line": 3707,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 138,
+      "line": 3711,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 139,
+      "line": 3717,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 140,
+      "line": 3719,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 141,
+      "line": 3721,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 142,
+      "line": 3723,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 143,
+      "line": 3725,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 144,
+      "line": 3727,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 145,
+      "line": 3729,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 146,
+      "line": 3731,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 147,
+      "line": 3735,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 148,
+      "line": 3739,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 149,
+      "line": 3741,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 150,
+      "line": 3743,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 151,
+      "line": 3743,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 152,
+      "line": 3747,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 153,
+      "line": 3749,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 154,
+      "line": 3753,
+      "speaker": "SHAWNA"
+    }
+  ]
+}

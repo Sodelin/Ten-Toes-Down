@@ -4,17 +4,17 @@ Chapter recordings are being produced in book order, with a consistent cast and 
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 0/17 recordings uploaded
+## Book 1 — 1/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
-| 1. The Funeral Had a Two-Drink Minimum | ready | [Read](chapters/book-01/chapter-01/script.md) |
-| 2. First Night in Vegas | needs cast | Awaiting speaker pass |
-| 3. A King with a Hole in Him | needs cast | Awaiting speaker pass |
-| 4. The Palace of the Woman I Just Met | needs cast | Awaiting speaker pass |
-| 5. Flowers for the Man I Killed | needs cast | Awaiting speaker pass |
-| 6. Forty Million Reasons to Die | needs cast | Awaiting speaker pass |
-| 7. The Man Who Cut the Heart Out of a Mountain | needs cast | Awaiting speaker pass |
+| 1. The Funeral Had a Two-Drink Minimum | [MP3 · 14.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-01.mp3) | [Read](chapters/book-01/chapter-01/script.md) |
+| 2. First Night in Vegas | ready | [Read](chapters/book-01/chapter-02/script.md) |
+| 3. A King with a Hole in Him | ready | [Read](chapters/book-01/chapter-03/script.md) |
+| 4. The Palace of the Woman I Just Met | ready | [Read](chapters/book-01/chapter-04/script.md) |
+| 5. Flowers for the Man I Killed | ready | [Read](chapters/book-01/chapter-05/script.md) |
+| 6. Forty Million Reasons to Die | ready | [Read](chapters/book-01/chapter-06/script.md) |
+| 7. The Man Who Cut the Heart Out of a Mountain | ready | [Read](chapters/book-01/chapter-07/script.md) |
 | 8. Let Him Think You Love Him | needs cast | Awaiting speaker pass |
 | 9. Our Valedictorian Has a Gun | needs cast | Awaiting speaker pass |
 | 10. Forty Million and One Woman | needs cast | Awaiting speaker pass |
@@ -25,6 +25,9 @@ Chapter recordings are being produced in book order, with a consistent cast and 
 | 15. Ten Toes, Thirty Engines | needs cast | Awaiting speaker pass |
 | 16. The Last King of Vegas | needs cast | Awaiting speaker pass |
 | 17. Ten Toes Down Forever | needs cast | Awaiting speaker pass |
+
+[Book 1 playlist](books/book-01.m3u)
+
 
 ## Book 2 — 0/20 recordings uploaded
 

@@ -1,0 +1,28 @@
+{
+  "status": "PASS: script matches the source excerpt verbatim",
+  "segments": 290,
+  "spoken_words": 3563,
+  "speakers": [
+    "AIDEN",
+    "B01C05_ATTACKER",
+    "B01C05_CHAPEL_ONLOOKER",
+    "B01C05_RESCUED_WOMAN",
+    "DR_VEGA",
+    "GLORIA_KNOX",
+    "PORSCHE",
+    "ROSA",
+    "SHAWNA",
+    "TANK"
+  ],
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_lines": [
+    2669,
+    3199
+  ],
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "excerpt_sha256": "5146fc2745419f9cc3281b0cc15ef2d9a30488a9e4d2f79fd512081586e41c43",
+  "script_sha256": "e31828348b8e86dbc365f1eb720b96e2df561251519fa03ddb7cb021a9b8f4eb",
+  "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
+  "audio_listening_verified": false
+}

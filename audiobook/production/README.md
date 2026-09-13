@@ -45,3 +45,9 @@ python production/prepare.py --repo C:/path/to/Ten-Toes-Down --book 1 --chapter 
 The preparer rejects incomplete assignments, unknown voices and changed text. Chapter I.1 reuses the verified pilot prefix and its cached takes. Do not overwrite a queued or published chapter: later retakes need an explicit version and retained prior recording.
 
 After all chapters in a book are available, build and verify its final playlist and chaptered M4B package, then remove that release's in-progress designation. After all six books and their packages are uploaded, stop the worker and pause the continuation.
+
+```powershell
+python production/package_book.py --config C:/path/to/local-config.json --book 1
+```
+
+The packager requires every chapter to be published and its local WAV master to pass verification. It exports AAC at 96 kbps in an M4B with chapter navigation, checks the decoded file and chapter boundaries, uploads the asset and marks the book release complete. A shared publication lock serializes chapter and book uploads and Git updates. Different existing release assets are never overwritten.
