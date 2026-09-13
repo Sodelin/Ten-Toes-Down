@@ -1139,7 +1139,7 @@
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:01:42.843159+00:00",
+      "updated_at": "2026-09-13T18:01:52.891411+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-09.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1154,7 +1154,7 @@
       "id": "b03-c10",
       "book": 3,
       "chapter": 10,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-10",
       "release_tag": "audiobook-book-03",
       "title": "10. The Strongest Man in the Room Met Me",
@@ -1163,7 +1163,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:08:37.648491+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-10.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "4fa147513befa4a1fcf16a862555fbee4bac4a43f6a009fa2d28401c7ffb9a28",
+        "duration_seconds": 763.3338333333334,
+        "uploaded_at": "2026-09-13T18:08:43.395728+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c11",
