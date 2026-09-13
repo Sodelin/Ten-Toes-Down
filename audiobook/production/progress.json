@@ -1039,7 +1039,7 @@
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:28:22.534666+00:00",
+      "updated_at": "2026-09-13T17:28:32.253230+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-05.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1054,7 +1054,7 @@
       "id": "b03-c06",
       "book": 3,
       "chapter": 6,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-06",
       "release_tag": "audiobook-book-03",
       "title": "6. The Yacht with a Ballroom in Its Mouth",
@@ -1063,7 +1063,17 @@
       "narrator": "TICKET",
       "segments": 41,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:36:41.202078+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-06.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "c427c9ca87a06117bcff10899e76e4f15f573161caf7530b697d5efc7b3b2e06",
+        "duration_seconds": 934.3894166666666,
+        "uploaded_at": "2026-09-13T17:36:54.002631+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c07",
