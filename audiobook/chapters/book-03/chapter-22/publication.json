@@ -1,0 +1,9 @@
+{
+  "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-22.mp3",
+  "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+  "audio_sha256": "923e7856d57db2b07d5b6636cc22251c7c5328362dae3fac32837ff5a03b275c",
+  "duration_seconds": 731.3919583333334,
+  "uploaded_at": "2026-09-13T19:32:28.100151+00:00",
+  "checks": "verbatim input, audio integrity and remote asset hashes passed",
+  "listening_review": "pending"
+}
