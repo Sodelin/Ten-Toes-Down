@@ -1464,7 +1464,7 @@
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T19:32:21.960382+00:00",
+      "updated_at": "2026-09-13T19:32:31.762683+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-22.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1479,7 +1479,7 @@
       "id": "b03-c23",
       "book": 3,
       "chapter": 23,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-23",
       "release_tag": "audiobook-book-03",
       "title": "23. My Wife Sang on My Island",
@@ -1488,7 +1488,17 @@
       "narrator": "TICKET",
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:40:03.727333+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-23.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "85579193911123e2350b29e06e8b7894ede162f5db90b2db3b99226f51116ae2",
+        "duration_seconds": 863.7601666666667,
+        "uploaded_at": "2026-09-13T19:40:09.611397+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c24",
