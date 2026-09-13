@@ -989,7 +989,7 @@
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T17:10:33.945249+00:00",
+      "updated_at": "2026-09-13T17:10:45.665663+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-03.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1004,7 +1004,7 @@
       "id": "b03-c04",
       "book": 3,
       "chapter": 4,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-04",
       "release_tag": "audiobook-book-03",
       "title": "4. I Arrested the Finish Line",
@@ -1013,7 +1013,17 @@
       "narrator": "TICKET",
       "segments": 49,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T17:20:08.532084+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-04.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "66b74fa4fe0823b901fc5ef458b1a777f6dcc0fe9f17135aa49613e243c887f4",
+        "duration_seconds": 1098.374,
+        "uploaded_at": "2026-09-13T17:20:15.528105+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c05",

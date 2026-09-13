@@ -61,14 +61,14 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 2 playlist](books/book-02.m3u)
 
 
-## Book 3 — 3/24 recordings uploaded
+## Book 3 — 4/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The Ocean Was Waiting on Me | [MP3 · 19.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-01.mp3) | [Read](chapters/book-03/chapter-01/script.md) |
 | 2. The Woman Who Drove Through Fire | [MP3 · 17.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-02.mp3) | [Read](chapters/book-03/chapter-02/script.md) |
 | 3. Dinner with a Man Named Cruel | [MP3 · 17.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-03.mp3) | [Read](chapters/book-03/chapter-03/script.md) |
-| 4. I Arrested the Finish Line | ready | [Read](chapters/book-03/chapter-04/script.md) |
+| 4. I Arrested the Finish Line | [MP3 · 18.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-04.mp3) | [Read](chapters/book-03/chapter-04/script.md) |
 | 5. The Last Lap Belongs to the Passenger | ready | [Read](chapters/book-03/chapter-05/script.md) |
 | 6. The Yacht with a Ballroom in Its Mouth | ready | [Read](chapters/book-03/chapter-06/script.md) |
 | 7. Everybody Get in the Beautiful Car | ready | [Read](chapters/book-03/chapter-07/script.md) |
