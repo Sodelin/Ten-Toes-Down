@@ -1,0 +1,18 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": 2,
+  "chapter": 10,
+  "chapter_title": "10. My Wife Was Already Inside",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-02.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-02.md",
+  "source_sha256": "8c07d116e14e3042e4e02b1994323a0617dd0825502b64e47f6bdfa598b16619",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 5461,
+    "end_line": 5805,
+    "sha256": "e193ce7785883a209db150ad32bfd040f81735538a45795c3987597d28ff5de4"
+  },
+  "spoken_text_policy": "Verbatim chapter body. Headings are track metadata. Printed quotation delimiters, paired Markdown emphasis and scene separators are formatting."
+}

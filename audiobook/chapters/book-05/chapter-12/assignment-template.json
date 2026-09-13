@@ -1,0 +1,625 @@
+{
+  "chapter_id": "b05-c12",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 103,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5721,
+      "speaker": null,
+      "opening": "\"Your friends.\""
+    },
+    {
+      "quote": 2,
+      "line": 5723,
+      "speaker": null,
+      "opening": "\"Our friends.\""
+    },
+    {
+      "quote": 3,
+      "line": 5725,
+      "speaker": null,
+      "opening": "\"My friends use phones.\""
+    },
+    {
+      "quote": 4,
+      "line": 5729,
+      "speaker": null,
+      "opening": "\"Captain!\""
+    },
+    {
+      "quote": 5,
+      "line": 5733,
+      "speaker": null,
+      "opening": "\"Nigga's married!\""
+    },
+    {
+      "quote": 6,
+      "line": 5735,
+      "speaker": null,
+      "opening": "\"Congratulations. Put your pants on.\""
+    },
+    {
+      "quote": 7,
+      "line": 5739,
+      "speaker": null,
+      "opening": "\"And bring the badge. This bitch wants us"
+    },
+    {
+      "quote": 8,
+      "line": 5743,
+      "speaker": null,
+      "opening": "\"Get up, baby. If they brought manners, somebody's"
+    },
+    {
+      "quote": 9,
+      "line": 5751,
+      "speaker": null,
+      "opening": "\"My friend,\""
+    },
+    {
+      "quote": 10,
+      "line": 5751,
+      "speaker": null,
+      "opening": "\"We worked the Silver Garden together.\""
+    },
+    {
+      "quote": 11,
+      "line": 5755,
+      "speaker": null,
+      "opening": "\"They said you'd help.\""
+    },
+    {
+      "quote": 12,
+      "line": 5757,
+      "speaker": null,
+      "opening": "\"Nigga, they came upstairs with footwear. We past"
+    },
+    {
+      "quote": 13,
+      "line": 5761,
+      "speaker": null,
+      "opening": "\"You're the one who drove the hearse?\""
+    },
+    {
+      "quote": 14,
+      "line": 5763,
+      "speaker": null,
+      "opening": "\"Among other vehicles.\""
+    },
+    {
+      "quote": 15,
+      "line": 5765,
+      "speaker": null,
+      "opening": "\"With the body?\""
+    },
+    {
+      "quote": 16,
+      "line": 5769,
+      "speaker": null,
+      "opening": "\"Nigga, don't let him start listing passengers. We"
+    },
+    {
+      "quote": 17,
+      "line": 5779,
+      "speaker": null,
+      "opening": "\"The nigga paid you negative?\""
+    },
+    {
+      "quote": 18,
+      "line": 5781,
+      "speaker": null,
+      "opening": "\"Advance repayment,\""
+    },
+    {
+      "quote": 19,
+      "line": 5783,
+      "speaker": null,
+      "opening": "\"There was an advance?\""
+    },
+    {
+      "quote": 20,
+      "line": 5785,
+      "speaker": null,
+      "opening": "\"No,\""
+    },
+    {
+      "quote": 21,
+      "line": 5787,
+      "speaker": null,
+      "opening": "\"Then that nigga invented a debt and repossessed"
+    },
+    {
+      "quote": 22,
+      "line": 5791,
+      "speaker": null,
+      "opening": "\"Mine. Bought it myself. It's registered to me."
+    },
+    {
+      "quote": 23,
+      "line": 5795,
+      "speaker": null,
+      "opening": "\"Well, nigga, the police put pants on. Let's"
+    },
+    {
+      "quote": 24,
+      "line": 5801,
+      "speaker": null,
+      "opening": "\"Listen to the whole plan.\""
+    },
+    {
+      "quote": 25,
+      "line": 5805,
+      "speaker": null,
+      "opening": "\"Nigga arrested before breakfast.\""
+    },
+    {
+      "quote": 26,
+      "line": 5807,
+      "speaker": null,
+      "opening": "\"You next,\""
+    },
+    {
+      "quote": 27,
+      "line": 5813,
+      "speaker": null,
+      "opening": "\"We go in with you. You tell him"
+    },
+    {
+      "quote": 28,
+      "line": 5815,
+      "speaker": null,
+      "opening": "\"And I—\""
+    },
+    {
+      "quote": 29,
+      "line": 5817,
+      "speaker": null,
+      "opening": "\"Come behind us,\""
+    },
+    {
+      "quote": 30,
+      "line": 5821,
+      "speaker": null,
+      "opening": "\"Behind?\""
+    },
+    {
+      "quote": 31,
+      "line": 5823,
+      "speaker": null,
+      "opening": "\"Baby, you enter a room and grown niggas"
+    },
+    {
+      "quote": 32,
+      "line": 5829,
+      "speaker": null,
+      "opening": "\"Aight. Nigga's listening.\""
+    },
+    {
+      "quote": 33,
+      "line": 5835,
+      "speaker": null,
+      "opening": "\"Morning, support staff.\""
+    },
+    {
+      "quote": 34,
+      "line": 5839,
+      "speaker": null,
+      "opening": "\"Nigga, she gave you a department.\""
+    },
+    {
+      "quote": 35,
+      "line": 5841,
+      "speaker": null,
+      "opening": "\"And you're in it,\""
+    },
+    {
+      "quote": 36,
+      "line": 5857,
+      "speaker": null,
+      "opening": "\"Nigga, that's a lot of temptation stacked vertically.\""
+    },
+    {
+      "quote": 37,
+      "line": 5859,
+      "speaker": null,
+      "opening": "\"Mind your posture,\""
+    },
+    {
+      "quote": 38,
+      "line": 5859,
+      "speaker": null,
+      "opening": "\"We're supporting sentences.\""
+    },
+    {
+      "quote": 39,
+      "line": 5875,
+      "speaker": null,
+      "opening": "\"My favorite trouble.\""
+    },
+    {
+      "quote": 40,
+      "line": 5877,
+      "speaker": null,
+      "opening": "\"Nigga, your favorite invoice. We're here for Juno.\""
+    },
+    {
+      "quote": 41,
+      "line": 5883,
+      "speaker": null,
+      "opening": "\"And the nine people whose pay you keep"
+    },
+    {
+      "quote": 42,
+      "line": 5885,
+      "speaker": null,
+      "opening": "\"This is between me and my staff.\""
+    },
+    {
+      "quote": 43,
+      "line": 5889,
+      "speaker": null,
+      "opening": "\"Then call them down. We'd love an audience.\""
+    },
+    {
+      "quote": 44,
+      "line": 5895,
+      "speaker": null,
+      "opening": "\"Captain.\""
+    },
+    {
+      "quote": 45,
+      "line": 5897,
+      "speaker": null,
+      "opening": "\"Nigga, I'm listening. These ladies got prepared sentences.\""
+    },
+    {
+      "quote": 46,
+      "line": 5901,
+      "speaker": null,
+      "opening": "\"There has been a misunderstanding.\""
+    },
+    {
+      "quote": 47,
+      "line": 5903,
+      "speaker": null,
+      "opening": "\"Great,\""
+    },
+    {
+      "quote": 48,
+      "line": 5903,
+      "speaker": null,
+      "opening": "\"You bring the car, the money, and the"
+    },
+    {
+      "quote": 49,
+      "line": 5905,
+      "speaker": null,
+      "opening": "\"It isn't that simple.\""
+    },
+    {
+      "quote": 50,
+      "line": 5907,
+      "speaker": null,
+      "opening": "\"Nigga, you took a car. How many pages"
+    },
+    {
+      "quote": 51,
+      "line": 5911,
+      "speaker": null,
+      "opening": "\"You brought outsiders into my house?\""
+    },
+    {
+      "quote": 52,
+      "line": 5921,
+      "speaker": null,
+      "opening": "\"I brought people who answer me.\""
+    },
+    {
+      "quote": 53,
+      "line": 5929,
+      "speaker": null,
+      "opening": "\"Nigga, use your voice. Nobody coming to polish"
+    },
+    {
+      "quote": 54,
+      "line": 5935,
+      "speaker": null,
+      "opening": "\"What would satisfy you, Captain?\""
+    },
+    {
+      "quote": 55,
+      "line": 5939,
+      "speaker": null,
+      "opening": "\"Nigga, you keep missing the actual people talking."
+    },
+    {
+      "quote": 56,
+      "line": 5943,
+      "speaker": null,
+      "opening": "\"We want the wages. The car. Everybody free"
+    },
+    {
+      "quote": 57,
+      "line": 5947,
+      "speaker": null,
+      "opening": "\"Of course.\""
+    },
+    {
+      "quote": 58,
+      "line": 5969,
+      "speaker": null,
+      "opening": "\"Stop.\""
+    },
+    {
+      "quote": 59,
+      "line": 5971,
+      "speaker": null,
+      "opening": "\"Nigga, you stop. I came later.\""
+    },
+    {
+      "quote": 60,
+      "line": 5979,
+      "speaker": null,
+      "opening": "\"Workers.\""
+    },
+    {
+      "quote": 61,
+      "line": 5983,
+      "speaker": null,
+      "opening": "\"Truck,\""
+    },
+    {
+      "quote": 62,
+      "line": 5999,
+      "speaker": null,
+      "opening": "\"Nigga!\""
+    },
+    {
+      "quote": 63,
+      "line": 5999,
+      "speaker": null,
+      "opening": "\"We said behind us!\""
+    },
+    {
+      "quote": 64,
+      "line": 6001,
+      "speaker": null,
+      "opening": "\"I'm on the wrong side of behind!\""
+    },
+    {
+      "quote": 65,
+      "line": 6003,
+      "speaker": null,
+      "opening": "\"Get the car!\""
+    },
+    {
+      "quote": 66,
+      "line": 6005,
+      "speaker": null,
+      "opening": "\"That's the part I'm doing!\""
+    },
+    {
+      "quote": 67,
+      "line": 6035,
+      "speaker": null,
+      "opening": "\"Aiden!\""
+    },
+    {
+      "quote": 68,
+      "line": 6037,
+      "speaker": null,
+      "opening": "\"Nigga heard you!\""
+    },
+    {
+      "quote": 69,
+      "line": 6059,
+      "speaker": null,
+      "opening": "\"Mine?\""
+    },
+    {
+      "quote": 70,
+      "line": 6061,
+      "speaker": null,
+      "opening": "\"Yours!\""
+    },
+    {
+      "quote": 71,
+      "line": 6063,
+      "speaker": null,
+      "opening": "\"Is it okay?\""
+    },
+    {
+      "quote": 72,
+      "line": 6065,
+      "speaker": null,
+      "opening": "\"Nigga, it got stories now!\""
+    },
+    {
+      "quote": 73,
+      "line": 6089,
+      "speaker": null,
+      "opening": "\"Ardent! Harbor road! Move those people!\""
+    },
+    {
+      "quote": 74,
+      "line": 6123,
+      "speaker": null,
+      "opening": "\"Baby. Look at me.\""
+    },
+    {
+      "quote": 75,
+      "line": 6129,
+      "speaker": null,
+      "opening": "\"You all right?\""
+    },
+    {
+      "quote": 76,
+      "line": 6131,
+      "speaker": null,
+      "opening": "\"Need a minute.\""
+    },
+    {
+      "quote": 77,
+      "line": 6133,
+      "speaker": null,
+      "opening": "\"You taking two.\""
+    },
+    {
+      "quote": 78,
+      "line": 6135,
+      "speaker": null,
+      "opening": "\"Nigga, expensive women.\""
+    },
+    {
+      "quote": 79,
+      "line": 6141,
+      "speaker": null,
+      "opening": "\"Captain.\""
+    },
+    {
+      "quote": 80,
+      "line": 6145,
+      "speaker": null,
+      "opening": "\"Nigga, you kept the water in it. That's"
+    },
+    {
+      "quote": 81,
+      "line": 6153,
+      "speaker": null,
+      "opening": "\"I got your car,\""
+    },
+    {
+      "quote": 82,
+      "line": 6157,
+      "speaker": null,
+      "opening": "\"You got those people.\""
+    },
+    {
+      "quote": 83,
+      "line": 6163,
+      "speaker": null,
+      "opening": "\"We'll fix the car.\""
+    },
+    {
+      "quote": 84,
+      "line": 6175,
+      "speaker": null,
+      "opening": "\"Read.\""
+    },
+    {
+      "quote": 85,
+      "line": 6181,
+      "speaker": null,
+      "opening": "\"Pay.\""
+    },
+    {
+      "quote": 86,
+      "line": 6193,
+      "speaker": null,
+      "opening": "\"We know somebody who collects famous wrecks.\""
+    },
+    {
+      "quote": 87,
+      "line": 6197,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 88,
+      "line": 6199,
+      "speaker": null,
+      "opening": "\"Exactly.\""
+    },
+    {
+      "quote": 89,
+      "line": 6207,
+      "speaker": null,
+      "opening": "\"I watched him.\""
+    },
+    {
+      "quote": 90,
+      "line": 6211,
+      "speaker": null,
+      "opening": "\"Extraordinary.\""
+    },
+    {
+      "quote": 91,
+      "line": 6215,
+      "speaker": null,
+      "opening": "\"He was like this when I found him.\""
+    },
+    {
+      "quote": 92,
+      "line": 6223,
+      "speaker": null,
+      "opening": "\"Let him have a good day. He's practicing.\""
+    },
+    {
+      "quote": 93,
+      "line": 6239,
+      "speaker": null,
+      "opening": "\"Nigga, you still got that?\""
+    },
+    {
+      "quote": 94,
+      "line": 6241,
+      "speaker": null,
+      "opening": "\"I thought there might be something else to"
+    },
+    {
+      "quote": 95,
+      "line": 6259,
+      "speaker": null,
+      "opening": "\"Sit.\""
+    },
+    {
+      "quote": 96,
+      "line": 6261,
+      "speaker": null,
+      "opening": "\"Baby, I been sitting.\""
+    },
+    {
+      "quote": 97,
+      "line": 6263,
+      "speaker": null,
+      "opening": "\"Then be excellent at it another minute.\""
+    },
+    {
+      "quote": 98,
+      "line": 6267,
+      "speaker": null,
+      "opening": "\"Mercedes said you followed instructions.\""
+    },
+    {
+      "quote": 99,
+      "line": 6269,
+      "speaker": null,
+      "opening": "\"Nigga stood behind whole sentences.\""
+    },
+    {
+      "quote": 100,
+      "line": 6271,
+      "speaker": null,
+      "opening": "\"Porsche said you fell out of a truck.\""
+    },
+    {
+      "quote": 101,
+      "line": 6273,
+      "speaker": null,
+      "opening": "\"I was in a car. Details matter.\""
+    },
+    {
+      "quote": 102,
+      "line": 6277,
+      "speaker": null,
+      "opening": "\"Juno said you gave her life back.\""
+    },
+    {
+      "quote": 103,
+      "line": 6281,
+      "speaker": null,
+      "opening": "\"She already had it. We just got the"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+"Before he tells you," Vesper said, "I need you to know that Nico wasn't brave in the way this city remembers him."
+
+Bastien lowered the letter.
+
+She sat with her hands flat on her knees. No queen pose. No glass held just so. Her fingers trembled, and she was angry enough about it that I looked at her face instead.
+
+"They put him on statues with a sword," she said. "He hated swords. He cut his thumb opening a parcel once and accused the paper of treason."
+
+Tank made a small sound.
+
+Rosa nudged him.
+
+"I liked the nigga," Tank said. "That's a good accusation."
+
+Vesper smiled without meaning to.
+
+"The last afternoon I saw him, he arrived at this observatory carrying a live chicken."
+
+I blinked.
+
+"A whole chicken?"
+
+"He had won it in a wager and couldn't bear to send it to the kitchens. He named it Admiral."
+
+"Nigga promoted the chicken."
+
+"Very rapidly."
+
+She looked toward the balcony, and I followed her eyes until I could almost see the younger woman standing there: twenty-one, waiting for a prince she loved, trying to look disappointed when he brought the wrong kind of present.
+
+Vesper told us how Nico had climbed the stairs with the bird under one arm and a stolen orange in his pocket. Real stolen fruit that time. Apparently he had decided his reputation needed work.
+
+He'd put the chicken on the table. It had knocked over a vase. Vesper had told him that if their married life involved poultry on the furniture, she expected at least a larger house.
+
+"He said he would buy me the sea," she told us.
+
+"Ambitious nigga," I said.
+
+Shawna glanced back at me.
+
+"You gave me an island. Don't act unfamiliar."
+
+"Baby, I won that efficiently."
+
+Vesper laughed again, and the sound hurt her afterward. I saw it. The little pause before she could keep going.
+
+Nico had been due at the harbor that evening. His father, King Adrien Valcour, was meeting merchants aboard the royal ship. The Crown of Midnight would travel with him, because even a man going to discuss cargo apparently needed to look like he owned the moon.
+
+But Nico didn't want to go.
+
+He wanted to stay at the observatory. He wanted to eat the orange with Vesper and explain why Admiral had already earned an upgrade in rank. He wanted, in the plain stupid beautiful way men sometimes want things, one evening that didn't belong to his name.
+
+"I told him to go," Vesper said.
+
+Shawna's hand moved over hers.
+
+"You didn't know."
+
+"I know that now. I have known it for years. Knowing has never made the sentence less true."
+
+Bastien stared at the letter. His face looked older than it had when he was fighting men outside his own door.
+
+Vesper continued.
+
+Nico had kissed her at the gate. Then he'd come back because he forgot the chicken. Then he'd come back again because she had laughed at him, and he wanted another kiss while she was still laughing.
+
+"That's the last one," she said. "Everybody expects the last kiss to announce itself. It was quick. I was holding a ridiculous bird. I remember being worried about my sleeve."
+
+Nobody spoke.
+
+Then Bastien turned the letter over.
+
+"Eliane was with the king that night," he said.
+
+His voice sounded different when he said her name. Not weaker. More careful. Like he had been carrying it a long way and didn't want anybody to think he was tired of the weight.
+
+He was fifty-two then. Eliane was forty-four. She made gowns for the court and costumes for the opera, and according to Bastien she could tell what a person feared by looking at what they wore to dinner.
+
+"What would've she said about me?" I asked.
+
+He looked at my white shirt, torn at one shoulder, my badge, the ring on my hand.
+
+"That you wanted everyone to know who had chosen you."
+
+Shawna turned all the way toward me.
+
+Nigga, the old man had gone straight through the shirt.
+
+"Aight," I said. "She was talented."
+
+Bastien and Eliane had been together seven years. Never married. He'd asked. She'd said yes, then asked him to choose a month when nobody planned to kill the king. He kept telling her next spring.
+
+Seven springs.
+
+"I thought there would always be another," he said.
+
+The afternoon before the fire, Eliane had come to his rooms wearing the red coat. She had sewn it herself, crooked on purpose at one pocket because he had once teased her about making everything too perfect to touch.
+
+She'd brought him bread and a little cheese, and she'd been angry.
+
+He remembered the bread first. That was what he told us. The smell of it. Warm enough to fog the paper. Every time he tried to remember her voice exactly, the bread arrived before the words.
+
+"You are leaving again," she'd told him.
+
+"The king needs me."
+
+"The king has thirty guards. I have one fool, and he is late."
+
+"Tomorrow."
+
+"You love that word."
+
+He had tried to kiss her. She'd turned her face, then caught his hand before he could mistake anger for an invitation to leave.
+
+"Bastien, listen to me. Rafael has been moving the household accounts."
+
+Rafael Sorel.
+
+The man the city would later call Emperor Zero.
+
+At thirty-six he had been the king's favored minister, handsome enough to be welcome in rooms where his family name wouldn't have got him past the stairs. He smiled well. He remembered birthdays. He never raised his voice at servants where anybody could hear.
+
+"The nigga was practicing," Tank said.
+
+Bastien nodded once.
+
+Eliane had been altering a coat for Rafael when she found a folded instruction beneath the lining. Not a murder confession sitting politely in a pocket. A shipping order. A list of names. A date. The kind of thing a seamstress was expected to return without reading because a man who wore a crown nearby assumed every other person was scenery.
+
+But Eliane recognized three names.
+
+Men who had already disappeared.
+
+She had made clothes for their wives after their funerals.
+
+"She asked him about it?" Rosa said.
+
+"No. She copied what she saw. Then she hid the copy where she believed he would never look."
+
+Bastien touched the red coat.
+
+"On a woman he thought beneath notice."
+
+Marcellus leaned forward, studying the embroidery at the cuff.
+
+"Those are account marks."
+
+"Yes."
+
+I looked at the little silver stitches. They had seemed like flowers a moment earlier. Now they looked like a woman daring a whole kingdom to learn how to see.
+
+"Nigga," I said softly. "She wore the evidence."
+
+Eliane had come to Bastien with enough to make him doubt Rafael, but not enough to make him accuse the king's favorite in public. Bastien had served Adrien Valcour for twenty-eight years. He knew the king was vain, generous when watched, cruel when frightened, and devoted to his son in a way that sometimes looked like trying to own the air around him.
+
+He also knew Rafael had become necessary.
+
+Necessary men are dangerous when you discover you can live without them.
+
+Bastien had told Eliane to wait.
+
+"One evening," he'd said. "After the harbor meeting, I will take this to the king."
+
+She had looked at him for a long time.
+
+Then she'd kissed him.
+
+Not because she agreed.
+
+Because she had already decided to do something else.
+
+Vesper got up and walked to the balcony. Shawna followed, stopping beside her without saying anything. I could see both women's reflections in the old glass, the living one holding a ring from her first marriage on a chain beneath her shirt, the queen holding nothing where a ring had used to be.
+
+Bastien read the letter aloud.
+
+*My stubborn love,*
+
+*You will be angry that I went without you. Be angry after you eat. I know you will forget the bread if there is a crisis, and I refuse to lose an argument to your empty stomach.*
+
+Tank looked down at his hands.
+
+Rosa took one of them.
+
+*I am going to the harbor because the prince will be there. Rafael believes I have brought him the household book. I have brought him a copy made for a man who sees numbers and thinks he understands people. The true book remains behind the old royal face. You know the face I mean. You once told me its nose was wrong.*
+
+Marcellus looked up sharply.
+
+Bastien kept reading.
+
+*The Crown identifies the shelves. It does not contain the truth by itself. Do not let a glittering thing persuade you to stop looking. Men have done that all my life.*
+
+I saw Vesper close her eyes at the balcony.
+
+*I believe I can get Nico away. He listens when I scold him, perhaps because I am the only woman at court who does not want him to grow taller in a portrait. If his father comes, I will bring him too. I make no promises about the father's manners.*
+
+Rosa laughed once through her nose.
+
+*If I return, we marry in autumn. I have chosen it. You have had seven springs to offer something better.*
+
+Bastien stopped.
+
+The paper trembled in his hand.
+
+Nobody hurried him.
+
+*If I do not return, do not turn me into a reason to become a smaller man. You were difficult enough at your proper size. Love someone who needs you. Love something you can still reach. Wear the blue coat when you are sad. The black one makes you look like an undertaker who has misplaced his customer.*
+
+He smiled. A broken, astonished smile, like she had found him through sixteen years just to insult his jacket again.
+
+*I have loved you in rooms too narrow for your shoulders. I have loved you in the five minutes between one duty and another. I have loved you badly on Thursdays and wonderfully on Sundays and stubbornly whenever you deserved worse. If there is another life, come early. I am tired of waiting with dinner.*
+
+*Eliane.*
+
+Bastien folded the letter with hands that knew every crease.
+
+For a while, the only sound was the harbor outside.
+
+Then I said, "What happened on the ship?"
+
+He looked at me.
+
+"The king was already dead when she arrived."
+
+Vesper turned from the balcony.
+
+"You never told me that."
+
+"I could not prove it."
+
+"You could have told me."
+
+"Yes," he said. "I could have."
+
+That answer hit her harder than an excuse would have.
+
+Rafael had summoned Bastien away from the harbor with an order bearing the royal seal. A disturbance at the eastern gate. A threat to Vesper's household. Bastien had taken six guards and gone because the prince loved Vesper, and protecting what the prince loved felt like protecting him.
+
+By the time he realized the road was empty, smoke rose over the water.
+
+He had ridden back through streets full of people running the opposite way. The royal ship burned from bow to stern. Men shouted that the king was aboard. Others shouted that he had escaped. Nobody agreed on anything except that the water was bright with fire.
+
+Bastien found Nico on the quay.
+
+Alive.
+
+Vesper made a sound so small I almost missed it.
+
+"Alive?"
+
+Bastien nodded.
+
+"Eliane got him off. She gave him her coat because his shirt was burning. He was hurt, but he knew me. He told me Rafael had ordered the harbor gates closed. He told me his father had been dead before the meeting began."
+
+"Then why—"
+
+Vesper couldn't finish.
+
+Bastien did it for her.
+
+"Because Rafael's men reached us before the physician."
+
+The old man's jaw tightened. He didn't give us every wound. He didn't need to. He told us about the sudden circle of black coats, the prince trying to stand, the one loyal guard who pushed Bastien into the water because a living witness was all he could save.
+
+Bastien went over the quay with Eliane's coat caught around one wrist.
+
+When he came up, Nico was gone.
+
+The city buried a closed coffin three days later.
+
+Eliane never came back from the ship.
+
+Vesper stared at Bastien.
+
+"And you stood beside me at the funeral."
+
+"Yes."
+
+"You let me thank him."
+
+"I was afraid."
+
+The words sat there naked.
+
+A man who had just fought off killers in his own garden said them without trying to dress them up.
+
+"He knew I had survived. He knew I had the coat. He did not know what she had written into it. He offered your life in exchange for my silence. I had watched everyone else die. I thought keeping you alive was the only thing I could still do correctly."
+
+Vesper slapped him.
+
+The sound cracked through the room.
+
+Nobody moved.
+
+Bastien didn't raise a hand to his face.
+
+"You let me become useful to him," she said.
+
+"Yes."
+
+"You let me call it strength."
+
+"Yes."
+
+"You should have trusted me."
+
+"Yes."
+
+She looked ready to hit him again. Then her face collapsed, and the old man caught her as she stepped into him instead.
+
+Shawna came back to me while they held each other.
+
+I put an arm around her waist.
+
+Nigga, I had spent the morning on the hood of a moving car. I had been shot at by men who thought a road belonged to them. None of that made me feel as exposed as watching an old man discover he'd been protecting somebody and betraying her at the same time.
+
+After a while Vesper sat down.
+
+Her face was wet. She didn't hide it.
+
+"Why now?" she asked.
+
+Bastien looked at me.
+
+"Because last night I watched a man refuse a price. And because the emperor has finally become afraid enough to make mistakes."
+
+I straightened.
+
+"Aight. Then let's make him keep making them."
+
+Marcellus spread the coat across the table. He didn't cut it. He studied the stitched marks beside the invitation seal, then turned the seal so the little crown faced the light.
+
+"The old royal face," he said. "A portrait?"
+
+Bastien nodded.
+
+"Adrien's first coronation portrait. It hangs in the House of Nine Doors."
+
+I stared at him.
+
+"The house I drove through?"
+
+"Yes."
+
+Tank leaned back and laughed.
+
+"Nigga, you been in the evidence twice already."
+
+"I was busy arresting dinner!"
+
+Shawna covered her mouth. Mercedes and Porsche started laughing too, not because any of it was small, but because we'd been holding our breath for so long that the first ridiculous thing felt like a window opening.
+
+Vesper wiped her face with a handkerchief Bastien gave her.
+
+"Silas Bell acquired the house from Rafael after the fire," she said. "He never knew what was hidden there."
+
+"Then we go get it," I said.
+
+"The emperor will have sealed the house by now."
+
+I touched my badge.
+
+"Nigga, so will I."
+
+A car horn sounded outside.
+
+Ardent stood at the garden gate with three police vehicles and a folded document in his hand. He looked pleased until he saw Vesper's face. Then he became very careful.
+
+"Captain. The emperor has issued a request for your presence. Tonight. The Palace of Mirrors."
+
+I took the paper.
+
+The next tournament round.
+
+PAIRS OF ALLEGIANCE.
+
+Every claimant and their chosen partner would enter together.
+
+Only one prize would leave with them.
+
+Shawna read it beside me.
+
+"He thinks he's about to test us."
+
+I looked back at the red coat, the letter, Vesper standing beside the man she'd just forgiven enough to keep hurting over.
+
+"Nigga," I said, "he don't know who already tested everybody."

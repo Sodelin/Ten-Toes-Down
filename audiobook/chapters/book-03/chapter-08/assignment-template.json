@@ -1,0 +1,715 @@
+{
+  "chapter_id": "b03-c08",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 118,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3075,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 2,
+      "line": 3075,
+      "speaker": null,
+      "opening": "“Bellario trying to put himself in my marriage?”"
+    },
+    {
+      "quote": 3,
+      "line": 3079,
+      "speaker": null,
+      "opening": "“He can get in line behind the sea.”"
+    },
+    {
+      "quote": 4,
+      "line": 3083,
+      "speaker": null,
+      "opening": "“What's a representative do?”"
+    },
+    {
+      "quote": 5,
+      "line": 3085,
+      "speaker": null,
+      "opening": "“In this race?”"
+    },
+    {
+      "quote": 6,
+      "line": 3085,
+      "speaker": null,
+      "opening": "“Probably betray you uphill.”"
+    },
+    {
+      "quote": 7,
+      "line": 3091,
+      "speaker": null,
+      "opening": "“I asked them to take me,”"
+    },
+    {
+      "quote": 8,
+      "line": 3103,
+      "speaker": null,
+      "opening": "“You like it,”"
+    },
+    {
+      "quote": 9,
+      "line": 3105,
+      "speaker": null,
+      "opening": "“I love it.”"
+    },
+    {
+      "quote": 10,
+      "line": 3107,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 11,
+      "line": 3109,
+      "speaker": null,
+      "opening": "“Is it too much?”"
+    },
+    {
+      "quote": 12,
+      "line": 3113,
+      "speaker": null,
+      "opening": "“For you? They could use another wall.”"
+    },
+    {
+      "quote": 13,
+      "line": 3117,
+      "speaker": null,
+      "opening": "“Nigga, that's why you're my wife.”"
+    },
+    {
+      "quote": 14,
+      "line": 3123,
+      "speaker": null,
+      "opening": "“Ride with me today,”"
+    },
+    {
+      "quote": 15,
+      "line": 3127,
+      "speaker": null,
+      "opening": "“As your passenger?”"
+    },
+    {
+      "quote": 16,
+      "line": 3129,
+      "speaker": null,
+      "opening": "“As my way home.”"
+    },
+    {
+      "quote": 17,
+      "line": 3135,
+      "speaker": null,
+      "opening": "“That was good.”"
+    },
+    {
+      "quote": 18,
+      "line": 3137,
+      "speaker": null,
+      "opening": "“I got more.”"
+    },
+    {
+      "quote": 19,
+      "line": 3139,
+      "speaker": null,
+      "opening": "“Save some for after the race.”"
+    },
+    {
+      "quote": 20,
+      "line": 3149,
+      "speaker": null,
+      "opening": "“If you bring this car back with a"
+    },
+    {
+      "quote": 21,
+      "line": 3149,
+      "speaker": null,
+      "opening": "“I'm making you help.”"
+    },
+    {
+      "quote": 22,
+      "line": 3151,
+      "speaker": null,
+      "opening": "“Nigga, I helped yesterday.”"
+    },
+    {
+      "quote": 23,
+      "line": 3153,
+      "speaker": null,
+      "opening": "“You held a lamp.”"
+    },
+    {
+      "quote": 24,
+      "line": 3155,
+      "speaker": null,
+      "opening": "“A great lamp.”"
+    },
+    {
+      "quote": 25,
+      "line": 3157,
+      "speaker": null,
+      "opening": "“You moved it every time somebody called your"
+    },
+    {
+      "quote": 26,
+      "line": 3159,
+      "speaker": null,
+      "opening": "“People needed light.”"
+    },
+    {
+      "quote": 27,
+      "line": 3165,
+      "speaker": null,
+      "opening": "“I promised nothing about men carrying fountains,”"
+    },
+    {
+      "quote": 28,
+      "line": 3167,
+      "speaker": null,
+      "opening": "“Nigga, that's how they get you.”"
+    },
+    {
+      "quote": 29,
+      "line": 3171,
+      "speaker": null,
+      "opening": "“I sent a message through the rescued men,”"
+    },
+    {
+      "quote": 30,
+      "line": 3171,
+      "speaker": null,
+      "opening": "“If any of them can get word to"
+    },
+    {
+      "quote": 31,
+      "line": 3173,
+      "speaker": null,
+      "opening": "“He knows,”"
+    },
+    {
+      "quote": 32,
+      "line": 3175,
+      "speaker": null,
+      "opening": "“You don't know that.”"
+    },
+    {
+      "quote": 33,
+      "line": 3177,
+      "speaker": null,
+      "opening": "“No. But look what he wrote. That nigga"
+    },
+    {
+      "quote": 34,
+      "line": 3187,
+      "speaker": null,
+      "opening": "“Captain Aiden,”"
+    },
+    {
+      "quote": 35,
+      "line": 3187,
+      "speaker": null,
+      "opening": "“Your official passenger, Monsieur Lucard.”"
+    },
+    {
+      "quote": 36,
+      "line": 3189,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 37,
+      "line": 3193,
+      "speaker": null,
+      "opening": "“Passengers are assigned by lot.”"
+    },
+    {
+      "quote": 38,
+      "line": 3195,
+      "speaker": null,
+      "opening": "“Then the lot lost.”"
+    },
+    {
+      "quote": 39,
+      "line": 3201,
+      "speaker": null,
+      "opening": "“Your wife has no experience as a navigator.”"
+    },
+    {
+      "quote": 40,
+      "line": 3203,
+      "speaker": null,
+      "opening": "“Nigga, she found me.”"
+    },
+    {
+      "quote": 41,
+      "line": 3205,
+      "speaker": null,
+      "opening": "“That is not a qualification.”"
+    },
+    {
+      "quote": 42,
+      "line": 3207,
+      "speaker": null,
+      "opening": "“Best one I got.”"
+    },
+    {
+      "quote": 43,
+      "line": 3213,
+      "speaker": null,
+      "opening": "“Who told you to get in my car?”"
+    },
+    {
+      "quote": 44,
+      "line": 3217,
+      "speaker": null,
+      "opening": "“The race—”"
+    },
+    {
+      "quote": 45,
+      "line": 3219,
+      "speaker": null,
+      "opening": "“I asked that nigga.”"
+    },
+    {
+      "quote": 46,
+      "line": 3223,
+      "speaker": null,
+      "opening": "“I was told it was an honor.”"
+    },
+    {
+      "quote": 47,
+      "line": 3225,
+      "speaker": null,
+      "opening": "“What else?”"
+    },
+    {
+      "quote": 48,
+      "line": 3231,
+      "speaker": null,
+      "opening": "“You don't have to ride with anybody you"
+    },
+    {
+      "quote": 49,
+      "line": 3235,
+      "speaker": null,
+      "opening": "“I don't want to,”"
+    },
+    {
+      "quote": 50,
+      "line": 3239,
+      "speaker": null,
+      "opening": "“Then you may withdraw.”"
+    },
+    {
+      "quote": 51,
+      "line": 3253,
+      "speaker": null,
+      "opening": "“Nigga, you should read your book.”"
+    },
+    {
+      "quote": 52,
+      "line": 3267,
+      "speaker": null,
+      "opening": "“Narrow after the stone house.”"
+    },
+    {
+      "quote": 53,
+      "line": 3269,
+      "speaker": null,
+      "opening": "“I see it.”"
+    },
+    {
+      "quote": 54,
+      "line": 3271,
+      "speaker": null,
+      "opening": "“Man with a flag at the bend.”"
+    },
+    {
+      "quote": 55,
+      "line": 3273,
+      "speaker": null,
+      "opening": "“I got him.”"
+    },
+    {
+      "quote": 56,
+      "line": 3275,
+      "speaker": null,
+      "opening": "“Goat.”"
+    },
+    {
+      "quote": 57,
+      "line": 3277,
+      "speaker": null,
+      "opening": "“Nigga, where?”"
+    },
+    {
+      "quote": 58,
+      "line": 3279,
+      "speaker": null,
+      "opening": "“On the wall. Stay away from his championship.”"
+    },
+    {
+      "quote": 59,
+      "line": 3285,
+      "speaker": null,
+      "opening": "“Left after the bridge.”"
+    },
+    {
+      "quote": 60,
+      "line": 3299,
+      "speaker": null,
+      "opening": "“That nigga driving his elbows,”"
+    },
+    {
+      "quote": 61,
+      "line": 3301,
+      "speaker": null,
+      "opening": "“Then pass the elbows.”"
+    },
+    {
+      "quote": 62,
+      "line": 3317,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 63,
+      "line": 3331,
+      "speaker": null,
+      "opening": "“Ambush at the curve,”"
+    },
+    {
+      "quote": 64,
+      "line": 3331,
+      "speaker": null,
+      "opening": "“All drivers stop below the trees.”"
+    },
+    {
+      "quote": 65,
+      "line": 3347,
+      "speaker": null,
+      "opening": "“Stay down!”"
+    },
+    {
+      "quote": 66,
+      "line": 3349,
+      "speaker": null,
+      "opening": "“Nigga, I'm not standing for applause!”"
+    },
+    {
+      "quote": 67,
+      "line": 3363,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 68,
+      "line": 3367,
+      "speaker": null,
+      "opening": "“My ankle's fine.”"
+    },
+    {
+      "quote": 69,
+      "line": 3369,
+      "speaker": null,
+      "opening": "“Nigga, he got a gun and you got"
+    },
+    {
+      "quote": 70,
+      "line": 3379,
+      "speaker": null,
+      "opening": "“Get me out,”"
+    },
+    {
+      "quote": 71,
+      "line": 3383,
+      "speaker": null,
+      "opening": "“Nigga, I thought you chose the passengers.”"
+    },
+    {
+      "quote": 72,
+      "line": 3385,
+      "speaker": null,
+      "opening": "“Please.”"
+    },
+    {
+      "quote": 73,
+      "line": 3391,
+      "speaker": null,
+      "opening": "“Who killed Amalia?”"
+    },
+    {
+      "quote": 74,
+      "line": 3395,
+      "speaker": null,
+      "opening": "“Don't you fucking lie to me.”"
+    },
+    {
+      "quote": 75,
+      "line": 3399,
+      "speaker": null,
+      "opening": "“The duke ordered the papers recovered,”"
+    },
+    {
+      "quote": 76,
+      "line": 3401,
+      "speaker": null,
+      "opening": "“How?”"
+    },
+    {
+      "quote": 77,
+      "line": 3403,
+      "speaker": null,
+      "opening": "“We stopped the car. She tried to go"
+    },
+    {
+      "quote": 78,
+      "line": 3407,
+      "speaker": null,
+      "opening": "“She didn't have room.”"
+    },
+    {
+      "quote": 79,
+      "line": 3411,
+      "speaker": null,
+      "opening": "“And Nero?”"
+    },
+    {
+      "quote": 80,
+      "line": 3413,
+      "speaker": null,
+      "opening": "“He climbed down after her. He came back"
+    },
+    {
+      "quote": 81,
+      "line": 3415,
+      "speaker": null,
+      "opening": "“So you took him.”"
+    },
+    {
+      "quote": 82,
+      "line": 3417,
+      "speaker": null,
+      "opening": "“The duke took him.”"
+    },
+    {
+      "quote": 83,
+      "line": 3419,
+      "speaker": null,
+      "opening": "“Nigga, you was standing right there.”"
+    },
+    {
+      "quote": 84,
+      "line": 3423,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 85,
+      "line": 3427,
+      "speaker": null,
+      "opening": "“I heard that,”"
+    },
+    {
+      "quote": 86,
+      "line": 3435,
+      "speaker": null,
+      "opening": "“He'll kill me.”"
+    },
+    {
+      "quote": 87,
+      "line": 3439,
+      "speaker": null,
+      "opening": "“Then you're fortunate Captain Aiden stopped.”"
+    },
+    {
+      "quote": 88,
+      "line": 3445,
+      "speaker": null,
+      "opening": "\"Nigga put me in his own ambush.\""
+    },
+    {
+      "quote": 89,
+      "line": 3447,
+      "speaker": null,
+      "opening": "\"Nigga put himself in it,\""
+    },
+    {
+      "quote": 90,
+      "line": 3449,
+      "speaker": null,
+      "opening": "\"So this nigga's stupid too?\""
+    },
+    {
+      "quote": 91,
+      "line": 3451,
+      "speaker": null,
+      "opening": "\"That's the part he didn't put on the"
+    },
+    {
+      "quote": 92,
+      "line": 3453,
+      "speaker": null,
+      "opening": "\"You kept saying Aiden wasn't impressive.\""
+    },
+    {
+      "quote": 93,
+      "line": 3455,
+      "speaker": null,
+      "opening": "\"Nigga, I was wrong.\""
+    },
+    {
+      "quote": 94,
+      "line": 3457,
+      "speaker": null,
+      "opening": "\"Say it where the cameras can develop,\""
+    },
+    {
+      "quote": 95,
+      "line": 3459,
+      "speaker": null,
+      "opening": "\"Nigga, how are you in this conversation?\""
+    },
+    {
+      "quote": 96,
+      "line": 3461,
+      "speaker": null,
+      "opening": "\"Aiden got a channel. I'm the nigga on"
+    },
+    {
+      "quote": 97,
+      "line": 3469,
+      "speaker": null,
+      "opening": "“My car's done,”"
+    },
+    {
+      "quote": 98,
+      "line": 3471,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 99,
+      "line": 3473,
+      "speaker": null,
+      "opening": "“You saved me.”"
+    },
+    {
+      "quote": 100,
+      "line": 3475,
+      "speaker": null,
+      "opening": "“Inez saved you.”"
+    },
+    {
+      "quote": 101,
+      "line": 3481,
+      "speaker": null,
+      "opening": "“Remember that when you're discussing how unimpressed you"
+    },
+    {
+      "quote": 102,
+      "line": 3487,
+      "speaker": null,
+      "opening": "“Finish it.”"
+    },
+    {
+      "quote": 103,
+      "line": 3493,
+      "speaker": null,
+      "opening": "“Race restarts at the trees,”"
+    },
+    {
+      "quote": 104,
+      "line": 3493,
+      "speaker": null,
+      "opening": "“First to the fortress.”"
+    },
+    {
+      "quote": 105,
+      "line": 3499,
+      "speaker": null,
+      "opening": "“Nigga, I still know the way.”"
+    },
+    {
+      "quote": 106,
+      "line": 3509,
+      "speaker": null,
+      "opening": "“One more turn.”"
+    },
+    {
+      "quote": 107,
+      "line": 3511,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 108,
+      "line": 3513,
+      "speaker": null,
+      "opening": "“Don't take it wide.”"
+    },
+    {
+      "quote": 109,
+      "line": 3515,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 110,
+      "line": 3517,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 111,
+      "line": 3519,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 112,
+      "line": 3521,
+      "speaker": null,
+      "opening": "“I love you.”"
+    },
+    {
+      "quote": 113,
+      "line": 3533,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 114,
+      "line": 3533,
+      "speaker": null,
+      "opening": "“we got another bird.”"
+    },
+    {
+      "quote": 115,
+      "line": 3543,
+      "speaker": null,
+      "opening": "“We go get him,”"
+    },
+    {
+      "quote": 116,
+      "line": 3547,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 117,
+      "line": 3563,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 118,
+      "line": 3563,
+      "speaker": null,
+      "opening": "“tell him put on something waterproof.”"
+    }
+  ]
+}

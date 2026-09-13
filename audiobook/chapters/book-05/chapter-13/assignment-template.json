@@ -1,0 +1,547 @@
+{
+  "chapter_id": "b05-c13",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 90,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 6303,
+      "speaker": null,
+      "opening": "\"Don't hit it! That's good frosting!\""
+    },
+    {
+      "quote": 2,
+      "line": 6307,
+      "speaker": null,
+      "opening": "\"Are you Captain Aiden?\""
+    },
+    {
+      "quote": 3,
+      "line": 6309,
+      "speaker": null,
+      "opening": "\"Depends how expensive the cake is.\""
+    },
+    {
+      "quote": 4,
+      "line": 6311,
+      "speaker": null,
+      "opening": "\"They said you would help.\""
+    },
+    {
+      "quote": 5,
+      "line": 6313,
+      "speaker": null,
+      "opening": "\"Who?\""
+    },
+    {
+      "quote": 6,
+      "line": 6315,
+      "speaker": null,
+      "opening": "\"Everybody.\""
+    },
+    {
+      "quote": 7,
+      "line": 6319,
+      "speaker": null,
+      "opening": "\"Nigga, everybody referring business now.\""
+    },
+    {
+      "quote": 8,
+      "line": 6321,
+      "speaker": null,
+      "opening": "\"Then listen before this lady parks a whole"
+    },
+    {
+      "quote": 9,
+      "line": 6323,
+      "speaker": null,
+      "opening": "\"I need you to stop a wedding.\""
+    },
+    {
+      "quote": 10,
+      "line": 6327,
+      "speaker": null,
+      "opening": "\"Baby, finally a request you haven't had this"
+    },
+    {
+      "quote": 11,
+      "line": 6337,
+      "speaker": null,
+      "opening": "\"Why is she marrying him?\""
+    },
+    {
+      "quote": 12,
+      "line": 6339,
+      "speaker": null,
+      "opening": "\"Because Zero owns her father's debt. Because her"
+    },
+    {
+      "quote": 13,
+      "line": 6343,
+      "speaker": null,
+      "opening": "\"Nigga, I dislike the shovel part personally.\""
+    },
+    {
+      "quote": 14,
+      "line": 6347,
+      "speaker": null,
+      "opening": "\"She told me not to come. She said"
+    },
+    {
+      "quote": 15,
+      "line": 6351,
+      "speaker": null,
+      "opening": "\"Get in.\""
+    },
+    {
+      "quote": 16,
+      "line": 6355,
+      "speaker": null,
+      "opening": "\"What about the cake?\""
+    },
+    {
+      "quote": 17,
+      "line": 6359,
+      "speaker": null,
+      "opening": "\"Nigga, look at me. Does this face look"
+    },
+    {
+      "quote": 18,
+      "line": 6363,
+      "speaker": null,
+      "opening": "\"The cake is protected. Go. Your woman's waiting"
+    },
+    {
+      "quote": 19,
+      "line": 6369,
+      "speaker": null,
+      "opening": "\"You think this sign applies to me?\""
+    },
+    {
+      "quote": 20,
+      "line": 6375,
+      "speaker": null,
+      "opening": "\"That nigga from the cathedral,\""
+    },
+    {
+      "quote": 21,
+      "line": 6377,
+      "speaker": null,
+      "opening": "\"That nigga from the boat,\""
+    },
+    {
+      "quote": 22,
+      "line": 6379,
+      "speaker": null,
+      "opening": "\"Same nigga from the street,\""
+    },
+    {
+      "quote": 23,
+      "line": 6379,
+      "speaker": null,
+      "opening": "\"Now move before you become the niggas from"
+    },
+    {
+      "quote": 24,
+      "line": 6397,
+      "speaker": null,
+      "opening": "\"This ceremony is private.\""
+    },
+    {
+      "quote": 25,
+      "line": 6399,
+      "speaker": null,
+      "opening": "\"Then why you got everybody miserable in public?\""
+    },
+    {
+      "quote": 26,
+      "line": 6399,
+      "speaker": null,
+      "opening": "\"Nigga, the flowers look like they signed a"
+    },
+    {
+      "quote": 27,
+      "line": 6403,
+      "speaker": null,
+      "opening": "\"Who admitted this man?\""
+    },
+    {
+      "quote": 28,
+      "line": 6405,
+      "speaker": null,
+      "opening": "\"This nigga admitted himself. Those niggas discovered another"
+    },
+    {
+      "quote": 29,
+      "line": 6415,
+      "speaker": null,
+      "opening": "\"Camille.\""
+    },
+    {
+      "quote": 30,
+      "line": 6417,
+      "speaker": null,
+      "opening": "\"I'm here.\""
+    },
+    {
+      "quote": 31,
+      "line": 6421,
+      "speaker": null,
+      "opening": "\"She was instructed not to attend.\""
+    },
+    {
+      "quote": 32,
+      "line": 6425,
+      "speaker": null,
+      "opening": "\"Sabine. Do you want to marry this man?\""
+    },
+    {
+      "quote": 33,
+      "line": 6435,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 34,
+      "line": 6443,
+      "speaker": null,
+      "opening": "\"The agreement has been signed.\""
+    },
+    {
+      "quote": 35,
+      "line": 6445,
+      "speaker": null,
+      "opening": "\"Not by her mouth,\""
+    },
+    {
+      "quote": 36,
+      "line": 6447,
+      "speaker": null,
+      "opening": "\"You have no standing in this matter.\""
+    },
+    {
+      "quote": 37,
+      "line": 6451,
+      "speaker": null,
+      "opening": "\"Nigga, I been standing in the aisle for"
+    },
+    {
+      "quote": 38,
+      "line": 6461,
+      "speaker": null,
+      "opening": "\"Private ceremony,\""
+    },
+    {
+      "quote": 39,
+      "line": 6461,
+      "speaker": null,
+      "opening": "\"Apparently.\""
+    },
+    {
+      "quote": 40,
+      "line": 6467,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 41,
+      "line": 6467,
+      "speaker": null,
+      "opening": "\"you brought a gun to a woman saying"
+    },
+    {
+      "quote": 42,
+      "line": 6471,
+      "speaker": null,
+      "opening": "\"The debt—\""
+    },
+    {
+      "quote": 43,
+      "line": 6475,
+      "speaker": null,
+      "opening": "\"You can pay it.\""
+    },
+    {
+      "quote": 44,
+      "line": 6477,
+      "speaker": null,
+      "opening": "\"We will lose the house.\""
+    },
+    {
+      "quote": 45,
+      "line": 6479,
+      "speaker": null,
+      "opening": "\"Then live in a smaller one. I was"
+    },
+    {
+      "quote": 46,
+      "line": 6489,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 47,
+      "line": 6491,
+      "speaker": null,
+      "opening": "\"You're a captain.\""
+    },
+    {
+      "quote": 48,
+      "line": 6493,
+      "speaker": null,
+      "opening": "\"Nigga, don't give me that many responsibilities with"
+    },
+    {
+      "quote": 49,
+      "line": 6495,
+      "speaker": null,
+      "opening": "\"You can find somebody to marry them.\""
+    },
+    {
+      "quote": 50,
+      "line": 6499,
+      "speaker": null,
+      "opening": "\"I am still here.\""
+    },
+    {
+      "quote": 51,
+      "line": 6501,
+      "speaker": null,
+      "opening": "\"See?\""
+    },
+    {
+      "quote": 52,
+      "line": 6509,
+      "speaker": null,
+      "opening": "\"That nigga just looked at my plate,\""
+    },
+    {
+      "quote": 53,
+      "line": 6511,
+      "speaker": null,
+      "opening": "\"I seen him.\""
+    },
+    {
+      "quote": 54,
+      "line": 6513,
+      "speaker": null,
+      "opening": "\"Make sure the nigga understands the separation.\""
+    },
+    {
+      "quote": 55,
+      "line": 6517,
+      "speaker": null,
+      "opening": "\"You heard the lady. Nigga, enjoy the ceremony"
+    },
+    {
+      "quote": 56,
+      "line": 6521,
+      "speaker": null,
+      "opening": "\"Yes,\""
+    },
+    {
+      "quote": 57,
+      "line": 6523,
+      "speaker": null,
+      "opening": "\"Excellent. We honoring the investment.\""
+    },
+    {
+      "quote": 58,
+      "line": 6537,
+      "speaker": null,
+      "opening": "“Stand there.”"
+    },
+    {
+      "quote": 59,
+      "line": 6539,
+      "speaker": null,
+      "opening": "“Captain?”"
+    },
+    {
+      "quote": 60,
+      "line": 6541,
+      "speaker": null,
+      "opening": "“Nigga, you got legs. Try them.”"
+    },
+    {
+      "quote": 61,
+      "line": 6547,
+      "speaker": null,
+      "opening": "“Look at her,”"
+    },
+    {
+      "quote": 62,
+      "line": 6551,
+      "speaker": null,
+      "opening": "“Now tell your woman what you told me"
+    },
+    {
+      "quote": 63,
+      "line": 6555,
+      "speaker": null,
+      "opening": "“I wanted you,”"
+    },
+    {
+      "quote": 64,
+      "line": 6563,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 65,
+      "line": 6563,
+      "speaker": null,
+      "opening": "“that's the wedding.”"
+    },
+    {
+      "quote": 66,
+      "line": 6571,
+      "speaker": null,
+      "opening": "“He studied looking pleased with himself. Everything else"
+    },
+    {
+      "quote": 67,
+      "line": 6577,
+      "speaker": null,
+      "opening": "“You gave us the whole day back.”"
+    },
+    {
+      "quote": 68,
+      "line": 6579,
+      "speaker": null,
+      "opening": "“Nigga, keep tomorrow too. I ain't rescuing the"
+    },
+    {
+      "quote": 69,
+      "line": 6591,
+      "speaker": null,
+      "opening": "\"You are becoming expensive to host.\""
+    },
+    {
+      "quote": 70,
+      "line": 6593,
+      "speaker": null,
+      "opening": "\"Nigga, I'm improving your marriages for free.\""
+    },
+    {
+      "quote": 71,
+      "line": 6595,
+      "speaker": null,
+      "opening": "\"Lord Draven had a binding arrangement.\""
+    },
+    {
+      "quote": 72,
+      "line": 6597,
+      "speaker": null,
+      "opening": "\"Now the nigga got a binding bracelet. Two"
+    },
+    {
+      "quote": 73,
+      "line": 6599,
+      "speaker": null,
+      "opening": "\"You interfere with every household you enter.\""
+    },
+    {
+      "quote": 74,
+      "line": 6601,
+      "speaker": null,
+      "opening": "\"Nigga, I keep finding women trying to leave"
+    },
+    {
+      "quote": 75,
+      "line": 6621,
+      "speaker": null,
+      "opening": "\"A joyous occasion.\""
+    },
+    {
+      "quote": 76,
+      "line": 6623,
+      "speaker": null,
+      "opening": "\"You welcome to clap,\""
+    },
+    {
+      "quote": 77,
+      "line": 6637,
+      "speaker": null,
+      "opening": "\"Nigga stopped a wedding and got a wedding"
+    },
+    {
+      "quote": 78,
+      "line": 6641,
+      "speaker": null,
+      "opening": "\"That's what happens when you put greatness to"
+    },
+    {
+      "quote": 79,
+      "line": 6643,
+      "speaker": null,
+      "opening": "\"And this nigga gets cake for watching greatness.\""
+    },
+    {
+      "quote": 80,
+      "line": 6645,
+      "speaker": null,
+      "opening": "\"You watched the prisoner, baby. You earned frosting.\""
+    },
+    {
+      "quote": 81,
+      "line": 6649,
+      "speaker": null,
+      "opening": "\"Nigga, best captain I ever worked for.\""
+    },
+    {
+      "quote": 82,
+      "line": 6651,
+      "speaker": null,
+      "opening": "\"You ever worked for another?\""
+    },
+    {
+      "quote": 83,
+      "line": 6653,
+      "speaker": null,
+      "opening": "\"Why the fuck would a nigga downgrade after"
+    },
+    {
+      "quote": 84,
+      "line": 6657,
+      "speaker": null,
+      "opening": "\"You looked good at the altar.\""
+    },
+    {
+      "quote": 85,
+      "line": 6659,
+      "speaker": null,
+      "opening": "\"We already did that.\""
+    },
+    {
+      "quote": 86,
+      "line": 6661,
+      "speaker": null,
+      "opening": "\"We could do it again.\""
+    },
+    {
+      "quote": 87,
+      "line": 6667,
+      "speaker": null,
+      "opening": "\"After this?\""
+    },
+    {
+      "quote": 88,
+      "line": 6671,
+      "speaker": null,
+      "opening": "\"After the last job. Big enough for everybody.\""
+    },
+    {
+      "quote": 89,
+      "line": 6675,
+      "speaker": null,
+      "opening": "\"Nigga, don't book the whole city. Me and"
+    },
+    {
+      "quote": 90,
+      "line": 6679,
+      "speaker": null,
+      "opening": "\"Then we do it together.\""
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "chapter_id": "b02-c02",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 135,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 605,
+      "speaker": null,
+      "opening": "“It was beautiful before,”"
+    },
+    {
+      "quote": 2,
+      "line": 605,
+      "speaker": null,
+      "opening": "“But what you did with it—”"
+    },
+    {
+      "quote": 3,
+      "line": 609,
+      "speaker": null,
+      "opening": "“Nigga, you made a man cry with traffic.”"
+    },
+    {
+      "quote": 4,
+      "line": 611,
+      "speaker": null,
+      "opening": "“It wasn't regular traffic.”"
+    },
+    {
+      "quote": 5,
+      "line": 613,
+      "speaker": null,
+      "opening": "“Nigga was crying when we got here.”"
+    },
+    {
+      "quote": 6,
+      "line": 615,
+      "speaker": null,
+      "opening": "“Maybe he started early.”"
+    },
+    {
+      "quote": 7,
+      "line": 617,
+      "speaker": null,
+      "opening": "“No, nigga. Rosa asked that nigga what happened,"
+    },
+    {
+      "quote": 8,
+      "line": 621,
+      "speaker": null,
+      "opening": "“A magnificent structure,”"
+    },
+    {
+      "quote": 9,
+      "line": 623,
+      "speaker": null,
+      "opening": "“See? Nigga grieving and praising at once.”"
+    },
+    {
+      "quote": 10,
+      "line": 625,
+      "speaker": null,
+      "opening": "“Let that nigga feel his feelings,”"
+    },
+    {
+      "quote": 11,
+      "line": 625,
+      "speaker": null,
+      "opening": "“He brought my car back beautiful.”"
+    },
+    {
+      "quote": 12,
+      "line": 635,
+      "speaker": null,
+      "opening": "“Your car.”"
+    },
+    {
+      "quote": 13,
+      "line": 637,
+      "speaker": null,
+      "opening": "“Nigga, give it some shape.”"
+    },
+    {
+      "quote": 14,
+      "line": 641,
+      "speaker": null,
+      "opening": "“Now it's a refrigerator that heard something.”"
+    },
+    {
+      "quote": 15,
+      "line": 643,
+      "speaker": null,
+      "opening": "“It is a diagram,”"
+    },
+    {
+      "quote": 16,
+      "line": 645,
+      "speaker": null,
+      "opening": "“Of a crime against design.”"
+    },
+    {
+      "quote": 17,
+      "line": 649,
+      "speaker": null,
+      "opening": "“Inside the marked field, the receivers support the"
+    },
+    {
+      "quote": 18,
+      "line": 651,
+      "speaker": null,
+      "opening": "“Nigga, yes.”"
+    },
+    {
+      "quote": 19,
+      "line": 653,
+      "speaker": null,
+      "opening": "“Explain it back.”"
+    },
+    {
+      "quote": 20,
+      "line": 655,
+      "speaker": null,
+      "opening": "“Ooh. He assigned this nigga consequences with oral"
+    },
+    {
+      "quote": 21,
+      "line": 657,
+      "speaker": null,
+      "opening": "“Car goes here.”"
+    },
+    {
+      "quote": 22,
+      "line": 659,
+      "speaker": null,
+      "opening": "“Correct.”"
+    },
+    {
+      "quote": 23,
+      "line": 661,
+      "speaker": null,
+      "opening": "“Car should not go here.”"
+    },
+    {
+      "quote": 24,
+      "line": 663,
+      "speaker": null,
+      "opening": "“Cannot.”"
+    },
+    {
+      "quote": 25,
+      "line": 665,
+      "speaker": null,
+      "opening": "“Nigga, it can go there. You just won't"
+    },
+    {
+      "quote": 26,
+      "line": 669,
+      "speaker": null,
+      "opening": "“Exactly.”"
+    },
+    {
+      "quote": 27,
+      "line": 673,
+      "speaker": null,
+      "opening": "“What's that?”"
+    },
+    {
+      "quote": 28,
+      "line": 675,
+      "speaker": null,
+      "opening": "“The hospital bill.”"
+    },
+    {
+      "quote": 29,
+      "line": 677,
+      "speaker": null,
+      "opening": "“Baby, that one's bigger than the car.”"
+    },
+    {
+      "quote": 30,
+      "line": 679,
+      "speaker": null,
+      "opening": "“Nigga, I included emotional damages.”"
+    },
+    {
+      "quote": 31,
+      "line": 683,
+      "speaker": null,
+      "opening": "“Put my ass in a circle. I ain't"
+    },
+    {
+      "quote": 32,
+      "line": 685,
+      "speaker": null,
+      "opening": "“You're always included,”"
+    },
+    {
+      "quote": 33,
+      "line": 687,
+      "speaker": null,
+      "opening": "“That's what I'm appealing, nigga.”"
+    },
+    {
+      "quote": 34,
+      "line": 691,
+      "speaker": null,
+      "opening": "“Now,”"
+    },
+    {
+      "quote": 35,
+      "line": 691,
+      "speaker": null,
+      "opening": "“we may admire it.”"
+    },
+    {
+      "quote": 36,
+      "line": 693,
+      "speaker": null,
+      "opening": "“Nigga, finally a subject everybody studied.”"
+    },
+    {
+      "quote": 37,
+      "line": 697,
+      "speaker": null,
+      "opening": "“We going to your test,”"
+    },
+    {
+      "quote": 38,
+      "line": 699,
+      "speaker": null,
+      "opening": "“What test?”"
+    },
+    {
+      "quote": 39,
+      "line": 703,
+      "speaker": null,
+      "opening": "“Power placement.”"
+    },
+    {
+      "quote": 40,
+      "line": 707,
+      "speaker": null,
+      "opening": "“I already got a parking place,”"
+    },
+    {
+      "quote": 41,
+      "line": 709,
+      "speaker": null,
+      "opening": "“Let's see how you perform without a car.”"
+    },
+    {
+      "quote": 42,
+      "line": 711,
+      "speaker": null,
+      "opening": "“Nigga, ask my wife.”"
+    },
+    {
+      "quote": 43,
+      "line": 725,
+      "speaker": null,
+      "opening": "“The Heart of the Sky,”"
+    },
+    {
+      "quote": 44,
+      "line": 725,
+      "speaker": null,
+      "opening": "“It anchors the academy's central field. Today you"
+    },
+    {
+      "quote": 45,
+      "line": 729,
+      "speaker": null,
+      "opening": "“Whole school running off one diamond?”"
+    },
+    {
+      "quote": 46,
+      "line": 731,
+      "speaker": null,
+      "opening": "“A power core. It amplifies gifts; it doesn't"
+    },
+    {
+      "quote": 47,
+      "line": 735,
+      "speaker": null,
+      "opening": "“Interesting cut.”"
+    },
+    {
+      "quote": 48,
+      "line": 737,
+      "speaker": null,
+      "opening": "“Please keep your distance, Mr. Vale.”"
+    },
+    {
+      "quote": 49,
+      "line": 739,
+      "speaker": null,
+      "opening": "“I was admiring it.”"
+    },
+    {
+      "quote": 50,
+      "line": 741,
+      "speaker": null,
+      "opening": "“Of course.”"
+    },
+    {
+      "quote": 51,
+      "line": 745,
+      "speaker": null,
+      "opening": "“Movement,”"
+    },
+    {
+      "quote": 52,
+      "line": 745,
+      "speaker": null,
+      "opening": "“Judgment. Control. Rescue. We rank useful outcomes, not"
+    },
+    {
+      "quote": 53,
+      "line": 747,
+      "speaker": null,
+      "opening": "“Good. Because some nigga absolutely about to destroy"
+    },
+    {
+      "quote": 54,
+      "line": 761,
+      "speaker": null,
+      "opening": "“Clean.”"
+    },
+    {
+      "quote": 55,
+      "line": 769,
+      "speaker": null,
+      "opening": "“Girl, yes!”"
+    },
+    {
+      "quote": 56,
+      "line": 773,
+      "speaker": null,
+      "opening": "“You already choosing?”"
+    },
+    {
+      "quote": 57,
+      "line": 775,
+      "speaker": null,
+      "opening": "“I'm appreciating strength.”"
+    },
+    {
+      "quote": 58,
+      "line": 777,
+      "speaker": null,
+      "opening": "“You appreciate everybody with shoulders.”"
+    },
+    {
+      "quote": 59,
+      "line": 779,
+      "speaker": null,
+      "opening": "“Only if they use them right.”"
+    },
+    {
+      "quote": 60,
+      "line": 789,
+      "speaker": null,
+      "opening": "“Come back with all your teeth.”"
+    },
+    {
+      "quote": 61,
+      "line": 791,
+      "speaker": null,
+      "opening": "“Baby, that's the minimum.”"
+    },
+    {
+      "quote": 62,
+      "line": 795,
+      "speaker": null,
+      "opening": "“Such as?”"
+    },
+    {
+      "quote": 63,
+      "line": 797,
+      "speaker": null,
+      "opening": "“Reduced gravity. Protective barrier. A powered escort.”"
+    },
+    {
+      "quote": 64,
+      "line": 799,
+      "speaker": null,
+      "opening": "“Some music.”"
+    },
+    {
+      "quote": 65,
+      "line": 833,
+      "speaker": null,
+      "opening": "“Nigga used a loafer!”"
+    },
+    {
+      "quote": 66,
+      "line": 853,
+      "speaker": null,
+      "opening": "“That's my fucking man!”"
+    },
+    {
+      "quote": 67,
+      "line": 859,
+      "speaker": null,
+      "opening": "“You used the rescue dummy as a springboard.”"
+    },
+    {
+      "quote": 68,
+      "line": 861,
+      "speaker": null,
+      "opening": "“I rescued it first.”"
+    },
+    {
+      "quote": 69,
+      "line": 863,
+      "speaker": null,
+      "opening": "“That's not—”"
+    },
+    {
+      "quote": 70,
+      "line": 865,
+      "speaker": null,
+      "opening": "“The dummy remained entirely within the designated safety"
+    },
+    {
+      "quote": 71,
+      "line": 889,
+      "speaker": null,
+      "opening": "“You under arrest.”"
+    },
+    {
+      "quote": 72,
+      "line": 893,
+      "speaker": null,
+      "opening": "“But the scenario—”"
+    },
+    {
+      "quote": 73,
+      "line": 895,
+      "speaker": null,
+      "opening": "“Nigga, you armed behind a door while people"
+    },
+    {
+      "quote": 74,
+      "line": 923,
+      "speaker": null,
+      "opening": "“Wind,”"
+    },
+    {
+      "quote": 75,
+      "line": 923,
+      "speaker": null,
+      "opening": "“and the south gallery falls.”"
+    },
+    {
+      "quote": 76,
+      "line": 935,
+      "speaker": null,
+      "opening": "“Sit down, officer.”"
+    },
+    {
+      "quote": 77,
+      "line": 941,
+      "speaker": null,
+      "opening": "“What's your name?”"
+    },
+    {
+      "quote": 78,
+      "line": 943,
+      "speaker": null,
+      "opening": "“Your last warning.”"
+    },
+    {
+      "quote": 79,
+      "line": 945,
+      "speaker": null,
+      "opening": "“Your mama named you terribly.”"
+    },
+    {
+      "quote": 80,
+      "line": 957,
+      "speaker": null,
+      "opening": "“Do I press it?”"
+    },
+    {
+      "quote": 81,
+      "line": 959,
+      "speaker": null,
+      "opening": "“Fuck no!”"
+    },
+    {
+      "quote": 82,
+      "line": 961,
+      "speaker": null,
+      "opening": "“Then nobody else getting it.”"
+    },
+    {
+      "quote": 83,
+      "line": 973,
+      "speaker": null,
+      "opening": "“Down.”"
+    },
+    {
+      "quote": 84,
+      "line": 997,
+      "speaker": null,
+      "opening": "“This nigga allergic to drowning. Thought everybody should"
+    },
+    {
+      "quote": 85,
+      "line": 1009,
+      "speaker": null,
+      "opening": "“You're better than the picture.”"
+    },
+    {
+      "quote": 86,
+      "line": 1011,
+      "speaker": null,
+      "opening": "“And you worse than your introduction.”"
+    },
+    {
+      "quote": 87,
+      "line": 1015,
+      "speaker": null,
+      "opening": "“Finn Cinder,”"
+    },
+    {
+      "quote": 88,
+      "line": 1019,
+      "speaker": null,
+      "opening": "“Chancellor.”"
+    },
+    {
+      "quote": 89,
+      "line": 1025,
+      "speaker": null,
+      "opening": "“You know him?”"
+    },
+    {
+      "quote": 90,
+      "line": 1027,
+      "speaker": null,
+      "opening": "“A notorious sky-lane criminal.”"
+    },
+    {
+      "quote": 91,
+      "line": 1029,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 92,
+      "line": 1029,
+      "speaker": null,
+      "opening": "“he knew you back.”"
+    },
+    {
+      "quote": 93,
+      "line": 1031,
+      "speaker": null,
+      "opening": "“My position attracts enemies.”"
+    },
+    {
+      "quote": 94,
+      "line": 1033,
+      "speaker": null,
+      "opening": "“Apparently they know which door to use.”"
+    },
+    {
+      "quote": 95,
+      "line": 1045,
+      "speaker": null,
+      "opening": "“That isn't the core she described.”"
+    },
+    {
+      "quote": 96,
+      "line": 1047,
+      "speaker": null,
+      "opening": "“You sure?”"
+    },
+    {
+      "quote": 97,
+      "line": 1049,
+      "speaker": null,
+      "opening": "“Aiden, I have spent most of my life"
+    },
+    {
+      "quote": 98,
+      "line": 1055,
+      "speaker": null,
+      "opening": "“Hold still.”"
+    },
+    {
+      "quote": 99,
+      "line": 1057,
+      "speaker": null,
+      "opening": "“I have it.”"
+    },
+    {
+      "quote": 100,
+      "line": 1059,
+      "speaker": null,
+      "opening": "“You got it around you. Different accomplishment.”"
+    },
+    {
+      "quote": 101,
+      "line": 1065,
+      "speaker": null,
+      "opening": "“Thank you.”"
+    },
+    {
+      "quote": 102,
+      "line": 1069,
+      "speaker": null,
+      "opening": "“Anytime.”"
+    },
+    {
+      "quote": 103,
+      "line": 1071,
+      "speaker": null,
+      "opening": "“You still cheated on the course.”"
+    },
+    {
+      "quote": 104,
+      "line": 1073,
+      "speaker": null,
+      "opening": "“Nigga, you turned into lightning. I threw footwear.”"
+    },
+    {
+      "quote": 105,
+      "line": 1081,
+      "speaker": null,
+      "opening": "“You did all that with one shoe on.”"
+    },
+    {
+      "quote": 106,
+      "line": 1089,
+      "speaker": null,
+      "opening": "“Baby, imagine if I had dressed properly.”"
+    },
+    {
+      "quote": 107,
+      "line": 1101,
+      "speaker": null,
+      "opening": "“Today's assessment is concluded.”"
+    },
+    {
+      "quote": 108,
+      "line": 1103,
+      "speaker": null,
+      "opening": "“The final rankings?”"
+    },
+    {
+      "quote": 109,
+      "line": 1107,
+      "speaker": null,
+      "opening": "“Do you require them read aloud?”"
+    },
+    {
+      "quote": 110,
+      "line": 1115,
+      "speaker": null,
+      "opening": "“You owe me.”"
+    },
+    {
+      "quote": 111,
+      "line": 1117,
+      "speaker": null,
+      "opening": "“For saving the gallery?”"
+    },
+    {
+      "quote": 112,
+      "line": 1119,
+      "speaker": null,
+      "opening": "“For not pressing a button. You know how"
+    },
+    {
+      "quote": 113,
+      "line": 1131,
+      "speaker": null,
+      "opening": "“Come on,”"
+    },
+    {
+      "quote": 114,
+      "line": 1131,
+      "speaker": null,
+      "opening": "“Let's go find lunch.”"
+    },
+    {
+      "quote": 115,
+      "line": 1135,
+      "speaker": null,
+      "opening": "“And after lunch?”"
+    },
+    {
+      "quote": 116,
+      "line": 1139,
+      "speaker": null,
+      "opening": "“After lunch, nigga, I'm finding out who think"
+    },
+    {
+      "quote": 117,
+      "line": 1147,
+      "speaker": null,
+      "opening": "“You really don't feel any different?”"
+    },
+    {
+      "quote": 118,
+      "line": 1149,
+      "speaker": null,
+      "opening": "“From what?”"
+    },
+    {
+      "quote": 119,
+      "line": 1151,
+      "speaker": null,
+      "opening": "“The crystal. The test. All this.”"
+    },
+    {
+      "quote": 120,
+      "line": 1155,
+      "speaker": null,
+      "opening": "“Same me.”"
+    },
+    {
+      "quote": 121,
+      "line": 1157,
+      "speaker": null,
+      "opening": "“That makes what you did worse.”"
+    },
+    {
+      "quote": 122,
+      "line": 1159,
+      "speaker": null,
+      "opening": "“Worse?”"
+    },
+    {
+      "quote": 123,
+      "line": 1161,
+      "speaker": null,
+      "opening": "“More difficult to accept.”"
+    },
+    {
+      "quote": 124,
+      "line": 1165,
+      "speaker": null,
+      "opening": "“At least you honest now.”"
+    },
+    {
+      "quote": 125,
+      "line": 1171,
+      "speaker": null,
+      "opening": "“Captain. Commander Orrin Pike. Campus patrol.”"
+    },
+    {
+      "quote": 126,
+      "line": 1173,
+      "speaker": null,
+      "opening": "“Sit down, Commander.”"
+    },
+    {
+      "quote": 127,
+      "line": 1175,
+      "speaker": null,
+      "opening": "“I'd be honored.”"
+    },
+    {
+      "quote": 128,
+      "line": 1181,
+      "speaker": null,
+      "opening": "“What lower facilities?”"
+    },
+    {
+      "quote": 129,
+      "line": 1185,
+      "speaker": null,
+      "opening": "“A detention and research annex. Established before the"
+    },
+    {
+      "quote": 130,
+      "line": 1187,
+      "speaker": null,
+      "opening": "“Detention for who?”"
+    },
+    {
+      "quote": 131,
+      "line": 1189,
+      "speaker": null,
+      "opening": "“People whose powers present unusual risks.”"
+    },
+    {
+      "quote": 132,
+      "line": 1191,
+      "speaker": null,
+      "opening": "“Charged with what?”"
+    },
+    {
+      "quote": 133,
+      "line": 1201,
+      "speaker": null,
+      "opening": "“The four men from your hall never reached"
+    },
+    {
+      "quote": 134,
+      "line": 1209,
+      "speaker": null,
+      "opening": "“I thought you should know.”"
+    },
+    {
+      "quote": 135,
+      "line": 1213,
+      "speaker": null,
+      "opening": "“Commander, nigga, you just earned yourself a very"
+    }
+  ]
+}

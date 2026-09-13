@@ -1,0 +1,859 @@
+{
+  "chapter_id": "b01-c14",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 142,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 8024,
+      "speaker": null,
+      "opening": "“Get my good side,”"
+    },
+    {
+      "quote": 2,
+      "line": 8030,
+      "speaker": null,
+      "opening": "“You always gotta do that?”"
+    },
+    {
+      "quote": 3,
+      "line": 8032,
+      "speaker": null,
+      "opening": "“Look good?”"
+    },
+    {
+      "quote": 4,
+      "line": 8034,
+      "speaker": null,
+      "opening": "“Make a fucking scene.”"
+    },
+    {
+      "quote": 5,
+      "line": 8036,
+      "speaker": null,
+      "opening": "“You dragged me out of one.”"
+    },
+    {
+      "quote": 6,
+      "line": 8048,
+      "speaker": null,
+      "opening": "“Sit,”"
+    },
+    {
+      "quote": 7,
+      "line": 8052,
+      "speaker": null,
+      "opening": "“Shawna.”"
+    },
+    {
+      "quote": 8,
+      "line": 8054,
+      "speaker": null,
+      "opening": "“Give me a cigarette.”"
+    },
+    {
+      "quote": 9,
+      "line": 8058,
+      "speaker": null,
+      "opening": "“I could've killed that nigga,”"
+    },
+    {
+      "quote": 10,
+      "line": 8062,
+      "speaker": null,
+      "opening": "“Nigga, you tried.”"
+    },
+    {
+      "quote": 11,
+      "line": 8064,
+      "speaker": null,
+      "opening": "“Nigga ran.”"
+    },
+    {
+      "quote": 12,
+      "line": 8066,
+      "speaker": null,
+      "opening": "“My nigga's coming back.”"
+    },
+    {
+      "quote": 13,
+      "line": 8070,
+      "speaker": null,
+      "opening": "“They always come back for the money.”"
+    },
+    {
+      "quote": 14,
+      "line": 8072,
+      "speaker": null,
+      "opening": "“Then put me outside and see.”"
+    },
+    {
+      "quote": 15,
+      "line": 8078,
+      "speaker": null,
+      "opening": "“You think that nigga loves you?”"
+    },
+    {
+      "quote": 16,
+      "line": 8082,
+      "speaker": null,
+      "opening": "“I asked you something.”"
+    },
+    {
+      "quote": 17,
+      "line": 8084,
+      "speaker": null,
+      "opening": "“I heard you.”"
+    },
+    {
+      "quote": 18,
+      "line": 8086,
+      "speaker": null,
+      "opening": "“That nigga loves winning. You're what he stole."
+    },
+    {
+      "quote": 19,
+      "line": 8090,
+      "speaker": null,
+      "opening": "“He begged, you know,”"
+    },
+    {
+      "quote": 20,
+      "line": 8094,
+      "speaker": null,
+      "opening": "“Dante. That nigga begged us to look after"
+    },
+    {
+      "quote": 21,
+      "line": 8096,
+      "speaker": null,
+      "opening": "“Us.”"
+    },
+    {
+      "quote": 22,
+      "line": 8102,
+      "speaker": null,
+      "opening": "“You were standing there?”"
+    },
+    {
+      "quote": 23,
+      "line": 8104,
+      "speaker": null,
+      "opening": "“I didn't say that.”"
+    },
+    {
+      "quote": 24,
+      "line": 8106,
+      "speaker": null,
+      "opening": "“Then who told you?”"
+    },
+    {
+      "quote": 25,
+      "line": 8110,
+      "speaker": null,
+      "opening": "“Everybody knew what happened.”"
+    },
+    {
+      "quote": 26,
+      "line": 8112,
+      "speaker": null,
+      "opening": "“I didn't.”"
+    },
+    {
+      "quote": 27,
+      "line": 8116,
+      "speaker": null,
+      "opening": "“What did he call me?”"
+    },
+    {
+      "quote": 28,
+      "line": 8118,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 29,
+      "line": 8120,
+      "speaker": null,
+      "opening": "“When he begged. What name did he use?”"
+    },
+    {
+      "quote": 30,
+      "line": 8122,
+      "speaker": null,
+      "opening": "“Your fucking name.”"
+    },
+    {
+      "quote": 31,
+      "line": 8124,
+      "speaker": null,
+      "opening": "“Which one?”"
+    },
+    {
+      "quote": 32,
+      "line": 8126,
+      "speaker": null,
+      "opening": "“Shawna, I don't remember every—”"
+    },
+    {
+      "quote": 33,
+      "line": 8128,
+      "speaker": null,
+      "opening": "“Dante called me Trouble.”"
+    },
+    {
+      "quote": 34,
+      "line": 8132,
+      "speaker": null,
+      "opening": "“Miss Trouble if he was happy. Mrs. Trouble"
+    },
+    {
+      "quote": 35,
+      "line": 8136,
+      "speaker": null,
+      "opening": "“Nigga carried it like flowers,”"
+    },
+    {
+      "quote": 36,
+      "line": 8140,
+      "speaker": null,
+      "opening": "“You don't know how he talked to me.”"
+    },
+    {
+      "quote": 37,
+      "line": 8142,
+      "speaker": null,
+      "opening": "“I know what he was.”"
+    },
+    {
+      "quote": 38,
+      "line": 8144,
+      "speaker": null,
+      "opening": "“Then talk about that. Talk about your dead"
+    },
+    {
+      "quote": 39,
+      "line": 8148,
+      "speaker": null,
+      "opening": "“You keep making him a saint.”"
+    },
+    {
+      "quote": 40,
+      "line": 8150,
+      "speaker": null,
+      "opening": "“No. I'm remembering my husband. That nigga stole"
+    },
+    {
+      "quote": 41,
+      "line": 8154,
+      "speaker": null,
+      "opening": "“Tell me something I don't fucking know.”"
+    },
+    {
+      "quote": 42,
+      "line": 8156,
+      "speaker": null,
+      "opening": "“That nigga Dante said the same shit,”"
+    },
+    {
+      "quote": 43,
+      "line": 8156,
+      "speaker": null,
+      "opening": "“A house. A different life. Music. That nigga"
+    },
+    {
+      "quote": 44,
+      "line": 8160,
+      "speaker": null,
+      "opening": "“That nigga was my husband.”"
+    },
+    {
+      "quote": 45,
+      "line": 8162,
+      "speaker": null,
+      "opening": "“I paid for the wedding.”"
+    },
+    {
+      "quote": 46,
+      "line": 8164,
+      "speaker": null,
+      "opening": "“You paid for the room.”"
+    },
+    {
+      "quote": 47,
+      "line": 8166,
+      "speaker": null,
+      "opening": "“I paid for everything.”"
+    },
+    {
+      "quote": 48,
+      "line": 8168,
+      "speaker": null,
+      "opening": "“Then you should've kept the receipts. Maybe the"
+    },
+    {
+      "quote": 49,
+      "line": 8176,
+      "speaker": null,
+      "opening": "“You used to know how to talk to"
+    },
+    {
+      "quote": 50,
+      "line": 8178,
+      "speaker": null,
+      "opening": "“I used to need you to stop talking.”"
+    },
+    {
+      "quote": 51,
+      "line": 8184,
+      "speaker": null,
+      "opening": "“He'll see you touching me,”"
+    },
+    {
+      "quote": 52,
+      "line": 8186,
+      "speaker": null,
+      "opening": "“That's the point.”"
+    },
+    {
+      "quote": 53,
+      "line": 8188,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 54,
+      "line": 8194,
+      "speaker": null,
+      "opening": "“You wearing it now?”"
+    },
+    {
+      "quote": 55,
+      "line": 8198,
+      "speaker": null,
+      "opening": "“Wearing what?”"
+    },
+    {
+      "quote": 56,
+      "line": 8200,
+      "speaker": null,
+      "opening": "“All that money, and you still want somebody"
+    },
+    {
+      "quote": 57,
+      "line": 8206,
+      "speaker": null,
+      "opening": "“Frost?”"
+    },
+    {
+      "quote": 58,
+      "line": 8216,
+      "speaker": null,
+      "opening": "“What do you mean arrested?”"
+    },
+    {
+      "quote": 59,
+      "line": 8224,
+      "speaker": null,
+      "opening": "“Knox said what?”"
+    },
+    {
+      "quote": 60,
+      "line": 8228,
+      "speaker": null,
+      "opening": "“My captain?”"
+    },
+    {
+      "quote": 61,
+      "line": 8232,
+      "speaker": null,
+      "opening": "“Shut up.”"
+    },
+    {
+      "quote": 62,
+      "line": 8234,
+      "speaker": null,
+      "opening": "“I'm just wondering which nigga finally made your"
+    },
+    {
+      "quote": 63,
+      "line": 8240,
+      "speaker": null,
+      "opening": "“You don't have to stand in here,”"
+    },
+    {
+      "quote": 64,
+      "line": 8244,
+      "speaker": null,
+      "opening": "“It's my job.”"
+    },
+    {
+      "quote": 65,
+      "line": 8246,
+      "speaker": null,
+      "opening": "“Nigga, your job's turning into a funeral.”"
+    },
+    {
+      "quote": 66,
+      "line": 8266,
+      "speaker": null,
+      "opening": "“Where's the outside door?”"
+    },
+    {
+      "quote": 67,
+      "line": 8268,
+      "speaker": null,
+      "opening": "“Two floors,”"
+    },
+    {
+      "quote": 68,
+      "line": 8268,
+      "speaker": null,
+      "opening": "“But they won't let us—”"
+    },
+    {
+      "quote": 69,
+      "line": 8270,
+      "speaker": null,
+      "opening": "“Get him up.”"
+    },
+    {
+      "quote": 70,
+      "line": 8276,
+      "speaker": null,
+      "opening": "“Shawna!”"
+    },
+    {
+      "quote": 71,
+      "line": 8280,
+      "speaker": null,
+      "opening": "“Nigga, if you want to help, get his"
+    },
+    {
+      "quote": 72,
+      "line": 8284,
+      "speaker": null,
+      "opening": "“You two. Go.”"
+    },
+    {
+      "quote": 73,
+      "line": 8288,
+      "speaker": null,
+      "opening": "“Go!”"
+    },
+    {
+      "quote": 74,
+      "line": 8294,
+      "speaker": null,
+      "opening": "“You made me run.”"
+    },
+    {
+      "quote": 75,
+      "line": 8296,
+      "speaker": null,
+      "opening": "“You should try it more.”"
+    },
+    {
+      "quote": 76,
+      "line": 8300,
+      "speaker": null,
+      "opening": "“Think you're him now?”"
+    },
+    {
+      "quote": 77,
+      "line": 8304,
+      "speaker": null,
+      "opening": "“Nigga, I know exactly who I am. That's"
+    },
+    {
+      "quote": 78,
+      "line": 8318,
+      "speaker": null,
+      "opening": "“I'm sorry,”"
+    },
+    {
+      "quote": 79,
+      "line": 8320,
+      "speaker": null,
+      "opening": "“Then get better at it.”"
+    },
+    {
+      "quote": 80,
+      "line": 8328,
+      "speaker": null,
+      "opening": "“You get one more fucking idea—”"
+    },
+    {
+      "quote": 81,
+      "line": 8332,
+      "speaker": null,
+      "opening": "“I got several. You're gonna need a longer"
+    },
+    {
+      "quote": 82,
+      "line": 8342,
+      "speaker": null,
+      "opening": "“What my nigga would've done,”"
+    },
+    {
+      "quote": 83,
+      "line": 8342,
+      "speaker": null,
+      "opening": "“Only in a better dress.”"
+    },
+    {
+      "quote": 84,
+      "line": 8347,
+      "speaker": null,
+      "opening": "“It's the stone,”"
+    },
+    {
+      "quote": 85,
+      "line": 8349,
+      "speaker": null,
+      "opening": "“Nigga, tell me you sure.”"
+    },
+    {
+      "quote": 86,
+      "line": 8351,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 87,
+      "line": 8353,
+      "speaker": null,
+      "opening": "“Nigga, we were sure at the party.”"
+    },
+    {
+      "quote": 88,
+      "line": 8357,
+      "speaker": null,
+      "opening": "“You were.”"
+    },
+    {
+      "quote": 89,
+      "line": 8361,
+      "speaker": null,
+      "opening": "“Tell me,”"
+    },
+    {
+      "quote": 90,
+      "line": 8367,
+      "speaker": null,
+      "opening": "“Nigga changed the setting on the original. Put"
+    },
+    {
+      "quote": 91,
+      "line": 8369,
+      "speaker": null,
+      "opening": "“Nigga, you can read forty million through my"
+    },
+    {
+      "quote": 92,
+      "line": 8371,
+      "speaker": null,
+      "opening": "“I can tell you he didn't do a"
+    },
+    {
+      "quote": 93,
+      "line": 8375,
+      "speaker": null,
+      "opening": "“I saw the ring at the gala. Only"
+    },
+    {
+      "quote": 94,
+      "line": 8379,
+      "speaker": null,
+      "opening": "“The nigga kept that part.”"
+    },
+    {
+      "quote": 95,
+      "line": 8381,
+      "speaker": null,
+      "opening": "“Because it's gold?”"
+    },
+    {
+      "quote": 96,
+      "line": 8383,
+      "speaker": null,
+      "opening": "“Because that nigga's an idiot.”"
+    },
+    {
+      "quote": 97,
+      "line": 8387,
+      "speaker": null,
+      "opening": "“Finally, some good fucking news.”"
+    },
+    {
+      "quote": 98,
+      "line": 8391,
+      "speaker": null,
+      "opening": "“He has her stone under his finger,”"
+    },
+    {
+      "quote": 99,
+      "line": 8395,
+      "speaker": null,
+      "opening": "“We'll get it.”"
+    },
+    {
+      "quote": 100,
+      "line": 8399,
+      "speaker": null,
+      "opening": "“Will we, my nigga? Say the whole promise.”"
+    },
+    {
+      "quote": 101,
+      "line": 8401,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 102,
+      "line": 8403,
+      "speaker": null,
+      "opening": "“If that nigga says her or the diamond?”"
+    },
+    {
+      "quote": 103,
+      "line": 8405,
+      "speaker": null,
+      "opening": "“Her.”"
+    },
+    {
+      "quote": 104,
+      "line": 8409,
+      "speaker": null,
+      "opening": "“If that nigga says burn the letter?”"
+    },
+    {
+      "quote": 105,
+      "line": 8411,
+      "speaker": null,
+      "opening": "“I burn it.”"
+    },
+    {
+      "quote": 106,
+      "line": 8413,
+      "speaker": null,
+      "opening": "“If he says give him back the proof"
+    },
+    {
+      "quote": 107,
+      "line": 8415,
+      "speaker": null,
+      "opening": "“Then he gets it. You want me to"
+    },
+    {
+      "quote": 108,
+      "line": 8419,
+      "speaker": null,
+      "opening": "“Dante said something very much like that.”"
+    },
+    {
+      "quote": 109,
+      "line": 8423,
+      "speaker": null,
+      "opening": "“Nigga, I'm not Dante.”"
+    },
+    {
+      "quote": 110,
+      "line": 8425,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 111,
+      "line": 8427,
+      "speaker": null,
+      "opening": "“Then stop putting that nigga between me and"
+    },
+    {
+      "quote": 112,
+      "line": 8433,
+      "speaker": null,
+      "opening": "“No. I love her. Right now. Me. I'm"
+    },
+    {
+      "quote": 113,
+      "line": 8439,
+      "speaker": null,
+      "opening": "“Then give her something to answer,”"
+    },
+    {
+      "quote": 114,
+      "line": 8455,
+      "speaker": null,
+      "opening": "“She sent me six of those,”"
+    },
+    {
+      "quote": 115,
+      "line": 8455,
+      "speaker": null,
+      "opening": "“Bitch got the bathroom ceiling in one.”"
+    },
+    {
+      "quote": 116,
+      "line": 8459,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 117,
+      "line": 8471,
+      "speaker": null,
+      "opening": "“Nigga thinks he's in a love song.”"
+    },
+    {
+      "quote": 118,
+      "line": 8473,
+      "speaker": null,
+      "opening": "“Then don't stand in the chorus.”"
+    },
+    {
+      "quote": 119,
+      "line": 8479,
+      "speaker": null,
+      "opening": "“Tell me you were lying to that nigga,”"
+    },
+    {
+      "quote": 120,
+      "line": 8483,
+      "speaker": null,
+      "opening": "“About what?”"
+    },
+    {
+      "quote": 121,
+      "line": 8485,
+      "speaker": null,
+      "opening": "“All of it.”"
+    },
+    {
+      "quote": 122,
+      "line": 8487,
+      "speaker": null,
+      "opening": "“That's a lot of lying.”"
+    },
+    {
+      "quote": 123,
+      "line": 8489,
+      "speaker": null,
+      "opening": "“You lied to Valentino.”"
+    },
+    {
+      "quote": 124,
+      "line": 8493,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 125,
+      "line": 8495,
+      "speaker": null,
+      "opening": "“You lied to me.”"
+    },
+    {
+      "quote": 126,
+      "line": 8497,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 127,
+      "line": 8499,
+      "speaker": null,
+      "opening": "“Then tell me you lied to that nigga.”"
+    },
+    {
+      "quote": 128,
+      "line": 8505,
+      "speaker": null,
+      "opening": "“I told Aiden I wasn't scared.”"
+    },
+    {
+      "quote": 129,
+      "line": 8509,
+      "speaker": null,
+      "opening": "“There you go.”"
+    },
+    {
+      "quote": 130,
+      "line": 8511,
+      "speaker": null,
+      "opening": "“I told him I didn't think about Dante"
+    },
+    {
+      "quote": 131,
+      "line": 8515,
+      "speaker": null,
+      "opening": "“And?”"
+    },
+    {
+      "quote": 132,
+      "line": 8517,
+      "speaker": null,
+      "opening": "“I told him I didn't like that stupid"
+    },
+    {
+      "quote": 133,
+      "line": 8519,
+      "speaker": null,
+      "opening": "“You see? You see what I'm saying?”"
+    },
+    {
+      "quote": 134,
+      "line": 8523,
+      "speaker": null,
+      "opening": "“I told him I could live without him.”"
+    },
+    {
+      "quote": 135,
+      "line": 8529,
+      "speaker": null,
+      "opening": "“That was a lie.”"
+    },
+    {
+      "quote": 136,
+      "line": 8535,
+      "speaker": null,
+      "opening": "“Get up.”"
+    },
+    {
+      "quote": 137,
+      "line": 8537,
+      "speaker": null,
+      "opening": "“Where?”"
+    },
+    {
+      "quote": 138,
+      "line": 8539,
+      "speaker": null,
+      "opening": "“You wanna see your nigga so bad, let's"
+    },
+    {
+      "quote": 139,
+      "line": 8543,
+      "speaker": null,
+      "opening": "“Taking this too,”"
+    },
+    {
+      "quote": 140,
+      "line": 8553,
+      "speaker": null,
+      "opening": "“Call everybody,”"
+    },
+    {
+      "quote": 141,
+      "line": 8557,
+      "speaker": null,
+      "opening": "“Everybody?”"
+    },
+    {
+      "quote": 142,
+      "line": 8559,
+      "speaker": null,
+      "opening": "“Everybody who ever called me brother.”"
+    }
+  ]
+}

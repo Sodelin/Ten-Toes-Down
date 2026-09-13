@@ -1,0 +1,383 @@
+A nigga can stand alone and look magnificent. I owned mirrors. I had conducted research. But that morning I stepped out of June's garage and found every car waiting in the sunrise, and none of those niggas had asked whether I still wanted company.
+
+Tank stood beside the Mercedes. Cassius leaned against his racing car. Victor sat on a police truck's hood eating a sandwich with the concentration of a nigga defusing hunger. Roland stayed in the shade, still adjusting to breakfasts nobody tried to shoot him through.
+
+"Brother," Tank called. "You ready?"
+
+"Nigga, look at me."
+
+"I am. You standing like the sun owes you money."
+
+"The nigga late."
+
+Cassius checked his watch. "Dawn has had several warnings."
+
+Victor swallowed. "Confiscate the afternoon."
+
+My niggas. Half the world had tried to kill us and these motherfuckers had still come outside ready to make the day difficult on purpose.
+
+Shawna emerged in white trousers, black boots, blue scarf. My spare badge shone inside her jacket. Knox had given it to her after the arena, in front of every officer who needed reminding why their captain remained available for duty.
+
+"They promoting you?" I asked.
+
+"They supervising you."
+
+"Nigga, I married an internal investigation."
+
+She kissed me.
+
+"And you keep volunteering evidence."
+
+Tank turned away.
+
+"Every fucking sunrise. These niggas gotta discover marriage all over again."
+
+Rosa took his hand. "You're next."
+
+"I'm prepared."
+
+"You cried at a photograph of flowers."
+
+"Nigga, the blue was exactly right."
+
+Rosa kissed his knuckles. He stopped defending himself. Behind the buses, workers started laughing with us, some without hearing the joke. Good. Let the morning belong to that for a minute.
+
+Vega checked my shoulder. The bruise had spread. She moved my arm; I tried to make the face of a man enjoying a routine social visit.
+
+"No hanging off trains today."
+
+"Aircraft?"
+
+"Aiden."
+
+"Nigga, you issued a specific restriction. I'm being an attentive patient."
+
+She looked at Shawna.
+
+"Don't let him be funny at the expense of having a skeleton."
+
+"Ordinary greatness only," my wife promised.
+
+"There is no ordinary setting."
+
+"Doctor, my nigga, I'm right here."
+
+"I know. That's where I intend to keep your shoulder."
+
+She let go. I lowered my arm carefully this time, and Shawna saw me do it. Neither woman applauded. Some improvements a nigga has to survive without an audience.
+
+Before we left, Marcellus opened the Crown's case in the garage office. Vesper stood beside him with the ledger copies. Magnolia and Bernard watched from the door. We were not carrying the Crown into the first gunfight. The nigga who invented crowns had already made them inconvenient enough without expecting a man to wear one while driving under fire.
+
+"It stays here until we know the road," I said.
+
+Marcellus nodded.
+
+"I am relieved you possess at least one sensible instinct."
+
+"Nigga, I got several. They take shifts."
+
+Vesper folded the pages into a waterproof folio.
+
+"These come with me. Zero has commanders who believe their families are protected by his money. They deserve to see what he has actually promised them."
+
+"Paper won't stop a bullet," Tank said.
+
+"No," she replied. "But sometimes the man holding the gun stops himself."
+
+Roland looked at her.
+
+He did not answer. He did not need to. Yesterday the nigga had been proof of the problem. Today he was standing in our garage becoming proof of something else.
+
+We left forty-seven prize cars behind with guards, workers, and the people who needed a safe route out. We took the cars we knew, the drivers we trusted, and enough friends to make the desert road look like an event somebody should have charged admission for.
+
+The Last Word led.
+
+Tank followed.
+
+Behind him came Cassius, Inez, Knox's police convoy, and the trucks carrying our volunteers. Vesper rode with Mercedes and Porsche. Victor and Seraphine traveled with Liora toward the old airship berth on a separate road. Their job was above us. Mine was to get through the gorge without becoming its newest historical feature.
+
+Roland sat in our rear seat.
+
+Shawna watched him in the mirror.
+
+"You sure about the road?"
+
+"I led the emperor through it six times."
+
+"Nigga, that's not the part I'm asking."
+
+He met her eyes.
+
+"I know."
+
+After a moment she looked back at the road.
+
+That was as much trust as he had earned. The nigga accepted it without asking for applause.
+
+The gorge opened between red cliffs. A ceremonial arch marked its entrance. Above it, Zero's face had been carved into the rock, looking down at everybody who passed beneath his chin.
+
+Tank came over the radio.
+
+"This nigga got a mountain face."
+
+"Bad likeness," I said.
+
+"How?"
+
+"Rock got more warmth."
+
+Shawna laughed. Roland tried not to. I saw the nigga fail in the mirror and decided he was recovering nicely.
+
+We passed beneath the arch.
+
+Halfway through the gorge, the road widened into a circular square surrounded by statues of old rulers. A fountain stood dry in the middle. On the far side, a gold gate blocked the next stretch of road.
+
+A woman in a black officer's coat waited before it with twenty guards.
+
+She had close-cropped hair, dark skin, and a calm face that had not yet learned whether we were a threat or a rumor. A scar crossed one knuckle of the hand resting on her holster.
+
+Roland leaned forward.
+
+"Captain Noor Vale. Thirty-eight. No relation to Marcellus. She commands the gorge."
+
+"She know you?"
+
+"Yes."
+
+"She like you?"
+
+"Less lately."
+
+"Nigga, join the club."
+
+I stopped the car and got out.
+
+Noor looked at my badge.
+
+"Captain Aiden."
+
+"Captain Noor."
+
+Her eyes moved to Roland as he stepped out behind me.
+
+"Ruin."
+
+The nigga flinched like his name had acquired a blade.
+
+"Noor."
+
+"You alive?"
+
+"Unexpectedly."
+
+She looked at me again.
+
+"Your reputation is growing tiresome. Every man I question begins by telling me what an extraordinary driver you are."
+
+"Nigga, question better witnesses. Some of them seen me sing."
+
+One of her guards laughed.
+
+Noor did not turn around. The nigga stopped anyway.
+
+"The gate remains closed."
+
+Vesper stepped out of the black car.
+
+"Then speak with me while it is closed."
+
+Noor's expression changed. She knew Vesper. More than knew. I saw respect there, and an old resentment that had survived long enough to grow familiar.
+
+"Your Majesty."
+
+"My father knew your mother."
+
+"My mother grew old waiting for his promises."
+
+"Then you should read what his successor has promised you."
+
+Vesper opened the folio.
+
+Noor did not reach for it immediately. She looked at the guards, at our convoy, at the cliffs above us. A captain counting everything a wrong choice might cost.
+
+Then she took the first page.
+
+I stood beside Shawna while she read.
+
+The desert wind moved through the square. Somebody's engine idled too loudly. Tank reached through his window and turned it off. For once the nigga did not need a joke to know what kind of moment we were in.
+
+Noor read the second page.
+
+Her face went still.
+
+"My mother's house," she said.
+
+Vesper nodded.
+
+"Signed over three months ago. The pension account was emptied before that."
+
+"He told me—"
+
+"I know."
+
+Nigga, I had seen men realize a lover did not love them. I had seen women discover the man they married had been keeping an exit inside his promises. This was something close to both. Noor had built her life around a place that had already sold the ground beneath her family.
+
+She handed the pages back.
+
+"I cannot open the gate on one document."
+
+"Don't," I said.
+
+She looked at me.
+
+"Call her."
+
+"My mother?"
+
+"Nigga, she got a phone? Ask what happened at the house. Ask who came. Then look at the signature again."
+
+Noor stood very still.
+
+Then she took out her phone.
+
+The first shot came from the cliff before the call connected.
+
+A guard beside Noor fell against the fountain. Another shot struck the stone by Vesper's shoulder. I grabbed Shawna and pulled her behind the Last Word. Tank was already out of the Mercedes, firing toward the ridge.
+
+Noor stared upward.
+
+"Those are imperial guns!"
+
+"Nigga, your emperor impatient!" I shouted.
+
+The gold gate began closing its smaller service door. Men on the wall above it turned their weapons toward the square.
+
+Not just us.
+
+Noor's guards too.
+
+Her face changed.
+
+She drew her pistol and fired at the wall.
+
+"Cover the convoy!"
+
+Her people obeyed.
+
+Nigga, there are choices a man can write down before you understand them. There are others he writes in bullets where no loyal officer can pretend she has not read.
+
+We fought beneath Zero's mountain face while his own captain covered my wife.
+
+I fired toward the wall, moved behind the fountain, and helped the wounded guard crawl into cover. He was conscious, one hand pressed to his upper arm. His eyes found my badge.
+
+"I was supposed to stop you."
+
+"Nigga, you did. We having a whole conversation."
+
+He laughed through clenched teeth.
+
+Shawna reached him with a dressing from the car. I covered them while she worked. Above us, the cliff shook.
+
+A deep crack ran through the carved emperor's face.
+
+The gunfire had struck an old support beneath one of the decorative ledges. Stone began falling onto the road behind the convoy.
+
+"Everybody forward!" Knox shouted.
+
+The gold gate remained shut.
+
+Behind us, the gorge was collapsing.
+
+Tank looked from the gate to the falling rock.
+
+"Brother!"
+
+I saw the dry fountain. The sloping pedestal beneath the central statue. The low wall beside the gate. I saw June watching the same line from the passenger window of Adrian's coupe.
+
+She shook her head.
+
+Then she grinned.
+
+Nigga, that was permission from the engineer of my bad ideas.
+
+I ran back to the Last Word.
+
+Shawna caught my sleeve.
+
+"No lightning."
+
+"No lightning."
+
+"Promise."
+
+"Baby, this one runs on gasoline and disrespect."
+
+She let go.
+
+I drove across the square, up the fountain's broad base, and onto the sloping pedestal. Stone scraped beneath the car. The Last Word climbed, engine roaring, then launched over the low wall beside the gate.
+
+For one second I was above the guards.
+
+Nigga, every man below looked up at me like the answer to a prayer he had phrased very badly.
+
+The car landed on the other side, spun, and struck the inner gatehouse doors.
+
+Wood burst inward.
+
+I got out with my gun raised.
+
+The two men inside looked at the car, then at me.
+
+"Nigga," one said.
+
+"Correct," I replied. "Open the gate."
+
+They opened it.
+
+Our convoy poured through as the carved face above the gorge cracked apart.
+
+Zero's stone nose struck the empty fountain behind us with enough force to throw dust over the entire square.
+
+Tank drove past me, laughing so hard Rosa had to tell him where the road was.
+
+"You broke that nigga's nose from inside a car!"
+
+"I didn't even touch it!"
+
+"Your greatness got range!"
+
+Noor brought her guards through last. Her wounded man lay in Knox's vehicle with Shawna beside him. The captain stopped in front of me and held out her hand.
+
+"I am opening the second gate."
+
+I shook it.
+
+"Appreciate you."
+
+"I have not joined your army."
+
+"Nigga, I didn't ask you to. Just don't shoot my people."
+
+She looked at the convoy, at Roland helping her men out of the dust, at Vesper holding the folio against her chest.
+
+"That," Noor said, "I can promise."
+
+The second gate opened onto a high road above the desert.
+
+Beyond it, the inner fortress rose black against the sun. Airships moved around its towers. Guns gleamed along the walls. Zero's last city waited behind another hundred beautiful ways to die.
+
+Shawna came back to me, dust on her face, blood on one sleeve that belonged to the guard she had helped.
+
+"You kept the promise," she said.
+
+"No lightning."
+
+"Still a ridiculous amount of flying."
+
+"Nigga, I should've read the small print."
+
+She kissed me hard enough to make the bruised shoulder temporarily somebody else's problem.
+
+Behind us, the convoy began cheering.
+
+Every nigga I had brought with me was still coming.

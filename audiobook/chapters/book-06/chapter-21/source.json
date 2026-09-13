@@ -1,0 +1,18 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": 6,
+  "chapter": 21,
+  "chapter_title": "21. Something Old, Something Loud",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-06.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-06.md",
+  "source_sha256": "c374ee3a893bd093b455f8b236b55e7f98c84bd73627c7ffd4045e545b7d8c0b",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 8451,
+    "end_line": 8805,
+    "sha256": "4b8984c1fce2fe305d7a9f81133af616f556366fcb5f3fb1622a5a64cacc8b01"
+  },
+  "spoken_text_policy": "Verbatim chapter body. Headings are track metadata. Printed quotation delimiters, paired Markdown emphasis and scene separators are formatting."
+}

@@ -1,0 +1,423 @@
+Magnus took his shirt off and the crowd cheered.
+
+I took mine off and the crowd changed religions.
+
+"Nigga," Tank said from the corner, "put some of that away. My woman trying to watch respectfully."
+
+Rosa slapped his arm.
+
+"Your woman is engaged, not blind."
+
+Shawna sat at the edge of the royal platform with my jacket across her lap and a smile so proud it made every bruise in my body feel like it had applied for a better job.
+
+Two old fighters stood near the judges, comparing the size of me and Magnus with the confidence of niggas who weren't about to get hit by either one.
+
+"The northern king is heavier," one said.
+
+"That nigga came out a Lamborghini under a falling gate," the other told him.
+
+"Weight matters."
+
+"Nigga, so does being that nigga."
+
+I looked toward them.
+
+They both straightened.
+
+"You got a prediction?" I asked.
+
+The first fighter opened his mouth.
+
+His friend elbowed him.
+
+"The captain wins."
+
+"Nigga, you changed that fast."
+
+"New evidence arrived."
+
+Tank laughed beside me.
+
+"The evidence took its shirt off."
+
+Shawna shook her head, smiling into my jacket.
+
+Magnus heard the exchange and came over to stand beside me. Now the two old niggas had both of us looking at them, and their expertise began sweating.
+
+"Perhaps," the first one said carefully, "a draw."
+
+Magnus laughed.
+
+"He is afraid of hurting our feelings."
+
+"Nigga, he should be afraid of hurting the odds," I told him. "Mercedes and Porsche got money moving."
+
+From the front row, Porsche lifted a fistful of slips.
+
+"A whole lot of fucking money!"
+
+The crowd roared.
+
+Magnus looked at me with a grin.
+
+"You make people believe very easily."
+
+I looked at Shawna.
+
+At Tank.
+
+At all those niggas who had already seen what happened when I promised to come back.
+
+"Nah," I said. "I make a nigga remember."
+
+The stone ring stood four feet above the arena floor. No ropes. No soft corners. A circle carved into white stone and surrounded by men who had paid enough to believe they deserved a close view of anything.
+
+Bastien kept the round.
+
+Gault stood beside him as second judge.
+
+Zero had objected to both appointments.
+
+The houses had applauded until he ran out of room to keep objecting politely.
+
+Magnus came toward me with his hands open.
+
+"No anger," he said.
+
+"Nigga, you gave me a horse. We practically related."
+
+He grinned.
+
+Then he picked me up.
+
+Not tried.
+
+Picked me up like a man moving a chair he respected but needed elsewhere.
+
+The crowd shouted. I caught his shoulder, twisted, and landed on my feet with my back against his chest. He locked his arms around me. My ribs complained. My legs pushed. We moved across the stone together, two stubborn men trying to convince the same piece of ground it belonged to different people.
+
+"You heavy," he said.
+
+"Nigga, that's public expectation."
+
+I dropped my weight, turned, and sent him over my hip.
+
+He hit the stone hard enough to make the judges step back.
+
+Then the nigga laughed.
+
+Nigga got up laughing. I laughed with him. The niggas in the front row stared at both of us like we had misunderstood the part where men were supposed to hate each other before entertaining a crowd.
+
+I knew right then why I liked him. Some men enjoy winning. Some enjoy finding a person who makes them discover they still have more to do.
+
+Magnus came again, faster this time. I ducked his first grab, took the second against my shoulder, and felt the edge of the ring near my heel. No thunder. Nothing left I wanted to spend. Just breath, pain, and the woman watching me with her whole heart refusing to blink.
+
+He drove forward.
+
+I let him think he had me moving where he wanted.
+
+Then I changed where I was.
+
+His weight went past mine. I caught his arm, turned with him, and stopped an inch from throwing him off the platform headfirst.
+
+The crowd held its breath.
+
+Magnus looked down.
+
+Then up at me.
+
+I pulled him back onto the stone.
+
+"Nigga, I like my gifts alive."
+
+He sat down, breathing hard, and lifted one hand.
+
+"Yield."
+
+Bastien raised my arm.
+
+Magnus stood beside me and raised the other.
+
+Nigga, the arena had no idea which direction to cheer in, so it chose all of them.
+
+Drake entered before the applause ended.
+
+He wore no ceremonial robe. No smile. Just black trousers, dark gloves, and the expression of a man who had spent too long deciding my death would make his life simple again.
+
+"Weapons," he said.
+
+Bastien looked toward Rusk.
+
+Rusk consulted the old tournament articles, then looked as if he wanted to tear the entire scroll into a more reasonable shape.
+
+"The final challenger may request blades."
+
+Shawna stood.
+
+I looked at her.
+
+She stayed standing.
+
+"Baby," I said quietly.
+
+"I know."
+
+Nigga, that was all. She knew me. Knew I wasn't going to step away now. Knew loving a man didn't mean pretending the sharp part of his life was somebody else's problem.
+
+They brought two blades on a velvet cloth.
+
+I took mine.
+
+Drake took his and smiled for the first time all morning.
+
+"No car to hide in."
+
+"Nigga, you crashed yours trying to catch mine. Respect the vehicle."
+
+The bell rang.
+
+He came low and fast.
+
+Steel caught steel. The impact ran through my tired arm. I stepped back. He followed, pressing every advantage fatigue had given him. The crowd's noise faded. I could hear that nigga breathing. I could hear my own breath answering. Nigga, I knew exactly how much room stood between him and me, and I knew which beautiful woman was waiting for me to cross it.
+
+He cut my upper arm.
+
+A shallow line. Hot and immediate.
+
+Shawna didn't scream.
+
+That made me love her and hate the situation at the same time.
+
+I caught Drake's next strike, drove him sideways, and hit him with my shoulder. He stumbled. I advanced. For the first time he had to move away from me instead of arranging where I would retreat.
+
+"You tired," he said.
+
+"Nigga, you observant. We both gifted."
+
+He lunged.
+
+I turned the blade aside and struck him across the mouth with my free hand.
+
+The crowd shouted.
+
+He came back angry.
+
+I'd seen that before. In fighters. In kings. In men who couldn't believe another nigga was allowed to keep standing after they'd explained how important they were.
+
+Drake's knife flashed near my face.
+
+I moved just enough.
+
+Nigga wanted lightning. I gave him a tired man's last beautiful inch of room. That inch belonged to me, and the nigga could not have it.
+
+My blade struck his glove. His weapon fell and skittered across the stone.
+
+I stepped back.
+
+"Yield."
+
+He stared at me.
+
+Bastien raised his hand.
+
+"Colonel. You are disarmed."
+
+Drake looked toward Zero.
+
+The emperor did not move.
+
+Did not nod.
+
+Did not save him with a word.
+
+Nigga, there are men who will call you loyal right up until your loyalty needs something back.
+
+Drake reached into his boot.
+
+A second blade.
+
+Bastien shouted.
+
+He came at me with everything he had left.
+
+I met him.
+
+The whole arena seemed to stop around the two of us.
+
+Then Drake fell.
+
+No speech.
+
+No last clever thing.
+
+He lay on the stone with his hand open, and the man who had paid him to die watched from beneath a black canopy without standing.
+
+I stepped away, breathing hard.
+
+Bastien took the blade from my hand.
+
+Gault put his coat around my shoulders.
+
+For a moment nobody cheered.
+
+I was glad.
+
+Not because Drake had become a good man by losing.
+
+Because a dead nigga didn't need applause to prove I had survived him.
+
+Then Shawna came up the steps.
+
+She took my face in both hands and looked at the cut near my shoulder, the blood at my mouth, the exhaustion I couldn't make handsome enough to hide from her.
+
+"I'm here," I said.
+
+"I can see you."
+
+"Just making sure you liked the view."
+
+Her laugh broke in the middle.
+
+She kissed me anyway.
+
+The crowd rose slowly, the sound building from relief into something enormous.
+
+Rusk announced the winner.
+
+My name crossed the arena.
+
+Across the city.
+
+Across every little private room where a man had said I couldn't do it and was now deciding whether to pretend he'd meant somebody else.
+
+Zero stood.
+
+Two guards brought the counterfeit Crown toward the platform.
+
+Vesper stepped into their path.
+
+"No."
+
+The word carried.
+
+The guards stopped.
+
+Marcellus came forward with the real case. Bastien carried Eliane's red coat folded over one arm. Rusk held the house seals where the crowd could see them.
+
+Zero looked at Vesper.
+
+"You have forgotten your place."
+
+She stood straight.
+
+"I have remembered it."
+
+Marcellus opened both cases.
+
+The difference wasn't obvious from the far seats. It didn't need to be. The heads of the old houses came close enough to see the repaired setting, the aged marks, the stones their parents had described to them when the city still believed its ceremonies meant what they said.
+
+Orsini examined the real Crown.
+
+Then the copy.
+
+Then he looked at Zero.
+
+"You were going to give us a lie and keep the thing our names were pledged to."
+
+Zero's voice hardened.
+
+"Your names are pledged to order."
+
+"Nigga," I said, "you about to discover alphabetical ain't the only kind."
+
+A few people laughed nervously.
+
+Vesper took out a single page from the ledger.
+
+She didn't read every account. Didn't turn the arena into a lecture. She read the names of the dead king and prince. The date of the harbor fire. The payments made before it. Then she held up Eliane's letter and said the woman's name so clearly even the highest seats heard it.
+
+Bastien closed his eyes.
+
+When he opened them, the whole city was looking at him.
+
+"She tried to save them," he said.
+
+His voice was rough, but it reached.
+
+"He paid to make sure she failed."
+
+Zero turned toward his guards.
+
+They raised their weapons.
+
+So did Ardent's police.
+
+So did the house guards.
+
+Nigga, the arena became one long held breath with steel inside it.
+
+I stepped between the Crown and the emperor.
+
+My body hurt everywhere worth naming.
+
+I stood anyway.
+
+"You lost," I said.
+
+Zero looked at my wounded arm.
+
+At the men behind me.
+
+At Vesper, who did not look away this time.
+
+"A ceremony is not a kingdom."
+
+"Then why you so mad about the hat?"
+
+Nigga, they laughed straight in the emperor's face. Kings laughed. Guards laughed. One nigga under Zero's own canopy turned away too late to hide it. Zero looked around like somebody had stolen his favorite voice, and I knew the nigga would remember that sound longer than the fight.
+
+Rusk took the real Crown from Marcellus.
+
+Then he stopped and looked at Shawna.
+
+"Madame."
+
+She stepped forward.
+
+Nigga, I went down on one knee before anybody asked.
+
+The crowd saw it.
+
+The kings saw it.
+
+Zero saw the man who wouldn't bow to him kneel gladly before his own wife.
+
+Shawna placed the Crown of Midnight on my head.
+
+Seven points.
+
+Black diamonds.
+
+One blue stone catching the sky.
+
+Her fingers rested at my temples for a moment.
+
+"There," she whispered. "Now hold still and let them appreciate you."
+
+I stood.
+
+Nigga, they did.
+
+They appreciated me so loudly pigeons rose from the rooftops beyond the arena. Men struck their fists against their chests. Women threw flowers. Tank shouted until Rosa kissed him just to give his voice a break. Mercedes and Porsche climbed onto a bench and waved my banner like they had personally founded the west.
+
+Zero left beneath his black guards.
+
+The nigga had not surrendered. I knew it. Vesper knew it. Tank knew it and was already watching which cars carried that nigga away. But knowing a bad nigga planned to return did not make this crown any less mine right now.
+
+But he left while my wife stood beside me, while the real Crown shone above my face, while the city kept saying the name he had crossed out.
+
+Captain Aiden.
+
+King of Midnight.
+
+Nigga, both fit.

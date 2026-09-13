@@ -1,0 +1,703 @@
+{
+  "chapter_id": "b03-c04",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 116,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1387,
+      "speaker": null,
+      "opening": "“Nigga, they made your head public transportation.”"
+    },
+    {
+      "quote": 2,
+      "line": 1389,
+      "speaker": null,
+      "opening": "“About time the people rode in something great.”"
+    },
+    {
+      "quote": 3,
+      "line": 1393,
+      "speaker": null,
+      "opening": "“You charging for that?”"
+    },
+    {
+      "quote": 4,
+      "line": 1397,
+      "speaker": null,
+      "opening": "“Now we are.”"
+    },
+    {
+      "quote": 5,
+      "line": 1407,
+      "speaker": null,
+      "opening": "“Your wife bought me this,”"
+    },
+    {
+      "quote": 6,
+      "line": 1409,
+      "speaker": null,
+      "opening": "“She knows talent.”"
+    },
+    {
+      "quote": 7,
+      "line": 1413,
+      "speaker": null,
+      "opening": "“Eat.”"
+    },
+    {
+      "quote": 8,
+      "line": 1415,
+      "speaker": null,
+      "opening": "“I will.”"
+    },
+    {
+      "quote": 9,
+      "line": 1417,
+      "speaker": null,
+      "opening": "“Now.”"
+    },
+    {
+      "quote": 10,
+      "line": 1423,
+      "speaker": null,
+      "opening": "“You racing?”"
+    },
+    {
+      "quote": 11,
+      "line": 1425,
+      "speaker": null,
+      "opening": "“No. Doctor said another impact could tear the"
+    },
+    {
+      "quote": 12,
+      "line": 1427,
+      "speaker": null,
+      "opening": "“Nigga, listen to the doctor.”"
+    },
+    {
+      "quote": 13,
+      "line": 1429,
+      "speaker": null,
+      "opening": "“I am. I hate it.”"
+    },
+    {
+      "quote": 14,
+      "line": 1433,
+      "speaker": null,
+      "opening": "“Watch the third descent. There's a blind rise"
+    },
+    {
+      "quote": 15,
+      "line": 1435,
+      "speaker": null,
+      "opening": "“Anything else?”"
+    },
+    {
+      "quote": 16,
+      "line": 1439,
+      "speaker": null,
+      "opening": "“The green harbor cars have disappeared. Every one"
+    },
+    {
+      "quote": 17,
+      "line": 1441,
+      "speaker": null,
+      "opening": "“Fast workers.”"
+    },
+    {
+      "quote": 18,
+      "line": 1443,
+      "speaker": null,
+      "opening": "“Frightened workers.”"
+    },
+    {
+      "quote": 19,
+      "line": 1451,
+      "speaker": null,
+      "opening": "“Captain,”"
+    },
+    {
+      "quote": 20,
+      "line": 1451,
+      "speaker": null,
+      "opening": "“why is there footage of your patrol vehicle"
+    },
+    {
+      "quote": 21,
+      "line": 1453,
+      "speaker": null,
+      "opening": "“International waters.”"
+    },
+    {
+      "quote": 22,
+      "line": 1455,
+      "speaker": null,
+      "opening": "“It was on two boats.”"
+    },
+    {
+      "quote": 23,
+      "line": 1457,
+      "speaker": null,
+      "opening": "“International boats.”"
+    },
+    {
+      "quote": 24,
+      "line": 1461,
+      "speaker": null,
+      "opening": "“Did you save that driver?”"
+    },
+    {
+      "quote": 25,
+      "line": 1463,
+      "speaker": null,
+      "opening": "“Yes, ma'am.”"
+    },
+    {
+      "quote": 26,
+      "line": 1465,
+      "speaker": null,
+      "opening": "“Good. The department has received eleven marriage proposals,"
+    },
+    {
+      "quote": 27,
+      "line": 1467,
+      "speaker": null,
+      "opening": "“Keep the membership.”"
+    },
+    {
+      "quote": 28,
+      "line": 1469,
+      "speaker": null,
+      "opening": "“Already did.”"
+    },
+    {
+      "quote": 29,
+      "line": 1475,
+      "speaker": null,
+      "opening": "“Keep your people close,”"
+    },
+    {
+      "quote": 30,
+      "line": 1475,
+      "speaker": null,
+      "opening": "“Your badge gets attention. Attention can open a"
+    },
+    {
+      "quote": 31,
+      "line": 1477,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 32,
+      "line": 1479,
+      "speaker": null,
+      "opening": "“And Aiden?”"
+    },
+    {
+      "quote": 33,
+      "line": 1481,
+      "speaker": null,
+      "opening": "“Yes, ma'am?”"
+    },
+    {
+      "quote": 34,
+      "line": 1483,
+      "speaker": null,
+      "opening": "“Win the race.”"
+    },
+    {
+      "quote": 35,
+      "line": 1497,
+      "speaker": null,
+      "opening": "“You running the police car all month?”"
+    },
+    {
+      "quote": 36,
+      "line": 1499,
+      "speaker": null,
+      "opening": "“Why?”"
+    },
+    {
+      "quote": 37,
+      "line": 1501,
+      "speaker": null,
+      "opening": "“Because I want to know whether being arrested"
+    },
+    {
+      "quote": 38,
+      "line": 1503,
+      "speaker": null,
+      "opening": "“Depends how fast you confess.”"
+    },
+    {
+      "quote": 39,
+      "line": 1507,
+      "speaker": null,
+      "opening": "“My father read the rest of Amalia's letter"
+    },
+    {
+      "quote": 40,
+      "line": 1509,
+      "speaker": null,
+      "opening": "“What'd he find?”"
+    },
+    {
+      "quote": 41,
+      "line": 1511,
+      "speaker": null,
+      "opening": "“A reason to hate himself.”"
+    },
+    {
+      "quote": 42,
+      "line": 1513,
+      "speaker": null,
+      "opening": "“Tell him wait till we know where to"
+    },
+    {
+      "quote": 43,
+      "line": 1517,
+      "speaker": null,
+      "opening": "“I told my father I'm winning today,”"
+    },
+    {
+      "quote": 44,
+      "line": 1519,
+      "speaker": null,
+      "opening": "“Nigga, you can tell him you drove beautifully.”"
+    },
+    {
+      "quote": 45,
+      "line": 1523,
+      "speaker": null,
+      "opening": "“Try to keep your car out of the"
+    },
+    {
+      "quote": 46,
+      "line": 1529,
+      "speaker": null,
+      "opening": "\"Nigga, they're part of the car's personality.\""
+    },
+    {
+      "quote": 47,
+      "line": 1531,
+      "speaker": null,
+      "opening": "\"They may distract other drivers.\""
+    },
+    {
+      "quote": 48,
+      "line": 1533,
+      "speaker": null,
+      "opening": "\"My face does that. You want me to"
+    },
+    {
+      "quote": 49,
+      "line": 1537,
+      "speaker": null,
+      "opening": "\"Please use them only when necessary.\""
+    },
+    {
+      "quote": 50,
+      "line": 1539,
+      "speaker": null,
+      "opening": "\"Nigga, I am a necessary situation.\""
+    },
+    {
+      "quote": 51,
+      "line": 1543,
+      "speaker": null,
+      "opening": "\"That nigga about to learn.\""
+    },
+    {
+      "quote": 52,
+      "line": 1545,
+      "speaker": null,
+      "opening": "\"All of them,\""
+    },
+    {
+      "quote": 53,
+      "line": 1593,
+      "speaker": null,
+      "opening": "“Obstacle!”"
+    },
+    {
+      "quote": 54,
+      "line": 1605,
+      "speaker": null,
+      "opening": "“Nigga, no.”"
+    },
+    {
+      "quote": 55,
+      "line": 1625,
+      "speaker": null,
+      "opening": "“Inez!”"
+    },
+    {
+      "quote": 56,
+      "line": 1627,
+      "speaker": null,
+      "opening": "“I'm here.”"
+    },
+    {
+      "quote": 57,
+      "line": 1629,
+      "speaker": null,
+      "opening": "“You hurt?”"
+    },
+    {
+      "quote": 58,
+      "line": 1631,
+      "speaker": null,
+      "opening": "“My pride.”"
+    },
+    {
+      "quote": 59,
+      "line": 1633,
+      "speaker": null,
+      "opening": "“Nigga, it needed room anyway.”"
+    },
+    {
+      "quote": 60,
+      "line": 1641,
+      "speaker": null,
+      "opening": "“For you,”"
+    },
+    {
+      "quote": 61,
+      "line": 1643,
+      "speaker": null,
+      "opening": "“Ma'am, I just destroyed your business.”"
+    },
+    {
+      "quote": 62,
+      "line": 1645,
+      "speaker": null,
+      "opening": "“You saved my sister.”"
+    },
+    {
+      "quote": 63,
+      "line": 1651,
+      "speaker": null,
+      "opening": "“Take them.”"
+    },
+    {
+      "quote": 64,
+      "line": 1657,
+      "speaker": null,
+      "opening": "“First date on the mountain, second in a"
+    },
+    {
+      "quote": 65,
+      "line": 1659,
+      "speaker": null,
+      "opening": "“Tell your wife I want a refund.”"
+    },
+    {
+      "quote": 66,
+      "line": 1665,
+      "speaker": null,
+      "opening": "“Talk to me.”"
+    },
+    {
+      "quote": 67,
+      "line": 1667,
+      "speaker": null,
+      "opening": "“I'm good. Inez twisted her ankle. We're both"
+    },
+    {
+      "quote": 68,
+      "line": 1669,
+      "speaker": null,
+      "opening": "“Your chest?”"
+    },
+    {
+      "quote": 69,
+      "line": 1671,
+      "speaker": null,
+      "opening": "“Fine.”"
+    },
+    {
+      "quote": 70,
+      "line": 1673,
+      "speaker": null,
+      "opening": "“Your side?”"
+    },
+    {
+      "quote": 71,
+      "line": 1675,
+      "speaker": null,
+      "opening": "“Fine, baby.”"
+    },
+    {
+      "quote": 72,
+      "line": 1679,
+      "speaker": null,
+      "opening": "“Then get her help.”"
+    },
+    {
+      "quote": 73,
+      "line": 1697,
+      "speaker": null,
+      "opening": "“You see it too,”"
+    },
+    {
+      "quote": 74,
+      "line": 1699,
+      "speaker": null,
+      "opening": "“I'm starting.”"
+    },
+    {
+      "quote": 75,
+      "line": 1709,
+      "speaker": null,
+      "opening": "“You are a violent owner.”"
+    },
+    {
+      "quote": 76,
+      "line": 1711,
+      "speaker": null,
+      "opening": "“She still run?”"
+    },
+    {
+      "quote": 77,
+      "line": 1713,
+      "speaker": null,
+      "opening": "“She is offended. She still runs.”"
+    },
+    {
+      "quote": 78,
+      "line": 1719,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 79,
+      "line": 1721,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 80,
+      "line": 1723,
+      "speaker": null,
+      "opening": "“You serious?”"
+    },
+    {
+      "quote": 81,
+      "line": 1729,
+      "speaker": null,
+      "opening": "“Go get them niggas.”"
+    },
+    {
+      "quote": 82,
+      "line": 1765,
+      "speaker": null,
+      "opening": "“You are under arrest, motherfucker!”"
+    },
+    {
+      "quote": 83,
+      "line": 1781,
+      "speaker": null,
+      "opening": "“Captain, the result requires review.”"
+    },
+    {
+      "quote": 84,
+      "line": 1783,
+      "speaker": null,
+      "opening": "“Nigga, review this.”"
+    },
+    {
+      "quote": 85,
+      "line": 1787,
+      "speaker": null,
+      "opening": "“Who told him to stay on the track?”"
+    },
+    {
+      "quote": 86,
+      "line": 1789,
+      "speaker": null,
+      "opening": "“A communication error.”"
+    },
+    {
+      "quote": 87,
+      "line": 1791,
+      "speaker": null,
+      "opening": "“Who told the other car to block the"
+    },
+    {
+      "quote": 88,
+      "line": 1793,
+      "speaker": null,
+      "opening": "“An unfortunate sequence—”"
+    },
+    {
+      "quote": 89,
+      "line": 1795,
+      "speaker": null,
+      "opening": "“Keep talking. You might confess by accident.”"
+    },
+    {
+      "quote": 90,
+      "line": 1801,
+      "speaker": null,
+      "opening": "“The first key,”"
+    },
+    {
+      "quote": 91,
+      "line": 1801,
+      "speaker": null,
+      "opening": "“to Captain Aiden.”"
+    },
+    {
+      "quote": 92,
+      "line": 1805,
+      "speaker": null,
+      "opening": "\"That man told me—\""
+    },
+    {
+      "quote": 93,
+      "line": 1807,
+      "speaker": null,
+      "opening": "\"Nigga, I know which man,\""
+    },
+    {
+      "quote": 94,
+      "line": 1807,
+      "speaker": null,
+      "opening": "\"I'm asking why you let that nigga choose"
+    },
+    {
+      "quote": 95,
+      "line": 1809,
+      "speaker": null,
+      "opening": "\"He's the marshal.\""
+    },
+    {
+      "quote": 96,
+      "line": 1811,
+      "speaker": null,
+      "opening": "\"And I'm the nigga you tried to stop."
+    },
+    {
+      "quote": 97,
+      "line": 1813,
+      "speaker": null,
+      "opening": "\"Nigga, keep pointing. We love directions.\""
+    },
+    {
+      "quote": 98,
+      "line": 1815,
+      "speaker": null,
+      "opening": "\"The key, Captain.\""
+    },
+    {
+      "quote": 99,
+      "line": 1817,
+      "speaker": null,
+      "opening": "\"Look at this nigga changing the subject with"
+    },
+    {
+      "quote": 100,
+      "line": 1819,
+      "speaker": null,
+      "opening": "\"Good jewelry?\""
+    },
+    {
+      "quote": 101,
+      "line": 1821,
+      "speaker": null,
+      "opening": "\"We'll ask Marcellus. Nigga ain't bribing us with"
+    },
+    {
+      "quote": 102,
+      "line": 1827,
+      "speaker": null,
+      "opening": "“Evidence,”"
+    },
+    {
+      "quote": 103,
+      "line": 1833,
+      "speaker": null,
+      "opening": "“You brought me flowers,”"
+    },
+    {
+      "quote": 104,
+      "line": 1835,
+      "speaker": null,
+      "opening": "“Whole market.”"
+    },
+    {
+      "quote": 105,
+      "line": 1837,
+      "speaker": null,
+      "opening": "“You're bleeding.”"
+    },
+    {
+      "quote": 106,
+      "line": 1839,
+      "speaker": null,
+      "opening": "“Small amount.”"
+    },
+    {
+      "quote": 107,
+      "line": 1841,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 108,
+      "line": 1847,
+      "speaker": null,
+      "opening": "“You won in that?”"
+    },
+    {
+      "quote": 109,
+      "line": 1849,
+      "speaker": null,
+      "opening": "“Car wanted it bad.”"
+    },
+    {
+      "quote": 110,
+      "line": 1853,
+      "speaker": null,
+      "opening": "“I've raced the best drivers in the world.”"
+    },
+    {
+      "quote": 111,
+      "line": 1855,
+      "speaker": null,
+      "opening": "“Now you have.”"
+    },
+    {
+      "quote": 112,
+      "line": 1859,
+      "speaker": null,
+      "opening": "“Aiden!”"
+    },
+    {
+      "quote": 113,
+      "line": 1869,
+      "speaker": null,
+      "opening": "“The Sovereign Sun uses that mark,”"
+    },
+    {
+      "quote": 114,
+      "line": 1869,
+      "speaker": null,
+      "opening": "“The old crew put it on their equipment.”"
+    },
+    {
+      "quote": 115,
+      "line": 1879,
+      "speaker": null,
+      "opening": "“Now,”"
+    },
+    {
+      "quote": 116,
+      "line": 1879,
+      "speaker": null,
+      "opening": "“we read the whole thing.”"
+    }
+  ]
+}

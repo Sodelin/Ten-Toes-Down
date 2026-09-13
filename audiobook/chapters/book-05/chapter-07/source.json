@@ -1,0 +1,18 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": 5,
+  "chapter": 7,
+  "chapter_title": "7. We Chose Each Other and Took Both Cars",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-05.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-05.md",
+  "source_sha256": "7c7e295243f5827feed3f8d6d7b978a473211f57fbc47e34cb77a19646c56afe",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 3293,
+    "end_line": 3795,
+    "sha256": "02d6dc9f92c6b4ae26384dc47aae9bdd9773e6d05120febd294bf0e9fe02a2bf"
+  },
+  "spoken_text_policy": "Verbatim chapter body. Headings are track metadata. Printed quotation delimiters, paired Markdown emphasis and scene separators are formatting."
+}

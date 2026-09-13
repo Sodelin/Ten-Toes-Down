@@ -1,0 +1,291 @@
+Saint came ashore at dawn wearing a white coat and the Lion's Heart outside it.
+
+The red stone lay against his chest, big enough to catch the first sunlight from halfway across the harbor. Behind him came twelve guards, four cars, and a man carrying a chair. Even at the end, this nigga couldn't travel without somewhere dramatic to sit.
+
+I watched from the palace steps beside my wife.
+
+"He came," she said.
+
+"Nigga couldn't stay away from an audience."
+
+"You recognize the condition?"
+
+I looked at her.
+
+She smiled.
+
+"Baby, mine is treatable with kisses. His requires a whole defeat."
+
+She gave me one of the treatments.
+
+I held her longer than I meant to.
+
+Around us the team prepared for the day. Tank checked on Rosa, then checked again because becoming engaged had apparently made him believe his eyes might miss something between looks. Mercedes and Porsche wore dark racing jackets over bright dresses. They had spent the night making sure the workers beneath the stadium knew which doors would be open when the trouble started. Nobody was going to get trapped in Saint's escape road because a rich man needed a shield made of people.
+
+Knox stood beside Graves with the pink flowers tucked into a little vase on the breakfast table behind them. The champagne bucket had returned to Mercedes after she pointed out that romance shouldn't monopolize a useful blunt object. Keel called from the harbor: eight ships ready to keep the four remaining white ships away from the civilian docks. Inez and Cassius waited beside their cars, both calm in the way only very fast people can be when an entire day is about to ask who they are.
+
+Marcellus came down with Isolde.
+
+He carried the seven-stone crescent in a velvet pouch. She carried the silver plate from the saddle and the conductor's letter. Three objects. Years of people wanting them for different reasons. Now they lay together in the hands of two old lovers who had finally stopped being separated by other men's lies.
+
+"The last door," Marcellus said, "has the Lion's Heart setting. Once Saint is stopped, we can open it."
+
+"And the bridges?" I asked.
+
+Isolde touched the plate.
+
+"The drawing shows where the old walkway joins the central bridge. It is still passable. The two broken spans were never the only way across."
+
+Good. A map giving us a path, not a curse inventing another obligation. I was done chasing pieces around my own fucking island.
+
+Vega checked my shoulder one last time.
+
+"Better," she said.
+
+"That's what I like hearing."
+
+"It remains attached to a mortal man."
+
+"Doctor, don't say that in front of the fans."
+
+She didn't laugh. But her hand rested on my arm a moment longer than the examination needed.
+
+"Come back where I can complain about you."
+
+"Always room for your hobbies."
+
+Then I took my wife aside, just beyond the doorway where the morning couldn't make a spectacle out of every word.
+
+She straightened the cross against my chest.
+
+The gold had warmed against my skin. The little letters caught the light as she touched them: DBM. Damn, boy. Magnificent. Dante's old boast, my wife's old private joke, a thing that had survived enough bad men to deserve a place in a better morning.
+
+"Still suits you," she said.
+
+"Nigga, I've been trying."
+
+She laughed softly and kissed the cross, then my mouth.
+
+"Win your ridiculous championship," she said. "Then come find me."
+
+"Where?"
+
+"Wherever you left the blue piano."
+
+I put my forehead against hers.
+
+For one breath I let the whole world wait outside the door.
+
+Then I went down to the starting line.
+
+Twenty champions waited beneath the stadium arch. Some had won races. Some had won strength, endurance, precision, strategy. All had qualified for the final route through the island, thirty miles of road, water, and the old mountain passage ending at the Crown Gate. Saint would face the first arrival in the final defense of his founder's title.
+
+It was a ridiculous arrangement designed by a nigga who wanted the privileges of winning before anybody had finished competing.
+
+I intended to improve it personally.
+
+The opening leg belonged to cars.
+
+My Lamborghini waited in its dark blue paint, gold badge bright, fresh scrape along one side like a little signature from yesterday's fountain conversation. I put my hand on the hood before getting in.
+
+"Last busy morning," I told it.
+
+Cassius heard me.
+
+"Nigga, that car knows you lying."
+
+"A vehicle should have dreams."
+
+He laughed and climbed into his red machine.
+
+Inez stopped beside my window.
+
+"I am not letting you win because you saved half the island."
+
+"Nigga, I saved the half with good judgment. Try representing it."
+
+She grinned, slapped the roof, and went to her own car.
+
+Saint addressed the crowd from his platform. He spoke of courage, dominion, the ancient right of a champion to rule what he had conquered. The audience listened with the polite impatience people reserve for the man standing between them and the thing they actually paid to see.
+
+Then he said my name.
+
+The crowd answered so loudly the microphone fed back.
+
+He waited for it to stop.
+
+It didn't.
+
+Nigga had to start the race while people were still shouting for the man he wanted dead.
+
+I could have loved that moment for a whole year.
+
+Instead I drove.
+
+We hit the first boulevard twenty engines wide, the sound rolling between the palace walls and out over the water. Cassius took the lead. Inez went outside him. Two police captains came up behind me, their lighter cars quick through the first bends. I held the center and let the Lamborghini settle into its own voice before asking it for anything louder.
+
+At the market turn, the street narrowed.
+
+I knew that street. I had chased gunmen through it, fed sailors beside it, watched my wife receive a key to a concert hall from a woman who had never known her name before the harbor song. The place wasn't scenery anymore. I knew where Alma's cooks stood to watch. I knew which balcony had a loose blue shutter. I knew the little rise before the stone bridge because my car had complained about it twice already.
+
+The other drivers saw a corner.
+
+I saw the island I'd spent twelve days learning how to come home to.
+
+I passed two cars before the bridge.
+
+Cassius saw me in his mirror and laughed. I knew because he always tilted his head when a race became the kind of argument he wanted to remember.
+
+Inez stayed beside him, fierce and clean, refusing every easy opportunity to let the road blame her for something she hadn't chosen.
+
+The three of us reached the harbor gate together.
+
+The second leg waited on the water: racing launches tied to a long pontoon, one for each competitor. We left the cars, ran down the steps, and jumped into boats as the officials released the lines.
+
+I was third out.
+
+For a moment the sea spread before us with the morning laid flat across it, every wake carving a bright line toward the headland. The island behind us shouted. The ships beyond us watched. Somewhere on one of those decks a sailor probably decided he had never seen a man enjoy his own trouble more than I was enjoying mine.
+
+Nigga would have been correct.
+
+I caught Cassius before the first buoy. Inez caught both of us around the next. We traded the lead along the headland, the water lifting our bows, spray hitting our faces hard enough to make the whole world taste alive. No Blue Thunder. I didn't need it yet. I had a boat that wanted to move and two friends who wanted to beat me honestly enough to make winning worth the breath.
+
+Then the black barrier rose across the narrow channel ahead.
+
+Not part of the course.
+
+A steel gate between the old sea towers, pulled up by men on Saint's remaining guard launch. I saw the top bar break the water. Saw the boats behind us still accelerating toward the passage. Saw the driver ahead of the pack realize too late that the route had become a wall.
+
+Inez turned first.
+
+Her hull skidded across the chop, clearing the barrier by a length that made my stomach tighten. Cassius followed. The fourth boat tried to go between them and struck the gate's rising edge.
+
+Its bow lifted.
+
+The driver went over the side.
+
+I turned back.
+
+Of course I turned back. Nigga, you can hate losing and still understand what a human body looks like when the water closes over it.
+
+The man surfaced beside the gate, coughing, one arm hanging wrong. I brought the launch alongside and reached with my good hand. He caught my wrist. I pulled until the shoulder burned and the man came over the rail in a heap of wet anger.
+
+"My race," he gasped.
+
+"Still breathing. Plenty of time to complain about it."
+
+Saint's guard launch turned toward us.
+
+Before its gunman could rise, a blue-flagged patrol boat crossed between us. Graves stood at the bow with Knox beside him. Their return fire drove the guard crew down while island sailors lowered the barrier again.
+
+The channel opened.
+
+Knox looked at me across the water.
+
+"Finish, Captain."
+
+I looked at the injured competitor.
+
+He pointed ahead with his working arm.
+
+"Nigga, you heard her."
+
+I put him aboard the patrol boat and went.
+
+The leaders had gained a long stretch. I could see their wakes curving toward the mountain dock, pale lines against the blue. My shoulder throbbed. My hands felt steady enough, but I knew the difference between wanting more and having more.
+
+I gave the engine one brief pulse of Blue Thunder.
+
+One.
+
+The boat answered with a bright surge that flattened the distance in front of us. Wind struck my face. The wake behind me glowed blue for a heartbeat and disappeared.
+
+Then I let it go.
+
+The exhaustion came as a hollow feeling beneath my ribs, not enough to stop me, enough to remind me the power had accepted payment. I breathed through it and let the boat's own speed carry the rest.
+
+At the mountain dock I was second.
+
+Inez waited at the foot of the stone steps, already out of her launch.
+
+She looked at me and shook her head.
+
+"You went back."
+
+"Nigga was in the water."
+
+"I know."
+
+She slapped my shoulder gently, then ran up the steps before admiration could cost her the lead.
+
+The third leg crossed the mountain passage on foot.
+
+No cars. No horses. No boats. Just a steep old road winding through tunnels and terraces toward the Crown Gate. The contest wanted endurance now, after speed had spent everybody's breath. Spectators lined the safe sections, shouting encouragement from behind ropes. I heard my name. Heard Inez's. Heard Cassius coming up behind me cursing the man who had invented stairs.
+
+Halfway up, the path opened onto a terrace where the old king had once kept statues of himself doing things his body had probably never attempted.
+
+Saint's men waited behind the last statue.
+
+Four of them.
+
+No cameras aimed there until Porsche's little filming crew, following from the upper path, rounded the bend.
+
+The gunmen saw the lens.
+
+Saw me.
+
+Two hesitated.
+
+The third lifted his weapon.
+
+I hit him before he had a line to shoot along. My shoulder screamed. I ignored it long enough to drive him into the statue's stone base and take the gun away. Inez came back down the path like a woman personally offended by an unfair corner. She knocked another man's legs out from under him. Cassius reached us with a rock in one hand and the exhausted rage of a driver forced to exercise on purpose.
+
+The last two men dropped their guns.
+
+"Niggas," Cassius said, breathing hard, "I did not climb all this way to become patient."
+
+The camera caught every second.
+
+By the time we reached the Crown Gate, the whole stadium had seen the ambush fail.
+
+I crossed first.
+
+Inez came three steps behind me.
+
+Cassius followed, bent forward with his hands on his knees and a promise to buy an elevator for the mountain if he survived the afternoon.
+
+The gate opened.
+
+Below us the stadium rose in a circle of blue and gold. Thousands of people stood. The ships sounded their horns from the harbor. My wife waited at the edge of the platform with a towel in her hands and the face I had been running toward all morning.
+
+I went straight to her.
+
+She wiped the sweat from my forehead.
+
+"One pulse?"
+
+"One."
+
+"Shoulder?"
+
+"Complaining."
+
+"Husband?"
+
+I put my hand over hers.
+
+"Right here."
+
+Saint stood at the center of the arena beneath the enormous crown trophy.
+
+His chair waited behind him.
+
+The Lion's Heart burned red against his white coat.
+
+He looked up at the gate, at the crowd on its feet, at the woman touching my face like winning only mattered because she still had a face to touch.
+
+For the first time since I'd met him, the nigga looked small without being far away.
+
+I kissed my wife.
+
+Then I went down to finish the conversation.

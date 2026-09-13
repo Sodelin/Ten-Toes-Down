@@ -1,0 +1,385 @@
+{
+  "chapter_id": "b03-c13",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 63,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5153,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 2,
+      "line": 5153,
+      "speaker": null,
+      "opening": "“I like this car.”"
+    },
+    {
+      "quote": 3,
+      "line": 5157,
+      "speaker": null,
+      "opening": "“This car hasn't met you.”"
+    },
+    {
+      "quote": 4,
+      "line": 5177,
+      "speaker": null,
+      "opening": "“Nigga, wrong wife,”"
+    },
+    {
+      "quote": 5,
+      "line": 5193,
+      "speaker": null,
+      "opening": "\"Nigga, remember that's the White Heron.\""
+    },
+    {
+      "quote": 6,
+      "line": 5195,
+      "speaker": null,
+      "opening": "\"Nigga, I can see the hood.\""
+    },
+    {
+      "quote": 7,
+      "line": 5197,
+      "speaker": null,
+      "opening": "\"My father built her.\""
+    },
+    {
+      "quote": 8,
+      "line": 5199,
+      "speaker": null,
+      "opening": "\"Then your nigga built beautifully.\""
+    },
+    {
+      "quote": 9,
+      "line": 5201,
+      "speaker": null,
+      "opening": "\"Tell him the left side pulls a little"
+    },
+    {
+      "quote": 10,
+      "line": 5203,
+      "speaker": null,
+      "opening": "\"He heard you,\""
+    },
+    {
+      "quote": 11,
+      "line": 5205,
+      "speaker": null,
+      "opening": "\"Tell him anyway,\""
+    },
+    {
+      "quote": 12,
+      "line": 5207,
+      "speaker": null,
+      "opening": "\"Niggas,\""
+    },
+    {
+      "quote": 13,
+      "line": 5207,
+      "speaker": null,
+      "opening": "\"I got the car, the road and the"
+    },
+    {
+      "quote": 14,
+      "line": 5217,
+      "speaker": null,
+      "opening": "“The black car's coming.”"
+    },
+    {
+      "quote": 15,
+      "line": 5219,
+      "speaker": null,
+      "opening": "“I hear it.”"
+    },
+    {
+      "quote": 16,
+      "line": 5237,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 17,
+      "line": 5239,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 18,
+      "line": 5249,
+      "speaker": null,
+      "opening": "“No cars!”"
+    },
+    {
+      "quote": 19,
+      "line": 5251,
+      "speaker": null,
+      "opening": "“Nigga, temporary exception!”"
+    },
+    {
+      "quote": 20,
+      "line": 5261,
+      "speaker": null,
+      "opening": "“Up?”"
+    },
+    {
+      "quote": 21,
+      "line": 5263,
+      "speaker": null,
+      "opening": "“Up,”"
+    },
+    {
+      "quote": 22,
+      "line": 5281,
+      "speaker": null,
+      "opening": "“We found the road.”"
+    },
+    {
+      "quote": 23,
+      "line": 5285,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 24,
+      "line": 5285,
+      "speaker": null,
+      "opening": "“why is your husband in my key change?”"
+    },
+    {
+      "quote": 25,
+      "line": 5293,
+      "speaker": null,
+      "opening": "“Everybody off the stage.”"
+    },
+    {
+      "quote": 26,
+      "line": 5299,
+      "speaker": null,
+      "opening": "“Tank?”"
+    },
+    {
+      "quote": 27,
+      "line": 5301,
+      "speaker": null,
+      "opening": "“Bringing the workers out. He's safe.”"
+    },
+    {
+      "quote": 28,
+      "line": 5317,
+      "speaker": null,
+      "opening": "“You got a plan?”"
+    },
+    {
+      "quote": 29,
+      "line": 5319,
+      "speaker": null,
+      "opening": "“Enough of one.”"
+    },
+    {
+      "quote": 30,
+      "line": 5321,
+      "speaker": null,
+      "opening": "“That is your favorite amount.”"
+    },
+    {
+      "quote": 31,
+      "line": 5341,
+      "speaker": null,
+      "opening": "“Nigga parked with confidence.”"
+    },
+    {
+      "quote": 32,
+      "line": 5345,
+      "speaker": null,
+      "opening": "“You want him out?”"
+    },
+    {
+      "quote": 33,
+      "line": 5347,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 34,
+      "line": 5361,
+      "speaker": null,
+      "opening": "“Then he can pay the company to rehearse"
+    },
+    {
+      "quote": 35,
+      "line": 5363,
+      "speaker": null,
+      "opening": "“The cost—”"
+    },
+    {
+      "quote": 36,
+      "line": 5365,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 37,
+      "line": 5365,
+      "speaker": null,
+      "opening": "“look at me before you complain about a"
+    },
+    {
+      "quote": 38,
+      "line": 5383,
+      "speaker": null,
+      "opening": "“My father told me,”"
+    },
+    {
+      "quote": 39,
+      "line": 5383,
+      "speaker": null,
+      "opening": "“that this car could make a coward honest"
+    },
+    {
+      "quote": 40,
+      "line": 5387,
+      "speaker": null,
+      "opening": "“He told me it could make an old"
+    },
+    {
+      "quote": 41,
+      "line": 5389,
+      "speaker": null,
+      "opening": "“Both sound like him.”"
+    },
+    {
+      "quote": 42,
+      "line": 5391,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 43,
+      "line": 5395,
+      "speaker": null,
+      "opening": "“Car did good.”"
+    },
+    {
+      "quote": 44,
+      "line": 5399,
+      "speaker": null,
+      "opening": "“You drove it like you knew her.”"
+    },
+    {
+      "quote": 45,
+      "line": 5401,
+      "speaker": null,
+      "opening": "“Nigga, she introduced herself loudly.”"
+    },
+    {
+      "quote": 46,
+      "line": 5411,
+      "speaker": null,
+      "opening": "“Your father going to want those.”"
+    },
+    {
+      "quote": 47,
+      "line": 5415,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 48,
+      "line": 5423,
+      "speaker": null,
+      "opening": "“Niggas, one at a time. I just got"
+    },
+    {
+      "quote": 49,
+      "line": 5433,
+      "speaker": null,
+      "opening": "“Nigga, I just drove a champion out of"
+    },
+    {
+      "quote": 50,
+      "line": 5439,
+      "speaker": null,
+      "opening": "“Do you still intend to claim the island?”"
+    },
+    {
+      "quote": 51,
+      "line": 5445,
+      "speaker": null,
+      "opening": "“My wife likes the acoustics.”"
+    },
+    {
+      "quote": 52,
+      "line": 5449,
+      "speaker": null,
+      "opening": "“Nigga, I'm not evaporating.”"
+    },
+    {
+      "quote": 53,
+      "line": 5453,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 54,
+      "line": 5455,
+      "speaker": null,
+      "opening": "“You keep looking.”"
+    },
+    {
+      "quote": 55,
+      "line": 5457,
+      "speaker": null,
+      "opening": "“I missed looking.”"
+    },
+    {
+      "quote": 56,
+      "line": 5467,
+      "speaker": null,
+      "opening": "“Tomorrow?”"
+    },
+    {
+      "quote": 57,
+      "line": 5469,
+      "speaker": null,
+      "opening": "“We find a way onto the Sovereign Sun.”"
+    },
+    {
+      "quote": 58,
+      "line": 5471,
+      "speaker": null,
+      "opening": "“I don't want to wait another race.”"
+    },
+    {
+      "quote": 59,
+      "line": 5473,
+      "speaker": null,
+      "opening": "“We won't.”"
+    },
+    {
+      "quote": 60,
+      "line": 5477,
+      "speaker": null,
+      "opening": "“You promise?”"
+    },
+    {
+      "quote": 61,
+      "line": 5481,
+      "speaker": null,
+      "opening": "“Yeah,”"
+    },
+    {
+      "quote": 62,
+      "line": 5481,
+      "speaker": null,
+      "opening": "“I promise we go.”"
+    },
+    {
+      "quote": 63,
+      "line": 5485,
+      "speaker": null,
+      "opening": "“He's coming home,”"
+    }
+  ]
+}

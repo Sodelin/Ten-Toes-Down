@@ -1,0 +1,577 @@
+{
+  "chapter_id": "b04-c12",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 95,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4332,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 2,
+      "line": 4332,
+      "speaker": null,
+      "opening": "\"did you pack clothes?\""
+    },
+    {
+      "quote": 3,
+      "line": 4338,
+      "speaker": null,
+      "opening": "\"These are formal.\""
+    },
+    {
+      "quote": 4,
+      "line": 4342,
+      "speaker": null,
+      "opening": "\"My star!\""
+    },
+    {
+      "quote": 5,
+      "line": 4344,
+      "speaker": null,
+      "opening": "\"My guy who keeps finding me.\""
+    },
+    {
+      "quote": 6,
+      "line": 4346,
+      "speaker": null,
+      "opening": "\"The picture needs its final sequence.\""
+    },
+    {
+      "quote": 7,
+      "line": 4348,
+      "speaker": null,
+      "opening": "\"You made a picture?\""
+    },
+    {
+      "quote": 8,
+      "line": 4350,
+      "speaker": null,
+      "opening": "\"Of course I made a picture. You gave"
+    },
+    {
+      "quote": 9,
+      "line": 4352,
+      "speaker": null,
+      "opening": "\"Nigga, that's my profession. Find your own guilt.\""
+    },
+    {
+      "quote": 10,
+      "line": 4360,
+      "speaker": null,
+      "opening": "\"That's my nigga.\""
+    },
+    {
+      "quote": 11,
+      "line": 4362,
+      "speaker": null,
+      "opening": "\"That's our nigga.\""
+    },
+    {
+      "quote": 12,
+      "line": 4364,
+      "speaker": null,
+      "opening": "\"Nigga, you just met the nigga.\""
+    },
+    {
+      "quote": 13,
+      "line": 4366,
+      "speaker": null,
+      "opening": "\"Nigga knocked me down. That's an introduction.\""
+    },
+    {
+      "quote": 14,
+      "line": 4368,
+      "speaker": null,
+      "opening": "\"I been knocked down beside the nigga. Different"
+    },
+    {
+      "quote": 15,
+      "line": 4378,
+      "speaker": null,
+      "opening": "\"They got my hair right,\""
+    },
+    {
+      "quote": 16,
+      "line": 4380,
+      "speaker": null,
+      "opening": "\"Baby, look at the line.\""
+    },
+    {
+      "quote": 17,
+      "line": 4382,
+      "speaker": null,
+      "opening": "\"I did. Death had better behave.\""
+    },
+    {
+      "quote": 18,
+      "line": 4386,
+      "speaker": null,
+      "opening": "\"You drive beside the train,\""
+    },
+    {
+      "quote": 19,
+      "line": 4386,
+      "speaker": null,
+      "opening": "\"You climb aboard. You retrieve the jewel. You"
+    },
+    {
+      "quote": 20,
+      "line": 4388,
+      "speaker": null,
+      "opening": "\"Nigga, that's Thursday.\""
+    },
+    {
+      "quote": 21,
+      "line": 4390,
+      "speaker": null,
+      "opening": "\"Exactly!\""
+    },
+    {
+      "quote": 22,
+      "line": 4394,
+      "speaker": null,
+      "opening": "\"Why am I tied to a chair?\""
+    },
+    {
+      "quote": 23,
+      "line": 4396,
+      "speaker": null,
+      "opening": "\"The audience must fear for you.\""
+    },
+    {
+      "quote": 24,
+      "line": 4398,
+      "speaker": null,
+      "opening": "\"Then show them my husband driving. I can"
+    },
+    {
+      "quote": 25,
+      "line": 4400,
+      "speaker": null,
+      "opening": "\"Why do I say 'Save me, Captain' twice"
+    },
+    {
+      "quote": 26,
+      "line": 4402,
+      "speaker": null,
+      "opening": "\"One is an echo,\""
+    },
+    {
+      "quote": 27,
+      "line": 4404,
+      "speaker": null,
+      "opening": "\"Nigga, one is copy and paste,\""
+    },
+    {
+      "quote": 28,
+      "line": 4404,
+      "speaker": null,
+      "opening": "\"Give me that.\""
+    },
+    {
+      "quote": 29,
+      "line": 4408,
+      "speaker": null,
+      "opening": "\"Woman Number Five?\""
+    },
+    {
+      "quote": 30,
+      "line": 4412,
+      "speaker": null,
+      "opening": "\"Nigga, don't look over here. My wife got"
+    },
+    {
+      "quote": 31,
+      "line": 4414,
+      "speaker": null,
+      "opening": "\"These are provisional names.\""
+    },
+    {
+      "quote": 32,
+      "line": 4416,
+      "speaker": null,
+      "opening": "\"Provision me a last name,\""
+    },
+    {
+      "quote": 33,
+      "line": 4416,
+      "speaker": null,
+      "opening": "\"I own things.\""
+    },
+    {
+      "quote": 34,
+      "line": 4418,
+      "speaker": null,
+      "opening": "\"Who steals this?\""
+    },
+    {
+      "quote": 35,
+      "line": 4420,
+      "speaker": null,
+      "opening": "\"The villain.\""
+    },
+    {
+      "quote": 36,
+      "line": 4422,
+      "speaker": null,
+      "opening": "\"Slow nigga. I can do it in the"
+    },
+    {
+      "quote": 37,
+      "line": 4426,
+      "speaker": null,
+      "opening": "\"I drive. He gets in. We leave together.\""
+    },
+    {
+      "quote": 38,
+      "line": 4428,
+      "speaker": null,
+      "opening": "\"But the rescue—\""
+    },
+    {
+      "quote": 39,
+      "line": 4430,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 40,
+      "line": 4430,
+      "speaker": null,
+      "opening": "\"a woman driving toward a train to pick"
+    },
+    {
+      "quote": 41,
+      "line": 4432,
+      "speaker": null,
+      "opening": "\"I want a scene where we fight side"
+    },
+    {
+      "quote": 42,
+      "line": 4434,
+      "speaker": null,
+      "opening": "\"You were hired for the exhibition footage,\""
+    },
+    {
+      "quote": 43,
+      "line": 4436,
+      "speaker": null,
+      "opening": "\"Then exhibit range. Make me his brother.\""
+    },
+    {
+      "quote": 44,
+      "line": 4440,
+      "speaker": null,
+      "opening": "\"Nigga.\""
+    },
+    {
+      "quote": 45,
+      "line": 4442,
+      "speaker": null,
+      "opening": "\"In the movie.\""
+    },
+    {
+      "quote": 46,
+      "line": 4444,
+      "speaker": null,
+      "opening": "\"That's where people learn lies.\""
+    },
+    {
+      "quote": 47,
+      "line": 4450,
+      "speaker": null,
+      "opening": "\"Don't start counting sequel money while you still"
+    },
+    {
+      "quote": 48,
+      "line": 4452,
+      "speaker": null,
+      "opening": "\"A train?\""
+    },
+    {
+      "quote": 49,
+      "line": 4454,
+      "speaker": null,
+      "opening": "\"I been reading ahead. It has an owner."
+    },
+    {
+      "quote": 50,
+      "line": 4458,
+      "speaker": null,
+      "opening": "\"All right,\""
+    },
+    {
+      "quote": 51,
+      "line": 4458,
+      "speaker": null,
+      "opening": "\"Now I can see it.\""
+    },
+    {
+      "quote": 52,
+      "line": 4460,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 53,
+      "line": 4460,
+      "speaker": null,
+      "opening": "\"try opening with that next time.\""
+    },
+    {
+      "quote": 54,
+      "line": 4466,
+      "speaker": null,
+      "opening": "\"Nigga, I'm the brother.\""
+    },
+    {
+      "quote": 55,
+      "line": 4468,
+      "speaker": null,
+      "opening": "\"You can have two,\""
+    },
+    {
+      "quote": 56,
+      "line": 4472,
+      "speaker": null,
+      "opening": "\"Can you cook?\""
+    },
+    {
+      "quote": 57,
+      "line": 4474,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 58,
+      "line": 4476,
+      "speaker": null,
+      "opening": "\"Then we're hiring wrong.\""
+    },
+    {
+      "quote": 59,
+      "line": 4494,
+      "speaker": null,
+      "opening": "\"You ready?\""
+    },
+    {
+      "quote": 60,
+      "line": 4496,
+      "speaker": null,
+      "opening": "\"Nigga, I been ready.\""
+    },
+    {
+      "quote": 61,
+      "line": 4504,
+      "speaker": null,
+      "opening": "\"BEAUTIFUL!\""
+    },
+    {
+      "quote": 62,
+      "line": 4516,
+      "speaker": null,
+      "opening": "\"Part of it?\""
+    },
+    {
+      "quote": 63,
+      "line": 4518,
+      "speaker": null,
+      "opening": "\"Nigga, look at Leon.\""
+    },
+    {
+      "quote": 64,
+      "line": 4526,
+      "speaker": null,
+      "opening": "\"He came out of the engine room,\""
+    },
+    {
+      "quote": 65,
+      "line": 4526,
+      "speaker": null,
+      "opening": "\"Told us to enjoy the final scene. I"
+    },
+    {
+      "quote": 66,
+      "line": 4534,
+      "speaker": null,
+      "opening": "\"Another Saint nigga?\""
+    },
+    {
+      "quote": 67,
+      "line": 4536,
+      "speaker": null,
+      "opening": "\"Dedicated nigga,\""
+    },
+    {
+      "quote": 68,
+      "line": 4536,
+      "speaker": null,
+      "opening": "\"He wore the logo under the other logo.\""
+    },
+    {
+      "quote": 69,
+      "line": 4538,
+      "speaker": null,
+      "opening": "\"Nigga got layers of employment.\""
+    },
+    {
+      "quote": 70,
+      "line": 4542,
+      "speaker": null,
+      "opening": "\"Nigga, be quiet,\""
+    },
+    {
+      "quote": 71,
+      "line": 4542,
+      "speaker": null,
+      "opening": "\"You're the least interesting part of your own"
+    },
+    {
+      "quote": 72,
+      "line": 4546,
+      "speaker": null,
+      "opening": "\"The bridge is closed beyond the next curve."
+    },
+    {
+      "quote": 73,
+      "line": 4552,
+      "speaker": null,
+      "opening": "\"We get them off,\""
+    },
+    {
+      "quote": 74,
+      "line": 4578,
+      "speaker": null,
+      "opening": "\"I can't jump,\""
+    },
+    {
+      "quote": 75,
+      "line": 4580,
+      "speaker": null,
+      "opening": "\"Then this nigga can lower you,\""
+    },
+    {
+      "quote": 76,
+      "line": 4582,
+      "speaker": null,
+      "opening": "\"I'm heavy.\""
+    },
+    {
+      "quote": 77,
+      "line": 4584,
+      "speaker": null,
+      "opening": "\"Nigga, I fight heavy niggas. You're a cameraman.\""
+    },
+    {
+      "quote": 78,
+      "line": 4592,
+      "speaker": null,
+      "opening": "\"Last four!\""
+    },
+    {
+      "quote": 79,
+      "line": 4602,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 80,
+      "line": 4602,
+      "speaker": null,
+      "opening": "\"don't make me come back up here.\""
+    },
+    {
+      "quote": 81,
+      "line": 4612,
+      "speaker": null,
+      "opening": "\"Your train can be replaced.\""
+    },
+    {
+      "quote": 82,
+      "line": 4614,
+      "speaker": null,
+      "opening": "\"I can't leave—\""
+    },
+    {
+      "quote": 83,
+      "line": 4616,
+      "speaker": null,
+      "opening": "\"Nigga, yes you can. I'm personally introducing the"
+    },
+    {
+      "quote": 84,
+      "line": 4648,
+      "speaker": null,
+      "opening": "\"You jumped a train.\""
+    },
+    {
+      "quote": 85,
+      "line": 4650,
+      "speaker": null,
+      "opening": "\"Nigga, don't tell my wife.\""
+    },
+    {
+      "quote": 86,
+      "line": 4652,
+      "speaker": null,
+      "opening": "\"I'm right here,\""
+    },
+    {
+      "quote": 87,
+      "line": 4656,
+      "speaker": null,
+      "opening": "\"Damn.\""
+    },
+    {
+      "quote": 88,
+      "line": 4660,
+      "speaker": null,
+      "opening": "\"Everyone?\""
+    },
+    {
+      "quote": 89,
+      "line": 4662,
+      "speaker": null,
+      "opening": "\"Everyone.\""
+    },
+    {
+      "quote": 90,
+      "line": 4668,
+      "speaker": null,
+      "opening": "\"Nigga, the movie better make its money back.\""
+    },
+    {
+      "quote": 91,
+      "line": 4680,
+      "speaker": null,
+      "opening": "\"My captain,\""
+    },
+    {
+      "quote": 92,
+      "line": 4684,
+      "speaker": null,
+      "opening": "\"Give a nigga a minute before you pitch"
+    },
+    {
+      "quote": 93,
+      "line": 4690,
+      "speaker": null,
+      "opening": "\"All that for glass.\""
+    },
+    {
+      "quote": 94,
+      "line": 4694,
+      "speaker": null,
+      "opening": "\"Baby, men have done worse for less.\""
+    },
+    {
+      "quote": 95,
+      "line": 4708,
+      "speaker": null,
+      "opening": "\"That's my husband,\""
+    }
+  ]
+}

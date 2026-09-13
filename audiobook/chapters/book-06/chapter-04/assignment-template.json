@@ -1,0 +1,853 @@
+{
+  "chapter_id": "b06-c04",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 141,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1679,
+      "speaker": null,
+      "opening": "\"That's a lot of stairs.\""
+    },
+    {
+      "quote": 2,
+      "line": 1681,
+      "speaker": null,
+      "opening": "\"Nigga don't believe in arriving relaxed.\""
+    },
+    {
+      "quote": 3,
+      "line": 1683,
+      "speaker": null,
+      "opening": "\"You could carry me.\""
+    },
+    {
+      "quote": 4,
+      "line": 1689,
+      "speaker": null,
+      "opening": "\"Captain,\""
+    },
+    {
+      "quote": 5,
+      "line": 1689,
+      "speaker": null,
+      "opening": "\"the formal entrance requires—\""
+    },
+    {
+      "quote": 6,
+      "line": 1691,
+      "speaker": null,
+      "opening": "\"Nigga, this is formal. Look at my wife.\""
+    },
+    {
+      "quote": 7,
+      "line": 1695,
+      "speaker": null,
+      "opening": "\"Close that,\""
+    },
+    {
+      "quote": 8,
+      "line": 1695,
+      "speaker": null,
+      "opening": "\"You on duty.\""
+    },
+    {
+      "quote": 9,
+      "line": 1705,
+      "speaker": null,
+      "opening": "\"Chief Gloria Knox.\""
+    },
+    {
+      "quote": 10,
+      "line": 1707,
+      "speaker": null,
+      "opening": "\"His Majesty's table admits guests by invitation only.\""
+    },
+    {
+      "quote": 11,
+      "line": 1709,
+      "speaker": null,
+      "opening": "\"I'm supervising an officer.\""
+    },
+    {
+      "quote": 12,
+      "line": 1711,
+      "speaker": null,
+      "opening": "\"That is not—\""
+    },
+    {
+      "quote": 13,
+      "line": 1713,
+      "speaker": null,
+      "opening": "\"You want him unsupervised?\""
+    },
+    {
+      "quote": 14,
+      "line": 1727,
+      "speaker": null,
+      "opening": "\"Captain. You have expanded my invitation.\""
+    },
+    {
+      "quote": 15,
+      "line": 1729,
+      "speaker": null,
+      "opening": "\"Nigga, your dining table long enough to land"
+    },
+    {
+      "quote": 16,
+      "line": 1733,
+      "speaker": null,
+      "opening": "\"An unfortunate misunderstanding.\""
+    },
+    {
+      "quote": 17,
+      "line": 1735,
+      "speaker": null,
+      "opening": "\"Two engines worth.\""
+    },
+    {
+      "quote": 18,
+      "line": 1741,
+      "speaker": null,
+      "opening": "\"A devoted marriage.\""
+    },
+    {
+      "quote": 19,
+      "line": 1743,
+      "speaker": null,
+      "opening": "\"You said that like you're allergic,\""
+    },
+    {
+      "quote": 20,
+      "line": 1751,
+      "speaker": null,
+      "opening": "\"Gideon Gold. Transport and hospitality.\""
+    },
+    {
+      "quote": 21,
+      "line": 1753,
+      "speaker": null,
+      "opening": "\"Aiden. Bad timing and excellent cars.\""
+    },
+    {
+      "quote": 22,
+      "line": 1755,
+      "speaker": null,
+      "opening": "\"I have heard.\""
+    },
+    {
+      "quote": 23,
+      "line": 1757,
+      "speaker": null,
+      "opening": "\"Nigga, everybody heard. You live under an emperor,"
+    },
+    {
+      "quote": 24,
+      "line": 1765,
+      "speaker": null,
+      "opening": "\"Depends what the nigga asking me did that"
+    },
+    {
+      "quote": 25,
+      "line": 1771,
+      "speaker": null,
+      "opening": "\"You could end this tonight.\""
+    },
+    {
+      "quote": 26,
+      "line": 1775,
+      "speaker": null,
+      "opening": "\"And what would you have me end, Vesper?\""
+    },
+    {
+      "quote": 27,
+      "line": 1777,
+      "speaker": null,
+      "opening": "\"The theater. You know what we found in"
+    },
+    {
+      "quote": 28,
+      "line": 1785,
+      "speaker": null,
+      "opening": "\"Paper travels poorly in the desert.\""
+    },
+    {
+      "quote": 29,
+      "line": 1787,
+      "speaker": null,
+      "opening": "\"Copies travel beautifully,\""
+    },
+    {
+      "quote": 30,
+      "line": 1793,
+      "speaker": null,
+      "opening": "\"You imagine my people will abandon me because"
+    },
+    {
+      "quote": 31,
+      "line": 1795,
+      "speaker": null,
+      "opening": "\"Your people will make their own choices,\""
+    },
+    {
+      "quote": 32,
+      "line": 1795,
+      "speaker": null,
+      "opening": "\"You should try letting them.\""
+    },
+    {
+      "quote": 33,
+      "line": 1799,
+      "speaker": null,
+      "opening": "\"And you chose this man.\""
+    },
+    {
+      "quote": 34,
+      "line": 1801,
+      "speaker": null,
+      "opening": "\"Every day.\""
+    },
+    {
+      "quote": 35,
+      "line": 1803,
+      "speaker": null,
+      "opening": "\"Despite what he is.\""
+    },
+    {
+      "quote": 36,
+      "line": 1805,
+      "speaker": null,
+      "opening": "\"Nigga, especially knowing what he is.\""
+    },
+    {
+      "quote": 37,
+      "line": 1811,
+      "speaker": null,
+      "opening": "\"You keep saying captain, king, criminal like you"
+    },
+    {
+      "quote": 38,
+      "line": 1815,
+      "speaker": null,
+      "opening": "\"Excellent,\""
+    },
+    {
+      "quote": 39,
+      "line": 1819,
+      "speaker": null,
+      "opening": "\"You are a singer, are you not?\""
+    },
+    {
+      "quote": 40,
+      "line": 1821,
+      "speaker": null,
+      "opening": "\"I am.\""
+    },
+    {
+      "quote": 41,
+      "line": 1823,
+      "speaker": null,
+      "opening": "\"Perhaps you would perform.\""
+    },
+    {
+      "quote": 42,
+      "line": 1829,
+      "speaker": null,
+      "opening": "\"I'd love to.\""
+    },
+    {
+      "quote": 43,
+      "line": 1845,
+      "speaker": null,
+      "opening": "\"My fiancée is in the western tower,\""
+    },
+    {
+      "quote": 44,
+      "line": 1849,
+      "speaker": null,
+      "opening": "\"Name.\""
+    },
+    {
+      "quote": 45,
+      "line": 1851,
+      "speaker": null,
+      "opening": "\"Liora. Thirty-three. She manages the airship berths. Zero"
+    },
+    {
+      "quote": 46,
+      "line": 1853,
+      "speaker": null,
+      "opening": "\"She do it?\""
+    },
+    {
+      "quote": 47,
+      "line": 1855,
+      "speaker": null,
+      "opening": "\"Yes. Her sister was aboard.\""
+    },
+    {
+      "quote": 48,
+      "line": 1857,
+      "speaker": null,
+      "opening": "\"Then your woman sounds smart.\""
+    },
+    {
+      "quote": 49,
+      "line": 1861,
+      "speaker": null,
+      "opening": "\"He said if I helped you, he would"
+    },
+    {
+      "quote": 50,
+      "line": 1865,
+      "speaker": null,
+      "opening": "\"Listen to the song,\""
+    },
+    {
+      "quote": 51,
+      "line": 1867,
+      "speaker": null,
+      "opening": "\"Captain—\""
+    },
+    {
+      "quote": 52,
+      "line": 1869,
+      "speaker": null,
+      "opening": "\"Nigga. Listen. Then watch what happens.\""
+    },
+    {
+      "quote": 53,
+      "line": 1883,
+      "speaker": null,
+      "opening": "\"Beautiful,\""
+    },
+    {
+      "quote": 54,
+      "line": 1885,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 55,
+      "line": 1885,
+      "speaker": null,
+      "opening": "\"Nigga, I know.\""
+    },
+    {
+      "quote": 56,
+      "line": 1889,
+      "speaker": null,
+      "opening": "\"A pity such things are fragile.\""
+    },
+    {
+      "quote": 57,
+      "line": 1897,
+      "speaker": null,
+      "opening": "\"At dinner, really?\""
+    },
+    {
+      "quote": 58,
+      "line": 1901,
+      "speaker": null,
+      "opening": "\"Captain Aiden. You will place the Crown of"
+    },
+    {
+      "quote": 59,
+      "line": 1903,
+      "speaker": null,
+      "opening": "\"Nigga, I didn't bring the crown.\""
+    },
+    {
+      "quote": 60,
+      "line": 1905,
+      "speaker": null,
+      "opening": "\"Then send for it.\""
+    },
+    {
+      "quote": 61,
+      "line": 1907,
+      "speaker": null,
+      "opening": "\"Didn't bring a desire to obey you either.\""
+    },
+    {
+      "quote": 62,
+      "line": 1919,
+      "speaker": null,
+      "opening": "\"You cannot be serious.\""
+    },
+    {
+      "quote": 63,
+      "line": 1921,
+      "speaker": null,
+      "opening": "\"Nigga, they gave me a sword. What you"
+    },
+    {
+      "quote": 64,
+      "line": 1929,
+      "speaker": null,
+      "opening": "\"That was expensive,\""
+    },
+    {
+      "quote": 65,
+      "line": 1931,
+      "speaker": null,
+      "opening": "\"Nigga, so am I.\""
+    },
+    {
+      "quote": 66,
+      "line": 1941,
+      "speaker": null,
+      "opening": "\"Western tower!\""
+    },
+    {
+      "quote": 67,
+      "line": 1943,
+      "speaker": null,
+      "opening": "\"I heard you!\""
+    },
+    {
+      "quote": 68,
+      "line": 1947,
+      "speaker": null,
+      "opening": "\"Brother, your dinner loud as shit!\""
+    },
+    {
+      "quote": 69,
+      "line": 1949,
+      "speaker": null,
+      "opening": "\"We arguing over the check!\""
+    },
+    {
+      "quote": 70,
+      "line": 1951,
+      "speaker": null,
+      "opening": "\"I got the car!\""
+    },
+    {
+      "quote": 71,
+      "line": 1953,
+      "speaker": null,
+      "opening": "\"Get to the western side!\""
+    },
+    {
+      "quote": 72,
+      "line": 1957,
+      "speaker": null,
+      "opening": "\"Liora!\""
+    },
+    {
+      "quote": 73,
+      "line": 1957,
+      "speaker": null,
+      "opening": "\"Gideon's woman. Western tower.\""
+    },
+    {
+      "quote": 74,
+      "line": 1959,
+      "speaker": null,
+      "opening": "\"Then we get her.\""
+    },
+    {
+      "quote": 75,
+      "line": 1967,
+      "speaker": null,
+      "opening": "\"She's on the third landing.\""
+    },
+    {
+      "quote": 76,
+      "line": 1969,
+      "speaker": null,
+      "opening": "\"You go with Vesper and Magnolia,\""
+    },
+    {
+      "quote": 77,
+      "line": 1969,
+      "speaker": null,
+      "opening": "\"Knox, take them down.\""
+    },
+    {
+      "quote": 78,
+      "line": 1971,
+      "speaker": null,
+      "opening": "\"Captain—\""
+    },
+    {
+      "quote": 79,
+      "line": 1973,
+      "speaker": null,
+      "opening": "\"Chief, I'm being excellent. Give me room.\""
+    },
+    {
+      "quote": 80,
+      "line": 1977,
+      "speaker": null,
+      "opening": "\"Bring your wife back. She is the sensible"
+    },
+    {
+      "quote": 81,
+      "line": 1981,
+      "speaker": null,
+      "opening": "\"Hear that?\""
+    },
+    {
+      "quote": 82,
+      "line": 1983,
+      "speaker": null,
+      "opening": "\"Nigga, I hear everything.\""
+    },
+    {
+      "quote": 83,
+      "line": 1995,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 84,
+      "line": 1997,
+      "speaker": null,
+      "opening": "\"I see it.\""
+    },
+    {
+      "quote": 85,
+      "line": 2001,
+      "speaker": null,
+      "opening": "\"Nigga got money,\""
+    },
+    {
+      "quote": 86,
+      "line": 2003,
+      "speaker": null,
+      "opening": "\"So do you. Jump.\""
+    },
+    {
+      "quote": 87,
+      "line": 2015,
+      "speaker": null,
+      "opening": "\"You heavy,\""
+    },
+    {
+      "quote": 88,
+      "line": 2017,
+      "speaker": null,
+      "opening": "\"That's greatness, baby.\""
+    },
+    {
+      "quote": 89,
+      "line": 2019,
+      "speaker": null,
+      "opening": "\"Greatness needs to pull its ass up.\""
+    },
+    {
+      "quote": 90,
+      "line": 2025,
+      "speaker": null,
+      "opening": "\"Door,\""
+    },
+    {
+      "quote": 91,
+      "line": 2029,
+      "speaker": null,
+      "opening": "\"Key.\""
+    },
+    {
+      "quote": 92,
+      "line": 2033,
+      "speaker": null,
+      "opening": "\"Excellent employee,\""
+    },
+    {
+      "quote": 93,
+      "line": 2037,
+      "speaker": null,
+      "opening": "\"Gideon finally did something?\""
+    },
+    {
+      "quote": 94,
+      "line": 2039,
+      "speaker": null,
+      "opening": "\"Nigga did enough,\""
+    },
+    {
+      "quote": 95,
+      "line": 2039,
+      "speaker": null,
+      "opening": "\"Come on.\""
+    },
+    {
+      "quote": 96,
+      "line": 2043,
+      "speaker": null,
+      "opening": "\"I've been packed for six days.\""
+    },
+    {
+      "quote": 97,
+      "line": 2047,
+      "speaker": null,
+      "opening": "\"Get in!\""
+    },
+    {
+      "quote": 98,
+      "line": 2051,
+      "speaker": null,
+      "opening": "\"Nigga, where the Mercedes?\""
+    },
+    {
+      "quote": 99,
+      "line": 2053,
+      "speaker": null,
+      "opening": "\"Parked! I got hobbies!\""
+    },
+    {
+      "quote": 100,
+      "line": 2073,
+      "speaker": null,
+      "opening": "\"How low?\""
+    },
+    {
+      "quote": 101,
+      "line": 2075,
+      "speaker": null,
+      "opening": "\"Lower than the last fucking tunnel!\""
+    },
+    {
+      "quote": 102,
+      "line": 2087,
+      "speaker": null,
+      "opening": "\"I can breathe or I can marry you,\""
+    },
+    {
+      "quote": 103,
+      "line": 2087,
+      "speaker": null,
+      "opening": "\"I would prefer both.\""
+    },
+    {
+      "quote": 104,
+      "line": 2093,
+      "speaker": null,
+      "opening": "\"You okay?\""
+    },
+    {
+      "quote": 105,
+      "line": 2095,
+      "speaker": null,
+      "opening": "\"Nigga punched my mouth.\""
+    },
+    {
+      "quote": 106,
+      "line": 2099,
+      "speaker": null,
+      "opening": "\"Still pretty.\""
+    },
+    {
+      "quote": 107,
+      "line": 2101,
+      "speaker": null,
+      "opening": "\"That's what I was worried about.\""
+    },
+    {
+      "quote": 108,
+      "line": 2109,
+      "speaker": null,
+      "opening": "\"We survived an emperor's manners,\""
+    },
+    {
+      "quote": 109,
+      "line": 2109,
+      "speaker": null,
+      "opening": "\"We deserve sugar.\""
+    },
+    {
+      "quote": 110,
+      "line": 2113,
+      "speaker": null,
+      "opening": "\"The emperor's transport fleet crosses the city tomorrow,\""
+    },
+    {
+      "quote": 111,
+      "line": 2113,
+      "speaker": null,
+      "opening": "\"Cars, fuel tenders, aircraft parts. Everything he wants"
+    },
+    {
+      "quote": 112,
+      "line": 2115,
+      "speaker": null,
+      "opening": "\"What cars?\""
+    },
+    {
+      "quote": 113,
+      "line": 2117,
+      "speaker": null,
+      "opening": "\"His champions' collection.\""
+    },
+    {
+      "quote": 114,
+      "line": 2119,
+      "speaker": null,
+      "opening": "\"Nigga, say that with more detail,\""
+    },
+    {
+      "quote": 115,
+      "line": 2123,
+      "speaker": null,
+      "opening": "\"That's mine,\""
+    },
+    {
+      "quote": 116,
+      "line": 2127,
+      "speaker": null,
+      "opening": "\"Your actual car?\""
+    },
+    {
+      "quote": 117,
+      "line": 2129,
+      "speaker": null,
+      "opening": "\"My father's early championship car. Sol de Abril."
+    },
+    {
+      "quote": 118,
+      "line": 2131,
+      "speaker": null,
+      "opening": "\"It sits in the west motor gallery. Silver"
+    },
+    {
+      "quote": 119,
+      "line": 2135,
+      "speaker": null,
+      "opening": "\"We'll get it,\""
+    },
+    {
+      "quote": 120,
+      "line": 2137,
+      "speaker": null,
+      "opening": "\"You don't know that.\""
+    },
+    {
+      "quote": 121,
+      "line": 2139,
+      "speaker": null,
+      "opening": "\"I know who's sitting here.\""
+    },
+    {
+      "quote": 122,
+      "line": 2143,
+      "speaker": null,
+      "opening": "\"Y'all give a man one bite of cake"
+    },
+    {
+      "quote": 123,
+      "line": 2145,
+      "speaker": null,
+      "opening": "\"You want the little fork or the rescue"
+    },
+    {
+      "quote": 124,
+      "line": 2147,
+      "speaker": null,
+      "opening": "\"Nigga, both.\""
+    },
+    {
+      "quote": 125,
+      "line": 2155,
+      "speaker": null,
+      "opening": "\"You got something?\""
+    },
+    {
+      "quote": 126,
+      "line": 2157,
+      "speaker": null,
+      "opening": "\"Roland chooses the lead drivers. He will expect"
+    },
+    {
+      "quote": 127,
+      "line": 2159,
+      "speaker": null,
+      "opening": "\"That nigga expects compliments. He gets both tomorrow.\""
+    },
+    {
+      "quote": 128,
+      "line": 2161,
+      "speaker": null,
+      "opening": "\"Captain, I am serious.\""
+    },
+    {
+      "quote": 129,
+      "line": 2163,
+      "speaker": null,
+      "opening": "\"So am I. Ask his boat.\""
+    },
+    {
+      "quote": 130,
+      "line": 2165,
+      "speaker": null,
+      "opening": "\"You got me out. You don't have to"
+    },
+    {
+      "quote": 131,
+      "line": 2177,
+      "speaker": null,
+      "opening": "\"Your wife,\""
+    },
+    {
+      "quote": 132,
+      "line": 2177,
+      "speaker": null,
+      "opening": "\"is a remarkable woman.\""
+    },
+    {
+      "quote": 133,
+      "line": 2179,
+      "speaker": null,
+      "opening": "\"Nigga, you just now arriving at that conclusion?\""
+    },
+    {
+      "quote": 134,
+      "line": 2181,
+      "speaker": null,
+      "opening": "\"I have been arriving repeatedly.\""
+    },
+    {
+      "quote": 135,
+      "line": 2183,
+      "speaker": null,
+      "opening": "\"Good. Parking's free.\""
+    },
+    {
+      "quote": 136,
+      "line": 2189,
+      "speaker": null,
+      "opening": "\"Tomorrow,\""
+    },
+    {
+      "quote": 137,
+      "line": 2189,
+      "speaker": null,
+      "opening": "\"bring her car home.\""
+    },
+    {
+      "quote": 138,
+      "line": 2193,
+      "speaker": null,
+      "opening": "\"And then quit acting like you only came"
+    },
+    {
+      "quote": 139,
+      "line": 2201,
+      "speaker": null,
+      "opening": "\"You keep those?\""
+    },
+    {
+      "quote": 140,
+      "line": 2203,
+      "speaker": null,
+      "opening": "\"Nigga, I stole a boat for love. I'm"
+    },
+    {
+      "quote": 141,
+      "line": 2207,
+      "speaker": null,
+      "opening": "\"To love.\""
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "chapter_id": "b06-c18",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 118,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 7053,
+      "speaker": null,
+      "opening": "\"Who this?\""
+    },
+    {
+      "quote": 2,
+      "line": 7055,
+      "speaker": null,
+      "opening": "\"Damon. We met yesterday. The blue coupe.\""
+    },
+    {
+      "quote": 3,
+      "line": 7057,
+      "speaker": null,
+      "opening": "\"Nigga, yesterday had a fleet. Narrow it down.\""
+    },
+    {
+      "quote": 4,
+      "line": 7059,
+      "speaker": null,
+      "opening": "\"You said the track. For love.\""
+    },
+    {
+      "quote": 5,
+      "line": 7063,
+      "speaker": null,
+      "opening": "\"That one,\""
+    },
+    {
+      "quote": 6,
+      "line": 7067,
+      "speaker": null,
+      "opening": "\"You got a track?\""
+    },
+    {
+      "quote": 7,
+      "line": 7069,
+      "speaker": null,
+      "opening": "\"Las Vegas College. New driving center. I teach"
+    },
+    {
+      "quote": 8,
+      "line": 7073,
+      "speaker": null,
+      "opening": "\"Nigga, Mercer still crying?\""
+    },
+    {
+      "quote": 9,
+      "line": 7077,
+      "speaker": null,
+      "opening": "\"How did you know?\""
+    },
+    {
+      "quote": 10,
+      "line": 7087,
+      "speaker": null,
+      "opening": "\"No Blue Thunder.\""
+    },
+    {
+      "quote": 11,
+      "line": 7089,
+      "speaker": null,
+      "opening": "\"Wasn't planning on it.\""
+    },
+    {
+      "quote": 12,
+      "line": 7091,
+      "speaker": null,
+      "opening": "\"No pretending that because the wound is shallow,"
+    },
+    {
+      "quote": 13,
+      "line": 7093,
+      "speaker": null,
+      "opening": "\"Nigga, I opened doors for people.\""
+    },
+    {
+      "quote": 14,
+      "line": 7095,
+      "speaker": null,
+      "opening": "\"With your shoulder.\""
+    },
+    {
+      "quote": 15,
+      "line": 7099,
+      "speaker": null,
+      "opening": "\"I'll go with him.\""
+    },
+    {
+      "quote": 16,
+      "line": 7103,
+      "speaker": null,
+      "opening": "\"You are part of the problem.\""
+    },
+    {
+      "quote": 17,
+      "line": 7105,
+      "speaker": null,
+      "opening": "\"I know. I'm keeping my part supervised.\""
+    },
+    {
+      "quote": 18,
+      "line": 7111,
+      "speaker": null,
+      "opening": "\"No lightning.\""
+    },
+    {
+      "quote": 19,
+      "line": 7113,
+      "speaker": null,
+      "opening": "\"Sir?\""
+    },
+    {
+      "quote": 20,
+      "line": 7115,
+      "speaker": null,
+      "opening": "\"Nigga, I'm beating you ordinary today. Be grateful.\""
+    },
+    {
+      "quote": 21,
+      "line": 7139,
+      "speaker": null,
+      "opening": "\"You taught them that.\""
+    },
+    {
+      "quote": 22,
+      "line": 7141,
+      "speaker": null,
+      "opening": "\"Nigga, some lessons take.\""
+    },
+    {
+      "quote": 23,
+      "line": 7143,
+      "speaker": null,
+      "opening": "\"That's a building, Aiden.\""
+    },
+    {
+      "quote": 24,
+      "line": 7145,
+      "speaker": null,
+      "opening": "\"Education needs space.\""
+    },
+    {
+      "quote": 25,
+      "line": 7151,
+      "speaker": null,
+      "opening": "\"Home.\""
+    },
+    {
+      "quote": 26,
+      "line": 7153,
+      "speaker": null,
+      "opening": "\"Home,\""
+    },
+    {
+      "quote": 27,
+      "line": 7161,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 28,
+      "line": 7163,
+      "speaker": null,
+      "opening": "\"Principal. You saving any water for the track?\""
+    },
+    {
+      "quote": 29,
+      "line": 7167,
+      "speaker": null,
+      "opening": "\"You came back.\""
+    },
+    {
+      "quote": 30,
+      "line": 7169,
+      "speaker": null,
+      "opening": "\"Nigga, y'all keep putting my name on things."
+    },
+    {
+      "quote": 31,
+      "line": 7171,
+      "speaker": null,
+      "opening": "\"The academy donated simulators. The city helped with"
+    },
+    {
+      "quote": 32,
+      "line": 7173,
+      "speaker": null,
+      "opening": "\"My graduates?\""
+    },
+    {
+      "quote": 33,
+      "line": 7175,
+      "speaker": null,
+      "opening": "\"They insist.\""
+    },
+    {
+      "quote": 34,
+      "line": 7177,
+      "speaker": null,
+      "opening": "\"Nigga, I graduate once and acquire dependents.\""
+    },
+    {
+      "quote": 35,
+      "line": 7179,
+      "speaker": null,
+      "opening": "\"They also formed an alumni committee.\""
+    },
+    {
+      "quote": 36,
+      "line": 7181,
+      "speaker": null,
+      "opening": "\"Do I owe dues?\""
+    },
+    {
+      "quote": 37,
+      "line": 7183,
+      "speaker": null,
+      "opening": "\"You owe an appearance.\""
+    },
+    {
+      "quote": 38,
+      "line": 7187,
+      "speaker": null,
+      "opening": "\"Paid. Look at the quality.\""
+    },
+    {
+      "quote": 39,
+      "line": 7193,
+      "speaker": null,
+      "opening": "\"Our nigga,\""
+    },
+    {
+      "quote": 40,
+      "line": 7195,
+      "speaker": null,
+      "opening": "\"Our captain,\""
+    },
+    {
+      "quote": 41,
+      "line": 7197,
+      "speaker": null,
+      "opening": "\"Nigga, he can be both. We literally studied"
+    },
+    {
+      "quote": 42,
+      "line": 7201,
+      "speaker": null,
+      "opening": "\"That nigga kept the textbook.\""
+    },
+    {
+      "quote": 43,
+      "line": 7207,
+      "speaker": null,
+      "opening": "\"Come on. They need the track.\""
+    },
+    {
+      "quote": 44,
+      "line": 7217,
+      "speaker": null,
+      "opening": "\"Leila,\""
+    },
+    {
+      "quote": 45,
+      "line": 7217,
+      "speaker": null,
+      "opening": "\"My girlfriend. She's thirty. Works nights. I made"
+    },
+    {
+      "quote": 46,
+      "line": 7219,
+      "speaker": null,
+      "opening": "\"Nigga, you opening with an apology,\""
+    },
+    {
+      "quote": 47,
+      "line": 7219,
+      "speaker": null,
+      "opening": "\"Strong choice.\""
+    },
+    {
+      "quote": 48,
+      "line": 7223,
+      "speaker": null,
+      "opening": "\"He has watched every clip of you driving"
+    },
+    {
+      "quote": 49,
+      "line": 7227,
+      "speaker": null,
+      "opening": "\"Our relationship spreading.\""
+    },
+    {
+      "quote": 50,
+      "line": 7229,
+      "speaker": null,
+      "opening": "\"Nigga, good education travels.\""
+    },
+    {
+      "quote": 51,
+      "line": 7233,
+      "speaker": null,
+      "opening": "\"I thought maybe one lap. Just so I"
+    },
+    {
+      "quote": 52,
+      "line": 7235,
+      "speaker": null,
+      "opening": "\"Three,\""
+    },
+    {
+      "quote": 53,
+      "line": 7239,
+      "speaker": null,
+      "opening": "\"Three?\""
+    },
+    {
+      "quote": 54,
+      "line": 7241,
+      "speaker": null,
+      "opening": "\"One lap, a nigga can blame the coffee."
+    },
+    {
+      "quote": 55,
+      "line": 7251,
+      "speaker": null,
+      "opening": "\"Keys.\""
+    },
+    {
+      "quote": 56,
+      "line": 7255,
+      "speaker": null,
+      "opening": "\"Mine?\""
+    },
+    {
+      "quote": 57,
+      "line": 7257,
+      "speaker": null,
+      "opening": "\"Nigga, I ain't asking for your house. Yes,"
+    },
+    {
+      "quote": 58,
+      "line": 7265,
+      "speaker": null,
+      "opening": "\"Drive mine,\""
+    },
+    {
+      "quote": 59,
+      "line": 7265,
+      "speaker": null,
+      "opening": "\"I'll drive yours. Let your girl see you"
+    },
+    {
+      "quote": 60,
+      "line": 7269,
+      "speaker": null,
+      "opening": "\"Captain—\""
+    },
+    {
+      "quote": 61,
+      "line": 7271,
+      "speaker": null,
+      "opening": "\"Nigga, hold the wheel with both hands when"
+    },
+    {
+      "quote": 62,
+      "line": 7277,
+      "speaker": null,
+      "opening": "\"You letting this nigga drive the Lambo?\""
+    },
+    {
+      "quote": 63,
+      "line": 7279,
+      "speaker": null,
+      "opening": "\"Closed track.\""
+    },
+    {
+      "quote": 64,
+      "line": 7281,
+      "speaker": null,
+      "opening": "\"That has not traditionally limited you.\""
+    },
+    {
+      "quote": 65,
+      "line": 7283,
+      "speaker": null,
+      "opening": "\"Nigga, I'm lending him the car. Not the"
+    },
+    {
+      "quote": 66,
+      "line": 7313,
+      "speaker": null,
+      "opening": "\"There you go,\""
+    },
+    {
+      "quote": 67,
+      "line": 7329,
+      "speaker": null,
+      "opening": "\"You beat me in mine.\""
+    },
+    {
+      "quote": 68,
+      "line": 7331,
+      "speaker": null,
+      "opening": "\"Nigga, you made a good car. I wanted"
+    },
+    {
+      "quote": 69,
+      "line": 7337,
+      "speaker": null,
+      "opening": "\"Fastest lap recorded here,\""
+    },
+    {
+      "quote": 70,
+      "line": 7339,
+      "speaker": null,
+      "opening": "\"Track's new,\""
+    },
+    {
+      "quote": 71,
+      "line": 7341,
+      "speaker": null,
+      "opening": "\"So was the record.\""
+    },
+    {
+      "quote": 72,
+      "line": 7347,
+      "speaker": null,
+      "opening": "\"My car!\""
+    },
+    {
+      "quote": 73,
+      "line": 7349,
+      "speaker": null,
+      "opening": "\"Nigga, your car,\""
+    },
+    {
+      "quote": 74,
+      "line": 7349,
+      "speaker": null,
+      "opening": "\"You keeping the paper. I got enough things"
+    },
+    {
+      "quote": 75,
+      "line": 7355,
+      "speaker": null,
+      "opening": "\"You made his year.\""
+    },
+    {
+      "quote": 76,
+      "line": 7357,
+      "speaker": null,
+      "opening": "\"Nigga made mine letting me borrow a car"
+    },
+    {
+      "quote": 77,
+      "line": 7379,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 78,
+      "line": 7383,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 79,
+      "line": 7411,
+      "speaker": null,
+      "opening": "\"Aiden!\""
+    },
+    {
+      "quote": 80,
+      "line": 7413,
+      "speaker": null,
+      "opening": "\"Nigga, I'm here!\""
+    },
+    {
+      "quote": 81,
+      "line": 7423,
+      "speaker": null,
+      "opening": "\"Professor,\""
+    },
+    {
+      "quote": 82,
+      "line": 7423,
+      "speaker": null,
+      "opening": "\"you trust me?\""
+    },
+    {
+      "quote": 83,
+      "line": 7427,
+      "speaker": null,
+      "opening": "\"Unfortunately, completely.\""
+    },
+    {
+      "quote": 84,
+      "line": 7435,
+      "speaker": null,
+      "opening": "\"Keep your head down,\""
+    },
+    {
+      "quote": 85,
+      "line": 7437,
+      "speaker": null,
+      "opening": "\"I have observed the method before.\""
+    },
+    {
+      "quote": 86,
+      "line": 7453,
+      "speaker": null,
+      "opening": "\"Lorne!\""
+    },
+    {
+      "quote": 87,
+      "line": 7461,
+      "speaker": null,
+      "opening": "\"Take them!\""
+    },
+    {
+      "quote": 88,
+      "line": 7475,
+      "speaker": null,
+      "opening": "\"Now,\""
+    },
+    {
+      "quote": 89,
+      "line": 7503,
+      "speaker": null,
+      "opening": "\"I will be charging the college.\""
+    },
+    {
+      "quote": 90,
+      "line": 7505,
+      "speaker": null,
+      "opening": "\"Nigga, charge me,\""
+    },
+    {
+      "quote": 91,
+      "line": 7505,
+      "speaker": null,
+      "opening": "\"Get two pairs.\""
+    },
+    {
+      "quote": 92,
+      "line": 7509,
+      "speaker": null,
+      "opening": "\"No lightning?\""
+    },
+    {
+      "quote": 93,
+      "line": 7511,
+      "speaker": null,
+      "opening": "\"No lightning.\""
+    },
+    {
+      "quote": 94,
+      "line": 7517,
+      "speaker": null,
+      "opening": "\"Good,\""
+    },
+    {
+      "quote": 95,
+      "line": 7517,
+      "speaker": null,
+      "opening": "\"I want the whole man at the wedding.\""
+    },
+    {
+      "quote": 96,
+      "line": 7519,
+      "speaker": null,
+      "opening": "\"Nigga doing his best to remain available.\""
+    },
+    {
+      "quote": 97,
+      "line": 7523,
+      "speaker": null,
+      "opening": "\"We'll fix it,\""
+    },
+    {
+      "quote": 98,
+      "line": 7527,
+      "speaker": null,
+      "opening": "\"It took me twelve years.\""
+    },
+    {
+      "quote": 99,
+      "line": 7529,
+      "speaker": null,
+      "opening": "\"Then the next twelve don't get to start"
+    },
+    {
+      "quote": 100,
+      "line": 7535,
+      "speaker": null,
+      "opening": "\"You never attended my class.\""
+    },
+    {
+      "quote": 101,
+      "line": 7537,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 102,
+      "line": 7539,
+      "speaker": null,
+      "opening": "\"I have been teaching your work for years.\""
+    },
+    {
+      "quote": 103,
+      "line": 7541,
+      "speaker": null,
+      "opening": "\"Nigga, I hope it helped.\""
+    },
+    {
+      "quote": 104,
+      "line": 7545,
+      "speaker": null,
+      "opening": "\"It has been an education.\""
+    },
+    {
+      "quote": 105,
+      "line": 7549,
+      "speaker": null,
+      "opening": "\"Your record.\""
+    },
+    {
+      "quote": 106,
+      "line": 7553,
+      "speaker": null,
+      "opening": "\"Principal, you carried that through a car rescue.\""
+    },
+    {
+      "quote": 107,
+      "line": 7555,
+      "speaker": null,
+      "opening": "\"It belongs to the college.\""
+    },
+    {
+      "quote": 108,
+      "line": 7567,
+      "speaker": null,
+      "opening": "\"You want us there?\""
+    },
+    {
+      "quote": 109,
+      "line": 7571,
+      "speaker": null,
+      "opening": "\"Nigga, you thought I came back just to"
+    },
+    {
+      "quote": 110,
+      "line": 7577,
+      "speaker": null,
+      "opening": "\"We will be there,\""
+    },
+    {
+      "quote": 111,
+      "line": 7581,
+      "speaker": null,
+      "opening": "\"All of us?\""
+    },
+    {
+      "quote": 112,
+      "line": 7585,
+      "speaker": null,
+      "opening": "\"All of you.\""
+    },
+    {
+      "quote": 113,
+      "line": 7591,
+      "speaker": null,
+      "opening": "\"For love,\""
+    },
+    {
+      "quote": 114,
+      "line": 7595,
+      "speaker": null,
+      "opening": "\"Nigga, you finally brought the right reason.\""
+    },
+    {
+      "quote": 115,
+      "line": 7601,
+      "speaker": null,
+      "opening": "\"How's the shoulder?\""
+    },
+    {
+      "quote": 116,
+      "line": 7603,
+      "speaker": null,
+      "opening": "\"Complaining.\""
+    },
+    {
+      "quote": 117,
+      "line": 7605,
+      "speaker": null,
+      "opening": "\"How's the ego?\""
+    },
+    {
+      "quote": 118,
+      "line": 7609,
+      "speaker": null,
+      "opening": "\"Nigga, thriving.\""
+    }
+  ]
+}

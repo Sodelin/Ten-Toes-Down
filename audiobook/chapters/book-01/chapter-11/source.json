@@ -1,0 +1,18 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": 1,
+  "chapter": 11,
+  "chapter_title": "11. Blue Mercy",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-01.md",
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 6138,
+    "end_line": 6732,
+    "sha256": "9e1525688ecae978dbf93a1e51694fa75502664cf9f57df0c76b0c769646df75"
+  },
+  "spoken_text_policy": "Verbatim chapter body. Headings are track metadata. Printed quotation delimiters, paired Markdown emphasis and scene separators are formatting."
+}

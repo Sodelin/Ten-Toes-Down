@@ -1,0 +1,435 @@
+Shawna had sold out the Golden Arena before Zero could cancel her concert.
+
+The nigga tried anyway.
+
+At noon, a palace messenger arrived at our hotel carrying a decree. At twelve-oh-one, Rosa took it from him, read the first sentence, and handed it back folded into a paper fan.
+
+"Tell your emperor it's hot," she said.
+
+At twelve-oh-three, Mercedes posted a photograph of the fan beside the concert tickets.
+
+At twelve-oh-five, the remaining seats sold out.
+
+Nigga, even censorship was working for my wife's promotion.
+
+I found her in the ballroom rehearsing with Sienna and her sister, the cellist, plus three musicians Seraphine had brought from Sky High. Rosa sat at the piano. The women had taken the room from champagne to music without asking any of the armed men to have an opinion. I stood in the doorway and listened until Shawna caught me.
+
+"You hovering?"
+
+"Nigga, I'm appreciating."
+
+"Appreciate from over here."
+
+She held out her hand.
+
+I went to her.
+
+"Sing the second line."
+
+"Baby, you got professionals."
+
+"I married one."
+
+Rosa looked up from the piano.
+
+"Don't start that modest shit. You do it twice a year and nobody enjoys it."
+
+Tank appeared behind me holding a tray of drinks.
+
+"This nigga modest? Where? I wanna see."
+
+"I was being supportive," I said.
+
+"Nigga, support the melody."
+
+The pianist played the phrase again.
+
+I sang it.
+
+The room stopped.
+
+Sienna lowered her violin. The music instructor took off his glasses. Tank looked from me to the ceiling like he expected somebody to explain why his brother had been hiding another fucking talent.
+
+Shawna smiled.
+
+"Again."
+
+I sang with her this time. Her voice rose over mine, bright and fierce, and I held the lower line steady beneath it. We had sung in cars, in bedrooms, over breakfast while she stole my toast. I knew how her breath moved before a high note. I knew when she would lean forward, when she would close her eyes, when she would smile halfway through a word because something in it belonged to us.
+
+That knowledge sounded different through a microphone.
+
+When we finished, the Sky High instructor sat down very slowly.
+
+"Captain," he said, "have you received formal training?"
+
+Tank answered for me.
+
+"Nigga doesn't attend classes. Classes attend him."
+
+The room broke apart laughing.
+
+Shawna kissed my hand.
+
+"You're singing tonight."
+
+"How many songs?"
+
+"One."
+
+"Nigga, I already know they gonna ask for more."
+
+"Then learn the second verse before you become difficult."
+
+Across the courtyard, June and Adrian were fitting stronger lights to the rescue vehicles. Liora stood with them, explaining the airship berths above the arena. Zero housed traveling workers in locked quarters beneath the stands whenever he wanted to make sure the show finished before anybody collected their pay. There were technicians, cooks, dancers, drivers. Grown people who had come for a contract and discovered the city treated leaving as a privilege.
+
+Tonight the arena would be full. Tonight those workers would be close to a door.
+
+I went outside and found Roland standing over Liora's sketch.
+
+Tank stood beside him with his arms folded.
+
+"This nigga tells us one lie," Tank said, "I'm making him eat the sketch."
+
+Roland nodded.
+
+"A reasonable precaution."
+
+"Don't agree so politely. Makes me suspicious."
+
+I leaned over the table.
+
+"What's the problem?"
+
+Roland pointed at the western entrance.
+
+"Anton Atlas. Zero's arena champion. He controls the lower halls."
+
+"He a lock?"
+
+"He is a very large man."
+
+"Nigga, so is Tank. I still get into the kitchen."
+
+Tank grinned.
+
+"Atlas will not leave his post while the workers remain inside," Roland said.
+
+"Then I'll move his post."
+
+Liora looked up.
+
+"Aiden, he isn't the only guard."
+
+"Good. Nigga would get lonely."
+
+Shawna joined us, looked at the sketch, and listened without interrupting. When Roland finished, she pointed at the stage entrance on the opposite side.
+
+"The musicians use this hall?"
+
+Liora nodded.
+
+"Then Sienna's people can bring them through during the last song. Everybody in black stage clothes. Nobody stops a crew carrying cases while the lights are down."
+
+"The guards may," Roland said.
+
+Shawna looked at me.
+
+"That's why my husband is going to become distracting."
+
+Nigga, the room had never accused me of lacking that qualification.
+
+The Golden Arena looked like a crown laid flat on the ground. Gold arches circled a central stage. Above it, airship platforms extended from four towers. Below, a thousand doors led into corridors where Zero kept the people who made his parties possible.
+
+We arrived at dusk.
+
+The crowd knew my wife's name.
+
+Not Mrs. Aiden. Shawna.
+
+They chanted it when her car stopped. Women in blue dresses waved from the steps. Men held records and photographs. A group of singers from the old quarter had brought a banner with a painted microphone on it. Shawna looked at the crowd and went very still beside me.
+
+"Baby?"
+
+She swallowed.
+
+"They came for the songs."
+
+"Nigga, what you think you been doing all this time?"
+
+She hit my arm lightly, laughing through the sudden shine in her eyes.
+
+"You know what I mean."
+
+I did.
+
+I got out first, then opened her door.
+
+The cheering hit us like weather.
+
+A woman near the barrier began singing one of Shawna's songs. Somebody joined her. Then somebody else. My wife stood on the steps listening to a thousand strangers carry her words back to her, and I had never been more proud of anything I had failed to personally invent.
+
+"That's my wife," I told a guard.
+
+"Yes, Captain."
+
+"Nigga, I just wanted to make sure the information was circulating."
+
+He smiled.
+
+"Widely."
+
+Inside, Anton Atlas waited beside the stage doors.
+
+Roland had not exaggerated. The nigga looked like somebody had built a second man around a first man for protection. Thirty-six, according to the fight posters. Shaved head. Black suit. Hands big enough to argue with furniture.
+
+He held up one of those hands when I approached.
+
+"Performers only."
+
+I pointed at the microphone in my hand.
+
+"What you think this is? A little flashlight?"
+
+"You are not on the program."
+
+Shawna took the printed program from him, found a pen in her bag, and wrote my name beneath hers.
+
+"Now he is."
+
+Anton looked at the page. Then at me.
+
+"You think that settles it?"
+
+"Nigga, I'm married. I know when something settled."
+
+He did not move.
+
+Tank came up beside me.
+
+Anton looked at Tank.
+
+Tank looked at Anton.
+
+A whole conversation happened without words. Two very large niggas examining whether the other one was worth the trouble of taking off a jacket.
+
+"I got this," I told Tank.
+
+"I wanted some of it."
+
+"Save your suit. Rosa got pictures planned."
+
+He sighed and stepped back.
+
+Anton smiled.
+
+"The captain wants to fight?"
+
+"The captain wants to sing. You the nigga making it athletic."
+
+He took off his jacket.
+
+So did I.
+
+Somebody in the corridor shouted that Aiden was fighting Atlas. Within thirty seconds the arena camera crew had arrived, followed by three palace officials who all wanted to decide whether the fight counted as part of the show. They argued until Shawna took the nearest camera and pointed it at us herself.
+
+"It counts," she said.
+
+The big screens above the stage lit up.
+
+The audience roared.
+
+Anton heard them and grinned.
+
+"They love a champion."
+
+"Nigga, wait till they see the other one."
+
+He swung.
+
+I ducked under the punch and struck his side. The nigga barely moved. I hit him again. He caught my shoulder and threw me into a stack of padded equipment cases.
+
+The crowd gasped through the speakers.
+
+I stood, adjusted my shirt, and looked at my wife.
+
+"Sound check."
+
+She laughed.
+
+Anton came forward.
+
+This time I moved before he reached me. I stepped onto the lowest case, ran up the next two, and jumped over his reaching arm. My boot caught his shoulder. I landed behind him and drove him into the wall with every ounce of momentum I had borrowed from gravity.
+
+The wall cracked.
+
+The nigga laughed.
+
+"Good!"
+
+"Don't encourage him," Tank muttered.
+
+Anton turned and caught me around the middle. He lifted. My feet left the floor.
+
+I had one clear thought.
+
+This nigga is about to make my wife watch me become furniture.
+
+I braced my hands against the doorframe above us, pulled my knees up, and pushed off. Anton stumbled backward with me still in his arms. We hit the edge of the stage door together and burst into the arena beneath a storm of lights.
+
+The audience stood.
+
+Shawna walked onto the stage behind us carrying her microphone.
+
+"Good evening," she said. "My husband is running slightly late."
+
+Nigga, the whole arena laughed while I fought for my fucking schedule.
+
+Anton tried to turn me over his shoulder. I twisted, landed on my feet, and caught his arm. The stage beneath us vibrated with the bass line Rosa had instructed the band to start. The musicians were scoring my fistfight like I had rehearsed it.
+
+I hit Anton in the chest. Once. Twice. He swung again. I slipped inside the reach and drove upward with a punch that made his eyes widen.
+
+The giant stepped back.
+
+Another step.
+
+Then he sat down in the chair placed for the cellist.
+
+The chair broke.
+
+The arena exploded.
+
+Anton lay in the wreckage for a moment, staring up at me. I stood over him breathing hard, my shirt torn at one shoulder, my wife beside me with a hand on her hip.
+
+"You finished?" she asked.
+
+I looked at Anton.
+
+He started laughing.
+
+"Nigga," he said, "you really are that man."
+
+I offered my hand.
+
+"Been trying to tell people."
+
+He took it. I hauled him up. The audience cheered louder when he raised my arm than when I had knocked him down.
+
+Behind the stage, Tank and Liora moved through the now-unwatched corridor.
+
+Shawna touched my face.
+
+"Sing."
+
+I took the microphone.
+
+The band began.
+
+Nigga, I sang like I had not just argued with a mountain. I sang to my wife in front of the whole city. The first line came out low and steady. The second rose. When Shawna joined me, the arena changed from a place where somebody might get killed into a room where nobody wanted the night to end.
+
+Below us, Sienna's people began bringing workers through the stage corridor. Black clothes. Instrument cases. Heads down, then lifting as they heard the crowd. Rosa met each group at the loading doors and sent them toward the waiting cars.
+
+I saw it from the stage in flashes.
+
+A cook gripping a violin case he did not know how to hold. A dancer carrying a cable coil like a crown. Two drivers supporting a man with a sprained ankle. Grown people moving toward an exit that finally belonged to them.
+
+Then a Black Mantle officer appeared at the corridor mouth.
+
+He raised his gun.
+
+Shawna saw him before I did.
+
+She turned the last note into a shout.
+
+"Down!"
+
+I grabbed her and dropped behind the piano as the shot cracked over the stage.
+
+The audience screamed.
+
+Anton moved.
+
+Nigga, that big motherfucker crossed the stage like a building had decided to change addresses. He struck the officer before a second shot could come. The gun flew. Tank caught the next guard coming through the door and drove him backward into the corridor.
+
+I rose behind the piano with my pistol in my hand.
+
+Shawna took the microphone.
+
+"Stay low! Follow the lights on the left!"
+
+Her voice cut through the panic. People listened because they had already spent the night listening to her. The crowd moved toward the open aisles. Seraphine appeared above the far entrance, wind holding a falling light rig away from the seats. Victor stood beside her, electricity flashing between his hands in short, controlled bursts that drove the guards off the upper walkway.
+
+I fired toward the stage door, covering Tank and Anton as they pushed the attackers back. Shawna stayed behind the piano, guiding the audience until Knox's officers reached the aisles.
+
+A palace truck crashed through the loading entrance.
+
+Then the Last Word crashed through the opposite door.
+
+June drove it onto the stage.
+
+Nigga, my car had made its concert debut before my second verse.
+
+"Get in!" she yelled.
+
+"The workers!"
+
+"Rosa has them! Get your famous ass inside!"
+
+Anton lifted the piano's fallen side panel away from Shawna. I pulled her into the car. Tank jumped onto the rear step, holding the open door as June drove us off the stage, through the loading hall, and into the cool night beyond.
+
+We emerged behind a line of buses full of the people we had come for.
+
+Rosa stood through the roof of the lead bus, waving both arms.
+
+"Everybody accounted for!"
+
+Shawna leaned against me and laughed once, breathless and shaking.
+
+"I didn't finish the song."
+
+"Nigga, you sold out the building and stole the staff. That's a strong debut."
+
+She put her forehead against mine.
+
+Behind us, the arena glowed under emergency lights. The emperor's officers ran through corridors that no longer held the people they had expected to command.
+
+Anton climbed onto the back of the bus beside Tank.
+
+The two giants looked at each other.
+
+"You hit him hard," Tank said.
+
+"He hit me harder."
+
+"Nigga, welcome to the experience."
+
+At the hotel, the rescued workers filled the courtyard with noise. Some called friends. Some cried. Some went straight to the kitchen because apparently surviving captivity did not cure a cook of wanting to inspect somebody else's stove.
+
+Shawna sat on the fountain wall. I sat beside her.
+
+A woman from the stage crew approached carrying a cracked microphone.
+
+"You left this," she said.
+
+Shawna took it.
+
+"Thank you."
+
+"My mother watched the broadcast. She said you were magnificent."
+
+My wife looked at me.
+
+I touched the cross under my torn shirt.
+
+"Runs in the family."
+
+She laughed and leaned against my shoulder.
+
+A moment later, the courtyard began singing her unfinished song.
+
+One voice. Then another. Then all those niggas, all those women, all those people who had walked through a door because she kept the city listening.
+
+She stood.
+
+I gave her the microphone.
+
+This time, nobody interrupted the last verse.

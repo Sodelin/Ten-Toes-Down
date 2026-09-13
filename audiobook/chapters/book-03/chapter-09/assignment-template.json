@@ -1,0 +1,643 @@
+{
+  "chapter_id": "b03-c09",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 106,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3567,
+      "speaker": null,
+      "opening": "“Nigga, you don't own a racing yacht.”"
+    },
+    {
+      "quote": 2,
+      "line": 3571,
+      "speaker": null,
+      "opening": "“Did that sentence feel poor coming out?”"
+    },
+    {
+      "quote": 3,
+      "line": 3573,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 4,
+      "line": 3575,
+      "speaker": null,
+      "opening": "“Nigga, do your mouth need a loan?”"
+    },
+    {
+      "quote": 5,
+      "line": 3585,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 6,
+      "line": 3585,
+      "speaker": null,
+      "opening": "“That's the crew.”"
+    },
+    {
+      "quote": 7,
+      "line": 3587,
+      "speaker": null,
+      "opening": "“That's a hostage,”"
+    },
+    {
+      "quote": 8,
+      "line": 3589,
+      "speaker": null,
+      "opening": "“What's wrong with the boat?”"
+    },
+    {
+      "quote": 9,
+      "line": 3591,
+      "speaker": null,
+      "opening": "“Where you want me to begin?”"
+    },
+    {
+      "quote": 10,
+      "line": 3593,
+      "speaker": null,
+      "opening": "“The part that floats.”"
+    },
+    {
+      "quote": 11,
+      "line": 3595,
+      "speaker": null,
+      "opening": "“That might take longer.”"
+    },
+    {
+      "quote": 12,
+      "line": 3599,
+      "speaker": null,
+      "opening": "“I'm not putting you in that.”"
+    },
+    {
+      "quote": 13,
+      "line": 3601,
+      "speaker": null,
+      "opening": "“Thank you.”"
+    },
+    {
+      "quote": 14,
+      "line": 3603,
+      "speaker": null,
+      "opening": "“I got enough work without retrieving you.”"
+    },
+    {
+      "quote": 15,
+      "line": 3605,
+      "speaker": null,
+      "opening": "“I could tow it.”"
+    },
+    {
+      "quote": 16,
+      "line": 3607,
+      "speaker": null,
+      "opening": "“You could finish breakfast before inventing another occupation.”"
+    },
+    {
+      "quote": 17,
+      "line": 3611,
+      "speaker": null,
+      "opening": "“My father kept a boat here,”"
+    },
+    {
+      "quote": 18,
+      "line": 3611,
+      "speaker": null,
+      "opening": "“Before the island.”"
+    },
+    {
+      "quote": 19,
+      "line": 3613,
+      "speaker": null,
+      "opening": "“The Red Saint?”"
+    },
+    {
+      "quote": 20,
+      "line": 3615,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 21,
+      "line": 3617,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 22,
+      "line": 3617,
+      "speaker": null,
+      "opening": "“every vehicle in this family got a religious"
+    },
+    {
+      "quote": 23,
+      "line": 3619,
+      "speaker": null,
+      "opening": "“She's fast.”"
+    },
+    {
+      "quote": 24,
+      "line": 3621,
+      "speaker": null,
+      "opening": "“Then I'm prepared to convert.”"
+    },
+    {
+      "quote": 25,
+      "line": 3625,
+      "speaker": null,
+      "opening": "“Why keep that?”"
+    },
+    {
+      "quote": 26,
+      "line": 3627,
+      "speaker": null,
+      "opening": "“In case anybody complains about my estimate.”"
+    },
+    {
+      "quote": 27,
+      "line": 3631,
+      "speaker": null,
+      "opening": "“I thought if I opened it, I'd have"
+    },
+    {
+      "quote": 28,
+      "line": 3633,
+      "speaker": null,
+      "opening": "“Now you can ask him,”"
+    },
+    {
+      "quote": 29,
+      "line": 3639,
+      "speaker": null,
+      "opening": "“Nero beat me three times in this,”"
+    },
+    {
+      "quote": 30,
+      "line": 3643,
+      "speaker": null,
+      "opening": "“He said four.”"
+    },
+    {
+      "quote": 31,
+      "line": 3645,
+      "speaker": null,
+      "opening": "“One was wind.”"
+    },
+    {
+      "quote": 32,
+      "line": 3647,
+      "speaker": null,
+      "opening": "“Nigga, wind participates in boats,”"
+    },
+    {
+      "quote": 33,
+      "line": 3659,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 34,
+      "line": 3659,
+      "speaker": null,
+      "opening": "“you the fountain driver?”"
+    },
+    {
+      "quote": 35,
+      "line": 3661,
+      "speaker": null,
+      "opening": "“The yacht driver,”"
+    },
+    {
+      "quote": 36,
+      "line": 3663,
+      "speaker": null,
+      "opening": "“The staircase driver,”"
+    },
+    {
+      "quote": 37,
+      "line": 3667,
+      "speaker": null,
+      "opening": "“All them niggas is the same nigga. Keep"
+    },
+    {
+      "quote": 38,
+      "line": 3675,
+      "speaker": null,
+      "opening": "“Captain Aiden,”"
+    },
+    {
+      "quote": 39,
+      "line": 3675,
+      "speaker": null,
+      "opening": "“A pleasure.”"
+    },
+    {
+      "quote": 40,
+      "line": 3677,
+      "speaker": null,
+      "opening": "“Depends how the night goes.”"
+    },
+    {
+      "quote": 41,
+      "line": 3681,
+      "speaker": null,
+      "opening": "“You still owe Paloma.”"
+    },
+    {
+      "quote": 42,
+      "line": 3685,
+      "speaker": null,
+      "opening": "“I sent the payment.”"
+    },
+    {
+      "quote": 43,
+      "line": 3687,
+      "speaker": null,
+      "opening": "“You sent flowers.”"
+    },
+    {
+      "quote": 44,
+      "line": 3689,
+      "speaker": null,
+      "opening": "“Very expensive flowers.”"
+    },
+    {
+      "quote": 45,
+      "line": 3691,
+      "speaker": null,
+      "opening": "“Nigga, flowers don't pay rent unless she sells"
+    },
+    {
+      "quote": 46,
+      "line": 3697,
+      "speaker": null,
+      "opening": "“She's awake. You can apologize live.”"
+    },
+    {
+      "quote": 47,
+      "line": 3705,
+      "speaker": null,
+      "opening": "“Nigga, I know,”"
+    },
+    {
+      "quote": 48,
+      "line": 3713,
+      "speaker": null,
+      "opening": "“You drive well,”"
+    },
+    {
+      "quote": 49,
+      "line": 3713,
+      "speaker": null,
+      "opening": "“Water is different.”"
+    },
+    {
+      "quote": 50,
+      "line": 3715,
+      "speaker": null,
+      "opening": "“Nigga, I been wet.”"
+    },
+    {
+      "quote": 51,
+      "line": 3721,
+      "speaker": null,
+      "opening": "“Have you ever captained a racing boat?”"
+    },
+    {
+      "quote": 52,
+      "line": 3723,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 53,
+      "line": 3725,
+      "speaker": null,
+      "opening": "“Then tomorrow will be educational.”"
+    },
+    {
+      "quote": 54,
+      "line": 3727,
+      "speaker": null,
+      "opening": "“For somebody.”"
+    },
+    {
+      "quote": 55,
+      "line": 3735,
+      "speaker": null,
+      "opening": "“You did that on purpose.”"
+    },
+    {
+      "quote": 56,
+      "line": 3737,
+      "speaker": null,
+      "opening": "“Won? Yeah.”"
+    },
+    {
+      "quote": 57,
+      "line": 3741,
+      "speaker": null,
+      "opening": "“Nigga, the house is impressed,”"
+    },
+    {
+      "quote": 58,
+      "line": 3743,
+      "speaker": null,
+      "opening": "“The house should add a balcony.”"
+    },
+    {
+      "quote": 59,
+      "line": 3747,
+      "speaker": null,
+      "opening": "“Ten million on tomorrow,”"
+    },
+    {
+      "quote": 60,
+      "line": 3749,
+      "speaker": null,
+      "opening": "“Twenty.”"
+    },
+    {
+      "quote": 61,
+      "line": 3755,
+      "speaker": null,
+      "opening": "“Twenty,”"
+    },
+    {
+      "quote": 62,
+      "line": 3765,
+      "speaker": null,
+      "opening": "“Bring me something nice,”"
+    },
+    {
+      "quote": 63,
+      "line": 3779,
+      "speaker": null,
+      "opening": "“He'd like that,”"
+    },
+    {
+      "quote": 64,
+      "line": 3781,
+      "speaker": null,
+      "opening": "“Tell him yourself when we bring it back.”"
+    },
+    {
+      "quote": 65,
+      "line": 3785,
+      "speaker": null,
+      "opening": "“For when you pretend the spray isn't in"
+    },
+    {
+      "quote": 66,
+      "line": 3787,
+      "speaker": null,
+      "opening": "“Nigga, you think of everything.”"
+    },
+    {
+      "quote": 67,
+      "line": 3789,
+      "speaker": null,
+      "opening": "“That is why you keep surviving.”"
+    },
+    {
+      "quote": 68,
+      "line": 3795,
+      "speaker": null,
+      "opening": "“Easy through the chop.”"
+    },
+    {
+      "quote": 69,
+      "line": 3797,
+      "speaker": null,
+      "opening": "“I got it.”"
+    },
+    {
+      "quote": 70,
+      "line": 3799,
+      "speaker": null,
+      "opening": "“Nigga, the sea doesn't care you won cards.”"
+    },
+    {
+      "quote": 71,
+      "line": 3801,
+      "speaker": null,
+      "opening": "“Then it's about to learn.”"
+    },
+    {
+      "quote": 72,
+      "line": 3805,
+      "speaker": null,
+      "opening": "“Nigga!”"
+    },
+    {
+      "quote": 73,
+      "line": 3807,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 74,
+      "line": 3809,
+      "speaker": null,
+      "opening": "“The water punched me!”"
+    },
+    {
+      "quote": 75,
+      "line": 3811,
+      "speaker": null,
+      "opening": "“Punch it back.”"
+    },
+    {
+      "quote": 76,
+      "line": 3829,
+      "speaker": null,
+      "opening": "\"Nigga, we in the air.\""
+    },
+    {
+      "quote": 77,
+      "line": 3831,
+      "speaker": null,
+      "opening": "\"Briefly,\""
+    },
+    {
+      "quote": 78,
+      "line": 3833,
+      "speaker": null,
+      "opening": "\"Nigga, briefly is where the fear lives.\""
+    },
+    {
+      "quote": 79,
+      "line": 3835,
+      "speaker": null,
+      "opening": "\"You want him to slow down?\""
+    },
+    {
+      "quote": 80,
+      "line": 3837,
+      "speaker": null,
+      "opening": "\"I want that nigga to warn the boat"
+    },
+    {
+      "quote": 81,
+      "line": 3839,
+      "speaker": null,
+      "opening": "\"Next marker.\""
+    },
+    {
+      "quote": 82,
+      "line": 3841,
+      "speaker": null,
+      "opening": "\"You heard the nigga,\""
+    },
+    {
+      "quote": 83,
+      "line": 3841,
+      "speaker": null,
+      "opening": "\"We got a marker.\""
+    },
+    {
+      "quote": 84,
+      "line": 3843,
+      "speaker": null,
+      "opening": "\"Nigga, I can see the marker. I want"
+    },
+    {
+      "quote": 85,
+      "line": 3851,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 86,
+      "line": 3853,
+      "speaker": null,
+      "opening": "“I see them.”"
+    },
+    {
+      "quote": 87,
+      "line": 3861,
+      "speaker": null,
+      "opening": "“Nigga, you heavy when wet.”"
+    },
+    {
+      "quote": 88,
+      "line": 3865,
+      "speaker": null,
+      "opening": "“Thank you.”"
+    },
+    {
+      "quote": 89,
+      "line": 3867,
+      "speaker": null,
+      "opening": "“Thank the captain. I was eating lunch before"
+    },
+    {
+      "quote": 90,
+      "line": 3873,
+      "speaker": null,
+      "opening": "“My wife would have liked you.”"
+    },
+    {
+      "quote": 91,
+      "line": 3875,
+      "speaker": null,
+      "opening": "“Nigga, she had taste.”"
+    },
+    {
+      "quote": 92,
+      "line": 3883,
+      "speaker": null,
+      "opening": "“You're catching him,”"
+    },
+    {
+      "quote": 93,
+      "line": 3885,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 94,
+      "line": 3887,
+      "speaker": null,
+      "opening": "“You stopped.”"
+    },
+    {
+      "quote": 95,
+      "line": 3889,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 96,
+      "line": 3891,
+      "speaker": null,
+      "opening": "“You shouldn't be catching him.”"
+    },
+    {
+      "quote": 97,
+      "line": 3893,
+      "speaker": null,
+      "opening": "“Nigga, stop telling the boat.”"
+    },
+    {
+      "quote": 98,
+      "line": 3909,
+      "speaker": null,
+      "opening": "“Aiden!”"
+    },
+    {
+      "quote": 99,
+      "line": 3923,
+      "speaker": null,
+      "opening": "“You've never done that before?”"
+    },
+    {
+      "quote": 100,
+      "line": 3925,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 101,
+      "line": 3931,
+      "speaker": null,
+      "opening": "“You magnificent bastard.”"
+    },
+    {
+      "quote": 102,
+      "line": 3933,
+      "speaker": null,
+      "opening": "“Nigga, pay the woman.”"
+    },
+    {
+      "quote": 103,
+      "line": 3939,
+      "speaker": null,
+      "opening": "“What'd you buy me?”"
+    },
+    {
+      "quote": 104,
+      "line": 3941,
+      "speaker": null,
+      "opening": "“Options.”"
+    },
+    {
+      "quote": 105,
+      "line": 3945,
+      "speaker": null,
+      "opening": "“I want the opera house.”"
+    },
+    {
+      "quote": 106,
+      "line": 3947,
+      "speaker": null,
+      "opening": "“Then we better finish the month.”"
+    }
+  ]
+}

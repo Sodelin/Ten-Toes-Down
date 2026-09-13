@@ -2,3 +2,5 @@
 * -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
 *.mp3 binary
 *.wav binary
+# Canonical source excerpts retain their original Markdown whitespace byte for byte.
+chapters/**/source-excerpt.md -whitespace

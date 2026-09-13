@@ -1,0 +1,18 @@
+{
+  "title": "Ten Toes Down: The Niggatorial Tellings",
+  "book": 4,
+  "chapter": 5,
+  "chapter_title": "5. Marcellus Had Been a Dangerous Nigga Too",
+  "repository_url": "https://github.com/Sodelin/Ten-Toes-Down",
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-04.md",
+  "source_url": "https://github.com/Sodelin/Ten-Toes-Down/blob/3f16cb8dc89171439167297d744e623d6b16df25/editions/niggatorial-tellings/books/book-04.md",
+  "source_sha256": "787f2af92824070840eea51fd5ea4145f3e6b65bb3d783abd8f14bfb7510b4f6",
+  "excerpt": {
+    "file": "source-excerpt.md",
+    "start_line": 1638,
+    "end_line": 2062,
+    "sha256": "e97b5ae244982c29648578634e12889d8b6a8a745e4fafadb9b1f46d60da4047"
+  },
+  "spoken_text_policy": "Verbatim chapter body. Headings are track metadata. Printed quotation delimiters, paired Markdown emphasis and scene separators are formatting."
+}

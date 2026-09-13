@@ -1,0 +1,811 @@
+{
+  "chapter_id": "b04-c05",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 134,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1642,
+      "speaker": null,
+      "opening": "\"You nervous?\""
+    },
+    {
+      "quote": 2,
+      "line": 1644,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 3,
+      "line": 1646,
+      "speaker": null,
+      "opening": "\"Nigga, your left wrist been dressed for ten"
+    },
+    {
+      "quote": 4,
+      "line": 1650,
+      "speaker": null,
+      "opening": "\"I would prefer not to look like time"
+    },
+    {
+      "quote": 5,
+      "line": 1652,
+      "speaker": null,
+      "opening": "\"Time won against everybody, Marcellus. You just got"
+    },
+    {
+      "quote": 6,
+      "line": 1654,
+      "speaker": null,
+      "opening": "\"Thank you, Tank. That is almost encouraging.\""
+    },
+    {
+      "quote": 7,
+      "line": 1664,
+      "speaker": null,
+      "opening": "\"Isolde.\""
+    },
+    {
+      "quote": 8,
+      "line": 1666,
+      "speaker": null,
+      "opening": "\"You found the door this time.\""
+    },
+    {
+      "quote": 9,
+      "line": 1674,
+      "speaker": null,
+      "opening": "\"I'm Shawna.\""
+    },
+    {
+      "quote": 10,
+      "line": 1676,
+      "speaker": null,
+      "opening": "\"I know. I heard you sing to the"
+    },
+    {
+      "quote": 11,
+      "line": 1678,
+      "speaker": null,
+      "opening": "\"You made a frightened room breathe. That is"
+    },
+    {
+      "quote": 12,
+      "line": 1684,
+      "speaker": null,
+      "opening": "\"And you are the boy who drives on"
+    },
+    {
+      "quote": 13,
+      "line": 1686,
+      "speaker": null,
+      "opening": "\"Only when niggas put trucks on the road.\""
+    },
+    {
+      "quote": 14,
+      "line": 1688,
+      "speaker": null,
+      "opening": "\"Can you dance?\""
+    },
+    {
+      "quote": 15,
+      "line": 1690,
+      "speaker": null,
+      "opening": "\"I'm married to her. You think she would"
+    },
+    {
+      "quote": 16,
+      "line": 1692,
+      "speaker": null,
+      "opening": "\"There is dancing,\""
+    },
+    {
+      "quote": 17,
+      "line": 1692,
+      "speaker": null,
+      "opening": "\"and then there is entering a room without"
+    },
+    {
+      "quote": 18,
+      "line": 1694,
+      "speaker": null,
+      "opening": "\"Nigga, what?\""
+    },
+    {
+      "quote": 19,
+      "line": 1696,
+      "speaker": null,
+      "opening": "\"Old people flirting,\""
+    },
+    {
+      "quote": 20,
+      "line": 1696,
+      "speaker": null,
+      "opening": "\"Respect the language.\""
+    },
+    {
+      "quote": 21,
+      "line": 1702,
+      "speaker": null,
+      "opening": "\"Victor Bellanotte,\""
+    },
+    {
+      "quote": 22,
+      "line": 1702,
+      "speaker": null,
+      "opening": "\"He called himself the Ivory King.\""
+    },
+    {
+      "quote": 23,
+      "line": 1704,
+      "speaker": null,
+      "opening": "\"Nigga had a job?\""
+    },
+    {
+      "quote": 24,
+      "line": 1706,
+      "speaker": null,
+      "opening": "\"Collecting what other people had made beautiful.\""
+    },
+    {
+      "quote": 25,
+      "line": 1708,
+      "speaker": null,
+      "opening": "\"That's a theft.\""
+    },
+    {
+      "quote": 26,
+      "line": 1710,
+      "speaker": null,
+      "opening": "\"Yes. He paid an orchestra to pronounce it"
+    },
+    {
+      "quote": 27,
+      "line": 1714,
+      "speaker": null,
+      "opening": "\"Where did you find this?\""
+    },
+    {
+      "quote": 28,
+      "line": 1716,
+      "speaker": null,
+      "opening": "\"Where you left it.\""
+    },
+    {
+      "quote": 29,
+      "line": 1722,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 30,
+      "line": 1722,
+      "speaker": null,
+      "opening": "\"before I ever cut a stone for Celeste,"
+    },
+    {
+      "quote": 31,
+      "line": 1724,
+      "speaker": null,
+      "opening": "\"How old were you?\""
+    },
+    {
+      "quote": 32,
+      "line": 1726,
+      "speaker": null,
+      "opening": "\"Twenty-seven.\""
+    },
+    {
+      "quote": 33,
+      "line": 1728,
+      "speaker": null,
+      "opening": "\"Nigga, I bet you was unbearable.\""
+    },
+    {
+      "quote": 34,
+      "line": 1732,
+      "speaker": null,
+      "opening": "\"He had three silk shirts and spoke of"
+    },
+    {
+      "quote": 35,
+      "line": 1746,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 36,
+      "line": 1746,
+      "speaker": null,
+      "opening": "\"you married the wrong profession.\""
+    },
+    {
+      "quote": 37,
+      "line": 1750,
+      "speaker": null,
+      "opening": "\"You a jeweler. She a dinner thief. Nigga,"
+    },
+    {
+      "quote": 38,
+      "line": 1752,
+      "speaker": null,
+      "opening": "\"We were not married.\""
+    },
+    {
+      "quote": 39,
+      "line": 1754,
+      "speaker": null,
+      "opening": "\"But a nigga was hopeful.\""
+    },
+    {
+      "quote": 40,
+      "line": 1756,
+      "speaker": null,
+      "opening": "\"A nigga was extremely hopeful.\""
+    },
+    {
+      "quote": 41,
+      "line": 1758,
+      "speaker": null,
+      "opening": "\"Old nigga blushing. Nigga, look at him.\""
+    },
+    {
+      "quote": 42,
+      "line": 1760,
+      "speaker": null,
+      "opening": "\"It was sitting unattended,\""
+    },
+    {
+      "quote": 43,
+      "line": 1762,
+      "speaker": null,
+      "opening": "\"It was beside my elbow,\""
+    },
+    {
+      "quote": 44,
+      "line": 1764,
+      "speaker": null,
+      "opening": "\"Your elbow made no objection.\""
+    },
+    {
+      "quote": 45,
+      "line": 1768,
+      "speaker": null,
+      "opening": "\"You could live on that,\""
+    },
+    {
+      "quote": 46,
+      "line": 1770,
+      "speaker": null,
+      "opening": "\"I am trying to.\""
+    },
+    {
+      "quote": 47,
+      "line": 1772,
+      "speaker": null,
+      "opening": "\"No. You could live somewhere else on that.\""
+    },
+    {
+      "quote": 48,
+      "line": 1776,
+      "speaker": null,
+      "opening": "\"You greet every jeweler by suggesting robbery?\""
+    },
+    {
+      "quote": 49,
+      "line": 1778,
+      "speaker": null,
+      "opening": "\"Only the pretty ones.\""
+    },
+    {
+      "quote": 50,
+      "line": 1784,
+      "speaker": null,
+      "opening": "\"The king's sapphire?\""
+    },
+    {
+      "quote": 51,
+      "line": 1786,
+      "speaker": null,
+      "opening": "\"Glass.\""
+    },
+    {
+      "quote": 52,
+      "line": 1788,
+      "speaker": null,
+      "opening": "\"His ruby?\""
+    },
+    {
+      "quote": 53,
+      "line": 1790,
+      "speaker": null,
+      "opening": "\"Also glass.\""
+    },
+    {
+      "quote": 54,
+      "line": 1792,
+      "speaker": null,
+      "opening": "\"His teeth?\""
+    },
+    {
+      "quote": 55,
+      "line": 1794,
+      "speaker": null,
+      "opening": "\"Unfortunately real.\""
+    },
+    {
+      "quote": 56,
+      "line": 1800,
+      "speaker": null,
+      "opening": "\"A tradesman with manners,\""
+    },
+    {
+      "quote": 57,
+      "line": 1800,
+      "speaker": null,
+      "opening": "\"How charming.\""
+    },
+    {
+      "quote": 58,
+      "line": 1804,
+      "speaker": null,
+      "opening": "\"I'd have hit that nigga,\""
+    },
+    {
+      "quote": 59,
+      "line": 1806,
+      "speaker": null,
+      "opening": "\"At twenty-seven,\""
+    },
+    {
+      "quote": 60,
+      "line": 1806,
+      "speaker": null,
+      "opening": "\"I had not yet learned how enjoyable that"
+    },
+    {
+      "quote": 61,
+      "line": 1820,
+      "speaker": null,
+      "opening": "\"He thought possession was the same as being"
+    },
+    {
+      "quote": 62,
+      "line": 1824,
+      "speaker": null,
+      "opening": "\"He was not the first.\""
+    },
+    {
+      "quote": 63,
+      "line": 1832,
+      "speaker": null,
+      "opening": "\"I thought the crown opened it,\""
+    },
+    {
+      "quote": 64,
+      "line": 1832,
+      "speaker": null,
+      "opening": "\"I was only half right.\""
+    },
+    {
+      "quote": 65,
+      "line": 1836,
+      "speaker": null,
+      "opening": "\"The dance,\""
+    },
+    {
+      "quote": 66,
+      "line": 1840,
+      "speaker": null,
+      "opening": "\"The position of the feet. The order of"
+    },
+    {
+      "quote": 67,
+      "line": 1842,
+      "speaker": null,
+      "opening": "\"Nigga built a dancing safe,\""
+    },
+    {
+      "quote": 68,
+      "line": 1844,
+      "speaker": null,
+      "opening": "\"He wanted only his favorite people to be"
+    },
+    {
+      "quote": 69,
+      "line": 1846,
+      "speaker": null,
+      "opening": "\"Then why'd he put himself on the list?\""
+    },
+    {
+      "quote": 70,
+      "line": 1854,
+      "speaker": null,
+      "opening": "\"I hated that speech,\""
+    },
+    {
+      "quote": 71,
+      "line": 1854,
+      "speaker": null,
+      "opening": "\"Every year the same speech. Every year a"
+    },
+    {
+      "quote": 72,
+      "line": 1858,
+      "speaker": null,
+      "opening": "\"You did what?\""
+    },
+    {
+      "quote": 73,
+      "line": 1860,
+      "speaker": null,
+      "opening": "\"I told him a king should be able"
+    },
+    {
+      "quote": 74,
+      "line": 1862,
+      "speaker": null,
+      "opening": "\"Oh, nigga.\""
+    },
+    {
+      "quote": 75,
+      "line": 1864,
+      "speaker": null,
+      "opening": "\"He had an audience,\""
+    },
+    {
+      "quote": 76,
+      "line": 1864,
+      "speaker": null,
+      "opening": "\"It made him stupid.\""
+    },
+    {
+      "quote": 77,
+      "line": 1870,
+      "speaker": null,
+      "opening": "\"May I?\""
+    },
+    {
+      "quote": 78,
+      "line": 1882,
+      "speaker": null,
+      "opening": "\"Now,\""
+    },
+    {
+      "quote": 79,
+      "line": 1892,
+      "speaker": null,
+      "opening": "\"You're late,\""
+    },
+    {
+      "quote": 80,
+      "line": 1898,
+      "speaker": null,
+      "opening": "\"I know,\""
+    },
+    {
+      "quote": 81,
+      "line": 1898,
+      "speaker": null,
+      "opening": "\"I'm sorry about the—\""
+    },
+    {
+      "quote": 82,
+      "line": 1900,
+      "speaker": null,
+      "opening": "\"The escape,\""
+    },
+    {
+      "quote": 83,
+      "line": 1900,
+      "speaker": null,
+      "opening": "\"For the escape. Take the blue case. The"
+    },
+    {
+      "quote": 84,
+      "line": 1904,
+      "speaker": null,
+      "opening": "\"Nigga had a whole orchestra helping him!\""
+    },
+    {
+      "quote": 85,
+      "line": 1908,
+      "speaker": null,
+      "opening": "\"It was an excellent orchestra.\""
+    },
+    {
+      "quote": 86,
+      "line": 1922,
+      "speaker": null,
+      "opening": "\"I wrote,\""
+    },
+    {
+      "quote": 87,
+      "line": 1924,
+      "speaker": null,
+      "opening": "\"So did I.\""
+    },
+    {
+      "quote": 88,
+      "line": 1926,
+      "speaker": null,
+      "opening": "\"Mine came back unopened.\""
+    },
+    {
+      "quote": 89,
+      "line": 1928,
+      "speaker": null,
+      "opening": "\"Mine did not come back at all.\""
+    },
+    {
+      "quote": 90,
+      "line": 1932,
+      "speaker": null,
+      "opening": "\"Bellanotte kept a porter named Varro,\""
+    },
+    {
+      "quote": 91,
+      "line": 1932,
+      "speaker": null,
+      "opening": "\"He sold information the way other men sold"
+    },
+    {
+      "quote": 92,
+      "line": 1936,
+      "speaker": null,
+      "opening": "\"And now?\""
+    },
+    {
+      "quote": 93,
+      "line": 1938,
+      "speaker": null,
+      "opening": "\"Now my husband has been dead eleven years,"
+    },
+    {
+      "quote": 94,
+      "line": 1950,
+      "speaker": null,
+      "opening": "\"Marcellus,\""
+    },
+    {
+      "quote": 95,
+      "line": 1954,
+      "speaker": null,
+      "opening": "\"You was a dangerous nigga.\""
+    },
+    {
+      "quote": 96,
+      "line": 1956,
+      "speaker": null,
+      "opening": "\"He was a romantic,\""
+    },
+    {
+      "quote": 97,
+      "line": 1958,
+      "speaker": null,
+      "opening": "\"Same nigga with more paperwork,\""
+    },
+    {
+      "quote": 98,
+      "line": 1960,
+      "speaker": null,
+      "opening": "\"You young men think you invented extravagance.\""
+    },
+    {
+      "quote": 99,
+      "line": 1962,
+      "speaker": null,
+      "opening": "\"Nigga, I'm congratulating you. You robbed a king"
+    },
+    {
+      "quote": 100,
+      "line": 1966,
+      "speaker": null,
+      "opening": "\"Was?\""
+    },
+    {
+      "quote": 101,
+      "line": 1968,
+      "speaker": null,
+      "opening": "\"Oh, she got him. She already got him.\""
+    },
+    {
+      "quote": 102,
+      "line": 1972,
+      "speaker": null,
+      "opening": "\"What is still down there?\""
+    },
+    {
+      "quote": 103,
+      "line": 1974,
+      "speaker": null,
+      "opening": "\"The deeper vault,\""
+    },
+    {
+      "quote": 104,
+      "line": 1974,
+      "speaker": null,
+      "opening": "\"Bellanotte's chamber was an anteroom. We never opened"
+    },
+    {
+      "quote": 105,
+      "line": 1978,
+      "speaker": null,
+      "opening": "\"Saint has men drilling beneath the palace,\""
+    },
+    {
+      "quote": 106,
+      "line": 1978,
+      "speaker": null,
+      "opening": "\"He thinks the competition will hide the noise"
+    },
+    {
+      "quote": 107,
+      "line": 1980,
+      "speaker": null,
+      "opening": "\"And the medal?\""
+    },
+    {
+      "quote": 108,
+      "line": 1986,
+      "speaker": null,
+      "opening": "\"He has part of the design,\""
+    },
+    {
+      "quote": 109,
+      "line": 1986,
+      "speaker": null,
+      "opening": "\"He does not have the dance or the"
+    },
+    {
+      "quote": 110,
+      "line": 1990,
+      "speaker": null,
+      "opening": "\"We do.\""
+    },
+    {
+      "quote": 111,
+      "line": 1992,
+      "speaker": null,
+      "opening": "\"We have six originals,\""
+    },
+    {
+      "quote": 112,
+      "line": 1992,
+      "speaker": null,
+      "opening": "\"The seventh was taken from my room this"
+    },
+    {
+      "quote": 113,
+      "line": 1996,
+      "speaker": null,
+      "opening": "\"Nigga couldn't just want the island. Nigga gotta"
+    },
+    {
+      "quote": 114,
+      "line": 1998,
+      "speaker": null,
+      "opening": "\"We get the stone,\""
+    },
+    {
+      "quote": 115,
+      "line": 2000,
+      "speaker": null,
+      "opening": "\"Then we dance,\""
+    },
+    {
+      "quote": 116,
+      "line": 2004,
+      "speaker": null,
+      "opening": "\"First we find out whether that is a"
+    },
+    {
+      "quote": 117,
+      "line": 2010,
+      "speaker": null,
+      "opening": "\"It usually does,\""
+    },
+    {
+      "quote": 118,
+      "line": 2012,
+      "speaker": null,
+      "opening": "\"Tonight, listen.\""
+    },
+    {
+      "quote": 119,
+      "line": 2022,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 120,
+      "line": 2022,
+      "speaker": null,
+      "opening": "\"There you are.\""
+    },
+    {
+      "quote": 121,
+      "line": 2024,
+      "speaker": null,
+      "opening": "\"Been right here.\""
+    },
+    {
+      "quote": 122,
+      "line": 2026,
+      "speaker": null,
+      "opening": "\"No. Now you're here.\""
+    },
+    {
+      "quote": 123,
+      "line": 2038,
+      "speaker": null,
+      "opening": "\"Well,\""
+    },
+    {
+      "quote": 124,
+      "line": 2040,
+      "speaker": null,
+      "opening": "\"Say it,\""
+    },
+    {
+      "quote": 125,
+      "line": 2044,
+      "speaker": null,
+      "opening": "\"The boy can dance.\""
+    },
+    {
+      "quote": 126,
+      "line": 2046,
+      "speaker": null,
+      "opening": "\"Boy?\""
+    },
+    {
+      "quote": 127,
+      "line": 2046,
+      "speaker": null,
+      "opening": "\"That nigga opened the whole room up.\""
+    },
+    {
+      "quote": 128,
+      "line": 2048,
+      "speaker": null,
+      "opening": "\"Nigga just needed the right partner,\""
+    },
+    {
+      "quote": 129,
+      "line": 2050,
+      "speaker": null,
+      "opening": "\"Nigga had the right partner,\""
+    },
+    {
+      "quote": 130,
+      "line": 2050,
+      "speaker": null,
+      "opening": "\"Nigga needed to stop fighting the floor.\""
+    },
+    {
+      "quote": 131,
+      "line": 2052,
+      "speaker": null,
+      "opening": "\"The floor knows what kind of nigga it's"
+    },
+    {
+      "quote": 132,
+      "line": 2054,
+      "speaker": null,
+      "opening": "\"So does this nigga's wife.\""
+    },
+    {
+      "quote": 133,
+      "line": 2056,
+      "speaker": null,
+      "opening": "\"Nigga can do everything,\""
+    },
+    {
+      "quote": 134,
+      "line": 2056,
+      "speaker": null,
+      "opening": "\"It's starting to hurt my feelings.\""
+    }
+  ]
+}

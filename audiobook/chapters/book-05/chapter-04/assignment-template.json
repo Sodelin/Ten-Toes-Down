@@ -1,0 +1,943 @@
+{
+  "chapter_id": "b05-c04",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 156,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1853,
+      "speaker": null,
+      "opening": "\"That's depressing,\""
+    },
+    {
+      "quote": 2,
+      "line": 1855,
+      "speaker": null,
+      "opening": "\"Rich niggas always find a way to own"
+    },
+    {
+      "quote": 3,
+      "line": 1861,
+      "speaker": null,
+      "opening": "\"You came together.\""
+    },
+    {
+      "quote": 4,
+      "line": 1863,
+      "speaker": null,
+      "opening": "\"Usually how marriage works,\""
+    },
+    {
+      "quote": 5,
+      "line": 1865,
+      "speaker": null,
+      "opening": "\"Not in this city.\""
+    },
+    {
+      "quote": 6,
+      "line": 1867,
+      "speaker": null,
+      "opening": "\"Then these niggas need better marriages.\""
+    },
+    {
+      "quote": 7,
+      "line": 1869,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 8,
+      "line": 1871,
+      "speaker": null,
+      "opening": "\"What? This nigga said people stop coming together.\""
+    },
+    {
+      "quote": 9,
+      "line": 1873,
+      "speaker": null,
+      "opening": "\"Ask which person gets left behind.\""
+    },
+    {
+      "quote": 10,
+      "line": 1877,
+      "speaker": null,
+      "opening": "\"Better husbands too,\""
+    },
+    {
+      "quote": 11,
+      "line": 1877,
+      "speaker": null,
+      "opening": "\"Some niggas need to learn the walk starts"
+    },
+    {
+      "quote": 12,
+      "line": 1887,
+      "speaker": null,
+      "opening": "\"I asked you to come without a crown,\""
+    },
+    {
+      "quote": 13,
+      "line": 1889,
+      "speaker": null,
+      "opening": "\"Ain't won it yet.\""
+    },
+    {
+      "quote": 14,
+      "line": 1891,
+      "speaker": null,
+      "opening": "\"You wear the expectation.\""
+    },
+    {
+      "quote": 15,
+      "line": 1895,
+      "speaker": null,
+      "opening": "\"He sleeps in it too.\""
+    },
+    {
+      "quote": 16,
+      "line": 1903,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 17,
+      "line": 1907,
+      "speaker": null,
+      "opening": "“I got you.”"
+    },
+    {
+      "quote": 18,
+      "line": 1909,
+      "speaker": null,
+      "opening": "“I know you got me. I'm deciding how"
+    },
+    {
+      "quote": 19,
+      "line": 1917,
+      "speaker": null,
+      "opening": "“Brother, I was gonna carry her.”"
+    },
+    {
+      "quote": 20,
+      "line": 1919,
+      "speaker": null,
+      "opening": "“Nigga, carry her across a better bridge. I'm"
+    },
+    {
+      "quote": 21,
+      "line": 1923,
+      "speaker": null,
+      "opening": "“For coming,”"
+    },
+    {
+      "quote": 22,
+      "line": 1929,
+      "speaker": null,
+      "opening": "“That takes four gardeners.”"
+    },
+    {
+      "quote": 23,
+      "line": 1931,
+      "speaker": null,
+      "opening": "“Nigga, hire the ones with better relationships.”"
+    },
+    {
+      "quote": 24,
+      "line": 1937,
+      "speaker": null,
+      "opening": "“Does he do everything like this?”"
+    },
+    {
+      "quote": 25,
+      "line": 1939,
+      "speaker": null,
+      "opening": "“Everything he thinks I'm watching,”"
+    },
+    {
+      "quote": 26,
+      "line": 1941,
+      "speaker": null,
+      "opening": "“Nigga, I do things when you aren't looking"
+    },
+    {
+      "quote": 27,
+      "line": 1943,
+      "speaker": null,
+      "opening": "“Yes, baby. Then you come tell me.”"
+    },
+    {
+      "quote": 28,
+      "line": 1949,
+      "speaker": null,
+      "opening": "\"Why we here?\""
+    },
+    {
+      "quote": 29,
+      "line": 1953,
+      "speaker": null,
+      "opening": "\"Because last night you bought a man instead"
+    },
+    {
+      "quote": 30,
+      "line": 1955,
+      "speaker": null,
+      "opening": "\"Bought him out. That's different.\""
+    },
+    {
+      "quote": 31,
+      "line": 1957,
+      "speaker": null,
+      "opening": "\"Yes. It is.\""
+    },
+    {
+      "quote": 32,
+      "line": 1961,
+      "speaker": null,
+      "opening": "\"The emperor will notice.\""
+    },
+    {
+      "quote": 33,
+      "line": 1963,
+      "speaker": null,
+      "opening": "\"Nigga been noticing me since before he introduced"
+    },
+    {
+      "quote": 34,
+      "line": 1965,
+      "speaker": null,
+      "opening": "\"You haven't met him.\""
+    },
+    {
+      "quote": 35,
+      "line": 1967,
+      "speaker": null,
+      "opening": "\"He keep sending other people to get embarrassed.\""
+    },
+    {
+      "quote": 36,
+      "line": 1971,
+      "speaker": null,
+      "opening": "\"That is how he measures people. He watches"
+    },
+    {
+      "quote": 37,
+      "line": 1975,
+      "speaker": null,
+      "opening": "\"And you both work for him?\""
+    },
+    {
+      "quote": 38,
+      "line": 1981,
+      "speaker": null,
+      "opening": "\"I govern the tournament. Bastien protects my household."
+    },
+    {
+      "quote": 39,
+      "line": 1983,
+      "speaker": null,
+      "opening": "\"Nothing starts simple after you put crowns on"
+    },
+    {
+      "quote": 40,
+      "line": 1987,
+      "speaker": null,
+      "opening": "\"Did you always know you wanted the man"
+    },
+    {
+      "quote": 41,
+      "line": 1991,
+      "speaker": null,
+      "opening": "\"I knew I wanted that nigga to stop"
+    },
+    {
+      "quote": 42,
+      "line": 1993,
+      "speaker": null,
+      "opening": "\"I wasn't looking like that,\""
+    },
+    {
+      "quote": 43,
+      "line": 1995,
+      "speaker": null,
+      "opening": "\"Baby, you could make ordering breakfast sound temporary."
+    },
+    {
+      "quote": 44,
+      "line": 1997,
+      "speaker": null,
+      "opening": "\"I ate there every morning.\""
+    },
+    {
+      "quote": 45,
+      "line": 1999,
+      "speaker": null,
+      "opening": "\"And I kept wondering whether the nigga would"
+    },
+    {
+      "quote": 46,
+      "line": 2007,
+      "speaker": null,
+      "opening": "\"See? That nigga was listening. That's who I"
+    },
+    {
+      "quote": 47,
+      "line": 2011,
+      "speaker": null,
+      "opening": "\"I was meant to marry a prince,\""
+    },
+    {
+      "quote": 48,
+      "line": 2011,
+      "speaker": null,
+      "opening": "\"Nico Arden Valcour. He used to come through"
+    },
+    {
+      "quote": 49,
+      "line": 2013,
+      "speaker": null,
+      "opening": "\"Nigga wanted a dangerous reputation,\""
+    },
+    {
+      "quote": 50,
+      "line": 2015,
+      "speaker": null,
+      "opening": "\"He wanted me to think he had one.\""
+    },
+    {
+      "quote": 51,
+      "line": 2017,
+      "speaker": null,
+      "opening": "\"Did you?\""
+    },
+    {
+      "quote": 52,
+      "line": 2019,
+      "speaker": null,
+      "opening": "\"No. I liked that he tried.\""
+    },
+    {
+      "quote": 53,
+      "line": 2023,
+      "speaker": null,
+      "opening": "\"He died in the harbor fire sixteen years"
+    },
+    {
+      "quote": 54,
+      "line": 2023,
+      "speaker": null,
+      "opening": "\"He was twenty-six. I was twenty-one. The city"
+    },
+    {
+      "quote": 55,
+      "line": 2029,
+      "speaker": null,
+      "opening": "\"You don't think it was an accident,\""
+    },
+    {
+      "quote": 56,
+      "line": 2031,
+      "speaker": null,
+      "opening": "\"I stopped believing in accidents before I stopped"
+    },
+    {
+      "quote": 57,
+      "line": 2035,
+      "speaker": null,
+      "opening": "\"Tonight is the Ball of Allegiances. Every claimant"
+    },
+    {
+      "quote": 58,
+      "line": 2037,
+      "speaker": null,
+      "opening": "\"Aight. What's yours?\""
+    },
+    {
+      "quote": 59,
+      "line": 2039,
+      "speaker": null,
+      "opening": "\"Vane.\""
+    },
+    {
+      "quote": 60,
+      "line": 2041,
+      "speaker": null,
+      "opening": "\"You standing?\""
+    },
+    {
+      "quote": 61,
+      "line": 2045,
+      "speaker": null,
+      "opening": "\"I haven't decided.\""
+    },
+    {
+      "quote": 62,
+      "line": 2047,
+      "speaker": null,
+      "opening": "\"You invited us all the way to your"
+    },
+    {
+      "quote": 63,
+      "line": 2053,
+      "speaker": null,
+      "opening": "\"I wanted to see what you were when"
+    },
+    {
+      "quote": 64,
+      "line": 2057,
+      "speaker": null,
+      "opening": "\"I can clap if it's awkward.\""
+    },
+    {
+      "quote": 65,
+      "line": 2065,
+      "speaker": null,
+      "opening": "\"Captain, the invitation specifies—\""
+    },
+    {
+      "quote": 66,
+      "line": 2067,
+      "speaker": null,
+      "opening": "\"It specifies my name. We good.\""
+    },
+    {
+      "quote": 67,
+      "line": 2071,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 68,
+      "line": 2075,
+      "speaker": null,
+      "opening": "\"Nigga, say something,\""
+    },
+    {
+      "quote": 69,
+      "line": 2075,
+      "speaker": null,
+      "opening": "\"You look injured.\""
+    },
+    {
+      "quote": 70,
+      "line": 2079,
+      "speaker": null,
+      "opening": "\"You know what you doing to a nigga.\""
+    },
+    {
+      "quote": 71,
+      "line": 2081,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 72,
+      "line": 2083,
+      "speaker": null,
+      "opening": "\"You came out here and found your husband"
+    },
+    {
+      "quote": 73,
+      "line": 2085,
+      "speaker": null,
+      "opening": "\"That's unusual. Usually my nigga has at least"
+    },
+    {
+      "quote": 74,
+      "line": 2087,
+      "speaker": null,
+      "opening": "\"You wearing all six.\""
+    },
+    {
+      "quote": 75,
+      "line": 2091,
+      "speaker": null,
+      "opening": "\"Write that down. Nigga finally made a speech"
+    },
+    {
+      "quote": 76,
+      "line": 2095,
+      "speaker": null,
+      "opening": "\"That confidence dangerous,\""
+    },
+    {
+      "quote": 77,
+      "line": 2097,
+      "speaker": null,
+      "opening": "\"You married it. Nigga, stand up straight and"
+    },
+    {
+      "quote": 78,
+      "line": 2109,
+      "speaker": null,
+      "opening": "\"That nigga wore white.\""
+    },
+    {
+      "quote": 79,
+      "line": 2113,
+      "speaker": null,
+      "opening": "\"That nigga brought a woman in blue.\""
+    },
+    {
+      "quote": 80,
+      "line": 2115,
+      "speaker": null,
+      "opening": "\"Everybody supposed to wear black.\""
+    },
+    {
+      "quote": 81,
+      "line": 2117,
+      "speaker": null,
+      "opening": "\"Nigga, everybody supposed to survive a Ferrari landing"
+    },
+    {
+      "quote": 82,
+      "line": 2125,
+      "speaker": null,
+      "opening": "\"Y'all look sharp,\""
+    },
+    {
+      "quote": 83,
+      "line": 2133,
+      "speaker": null,
+      "opening": "\"You made their night.\""
+    },
+    {
+      "quote": 84,
+      "line": 2135,
+      "speaker": null,
+      "opening": "\"Niggas dressed for an event. I'm letting them"
+    },
+    {
+      "quote": 85,
+      "line": 2139,
+      "speaker": null,
+      "opening": "\"Captain. My wife asked whether we could take"
+    },
+    {
+      "quote": 86,
+      "line": 2143,
+      "speaker": null,
+      "opening": "\"I did not,\""
+    },
+    {
+      "quote": 87,
+      "line": 2145,
+      "speaker": null,
+      "opening": "\"But you would enjoy one.\""
+    },
+    {
+      "quote": 88,
+      "line": 2149,
+      "speaker": null,
+      "opening": "\"Actually, yes.\""
+    },
+    {
+      "quote": 89,
+      "line": 2155,
+      "speaker": null,
+      "opening": "\"Nigga, the photographer over there,\""
+    },
+    {
+      "quote": 90,
+      "line": 2157,
+      "speaker": null,
+      "opening": "\"Sorry. I saw the fight.\""
+    },
+    {
+      "quote": 91,
+      "line": 2159,
+      "speaker": null,
+      "opening": "\"I was in it. We got history. Look"
+    },
+    {
+      "quote": 92,
+      "line": 2165,
+      "speaker": null,
+      "opening": "\"A nigga gets one chance to stand beside"
+    },
+    {
+      "quote": 93,
+      "line": 2165,
+      "speaker": null,
+      "opening": "\"You can't hurry the memory.\""
+    },
+    {
+      "quote": 94,
+      "line": 2171,
+      "speaker": null,
+      "opening": "\"Make yourself useful, silver cape.\""
+    },
+    {
+      "quote": 95,
+      "line": 2179,
+      "speaker": null,
+      "opening": "\"You got an eye.\""
+    },
+    {
+      "quote": 96,
+      "line": 2193,
+      "speaker": null,
+      "opening": "\"Captain Aiden.\""
+    },
+    {
+      "quote": 97,
+      "line": 2197,
+      "speaker": null,
+      "opening": "\"Emperor Nobody,\""
+    },
+    {
+      "quote": 98,
+      "line": 2207,
+      "speaker": null,
+      "opening": "\"They told me you were charming.\""
+    },
+    {
+      "quote": 99,
+      "line": 2209,
+      "speaker": null,
+      "opening": "\"They told me you were taller.\""
+    },
+    {
+      "quote": 100,
+      "line": 2211,
+      "speaker": null,
+      "opening": "\"Who?\""
+    },
+    {
+      "quote": 101,
+      "line": 2213,
+      "speaker": null,
+      "opening": "\"Niggas who lie apparently.\""
+    },
+    {
+      "quote": 102,
+      "line": 2217,
+      "speaker": null,
+      "opening": "\"Enjoy the ball. We will speak when you"
+    },
+    {
+      "quote": 103,
+      "line": 2219,
+      "speaker": null,
+      "opening": "\"I got several.\""
+    },
+    {
+      "quote": 104,
+      "line": 2221,
+      "speaker": null,
+      "opening": "\"An old house.\""
+    },
+    {
+      "quote": 105,
+      "line": 2223,
+      "speaker": null,
+      "opening": "\"Nigga, I can stop renovating one.\""
+    },
+    {
+      "quote": 106,
+      "line": 2227,
+      "speaker": null,
+      "opening": "\"Dance with me.\""
+    },
+    {
+      "quote": 107,
+      "line": 2229,
+      "speaker": null,
+      "opening": "\"Gladly.\""
+    },
+    {
+      "quote": 108,
+      "line": 2237,
+      "speaker": null,
+      "opening": "\"Niggas staring,\""
+    },
+    {
+      "quote": 109,
+      "line": 2239,
+      "speaker": null,
+      "opening": "\"Niggas learning.\""
+    },
+    {
+      "quote": 110,
+      "line": 2241,
+      "speaker": null,
+      "opening": "\"Learning what?\""
+    },
+    {
+      "quote": 111,
+      "line": 2243,
+      "speaker": null,
+      "opening": "\"How jealous feels with an orchestra. That nigga"
+    },
+    {
+      "quote": 112,
+      "line": 2245,
+      "speaker": null,
+      "opening": "\"Baby, she's looking too.\""
+    },
+    {
+      "quote": 113,
+      "line": 2247,
+      "speaker": null,
+      "opening": "\"Then the niggas can compare notes on the"
+    },
+    {
+      "quote": 114,
+      "line": 2259,
+      "speaker": null,
+      "opening": "\"House Orsini stands with you.\""
+    },
+    {
+      "quote": 115,
+      "line": 2263,
+      "speaker": null,
+      "opening": "\"Write that large enough for the people pretending"
+    },
+    {
+      "quote": 116,
+      "line": 2271,
+      "speaker": null,
+      "opening": "\"You appear to have solved your difficulty.\""
+    },
+    {
+      "quote": 117,
+      "line": 2273,
+      "speaker": null,
+      "opening": "\"I wore white.\""
+    },
+    {
+      "quote": 118,
+      "line": 2275,
+      "speaker": null,
+      "opening": "\"Was that the strategy?\""
+    },
+    {
+      "quote": 119,
+      "line": 2277,
+      "speaker": null,
+      "opening": "\"Baby picked the cufflinks. We were thorough.\""
+    },
+    {
+      "quote": 120,
+      "line": 2281,
+      "speaker": null,
+      "opening": "\"Will you permit me one dance with your"
+    },
+    {
+      "quote": 121,
+      "line": 2285,
+      "speaker": null,
+      "opening": "\"He makes his own decisions. So do I.\""
+    },
+    {
+      "quote": 122,
+      "line": 2291,
+      "speaker": null,
+      "opening": "\"One song,\""
+    },
+    {
+      "quote": 123,
+      "line": 2293,
+      "speaker": null,
+      "opening": "\"I can do a great deal in one"
+    },
+    {
+      "quote": 124,
+      "line": 2295,
+      "speaker": null,
+      "opening": "\"Nigga, so can my wife. That's why I'm"
+    },
+    {
+      "quote": 125,
+      "line": 2301,
+      "speaker": null,
+      "opening": "\"If you had come here alone—\""
+    },
+    {
+      "quote": 126,
+      "line": 2303,
+      "speaker": null,
+      "opening": "\"I wouldn't have come the same man.\""
+    },
+    {
+      "quote": 127,
+      "line": 2309,
+      "speaker": null,
+      "opening": "\"You admire her,\""
+    },
+    {
+      "quote": 128,
+      "line": 2311,
+      "speaker": null,
+      "opening": "\"Nigga, I adore her. Admire is what I"
+    },
+    {
+      "quote": 129,
+      "line": 2315,
+      "speaker": null,
+      "opening": "\"That must be very pleasant.\""
+    },
+    {
+      "quote": 130,
+      "line": 2317,
+      "speaker": null,
+      "opening": "\"Sometimes she steals my whole side of the"
+    },
+    {
+      "quote": 131,
+      "line": 2319,
+      "speaker": null,
+      "opening": "\"And you permit it?\""
+    },
+    {
+      "quote": 132,
+      "line": 2321,
+      "speaker": null,
+      "opening": "\"I'm trying to buy a wider bed without"
+    },
+    {
+      "quote": 133,
+      "line": 2343,
+      "speaker": null,
+      "opening": "\"Baby!\""
+    },
+    {
+      "quote": 134,
+      "line": 2345,
+      "speaker": null,
+      "opening": "\"I see it!\""
+    },
+    {
+      "quote": 135,
+      "line": 2351,
+      "speaker": null,
+      "opening": "\"You do help,\""
+    },
+    {
+      "quote": 136,
+      "line": 2353,
+      "speaker": null,
+      "opening": "\"When the company improves.\""
+    },
+    {
+      "quote": 137,
+      "line": 2371,
+      "speaker": null,
+      "opening": "\"You saved me.\""
+    },
+    {
+      "quote": 138,
+      "line": 2373,
+      "speaker": null,
+      "opening": "\"Nigga, you still owe me the rules.\""
+    },
+    {
+      "quote": 139,
+      "line": 2375,
+      "speaker": null,
+      "opening": "\"I thought—\""
+    },
+    {
+      "quote": 140,
+      "line": 2377,
+      "speaker": null,
+      "opening": "\"I know what you thought. This nigga put"
+    },
+    {
+      "quote": 141,
+      "line": 2381,
+      "speaker": null,
+      "opening": "\"You left the queen to come for me.\""
+    },
+    {
+      "quote": 142,
+      "line": 2383,
+      "speaker": null,
+      "opening": "\"Queen had a chair leg. Nigga, you had"
+    },
+    {
+      "quote": 143,
+      "line": 2395,
+      "speaker": null,
+      "opening": "\"An unfortunate interruption.\""
+    },
+    {
+      "quote": 144,
+      "line": 2401,
+      "speaker": null,
+      "opening": "\"You call that unfortunate?\""
+    },
+    {
+      "quote": 145,
+      "line": 2403,
+      "speaker": null,
+      "opening": "\"I call it a failed attack on the"
+    },
+    {
+      "quote": 146,
+      "line": 2405,
+      "speaker": null,
+      "opening": "\"Nigga, you watched it like you paid for"
+    },
+    {
+      "quote": 147,
+      "line": 2411,
+      "speaker": null,
+      "opening": "\"The attackers will be questioned by Chief Ardent,\""
+    },
+    {
+      "quote": 148,
+      "line": 2421,
+      "speaker": null,
+      "opening": "\"You okay?\""
+    },
+    {
+      "quote": 149,
+      "line": 2425,
+      "speaker": null,
+      "opening": "\"Better when you got both shoes.\""
+    },
+    {
+      "quote": 150,
+      "line": 2429,
+      "speaker": null,
+      "opening": "\"Then you're perfect.\""
+    },
+    {
+      "quote": 151,
+      "line": 2441,
+      "speaker": null,
+      "opening": "\"Seven houses?\""
+    },
+    {
+      "quote": 152,
+      "line": 2443,
+      "speaker": null,
+      "opening": "\"Seven,\""
+    },
+    {
+      "quote": 153,
+      "line": 2445,
+      "speaker": null,
+      "opening": "\"Nigga came needing one.\""
+    },
+    {
+      "quote": 154,
+      "line": 2447,
+      "speaker": null,
+      "opening": "\"Then you might consider what it means that"
+    },
+    {
+      "quote": 155,
+      "line": 2451,
+      "speaker": null,
+      "opening": "\"Nigga, listen to you appreciating me in complete"
+    },
+    {
+      "quote": 156,
+      "line": 2455,
+      "speaker": null,
+      "opening": "\"I'm learning, Captain.\""
+    }
+  ]
+}

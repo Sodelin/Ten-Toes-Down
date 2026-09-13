@@ -1,0 +1,531 @@
+Nigga, Big T's coffin was blue.
+
+Not dark blue. Not respectful blue. That deep candy blue you put on a car when you want other niggas to pull up beside you and hate their lives. Somebody had ordered gold handles. His picture stood at the front of the chapel, six feet tall, smiling over a room full of people who'd been scared to smile wrong around him.
+
+Your nigga paid for all of it.
+
+The flowers. The cars. The musicians. The lunch afterward that half the guests would be too nervous to eat. T had called me son, then put a bullet in me. I couldn't make those things fit, so I bought him the biggest funeral that place could hold.
+
+Tank came downstairs at the house wearing black.
+
+"Nigga, you ain't gotta go," he said.
+
+"Nigga, I killed him."
+
+"That's why you ain't gotta go."
+
+I adjusted my cuff in the mirror. My hands weren't steady yet. The suit hid the bandages. The medicine made everything feel a half second farther away.
+
+"He had nobody else?" I asked.
+
+"Plenty people."
+
+"People that loved him."
+
+Tank looked toward the window.
+
+I left the cuff alone.
+
+"You did."
+
+He kept looking out.
+
+"Nigga, you can say it."
+
+"He gave me work when I came out."
+
+"Nigga gave me a car."
+
+"Ain't the same."
+
+"I know."
+
+For a minute we just stood there, the two men who'd left T by a swimming pool, trying to get dressed for what came after.
+
+Shawna came downstairs in white.
+
+Tank turned.
+
+"Nigga, oh, hell no."
+
+She stopped on the last stair.
+
+White dress. White coat. White gloves in one hand. Her dark hair pinned up. Dante's watch shining like she'd polished it with her rage.
+
+"What?" she said.
+
+"Nigga's funeral, Shawna."
+
+"I know whose funeral it is."
+
+"Nigga, you can't wear that."
+
+She looked at me.
+
+I could've asked her to change. Could've told her this was already hard enough without her walking in looking like she'd come to get married on his grave.
+
+But nigga, she looked beautiful.
+
+"Nigga, get the car before she decides on a veil," I told Tank.
+
+***
+
+My nigga, nobody knew what to do when we walked in.
+
+Some niggas stood. Some stayed seated so hard it looked like work. A woman near the front started crying louder when she saw me. I didn't know if that was grief or hate. I kept going.
+
+Shawna's hand was in mine.
+
+Tank walked behind us.
+
+Every nigga in that chapel knew the story had changed. T had sent me to collect a woman and some money. A week later he was in a blue box, I had his men at my back, and the woman was holding my hand in front of his face.
+
+I didn't feel proud until somebody whispered that I shouldn't have come.
+
+Then I felt proud enough to scare myself.
+
+"Which nigga said it? Say it loud so I know who to look at," I said without turning.
+
+Nobody did.
+
+We sat in the second row. Shawna kept her knees together and looked straight ahead. I could feel her pulse through her fingers.
+
+The preacher talked about a generous man.
+
+That part was true. T had been generous. He'd put money in people's hands, found rooms for niggas who had nowhere to sleep, paid somebody's mother's bill without letting anybody say thank you twice. I knew men who'd lived on that kindness for years.
+
+The preacher talked about a man who loved his family.
+
+Shawna let go of my hand.
+
+I looked at her.
+
+Her eyes had gone flat. She was staring at the picture, and her white glove was balled so tight in her fist I could see a seam giving way.
+
+I put my hand on her knee. She didn't move.
+
+Then Tank got up.
+
+He hadn't told me he planned to speak. He walked to the front carrying a folded paper, opened it, looked at it, and put it back in his pocket.
+
+"T knew my mother," he said.
+
+His voice sounded too big for the microphone.
+
+"Knew she worried about me. Every time I came by, nigga made me call her first. Didn't matter what we was doing. Call your mother, Tank. Tell her you ate."
+
+A woman near the aisle laughed through her crying.
+
+Tank looked at the coffin.
+
+"She died while I was inside. T paid for everything. Told me don't owe him for that."
+
+He rubbed one hand down the front of his suit.
+
+"I owed him for it anyway."
+
+I could hear Shawna breathing beside me.
+
+"He did some shit," Tank said.
+
+The preacher shifted.
+
+"Some shit I can't stand up here and fix for him. I ain't gonna try. But he picked me up when nobody was answering. And I remember that."
+
+He stepped away from the microphone.
+
+On the way back, he looked at me once.
+
+I nodded.
+
+Nigga, it hurt. I needed to let it.
+
+***
+
+Red had sent flowers taller than the coffin.
+
+White roses, blue ribbon, his name on a card big enough to read from the aisle. He hadn't come himself. Every time the door opened, your nigga looked. I hated that he could make me wait for him at a dead man's funeral.
+
+When people went up to the coffin, Shawna stayed seated.
+
+"You don't have to," I said.
+
+"I know."
+
+Then she stood.
+
+We walked up together.
+
+T lay there wearing a dark suit and the ring that had cut my mouth. Somebody had made him look peaceful. I remembered him saying he'd made me. I remembered being happy when he said son.
+
+Nigga, a dead man shouldn't be able to embarrass you. But I stood over him ashamed of how much I'd wanted him to mean it.
+
+Shawna put a folded photograph on his chest.
+
+I recognized the chapel in the background. Her wedding. Dante smiling with his arms around her. This was another print, with T still visible at the edge, one hand on his brother's shoulder.
+
+"You can take your fucking picture with you," she whispered.
+
+I thought she was done.
+
+Then she bent close.
+
+"He loved you. You knew he did."
+
+Her voice broke on loved.
+
+I looked away before she saw me watching.
+
+Behind us, the preacher cleared his throat. I wanted to turn around and tell that nigga to swallow it. Let her have a minute. Let her tell one dead man what the other couldn't hear.
+
+Shawna straightened.
+
+I touched T's cuff once. I don't know why. Maybe because I couldn't touch his hand. Maybe because he'd never get to pull me close again, and some stupid little part of me wanted that settled properly.
+
+"Nigga, all you had to do was let us go," I said.
+
+Then I took my woman's hand and walked out.
+
+***
+
+Outside, Rosa waited beside the cars in black sunglasses and a coat the wind kept trying to take.
+
+She'd come for Shawna. She said that three times to everybody who asked.
+
+"I ain't crying for that nigga," she told me.
+
+"Nobody asked you to."
+
+"I know. I just want the dead to be clear."
+
+Shawna leaned against her. Rosa wrapped the coat around both of them and let her stay there while the pallbearers brought the coffin down.
+
+Mercedes and Porsche stood by the Mercedes with a tray of sandwiches between them. They'd come dressed for church and carrying enough food to keep a war from becoming rude. Leon had sent a new white Bentley with them because, according to the card, seeing the last one die had changed his feelings about ownership.
+
+"That's love," Tank said, taking two sandwiches.
+
+"That's a nigga with insurance," Porsche told him.
+
+I saw the black SUV before the first shot. It came around the chapel too slowly. There was another one behind it. Both had dark windows. Both had men leaning forward as if whatever they wanted was about to become available.
+
+Tank stopped chewing.
+
+"Down."
+
+The first bullet shattered the tray in Porsche's hands.
+
+I caught Shawna around the waist and drove us behind the Mercedes. Rosa hit the ground beside us. Somebody screamed. Gunfire ripped through the chapel doors, and the beautiful blue sky filled with glass.
+
+A pallbearer dropped beside the hearse. Rico. Thirty-two. I'd learned his name that morning because he'd told me the gold cuff links were a gift from his daughter, who was grown and living in another state, and he'd wanted me to notice she had taste.
+
+He wasn't moving.
+
+Tank fired over the hood. The sound went through my chest. Porsche pulled Mercedes down behind the rear wheel as another burst took the car's mirror off.
+
+"Everybody inside!" I shouted.
+
+The chapel doors were open, but the drive between us and them was full of bullets. A woman stood frozen halfway down the steps holding the hand of her seventy-year-old husband. He was trying to pull her down. She kept looking at Rico.
+
+"Nigga, get her!" I shouted to Tank.
+
+"You stay here!"
+
+"I heard you the first time!"
+
+He ran bent low across the drive. Shots tore the flowers off a standing wreath behind him. He caught the old man under one arm and pushed the woman ahead of him through the doors. The whole front of the chapel swallowed them.
+
+The first SUV came farther into the lot. Its passenger leaned out with a gun.
+
+I fired from beside the wheel. The man jerked back inside. The SUV clipped the fountain, turned, and struck the empty wheelchair someone had left for me at the bottom of the steps.
+
+That pissed me off personally.
+
+"That nigga just hit my chair."
+
+Shawna had her pistol out. She fired twice toward the second SUV and pulled back beside me.
+
+"You weren't using it."
+
+"Still mine."
+
+Across the drive, the hearse began rolling.
+
+Its driver was on the ground behind the open door. I couldn't tell whether he was hurt or scared. The engine was running. The car moved forward, slow at first, down the slight slope toward the street. T's coffin gleamed inside it through the rear window.
+
+The first SUV turned to follow it.
+
+"They're taking him," Rosa said.
+
+"Taking who?"
+
+"T!"
+
+For one second I couldn't believe any nigga alive had found a way to complicate that man's death further.
+
+Then I saw the shooter get out of the SUV and run toward the driver's door of the hearse.
+
+Shawna grabbed my jacket.
+
+"Aiden."
+
+"They don't get him."
+
+"Baby, he's dead."
+
+"Then he ain't driving himself home."
+
+I kissed her once and went.
+
+The driveway tilted under me. Pain shot across my ribs. Somebody shouted my name from the chapel doors, and somebody else shouted, "Look at that nigga," like the first person had been announcing a miracle and the second wanted everybody to see it before it left.
+
+I hit the hearse as the gunman reached it.
+
+He had one hand on the wheel. I caught his jacket and drove him against the open door. His gun went off into the sky. We slammed into the side of the moving car, my shoulder against the window, his elbow against my throat.
+
+He was bigger than me and healthy. Nigga, that was his whole fucking argument.
+
+I put my forehead into his nose.
+
+He fell back. I shoved him clear and jumped into the driver's seat. The hearse hit the curb with both front wheels. Behind me T's coffin thumped against its restraints like the nigga had an opinion.
+
+"You can shut up too," I told him.
+
+The first SUV came after us.
+
+I drove the hearse through the open cemetery gate across the road. Gravel burst beneath the tires. White stones flashed past on both sides. I kept to the broad center drive, flying between the trees while the men behind me fired through their own windshield.
+
+The hearse's rear glass shattered. A gold handle on the coffin caught the light.
+
+"Nigga, they're scratching your box."
+
+I turned hard around the stone circle at the center of the cemetery. The hearse leaned. The coffin stayed where it was. I could hear the SUV behind us lose its grip on the gravel, tires screaming while its driver tried to copy a man who was presently doing the best driving at his own enemy's funeral.
+
+We came out beside a second gate. A groundskeeper stood next to a watering truck, hose in his hand, mouth open. I lifted two fingers. He dropped the hose and lifted two back.
+
+Respect knew what to do even when nothing else did.
+
+I took the hearse onto the service road. The SUV followed, front bumper bent, one headlight gone. A second engine roared somewhere ahead of us.
+
+For a second I thought they'd boxed me in.
+
+Then the white Bentley appeared across the intersection with Shawna driving.
+
+Her coat was off. Her white gloves were on. Porsche sat beside her holding her purse against the dash and grinning like she'd just gotten invited to the best part of her own fucking life.
+
+Shawna turned the Bentley toward the SUV.
+
+"Baby, don't—"
+
+Too late. She struck its front corner and knocked it sideways across the road. The Bentley spun, white smoke pouring off the tires. Porsche's door flew open and slammed shut again. The SUV climbed the curb and hit a stone wall hard enough to throw its hood up like a surrender flag.
+
+I braked the hearse beside them.
+
+Shawna looked through her broken window at me.
+
+"Nigga, your wife drives too."
+
+We weren't married. I didn't correct her. I was busy falling in love with her for the fourth fucking time before lunch.
+
+A man came out of the SUV with a gun.
+
+I fired through the hearse's open door. He dropped behind the engine and his weapon clattered into the gutter. Another man tried to pull him back inside. Tank's Mercedes arrived from the far end of the road, and that nigga took one look at Tank getting out and raised both hands so high I thought he was asking God to pull him through the sunroof.
+
+"Who sent you?" Tank shouted.
+
+The man didn't answer.
+
+Tank took another step.
+
+"Nigga, this is the easy question."
+
+"T had friends!"
+
+I got out of the hearse.
+
+"Then where the fuck were you when they passed the collection plate?"
+
+The man's eyes widened. He looked from me to the coffin behind the shattered rear window.
+
+"You killed him."
+
+"And I'm burying him. You coming between those things again, you can ask him how he feels about it yourself."
+
+He stared at the pistol in my hand. Then at the blood beginning to show through my shirt. Then at Shawna stepping out of the Bentley in a white dress with glass shining around her shoes.
+
+"You don't stop," he said.
+
+It came out almost admiring. Like he'd found the problem and hated that it was beautiful.
+
+"Nigga, you should've asked somebody before you came."
+
+Knox's cruisers arrived behind Tank. I hadn't called her. Half the city had. Men got put on the ground, guns got kicked away, and the chief got out with her eyes already on me.
+
+"Please tell me that's an empty hearse."
+
+"Family in the back."
+
+She looked through the window.
+
+"You brought the deceased into a pursuit?"
+
+"Nigga wasn't walking."
+
+Knox took off her glasses.
+
+For three seconds I watched her try to decide whether she'd seen anything better in thirty years of police work.
+
+Then she laughed. Loud. Hands on her hips, face turned toward the sky, laughing while the men in handcuffs looked at her like she had personally betrayed the law by appreciating me.
+
+"Aiden," she said, "you are wasting your fucking talents in civilian clothes."
+
+"You keep saying that."
+
+"I'm going to keep saying it until somebody gives me what I want."
+
+Shawna reached me. She had a shallow cut on her hand, nothing worse, and I kissed it before she could tell me the blood wasn't all hers.
+
+"I asked you to stay with the car," I said.
+
+"I did. I moved the car."
+
+Porsche came around the Bentley and held out its keys to Tank.
+
+"Tell Leon this one had a meaningful life too."
+
+Tank looked at the crushed front fender.
+
+"Nigga gonna start sending bicycles."
+
+We brought T back to the chapel in the same hearse, with a police escort in front and Shawna in the seat beside me. People came out when they heard the engines. Somebody started applauding. A woman on the steps raised both hands and shouted my name so hard her hat moved.
+
+I got out slowly. My side had finally started collecting everything I owed it.
+
+The old man Tank had rescued came down the steps with his wife. She put both hands around my face.
+
+"You brought everybody home."
+
+I looked past her at the white sheet beside the curb.
+
+Not everybody.
+
+Rico was still there. Vernon, forty-one, had died inside the chapel after they carried him in. Two of my people gone while I was trying to keep one dead man from being taken again.
+
+I held the woman's hands for a second, then let them go.
+
+"Help me finish this," I told Tank.
+
+We put our hands on T's blue coffin. Four other men came beside us. The funeral workers found their places. The musicians began the hymn again, shaky at first, then strong enough that the whole parking lot listened.
+
+This time when we carried him to the waiting car, nobody stopped us.
+
+***
+
+They buried T later that afternoon.
+
+I didn't go to the graveside. Vega was back at the house, furious enough that everybody found a reason to leave the room when she walked in. She examined me behind closed doors while Shawna sat on the bed, still in the dirty white dress.
+
+"You were told to rest," Vega said.
+
+"I was sitting at a funeral."
+
+"You are bleeding in a house full of armed men. I am interested in what happened after the sitting."
+
+I looked away.
+
+She made arrangements for what I needed, repeated herself slowly enough to insult me, and left with the promise that I was going back under her care if my condition worsened. I believed her. So did Shawna. That meant I was trapped in my own fucking palace.
+
+Two of our men were dead. Others were hurt. Tank told me their names and made me repeat them. I said I'd pay for everything. He said their mothers needed to hear a human being first.
+
+So I called.
+
+Nigga, there wasn't a thing on earth I could say that made that conversation right. I didn't try to make a speech. I told them who I was. Told them I was sorry. Stayed on the line through whatever they needed to call me.
+
+When I finished, I threw the phone across the room.
+
+Shawna watched it hit the wall.
+
+"I want Red," I said.
+
+"You don't know it was him."
+
+"Who the fuck else, Shawna?"
+
+"People loved T."
+
+"Nigga, I paid for the funeral."
+
+"You also killed him."
+
+I hated hearing it in her voice. Hated that she could say something true while I wanted her angry beside her nigga.
+
+"You defending Red now?"
+
+Her face went cold.
+
+"Say that again."
+
+I didn't.
+
+She stood up, took Dante's watch off, and set it beside me on the bed.
+
+"You think I forgot what those men did?"
+
+The watch lay face up between us.
+
+"You think because I got a house and some fucking earrings I forgot where they left him?"
+
+"No."
+
+"Then don't talk to me like I'm sleeping through this."
+
+She picked it back up. Her fingers were shaking at the clasp. I reached for her hand, and she let me help her fasten it.
+
+"I'm scared," I said.
+
+She looked at me.
+
+Nigga, I'd rather have taken another punch than said that. But I'd seen her under that car, and I couldn't get the glass out of my head.
+
+"I'm scared they get you while I'm laying here."
+
+She sat down.
+
+"Then stop trying to stand up every time somebody says your name."
+
+I put my forehead against hers.
+
+Outside the room, Rosa was yelling at Tank to eat something. He told her he wasn't hungry. She told him she hadn't asked for his fucking feelings about the sandwich.
+
+Shawna laughed once, through her nose.
+
+I held on to her.
+
+***
+
+Red's invitation came at sunset.
+
+A man from the Saint left a black envelope at the gate. Tank brought it upstairs on a silver tray he must've taken from the kitchen. I stared at it.
+
+"Nigga, why you serving me a threat?"
+
+"Didn't wanna touch it more than I had to."
+
+I took the envelope.
+
+Inside was an invitation printed in gold. Breakfast at the Saint. Tomorrow morning. Penthouse. My name and Shawna's, together like we were anybody's idea of welcome guests.
+
+There was another card behind it.
+
+I read it once.
+
+Then I gave it to Shawna.
+
+She sat on the bed so suddenly I thought her legs had gone.
+
+"What?" Tank said.
+
+She didn't answer. She was staring at the handwriting. I watched her thumb move to Dante's watch and stay there.
+
+Red had written one sentence.
+
+*Dante didn't die for three million.*

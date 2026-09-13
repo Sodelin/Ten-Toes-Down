@@ -1,0 +1,685 @@
+{
+  "chapter_id": "b02-c20",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 113,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 8685,
+      "speaker": null,
+      "opening": "“This nigga been counting the future,”"
+    },
+    {
+      "quote": 2,
+      "line": 8687,
+      "speaker": null,
+      "opening": "“Can't do that,”"
+    },
+    {
+      "quote": 3,
+      "line": 8689,
+      "speaker": null,
+      "opening": "“Then why you keep winning?”"
+    },
+    {
+      "quote": 4,
+      "line": 8697,
+      "speaker": null,
+      "opening": "“Nigga, patterns.”"
+    },
+    {
+      "quote": 5,
+      "line": 8705,
+      "speaker": null,
+      "opening": "“Let the captain play.”"
+    },
+    {
+      "quote": 6,
+      "line": 8707,
+      "speaker": null,
+      "opening": "“Madame, the probability—”"
+    },
+    {
+      "quote": 7,
+      "line": 8709,
+      "speaker": null,
+      "opening": "“Has met him.”"
+    },
+    {
+      "quote": 8,
+      "line": 8727,
+      "speaker": null,
+      "opening": "“He's only got a minute,”"
+    },
+    {
+      "quote": 9,
+      "line": 8729,
+      "speaker": null,
+      "opening": "“Then he better use it beautifully.”"
+    },
+    {
+      "quote": 10,
+      "line": 8737,
+      "speaker": null,
+      "opening": "“Sir, I have dealt cards for twenty years.”"
+    },
+    {
+      "quote": 11,
+      "line": 8739,
+      "speaker": null,
+      "opening": "“You doing good.”"
+    },
+    {
+      "quote": 12,
+      "line": 8741,
+      "speaker": null,
+      "opening": "“I have never seen this.”"
+    },
+    {
+      "quote": 13,
+      "line": 8745,
+      "speaker": null,
+      "opening": "“Nigga, that's what the school said!”"
+    },
+    {
+      "quote": 14,
+      "line": 8749,
+      "speaker": null,
+      "opening": "“You're finished.”"
+    },
+    {
+      "quote": 15,
+      "line": 8753,
+      "speaker": null,
+      "opening": "“Baby, the universe talking.”"
+    },
+    {
+      "quote": 16,
+      "line": 8755,
+      "speaker": null,
+      "opening": "“It can call tomorrow. You're dancing with me.”"
+    },
+    {
+      "quote": 17,
+      "line": 8759,
+      "speaker": null,
+      "opening": "“Excellent decision,”"
+    },
+    {
+      "quote": 18,
+      "line": 8763,
+      "speaker": null,
+      "opening": "“Nigga, don't get comfortable. We walking past roulette.”"
+    },
+    {
+      "quote": 19,
+      "line": 8771,
+      "speaker": null,
+      "opening": "“You like being a superhero?”"
+    },
+    {
+      "quote": 20,
+      "line": 8773,
+      "speaker": null,
+      "opening": "“I like the parking.”"
+    },
+    {
+      "quote": 21,
+      "line": 8775,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 22,
+      "line": 8779,
+      "speaker": null,
+      "opening": "“I like knowing another thing I can do,”"
+    },
+    {
+      "quote": 23,
+      "line": 8783,
+      "speaker": null,
+      "opening": "“That's a better answer.”"
+    },
+    {
+      "quote": 24,
+      "line": 8785,
+      "speaker": null,
+      "opening": "“I had it behind the parking.”"
+    },
+    {
+      "quote": 25,
+      "line": 8791,
+      "speaker": null,
+      "opening": "“Show these people what all that greatness does"
+    },
+    {
+      "quote": 26,
+      "line": 8809,
+      "speaker": null,
+      "opening": "“For the man with the steadiest hands in"
+    },
+    {
+      "quote": 27,
+      "line": 8813,
+      "speaker": null,
+      "opening": "“Nigga, another building?”"
+    },
+    {
+      "quote": 28,
+      "line": 8815,
+      "speaker": null,
+      "opening": "“A sculpture,”"
+    },
+    {
+      "quote": 29,
+      "line": 8817,
+      "speaker": null,
+      "opening": "“These niggas keep doing architecture to us.”"
+    },
+    {
+      "quote": 30,
+      "line": 8825,
+      "speaker": null,
+      "opening": "“Next time we lift the furniture together.”"
+    },
+    {
+      "quote": 31,
+      "line": 8843,
+      "speaker": null,
+      "opening": "“Come admire something you aren't allowed to drive.”"
+    },
+    {
+      "quote": 32,
+      "line": 8845,
+      "speaker": null,
+      "opening": "“Nigga, that sentence leaves me very little.”"
+    },
+    {
+      "quote": 33,
+      "line": 8855,
+      "speaker": null,
+      "opening": "“We could make it run again.”"
+    },
+    {
+      "quote": 34,
+      "line": 8859,
+      "speaker": null,
+      "opening": "“I would like that.”"
+    },
+    {
+      "quote": 35,
+      "line": 8871,
+      "speaker": null,
+      "opening": "“You good?”"
+    },
+    {
+      "quote": 36,
+      "line": 8879,
+      "speaker": null,
+      "opening": "“Nigga, I don't know what this is.”"
+    },
+    {
+      "quote": 37,
+      "line": 8881,
+      "speaker": null,
+      "opening": "“Clouds.”"
+    },
+    {
+      "quote": 38,
+      "line": 8883,
+      "speaker": null,
+      "opening": "“Fuck you.”"
+    },
+    {
+      "quote": 39,
+      "line": 8889,
+      "speaker": null,
+      "opening": "“I keep thinking about houses,”"
+    },
+    {
+      "quote": 40,
+      "line": 8891,
+      "speaker": null,
+      "opening": "“You got a house.”"
+    },
+    {
+      "quote": 41,
+      "line": 8893,
+      "speaker": null,
+      "opening": "“A different kind.”"
+    },
+    {
+      "quote": 42,
+      "line": 8897,
+      "speaker": null,
+      "opening": "“A place where her coat already there. Where"
+    },
+    {
+      "quote": 43,
+      "line": 8903,
+      "speaker": null,
+      "opening": "“Nigga, that sound like something worth buying the"
+    },
+    {
+      "quote": 44,
+      "line": 8907,
+      "speaker": null,
+      "opening": "“You got that.”"
+    },
+    {
+      "quote": 45,
+      "line": 8911,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 46,
+      "line": 8913,
+      "speaker": null,
+      "opening": "“Don't get stupid with it.”"
+    },
+    {
+      "quote": 47,
+      "line": 8915,
+      "speaker": null,
+      "opening": "“Nigga, you met me.”"
+    },
+    {
+      "quote": 48,
+      "line": 8917,
+      "speaker": null,
+      "opening": "“I said with it. You can keep being"
+    },
+    {
+      "quote": 49,
+      "line": 8935,
+      "speaker": null,
+      "opening": "“This nigga got a permanent entrance.”"
+    },
+    {
+      "quote": 50,
+      "line": 8945,
+      "speaker": null,
+      "opening": "“Look at this nigga. Even the stone got"
+    },
+    {
+      "quote": 51,
+      "line": 8947,
+      "speaker": null,
+      "opening": "“They gave him shoulders twice.”"
+    },
+    {
+      "quote": 52,
+      "line": 8949,
+      "speaker": null,
+      "opening": "“Perspective,”"
+    },
+    {
+      "quote": 53,
+      "line": 8951,
+      "speaker": null,
+      "opening": "“Nigga, from here he could carry the breakfast"
+    },
+    {
+      "quote": 54,
+      "line": 8955,
+      "speaker": null,
+      "opening": "“They got your name right.”"
+    },
+    {
+      "quote": 55,
+      "line": 8957,
+      "speaker": null,
+      "opening": "“Fundamental.”"
+    },
+    {
+      "quote": 56,
+      "line": 8959,
+      "speaker": null,
+      "opening": "“Everything else appears to be a negotiation.”"
+    },
+    {
+      "quote": 57,
+      "line": 8963,
+      "speaker": null,
+      "opening": "“Nigga, you could rent this loafer.”"
+    },
+    {
+      "quote": 58,
+      "line": 8965,
+      "speaker": null,
+      "opening": "“Good location.”"
+    },
+    {
+      "quote": 59,
+      "line": 8967,
+      "speaker": null,
+      "opening": "“Terrible landlord.”"
+    },
+    {
+      "quote": 60,
+      "line": 8971,
+      "speaker": null,
+      "opening": "“Keep the entrance clear.”"
+    },
+    {
+      "quote": 61,
+      "line": 8973,
+      "speaker": null,
+      "opening": "“Nigga, stop leasing me.”"
+    },
+    {
+      "quote": 62,
+      "line": 8975,
+      "speaker": null,
+      "opening": "“You said good location.”"
+    },
+    {
+      "quote": 63,
+      "line": 8979,
+      "speaker": null,
+      "opening": "“Is it satisfactory, Captain?”"
+    },
+    {
+      "quote": 64,
+      "line": 8983,
+      "speaker": null,
+      "opening": "“You did all that?”"
+    },
+    {
+      "quote": 65,
+      "line": 8985,
+      "speaker": null,
+      "opening": "“Had help lifting.”"
+    },
+    {
+      "quote": 66,
+      "line": 8987,
+      "speaker": null,
+      "opening": "“Nigga, I should hope.”"
+    },
+    {
+      "quote": 67,
+      "line": 8991,
+      "speaker": null,
+      "opening": "“It's magnificent.”"
+    },
+    {
+      "quote": 68,
+      "line": 8995,
+      "speaker": null,
+      "opening": "“It is,”"
+    },
+    {
+      "quote": 69,
+      "line": 8995,
+      "speaker": null,
+      "opening": "“We're still leaving it here.”"
+    },
+    {
+      "quote": 70,
+      "line": 8999,
+      "speaker": null,
+      "opening": "“I hadn't—”"
+    },
+    {
+      "quote": 71,
+      "line": 9001,
+      "speaker": null,
+      "opening": "“Nigga, your face was measuring the garden.”"
+    },
+    {
+      "quote": 72,
+      "line": 9005,
+      "speaker": null,
+      "opening": "“Put that much man in your yard, the"
+    },
+    {
+      "quote": 73,
+      "line": 9009,
+      "speaker": null,
+      "opening": "“The students insisted.”"
+    },
+    {
+      "quote": 74,
+      "line": 9011,
+      "speaker": null,
+      "opening": "“All of them?”"
+    },
+    {
+      "quote": 75,
+      "line": 9013,
+      "speaker": null,
+      "opening": "“Enough of them to carry the stone.”"
+    },
+    {
+      "quote": 76,
+      "line": 9017,
+      "speaker": null,
+      "opening": "“There was disagreement about whether the car should"
+    },
+    {
+      "quote": 77,
+      "line": 9023,
+      "speaker": null,
+      "opening": "“I remain in favor.”"
+    },
+    {
+      "quote": 78,
+      "line": 9033,
+      "speaker": null,
+      "opening": "“Nigga, even the statue got powers.”"
+    },
+    {
+      "quote": 79,
+      "line": 9045,
+      "speaker": null,
+      "opening": "“Now I believe it,”"
+    },
+    {
+      "quote": 80,
+      "line": 9055,
+      "speaker": null,
+      "opening": "“This one wanted to be first,”"
+    },
+    {
+      "quote": 81,
+      "line": 9059,
+      "speaker": null,
+      "opening": "“Nigga got good influences.”"
+    },
+    {
+      "quote": 82,
+      "line": 9065,
+      "speaker": null,
+      "opening": "“Don't get arrogant,”"
+    },
+    {
+      "quote": 83,
+      "line": 9067,
+      "speaker": null,
+      "opening": "“You kissed all three.”"
+    },
+    {
+      "quote": 84,
+      "line": 9069,
+      "speaker": null,
+      "opening": "“Nigga, I was checking consistency.”"
+    },
+    {
+      "quote": 85,
+      "line": 9085,
+      "speaker": null,
+      "opening": "“Dean.”"
+    },
+    {
+      "quote": 86,
+      "line": 9087,
+      "speaker": null,
+      "opening": "“Captain.”"
+    },
+    {
+      "quote": 87,
+      "line": 9091,
+      "speaker": null,
+      "opening": "“Come back,”"
+    },
+    {
+      "quote": 88,
+      "line": 9093,
+      "speaker": null,
+      "opening": "“You sure? I made repairs expensive.”"
+    },
+    {
+      "quote": 89,
+      "line": 9095,
+      "speaker": null,
+      "opening": "“You made the place worth repairing.”"
+    },
+    {
+      "quote": 90,
+      "line": 9103,
+      "speaker": null,
+      "opening": "“One more race when you return.”"
+    },
+    {
+      "quote": 91,
+      "line": 9105,
+      "speaker": null,
+      "opening": "“You sure, nigga?”"
+    },
+    {
+      "quote": 92,
+      "line": 9107,
+      "speaker": null,
+      "opening": "“A fair one. No collapsing trains. No overloaded"
+    },
+    {
+      "quote": 93,
+      "line": 9111,
+      "speaker": null,
+      "opening": "“You asking a lot from the environment.”"
+    },
+    {
+      "quote": 94,
+      "line": 9117,
+      "speaker": null,
+      "opening": "“Thank you,”"
+    },
+    {
+      "quote": 95,
+      "line": 9121,
+      "speaker": null,
+      "opening": "“Stay magnificent.”"
+    },
+    {
+      "quote": 96,
+      "line": 9125,
+      "speaker": null,
+      "opening": "“You make it difficult to do anything else.”"
+    },
+    {
+      "quote": 97,
+      "line": 9133,
+      "speaker": null,
+      "opening": "“Nigga, another school?”"
+    },
+    {
+      "quote": 98,
+      "line": 9135,
+      "speaker": null,
+      "opening": "“I can't keep graduating. We running out of"
+    },
+    {
+      "quote": 99,
+      "line": 9139,
+      "speaker": null,
+      "opening": "“Captain Aiden. On behalf of Duke Aurelio Cruel,"
+    },
+    {
+      "quote": 100,
+      "line": 9145,
+      "speaker": null,
+      "opening": "“Cruel,”"
+    },
+    {
+      "quote": 101,
+      "line": 9149,
+      "speaker": null,
+      "opening": "“An ambitious host.”"
+    },
+    {
+      "quote": 102,
+      "line": 9165,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 103,
+      "line": 9167,
+      "speaker": null,
+      "opening": "“I see it.”"
+    },
+    {
+      "quote": 104,
+      "line": 9177,
+      "speaker": null,
+      "opening": "“You want to go?”"
+    },
+    {
+      "quote": 105,
+      "line": 9181,
+      "speaker": null,
+      "opening": "“I want the ocean.”"
+    },
+    {
+      "quote": 106,
+      "line": 9183,
+      "speaker": null,
+      "opening": "“Then we getting the ocean.”"
+    },
+    {
+      "quote": 107,
+      "line": 9187,
+      "speaker": null,
+      "opening": "“Nigga, it says island too.”"
+    },
+    {
+      "quote": 108,
+      "line": 9189,
+      "speaker": null,
+      "opening": "“Baby asked for water. I like to include"
+    },
+    {
+      "quote": 109,
+      "line": 9199,
+      "speaker": null,
+      "opening": "“Shall I tell the duke you accept?”"
+    },
+    {
+      "quote": 110,
+      "line": 9203,
+      "speaker": null,
+      "opening": "“Tell that nigga to make room.”"
+    },
+    {
+      "quote": 111,
+      "line": 9225,
+      "speaker": null,
+      "opening": "“You happy?”"
+    },
+    {
+      "quote": 112,
+      "line": 9231,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 113,
+      "line": 9231,
+      "speaker": null,
+      "opening": "“look how much world we still got.”"
+    }
+  ]
+}

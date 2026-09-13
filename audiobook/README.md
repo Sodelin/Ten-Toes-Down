@@ -2,6 +2,8 @@
 
 Free local audiobook production for **The Niggatorial Tellings**.
 
+**Full-series production is underway:** [chapter recordings and progress](LISTEN.md) · [cast and queue workflow](production/README.md).
+
 ## Listen
 
 - [Finished pilot — new Aiden and Tank, verbatim source text](pilot/funeral-new-voices.mp3): **3:25**, six character voices.

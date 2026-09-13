@@ -1,0 +1,445 @@
+{
+  "chapter_id": "b06-c12",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 73,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4987,
+      "speaker": null,
+      "opening": "\"Salma,\""
+    },
+    {
+      "quote": 2,
+      "line": 4989,
+      "speaker": null,
+      "opening": "\"You brought him here.\""
+    },
+    {
+      "quote": 3,
+      "line": 4993,
+      "speaker": null,
+      "opening": "\"Nigga, I'm popular, but you can say my"
+    },
+    {
+      "quote": 4,
+      "line": 4997,
+      "speaker": null,
+      "opening": "\"Captain Aiden. Murderer, thief, foreign officer.\""
+    },
+    {
+      "quote": 5,
+      "line": 4999,
+      "speaker": null,
+      "opening": "\"Singer,\""
+    },
+    {
+      "quote": 6,
+      "line": 5001,
+      "speaker": null,
+      "opening": "\"My wife likes a complete introduction.\""
+    },
+    {
+      "quote": 7,
+      "line": 5011,
+      "speaker": null,
+      "opening": "\"Call Mother,\""
+    },
+    {
+      "quote": 8,
+      "line": 5013,
+      "speaker": null,
+      "opening": "\"I have orders not to use outside lines.\""
+    },
+    {
+      "quote": 9,
+      "line": 5015,
+      "speaker": null,
+      "opening": "\"Then break one.\""
+    },
+    {
+      "quote": 10,
+      "line": 5017,
+      "speaker": null,
+      "opening": "\"You ask me to betray my post.\""
+    },
+    {
+      "quote": 11,
+      "line": 5019,
+      "speaker": null,
+      "opening": "\"I'm asking you to speak to your mother.\""
+    },
+    {
+      "quote": 12,
+      "line": 5027,
+      "speaker": null,
+      "opening": "\"Read these.\""
+    },
+    {
+      "quote": 13,
+      "line": 5031,
+      "speaker": null,
+      "opening": "\"Forged.\""
+    },
+    {
+      "quote": 14,
+      "line": 5033,
+      "speaker": null,
+      "opening": "\"You haven't looked.\""
+    },
+    {
+      "quote": 15,
+      "line": 5035,
+      "speaker": null,
+      "opening": "\"The emperor warned us.\""
+    },
+    {
+      "quote": 16,
+      "line": 5039,
+      "speaker": null,
+      "opening": "\"Did he warn you about the hotel?\""
+    },
+    {
+      "quote": 17,
+      "line": 5041,
+      "speaker": null,
+      "opening": "\"A rebel stronghold.\""
+    },
+    {
+      "quote": 18,
+      "line": 5043,
+      "speaker": null,
+      "opening": "\"There was a man inside who planted trees"
+    },
+    {
+      "quote": 19,
+      "line": 5047,
+      "speaker": null,
+      "opening": "\"And the guns?\""
+    },
+    {
+      "quote": 20,
+      "line": 5049,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 21,
+      "line": 5049,
+      "speaker": null,
+      "opening": "\"those were mine. You can have a problem"
+    },
+    {
+      "quote": 22,
+      "line": 5065,
+      "speaker": null,
+      "opening": "\"Captain Salma Vale,\""
+    },
+    {
+      "quote": 23,
+      "line": 5065,
+      "speaker": null,
+      "opening": "\"Your loyalty is under review.\""
+    },
+    {
+      "quote": 24,
+      "line": 5069,
+      "speaker": null,
+      "opening": "\"Salma, move!\""
+    },
+    {
+      "quote": 25,
+      "line": 5077,
+      "speaker": null,
+      "opening": "\"He ordered me to hold this door.\""
+    },
+    {
+      "quote": 26,
+      "line": 5079,
+      "speaker": null,
+      "opening": "\"Nigga, he just updated the assignment,\""
+    },
+    {
+      "quote": 27,
+      "line": 5083,
+      "speaker": null,
+      "opening": "\"You hit?\""
+    },
+    {
+      "quote": 28,
+      "line": 5087,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 29,
+      "line": 5089,
+      "speaker": null,
+      "opening": "\"Then think while you're alive.\""
+    },
+    {
+      "quote": 30,
+      "line": 5095,
+      "speaker": null,
+      "opening": "\"Cover the stairs!\""
+    },
+    {
+      "quote": 31,
+      "line": 5103,
+      "speaker": null,
+      "opening": "\"Tank!\""
+    },
+    {
+      "quote": 32,
+      "line": 5109,
+      "speaker": null,
+      "opening": "\"You want the quiet opening or the brother"
+    },
+    {
+      "quote": 33,
+      "line": 5111,
+      "speaker": null,
+      "opening": "\"Nigga, read the room.\""
+    },
+    {
+      "quote": 34,
+      "line": 5123,
+      "speaker": null,
+      "opening": "\"Those men—\""
+    },
+    {
+      "quote": 35,
+      "line": 5125,
+      "speaker": null,
+      "opening": "\"Are on the guest list,\""
+    },
+    {
+      "quote": 36,
+      "line": 5141,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 37,
+      "line": 5143,
+      "speaker": null,
+      "opening": "\"I see it.\""
+    },
+    {
+      "quote": 38,
+      "line": 5151,
+      "speaker": null,
+      "opening": "\"Nigga keeps booking shows without checking my calendar.\""
+    },
+    {
+      "quote": 39,
+      "line": 5157,
+      "speaker": null,
+      "opening": "\"Down!\""
+    },
+    {
+      "quote": 40,
+      "line": 5167,
+      "speaker": null,
+      "opening": "\"You think he has a second song request?\""
+    },
+    {
+      "quote": 41,
+      "line": 5169,
+      "speaker": null,
+      "opening": "\"Yeah. It's called Stop Shooting My Fucking Furniture.\""
+    },
+    {
+      "quote": 42,
+      "line": 5177,
+      "speaker": null,
+      "opening": "\"Above the red curtain!\""
+    },
+    {
+      "quote": 43,
+      "line": 5183,
+      "speaker": null,
+      "opening": "\"Behind the clock!\""
+    },
+    {
+      "quote": 44,
+      "line": 5193,
+      "speaker": null,
+      "opening": "\"You done?\""
+    },
+    {
+      "quote": 45,
+      "line": 5197,
+      "speaker": null,
+      "opening": "\"Use words.\""
+    },
+    {
+      "quote": 46,
+      "line": 5199,
+      "speaker": null,
+      "opening": "\"I'm done!\""
+    },
+    {
+      "quote": 47,
+      "line": 5203,
+      "speaker": null,
+      "opening": "\"Excellent progress.\""
+    },
+    {
+      "quote": 48,
+      "line": 5211,
+      "speaker": null,
+      "opening": "\"Oh,\""
+    },
+    {
+      "quote": 49,
+      "line": 5213,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 50,
+      "line": 5213,
+      "speaker": null,
+      "opening": "\"They gave me one too.\""
+    },
+    {
+      "quote": 51,
+      "line": 5227,
+      "speaker": null,
+      "opening": "\"Stay seated,\""
+    },
+    {
+      "quote": 52,
+      "line": 5233,
+      "speaker": null,
+      "opening": "\"Teamwork.\""
+    },
+    {
+      "quote": 53,
+      "line": 5235,
+      "speaker": null,
+      "opening": "\"Your shoulder.\""
+    },
+    {
+      "quote": 54,
+      "line": 5237,
+      "speaker": null,
+      "opening": "\"Complaining.\""
+    },
+    {
+      "quote": 55,
+      "line": 5239,
+      "speaker": null,
+      "opening": "\"I am going to join it.\""
+    },
+    {
+      "quote": 56,
+      "line": 5261,
+      "speaker": null,
+      "opening": "\"Captain Aiden's extremely busy afternoon.\""
+    },
+    {
+      "quote": 57,
+      "line": 5265,
+      "speaker": null,
+      "opening": "\"You have destroyed a room built by kings.\""
+    },
+    {
+      "quote": 58,
+      "line": 5269,
+      "speaker": null,
+      "opening": "\"Nigga, send the kings my apologies.\""
+    },
+    {
+      "quote": 59,
+      "line": 5271,
+      "speaker": null,
+      "opening": "\"You think destruction proves greatness.\""
+    },
+    {
+      "quote": 60,
+      "line": 5273,
+      "speaker": null,
+      "opening": "\"No. You shooting your own captain proved something,"
+    },
+    {
+      "quote": 61,
+      "line": 5279,
+      "speaker": null,
+      "opening": "\"Come to the midnight court. Bring the crown."
+    },
+    {
+      "quote": 62,
+      "line": 5281,
+      "speaker": null,
+      "opening": "\"You finally meeting me without shooting through a"
+    },
+    {
+      "quote": 63,
+      "line": 5283,
+      "speaker": null,
+      "opening": "\"The court will witness us.\""
+    },
+    {
+      "quote": 64,
+      "line": 5287,
+      "speaker": null,
+      "opening": "\"What court?\""
+    },
+    {
+      "quote": 65,
+      "line": 5289,
+      "speaker": null,
+      "opening": "\"The rulers you have impressed. The captains you"
+    },
+    {
+      "quote": 66,
+      "line": 5291,
+      "speaker": null,
+      "opening": "\"Nigga, they'll need better chairs. My people travel"
+    },
+    {
+      "quote": 67,
+      "line": 5299,
+      "speaker": null,
+      "opening": "\"He wants an audience.\""
+    },
+    {
+      "quote": 68,
+      "line": 5301,
+      "speaker": null,
+      "opening": "\"So do I.\""
+    },
+    {
+      "quote": 69,
+      "line": 5303,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 70,
+      "line": 5309,
+      "speaker": null,
+      "opening": "\"Finish it.\""
+    },
+    {
+      "quote": 71,
+      "line": 5315,
+      "speaker": null,
+      "opening": "\"I will.\""
+    },
+    {
+      "quote": 72,
+      "line": 5327,
+      "speaker": null,
+      "opening": "\"Bring the crown,\""
+    },
+    {
+      "quote": 73,
+      "line": 5327,
+      "speaker": null,
+      "opening": "\"That nigga wants to see how it looks"
+    }
+  ]
+}

@@ -1,0 +1,1039 @@
+{
+  "chapter_id": "b01-c03",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 172,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1385,
+      "speaker": null,
+      "opening": "\"His wife,\""
+    },
+    {
+      "quote": 2,
+      "line": 1389,
+      "speaker": null,
+      "opening": "\"Name?\""
+    },
+    {
+      "quote": 3,
+      "line": 1391,
+      "speaker": null,
+      "opening": "\"Shawna.\""
+    },
+    {
+      "quote": 4,
+      "line": 1393,
+      "speaker": null,
+      "opening": "\"His name.\""
+    },
+    {
+      "quote": 5,
+      "line": 1395,
+      "speaker": null,
+      "opening": "\"Aiden. His name is Aiden.\""
+    },
+    {
+      "quote": 6,
+      "line": 1397,
+      "speaker": null,
+      "opening": "\"Let go of him, Shawna.\""
+    },
+    {
+      "quote": 7,
+      "line": 1401,
+      "speaker": null,
+      "opening": "\"Baby,\""
+    },
+    {
+      "quote": 8,
+      "line": 1405,
+      "speaker": null,
+      "opening": "\"Don't let them cut my chain.\""
+    },
+    {
+      "quote": 9,
+      "line": 1415,
+      "speaker": null,
+      "opening": "\"Dr. Marisol Vega,\""
+    },
+    {
+      "quote": 10,
+      "line": 1415,
+      "speaker": null,
+      "opening": "\"You're alive.\""
+    },
+    {
+      "quote": 11,
+      "line": 1417,
+      "speaker": null,
+      "opening": "\"Shawna?\""
+    },
+    {
+      "quote": 12,
+      "line": 1419,
+      "speaker": null,
+      "opening": "\"Sleeping.\""
+    },
+    {
+      "quote": 13,
+      "line": 1421,
+      "speaker": null,
+      "opening": "\"Where?\""
+    },
+    {
+      "quote": 14,
+      "line": 1427,
+      "speaker": null,
+      "opening": "\"Don't wake her,\""
+    },
+    {
+      "quote": 15,
+      "line": 1429,
+      "speaker": null,
+      "opening": "\"She'll wake herself. She has been doing it"
+    },
+    {
+      "quote": 16,
+      "line": 1433,
+      "speaker": null,
+      "opening": "\"Fuck.\""
+    },
+    {
+      "quote": 17,
+      "line": 1435,
+      "speaker": null,
+      "opening": "\"Yes,\""
+    },
+    {
+      "quote": 18,
+      "line": 1435,
+      "speaker": null,
+      "opening": "\"That. You will be doing quite a lot"
+    },
+    {
+      "quote": 19,
+      "line": 1439,
+      "speaker": null,
+      "opening": "\"Where's the bullet?\""
+    },
+    {
+      "quote": 20,
+      "line": 1441,
+      "speaker": null,
+      "opening": "\"Still inside you. Removing it would add risks"
+    },
+    {
+      "quote": 21,
+      "line": 1445,
+      "speaker": null,
+      "opening": "\"How much time?\""
+    },
+    {
+      "quote": 22,
+      "line": 1447,
+      "speaker": null,
+      "opening": "\"More than you want.\""
+    },
+    {
+      "quote": 23,
+      "line": 1449,
+      "speaker": null,
+      "opening": "\"Niggas waiting downstairs, Doc. A nigga can't run"
+    },
+    {
+      "quote": 24,
+      "line": 1451,
+      "speaker": null,
+      "opening": "\"They can keep waiting.\""
+    },
+    {
+      "quote": 25,
+      "line": 1459,
+      "speaker": null,
+      "opening": "\"Aiden?\""
+    },
+    {
+      "quote": 26,
+      "line": 1461,
+      "speaker": null,
+      "opening": "\"Right here.\""
+    },
+    {
+      "quote": 27,
+      "line": 1465,
+      "speaker": null,
+      "opening": "\"You scared me,\""
+    },
+    {
+      "quote": 28,
+      "line": 1467,
+      "speaker": null,
+      "opening": "\"I'm sorry, baby.\""
+    },
+    {
+      "quote": 29,
+      "line": 1469,
+      "speaker": null,
+      "opening": "\"Don't be sorry. Don't do it.\""
+    },
+    {
+      "quote": 30,
+      "line": 1475,
+      "speaker": null,
+      "opening": "\"You told them you're my wife,\""
+    },
+    {
+      "quote": 31,
+      "line": 1479,
+      "speaker": null,
+      "opening": "\"They weren't going to let me in.\""
+    },
+    {
+      "quote": 32,
+      "line": 1481,
+      "speaker": null,
+      "opening": "\"You could've said sister.\""
+    },
+    {
+      "quote": 33,
+      "line": 1483,
+      "speaker": null,
+      "opening": "\"I wanted them to let me in. I"
+    },
+    {
+      "quote": 34,
+      "line": 1487,
+      "speaker": null,
+      "opening": "\"Say it again,\""
+    },
+    {
+      "quote": 35,
+      "line": 1489,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 36,
+      "line": 1491,
+      "speaker": null,
+      "opening": "\"What you told the doctor.\""
+    },
+    {
+      "quote": 37,
+      "line": 1495,
+      "speaker": null,
+      "opening": "\"Nigga, you trying to die married?\""
+    },
+    {
+      "quote": 38,
+      "line": 1497,
+      "speaker": null,
+      "opening": "\"Trying to live that way.\""
+    },
+    {
+      "quote": 39,
+      "line": 1505,
+      "speaker": null,
+      "opening": "\"Let me get you home first.\""
+    },
+    {
+      "quote": 40,
+      "line": 1513,
+      "speaker": null,
+      "opening": "\"These for her,\""
+    },
+    {
+      "quote": 41,
+      "line": 1517,
+      "speaker": null,
+      "opening": "\"Nigga, put the flowers down before we both"
+    },
+    {
+      "quote": 42,
+      "line": 1523,
+      "speaker": null,
+      "opening": "\"You alone?\""
+    },
+    {
+      "quote": 43,
+      "line": 1525,
+      "speaker": null,
+      "opening": "\"Niggas downstairs waiting.\""
+    },
+    {
+      "quote": 44,
+      "line": 1527,
+      "speaker": null,
+      "opening": "\"Whose niggas?\""
+    },
+    {
+      "quote": 45,
+      "line": 1529,
+      "speaker": null,
+      "opening": "\"Were T's.\""
+    },
+    {
+      "quote": 46,
+      "line": 1531,
+      "speaker": null,
+      "opening": "\"And now?\""
+    },
+    {
+      "quote": 47,
+      "line": 1535,
+      "speaker": null,
+      "opening": "\"That's what they wanna know.\""
+    },
+    {
+      "quote": 48,
+      "line": 1539,
+      "speaker": null,
+      "opening": "\"I'm not leaving.\""
+    },
+    {
+      "quote": 49,
+      "line": 1541,
+      "speaker": null,
+      "opening": "\"Didn't ask you to,\""
+    },
+    {
+      "quote": 50,
+      "line": 1543,
+      "speaker": null,
+      "opening": "\"You looked.\""
+    },
+    {
+      "quote": 51,
+      "line": 1545,
+      "speaker": null,
+      "opening": "\"I got eyes.\""
+    },
+    {
+      "quote": 52,
+      "line": 1549,
+      "speaker": null,
+      "opening": "\"Where's T?\""
+    },
+    {
+      "quote": 53,
+      "line": 1551,
+      "speaker": null,
+      "opening": "\"Funeral people got him.\""
+    },
+    {
+      "quote": 54,
+      "line": 1553,
+      "speaker": null,
+      "opening": "\"His other niggas?\""
+    },
+    {
+      "quote": 55,
+      "line": 1555,
+      "speaker": null,
+      "opening": "\"One alive. One ain't.\""
+    },
+    {
+      "quote": 56,
+      "line": 1559,
+      "speaker": null,
+      "opening": "\"The money?\""
+    },
+    {
+      "quote": 57,
+      "line": 1563,
+      "speaker": null,
+      "opening": "\"Pool was empty when I got back.\""
+    },
+    {
+      "quote": 58,
+      "line": 1565,
+      "speaker": null,
+      "opening": "\"Three million doesn't walk,\""
+    },
+    {
+      "quote": 59,
+      "line": 1567,
+      "speaker": null,
+      "opening": "\"Plenty people got legs.\""
+    },
+    {
+      "quote": 60,
+      "line": 1571,
+      "speaker": null,
+      "opening": "\"Look at me when you say it.\""
+    },
+    {
+      "quote": 61,
+      "line": 1575,
+      "speaker": null,
+      "opening": "\"I looked, Shawna. Niggas move fast when nobody"
+    },
+    {
+      "quote": 62,
+      "line": 1579,
+      "speaker": null,
+      "opening": "\"Leave it,\""
+    },
+    {
+      "quote": 63,
+      "line": 1579,
+      "speaker": null,
+      "opening": "\"Nigga, she threw it away to save me."
+    },
+    {
+      "quote": 64,
+      "line": 1581,
+      "speaker": null,
+      "opening": "\"You always this rich?\""
+    },
+    {
+      "quote": 65,
+      "line": 1583,
+      "speaker": null,
+      "opening": "\"I woke up.\""
+    },
+    {
+      "quote": 66,
+      "line": 1587,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 67,
+      "line": 1587,
+      "speaker": null,
+      "opening": "\"You did.\""
+    },
+    {
+      "quote": 68,
+      "line": 1591,
+      "speaker": null,
+      "opening": "\"T put you there,\""
+    },
+    {
+      "quote": 69,
+      "line": 1591,
+      "speaker": null,
+      "opening": "\"People heard him. But putting you there and"
+    },
+    {
+      "quote": 70,
+      "line": 1593,
+      "speaker": null,
+      "opening": "\"Nigga, you keeping me there?\""
+    },
+    {
+      "quote": 71,
+      "line": 1597,
+      "speaker": null,
+      "opening": "\"I drove your car.\""
+    },
+    {
+      "quote": 72,
+      "line": 1599,
+      "speaker": null,
+      "opening": "\"That ain't what I asked.\""
+    },
+    {
+      "quote": 73,
+      "line": 1603,
+      "speaker": null,
+      "opening": "\"I ain't putting another man in the desert,\""
+    },
+    {
+      "quote": 74,
+      "line": 1611,
+      "speaker": null,
+      "opening": "\"Absolutely not,\""
+    },
+    {
+      "quote": 75,
+      "line": 1615,
+      "speaker": null,
+      "opening": "\"Two visitors. The rest of you leave.\""
+    },
+    {
+      "quote": 76,
+      "line": 1619,
+      "speaker": null,
+      "opening": "\"Niggas, she said move. You want the woman"
+    },
+    {
+      "quote": 77,
+      "line": 1625,
+      "speaker": null,
+      "opening": "\"Money coming in Friday,\""
+    },
+    {
+      "quote": 78,
+      "line": 1625,
+      "speaker": null,
+      "opening": "\"People need paying today.\""
+    },
+    {
+      "quote": 79,
+      "line": 1627,
+      "speaker": null,
+      "opening": "\"What's in the bag?\""
+    },
+    {
+      "quote": 80,
+      "line": 1629,
+      "speaker": null,
+      "opening": "\"Yesterday.\""
+    },
+    {
+      "quote": 81,
+      "line": 1633,
+      "speaker": null,
+      "opening": "\"Niggas worked, niggas getting paid,\""
+    },
+    {
+      "quote": 82,
+      "line": 1635,
+      "speaker": null,
+      "opening": "\"From this?\""
+    },
+    {
+      "quote": 83,
+      "line": 1637,
+      "speaker": null,
+      "opening": "\"Unless you got some fucking magic beans.\""
+    },
+    {
+      "quote": 84,
+      "line": 1641,
+      "speaker": null,
+      "opening": "\"Red wants a meeting.\""
+    },
+    {
+      "quote": 85,
+      "line": 1643,
+      "speaker": null,
+      "opening": "\"Nigga, Red can call.\""
+    },
+    {
+      "quote": 86,
+      "line": 1645,
+      "speaker": null,
+      "opening": "\"He wants it face to face.\""
+    },
+    {
+      "quote": 87,
+      "line": 1647,
+      "speaker": null,
+      "opening": "\"Nigga, look at mine. I'm busy.\""
+    },
+    {
+      "quote": 88,
+      "line": 1653,
+      "speaker": null,
+      "opening": "\"Nobody touches Shawna,\""
+    },
+    {
+      "quote": 89,
+      "line": 1653,
+      "speaker": null,
+      "opening": "\"Nobody says her name to Red. Anybody got"
+    },
+    {
+      "quote": 90,
+      "line": 1659,
+      "speaker": null,
+      "opening": "\"You heard him.\""
+    },
+    {
+      "quote": 91,
+      "line": 1667,
+      "speaker": null,
+      "opening": "\"You want me counting it?\""
+    },
+    {
+      "quote": 92,
+      "line": 1669,
+      "speaker": null,
+      "opening": "\"Nigga, I want you watching that door like"
+    },
+    {
+      "quote": 93,
+      "line": 1671,
+      "speaker": null,
+      "opening": "\"For who?\""
+    },
+    {
+      "quote": 94,
+      "line": 1673,
+      "speaker": null,
+      "opening": "\"Every fucking nigga.\""
+    },
+    {
+      "quote": 95,
+      "line": 1683,
+      "speaker": null,
+      "opening": "\"Where the fuck is she?\""
+    },
+    {
+      "quote": 96,
+      "line": 1685,
+      "speaker": null,
+      "opening": "\"Rosa,\""
+    },
+    {
+      "quote": 97,
+      "line": 1691,
+      "speaker": null,
+      "opening": "\"You don't answer your fucking phone?\""
+    },
+    {
+      "quote": 98,
+      "line": 1693,
+      "speaker": null,
+      "opening": "\"I broke it.\""
+    },
+    {
+      "quote": 99,
+      "line": 1695,
+      "speaker": null,
+      "opening": "\"You borrow a phone, bitch. You send a"
+    },
+    {
+      "quote": 100,
+      "line": 1697,
+      "speaker": null,
+      "opening": "\"I'm here.\""
+    },
+    {
+      "quote": 101,
+      "line": 1699,
+      "speaker": null,
+      "opening": "\"I see you. I'm mad anyway.\""
+    },
+    {
+      "quote": 102,
+      "line": 1703,
+      "speaker": null,
+      "opening": "\"This him?\""
+    },
+    {
+      "quote": 103,
+      "line": 1705,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 104,
+      "line": 1707,
+      "speaker": null,
+      "opening": "\"You shoot that nigga T?\""
+    },
+    {
+      "quote": 105,
+      "line": 1709,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 106,
+      "line": 1711,
+      "speaker": null,
+      "opening": "\"Good.\""
+    },
+    {
+      "quote": 107,
+      "line": 1715,
+      "speaker": null,
+      "opening": "\"Stay alive. She doesn't have another black dress"
+    },
+    {
+      "quote": 108,
+      "line": 1723,
+      "speaker": null,
+      "opening": "\"Later,\""
+    },
+    {
+      "quote": 109,
+      "line": 1725,
+      "speaker": null,
+      "opening": "\"Whenever,\""
+    },
+    {
+      "quote": 110,
+      "line": 1743,
+      "speaker": null,
+      "opening": "\"Mr. Aiden, there is an item here for"
+    },
+    {
+      "quote": 111,
+      "line": 1745,
+      "speaker": null,
+      "opening": "\"Flowers?\""
+    },
+    {
+      "quote": 112,
+      "line": 1747,
+      "speaker": null,
+      "opening": "\"It is larger than flowers.\""
+    },
+    {
+      "quote": 113,
+      "line": 1749,
+      "speaker": null,
+      "opening": "\"Piano?\""
+    },
+    {
+      "quote": 114,
+      "line": 1751,
+      "speaker": null,
+      "opening": "\"It is a coffin.\""
+    },
+    {
+      "quote": 115,
+      "line": 1755,
+      "speaker": null,
+      "opening": "\"Don't open it,\""
+    },
+    {
+      "quote": 116,
+      "line": 1757,
+      "speaker": null,
+      "opening": "\"I wasn't planning to try it on.\""
+    },
+    {
+      "quote": 117,
+      "line": 1761,
+      "speaker": null,
+      "opening": "\"Nigga, no,\""
+    },
+    {
+      "quote": 118,
+      "line": 1763,
+      "speaker": null,
+      "opening": "\"Get my shoes.\""
+    },
+    {
+      "quote": 119,
+      "line": 1765,
+      "speaker": null,
+      "opening": "\"You got hospital socks.\""
+    },
+    {
+      "quote": 120,
+      "line": 1767,
+      "speaker": null,
+      "opening": "\"Then get shoes worthy of the fucking socks.\""
+    },
+    {
+      "quote": 121,
+      "line": 1771,
+      "speaker": null,
+      "opening": "\"That's the coffin they're sending you?\""
+    },
+    {
+      "quote": 122,
+      "line": 1771,
+      "speaker": null,
+      "opening": "\"Baby, even your enemies know you're expensive.\""
+    },
+    {
+      "quote": 123,
+      "line": 1775,
+      "speaker": null,
+      "opening": "\"There are four more by the cars. Those"
+    },
+    {
+      "quote": 124,
+      "line": 1785,
+      "speaker": null,
+      "opening": "\"Shawna, with Rosa. Bathroom. Lock it.\""
+    },
+    {
+      "quote": 125,
+      "line": 1787,
+      "speaker": null,
+      "opening": "\"I'm not—\""
+    },
+    {
+      "quote": 126,
+      "line": 1789,
+      "speaker": null,
+      "opening": "\"Nigga, be alive when I come back so"
+    },
+    {
+      "quote": 127,
+      "line": 1793,
+      "speaker": null,
+      "opening": "\"Wheelchair,\""
+    },
+    {
+      "quote": 128,
+      "line": 1797,
+      "speaker": null,
+      "opening": "\"The man can't walk fast. He can roll.\""
+    },
+    {
+      "quote": 129,
+      "line": 1803,
+      "speaker": null,
+      "opening": "\"Go with them,\""
+    },
+    {
+      "quote": 130,
+      "line": 1805,
+      "speaker": null,
+      "opening": "\"Who pushes you?\""
+    },
+    {
+      "quote": 131,
+      "line": 1807,
+      "speaker": null,
+      "opening": "\"Nigga, I got hands.\""
+    },
+    {
+      "quote": 132,
+      "line": 1815,
+      "speaker": null,
+      "opening": "\"That's the king?\""
+    },
+    {
+      "quote": 133,
+      "line": 1817,
+      "speaker": null,
+      "opening": "\"That's the nigga,\""
+    },
+    {
+      "quote": 134,
+      "line": 1825,
+      "speaker": null,
+      "opening": "\"Don't look down,\""
+    },
+    {
+      "quote": 135,
+      "line": 1827,
+      "speaker": null,
+      "opening": "\"Wasn't planning to, son.\""
+    },
+    {
+      "quote": 136,
+      "line": 1829,
+      "speaker": null,
+      "opening": "\"Good. Your nigga's got this.\""
+    },
+    {
+      "quote": 137,
+      "line": 1835,
+      "speaker": null,
+      "opening": "\"Tank!\""
+    },
+    {
+      "quote": 138,
+      "line": 1837,
+      "speaker": null,
+      "opening": "\"I see them!\""
+    },
+    {
+      "quote": 139,
+      "line": 1839,
+      "speaker": null,
+      "opening": "\"Then quit sightseeing and push!\""
+    },
+    {
+      "quote": 140,
+      "line": 1853,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 141,
+      "line": 1853,
+      "speaker": null,
+      "opening": "\"who sent it?\""
+    },
+    {
+      "quote": 142,
+      "line": 1857,
+      "speaker": null,
+      "opening": "\"Who you think?\""
+    },
+    {
+      "quote": 143,
+      "line": 1859,
+      "speaker": null,
+      "opening": "\"I think your taste is fucking awful.\""
+    },
+    {
+      "quote": 144,
+      "line": 1871,
+      "speaker": null,
+      "opening": "\"Don't you dare.\""
+    },
+    {
+      "quote": 145,
+      "line": 1873,
+      "speaker": null,
+      "opening": "\"Catch up.\""
+    },
+    {
+      "quote": 146,
+      "line": 1887,
+      "speaker": null,
+      "opening": "\"You finished?\""
+    },
+    {
+      "quote": 147,
+      "line": 1891,
+      "speaker": null,
+      "opening": "\"Nigga, use your words.\""
+    },
+    {
+      "quote": 148,
+      "line": 1893,
+      "speaker": null,
+      "opening": "\"Finished.\""
+    },
+    {
+      "quote": 149,
+      "line": 1895,
+      "speaker": null,
+      "opening": "\"Then stay fucking finished.\""
+    },
+    {
+      "quote": 150,
+      "line": 1899,
+      "speaker": null,
+      "opening": "\"That's my boy!\""
+    },
+    {
+      "quote": 151,
+      "line": 1905,
+      "speaker": null,
+      "opening": "\"Hands where I can fucking see them!\""
+    },
+    {
+      "quote": 152,
+      "line": 1911,
+      "speaker": null,
+      "opening": "\"You jumped from there?\""
+    },
+    {
+      "quote": 153,
+      "line": 1913,
+      "speaker": null,
+      "opening": "\"Nigga was in my way.\""
+    },
+    {
+      "quote": 154,
+      "line": 1917,
+      "speaker": null,
+      "opening": "\"And that solved it?\""
+    },
+    {
+      "quote": 155,
+      "line": 1923,
+      "speaker": null,
+      "opening": "\"Apparently.\""
+    },
+    {
+      "quote": 156,
+      "line": 1927,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 157,
+      "line": 1929,
+      "speaker": null,
+      "opening": "\"Everybody's alive.\""
+    },
+    {
+      "quote": 158,
+      "line": 1931,
+      "speaker": null,
+      "opening": "\"You were in bed.\""
+    },
+    {
+      "quote": 159,
+      "line": 1933,
+      "speaker": null,
+      "opening": "\"Didn't have wheels.\""
+    },
+    {
+      "quote": 160,
+      "line": 1935,
+      "speaker": null,
+      "opening": "\"I tried a chair.\""
+    },
+    {
+      "quote": 161,
+      "line": 1939,
+      "speaker": null,
+      "opening": "\"You saved my nurse.\""
+    },
+    {
+      "quote": 162,
+      "line": 1941,
+      "speaker": null,
+      "opening": "\"She saved my ass first.\""
+    },
+    {
+      "quote": 163,
+      "line": 1945,
+      "speaker": null,
+      "opening": "\"When you're tired of people sending coffins,\""
+    },
+    {
+      "quote": 164,
+      "line": 1945,
+      "speaker": null,
+      "opening": "\"come see me. I'd rather give you a"
+    },
+    {
+      "quote": 165,
+      "line": 1949,
+      "speaker": null,
+      "opening": "\"This nigga?\""
+    },
+    {
+      "quote": 166,
+      "line": 1951,
+      "speaker": null,
+      "opening": "\"Especially this nigga.\""
+    },
+    {
+      "quote": 167,
+      "line": 1967,
+      "speaker": null,
+      "opening": "\"No heroics,\""
+    },
+    {
+      "quote": 168,
+      "line": 1971,
+      "speaker": null,
+      "opening": "\"He won't,\""
+    },
+    {
+      "quote": 169,
+      "line": 1975,
+      "speaker": null,
+      "opening": "\"You either.\""
+    },
+    {
+      "quote": 170,
+      "line": 1983,
+      "speaker": null,
+      "opening": "\"Welcome back.\""
+    },
+    {
+      "quote": 171,
+      "line": 1991,
+      "speaker": null,
+      "opening": "\"Where we going?\""
+    },
+    {
+      "quote": 172,
+      "line": 1995,
+      "speaker": null,
+      "opening": "\"Home, baby. We just gotta get one.\""
+    }
+  ]
+}

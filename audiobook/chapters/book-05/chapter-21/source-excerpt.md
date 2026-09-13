@@ -1,0 +1,451 @@
+At dawn, the city sent me breakfast and an army.
+
+Nigga, in that order.
+
+I appreciated people who understood priorities.
+
+The breakfast came from the café I'd damaged. The army came from the houses I'd saved, embarrassed, beaten, freed, or accidentally improved while trying to get somewhere else. They filled the harbor road beneath the opera house in cars, trucks, police vehicles, and one horse who looked offended nobody had asked him to lead.
+
+Magnus stood beside Sovereign with the reins.
+
+"He wants you."
+
+"Nigga, everybody does. He gonna have to share."
+
+Shawna brought me coffee and checked the dressing on my arm. I'd slept six hours. Not enough to become a new man, enough to stop feeling like the old one had been carried down stairs in pieces.
+
+"You don't need to prove you can bleed again," she said.
+
+"I was planning something different."
+
+"Good. Plan it with both shoulders intact."
+
+She wore black trousers, a blue shirt, and the same expression she'd worn driving the Aston beneath me while I clung to another man's hood. I had stopped asking whether she intended to come. A nigga can learn from marriage if he pays attention between the explosions.
+
+Tank checked the cars. Rosa checked the people inside them. Mercedes and Porsche distributed water and spare jackets with the ruthless authority of women who knew most men would forget both and then describe their discomfort like it was heroic.
+
+Marcellus brought the Crown case.
+
+"It stays with me," he said.
+
+"Nigga, you think I'm putting it on under a low ceiling? I just got it."
+
+Vesper came last, with Bastien beside her.
+
+No queen's cloak.
+
+No black diamonds.
+
+A dark coat and Nico's old ring on a chain where she had hidden it for years.
+
+"Ready?" I asked.
+
+She looked up at the Black House on the hill.
+
+"No."
+
+Then she opened the car door.
+
+"Let's go."
+
+Nigga, I respected an honest answer with motion behind it.
+
+A young house guard approached with a polished helmet bearing my initials.
+
+"For the king."
+
+He'd cleaned it until I could see myself approaching myself. A nigga could appreciate effort.
+
+I put it on.
+
+Darkness.
+
+"Baby?"
+
+Shawna lifted the front edge.
+
+"There you are."
+
+Tank made a noise like his engine wouldn't start. Rosa leaned against the car and gave up trying to help him.
+
+"Nigga," Tank managed, "they put a palace on your head."
+
+"It's protection."
+
+"From seeing where the fuck you going?"
+
+I turned toward him. The helmet kept turning after my head stopped.
+
+"Nigga, it has room for the crown," I said.
+
+Marcellus tightened his hand on the Crown case.
+
+"Absolutely not."
+
+The speed of that answer broke Rosa completely.
+
+"You hear that nigga? He'll let you crack your skull, but the jewelry is booked elsewhere."
+
+"The jewelry," Marcellus said, "has survived several centuries by avoiding his decisions."
+
+"It only met me this week!"
+
+"A difficult week."
+
+Shawna took the helmet off me. She did it gently because the guard was watching and the nigga had brought a gift, not signed up to become breakfast entertainment.
+
+"Thank you," she told him. "We need him able to turn his head today."
+
+"Could have it fitted," the guard said.
+
+"Do that," I told him. "Properly. Nigga, if I'm wearing my initials, I should be able to locate them."
+
+He grinned and took it back.
+
+"And keep it for the statue."
+
+Tank spread both hands.
+
+"There. You found the problem. This nigga saw a helmet and ordered a larger nigga to put under it."
+
+"Three statues are already commissioned," Rusk said from the steps.
+
+Everybody turned.
+
+"Three?" Shawna asked.
+
+"Harbor. Arena. Opera-house courtyard."
+
+She thought for a moment.
+
+"Send me the sketches. They keep making his shoulders too small."
+
+Nigga, the whole morning got warm.
+
+"See? That's artistic direction."
+
+"That's your wife enabling the nigga," Tank said.
+
+"Can both be true," Rosa told him. "Come here. Your collar's crooked."
+
+He went straight to her. No argument. Big-ass nigga bent his head so she could fix it, and I caught his eye over her shoulder.
+
+"Artistic direction?"
+
+"Get in the fucking car."
+
+I kissed Shawna, waved the young guard off with his enormous helmet, and got in. We had laughed. Now I checked the dressing on my arm and found Vesper's car in the mirror.
+
+Ready enough.
+
+We climbed through streets still marked by the night's fighting. Broken windows. Burned tires. Flowers somebody had placed beside an empty police car. People stood in doorways watching us pass, and the cheering this morning was different.
+
+Less party.
+
+More promise.
+
+I felt it through the windshield.
+
+The Black House rose above a terraced garden with old royal statues along its walls. It had belonged to Adrien Valcour before Zero made every beautiful thing in the city learn a new owner's name.
+
+The gates were closed.
+
+The guards behind them were armed.
+
+Vesper got out of the car.
+
+I got out with her.
+
+She looked at the men on the wall and called three of them by name.
+
+Not rank.
+
+Name.
+
+A gardener's son who had become a guard. A driver who used to bring her to the observatory. A man whose wife had sung at the opera house two nights earlier because Shawna had given her a place on the program.
+
+"My people are safe," she told them. "Your people can be too. Open the gate."
+
+A guard looked back toward the house.
+
+Another lowered his rifle.
+
+Then the inner doors opened and Zero's remaining Black Mantle soldiers came out firing.
+
+The wall guards dropped out of sight.
+
+I pulled Vesper behind the car as bullets struck the stone where she'd stood.
+
+"Nigga never could handle a conversation," I said.
+
+Ardent's police answered from the road. Magnus's men moved toward the side entrance. Gault and Tank went through the low garden wall where the night had already damaged it, two enormous niggas making a new door out of an old disagreement.
+
+Shawna came beside me.
+
+"Gate's opening."
+
+The local guards had made their choice.
+
+One leaf of the iron gate swung inward.
+
+I got into the police Lamborghini.
+
+The roof still bore the race's long scar. The car looked like it had survived a bad opinion and kept driving.
+
+I loved that nigga more every day.
+
+Shawna took the passenger seat.
+
+We went through the gate beneath the gunfire and crossed the courtyard toward the main steps. A Black Mantle truck tried to block us. I turned, clipped its empty rear corner, and sent it sideways into the fountain.
+
+Water rose over the hood.
+
+The driver climbed out with both hands up. Smart nigga. Drenched nigga. A nigga who had just discovered a fountain and immediately reconsidered whether employment required him to die inside it.
+
+"Nigga, good morning," I told him through the window.
+
+Then we were past.
+
+The Lamborghini climbed the first broad steps and stopped beneath the portico. I got out into smoke, stone dust, and the sound of a whole palace discovering the world had finally arrived at its front door.
+
+Bastien came through the gate behind us with Vesper. He knew the house. Knew where people might still be trapped, which hall led to the treasury, which staircase would put Zero near an escape route.
+
+He didn't give a lecture.
+
+He pointed.
+
+We moved.
+
+Inside, the floors shone beneath chandeliers nobody had thought to turn off. Breakfast sat untouched on a long table. Silver cups. Fresh fruit. One folded napkin beside Zero's chair.
+
+Nigga, the man had planned to eat while the city counted its broken windows.
+
+Tank came through the side door carrying a guard's rifle and looking annoyed.
+
+"These niggas got another staircase."
+
+"Rich house," I said.
+
+"I dislike options under fire."
+
+Rosa appeared behind him with two frightened kitchen workers.
+
+"They go out through the courtyard. No one shoots the people carrying aprons, understood?"
+
+"Yes, baby," Tank said immediately.
+
+The workers followed her like she'd been in charge of the palace all along and everybody had simply been too stupid to notice.
+
+We reached the treasury corridor.
+
+Zero stood at its far end with a small black case in one hand.
+
+For the first time since I'd met him, the nigga looked like he had dressed in a hurry. His collar sat wrong. His coat was open. Nigga had one cufflink. I noticed because a man should remember exactly what greatness does to the nigga trying to stop it.
+
+Nigga, it suited him badly.
+
+"Aiden."
+
+"You keep saying my name like a bill arrived."
+
+He looked past me at Shawna, Tank, Vesper, the people he'd tried to separate until they'd become a whole road he couldn't close.
+
+"You could have had everything I offered."
+
+"Nigga, I took more by disagreeing."
+
+His mouth tightened.
+
+"You think love makes men loyal. It makes them vulnerable."
+
+Shawna stepped beside me.
+
+"And yet here you are alone in a hallway."
+
+That one landed.
+
+I saw it.
+
+Zero's eyes moved to her, then back to me.
+
+"Your wife has a sharp tongue."
+
+"Nigga, that's one of the nicer things she brought."
+
+He drew a gun.
+
+I drove forward before the barrel settled.
+
+The shot struck the wall. My shoulder hit his chest. We crashed through the side doors into a little audience chamber filled with chairs that had probably heard years of men begging politely.
+
+I put Zero across the first three.
+
+He rolled, fast for a man who had spent so long letting other people demonstrate violence. He came up with the gun again. I knocked his arm aside and hit him hard enough to send the black case across the floor.
+
+It opened.
+
+Diamonds scattered beneath the chairs.
+
+Nigga, the emperor had packed light by his own terrible standards.
+
+He kicked my injured arm.
+
+Pain flashed white through me.
+
+I stepped back just enough for him to get between two pillars. He caught a fallen chair and threw it, not at me, at Shawna entering the doorway.
+
+She moved clear.
+
+I caught the chair and sent it back harder.
+
+It struck the pillar beside him and broke.
+
+"Nigga," I said, "you running out of furniture."
+
+He looked at me then with something I hadn't seen before.
+
+Recognition.
+
+Not respect he'd agreed to display.
+
+The private realization that the man in front of him might actually be better than every expensive answer he'd prepared.
+
+"You are extraordinary," he said.
+
+"Nigga, your timing terrible."
+
+He slammed his hand against a wall panel.
+
+A side door opened.
+
+He ran.
+
+I went after him, through a narrow stair and onto the upper terrace. Wind hit my face. The city spread below us, bright and wounded and alive.
+
+A helicopter waited on the rear landing court.
+
+Its blades were already turning.
+
+Zero's last guards stood between it and the steps.
+
+They fired.
+
+I dropped behind a stone planter. Shawna reached the terrace behind me with Vesper. Tank and Gault came from the other stair, forcing the guards to divide their attention.
+
+Zero crossed the landing court.
+
+I could see the distance.
+
+Could feel the little blue thunder left after sleep, enough to move me faster for a breath or two, not enough to make bullets stop caring where my body was.
+
+Below us, a section of the damaged terrace gave way beneath two palace workers trying to reach the stairs.
+
+One fell to a lower ledge.
+
+The other caught the railing and hung there, screaming.
+
+Shawna saw him.
+
+So did I.
+
+Nigga, that worker had been minding his own business before the palace started falling around him. Now the nigga was hanging from a broken piece of stone while Zero escaped in something expensive. I could chase a helicopter or reach a hand. My wife was already reaching. I went where she was.
+
+I went to the railing.
+
+Shawna anchored herself against the pillar and caught my belt as I leaned out. Tank reached us and braced both of us. I caught the worker's wrist.
+
+He was heavier than fear had made him look.
+
+I used the last short pulse of thunder in my arms.
+
+Enough to pull.
+
+Enough to get him over.
+
+Then it was gone, and Tank had to haul me back with him before my knees stopped belonging to me.
+
+The helicopter lifted.
+
+Zero looked down from the open door.
+
+I looked up, breathing hard, one rescued man crying against my leg.
+
+That nigga's face carried no victory. He had the helicopter. I had the people below it. Nigga, he could count aircraft all he wanted. The city could see which man was holding somebody who still got to go home.
+
+He knew what the city would remember about this moment.
+
+The aircraft turned toward the desert.
+
+Away from Midnight City.
+
+Toward the Last City, where men like him went when every other place had finally learned their name.
+
+Vesper watched until it disappeared.
+
+"He'll rebuild."
+
+"Nigga, then we go where he building."
+
+Inside the treasury, an elderly custodian named Madame Caron met Marcellus with the Crown case. She had served the old house long enough to recognize the repaired setting before he finished opening the lid.
+
+She touched one point gently.
+
+"I thought I would die before seeing it carried honestly again."
+
+"It's being carried by criminals," I told her.
+
+She looked at my badge, my torn shirt, my exhausted face.
+
+"I said honestly. I did not say innocently."
+
+Nigga, I liked her immediately.
+
+She opened the treasury with keys she'd kept through three kings and one emperor who had never bothered learning her first name.
+
+Gold filled the old shelves.
+
+Cases of stones.
+
+Books of claims and deeds.
+
+Fortunes taken from houses Zero had persuaded to call their losses necessary.
+
+Marcellus found the records the Crown's marks identified. Vesper found names of families still living in the city. Bastien found Nico's little wooden horse in a drawer beside a ceremonial sword.
+
+He held it for a long time.
+
+Then he gave it to Vesper.
+
+She smiled through tears.
+
+"He hated the sword."
+
+"I remember," Bastien said.
+
+I sat on the treasury steps because my legs had finally earned a vote.
+
+Shawna sat beside me.
+
+She took my hand.
+
+Below, in the courtyard, the city's people began cheering as the news spread.
+
+The Black House had fallen.
+
+The treasury was open.
+
+The emperor had fled.
+
+"You didn't get him," she said softly.
+
+"Not yet."
+
+"You got everyone else home."
+
+I looked at her.
+
+At the smoke on her sleeve.
+
+At the woman who kept making every victory have a face I wanted to see when the noise ended.
+
+"Nigga," I said, "that's a pretty good morning."

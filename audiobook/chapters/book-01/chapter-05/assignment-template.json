@@ -1,0 +1,595 @@
+{
+  "chapter_id": "b01-c05",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 98,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 2679,
+      "speaker": null,
+      "opening": "\"Nigga, you ain't gotta go,\""
+    },
+    {
+      "quote": 2,
+      "line": 2681,
+      "speaker": null,
+      "opening": "\"Nigga, I killed him.\""
+    },
+    {
+      "quote": 3,
+      "line": 2683,
+      "speaker": null,
+      "opening": "\"That's why you ain't gotta go.\""
+    },
+    {
+      "quote": 4,
+      "line": 2687,
+      "speaker": null,
+      "opening": "\"He had nobody else?\""
+    },
+    {
+      "quote": 5,
+      "line": 2689,
+      "speaker": null,
+      "opening": "\"Plenty people.\""
+    },
+    {
+      "quote": 6,
+      "line": 2691,
+      "speaker": null,
+      "opening": "\"People that loved him.\""
+    },
+    {
+      "quote": 7,
+      "line": 2697,
+      "speaker": null,
+      "opening": "\"You did.\""
+    },
+    {
+      "quote": 8,
+      "line": 2701,
+      "speaker": null,
+      "opening": "\"Nigga, you can say it.\""
+    },
+    {
+      "quote": 9,
+      "line": 2703,
+      "speaker": null,
+      "opening": "\"He gave me work when I came out.\""
+    },
+    {
+      "quote": 10,
+      "line": 2705,
+      "speaker": null,
+      "opening": "\"Nigga gave me a car.\""
+    },
+    {
+      "quote": 11,
+      "line": 2707,
+      "speaker": null,
+      "opening": "\"Ain't the same.\""
+    },
+    {
+      "quote": 12,
+      "line": 2709,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 13,
+      "line": 2717,
+      "speaker": null,
+      "opening": "\"Nigga, oh, hell no.\""
+    },
+    {
+      "quote": 14,
+      "line": 2723,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 15,
+      "line": 2725,
+      "speaker": null,
+      "opening": "\"Nigga's funeral, Shawna.\""
+    },
+    {
+      "quote": 16,
+      "line": 2727,
+      "speaker": null,
+      "opening": "\"I know whose funeral it is.\""
+    },
+    {
+      "quote": 17,
+      "line": 2729,
+      "speaker": null,
+      "opening": "\"Nigga, you can't wear that.\""
+    },
+    {
+      "quote": 18,
+      "line": 2737,
+      "speaker": null,
+      "opening": "\"Nigga, get the car before she decides on"
+    },
+    {
+      "quote": 19,
+      "line": 2755,
+      "speaker": null,
+      "opening": "\"Which nigga said it? Say it loud so"
+    },
+    {
+      "quote": 20,
+      "line": 2779,
+      "speaker": null,
+      "opening": "\"T knew my mother,\""
+    },
+    {
+      "quote": 21,
+      "line": 2783,
+      "speaker": null,
+      "opening": "\"Knew she worried about me. Every time I"
+    },
+    {
+      "quote": 22,
+      "line": 2789,
+      "speaker": null,
+      "opening": "\"She died while I was inside. T paid"
+    },
+    {
+      "quote": 23,
+      "line": 2793,
+      "speaker": null,
+      "opening": "\"I owed him for it anyway.\""
+    },
+    {
+      "quote": 24,
+      "line": 2797,
+      "speaker": null,
+      "opening": "\"He did some shit,\""
+    },
+    {
+      "quote": 25,
+      "line": 2801,
+      "speaker": null,
+      "opening": "\"Some shit I can't stand up here and"
+    },
+    {
+      "quote": 26,
+      "line": 2819,
+      "speaker": null,
+      "opening": "\"You don't have to,\""
+    },
+    {
+      "quote": 27,
+      "line": 2821,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 28,
+      "line": 2835,
+      "speaker": null,
+      "opening": "\"You can take your fucking picture with you,\""
+    },
+    {
+      "quote": 29,
+      "line": 2841,
+      "speaker": null,
+      "opening": "\"He loved you. You knew he did.\""
+    },
+    {
+      "quote": 30,
+      "line": 2853,
+      "speaker": null,
+      "opening": "\"Nigga, all you had to do was let"
+    },
+    {
+      "quote": 31,
+      "line": 2863,
+      "speaker": null,
+      "opening": "\"I ain't crying for that nigga,\""
+    },
+    {
+      "quote": 32,
+      "line": 2865,
+      "speaker": null,
+      "opening": "\"Nobody asked you to.\""
+    },
+    {
+      "quote": 33,
+      "line": 2867,
+      "speaker": null,
+      "opening": "\"I know. I just want the dead to"
+    },
+    {
+      "quote": 34,
+      "line": 2873,
+      "speaker": null,
+      "opening": "\"That's love,\""
+    },
+    {
+      "quote": 35,
+      "line": 2875,
+      "speaker": null,
+      "opening": "\"That's a nigga with insurance,\""
+    },
+    {
+      "quote": 36,
+      "line": 2881,
+      "speaker": null,
+      "opening": "\"Down.\""
+    },
+    {
+      "quote": 37,
+      "line": 2893,
+      "speaker": null,
+      "opening": "\"Everybody inside!\""
+    },
+    {
+      "quote": 38,
+      "line": 2897,
+      "speaker": null,
+      "opening": "\"Nigga, get her!\""
+    },
+    {
+      "quote": 39,
+      "line": 2899,
+      "speaker": null,
+      "opening": "\"You stay here!\""
+    },
+    {
+      "quote": 40,
+      "line": 2901,
+      "speaker": null,
+      "opening": "\"I heard you the first time!\""
+    },
+    {
+      "quote": 41,
+      "line": 2911,
+      "speaker": null,
+      "opening": "\"That nigga just hit my chair.\""
+    },
+    {
+      "quote": 42,
+      "line": 2915,
+      "speaker": null,
+      "opening": "\"You weren't using it.\""
+    },
+    {
+      "quote": 43,
+      "line": 2917,
+      "speaker": null,
+      "opening": "\"Still mine.\""
+    },
+    {
+      "quote": 44,
+      "line": 2925,
+      "speaker": null,
+      "opening": "\"They're taking him,\""
+    },
+    {
+      "quote": 45,
+      "line": 2927,
+      "speaker": null,
+      "opening": "\"Taking who?\""
+    },
+    {
+      "quote": 46,
+      "line": 2929,
+      "speaker": null,
+      "opening": "\"T!\""
+    },
+    {
+      "quote": 47,
+      "line": 2937,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 48,
+      "line": 2939,
+      "speaker": null,
+      "opening": "\"They don't get him.\""
+    },
+    {
+      "quote": 49,
+      "line": 2941,
+      "speaker": null,
+      "opening": "\"Baby, he's dead.\""
+    },
+    {
+      "quote": 50,
+      "line": 2943,
+      "speaker": null,
+      "opening": "\"Then he ain't driving himself home.\""
+    },
+    {
+      "quote": 51,
+      "line": 2947,
+      "speaker": null,
+      "opening": "\"Look at that nigga,\""
+    },
+    {
+      "quote": 52,
+      "line": 2959,
+      "speaker": null,
+      "opening": "\"You can shut up too,\""
+    },
+    {
+      "quote": 53,
+      "line": 2967,
+      "speaker": null,
+      "opening": "\"Nigga, they're scratching your box.\""
+    },
+    {
+      "quote": 54,
+      "line": 2985,
+      "speaker": null,
+      "opening": "\"Baby, don't—\""
+    },
+    {
+      "quote": 55,
+      "line": 2993,
+      "speaker": null,
+      "opening": "\"Nigga, your wife drives too.\""
+    },
+    {
+      "quote": 56,
+      "line": 3001,
+      "speaker": null,
+      "opening": "\"Who sent you?\""
+    },
+    {
+      "quote": 57,
+      "line": 3007,
+      "speaker": null,
+      "opening": "\"Nigga, this is the easy question.\""
+    },
+    {
+      "quote": 58,
+      "line": 3009,
+      "speaker": null,
+      "opening": "\"T had friends!\""
+    },
+    {
+      "quote": 59,
+      "line": 3013,
+      "speaker": null,
+      "opening": "\"Then where the fuck were you when they"
+    },
+    {
+      "quote": 60,
+      "line": 3017,
+      "speaker": null,
+      "opening": "\"You killed him.\""
+    },
+    {
+      "quote": 61,
+      "line": 3019,
+      "speaker": null,
+      "opening": "\"And I'm burying him. You coming between those"
+    },
+    {
+      "quote": 62,
+      "line": 3023,
+      "speaker": null,
+      "opening": "\"You don't stop,\""
+    },
+    {
+      "quote": 63,
+      "line": 3027,
+      "speaker": null,
+      "opening": "\"Nigga, you should've asked somebody before you came.\""
+    },
+    {
+      "quote": 64,
+      "line": 3031,
+      "speaker": null,
+      "opening": "\"Please tell me that's an empty hearse.\""
+    },
+    {
+      "quote": 65,
+      "line": 3033,
+      "speaker": null,
+      "opening": "\"Family in the back.\""
+    },
+    {
+      "quote": 66,
+      "line": 3037,
+      "speaker": null,
+      "opening": "\"You brought the deceased into a pursuit?\""
+    },
+    {
+      "quote": 67,
+      "line": 3039,
+      "speaker": null,
+      "opening": "\"Nigga wasn't walking.\""
+    },
+    {
+      "quote": 68,
+      "line": 3047,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 69,
+      "line": 3047,
+      "speaker": null,
+      "opening": "\"you are wasting your fucking talents in civilian"
+    },
+    {
+      "quote": 70,
+      "line": 3049,
+      "speaker": null,
+      "opening": "\"You keep saying that.\""
+    },
+    {
+      "quote": 71,
+      "line": 3051,
+      "speaker": null,
+      "opening": "\"I'm going to keep saying it until somebody"
+    },
+    {
+      "quote": 72,
+      "line": 3055,
+      "speaker": null,
+      "opening": "\"I asked you to stay with the car,\""
+    },
+    {
+      "quote": 73,
+      "line": 3057,
+      "speaker": null,
+      "opening": "\"I did. I moved the car.\""
+    },
+    {
+      "quote": 74,
+      "line": 3061,
+      "speaker": null,
+      "opening": "\"Tell Leon this one had a meaningful life"
+    },
+    {
+      "quote": 75,
+      "line": 3065,
+      "speaker": null,
+      "opening": "\"Nigga gonna start sending bicycles.\""
+    },
+    {
+      "quote": 76,
+      "line": 3073,
+      "speaker": null,
+      "opening": "\"You brought everybody home.\""
+    },
+    {
+      "quote": 77,
+      "line": 3083,
+      "speaker": null,
+      "opening": "\"Help me finish this,\""
+    },
+    {
+      "quote": 78,
+      "line": 3095,
+      "speaker": null,
+      "opening": "\"You were told to rest,\""
+    },
+    {
+      "quote": 79,
+      "line": 3097,
+      "speaker": null,
+      "opening": "\"I was sitting at a funeral.\""
+    },
+    {
+      "quote": 80,
+      "line": 3099,
+      "speaker": null,
+      "opening": "\"You are bleeding in a house full of"
+    },
+    {
+      "quote": 81,
+      "line": 3115,
+      "speaker": null,
+      "opening": "\"I want Red,\""
+    },
+    {
+      "quote": 82,
+      "line": 3117,
+      "speaker": null,
+      "opening": "\"You don't know it was him.\""
+    },
+    {
+      "quote": 83,
+      "line": 3119,
+      "speaker": null,
+      "opening": "\"Who the fuck else, Shawna?\""
+    },
+    {
+      "quote": 84,
+      "line": 3121,
+      "speaker": null,
+      "opening": "\"People loved T.\""
+    },
+    {
+      "quote": 85,
+      "line": 3123,
+      "speaker": null,
+      "opening": "\"Nigga, I paid for the funeral.\""
+    },
+    {
+      "quote": 86,
+      "line": 3125,
+      "speaker": null,
+      "opening": "\"You also killed him.\""
+    },
+    {
+      "quote": 87,
+      "line": 3129,
+      "speaker": null,
+      "opening": "\"You defending Red now?\""
+    },
+    {
+      "quote": 88,
+      "line": 3133,
+      "speaker": null,
+      "opening": "\"Say that again.\""
+    },
+    {
+      "quote": 89,
+      "line": 3139,
+      "speaker": null,
+      "opening": "\"You think I forgot what those men did?\""
+    },
+    {
+      "quote": 90,
+      "line": 3143,
+      "speaker": null,
+      "opening": "\"You think because I got a house and"
+    },
+    {
+      "quote": 91,
+      "line": 3145,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 92,
+      "line": 3147,
+      "speaker": null,
+      "opening": "\"Then don't talk to me like I'm sleeping"
+    },
+    {
+      "quote": 93,
+      "line": 3151,
+      "speaker": null,
+      "opening": "\"I'm scared,\""
+    },
+    {
+      "quote": 94,
+      "line": 3157,
+      "speaker": null,
+      "opening": "\"I'm scared they get you while I'm laying"
+    },
+    {
+      "quote": 95,
+      "line": 3161,
+      "speaker": null,
+      "opening": "\"Then stop trying to stand up every time"
+    },
+    {
+      "quote": 96,
+      "line": 3177,
+      "speaker": null,
+      "opening": "\"Nigga, why you serving me a threat?\""
+    },
+    {
+      "quote": 97,
+      "line": 3179,
+      "speaker": null,
+      "opening": "\"Didn't wanna touch it more than I had"
+    },
+    {
+      "quote": 98,
+      "line": 3193,
+      "speaker": null,
+      "opening": "\"What?\""
+    }
+  ]
+}

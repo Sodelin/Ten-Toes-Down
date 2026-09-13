@@ -1,0 +1,383 @@
+Porsche refused to drive a Porsche in the Midnight Relay.
+
+“Nigga, I'm not putting my name on somebody else's steering wheel,” she said.
+
+I looked at the red Ferrari she had chosen.
+
+“You understand that's another nigga's name too?”
+
+“Not mine. That's the distinction.”
+
+Mercedes leaned against the passenger door, wearing a white racing suit with blue stripes.
+
+“She been waiting all week to say distinction.”
+
+“And used it perfectly.”
+
+The Midnight Relay required three cars and three drivers on each team. One leg through the old city, one along the harbor, one up the royal road to the palace. The fourth key would go to the team with the fastest combined time.
+
+Naturally, the duke expected me to run the final leg alone while my people lost enough time to make my greatness mathematically inconvenient.
+
+Nigga didn't know my people.
+
+Porsche took the first leg with Mercedes. Tank took the second with Rosa because he said if a race required somebody shouting at him from the passenger seat, he wanted his favorite voice. I took the last in the police Lamborghini with Shawna.
+
+Lark ran the garage. Cassius and Inez entered together on another team, joined by Rafe Velluto, who had decided nearly dying beside Bellario was a poor foundation for continued loyalty to the duke. Bruno supervised our starting area by standing in it. Nobody argued with the placement.
+
+We practiced that afternoon on a closed road above the port.
+
+Porsche was fast immediately. She took the red Ferrari through the first bend with Mercedes calling the next one, both of them so busy being right that neither had time to be frightened.
+
+“Brake, nigga.”
+
+“I am braking.”
+
+“With your foot. Your opinion ain't connected to the wheels.”
+
+Porsche clipped the turn cleanly. Mercedes whooped, then covered her microphone because she apparently wanted her professionalism back.
+
+“Heard that,” I told her.
+
+“Nigga, hear the lap time.”
+
+I did. It was excellent.
+
+Tank had chosen a huge black performance coupe. He got in, adjusted the seat backward, discovered the seat was already backward, and accused the manufacturer of keeping some of the car for himself.
+
+Rosa strapped in beside him.
+
+“You ready?” he asked.
+
+“For this lap, yes. I make no promises about the second.”
+
+He took off. The first turn approached. Tank gave it a generous portion of the entire road, corrected too late, corrected again, and stopped beside the cones with one beneath the bumper and another standing upright on the hood.
+
+The hood cone stayed there.
+
+Nobody spoke.
+
+Then Rosa reached over and turned off his indicator.
+
+“You can cancel that, baby. Everybody knows you turned.”
+
+I walked to his window.
+
+“Nigga.”
+
+“Don't.”
+
+“The cone got a better seat than Rosa.”
+
+“Nigga, I said don't.”
+
+“You gonna carry that passenger in the actual race?”
+
+He got out. “Show me.”
+
+So I did. Rosa gave us the car and went to compare times with the women. Tank sat beside me. I drove one slow lap, let him feel the brakes and the weight through the bend, then did it again fast. He asked me to repeat one corner. I did. No audience in the car. No need for either nigga to perform knowing something he was still learning.
+
+Back at the cones, he held out his hand for the wheel.
+
+“Move your great ass.”
+
+“That's Instructor Great Ass.”
+
+“Nigga, move it respectfully.”
+
+By the fifth run he was good. By the eighth, Rosa rode beside him again and came back laughing, both hands comfortably in her lap.
+
+Tank leaned out. “You should teach.”
+
+“I already graduated.”
+
+“That ain't the same thing.”
+
+“Nigga, it was when I did it.”
+
+He grinned and went for another run. This time he rolled his window down before the first turn and shouted at the remaining cones.
+
+“Y'all niggas stay right there.”
+
+Porsche parked beside Tank after the last practice run.
+
+"Nigga, you found the road."
+
+"Road found me," he said.
+
+"That nigga still got a cone under the car," Mercedes said.
+
+Tank got out and looked.
+
+There was no cone.
+
+Both women started laughing.
+
+"Niggas," he said, pointing at them, "that's psychological interference."
+
+"This nigga learned a phrase," I said.
+
+"From your wife."
+
+Shawna raised one hand. "I said stop interfering with the cones. He expanded it."
+
+Rosa kissed Tank's cheek. "That's my educated nigga."
+
+He smiled so widely the women stopped teasing him for almost a minute.
+
+At dusk, the teams gathered beneath the palace hill. The city had strung lights along the course. Blue over the harbor, gold through the old streets, red above the final climb. It looked like somebody had dressed an entire country for my entrance.
+
+The duke stood on the ceremonial platform with Count Adrian, three local magnates and the stranger in the dark uniform. Bellario's empty chair had been removed. No announcement. Just a gap covered by a vase.
+
+Nigga loved hiding a man with flowers.
+
+Aurelio announced a special prize for the night's winning captain: a diamond-studded steering wheel and the right to choose his place in the island stages.
+
+He looked directly at me when he said choose.
+
+I smiled back.
+
+My third key was in Shawna's pocket. The note about the road beneath the opera house was folded beside it. We were learning what his prizes had been built to control.
+
+The first leg began at nine.
+
+Porsche left the line third.
+
+By the old customs house she was second.
+
+On the big screen above the starting area, we watched her red Ferrari move through the narrow streets, Mercedes's head turning beside her as she called the road. A silver car pressed ahead. A green coupe chased behind. The crowd followed each turn with a roar that rolled across the square.
+
+Tank stood with both hands on his head again.
+
+“Nigga, she driving.”
+
+“She said she would.”
+
+“Nigga, she driving like she mad at the future.”
+
+The silver car braked at the market bend. Porsche slipped inside it, took the lead and came out with her rear tires smoking just enough to make the crowd believe it had witnessed a threat become a woman.
+
+Mercedes's voice came through our radio.
+
+“We first, motherfuckers.”
+
+Porsche shouted something joyous and filthy behind her.
+
+I laughed so hard Shawna had to take the radio from my hand.
+
+At the changeover, Porsche stopped cleanly. Mercedes jumped out with the relay baton, ran to Tank and slapped it into his waiting palm.
+
+“Don't embarrass the ladies.”
+
+“Nigga, watch me.”
+
+Tank went.
+
+The black coupe roared onto the harbor road with Rosa beside him and a cone nowhere in sight. He held first through the opening bend. Lost a little on the long descent. Gained it back where the road widened, letting the car use the power he'd been carrying too carefully in practice.
+
+Rosa's voice came through the channel.
+
+“That's it. That's it, baby.”
+
+Tank laughed.
+
+“Nigga, I can do this.”
+
+I leaned toward the radio.
+
+“You doing it.”
+
+Then the lights went out.
+
+Not all of them. A whole section of the harbor course, two long bends beneath the warehouse roofs. The screen went dark there. We could still hear engines, the crowd's frightened intake of breath, Rosa saying Tank's name once.
+
+My chest tightened.
+
+“Nigga, talk.”
+
+Tank answered immediately.
+
+“I'm here.”
+
+“Keep coming.”
+
+“Something in the road.”
+
+The screen returned in a flash of headlights.
+
+A truck had backed out of a warehouse. Behind it, three motorcycles moved across the course, riders in dark helmets. This wasn't a hidden mistake. This was a public attempt to break the race under enough confusion to blame the night.
+
+Tank slowed.
+
+The green coupe behind him didn't.
+
+It struck his rear corner and pushed him toward the truck.
+
+Rosa cried out.
+
+I was already in my car.
+
+“Aiden,” Shawna said, climbing in beside me.
+
+“I know.”
+
+We hadn't received the baton. My leg hadn't started. I did not give one single magnificent fuck.
+
+I drove.
+
+The police Lamborghini left the staging area in a roar of blue lights. Officials jumped aside. Bruno lifted a barrier out of our path like he was opening a curtain. We hit the harbor road with the siren howling and the crowd splitting around us in a wave of raised hands.
+
+Ahead, Tank had stopped sideways between the truck and the water. One motorcycle lay on its side. Rosa was outside the car, helping its rider away from the hot engine. Even with somebody trying to hurt them, that woman had found a person to save.
+
+The other two riders turned toward us.
+
+“Nigga,” I said, “bad direction.”
+
+I took the car between them.
+
+One swerved into a stack of empty crates. The other dropped his bike and ran. Tank caught him by the back of his jacket before he reached the warehouse door.
+
+“Where you going?” Tank demanded.
+
+The man kicked at him.
+
+Tank lifted him higher.
+
+“Nigga, now you going up.”
+
+I stopped beside Rosa. Shawna jumped out and helped her move the injured rider behind the car. He was groaning, frightened, no longer anybody's dangerous idea. Odette's officers arrived moments later and took the attackers into custody.
+
+Tank came to my window.
+
+“Rosa good?”
+
+“She good.”
+
+“My car ain't.”
+
+I looked at the black coupe. Its rear wheel sat at an angle nature had not intended.
+
+Tank held up the relay baton.
+
+“I got this far.”
+
+I took it from him.
+
+“Nigga, that's far enough. Get your woman.”
+
+He nodded, went to Rosa and gathered her into his arms. She held his face between her hands and kissed him with such fierce relief that even the officers looked away.
+
+I put the baton beside Shawna's seat.
+
+The race channel erupted.
+
+“Captain Aiden has entered the second leg without authorization. The final changeover has not—”
+
+Odette's voice cut across it.
+
+“The changeover occurred at the disabled vehicle. I witnessed it.”
+
+A pause.
+
+“That isn't the designated—”
+
+“I am designating it.”
+
+Nigga, I loved a woman who could finish a sentence like a gunshot.
+
+We went.
+
+The leaders were far ahead. Cassius's team had taken first; Rafe had completed the opening leg, Inez the harbor section, and Cassius himself now drove the final climb with his doctor's reluctant approval and one very determined shoulder.
+
+I wanted him to win something.
+
+Just not this.
+
+We passed the first trailing car at the tunnel. Passed another on the hill. The Lamborghini climbed under us, blue lights washing the palace walls. Shawna watched the clock and the road, then put the clock down.
+
+“What?” I asked.
+
+“I'd rather watch you.”
+
+“Nigga, that costs extra.”
+
+“I paid in years of my life at the ballroom.”
+
+I laughed and took the next turn tighter.
+
+At the final straight, Cassius's silver car appeared ahead. He saw my lights in his mirror. His window came down.
+
+“You stopped again?” he shouted as I came alongside.
+
+“Nigga, y'all keep needing things!”
+
+He laughed, shook his head and put his foot down.
+
+For one long shining second we ran together beneath the palace lights, two men whose fathers and ghosts and impossible women had brought them to the same road.
+
+Then my Lamborghini edged ahead.
+
+We crossed first.
+
+The palace square exploded with noise.
+
+Porsche and Mercedes reached the finish before I got out. They had commandeered a service cart and driven it up the hill with Bruno standing on the back like a monument that had grown impatient.
+
+“We won?” Porsche shouted.
+
+I held up the baton.
+
+“Nigga, we won.”
+
+Mercedes jumped into my arms. Porsche kissed Shawna's cheek. Bruno lifted both women onto his shoulders while the crowd cheered, and Rocco, somewhere near the platform, announced that the Blue Hour team had free drinks for the rest of the month.
+
+Porsche shouted down at him.
+
+“Put it in writing!”
+
+Tank arrived with Rosa in Odette's car. I met him at the door.
+
+“You did good,” I said.
+
+He shook his head.
+
+“You had to come get me.”
+
+“Nigga, you got Rosa out. You kept the baton. You brought your people through. Don't make me argue with you while we winning.”
+
+He looked at me for a moment.
+
+Then he pulled me into a hug so hard my feet nearly left the ground.
+
+“My brother,” he said.
+
+“Always.”
+
+The duke presented the fourth key without touching my hand.
+
+The stranger in the dark uniform stood behind him. This time he spoke.
+
+“You collect people, Captain.”
+
+His voice was deep, quiet, carrying easily through the noise around us.
+
+I looked at him.
+
+“They collect me.”
+
+“An expensive habit.”
+
+“Nigga, I'm rich.”
+
+A faint smile touched his mouth.
+
+“So I see.”
+
+He stepped back before I could ask his name.
+
+Shawna took the new key, laid it beside the third and looked toward the sea.
+
+“Tomorrow,” she said, “we go see my opera house.”
+
+I put an arm around her waist.
+
+“Nigga, let's see what the duke keeps under the music.”

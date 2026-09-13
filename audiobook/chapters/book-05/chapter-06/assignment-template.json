@@ -1,0 +1,505 @@
+{
+  "chapter_id": "b05-c06",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 83,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 2905,
+      "speaker": null,
+      "opening": "\"Before he tells you,\""
+    },
+    {
+      "quote": 2,
+      "line": 2905,
+      "speaker": null,
+      "opening": "\"I need you to know that Nico wasn't"
+    },
+    {
+      "quote": 3,
+      "line": 2911,
+      "speaker": null,
+      "opening": "\"They put him on statues with a sword,\""
+    },
+    {
+      "quote": 4,
+      "line": 2911,
+      "speaker": null,
+      "opening": "\"He hated swords. He cut his thumb opening"
+    },
+    {
+      "quote": 5,
+      "line": 2917,
+      "speaker": null,
+      "opening": "\"I liked the nigga,\""
+    },
+    {
+      "quote": 6,
+      "line": 2917,
+      "speaker": null,
+      "opening": "\"That's a good accusation.\""
+    },
+    {
+      "quote": 7,
+      "line": 2921,
+      "speaker": null,
+      "opening": "\"The last afternoon I saw him, he arrived"
+    },
+    {
+      "quote": 8,
+      "line": 2925,
+      "speaker": null,
+      "opening": "\"A whole chicken?\""
+    },
+    {
+      "quote": 9,
+      "line": 2927,
+      "speaker": null,
+      "opening": "\"He had won it in a wager and"
+    },
+    {
+      "quote": 10,
+      "line": 2929,
+      "speaker": null,
+      "opening": "\"Nigga promoted the chicken.\""
+    },
+    {
+      "quote": 11,
+      "line": 2931,
+      "speaker": null,
+      "opening": "\"Very rapidly.\""
+    },
+    {
+      "quote": 12,
+      "line": 2939,
+      "speaker": null,
+      "opening": "\"He said he would buy me the sea,\""
+    },
+    {
+      "quote": 13,
+      "line": 2941,
+      "speaker": null,
+      "opening": "\"Ambitious nigga,\""
+    },
+    {
+      "quote": 14,
+      "line": 2945,
+      "speaker": null,
+      "opening": "\"You gave me an island. Don't act unfamiliar.\""
+    },
+    {
+      "quote": 15,
+      "line": 2947,
+      "speaker": null,
+      "opening": "\"Baby, I won that efficiently.\""
+    },
+    {
+      "quote": 16,
+      "line": 2957,
+      "speaker": null,
+      "opening": "\"I told him to go,\""
+    },
+    {
+      "quote": 17,
+      "line": 2961,
+      "speaker": null,
+      "opening": "\"You didn't know.\""
+    },
+    {
+      "quote": 18,
+      "line": 2963,
+      "speaker": null,
+      "opening": "\"I know that now. I have known it"
+    },
+    {
+      "quote": 19,
+      "line": 2971,
+      "speaker": null,
+      "opening": "\"That's the last one,\""
+    },
+    {
+      "quote": 20,
+      "line": 2971,
+      "speaker": null,
+      "opening": "\"Everybody expects the last kiss to announce itself."
+    },
+    {
+      "quote": 21,
+      "line": 2977,
+      "speaker": null,
+      "opening": "\"Eliane was with the king that night,\""
+    },
+    {
+      "quote": 22,
+      "line": 2983,
+      "speaker": null,
+      "opening": "\"What would've she said about me?\""
+    },
+    {
+      "quote": 23,
+      "line": 2987,
+      "speaker": null,
+      "opening": "\"That you wanted everyone to know who had"
+    },
+    {
+      "quote": 24,
+      "line": 2993,
+      "speaker": null,
+      "opening": "\"Aight,\""
+    },
+    {
+      "quote": 25,
+      "line": 2993,
+      "speaker": null,
+      "opening": "\"She was talented.\""
+    },
+    {
+      "quote": 26,
+      "line": 2999,
+      "speaker": null,
+      "opening": "\"I thought there would always be another,\""
+    },
+    {
+      "quote": 27,
+      "line": 3007,
+      "speaker": null,
+      "opening": "\"You are leaving again,\""
+    },
+    {
+      "quote": 28,
+      "line": 3009,
+      "speaker": null,
+      "opening": "\"The king needs me.\""
+    },
+    {
+      "quote": 29,
+      "line": 3011,
+      "speaker": null,
+      "opening": "\"The king has thirty guards. I have one"
+    },
+    {
+      "quote": 30,
+      "line": 3013,
+      "speaker": null,
+      "opening": "\"Tomorrow.\""
+    },
+    {
+      "quote": 31,
+      "line": 3015,
+      "speaker": null,
+      "opening": "\"You love that word.\""
+    },
+    {
+      "quote": 32,
+      "line": 3019,
+      "speaker": null,
+      "opening": "\"Bastien, listen to me. Rafael has been moving"
+    },
+    {
+      "quote": 33,
+      "line": 3027,
+      "speaker": null,
+      "opening": "\"The nigga was practicing,\""
+    },
+    {
+      "quote": 34,
+      "line": 3039,
+      "speaker": null,
+      "opening": "\"She asked him about it?\""
+    },
+    {
+      "quote": 35,
+      "line": 3041,
+      "speaker": null,
+      "opening": "\"No. She copied what she saw. Then she"
+    },
+    {
+      "quote": 36,
+      "line": 3045,
+      "speaker": null,
+      "opening": "\"On a woman he thought beneath notice.\""
+    },
+    {
+      "quote": 37,
+      "line": 3049,
+      "speaker": null,
+      "opening": "\"Those are account marks.\""
+    },
+    {
+      "quote": 38,
+      "line": 3051,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 39,
+      "line": 3055,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 40,
+      "line": 3055,
+      "speaker": null,
+      "opening": "\"She wore the evidence.\""
+    },
+    {
+      "quote": 41,
+      "line": 3065,
+      "speaker": null,
+      "opening": "\"One evening,\""
+    },
+    {
+      "quote": 42,
+      "line": 3065,
+      "speaker": null,
+      "opening": "\"After the harbor meeting, I will take this"
+    },
+    {
+      "quote": 43,
+      "line": 3121,
+      "speaker": null,
+      "opening": "\"What happened on the ship?\""
+    },
+    {
+      "quote": 44,
+      "line": 3125,
+      "speaker": null,
+      "opening": "\"The king was already dead when she arrived.\""
+    },
+    {
+      "quote": 45,
+      "line": 3129,
+      "speaker": null,
+      "opening": "\"You never told me that.\""
+    },
+    {
+      "quote": 46,
+      "line": 3131,
+      "speaker": null,
+      "opening": "\"I could not prove it.\""
+    },
+    {
+      "quote": 47,
+      "line": 3133,
+      "speaker": null,
+      "opening": "\"You could have told me.\""
+    },
+    {
+      "quote": 48,
+      "line": 3135,
+      "speaker": null,
+      "opening": "\"Yes,\""
+    },
+    {
+      "quote": 49,
+      "line": 3135,
+      "speaker": null,
+      "opening": "\"I could have.\""
+    },
+    {
+      "quote": 50,
+      "line": 3151,
+      "speaker": null,
+      "opening": "\"Alive?\""
+    },
+    {
+      "quote": 51,
+      "line": 3155,
+      "speaker": null,
+      "opening": "\"Eliane got him off. She gave him her"
+    },
+    {
+      "quote": 52,
+      "line": 3157,
+      "speaker": null,
+      "opening": "\"Then why—\""
+    },
+    {
+      "quote": 53,
+      "line": 3163,
+      "speaker": null,
+      "opening": "\"Because Rafael's men reached us before the physician.\""
+    },
+    {
+      "quote": 54,
+      "line": 3177,
+      "speaker": null,
+      "opening": "\"And you stood beside me at the funeral.\""
+    },
+    {
+      "quote": 55,
+      "line": 3179,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 56,
+      "line": 3181,
+      "speaker": null,
+      "opening": "\"You let me thank him.\""
+    },
+    {
+      "quote": 57,
+      "line": 3183,
+      "speaker": null,
+      "opening": "\"I was afraid.\""
+    },
+    {
+      "quote": 58,
+      "line": 3189,
+      "speaker": null,
+      "opening": "\"He knew I had survived. He knew I"
+    },
+    {
+      "quote": 59,
+      "line": 3199,
+      "speaker": null,
+      "opening": "\"You let me become useful to him,\""
+    },
+    {
+      "quote": 60,
+      "line": 3201,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 61,
+      "line": 3203,
+      "speaker": null,
+      "opening": "\"You let me call it strength.\""
+    },
+    {
+      "quote": 62,
+      "line": 3205,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 63,
+      "line": 3207,
+      "speaker": null,
+      "opening": "\"You should have trusted me.\""
+    },
+    {
+      "quote": 64,
+      "line": 3209,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 65,
+      "line": 3223,
+      "speaker": null,
+      "opening": "\"Why now?\""
+    },
+    {
+      "quote": 66,
+      "line": 3227,
+      "speaker": null,
+      "opening": "\"Because last night I watched a man refuse"
+    },
+    {
+      "quote": 67,
+      "line": 3231,
+      "speaker": null,
+      "opening": "\"Aight. Then let's make him keep making them.\""
+    },
+    {
+      "quote": 68,
+      "line": 3235,
+      "speaker": null,
+      "opening": "\"The old royal face,\""
+    },
+    {
+      "quote": 69,
+      "line": 3235,
+      "speaker": null,
+      "opening": "\"A portrait?\""
+    },
+    {
+      "quote": 70,
+      "line": 3239,
+      "speaker": null,
+      "opening": "\"Adrien's first coronation portrait. It hangs in the"
+    },
+    {
+      "quote": 71,
+      "line": 3243,
+      "speaker": null,
+      "opening": "\"The house I drove through?\""
+    },
+    {
+      "quote": 72,
+      "line": 3245,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 73,
+      "line": 3249,
+      "speaker": null,
+      "opening": "\"Nigga, you been in the evidence twice already.\""
+    },
+    {
+      "quote": 74,
+      "line": 3251,
+      "speaker": null,
+      "opening": "\"I was busy arresting dinner!\""
+    },
+    {
+      "quote": 75,
+      "line": 3257,
+      "speaker": null,
+      "opening": "\"Silas Bell acquired the house from Rafael after"
+    },
+    {
+      "quote": 76,
+      "line": 3257,
+      "speaker": null,
+      "opening": "\"He never knew what was hidden there.\""
+    },
+    {
+      "quote": 77,
+      "line": 3259,
+      "speaker": null,
+      "opening": "\"Then we go get it,\""
+    },
+    {
+      "quote": 78,
+      "line": 3261,
+      "speaker": null,
+      "opening": "\"The emperor will have sealed the house by"
+    },
+    {
+      "quote": 79,
+      "line": 3265,
+      "speaker": null,
+      "opening": "\"Nigga, so will I.\""
+    },
+    {
+      "quote": 80,
+      "line": 3271,
+      "speaker": null,
+      "opening": "\"Captain. The emperor has issued a request for"
+    },
+    {
+      "quote": 81,
+      "line": 3285,
+      "speaker": null,
+      "opening": "\"He thinks he's about to test us.\""
+    },
+    {
+      "quote": 82,
+      "line": 3289,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 83,
+      "line": 3289,
+      "speaker": null,
+      "opening": "\"he don't know who already tested everybody.\""
+    }
+  ]
+}

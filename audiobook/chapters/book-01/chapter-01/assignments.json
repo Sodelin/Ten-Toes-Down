@@ -1,0 +1,676 @@
+{
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "reviewer": "gpt-5.6-sol medium; source-attribution pass",
+  "quote_count": 133,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 2,
+      "line": 9,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 3,
+      "line": 11,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 4,
+      "line": 15,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 5,
+      "line": 17,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 6,
+      "line": 19,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 7,
+      "line": 27,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 8,
+      "line": 29,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 9,
+      "line": 31,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 10,
+      "line": 33,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 11,
+      "line": 37,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 12,
+      "line": 39,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 13,
+      "line": 43,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 14,
+      "line": 45,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 15,
+      "line": 47,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 16,
+      "line": 51,
+      "speaker": "GUEST"
+    },
+    {
+      "quote": 17,
+      "line": 55,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 18,
+      "line": 59,
+      "speaker": "GUEST"
+    },
+    {
+      "quote": 19,
+      "line": 61,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 20,
+      "line": 63,
+      "speaker": "GUEST"
+    },
+    {
+      "quote": 21,
+      "line": 65,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 22,
+      "line": 67,
+      "speaker": "GUEST"
+    },
+    {
+      "quote": 23,
+      "line": 75,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 24,
+      "line": 77,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 25,
+      "line": 79,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 26,
+      "line": 81,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 27,
+      "line": 85,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 28,
+      "line": 87,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 29,
+      "line": 91,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 30,
+      "line": 93,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 31,
+      "line": 95,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 32,
+      "line": 97,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 33,
+      "line": 99,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 34,
+      "line": 115,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 35,
+      "line": 117,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 36,
+      "line": 121,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 37,
+      "line": 123,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 38,
+      "line": 125,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 39,
+      "line": 129,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 40,
+      "line": 131,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 41,
+      "line": 137,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 42,
+      "line": 139,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 43,
+      "line": 149,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 44,
+      "line": 153,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 45,
+      "line": 157,
+      "speaker": "AIDEN",
+      "note": "Aiden interjects from the kitchen through/near the room speaker."
+    },
+    {
+      "quote": 46,
+      "line": 165,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 47,
+      "line": 169,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 48,
+      "line": 175,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 49,
+      "line": 185,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 50,
+      "line": 189,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 51,
+      "line": 195,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 52,
+      "line": 197,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 53,
+      "line": 199,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 54,
+      "line": 201,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 55,
+      "line": 215,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 56,
+      "line": 217,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 57,
+      "line": 221,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 58,
+      "line": 225,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 59,
+      "line": 229,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 60,
+      "line": 231,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 61,
+      "line": 235,
+      "speaker": "GUEST_TABLE_WOMAN"
+    },
+    {
+      "quote": 62,
+      "line": 239,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 63,
+      "line": 245,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 64,
+      "line": 249,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 65,
+      "line": 251,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 66,
+      "line": 257,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 67,
+      "line": 263,
+      "speaker": "COOK"
+    },
+    {
+      "quote": 68,
+      "line": 265,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 69,
+      "line": 267,
+      "speaker": "COOK"
+    },
+    {
+      "quote": 70,
+      "line": 271,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 71,
+      "line": 283,
+      "speaker": "GUEST_AISLE_WOMAN"
+    },
+    {
+      "quote": 72,
+      "line": 287,
+      "quote_on_line": 1,
+      "speaker": "GUEST_AISLE_WOMAN"
+    },
+    {
+      "quote": 73,
+      "line": 287,
+      "quote_on_line": 2,
+      "speaker": "GUEST_AISLE_WOMAN",
+      "note": "The intervening 'she whispered' explicitly carries the same woman into the second quoted span."
+    },
+    {
+      "quote": 74,
+      "line": 289,
+      "speaker": "GUEST_AISLE_MAN"
+    },
+    {
+      "quote": 75,
+      "line": 291,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 76,
+      "line": 299,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 77,
+      "line": 303,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 78,
+      "line": 307,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 79,
+      "line": 315,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 80,
+      "line": 317,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 81,
+      "line": 325,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 82,
+      "line": 329,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 83,
+      "line": 335,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 84,
+      "line": 345,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 85,
+      "line": 357,
+      "speaker": "DRUMMER"
+    },
+    {
+      "quote": 86,
+      "line": 369,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 87,
+      "line": 375,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 88,
+      "line": 381,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 89,
+      "line": 383,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 90,
+      "line": 385,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 91,
+      "line": 387,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 92,
+      "line": 391,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 93,
+      "line": 395,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 94,
+      "line": 397,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 95,
+      "line": 399,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 96,
+      "line": 403,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 97,
+      "line": 407,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 98,
+      "line": 413,
+      "speaker": "SILAS_SMALL_MAN"
+    },
+    {
+      "quote": 99,
+      "line": 415,
+      "speaker": "COOK"
+    },
+    {
+      "quote": 100,
+      "line": 423,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 101,
+      "line": 425,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 102,
+      "line": 437,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 103,
+      "line": 441,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 104,
+      "line": 449,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 105,
+      "line": 451,
+      "speaker": "DRUMMER"
+    },
+    {
+      "quote": 106,
+      "line": 453,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 107,
+      "line": 457,
+      "speaker": "DRUMMER"
+    },
+    {
+      "quote": 108,
+      "line": 463,
+      "speaker": "MERCEDES"
+    },
+    {
+      "quote": 109,
+      "line": 471,
+      "speaker": "SILAS"
+    },
+    {
+      "quote": 110,
+      "line": 473,
+      "speaker": "CORPSE_PERFORMER"
+    },
+    {
+      "quote": 111,
+      "line": 477,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 112,
+      "line": 481,
+      "speaker": "COOK"
+    },
+    {
+      "quote": 113,
+      "line": 483,
+      "speaker": "GUEST_DANCE_WOMAN"
+    },
+    {
+      "quote": 114,
+      "line": 487,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 115,
+      "line": 489,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 116,
+      "line": 493,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 117,
+      "line": 495,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 118,
+      "line": 503,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 119,
+      "line": 509,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 120,
+      "line": 513,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 121,
+      "line": 517,
+      "speaker": "TICKET"
+    },
+    {
+      "quote": 122,
+      "line": 525,
+      "speaker": "SOUND_TECH"
+    },
+    {
+      "quote": 123,
+      "line": 527,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 124,
+      "line": 529,
+      "speaker": "SOUND_TECH"
+    },
+    {
+      "quote": 125,
+      "line": 533,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 126,
+      "line": 535,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 127,
+      "line": 537,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 128,
+      "line": 541,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 129,
+      "line": 543,
+      "speaker": "SOUND_TECH"
+    },
+    {
+      "quote": 130,
+      "line": 545,
+      "speaker": "TANK"
+    },
+    {
+      "quote": 131,
+      "line": 553,
+      "speaker": "AIDEN"
+    },
+    {
+      "quote": 132,
+      "line": 559,
+      "speaker": "SHAWNA"
+    },
+    {
+      "quote": 133,
+      "line": 561,
+      "speaker": "AIDEN"
+    }
+  ]
+}

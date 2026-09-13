@@ -1,0 +1,769 @@
+{
+  "chapter_id": "b03-c03",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 127,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 927,
+      "speaker": null,
+      "opening": "“Nero Chrome,”"
+    },
+    {
+      "quote": 2,
+      "line": 929,
+      "speaker": null,
+      "opening": "“That was my father.”"
+    },
+    {
+      "quote": 3,
+      "line": 931,
+      "speaker": null,
+      "opening": "“I know whose father he was.”"
+    },
+    {
+      "quote": 4,
+      "line": 933,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 5,
+      "line": 933,
+      "speaker": null,
+      "opening": "“everybody leave the potatoes out of this.”"
+    },
+    {
+      "quote": 6,
+      "line": 937,
+      "speaker": null,
+      "opening": "“Papa, you don't know everything.”"
+    },
+    {
+      "quote": 7,
+      "line": 939,
+      "speaker": null,
+      "opening": "“I know who was beside the car.”"
+    },
+    {
+      "quote": 8,
+      "line": 941,
+      "speaker": null,
+      "opening": "“You know what Bellario told you.”"
+    },
+    {
+      "quote": 9,
+      "line": 945,
+      "speaker": null,
+      "opening": "“Of course. Bellario.”"
+    },
+    {
+      "quote": 10,
+      "line": 951,
+      "speaker": null,
+      "opening": "“Where you going?”"
+    },
+    {
+      "quote": 11,
+      "line": 953,
+      "speaker": null,
+      "opening": "“Somewhere my father isn't being tried by a"
+    },
+    {
+      "quote": 12,
+      "line": 959,
+      "speaker": null,
+      "opening": "“Sit down, my nigga.”"
+    },
+    {
+      "quote": 13,
+      "line": 961,
+      "speaker": null,
+      "opening": "“I will not—”"
+    },
+    {
+      "quote": 14,
+      "line": 963,
+      "speaker": null,
+      "opening": "“Then stand still. Pick one.”"
+    },
+    {
+      "quote": 15,
+      "line": 967,
+      "speaker": null,
+      "opening": "“You can hear him and still hate what"
+    },
+    {
+      "quote": 16,
+      "line": 969,
+      "speaker": null,
+      "opening": "“I've heard it for seven years.”"
+    },
+    {
+      "quote": 17,
+      "line": 971,
+      "speaker": null,
+      "opening": "“Then hear it once with me here.”"
+    },
+    {
+      "quote": 18,
+      "line": 975,
+      "speaker": null,
+      "opening": "“Your father drove this car?”"
+    },
+    {
+      "quote": 19,
+      "line": 979,
+      "speaker": null,
+      "opening": "“The White Heron,”"
+    },
+    {
+      "quote": 20,
+      "line": 979,
+      "speaker": null,
+      "opening": "“He built it with Esteban.”"
+    },
+    {
+      "quote": 21,
+      "line": 981,
+      "speaker": null,
+      "opening": "“Then sit down and tell us something nobody"
+    },
+    {
+      "quote": 22,
+      "line": 991,
+      "speaker": null,
+      "opening": "“Amalia loved the last night,”"
+    },
+    {
+      "quote": 23,
+      "line": 991,
+      "speaker": null,
+      "opening": "“She would dance until the musicians begged her"
+    },
+    {
+      "quote": 24,
+      "line": 993,
+      "speaker": null,
+      "opening": "“I know that kind of woman.”"
+    },
+    {
+      "quote": 25,
+      "line": 995,
+      "speaker": null,
+      "opening": "“She collected people. If a waiter looked lonely,"
+    },
+    {
+      "quote": 26,
+      "line": 997,
+      "speaker": null,
+      "opening": "“What'd he say?”"
+    },
+    {
+      "quote": 27,
+      "line": 999,
+      "speaker": null,
+      "opening": "“That a woman who enjoyed giving things away"
+    },
+    {
+      "quote": 28,
+      "line": 1001,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 29,
+      "line": 1005,
+      "speaker": null,
+      "opening": "“He said it smiling.”"
+    },
+    {
+      "quote": 30,
+      "line": 1009,
+      "speaker": null,
+      "opening": "“She went to the island,”"
+    },
+    {
+      "quote": 31,
+      "line": 1009,
+      "speaker": null,
+      "opening": "“A captain named Celadon took her. She came"
+    },
+    {
+      "quote": 32,
+      "line": 1011,
+      "speaker": null,
+      "opening": "“Why didn't she show you the papers?”"
+    },
+    {
+      "quote": 33,
+      "line": 1013,
+      "speaker": null,
+      "opening": "“She did. I looked at the first page,"
+    },
+    {
+      "quote": 34,
+      "line": 1017,
+      "speaker": null,
+      "opening": "“I thought that was the same as listening.”"
+    },
+    {
+      "quote": 35,
+      "line": 1027,
+      "speaker": null,
+      "opening": "“The duke showed me a signed withdrawal,”"
+    },
+    {
+      "quote": 36,
+      "line": 1027,
+      "speaker": null,
+      "opening": "“Nero's name. Money paid. A place on a"
+    },
+    {
+      "quote": 37,
+      "line": 1031,
+      "speaker": null,
+      "opening": "“My father couldn't write with his right hand"
+    },
+    {
+      "quote": 38,
+      "line": 1035,
+      "speaker": null,
+      "opening": "“The signature was steady as a schoolmaster's,”"
+    },
+    {
+      "quote": 39,
+      "line": 1035,
+      "speaker": null,
+      "opening": "“I told them. I was twenty-four, and I"
+    },
+    {
+      "quote": 40,
+      "line": 1037,
+      "speaker": null,
+      "opening": "“Why didn't you tell me?”"
+    },
+    {
+      "quote": 41,
+      "line": 1039,
+      "speaker": null,
+      "opening": "“You wouldn't open your gate.”"
+    },
+    {
+      "quote": 42,
+      "line": 1047,
+      "speaker": null,
+      "opening": "“My father gave me this the morning of"
+    },
+    {
+      "quote": 43,
+      "line": 1051,
+      "speaker": null,
+      "opening": "“He never came home.”"
+    },
+    {
+      "quote": 44,
+      "line": 1059,
+      "speaker": null,
+      "opening": "“His Grace requests Captain Aiden's presence at the"
+    },
+    {
+      "quote": 45,
+      "line": 1063,
+      "speaker": null,
+      "opening": "“Does he?”"
+    },
+    {
+      "quote": 46,
+      "line": 1065,
+      "speaker": null,
+      "opening": "“Attendance is traditional.”"
+    },
+    {
+      "quote": 47,
+      "line": 1067,
+      "speaker": null,
+      "opening": "“So is knocking.”"
+    },
+    {
+      "quote": 48,
+      "line": 1071,
+      "speaker": null,
+      "opening": "“An intimate gathering,”"
+    },
+    {
+      "quote": 49,
+      "line": 1073,
+      "speaker": null,
+      "opening": "“Getting less intimate.”"
+    },
+    {
+      "quote": 50,
+      "line": 1077,
+      "speaker": null,
+      "opening": "“We'll be there.”"
+    },
+    {
+      "quote": 51,
+      "line": 1081,
+      "speaker": null,
+      "opening": "“His Grace particularly hopes you will sing.”"
+    },
+    {
+      "quote": 52,
+      "line": 1083,
+      "speaker": null,
+      "opening": "“Then he should particularly hope he's paid my"
+    },
+    {
+      "quote": 53,
+      "line": 1089,
+      "speaker": null,
+      "opening": "“This came three days after she died,”"
+    },
+    {
+      "quote": 54,
+      "line": 1089,
+      "speaker": null,
+      "opening": "“A woman delivered it. She wouldn't give her"
+    },
+    {
+      "quote": 55,
+      "line": 1091,
+      "speaker": null,
+      "opening": "“What's it say?”"
+    },
+    {
+      "quote": 56,
+      "line": 1095,
+      "speaker": null,
+      "opening": "“Esteban, if you are reading this without me,"
+    },
+    {
+      "quote": 57,
+      "line": 1101,
+      "speaker": null,
+      "opening": "“I wasn't brave enough to obey her.”"
+    },
+    {
+      "quote": 58,
+      "line": 1109,
+      "speaker": null,
+      "opening": "“You want to skip this?”"
+    },
+    {
+      "quote": 59,
+      "line": 1111,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 60,
+      "line": 1113,
+      "speaker": null,
+      "opening": "“We can eat somewhere nobody named Cruel owns"
+    },
+    {
+      "quote": 61,
+      "line": 1117,
+      "speaker": null,
+      "opening": "“I want to sing. I want Rosa to"
+    },
+    {
+      "quote": 62,
+      "line": 1119,
+      "speaker": null,
+      "opening": "“That's my wife.”"
+    },
+    {
+      "quote": 63,
+      "line": 1123,
+      "speaker": null,
+      "opening": "“And you want to race him.”"
+    },
+    {
+      "quote": 64,
+      "line": 1125,
+      "speaker": null,
+      "opening": "“I want to beat him.”"
+    },
+    {
+      "quote": 65,
+      "line": 1127,
+      "speaker": null,
+      "opening": "“Then do it with your eyes open.”"
+    },
+    {
+      "quote": 66,
+      "line": 1133,
+      "speaker": null,
+      "opening": "“Don't Esteban me.”"
+    },
+    {
+      "quote": 67,
+      "line": 1137,
+      "speaker": null,
+      "opening": "“I hear you. You want to sing, Rosa"
+    },
+    {
+      "quote": 68,
+      "line": 1139,
+      "speaker": null,
+      "opening": "“And?”"
+    },
+    {
+      "quote": 69,
+      "line": 1141,
+      "speaker": null,
+      "opening": "“And if it's a really fast car, I"
+    },
+    {
+      "quote": 70,
+      "line": 1147,
+      "speaker": null,
+      "opening": "\"It says king.\""
+    },
+    {
+      "quote": 71,
+      "line": 1149,
+      "speaker": null,
+      "opening": "\"It also says captain,\""
+    },
+    {
+      "quote": 72,
+      "line": 1151,
+      "speaker": null,
+      "opening": "\"Which should I announce?\""
+    },
+    {
+      "quote": 73,
+      "line": 1155,
+      "speaker": null,
+      "opening": "\"Nigga, use your diaphragm and say both.\""
+    },
+    {
+      "quote": 74,
+      "line": 1157,
+      "speaker": null,
+      "opening": "\"Is there a preferred order?\""
+    },
+    {
+      "quote": 75,
+      "line": 1159,
+      "speaker": null,
+      "opening": "\"The nigga arrived first at everything today. Any"
+    },
+    {
+      "quote": 76,
+      "line": 1165,
+      "speaker": null,
+      "opening": "\"That's for respecting punctuation.\""
+    },
+    {
+      "quote": 77,
+      "line": 1179,
+      "speaker": null,
+      "opening": "“Captain,”"
+    },
+    {
+      "quote": 78,
+      "line": 1179,
+      "speaker": null,
+      "opening": "“Your entrance this afternoon was costly.”"
+    },
+    {
+      "quote": 79,
+      "line": 1181,
+      "speaker": null,
+      "opening": "“For who?”"
+    },
+    {
+      "quote": 80,
+      "line": 1185,
+      "speaker": null,
+      "opening": "“For the harbor's dignity.”"
+    },
+    {
+      "quote": 81,
+      "line": 1187,
+      "speaker": null,
+      "opening": "“Nigga, the harbor selling shirts.”"
+    },
+    {
+      "quote": 82,
+      "line": 1191,
+      "speaker": null,
+      "opening": "“Come. Sit beside me.”"
+    },
+    {
+      "quote": 83,
+      "line": 1197,
+      "speaker": null,
+      "opening": "“Where's my people?”"
+    },
+    {
+      "quote": 84,
+      "line": 1199,
+      "speaker": null,
+      "opening": "“We've arranged seating by distinction.”"
+    },
+    {
+      "quote": 85,
+      "line": 1201,
+      "speaker": null,
+      "opening": "“Then you arranged it wrong.”"
+    },
+    {
+      "quote": 86,
+      "line": 1205,
+      "speaker": null,
+      "opening": "“A captain. A celebrated singer. Naturally, some guests"
+    },
+    {
+      "quote": 87,
+      "line": 1209,
+      "speaker": null,
+      "opening": "“Mine got you to call my agency three"
+    },
+    {
+      "quote": 88,
+      "line": 1209,
+      "speaker": null,
+      "opening": "“Porsche's got your minister to pay double for"
+    },
+    {
+      "quote": 89,
+      "line": 1213,
+      "speaker": null,
+      "opening": "“I told him no. He looked financially devastated.”"
+    },
+    {
+      "quote": 90,
+      "line": 1219,
+      "speaker": null,
+      "opening": "“There is no need for vulgarity.”"
+    },
+    {
+      "quote": 91,
+      "line": 1221,
+      "speaker": null,
+      "opening": "“Nigga, you invited me,”"
+    },
+    {
+      "quote": 92,
+      "line": 1227,
+      "speaker": null,
+      "opening": "“Careful,”"
+    },
+    {
+      "quote": 93,
+      "line": 1229,
+      "speaker": null,
+      "opening": "“It's my good arm.”"
+    },
+    {
+      "quote": 94,
+      "line": 1231,
+      "speaker": null,
+      "opening": "“Keep one.”"
+    },
+    {
+      "quote": 95,
+      "line": 1239,
+      "speaker": null,
+      "opening": "“A king makes his own table,”"
+    },
+    {
+      "quote": 96,
+      "line": 1243,
+      "speaker": null,
+      "opening": "“Now you catching on.”"
+    },
+    {
+      "quote": 97,
+      "line": 1247,
+      "speaker": null,
+      "opening": "\"Who should taste?\""
+    },
+    {
+      "quote": 98,
+      "line": 1249,
+      "speaker": null,
+      "opening": "\"That nigga owns the bottle,\""
+    },
+    {
+      "quote": 99,
+      "line": 1249,
+      "speaker": null,
+      "opening": "\"This nigga owns the table.\""
+    },
+    {
+      "quote": 100,
+      "line": 1251,
+      "speaker": null,
+      "opening": "\"I own neither,\""
+    },
+    {
+      "quote": 101,
+      "line": 1251,
+      "speaker": null,
+      "opening": "\"My wife wanted wine. Give the woman wine.\""
+    },
+    {
+      "quote": 102,
+      "line": 1253,
+      "speaker": null,
+      "opening": "\"These niggas will appoint a president of the"
+    },
+    {
+      "quote": 103,
+      "line": 1255,
+      "speaker": null,
+      "opening": "\"Nigga will run unopposed.\""
+    },
+    {
+      "quote": 104,
+      "line": 1257,
+      "speaker": null,
+      "opening": "\"And win,\""
+    },
+    {
+      "quote": 105,
+      "line": 1261,
+      "speaker": null,
+      "opening": "“This better not be the nigga you saved.”"
+    },
+    {
+      "quote": 106,
+      "line": 1267,
+      "speaker": null,
+      "opening": "“And if you lose?”"
+    },
+    {
+      "quote": 107,
+      "line": 1269,
+      "speaker": null,
+      "opening": "“I do not compete.”"
+    },
+    {
+      "quote": 108,
+      "line": 1271,
+      "speaker": null,
+      "opening": "“Convenient.”"
+    },
+    {
+      "quote": 109,
+      "line": 1273,
+      "speaker": null,
+      "opening": "“I own the competition.”"
+    },
+    {
+      "quote": 110,
+      "line": 1275,
+      "speaker": null,
+      "opening": "“For now.”"
+    },
+    {
+      "quote": 111,
+      "line": 1285,
+      "speaker": null,
+      "opening": "“That's Rosa!”"
+    },
+    {
+      "quote": 112,
+      "line": 1307,
+      "speaker": null,
+      "opening": "“You must perform on Isla Gloria,”"
+    },
+    {
+      "quote": 113,
+      "line": 1307,
+      "speaker": null,
+      "opening": "“The opera house was built for a voice"
+    },
+    {
+      "quote": 114,
+      "line": 1311,
+      "speaker": null,
+      "opening": "“Then make sure the people who clean it"
+    },
+    {
+      "quote": 115,
+      "line": 1321,
+      "speaker": null,
+      "opening": "“That man knows Mateo.”"
+    },
+    {
+      "quote": 116,
+      "line": 1327,
+      "speaker": null,
+      "opening": "“Captain, dessert—”"
+    },
+    {
+      "quote": 117,
+      "line": 1329,
+      "speaker": null,
+      "opening": "“Nigga, move.”"
+    },
+    {
+      "quote": 118,
+      "line": 1339,
+      "speaker": null,
+      "opening": "“What's your name?”"
+    },
+    {
+      "quote": 119,
+      "line": 1341,
+      "speaker": null,
+      "opening": "“Luc Marel.”"
+    },
+    {
+      "quote": 120,
+      "line": 1343,
+      "speaker": null,
+      "opening": "“How old are you?”"
+    },
+    {
+      "quote": 121,
+      "line": 1345,
+      "speaker": null,
+      "opening": "“Twenty-nine.”"
+    },
+    {
+      "quote": 122,
+      "line": 1347,
+      "speaker": null,
+      "opening": "“Okay, Luc. Breathe.”"
+    },
+    {
+      "quote": 123,
+      "line": 1351,
+      "speaker": null,
+      "opening": "“They said if I spoke to the drivers—”"
+    },
+    {
+      "quote": 124,
+      "line": 1355,
+      "speaker": null,
+      "opening": "“Now you're speaking to us.”"
+    },
+    {
+      "quote": 125,
+      "line": 1373,
+      "speaker": null,
+      "opening": "“Are you really a policeman?”"
+    },
+    {
+      "quote": 126,
+      "line": 1377,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 127,
+      "line": 1377,
+      "speaker": null,
+      "opening": "“tonight I am whatever you need me to"
+    }
+  ]
+}

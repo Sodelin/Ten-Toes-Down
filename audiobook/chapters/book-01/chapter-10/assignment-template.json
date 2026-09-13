@@ -1,0 +1,739 @@
+{
+  "chapter_id": "b01-c10",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 122,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5670,
+      "speaker": null,
+      "opening": "\"Baby, hold these.\""
+    },
+    {
+      "quote": 2,
+      "line": 5674,
+      "speaker": null,
+      "opening": "\"You getting involved?\""
+    },
+    {
+      "quote": 3,
+      "line": 5676,
+      "speaker": null,
+      "opening": "\"Nigga involved me when he parked.\""
+    },
+    {
+      "quote": 4,
+      "line": 5680,
+      "speaker": null,
+      "opening": "\"Keep walking, pretty boy.\""
+    },
+    {
+      "quote": 5,
+      "line": 5686,
+      "speaker": null,
+      "opening": "\"Police?\""
+    },
+    {
+      "quote": 6,
+      "line": 5688,
+      "speaker": null,
+      "opening": "\"Captain.\""
+    },
+    {
+      "quote": 7,
+      "line": 5690,
+      "speaker": null,
+      "opening": "\"You don't look like police.\""
+    },
+    {
+      "quote": 8,
+      "line": 5692,
+      "speaker": null,
+      "opening": "\"Nigga, police improving. Move the van.\""
+    },
+    {
+      "quote": 9,
+      "line": 5702,
+      "speaker": null,
+      "opening": "\"Aiden!\""
+    },
+    {
+      "quote": 10,
+      "line": 5704,
+      "speaker": null,
+      "opening": "\"Coffee!\""
+    },
+    {
+      "quote": 11,
+      "line": 5710,
+      "speaker": null,
+      "opening": "\"Nigga, let go!\""
+    },
+    {
+      "quote": 12,
+      "line": 5712,
+      "speaker": null,
+      "opening": "\"You let go!\""
+    },
+    {
+      "quote": 13,
+      "line": 5714,
+      "speaker": null,
+      "opening": "\"It's my van!\""
+    },
+    {
+      "quote": 14,
+      "line": 5716,
+      "speaker": null,
+      "opening": "\"Then your nigga should've moved it!\""
+    },
+    {
+      "quote": 15,
+      "line": 5724,
+      "speaker": null,
+      "opening": "\"Don't.\""
+    },
+    {
+      "quote": 16,
+      "line": 5728,
+      "speaker": null,
+      "opening": "\"You're Aiden.\""
+    },
+    {
+      "quote": 17,
+      "line": 5730,
+      "speaker": null,
+      "opening": "\"Nigga, you would've had a easier day remembering"
+    },
+    {
+      "quote": 18,
+      "line": 5742,
+      "speaker": null,
+      "opening": "\"She's still behind us!\""
+    },
+    {
+      "quote": 19,
+      "line": 5744,
+      "speaker": null,
+      "opening": "\"She's thorough,\""
+    },
+    {
+      "quote": 20,
+      "line": 5746,
+      "speaker": null,
+      "opening": "\"Nigga, who the fuck asked you?\""
+    },
+    {
+      "quote": 21,
+      "line": 5748,
+      "speaker": null,
+      "opening": "\"You brought me.\""
+    },
+    {
+      "quote": 22,
+      "line": 5756,
+      "speaker": null,
+      "opening": "\"Everybody out.\""
+    },
+    {
+      "quote": 23,
+      "line": 5760,
+      "speaker": null,
+      "opening": "\"She's police too?\""
+    },
+    {
+      "quote": 24,
+      "line": 5762,
+      "speaker": null,
+      "opening": "\"Nigga, she's worse. She's disappointed.\""
+    },
+    {
+      "quote": 25,
+      "line": 5770,
+      "speaker": null,
+      "opening": "\"Captain, we have been after that crew for"
+    },
+    {
+      "quote": 26,
+      "line": 5772,
+      "speaker": null,
+      "opening": "\"Niggas parked wrong.\""
+    },
+    {
+      "quote": 27,
+      "line": 5776,
+      "speaker": null,
+      "opening": "\"We should've tried that.\""
+    },
+    {
+      "quote": 28,
+      "line": 5782,
+      "speaker": null,
+      "opening": "\"Ma'am.\""
+    },
+    {
+      "quote": 29,
+      "line": 5784,
+      "speaker": null,
+      "opening": "\"You can call me Shawna.\""
+    },
+    {
+      "quote": 30,
+      "line": 5786,
+      "speaker": null,
+      "opening": "\"Yes, ma'am.\""
+    },
+    {
+      "quote": 31,
+      "line": 5794,
+      "speaker": null,
+      "opening": "\"How's your first morning?\""
+    },
+    {
+      "quote": 32,
+      "line": 5796,
+      "speaker": null,
+      "opening": "\"Need a bigger cup holder.\""
+    },
+    {
+      "quote": 33,
+      "line": 5800,
+      "speaker": null,
+      "opening": "\"Anything else?\""
+    },
+    {
+      "quote": 34,
+      "line": 5802,
+      "speaker": null,
+      "opening": "\"Nigga wants a raise.\""
+    },
+    {
+      "quote": 35,
+      "line": 5804,
+      "speaker": null,
+      "opening": "\"You've been here four hours.\""
+    },
+    {
+      "quote": 36,
+      "line": 5806,
+      "speaker": null,
+      "opening": "\"And look what the four hours did for"
+    },
+    {
+      "quote": 37,
+      "line": 5818,
+      "speaker": null,
+      "opening": "“Nigga, white,”"
+    },
+    {
+      "quote": 38,
+      "line": 5818,
+      "speaker": null,
+      "opening": "“I want the whole room seeing who came.”"
+    },
+    {
+      "quote": 39,
+      "line": 5820,
+      "speaker": null,
+      "opening": "“Your injury—”"
+    },
+    {
+      "quote": 40,
+      "line": 5822,
+      "speaker": null,
+      "opening": "“Nigga, is the suit going to heal me?”"
+    },
+    {
+      "quote": 41,
+      "line": 5828,
+      "speaker": null,
+      "opening": "“Get the nigga another one too.”"
+    },
+    {
+      "quote": 42,
+      "line": 5830,
+      "speaker": null,
+      "opening": "“A larger size?”"
+    },
+    {
+      "quote": 43,
+      "line": 5832,
+      "speaker": null,
+      "opening": "“Get that nigga whatever size a cathedral is.”"
+    },
+    {
+      "quote": 44,
+      "line": 5836,
+      "speaker": null,
+      "opening": "“Nigga, eat. We rich enough for the candy"
+    },
+    {
+      "quote": 45,
+      "line": 5846,
+      "speaker": null,
+      "opening": "“You don't have to say it to that"
+    },
+    {
+      "quote": 46,
+      "line": 5848,
+      "speaker": null,
+      "opening": "“Like what?”"
+    },
+    {
+      "quote": 47,
+      "line": 5850,
+      "speaker": null,
+      "opening": "“With your mouth.”"
+    },
+    {
+      "quote": 48,
+      "line": 5854,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 49,
+      "line": 5856,
+      "speaker": null,
+      "opening": "“Nigga got a name. Use the name.”"
+    },
+    {
+      "quote": 50,
+      "line": 5862,
+      "speaker": null,
+      "opening": "“That nigga again?”"
+    },
+    {
+      "quote": 51,
+      "line": 5864,
+      "speaker": null,
+      "opening": "“Rosa.”"
+    },
+    {
+      "quote": 52,
+      "line": 5866,
+      "speaker": null,
+      "opening": "“Let me see.”"
+    },
+    {
+      "quote": 53,
+      "line": 5870,
+      "speaker": null,
+      "opening": "“Tell her your nigga said yes.”"
+    },
+    {
+      "quote": 54,
+      "line": 5872,
+      "speaker": null,
+      "opening": "“You don't know how much it is.”"
+    },
+    {
+      "quote": 55,
+      "line": 5874,
+      "speaker": null,
+      "opening": "“Tell her yes in capital fucking letters.”"
+    },
+    {
+      "quote": 56,
+      "line": 5878,
+      "speaker": null,
+      "opening": "“You know you're allowed to be scared tonight.”"
+    },
+    {
+      "quote": 57,
+      "line": 5880,
+      "speaker": null,
+      "opening": "“I'm not.”"
+    },
+    {
+      "quote": 58,
+      "line": 5882,
+      "speaker": null,
+      "opening": "“Okay.”"
+    },
+    {
+      "quote": 59,
+      "line": 5884,
+      "speaker": null,
+      "opening": "“You are?”"
+    },
+    {
+      "quote": 60,
+      "line": 5886,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 61,
+      "line": 5890,
+      "speaker": null,
+      "opening": "“Then your nigga scared too.”"
+    },
+    {
+      "quote": 62,
+      "line": 5894,
+      "speaker": null,
+      "opening": "“Good. Maybe you'll listen.”"
+    },
+    {
+      "quote": 63,
+      "line": 5902,
+      "speaker": null,
+      "opening": "“Nigga, because I sleep here.”"
+    },
+    {
+      "quote": 64,
+      "line": 5904,
+      "speaker": null,
+      "opening": "“Not while we're busy,”"
+    },
+    {
+      "quote": 65,
+      "line": 5908,
+      "speaker": null,
+      "opening": "“I need Shawna.”"
+    },
+    {
+      "quote": 66,
+      "line": 5910,
+      "speaker": null,
+      "opening": "“Your nigga needs patience,”"
+    },
+    {
+      "quote": 67,
+      "line": 5912,
+      "speaker": null,
+      "opening": "“Nigga, I bought patience. They said it'll be"
+    },
+    {
+      "quote": 68,
+      "line": 5922,
+      "speaker": null,
+      "opening": "“My nigga, tell me you ready,”"
+    },
+    {
+      "quote": 69,
+      "line": 5924,
+      "speaker": null,
+      "opening": "“I have been ready for years.”"
+    },
+    {
+      "quote": 70,
+      "line": 5926,
+      "speaker": null,
+      "opening": "“Nigga, that's not what I asked.”"
+    },
+    {
+      "quote": 71,
+      "line": 5930,
+      "speaker": null,
+      "opening": "“Yes, Aiden.”"
+    },
+    {
+      "quote": 72,
+      "line": 5936,
+      "speaker": null,
+      "opening": "“Does she know how much that hurts?”"
+    },
+    {
+      "quote": 73,
+      "line": 5938,
+      "speaker": null,
+      "opening": "“She knows everything.”"
+    },
+    {
+      "quote": 74,
+      "line": 5940,
+      "speaker": null,
+      "opening": "“Does she?”"
+    },
+    {
+      "quote": 75,
+      "line": 5944,
+      "speaker": null,
+      "opening": "“Nigga, she knows enough.”"
+    },
+    {
+      "quote": 76,
+      "line": 5948,
+      "speaker": null,
+      "opening": "“The stone cannot love you back,”"
+    },
+    {
+      "quote": 77,
+      "line": 5950,
+      "speaker": null,
+      "opening": "“I got somebody for that.”"
+    },
+    {
+      "quote": 78,
+      "line": 5952,
+      "speaker": null,
+      "opening": "“Then remember which one you came for.”"
+    },
+    {
+      "quote": 79,
+      "line": 5956,
+      "speaker": null,
+      "opening": "“Niggas, the cars ready.”"
+    },
+    {
+      "quote": 80,
+      "line": 5958,
+      "speaker": null,
+      "opening": "“What nigga calling you?”"
+    },
+    {
+      "quote": 81,
+      "line": 5960,
+      "speaker": null,
+      "opening": "“Nobody.”"
+    },
+    {
+      "quote": 82,
+      "line": 5962,
+      "speaker": null,
+      "opening": "“Nigga, then why you got two phones?”"
+    },
+    {
+      "quote": 83,
+      "line": 5964,
+      "speaker": null,
+      "opening": "“In case somebody does.”"
+    },
+    {
+      "quote": 84,
+      "line": 5972,
+      "speaker": null,
+      "opening": "“Rosa's dress,”"
+    },
+    {
+      "quote": 85,
+      "line": 5972,
+      "speaker": null,
+      "opening": "“She never wore it.”"
+    },
+    {
+      "quote": 86,
+      "line": 5974,
+      "speaker": null,
+      "opening": "“Nigga, I said I'd buy you anything.”"
+    },
+    {
+      "quote": 87,
+      "line": 5976,
+      "speaker": null,
+      "opening": "“I wanted this one.”"
+    },
+    {
+      "quote": 88,
+      "line": 5980,
+      "speaker": null,
+      "opening": "“And I want it back. Both of you"
+    },
+    {
+      "quote": 89,
+      "line": 5982,
+      "speaker": null,
+      "opening": "“Yes,”"
+    },
+    {
+      "quote": 90,
+      "line": 5988,
+      "speaker": null,
+      "opening": "“I've got the watch paper,”"
+    },
+    {
+      "quote": 91,
+      "line": 5988,
+      "speaker": null,
+      "opening": "“The original. Nobody gets it off me.”"
+    },
+    {
+      "quote": 92,
+      "line": 5996,
+      "speaker": null,
+      "opening": "“Turn around for your nigga,”"
+    },
+    {
+      "quote": 93,
+      "line": 6000,
+      "speaker": null,
+      "opening": "“Again.”"
+    },
+    {
+      "quote": 94,
+      "line": 6002,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 95,
+      "line": 6004,
+      "speaker": null,
+      "opening": "“Nigga, I'm trying to remember whether there's anybody"
+    },
+    {
+      "quote": 96,
+      "line": 6008,
+      "speaker": null,
+      "opening": "“If you tear this dress, I'm killing you"
+    },
+    {
+      "quote": 97,
+      "line": 6010,
+      "speaker": null,
+      "opening": "“Your nigga will buy the factory.”"
+    },
+    {
+      "quote": 98,
+      "line": 6012,
+      "speaker": null,
+      "opening": "“I'll kill you in the factory.”"
+    },
+    {
+      "quote": 99,
+      "line": 6030,
+      "speaker": null,
+      "opening": "“Keep walking,”"
+    },
+    {
+      "quote": 100,
+      "line": 6036,
+      "speaker": null,
+      "opening": "“Every nigga that owes them anything owes me,”"
+    },
+    {
+      "quote": 101,
+      "line": 6038,
+      "speaker": null,
+      "opening": "“And your relationship with Mr. Redmond?”"
+    },
+    {
+      "quote": 102,
+      "line": 6042,
+      "speaker": null,
+      "opening": "“Ask me at the end.”"
+    },
+    {
+      "quote": 103,
+      "line": 6046,
+      "speaker": null,
+      "opening": "“Anything happen tonight,”"
+    },
+    {
+      "quote": 104,
+      "line": 6046,
+      "speaker": null,
+      "opening": "“you stay with me.”"
+    },
+    {
+      "quote": 105,
+      "line": 6048,
+      "speaker": null,
+      "opening": "“Nigga, that was already the idea.”"
+    },
+    {
+      "quote": 106,
+      "line": 6060,
+      "speaker": null,
+      "opening": "“Aiden! You disappear when you fall in love?”"
+    },
+    {
+      "quote": 107,
+      "line": 6062,
+      "speaker": null,
+      "opening": "“Nigga, I got promoted.”"
+    },
+    {
+      "quote": 108,
+      "line": 6066,
+      "speaker": null,
+      "opening": "“All of them?”"
+    },
+    {
+      "quote": 109,
+      "line": 6068,
+      "speaker": null,
+      "opening": "“Your nigga had a long weekend.”"
+    },
+    {
+      "quote": 110,
+      "line": 6070,
+      "speaker": null,
+      "opening": "“You nasty motherfucker.”"
+    },
+    {
+      "quote": 111,
+      "line": 6072,
+      "speaker": null,
+      "opening": "“You love me.”"
+    },
+    {
+      "quote": 112,
+      "line": 6076,
+      "speaker": null,
+      "opening": "“Don't get confident.”"
+    },
+    {
+      "quote": 113,
+      "line": 6086,
+      "speaker": null,
+      "opening": "“There she is,”"
+    },
+    {
+      "quote": 114,
+      "line": 6094,
+      "speaker": null,
+      "opening": "“Nigga, you throw a good party. Shame about"
+    },
+    {
+      "quote": 115,
+      "line": 6098,
+      "speaker": null,
+      "opening": "“Captain,”"
+    },
+    {
+      "quote": 116,
+      "line": 6098,
+      "speaker": null,
+      "opening": "“You clean up well.”"
+    },
+    {
+      "quote": 117,
+      "line": 6100,
+      "speaker": null,
+      "opening": "“You still talking.”"
+    },
+    {
+      "quote": 118,
+      "line": 6106,
+      "speaker": null,
+      "opening": "“We should get a photograph. All three of"
+    },
+    {
+      "quote": 119,
+      "line": 6120,
+      "speaker": null,
+      "opening": "“Now,”"
+    },
+    {
+      "quote": 120,
+      "line": 6120,
+      "speaker": null,
+      "opening": "“I promised this woman a dance.”"
+    },
+    {
+      "quote": 121,
+      "line": 6128,
+      "speaker": null,
+      "opening": "“One dance,”"
+    },
+    {
+      "quote": 122,
+      "line": 6132,
+      "speaker": null,
+      "opening": "“Let's see what she wants.”"
+    }
+  ]
+}

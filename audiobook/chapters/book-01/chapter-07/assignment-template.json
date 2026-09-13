@@ -1,0 +1,733 @@
+{
+  "chapter_id": "b01-c07",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 121,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3761,
+      "speaker": null,
+      "opening": "“Are they bothering you?”"
+    },
+    {
+      "quote": 2,
+      "line": 3763,
+      "speaker": null,
+      "opening": "“They got dirt on them.”"
+    },
+    {
+      "quote": 3,
+      "line": 3765,
+      "speaker": null,
+      "opening": "“Dante.”"
+    },
+    {
+      "quote": 4,
+      "line": 3767,
+      "speaker": null,
+      "opening": "“I don't want you sleeping in dirt.”"
+    },
+    {
+      "quote": 5,
+      "line": 3779,
+      "speaker": null,
+      "opening": "“You hear me, old man?”"
+    },
+    {
+      "quote": 6,
+      "line": 3781,
+      "speaker": null,
+      "opening": "“I heard you.”"
+    },
+    {
+      "quote": 7,
+      "line": 3783,
+      "speaker": null,
+      "opening": "“Then look at me.”"
+    },
+    {
+      "quote": 8,
+      "line": 3787,
+      "speaker": null,
+      "opening": "“You have my soup on your hand.”"
+    },
+    {
+      "quote": 9,
+      "line": 3795,
+      "speaker": null,
+      "opening": "\"What happened after the soup?\""
+    },
+    {
+      "quote": 10,
+      "line": 3797,
+      "speaker": null,
+      "opening": "\"I just told you.\""
+    },
+    {
+      "quote": 11,
+      "line": 3799,
+      "speaker": null,
+      "opening": "\"You told me a nigga got hit. Baby,"
+    },
+    {
+      "quote": 12,
+      "line": 3803,
+      "speaker": null,
+      "opening": "\"Dante said the man had three friends.\""
+    },
+    {
+      "quote": 13,
+      "line": 3805,
+      "speaker": null,
+      "opening": "\"There we go.\""
+    },
+    {
+      "quote": 14,
+      "line": 3809,
+      "speaker": null,
+      "opening": "\"Sit your ass down.\""
+    },
+    {
+      "quote": 15,
+      "line": 3813,
+      "speaker": null,
+      "opening": "\"Nigga, you deaf?\""
+    },
+    {
+      "quote": 16,
+      "line": 3815,
+      "speaker": null,
+      "opening": "\"No. You finished?\""
+    },
+    {
+      "quote": 17,
+      "line": 3823,
+      "speaker": null,
+      "opening": "\"You want the old nigga? Come get him.\""
+    },
+    {
+      "quote": 18,
+      "line": 3833,
+      "speaker": null,
+      "opening": "\"He picked up the spoon?\""
+    },
+    {
+      "quote": 19,
+      "line": 3835,
+      "speaker": null,
+      "opening": "\"He liked that spoon.\""
+    },
+    {
+      "quote": 20,
+      "line": 3837,
+      "speaker": null,
+      "opening": "\"Nigga, I respect an attachment.\""
+    },
+    {
+      "quote": 21,
+      "line": 3849,
+      "speaker": null,
+      "opening": "\"Another bowl,\""
+    },
+    {
+      "quote": 22,
+      "line": 3853,
+      "speaker": null,
+      "opening": "\"Move.\""
+    },
+    {
+      "quote": 23,
+      "line": 3855,
+      "speaker": null,
+      "opening": "\"Nigga, the old man ain't eaten.\""
+    },
+    {
+      "quote": 24,
+      "line": 3857,
+      "speaker": null,
+      "opening": "\"Move now.\""
+    },
+    {
+      "quote": 25,
+      "line": 3861,
+      "speaker": null,
+      "opening": "\"I can wait.\""
+    },
+    {
+      "quote": 26,
+      "line": 3865,
+      "speaker": null,
+      "opening": "\"So can they.\""
+    },
+    {
+      "quote": 27,
+      "line": 3869,
+      "speaker": null,
+      "opening": "\"Three niggas,\""
+    },
+    {
+      "quote": 28,
+      "line": 3871,
+      "speaker": null,
+      "opening": "\"Three.\""
+    },
+    {
+      "quote": 29,
+      "line": 3873,
+      "speaker": null,
+      "opening": "\"I had twelve.\""
+    },
+    {
+      "quote": 30,
+      "line": 3877,
+      "speaker": null,
+      "opening": "\"You asked for the story.\""
+    },
+    {
+      "quote": 31,
+      "line": 3879,
+      "speaker": null,
+      "opening": "\"I'm listening. Nigga can listen and hold the"
+    },
+    {
+      "quote": 32,
+      "line": 3890,
+      "speaker": null,
+      "opening": "“For your trouble,”"
+    },
+    {
+      "quote": 33,
+      "line": 3894,
+      "speaker": null,
+      "opening": "“Nigga, what am I supposed to do with"
+    },
+    {
+      "quote": 34,
+      "line": 3896,
+      "speaker": null,
+      "opening": "“Give it to somebody.”"
+    },
+    {
+      "quote": 35,
+      "line": 3898,
+      "speaker": null,
+      "opening": "“A woman?”"
+    },
+    {
+      "quote": 36,
+      "line": 3900,
+      "speaker": null,
+      "opening": "“If you like women.”"
+    },
+    {
+      "quote": 37,
+      "line": 3902,
+      "speaker": null,
+      "opening": "“I like women.”"
+    },
+    {
+      "quote": 38,
+      "line": 3904,
+      "speaker": null,
+      "opening": "“Then perhaps one will like a heart.”"
+    },
+    {
+      "quote": 39,
+      "line": 3908,
+      "speaker": null,
+      "opening": "“You make jewelry?”"
+    },
+    {
+      "quote": 40,
+      "line": 3910,
+      "speaker": null,
+      "opening": "“I did.”"
+    },
+    {
+      "quote": 41,
+      "line": 3912,
+      "speaker": null,
+      "opening": "“Used to steal it myself.”"
+    },
+    {
+      "quote": 42,
+      "line": 3916,
+      "speaker": null,
+      "opening": "“Then we may have met professionally.”"
+    },
+    {
+      "quote": 43,
+      "line": 3926,
+      "speaker": null,
+      "opening": "“Your wife?”"
+    },
+    {
+      "quote": 44,
+      "line": 3928,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 45,
+      "line": 3930,
+      "speaker": null,
+      "opening": "“She beautiful.”"
+    },
+    {
+      "quote": 46,
+      "line": 3932,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 47,
+      "line": 3934,
+      "speaker": null,
+      "opening": "“She still come see you?”"
+    },
+    {
+      "quote": 48,
+      "line": 3938,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 49,
+      "line": 3942,
+      "speaker": null,
+      "opening": "“You want me to read it?”"
+    },
+    {
+      "quote": 50,
+      "line": 3944,
+      "speaker": null,
+      "opening": "“I know what it says.”"
+    },
+    {
+      "quote": 51,
+      "line": 3946,
+      "speaker": null,
+      "opening": "“Then why they send it?”"
+    },
+    {
+      "quote": 52,
+      "line": 3948,
+      "speaker": null,
+      "opening": "“Because some people think they can finish a"
+    },
+    {
+      "quote": 53,
+      "line": 3954,
+      "speaker": null,
+      "opening": "“She died three months ago.”"
+    },
+    {
+      "quote": 54,
+      "line": 3970,
+      "speaker": null,
+      "opening": "“How much?”"
+    },
+    {
+      "quote": 55,
+      "line": 3972,
+      "speaker": null,
+      "opening": "“Wait until you see it.”"
+    },
+    {
+      "quote": 56,
+      "line": 3974,
+      "speaker": null,
+      "opening": "“How much, Marcellus?”"
+    },
+    {
+      "quote": 57,
+      "line": 3980,
+      "speaker": null,
+      "opening": "“We are not eating that.”"
+    },
+    {
+      "quote": 58,
+      "line": 3986,
+      "speaker": null,
+      "opening": "“Oh,”"
+    },
+    {
+      "quote": 59,
+      "line": 3990,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 60,
+      "line": 3998,
+      "speaker": null,
+      "opening": "“So you remember who the fuck lives out"
+    },
+    {
+      "quote": 61,
+      "line": 4004,
+      "speaker": null,
+      "opening": "“Don't you propose to me again,”"
+    },
+    {
+      "quote": 62,
+      "line": 4004,
+      "speaker": null,
+      "opening": "“I fell for that shit once.”"
+    },
+    {
+      "quote": 63,
+      "line": 4008,
+      "speaker": null,
+      "opening": "“I made you something.”"
+    },
+    {
+      "quote": 64,
+      "line": 4018,
+      "speaker": null,
+      "opening": "“Marcellus.”"
+    },
+    {
+      "quote": 65,
+      "line": 4022,
+      "speaker": null,
+      "opening": "“Turn around.”"
+    },
+    {
+      "quote": 66,
+      "line": 4026,
+      "speaker": null,
+      "opening": "“What'd you call it?”"
+    },
+    {
+      "quote": 67,
+      "line": 4028,
+      "speaker": null,
+      "opening": "“Blue Mercy.”"
+    },
+    {
+      "quote": 68,
+      "line": 4030,
+      "speaker": null,
+      "opening": "“Mercy for what?”"
+    },
+    {
+      "quote": 69,
+      "line": 4032,
+      "speaker": null,
+      "opening": "“The last three months.”"
+    },
+    {
+      "quote": 70,
+      "line": 4058,
+      "speaker": null,
+      "opening": "“It belongs to my wife,”"
+    },
+    {
+      "quote": 71,
+      "line": 4060,
+      "speaker": null,
+      "opening": "“Then ask your wife.”"
+    },
+    {
+      "quote": 72,
+      "line": 4062,
+      "speaker": null,
+      "opening": "“She isn't for sale either.”"
+    },
+    {
+      "quote": 73,
+      "line": 4072,
+      "speaker": null,
+      "opening": "“Do you know what that's worth?”"
+    },
+    {
+      "quote": 74,
+      "line": 4074,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 75,
+      "line": 4074,
+      "speaker": null,
+      "opening": "“That's why I don't want to find out"
+    },
+    {
+      "quote": 76,
+      "line": 4090,
+      "speaker": null,
+      "opening": "“Now,”"
+    },
+    {
+      "quote": 77,
+      "line": 4090,
+      "speaker": null,
+      "opening": "“perhaps we can agree on a price.”"
+    },
+    {
+      "quote": 78,
+      "line": 4096,
+      "speaker": null,
+      "opening": "“Take it,”"
+    },
+    {
+      "quote": 79,
+      "line": 4096,
+      "speaker": null,
+      "opening": "“Go.”"
+    },
+    {
+      "quote": 80,
+      "line": 4100,
+      "speaker": null,
+      "opening": "“You should've said that in the beginning.”"
+    },
+    {
+      "quote": 81,
+      "line": 4108,
+      "speaker": null,
+      "opening": "“Look at me,”"
+    },
+    {
+      "quote": 82,
+      "line": 4108,
+      "speaker": null,
+      "opening": "“It's gone. Look at me.”"
+    },
+    {
+      "quote": 83,
+      "line": 4124,
+      "speaker": null,
+      "opening": "\"He told Dante that?\""
+    },
+    {
+      "quote": 84,
+      "line": 4126,
+      "speaker": null,
+      "opening": "\"He said Celeste tried to stop him.\""
+    },
+    {
+      "quote": 85,
+      "line": 4128,
+      "speaker": null,
+      "opening": "\"With words?\""
+    },
+    {
+      "quote": 86,
+      "line": 4130,
+      "speaker": null,
+      "opening": "\"With his car keys.\""
+    },
+    {
+      "quote": 87,
+      "line": 4132,
+      "speaker": null,
+      "opening": "\"Smart woman.\""
+    },
+    {
+      "quote": 88,
+      "line": 4142,
+      "speaker": null,
+      "opening": "\"Your money.\""
+    },
+    {
+      "quote": 89,
+      "line": 4146,
+      "speaker": null,
+      "opening": "\"You came to buy something?\""
+    },
+    {
+      "quote": 90,
+      "line": 4148,
+      "speaker": null,
+      "opening": "\"I came for what's mine.\""
+    },
+    {
+      "quote": 91,
+      "line": 4172,
+      "speaker": null,
+      "opening": "\"Where is it?\""
+    },
+    {
+      "quote": 92,
+      "line": 4192,
+      "speaker": null,
+      "opening": "\"I didn't find it,\""
+    },
+    {
+      "quote": 93,
+      "line": 4196,
+      "speaker": null,
+      "opening": "\"I found you.\""
+    },
+    {
+      "quote": 94,
+      "line": 4200,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 95,
+      "line": 4200,
+      "speaker": null,
+      "opening": "\"Red got to die.\""
+    },
+    {
+      "quote": 96,
+      "line": 4204,
+      "speaker": null,
+      "opening": "\"Keep listening.\""
+    },
+    {
+      "quote": 97,
+      "line": 4206,
+      "speaker": null,
+      "opening": "\"I'm listening. That's what the listening is doing.\""
+    },
+    {
+      "quote": 98,
+      "line": 4221,
+      "speaker": null,
+      "opening": "“I want you to do something,”"
+    },
+    {
+      "quote": 99,
+      "line": 4223,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 100,
+      "line": 4225,
+      "speaker": null,
+      "opening": "“Remember the first thing you ever gave me.”"
+    },
+    {
+      "quote": 101,
+      "line": 4227,
+      "speaker": null,
+      "opening": "“The earrings.”"
+    },
+    {
+      "quote": 102,
+      "line": 4229,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 103,
+      "line": 4231,
+      "speaker": null,
+      "opening": "“The little bracelet.”"
+    },
+    {
+      "quote": 104,
+      "line": 4233,
+      "speaker": null,
+      "opening": "“No, Marcellus.”"
+    },
+    {
+      "quote": 105,
+      "line": 4237,
+      "speaker": null,
+      "opening": "“A ride,”"
+    },
+    {
+      "quote": 106,
+      "line": 4237,
+      "speaker": null,
+      "opening": "“I was standing in the rain. You drove"
+    },
+    {
+      "quote": 107,
+      "line": 4239,
+      "speaker": null,
+      "opening": "“I remember.”"
+    },
+    {
+      "quote": 108,
+      "line": 4241,
+      "speaker": null,
+      "opening": "“Then remember that man too.”"
+    },
+    {
+      "quote": 109,
+      "line": 4273,
+      "speaker": null,
+      "opening": "“What did Dante do?”"
+    },
+    {
+      "quote": 110,
+      "line": 4275,
+      "speaker": null,
+      "opening": "“He told Marcellus he'd get it back.”"
+    },
+    {
+      "quote": 111,
+      "line": 4277,
+      "speaker": null,
+      "opening": "“For a man he met in prison?”"
+    },
+    {
+      "quote": 112,
+      "line": 4279,
+      "speaker": null,
+      "opening": "“For him. For her. For whatever he thought"
+    },
+    {
+      "quote": 113,
+      "line": 4281,
+      "speaker": null,
+      "opening": "“And you?”"
+    },
+    {
+      "quote": 114,
+      "line": 4285,
+      "speaker": null,
+      "opening": "“I thought I married the kind of man"
+    },
+    {
+      "quote": 115,
+      "line": 4289,
+      "speaker": null,
+      "opening": "“Dante took the three million first,”"
+    },
+    {
+      "quote": 116,
+      "line": 4289,
+      "speaker": null,
+      "opening": "“He wanted money to get Marcellus a lawyer"
+    },
+    {
+      "quote": 117,
+      "line": 4291,
+      "speaker": null,
+      "opening": "“But he didn't.”"
+    },
+    {
+      "quote": 118,
+      "line": 4293,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 119,
+      "line": 4297,
+      "speaker": null,
+      "opening": "“The last night Dante came home, he asked"
+    },
+    {
+      "quote": 120,
+      "line": 4301,
+      "speaker": null,
+      "opening": "“What something?”"
+    },
+    {
+      "quote": 121,
+      "line": 4303,
+      "speaker": null,
+      "opening": "“I thought he meant himself.”"
+    }
+  ]
+}

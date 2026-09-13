@@ -1,0 +1,551 @@
+I went to see Red the morning after the funeral with a bullet in my body and a diamond pin covering the hole in my coat.
+
+Tank drove. I sat beside him with the note open on my knee.
+
+*Dante didn't die for three million.*
+
+The nigga had written it in red ink. He wanted me looking at it all night, wondering what my woman hadn't told me. Nigga, I had done exactly that. I wasn't giving him the pleasure of knowing.
+
+“Nigga, you slept at all?” Tank asked.
+
+“Nigga, I can dream about firing you with my eyes open.”
+
+He reached into the console and handed me the little bottle Dr. Vega had left for me.
+
+“Take what she said to take.”
+
+“Nigga, I heard the doctor.”
+
+“Then listen to her.”
+
+I put the bottle in my pocket. He was wearing black again. The nigga had carried a coffin yesterday and was driving me toward another one today. I looked at his hands on the wheel. There was a cut across his knuckles I didn't remember putting there.
+
+At the Saint, two men approached my door before the valet could. I stepped out holding Red's note.
+
+“Your boss sent for me.”
+
+One of them put his hand out for my gun.
+
+“Nigga, you can have the note.”
+
+He looked toward the entrance. Red stood inside the glass doors in a cream suit, watching.
+
+He lifted one finger. The men backed off.
+
+“Aiden,” he said when I reached him. “Glad you came.”
+
+“You would've been sad if I didn't?”
+
+“I had breakfast made.”
+
+“Then feed a nigga before the conversation gets hungry.”
+
+He put his arm around me like we were cousins. I let him. Nigga, I wanted to know how close this motherfucker would come to a man who had killed his friend.
+
+My nigga came close enough to squeeze my shoulder.
+
+Before the waiters brought the food, Red took me past the white piano.
+
+Slowly. Nigga wanted me to inspect the flowers, the polished lid, the photograph of Shawna singing on his wall. He paused beneath the picture until I looked. Then he waited for me to dislike looking.
+
+"You play?"
+
+"Nigga, is breakfast behind the piano?"
+
+"I wondered what you brought to a woman who already sings."
+
+Tank closed his eyes.
+
+"Please," my nigga said quietly.
+
+"You want a request?"
+
+"I want eggs before the niggas serving them retire."
+
+I sat down. There was sheet music on the stand, Shawna's name written at the top. A long introduction, crowded voices, enough work for both hands that Red had clearly expected me to shut the lid after looking.
+
+"That's a difficult arrangement," he said.
+
+"Nigga, we haven't heard your kitchen yet. Everything difficult until somebody does it."
+
+My first chord stopped the nearest waiter. I kept going. My fingers remembered a church piano, an old woman's hand correcting my wrist, free suppers I earned by staying to play after everybody else went home.
+
+Red had bought a roomful of reminders. Nigga forgot I came with my own.
+
+I played the introduction straight through. Then I brought the melody into my right hand and gave the left something uglier to say about the man standing behind me.
+
+Tank opened his eyes.
+
+"Oh, this nigga."
+
+"Something wrong?" Red asked.
+
+"With him? All morning. With that? Listen."
+
+The waiter holding the coffee pot shifted his weight in time. Caught himself. Stopped. His foot kept going.
+
+"You just read that?" Red asked.
+
+"Nigga, you left it open."
+
+"Shawna never said—"
+
+"Nigga, you want me to play or collect witness statements?"
+
+The man at the door laughed. Red turned. The nigga straightened so fast I almost missed a note enjoying it.
+
+I finished. The last chord stayed in the room while I took my hands away.
+
+One waiter clapped once. Looked at Red. Looked at me. Then, fuck it, that brave nigga clapped again. The others joined him.
+
+Tank spread his hands toward the piano.
+
+"You ordered that," he told Red. "Nigga asked him what he brought. He unpacked."
+
+Red looked at Shawna's photograph.
+
+"She never mentioned you played."
+
+"I keep giving her things to find out."
+
+I closed the lid gently. Nigga, I'd embarrass the owner before I'd damage his instrument.
+
+"You ought to try it."
+
+Tank caught my elbow when I stood, before my side could spoil the exit.
+
+"Breakfast," he said.
+
+"Nigga, you hungry?"
+
+"I've lived two years since we parked."
+
+Upstairs, the penthouse had been cleaned since Shawna and I left it. He led us through to a terrace where six waiters stood around a table set for three. There were roses in tall crystal vases. My nigga had put the only red one in front of me.
+
+Tank picked it up.
+
+“Don't eat that,” I said.
+
+He looked at me. “I wasn't going to eat it.”
+
+Red laughed. He had little dimples when he laughed. Nigga, I hated them immediately.
+
+I sat. The chair hurt my side, so I moved. Red watched that too.
+
+“T always did know where to put a bullet.”
+
+“Nigga, he didn't know where to keep his own.”
+
+One of the waiters stopped pouring.
+
+Red raised his orange juice.
+
+“To our absent friend.”
+
+I drank water. My nigga Tank didn't touch anything.
+
+Red ate as if he'd invited us to discuss a vacation. He offered Tank bacon. Tank took some, then looked pissed at himself for doing it.
+
+“Where's Shawna?” Red asked.
+
+“With people who like her alive.”
+
+“I've always liked her alive.”
+
+“You got an expensive way of showing it.”
+
+He put his fork down.
+
+“I bought her the dress she was wearing when you met her.”
+
+I leaned forward too fast. Pain burned all the way through my side, but I kept my face still.
+
+“You want me to send you the motherfucking dress?”
+
+“I want you to understand how little of this you understand.”
+
+“Nigga, that's the first time you said anything all morning.”
+
+He smiled again.
+
+“I gave her a room when Valentino died. I protected her from people who would've cut her life short over what she did to him. Then my partner arranges to take her and three million dollars out of my house. My partner dies. You inherit his business, his car, his necklace, and the woman. That's a very fortunate week.”
+
+“You forgot the bullet.”
+
+“No. I can see you haven't.”
+
+Tank's chair scraped. I raised my hand without looking at my nigga.
+
+“You think I planned that shit?” I asked.
+
+“I think you're young enough to be honest when it profits you.”
+
+“Then here's some honesty. Send another nigga after her, I'll come back without an invitation.”
+
+Red wiped his mouth. He was thirty-six years old and had men older than his father standing around waiting to refill his fucking juice. Nigga, I could feel the kind of money he had. It made the air colder.
+
+“You can keep T's streets,” he said. “That's a generous beginning.”
+
+“I can keep what's already mine? Damn. Put a bow on it.”
+
+“The money comes back. Shawna comes home. We stop putting people in the ground.”
+
+“Which people you want me to bring back? T? Dante? Valentino? You got a favorite?”
+
+He stopped smiling at Dante's name.
+
+There it was.
+
+I sat back and let the pain take its time through me.
+
+“You wrote me a note,” I said. “Finish it.”
+
+Red looked at the waiters. They left. He waited until the last door shut before he spoke.
+
+“Eight years ago, I bought something extraordinary from a man who didn't appreciate the opportunity he'd been given.”
+
+“What man?”
+
+“Marcellus Vale. A jeweler. Violent when disappointed.”
+
+Tank's hand tightened around his glass.
+
+Red saw it. The nigga saw everything except the day somebody would finally kill him.
+
+“His masterpiece was called Blue Mercy. Large blue diamond. Depending on who's asking, somewhere around forty million dollars.”
+
+Nigga, I had been pretending all morning that nothing could surprise me. Forty million surprised the absolute fuck out of me.
+
+“Nigga, forty million for one rock?”
+
+“One.”
+
+“Nigga, for forty million that bitch better call me when I'm lonely.”
+
+“It has made quite a few men lonely.”
+
+“What does Dante got to do with it?”
+
+“Dante met Vale in prison. Came home with some unfortunate ideas. Decided the money in my accounts belonged to a woman he'd never met.”
+
+“Which woman got that nigga reaching into your accounts?”
+
+“Vale's dead wife.”
+
+Red picked up his glass again.
+
+“Men do peculiar things when they love dead women. It's why I advise you to avoid the habit.”
+
+I stood up. Tank stood with me.
+
+“Nigga, you can tell me what you know about Dante, or you can keep talking about my woman until this breakfast gets real fucking expensive.”
+
+Red didn't move.
+
+“Shawna knows the story.”
+
+“No.”
+
+“Ask her.”
+
+“I fucking did.”
+
+“Then ask her again.”
+
+He pushed an envelope across the table. Inside were two invitations, heavy blue paper edged in silver.
+
+“The diamond will be the centerpiece of my gala in three nights. I thought Shawna might like to see what her husband died chasing.”
+
+I looked at the invitation. Her name was printed before mine.
+
+“You printed these before the funeral?”
+
+“I print a lot of invitations.”
+
+“Nigga, print one for yours.”
+
+Tank touched my elbow. I pulled away because I wanted Red to know nobody in that room could move me except me.
+
+We got to the door before Red spoke again.
+
+“Tell her I still have the piano.”
+
+I turned.
+
+He was cutting into his breakfast.
+
+“The white one. She'll know.”
+
+Nigga, I went back across the terrace, took his untouched vase of roses, and threw it over the railing.
+
+Glass broke somewhere far below. A woman screamed.
+
+Red rose halfway out of his chair.
+
+“That's my fucking car.”
+
+“Tell it I still have the vase.”
+
+I put the wet broken stem I was holding on his plate and left.
+
+***
+
+Red's car was a red Aston Martin, and the vase had gone through the roof of it.
+
+The valet stood beside it holding a towel. I didn't know what the towel was going to solve. The entire car looked like an expensive mouth that had bitten into glass.
+
+"Mr. Red is going to be upset," he said.
+
+"Nigga, he got a head start upstairs. Where's mine?"
+
+Tank went to the Mercedes. They had replaced its windows since our first night, repaired the back, polished it until I could see myself coming. I loved that car. It kept surviving my life without asking me to slow it down.
+
+A man came out of the next hotel carrying a helmet under one arm. He saw the car, then me, then the broken Aston Martin.
+
+"You Aiden?"
+
+"Depends who's hoping."
+
+"Nigga, you flew over a boat."
+
+"Word getting around."
+
+He grinned. Thirty-one, brown skin, a scar down his chin, leather jacket with a silver eagle on the back. He pointed across the drive at a black motorcycle that looked ready to leave without him.
+
+"Name's Saint. Everybody calls me Little Saint. I ride."
+
+"Good for you."
+
+"I mean I ride. Thought maybe you should know that."
+
+Tank opened my door.
+
+"Everybody got something they want this nigga to know today."
+
+Little Saint's smile disappeared as he looked past us.
+
+"Then know those two cars ain't valets."
+
+A gray sports car had stopped across the exit. Behind it a black SUV rolled forward with its windows coming down. The man in the front passenger seat held a pistol against his chest. He wasn't wearing the Saint's colors. He wasn't wearing anything that told me whether he loved T or hated me or had been paid enough to do both.
+
+"Inside," Tank said.
+
+The first bullet hit the Mercedes door while his hand was still on it.
+
+I grabbed the valet by his collar and threw him behind the car. Glass burst from the hotel's revolving door. People dropped behind luggage and flowerpots. Little Saint ran for his motorcycle, helmet swinging from his hand, and the SUV's engine roared toward us.
+
+Tank fired from beside my shoulder. I got into the passenger seat as he came around the hood. The Mercedes lurched back before his door was shut.
+
+We hit the gray car hard enough to move it sideways. Its driver shouted through the window. Tank hit it again. The gap opened, and we came through with sparks sliding along my door.
+
+"Nigga, somebody really hates breakfast," I said.
+
+"Put your head down."
+
+"I need it where I can see."
+
+"Then see lower."
+
+The gray car came after us. Its front fender hung loose, slapping the wheel every time it turned. The SUV stayed farther back, its passenger firing through the missing window.
+
+We took the first corner too fast. A taxi braked across our path. Tank turned, missed its front bumper by inches, and put us into a narrow street lined with parked delivery trucks.
+
+The gray car followed. The SUV couldn't make the turn cleanly and struck a streetlight. I heard metal break behind us. The nigga kept coming anyway.
+
+Little Saint appeared beside us on the motorcycle.
+
+He was laughing.
+
+Not because he didn't understand. The nigga understood perfectly. Somebody had finally made his morning worth wearing the jacket for.
+
+He pointed ahead. A tour bus stood across the next intersection. Its driver was outside arguing with a man in a yellow vest. Neither had seen us.
+
+"Tank!"
+
+"I see it!"
+
+"Nigga, I keep hearing that right before we hit something!"
+
+Tank braked. The Mercedes slid. Behind us the gray car tried to stop and couldn't. Its nose struck our rear quarter, spinning us halfway around.
+
+Now I was looking straight at it.
+
+The driver looked straight at me.
+
+For one second we shared the intimate knowledge that his nigga had chosen the wrong car to pursue.
+
+I fired through the broken rear window. His windshield bloomed white. He ducked, lost the turn, and struck the tour bus's empty luggage compartment with the whole front of his car.
+
+The bus driver dropped his argument and ran.
+
+Tank put us into the gap beside the bus. The Mercedes scraped along its side. I could see luggage stacked behind a little square window, somebody's pink suitcase shaking every time our car hit another panel.
+
+Then we came out into open road.
+
+Little Saint was still beside us. He raised a fist. I raised mine back.
+
+The SUV hit him.
+
+Not square. Its bumper caught the motorcycle's back wheel as it tried to pass. The bike snapped sideways. Little Saint flew off, rolling across the hood of a parked car and down into the street.
+
+Tank swore.
+
+I had the door open before he stopped.
+
+"Nigga, where the fuck—"
+
+"Get him!"
+
+I ran across the road. The SUV turned toward us. I could see its driver watching me, smiling the same fucking smile every man wore when he thought my love for somebody had finally made me easy to kill.
+
+Little Saint was on one elbow trying to stand. His helmet had cracked. Blood ran down his cheek. He looked up at me like he couldn't believe I'd come back.
+
+"Your leg?" I asked.
+
+"Works."
+
+"Then work it with me."
+
+I pulled him up. We ran for the parked cars together while the SUV came at our backs. Tank's Mercedes surged across its path. The two cars struck, and the sound filled the street.
+
+I pushed Little Saint behind a truck and turned with my gun up.
+
+The SUV had stopped against the Mercedes. Its driver tried to open his door. Tank came out of his own car like the crash had merely rung a bell for him. He caught the door, slammed it back, and hauled the driver through the window instead.
+
+I covered the passenger until he dropped his gun.
+
+"Nigga, you can keep breathing," I told him. "That's all you getting from me today."
+
+He put both hands on the dashboard.
+
+Little Saint stood behind me with his jacket torn at the shoulder. He stared at Tank, then at me, then at the smoking cars.
+
+"You came back."
+
+"You told me you ride. I ain't seen enough yet."
+
+His face changed. The grin came back slower this time, carrying something heavier underneath it.
+
+"Any road," he said. "Any fucking road, Aiden. You call, I'm there."
+
+A crowd had gathered at the corner. Somebody shouted my name. A woman held up her phone and asked me to look toward her. I did, because nigga, if they were going to put me on every screen in Vegas they could at least get the good side.
+
+Knox's officers arrived before the smoke stopped. They recognized me immediately. One of them looked at the wrecked SUV and shook his head with open wonder.
+
+"Chief said you were something."
+
+"Chief been paying attention."
+
+Tank made a call. Another car came for Little Saint. Our Mercedes still ran, because some machines knew who they belonged to and refused to embarrass him.
+
+We drove home with one door tied shut by a belt and the whole street watching us leave.
+
+I called Shawna before we reached the highway.
+
+"Baby, you want lunch?"
+
+"Why are there sirens behind you?"
+
+"Niggas wanted breakfast. I'm thinking ahead."
+
+***
+
+Shawna was at the house with Rosa, standing barefoot on a little platform while a woman pinned a dress around her hips. The dress was silver, and I wanted every nigga out of the fucking room so I could look at her properly.
+
+Then I saw the watch on her wrist.
+
+Dante's watch. Dante's wife. Dante's fucking diamond.
+
+I had bought the house by the water. I had bled in the car getting her here. Somehow the dead man was still first through every door.
+
+Rosa looked up.
+
+“Why you got that face?”
+
+“What face?”
+
+“The one that's going to make this dress cost more.”
+
+I held up the invitations.
+
+“Blue Mercy.”
+
+Shawna stopped moving.
+
+The woman kneeling beside her kept working until Rosa put a hand on her shoulder.
+
+“Let's get coffee,” Rosa said.
+
+“I don't drink coffee,” the woman said.
+
+“Today's a good fucking day to start.”
+
+They left us alone.
+
+Shawna stepped down from the platform. A pin fell out of the dress and landed between us.
+
+“What did he tell you?”
+
+I laughed once. It sounded ugly in that room.
+
+“Nigga, everybody keeps asking me that. What did she tell you? What did he tell you? What the fuck did the dead man tell the other dead man? How about you tell me something for once?”
+
+She drew back.
+
+I hated that I had made her do it. I kept going anyway.
+
+“You knew about forty million dollars?”
+
+“I knew about the stone.”
+
+“And you didn't think that shit mattered?”
+
+“I thought you being shot mattered. I thought getting you through yesterday mattered.”
+
+“You got time to pick a fucking dress, Shawna.”
+
+Her face changed.
+
+“I picked this dress because I wanted one night where you looked at me and didn't see somebody else bleeding.”
+
+I didn't have anything ready for that.
+
+She took the invitation out of my hand. Her thumb went over Red's name.
+
+“He told you about his piano?”
+
+“Yeah, he told me about the piano. He tell everybody about the piano?”
+
+“I smashed the keys with a bottle the night I left. He bought another one so he could pretend I was coming back.”
+
+“He said you knew what Dante died for.”
+
+“I know what Dante told me.”
+
+“Then tell me.”
+
+“It starts before me.”
+
+“Nigga, everything in this house starts before me.”
+
+She looked down at the cross against my shirt.
+
+“You want me to take that back?”
+
+My hand closed around it.
+
+“No.”
+
+“Then sit down, Aiden.”
+
+“Dante told me after we got married,” she said. “We were in the room Red paid for. I thought we'd go downstairs and drink with everybody. He locked the door instead.”
+
+My nigga, I felt my jaw tighten.
+
+“I'm listening.”
+
+“He said there was something I ought to know before I decided what kind of man I'd married.”
+
+She took my hand off the cross and held it.
+
+“Then he told me about the old man.”

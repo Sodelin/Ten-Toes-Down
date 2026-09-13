@@ -1,0 +1,457 @@
+{
+  "chapter_id": "b06-c10",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 75,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4307,
+      "speaker": null,
+      "opening": "\"Spread out!\""
+    },
+    {
+      "quote": 2,
+      "line": 4311,
+      "speaker": null,
+      "opening": "\"These niggas brought planes to a fucking car"
+    },
+    {
+      "quote": 3,
+      "line": 4313,
+      "speaker": null,
+      "opening": "\"Rude,\""
+    },
+    {
+      "quote": 4,
+      "line": 4317,
+      "speaker": null,
+      "opening": "\"Brother, I can't ram that.\""
+    },
+    {
+      "quote": 5,
+      "line": 4319,
+      "speaker": null,
+      "opening": "\"Nigga, don't let limits define you.\""
+    },
+    {
+      "quote": 6,
+      "line": 4323,
+      "speaker": null,
+      "opening": "\"You joking?\""
+    },
+    {
+      "quote": 7,
+      "line": 4325,
+      "speaker": null,
+      "opening": "\"Mostly.\""
+    },
+    {
+      "quote": 8,
+      "line": 4331,
+      "speaker": null,
+      "opening": "\"Aiden. Look north.\""
+    },
+    {
+      "quote": 9,
+      "line": 4347,
+      "speaker": null,
+      "opening": "\"Liora,\""
+    },
+    {
+      "quote": 10,
+      "line": 4347,
+      "speaker": null,
+      "opening": "\"you steal us a wedding venue?\""
+    },
+    {
+      "quote": 11,
+      "line": 4349,
+      "speaker": null,
+      "opening": "\"I borrowed the emperor's transport. The women added"
+    },
+    {
+      "quote": 12,
+      "line": 4353,
+      "speaker": null,
+      "opening": "\"Nigga, love requires branding!\""
+    },
+    {
+      "quote": 13,
+      "line": 4357,
+      "speaker": null,
+      "opening": "\"Tell Tank there's a dance floor!\""
+    },
+    {
+      "quote": 14,
+      "line": 4361,
+      "speaker": null,
+      "opening": "\"Brother.\""
+    },
+    {
+      "quote": 15,
+      "line": 4363,
+      "speaker": null,
+      "opening": "\"I see it.\""
+    },
+    {
+      "quote": 16,
+      "line": 4365,
+      "speaker": null,
+      "opening": "\"My name on a fucking airship.\""
+    },
+    {
+      "quote": 17,
+      "line": 4367,
+      "speaker": null,
+      "opening": "\"Nigga, you marrying Rosa. You thought the universe"
+    },
+    {
+      "quote": 18,
+      "line": 4385,
+      "speaker": null,
+      "opening": "\"Down.\""
+    },
+    {
+      "quote": 19,
+      "line": 4387,
+      "speaker": null,
+      "opening": "\"Baby—\""
+    },
+    {
+      "quote": 20,
+      "line": 4389,
+      "speaker": null,
+      "opening": "\"Nigga, I mean your head.\""
+    },
+    {
+      "quote": 21,
+      "line": 4397,
+      "speaker": null,
+      "opening": "\"Where those niggas landing?\""
+    },
+    {
+      "quote": 22,
+      "line": 4399,
+      "speaker": null,
+      "opening": "\"Eastern runway. It connects to the outer fortress"
+    },
+    {
+      "quote": 23,
+      "line": 4401,
+      "speaker": null,
+      "opening": "\"Can Liora get over it?\""
+    },
+    {
+      "quote": 24,
+      "line": 4403,
+      "speaker": null,
+      "opening": "\"She can. Getting you there is another question.\""
+    },
+    {
+      "quote": 25,
+      "line": 4407,
+      "speaker": null,
+      "opening": "\"Liora,\""
+    },
+    {
+      "quote": 26,
+      "line": 4407,
+      "speaker": null,
+      "opening": "\"bring that big beautiful thing low.\""
+    },
+    {
+      "quote": 27,
+      "line": 4411,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 28,
+      "line": 4413,
+      "speaker": null,
+      "opening": "\"Hear me out.\""
+    },
+    {
+      "quote": 29,
+      "line": 4415,
+      "speaker": null,
+      "opening": "\"That phrase has cost us several vehicles.\""
+    },
+    {
+      "quote": 30,
+      "line": 4417,
+      "speaker": null,
+      "opening": "\"Only several? I'm improving.\""
+    },
+    {
+      "quote": 31,
+      "line": 4423,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 32,
+      "line": 4427,
+      "speaker": null,
+      "opening": "\"Nigga, you don't even know what I'm thinking.\""
+    },
+    {
+      "quote": 33,
+      "line": 4429,
+      "speaker": null,
+      "opening": "\"I built the car you're thinking with. No.\""
+    },
+    {
+      "quote": 34,
+      "line": 4435,
+      "speaker": null,
+      "opening": "\"I'm coming.\""
+    },
+    {
+      "quote": 35,
+      "line": 4437,
+      "speaker": null,
+      "opening": "\"Baby—\""
+    },
+    {
+      "quote": 36,
+      "line": 4439,
+      "speaker": null,
+      "opening": "\"Either I'm coming, or we're both staying here"
+    },
+    {
+      "quote": 37,
+      "line": 4443,
+      "speaker": null,
+      "opening": "\"I will remain with the conventional battle.\""
+    },
+    {
+      "quote": 38,
+      "line": 4445,
+      "speaker": null,
+      "opening": "\"Nigga got wisdom now,\""
+    },
+    {
+      "quote": 39,
+      "line": 4457,
+      "speaker": null,
+      "opening": "\"Brother!\""
+    },
+    {
+      "quote": 40,
+      "line": 4459,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 41,
+      "line": 4461,
+      "speaker": null,
+      "opening": "\"Don't scratch the wedding!\""
+    },
+    {
+      "quote": 42,
+      "line": 4469,
+      "speaker": null,
+      "opening": "\"Aiden. Look.\""
+    },
+    {
+      "quote": 43,
+      "line": 4475,
+      "speaker": null,
+      "opening": "\"Knox, east court. More people.\""
+    },
+    {
+      "quote": 44,
+      "line": 4477,
+      "speaker": null,
+      "opening": "\"We see the road. Noor is bringing her"
+    },
+    {
+      "quote": 45,
+      "line": 4479,
+      "speaker": null,
+      "opening": "\"Liora, put us down there.\""
+    },
+    {
+      "quote": 46,
+      "line": 4493,
+      "speaker": null,
+      "opening": "\"Nigga!\""
+    },
+    {
+      "quote": 47,
+      "line": 4495,
+      "speaker": null,
+      "opening": "\"I agree!\""
+    },
+    {
+      "quote": 48,
+      "line": 4511,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 49,
+      "line": 4511,
+      "speaker": null,
+      "opening": "\"I can lower you toward the runway. Hold"
+    },
+    {
+      "quote": 50,
+      "line": 4513,
+      "speaker": null,
+      "opening": "\"Nigga, I wasn't planning to stroll.\""
+    },
+    {
+      "quote": 51,
+      "line": 4521,
+      "speaker": null,
+      "opening": "\"Victor!\""
+    },
+    {
+      "quote": 52,
+      "line": 4541,
+      "speaker": null,
+      "opening": "\"Now?\""
+    },
+    {
+      "quote": 53,
+      "line": 4543,
+      "speaker": null,
+      "opening": "\"Little more.\""
+    },
+    {
+      "quote": 54,
+      "line": 4545,
+      "speaker": null,
+      "opening": "\"Now?\""
+    },
+    {
+      "quote": 55,
+      "line": 4547,
+      "speaker": null,
+      "opening": "\"Baby, I love how thorough you are.\""
+    },
+    {
+      "quote": 56,
+      "line": 4549,
+      "speaker": null,
+      "opening": "\"Nigga, answer the question.\""
+    },
+    {
+      "quote": 57,
+      "line": 4553,
+      "speaker": null,
+      "opening": "\"Now.\""
+    },
+    {
+      "quote": 58,
+      "line": 4569,
+      "speaker": null,
+      "opening": "\"You saved me.\""
+    },
+    {
+      "quote": 59,
+      "line": 4573,
+      "speaker": null,
+      "opening": "\"That nigga taught me.\""
+    },
+    {
+      "quote": 60,
+      "line": 4577,
+      "speaker": null,
+      "opening": "\"You don't need more encouragement.\""
+    },
+    {
+      "quote": 61,
+      "line": 4579,
+      "speaker": null,
+      "opening": "\"Nigga, that's between me and my public.\""
+    },
+    {
+      "quote": 62,
+      "line": 4587,
+      "speaker": null,
+      "opening": "\"Put them down.\""
+    },
+    {
+      "quote": 63,
+      "line": 4593,
+      "speaker": null,
+      "opening": "\"Nigga, she means the guns! This is not"
+    },
+    {
+      "quote": 64,
+      "line": 4599,
+      "speaker": null,
+      "opening": "\"Excellent listening!\""
+    },
+    {
+      "quote": 65,
+      "line": 4609,
+      "speaker": null,
+      "opening": "\"Commander?\""
+    },
+    {
+      "quote": 66,
+      "line": 4611,
+      "speaker": null,
+      "opening": "\"Not anymore,\""
+    },
+    {
+      "quote": 67,
+      "line": 4623,
+      "speaker": null,
+      "opening": "\"You spelled mine right.\""
+    },
+    {
+      "quote": 68,
+      "line": 4625,
+      "speaker": null,
+      "opening": "\"We value our lives,\""
+    },
+    {
+      "quote": 69,
+      "line": 4629,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 70,
+      "line": 4633,
+      "speaker": null,
+      "opening": "\"Too much?\""
+    },
+    {
+      "quote": 71,
+      "line": 4637,
+      "speaker": null,
+      "opening": "\"Not even close.\""
+    },
+    {
+      "quote": 72,
+      "line": 4651,
+      "speaker": null,
+      "opening": "\"Oh, these niggas not shooting my wedding.\""
+    },
+    {
+      "quote": 73,
+      "line": 4659,
+      "speaker": null,
+      "opening": "\"June is going to yell.\""
+    },
+    {
+      "quote": 74,
+      "line": 4661,
+      "speaker": null,
+      "opening": "\"Nigga, June loves me.\""
+    },
+    {
+      "quote": 75,
+      "line": 4663,
+      "speaker": null,
+      "opening": "\"Those two things are becoming closely related.\""
+    }
+  ]
+}

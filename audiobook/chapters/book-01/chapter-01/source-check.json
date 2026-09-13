@@ -1,0 +1,34 @@
+{
+  "status": "PASS: script matches the source excerpt verbatim",
+  "segments": 272,
+  "spoken_words": 2218,
+  "speakers": [
+    "AIDEN",
+    "COOK",
+    "CORPSE_PERFORMER",
+    "DRUMMER",
+    "GUEST",
+    "GUEST_AISLE_MAN",
+    "GUEST_AISLE_WOMAN",
+    "GUEST_DANCE_WOMAN",
+    "GUEST_TABLE_WOMAN",
+    "MERCEDES",
+    "SHAWNA",
+    "SILAS",
+    "SILAS_SMALL_MAN",
+    "SOUND_TECH",
+    "TANK",
+    "TICKET"
+  ],
+  "commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "repository_path": "editions/niggatorial-tellings/books/book-01.md",
+  "source_lines": [
+    5,
+    565
+  ],
+  "source_sha256": "e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98",
+  "excerpt_sha256": "b501ff92fe8a90509dac146f966244094575e42b772fa08273d2f6b4e656a2cb",
+  "script_sha256": "62f6d91df6b8d9e4a0b9d9ca13676e34f19fdde9aa05702a97552c9802a0567c",
+  "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
+  "audio_listening_verified": false
+}

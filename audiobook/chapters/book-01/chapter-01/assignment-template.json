@@ -1,0 +1,805 @@
+{
+  "chapter_id": "b01-c01",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 133,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5,
+      "speaker": null,
+      "opening": "“Nigga, it’s my motherfucking funeral.”"
+    },
+    {
+      "quote": 2,
+      "line": 9,
+      "speaker": null,
+      "opening": "“Forty dollars.”"
+    },
+    {
+      "quote": 3,
+      "line": 11,
+      "speaker": null,
+      "opening": "“I’m Aiden.”"
+    },
+    {
+      "quote": 4,
+      "line": 15,
+      "speaker": null,
+      "opening": "“You look better in the picture.”"
+    },
+    {
+      "quote": 5,
+      "line": 17,
+      "speaker": null,
+      "opening": "“Nigga, I’m alive.”"
+    },
+    {
+      "quote": 6,
+      "line": 19,
+      "speaker": null,
+      "opening": "“Then you can pay.”"
+    },
+    {
+      "quote": 7,
+      "line": 27,
+      "speaker": null,
+      "opening": "“Why there a cover charge at my funeral?”"
+    },
+    {
+      "quote": 8,
+      "line": 29,
+      "speaker": null,
+      "opening": "“The shrimp was expensive.”"
+    },
+    {
+      "quote": 9,
+      "line": 31,
+      "speaker": null,
+      "opening": "“Why do I have shrimp?”"
+    },
+    {
+      "quote": 10,
+      "line": 33,
+      "speaker": null,
+      "opening": "“You died successful.”"
+    },
+    {
+      "quote": 11,
+      "line": 37,
+      "speaker": null,
+      "opening": "“Nigga, are you eating?”"
+    },
+    {
+      "quote": 12,
+      "line": 39,
+      "speaker": null,
+      "opening": "“Grieving.”"
+    },
+    {
+      "quote": 13,
+      "line": 43,
+      "speaker": null,
+      "opening": "“That gets you one well drink.”"
+    },
+    {
+      "quote": 14,
+      "line": 45,
+      "speaker": null,
+      "opening": "“One? Nigga, the sign says two-drink minimum.”"
+    },
+    {
+      "quote": 15,
+      "line": 47,
+      "speaker": null,
+      "opening": "“Second one’s your responsibility.”"
+    },
+    {
+      "quote": 16,
+      "line": 51,
+      "speaker": null,
+      "opening": "“Hold up. Ain’t that the deceased?”"
+    },
+    {
+      "quote": 17,
+      "line": 55,
+      "speaker": null,
+      "opening": "“Paid deceased.”"
+    },
+    {
+      "quote": 18,
+      "line": 59,
+      "speaker": null,
+      "opening": "“Can I get a picture?”"
+    },
+    {
+      "quote": 19,
+      "line": 61,
+      "speaker": null,
+      "opening": "“Of me alive?”"
+    },
+    {
+      "quote": 20,
+      "line": 63,
+      "speaker": null,
+      "opening": "“People gonna think I knew you personally.”"
+    },
+    {
+      "quote": 21,
+      "line": 65,
+      "speaker": null,
+      "opening": "“Nigga, you meeting me personally.”"
+    },
+    {
+      "quote": 22,
+      "line": 67,
+      "speaker": null,
+      "opening": "“Yeah, but the funeral picture hit different.”"
+    },
+    {
+      "quote": 23,
+      "line": 75,
+      "speaker": null,
+      "opening": "“Why this say I’m survived by eleven children?”"
+    },
+    {
+      "quote": 24,
+      "line": 77,
+      "speaker": null,
+      "opening": "“Those are sponsors.”"
+    },
+    {
+      "quote": 25,
+      "line": 79,
+      "speaker": null,
+      "opening": "“Nigga, one of them’s Jeremiah.”"
+    },
+    {
+      "quote": 26,
+      "line": 81,
+      "speaker": null,
+      "opening": "“Jeremiah’s Collision Repair.”"
+    },
+    {
+      "quote": 27,
+      "line": 85,
+      "speaker": null,
+      "opening": "“You enjoying widowhood?”"
+    },
+    {
+      "quote": 28,
+      "line": 87,
+      "speaker": null,
+      "opening": "“The parking is excellent.”"
+    },
+    {
+      "quote": 29,
+      "line": 91,
+      "speaker": null,
+      "opening": "“Eight minutes. Kitchen. Stay there until we get"
+    },
+    {
+      "quote": 30,
+      "line": 93,
+      "speaker": null,
+      "opening": "“Nigga, I could take it right now.”"
+    },
+    {
+      "quote": 31,
+      "line": 95,
+      "speaker": null,
+      "opening": "“And Silas’s men could start shooting into everybody"
+    },
+    {
+      "quote": 32,
+      "line": 97,
+      "speaker": null,
+      "opening": "“Apparently excellent shrimp.”"
+    },
+    {
+      "quote": 33,
+      "line": 99,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 34,
+      "line": 115,
+      "speaker": null,
+      "opening": "“Nigga, don’t do the thing.”"
+    },
+    {
+      "quote": 35,
+      "line": 117,
+      "speaker": null,
+      "opening": "“Which thing?”"
+    },
+    {
+      "quote": 36,
+      "line": 121,
+      "speaker": null,
+      "opening": "“The thing where this becomes about you.”"
+    },
+    {
+      "quote": 37,
+      "line": 123,
+      "speaker": null,
+      "opening": "“My photograph is six feet tall.”"
+    },
+    {
+      "quote": 38,
+      "line": 125,
+      "speaker": null,
+      "opening": "“Exactly. The nigga has enough publicity.”"
+    },
+    {
+      "quote": 39,
+      "line": 129,
+      "speaker": null,
+      "opening": "“You’ll get your music.”"
+    },
+    {
+      "quote": 40,
+      "line": 131,
+      "speaker": null,
+      "opening": "“I know. I want to enjoy getting it.”"
+    },
+    {
+      "quote": 41,
+      "line": 137,
+      "speaker": null,
+      "opening": "“Kitchen.”"
+    },
+    {
+      "quote": 42,
+      "line": 139,
+      "speaker": null,
+      "opening": "“Nigga, y’all got one word for me tonight.”"
+    },
+    {
+      "quote": 43,
+      "line": 149,
+      "speaker": null,
+      "opening": "“We gathered here because my brother would want"
+    },
+    {
+      "quote": 44,
+      "line": 153,
+      "speaker": null,
+      "opening": "“Aiden was generous. Nigga gave me the shirt"
+    },
+    {
+      "quote": 45,
+      "line": 157,
+      "speaker": null,
+      "opening": "“Police was looking for a man in a"
+    },
+    {
+      "quote": 46,
+      "line": 165,
+      "speaker": null,
+      "opening": "“But my nigga came back,”"
+    },
+    {
+      "quote": 47,
+      "line": 169,
+      "speaker": null,
+      "opening": "“Came to the station. Told them I hadn’t"
+    },
+    {
+      "quote": 48,
+      "line": 175,
+      "speaker": null,
+      "opening": "“Then the nigga asked for his shirt.”"
+    },
+    {
+      "quote": 49,
+      "line": 185,
+      "speaker": null,
+      "opening": "“Miss the good part?”"
+    },
+    {
+      "quote": 50,
+      "line": 189,
+      "speaker": null,
+      "opening": "“Depends how this speech goes.”"
+    },
+    {
+      "quote": 51,
+      "line": 195,
+      "speaker": null,
+      "opening": "“The recordings.”"
+    },
+    {
+      "quote": 52,
+      "line": 197,
+      "speaker": null,
+      "opening": "“After my tribute.”"
+    },
+    {
+      "quote": 53,
+      "line": 199,
+      "speaker": null,
+      "opening": "“Mercedes inspects them first. We agreed.”"
+    },
+    {
+      "quote": 54,
+      "line": 201,
+      "speaker": null,
+      "opening": "“Darling, look at the crowd. Can’t buy timing.”"
+    },
+    {
+      "quote": 55,
+      "line": 215,
+      "speaker": null,
+      "opening": "“You got somewhere to be?”"
+    },
+    {
+      "quote": 56,
+      "line": 217,
+      "speaker": null,
+      "opening": "“Nigga, eventually.”"
+    },
+    {
+      "quote": 57,
+      "line": 221,
+      "speaker": null,
+      "opening": "“Aiden and I had differences.”"
+    },
+    {
+      "quote": 58,
+      "line": 225,
+      "speaker": null,
+      "opening": "“But he was a man of appetite.”"
+    },
+    {
+      "quote": 59,
+      "line": 229,
+      "speaker": null,
+      "opening": "“Appetite leaves things unfinished. People unprovided for. I"
+    },
+    {
+      "quote": 60,
+      "line": 231,
+      "speaker": null,
+      "opening": "“Then don’t.”"
+    },
+    {
+      "quote": 61,
+      "line": 235,
+      "speaker": null,
+      "opening": "“That nigga got instructions!”"
+    },
+    {
+      "quote": 62,
+      "line": 239,
+      "speaker": null,
+      "opening": "“Mercedes. Up here.”"
+    },
+    {
+      "quote": 63,
+      "line": 245,
+      "speaker": null,
+      "opening": "“Perhaps our little lady could sing a tribute."
+    },
+    {
+      "quote": 64,
+      "line": 249,
+      "speaker": null,
+      "opening": "“You promised an inspection.”"
+    },
+    {
+      "quote": 65,
+      "line": 251,
+      "speaker": null,
+      "opening": "“Sing first.”"
+    },
+    {
+      "quote": 66,
+      "line": 257,
+      "speaker": null,
+      "opening": "“Ask nicely.”"
+    },
+    {
+      "quote": 67,
+      "line": 263,
+      "speaker": null,
+      "opening": "“Nigga, you want me to hold that?”"
+    },
+    {
+      "quote": 68,
+      "line": 265,
+      "speaker": null,
+      "opening": "“Please.”"
+    },
+    {
+      "quote": 69,
+      "line": 267,
+      "speaker": null,
+      "opening": "“You coming back?”"
+    },
+    {
+      "quote": 70,
+      "line": 271,
+      "speaker": null,
+      "opening": "“Apparently I do.”"
+    },
+    {
+      "quote": 71,
+      "line": 283,
+      "speaker": null,
+      "opening": "“Lord.”"
+    },
+    {
+      "quote": 72,
+      "line": 287,
+      "speaker": null,
+      "opening": "“Don't do that,”"
+    },
+    {
+      "quote": 73,
+      "line": 287,
+      "speaker": null,
+      "opening": "“He got shrimp.”"
+    },
+    {
+      "quote": 74,
+      "line": 289,
+      "speaker": null,
+      "opening": "“Could still be spiritual.”"
+    },
+    {
+      "quote": 75,
+      "line": 291,
+      "speaker": null,
+      "opening": "“Nigga, move your chair.”"
+    },
+    {
+      "quote": 76,
+      "line": 299,
+      "speaker": null,
+      "opening": "“Shrimp?”"
+    },
+    {
+      "quote": 77,
+      "line": 303,
+      "speaker": null,
+      "opening": "“Sauce?”"
+    },
+    {
+      "quote": 78,
+      "line": 307,
+      "speaker": null,
+      "opening": "“Help yourself, my nigga.”"
+    },
+    {
+      "quote": 79,
+      "line": 315,
+      "speaker": null,
+      "opening": "“You—”"
+    },
+    {
+      "quote": 80,
+      "line": 317,
+      "speaker": null,
+      "opening": "“Nigga, it’s my motherfucking funeral.”"
+    },
+    {
+      "quote": 81,
+      "line": 325,
+      "speaker": null,
+      "opening": "“Nigga, everybody else brought flowers!”"
+    },
+    {
+      "quote": 82,
+      "line": 329,
+      "speaker": null,
+      "opening": "“Motherfucker.”"
+    },
+    {
+      "quote": 83,
+      "line": 335,
+      "speaker": null,
+      "opening": "“Got it!”"
+    },
+    {
+      "quote": 84,
+      "line": 345,
+      "speaker": null,
+      "opening": "“Stay,”"
+    },
+    {
+      "quote": 85,
+      "line": 357,
+      "speaker": null,
+      "opening": "“Nigga, that’s vintage.”"
+    },
+    {
+      "quote": 86,
+      "line": 369,
+      "speaker": null,
+      "opening": "“Shit.”"
+    },
+    {
+      "quote": 87,
+      "line": 375,
+      "speaker": null,
+      "opening": "“NIGGA, I TOLD YOU NINE-FIFTEEN!”"
+    },
+    {
+      "quote": 88,
+      "line": 381,
+      "speaker": null,
+      "opening": "“You hired a corpse?”"
+    },
+    {
+      "quote": 89,
+      "line": 383,
+      "speaker": null,
+      "opening": "“Resurrection package.”"
+    },
+    {
+      "quote": 90,
+      "line": 385,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 91,
+      "line": 387,
+      "speaker": null,
+      "opening": "“It included the dance.”"
+    },
+    {
+      "quote": 92,
+      "line": 391,
+      "speaker": null,
+      "opening": "“And fog.”"
+    },
+    {
+      "quote": 93,
+      "line": 395,
+      "speaker": null,
+      "opening": "“Nigga, we got atmosphere.”"
+    },
+    {
+      "quote": 94,
+      "line": 397,
+      "speaker": null,
+      "opening": "“That’s ceiling.”"
+    },
+    {
+      "quote": 95,
+      "line": 399,
+      "speaker": null,
+      "opening": "“Nigga, work with the venue.”"
+    },
+    {
+      "quote": 96,
+      "line": 403,
+      "speaker": null,
+      "opening": "“I do the surprise. I do the dance."
+    },
+    {
+      "quote": 97,
+      "line": 407,
+      "speaker": null,
+      "opening": "“Sit your ass down. The nigga hasn’t danced.”"
+    },
+    {
+      "quote": 98,
+      "line": 413,
+      "speaker": null,
+      "opening": "“I’m with catering.”"
+    },
+    {
+      "quote": 99,
+      "line": 415,
+      "speaker": null,
+      "opening": "“No the fuck you are not.”"
+    },
+    {
+      "quote": 100,
+      "line": 423,
+      "speaker": null,
+      "opening": "“Stop touching my face.”"
+    },
+    {
+      "quote": 101,
+      "line": 425,
+      "speaker": null,
+      "opening": "“Stop being in my office, nigga.”"
+    },
+    {
+      "quote": 102,
+      "line": 437,
+      "speaker": null,
+      "opening": "“All here.”"
+    },
+    {
+      "quote": 103,
+      "line": 441,
+      "speaker": null,
+      "opening": "“Then play one, my nigga.”"
+    },
+    {
+      "quote": 104,
+      "line": 449,
+      "speaker": null,
+      "opening": "“You good?”"
+    },
+    {
+      "quote": 105,
+      "line": 451,
+      "speaker": null,
+      "opening": "“You doing something slow?”"
+    },
+    {
+      "quote": 106,
+      "line": 453,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 107,
+      "line": 457,
+      "speaker": null,
+      "opening": "“Then yeah.”"
+    },
+    {
+      "quote": 108,
+      "line": 463,
+      "speaker": null,
+      "opening": "“Turn that nigga around. I need the room.”"
+    },
+    {
+      "quote": 109,
+      "line": 471,
+      "speaker": null,
+      "opening": "“Get off!”"
+    },
+    {
+      "quote": 110,
+      "line": 473,
+      "speaker": null,
+      "opening": "“Nine-fifteen, bitch!”"
+    },
+    {
+      "quote": 111,
+      "line": 477,
+      "speaker": null,
+      "opening": "“That nigga earned his deposit!”"
+    },
+    {
+      "quote": 112,
+      "line": 481,
+      "speaker": null,
+      "opening": "“Nigga, I’m working.”"
+    },
+    {
+      "quote": 113,
+      "line": 483,
+      "speaker": null,
+      "opening": "“Not anymore.”"
+    },
+    {
+      "quote": 114,
+      "line": 487,
+      "speaker": null,
+      "opening": "“You’re bleeding.”"
+    },
+    {
+      "quote": 115,
+      "line": 489,
+      "speaker": null,
+      "opening": "“Little bit.”"
+    },
+    {
+      "quote": 116,
+      "line": 493,
+      "speaker": null,
+      "opening": "“We’ll get it looked at.”"
+    },
+    {
+      "quote": 117,
+      "line": 495,
+      "speaker": null,
+      "opening": "“After the song.”"
+    },
+    {
+      "quote": 118,
+      "line": 503,
+      "speaker": null,
+      "opening": "“Eleven sponsors is a lot of mouths to"
+    },
+    {
+      "quote": 119,
+      "line": 509,
+      "speaker": null,
+      "opening": "“Sixty dollars.”"
+    },
+    {
+      "quote": 120,
+      "line": 513,
+      "speaker": null,
+      "opening": "“Nigga, it was forty!”"
+    },
+    {
+      "quote": 121,
+      "line": 517,
+      "speaker": null,
+      "opening": "“Live show now.”"
+    },
+    {
+      "quote": 122,
+      "line": 525,
+      "speaker": null,
+      "opening": "“Can I ask something?”"
+    },
+    {
+      "quote": 123,
+      "line": 527,
+      "speaker": null,
+      "opening": "“Nigga, apparently you can charge for it.”"
+    },
+    {
+      "quote": 124,
+      "line": 529,
+      "speaker": null,
+      "opening": "“How’d you two meet?”"
+    },
+    {
+      "quote": 125,
+      "line": 533,
+      "speaker": null,
+      "opening": "“Let me tell it,”"
+    },
+    {
+      "quote": 126,
+      "line": 535,
+      "speaker": null,
+      "opening": "“Baby, I was there.”"
+    },
+    {
+      "quote": 127,
+      "line": 537,
+      "speaker": null,
+      "opening": "“So was I. One of us remembers who"
+    },
+    {
+      "quote": 128,
+      "line": 541,
+      "speaker": null,
+      "opening": "“Somebody get this nigga a plate,”"
+    },
+    {
+      "quote": 129,
+      "line": 543,
+      "speaker": null,
+      "opening": "“I'm on the clock.”"
+    },
+    {
+      "quote": 130,
+      "line": 545,
+      "speaker": null,
+      "opening": "“So am I. I organized a death.”"
+    },
+    {
+      "quote": 131,
+      "line": 553,
+      "speaker": null,
+      "opening": "“First night in Vegas. You want the whole"
+    },
+    {
+      "quote": 132,
+      "line": 559,
+      "speaker": null,
+      "opening": "“Start before you became reasonable.”"
+    },
+    {
+      "quote": 133,
+      "line": 561,
+      "speaker": null,
+      "opening": "“Nigga, we still waiting on that chapter.”"
+    }
+  ]
+}

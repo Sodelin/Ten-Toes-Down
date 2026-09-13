@@ -1,0 +1,523 @@
+{
+  "chapter_id": "b03-c11",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 86,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4385,
+      "speaker": null,
+      "opening": "“Nigga, I'm not putting my name on somebody"
+    },
+    {
+      "quote": 2,
+      "line": 4389,
+      "speaker": null,
+      "opening": "“You understand that's another nigga's name too?”"
+    },
+    {
+      "quote": 3,
+      "line": 4391,
+      "speaker": null,
+      "opening": "“Not mine. That's the distinction.”"
+    },
+    {
+      "quote": 4,
+      "line": 4395,
+      "speaker": null,
+      "opening": "“She been waiting all week to say distinction.”"
+    },
+    {
+      "quote": 5,
+      "line": 4397,
+      "speaker": null,
+      "opening": "“And used it perfectly.”"
+    },
+    {
+      "quote": 6,
+      "line": 4413,
+      "speaker": null,
+      "opening": "“Brake, nigga.”"
+    },
+    {
+      "quote": 7,
+      "line": 4415,
+      "speaker": null,
+      "opening": "“I am braking.”"
+    },
+    {
+      "quote": 8,
+      "line": 4417,
+      "speaker": null,
+      "opening": "“With your foot. Your opinion ain't connected to"
+    },
+    {
+      "quote": 9,
+      "line": 4421,
+      "speaker": null,
+      "opening": "“Heard that,”"
+    },
+    {
+      "quote": 10,
+      "line": 4423,
+      "speaker": null,
+      "opening": "“Nigga, hear the lap time.”"
+    },
+    {
+      "quote": 11,
+      "line": 4431,
+      "speaker": null,
+      "opening": "“You ready?”"
+    },
+    {
+      "quote": 12,
+      "line": 4433,
+      "speaker": null,
+      "opening": "“For this lap, yes. I make no promises"
+    },
+    {
+      "quote": 13,
+      "line": 4443,
+      "speaker": null,
+      "opening": "“You can cancel that, baby. Everybody knows you"
+    },
+    {
+      "quote": 14,
+      "line": 4447,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 15,
+      "line": 4449,
+      "speaker": null,
+      "opening": "“Don't.”"
+    },
+    {
+      "quote": 16,
+      "line": 4451,
+      "speaker": null,
+      "opening": "“The cone got a better seat than Rosa.”"
+    },
+    {
+      "quote": 17,
+      "line": 4453,
+      "speaker": null,
+      "opening": "“Nigga, I said don't.”"
+    },
+    {
+      "quote": 18,
+      "line": 4455,
+      "speaker": null,
+      "opening": "“You gonna carry that passenger in the actual"
+    },
+    {
+      "quote": 19,
+      "line": 4457,
+      "speaker": null,
+      "opening": "“Show me.”"
+    },
+    {
+      "quote": 20,
+      "line": 4463,
+      "speaker": null,
+      "opening": "“Move your great ass.”"
+    },
+    {
+      "quote": 21,
+      "line": 4465,
+      "speaker": null,
+      "opening": "“That's Instructor Great Ass.”"
+    },
+    {
+      "quote": 22,
+      "line": 4467,
+      "speaker": null,
+      "opening": "“Nigga, move it respectfully.”"
+    },
+    {
+      "quote": 23,
+      "line": 4471,
+      "speaker": null,
+      "opening": "“You should teach.”"
+    },
+    {
+      "quote": 24,
+      "line": 4473,
+      "speaker": null,
+      "opening": "“I already graduated.”"
+    },
+    {
+      "quote": 25,
+      "line": 4475,
+      "speaker": null,
+      "opening": "“That ain't the same thing.”"
+    },
+    {
+      "quote": 26,
+      "line": 4477,
+      "speaker": null,
+      "opening": "“Nigga, it was when I did it.”"
+    },
+    {
+      "quote": 27,
+      "line": 4481,
+      "speaker": null,
+      "opening": "“Y'all niggas stay right there.”"
+    },
+    {
+      "quote": 28,
+      "line": 4485,
+      "speaker": null,
+      "opening": "\"Nigga, you found the road.\""
+    },
+    {
+      "quote": 29,
+      "line": 4487,
+      "speaker": null,
+      "opening": "\"Road found me,\""
+    },
+    {
+      "quote": 30,
+      "line": 4489,
+      "speaker": null,
+      "opening": "\"That nigga still got a cone under the"
+    },
+    {
+      "quote": 31,
+      "line": 4497,
+      "speaker": null,
+      "opening": "\"Niggas,\""
+    },
+    {
+      "quote": 32,
+      "line": 4497,
+      "speaker": null,
+      "opening": "\"that's psychological interference.\""
+    },
+    {
+      "quote": 33,
+      "line": 4499,
+      "speaker": null,
+      "opening": "\"This nigga learned a phrase,\""
+    },
+    {
+      "quote": 34,
+      "line": 4501,
+      "speaker": null,
+      "opening": "\"From your wife.\""
+    },
+    {
+      "quote": 35,
+      "line": 4503,
+      "speaker": null,
+      "opening": "\"I said stop interfering with the cones. He"
+    },
+    {
+      "quote": 36,
+      "line": 4505,
+      "speaker": null,
+      "opening": "\"That's my educated nigga.\""
+    },
+    {
+      "quote": 37,
+      "line": 4533,
+      "speaker": null,
+      "opening": "“Nigga, she driving.”"
+    },
+    {
+      "quote": 38,
+      "line": 4535,
+      "speaker": null,
+      "opening": "“She said she would.”"
+    },
+    {
+      "quote": 39,
+      "line": 4537,
+      "speaker": null,
+      "opening": "“Nigga, she driving like she mad at the"
+    },
+    {
+      "quote": 40,
+      "line": 4543,
+      "speaker": null,
+      "opening": "“We first, motherfuckers.”"
+    },
+    {
+      "quote": 41,
+      "line": 4551,
+      "speaker": null,
+      "opening": "“Don't embarrass the ladies.”"
+    },
+    {
+      "quote": 42,
+      "line": 4553,
+      "speaker": null,
+      "opening": "“Nigga, watch me.”"
+    },
+    {
+      "quote": 43,
+      "line": 4561,
+      "speaker": null,
+      "opening": "“That's it. That's it, baby.”"
+    },
+    {
+      "quote": 44,
+      "line": 4565,
+      "speaker": null,
+      "opening": "“Nigga, I can do this.”"
+    },
+    {
+      "quote": 45,
+      "line": 4569,
+      "speaker": null,
+      "opening": "“You doing it.”"
+    },
+    {
+      "quote": 46,
+      "line": 4577,
+      "speaker": null,
+      "opening": "“Nigga, talk.”"
+    },
+    {
+      "quote": 47,
+      "line": 4581,
+      "speaker": null,
+      "opening": "“I'm here.”"
+    },
+    {
+      "quote": 48,
+      "line": 4583,
+      "speaker": null,
+      "opening": "“Keep coming.”"
+    },
+    {
+      "quote": 49,
+      "line": 4585,
+      "speaker": null,
+      "opening": "“Something in the road.”"
+    },
+    {
+      "quote": 50,
+      "line": 4601,
+      "speaker": null,
+      "opening": "“Aiden,”"
+    },
+    {
+      "quote": 51,
+      "line": 4603,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 52,
+      "line": 4615,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 53,
+      "line": 4615,
+      "speaker": null,
+      "opening": "“bad direction.”"
+    },
+    {
+      "quote": 54,
+      "line": 4621,
+      "speaker": null,
+      "opening": "“Where you going?”"
+    },
+    {
+      "quote": 55,
+      "line": 4627,
+      "speaker": null,
+      "opening": "“Nigga, now you going up.”"
+    },
+    {
+      "quote": 56,
+      "line": 4633,
+      "speaker": null,
+      "opening": "“Rosa good?”"
+    },
+    {
+      "quote": 57,
+      "line": 4635,
+      "speaker": null,
+      "opening": "“She good.”"
+    },
+    {
+      "quote": 58,
+      "line": 4637,
+      "speaker": null,
+      "opening": "“My car ain't.”"
+    },
+    {
+      "quote": 59,
+      "line": 4643,
+      "speaker": null,
+      "opening": "“I got this far.”"
+    },
+    {
+      "quote": 60,
+      "line": 4647,
+      "speaker": null,
+      "opening": "“Nigga, that's far enough. Get your woman.”"
+    },
+    {
+      "quote": 61,
+      "line": 4655,
+      "speaker": null,
+      "opening": "“Captain Aiden has entered the second leg without"
+    },
+    {
+      "quote": 62,
+      "line": 4659,
+      "speaker": null,
+      "opening": "“The changeover occurred at the disabled vehicle. I"
+    },
+    {
+      "quote": 63,
+      "line": 4663,
+      "speaker": null,
+      "opening": "“That isn't the designated—”"
+    },
+    {
+      "quote": 64,
+      "line": 4665,
+      "speaker": null,
+      "opening": "“I am designating it.”"
+    },
+    {
+      "quote": 65,
+      "line": 4679,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 66,
+      "line": 4681,
+      "speaker": null,
+      "opening": "“I'd rather watch you.”"
+    },
+    {
+      "quote": 67,
+      "line": 4683,
+      "speaker": null,
+      "opening": "“Nigga, that costs extra.”"
+    },
+    {
+      "quote": 68,
+      "line": 4685,
+      "speaker": null,
+      "opening": "“I paid in years of my life at"
+    },
+    {
+      "quote": 69,
+      "line": 4691,
+      "speaker": null,
+      "opening": "“You stopped again?”"
+    },
+    {
+      "quote": 70,
+      "line": 4693,
+      "speaker": null,
+      "opening": "“Nigga, y'all keep needing things!”"
+    },
+    {
+      "quote": 71,
+      "line": 4707,
+      "speaker": null,
+      "opening": "“We won?”"
+    },
+    {
+      "quote": 72,
+      "line": 4711,
+      "speaker": null,
+      "opening": "“Nigga, we won.”"
+    },
+    {
+      "quote": 73,
+      "line": 4717,
+      "speaker": null,
+      "opening": "“Put it in writing!”"
+    },
+    {
+      "quote": 74,
+      "line": 4721,
+      "speaker": null,
+      "opening": "“You did good,”"
+    },
+    {
+      "quote": 75,
+      "line": 4725,
+      "speaker": null,
+      "opening": "“You had to come get me.”"
+    },
+    {
+      "quote": 76,
+      "line": 4727,
+      "speaker": null,
+      "opening": "“Nigga, you got Rosa out. You kept the"
+    },
+    {
+      "quote": 77,
+      "line": 4733,
+      "speaker": null,
+      "opening": "“My brother,”"
+    },
+    {
+      "quote": 78,
+      "line": 4735,
+      "speaker": null,
+      "opening": "“Always.”"
+    },
+    {
+      "quote": 79,
+      "line": 4741,
+      "speaker": null,
+      "opening": "“You collect people, Captain.”"
+    },
+    {
+      "quote": 80,
+      "line": 4747,
+      "speaker": null,
+      "opening": "“They collect me.”"
+    },
+    {
+      "quote": 81,
+      "line": 4749,
+      "speaker": null,
+      "opening": "“An expensive habit.”"
+    },
+    {
+      "quote": 82,
+      "line": 4751,
+      "speaker": null,
+      "opening": "“Nigga, I'm rich.”"
+    },
+    {
+      "quote": 83,
+      "line": 4755,
+      "speaker": null,
+      "opening": "“So I see.”"
+    },
+    {
+      "quote": 84,
+      "line": 4761,
+      "speaker": null,
+      "opening": "“Tomorrow,”"
+    },
+    {
+      "quote": 85,
+      "line": 4761,
+      "speaker": null,
+      "opening": "“we go see my opera house.”"
+    },
+    {
+      "quote": 86,
+      "line": 4765,
+      "speaker": null,
+      "opening": "“Nigga, let's see what the duke keeps under"
+    }
+  ]
+}

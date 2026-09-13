@@ -1,0 +1,733 @@
+{
+  "chapter_id": "b01-c17",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 121,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 9762,
+      "speaker": null,
+      "opening": "\"I'm here for Shawna,\""
+    },
+    {
+      "quote": 2,
+      "line": 9764,
+      "speaker": null,
+      "opening": "\"Nigga, tell Shawna I'm doing better.\""
+    },
+    {
+      "quote": 3,
+      "line": 9766,
+      "speaker": null,
+      "opening": "\"Shut up.\""
+    },
+    {
+      "quote": 4,
+      "line": 9768,
+      "speaker": null,
+      "opening": "\"Tell Shawna you called me handsome.\""
+    },
+    {
+      "quote": 5,
+      "line": 9770,
+      "speaker": null,
+      "opening": "\"You were bleeding. I was keeping you interested.\""
+    },
+    {
+      "quote": 6,
+      "line": 9772,
+      "speaker": null,
+      "opening": "\"Nigga, write that down,\""
+    },
+    {
+      "quote": 7,
+      "line": 9772,
+      "speaker": null,
+      "opening": "\"She's interested.\""
+    },
+    {
+      "quote": 8,
+      "line": 9778,
+      "speaker": null,
+      "opening": "\"Nigga, you buying me a car or showing"
+    },
+    {
+      "quote": 9,
+      "line": 9780,
+      "speaker": null,
+      "opening": "\"Look out your fucking window.\""
+    },
+    {
+      "quote": 10,
+      "line": 9784,
+      "speaker": null,
+      "opening": "\"Two?\""
+    },
+    {
+      "quote": 11,
+      "line": 9786,
+      "speaker": null,
+      "opening": "\"One for whichever side of the hospital you"
+    },
+    {
+      "quote": 12,
+      "line": 9788,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 13,
+      "line": 9788,
+      "speaker": null,
+      "opening": "\"this nigga needs to learn to walk.\""
+    },
+    {
+      "quote": 14,
+      "line": 9790,
+      "speaker": null,
+      "opening": "\"That's why I put them outside.\""
+    },
+    {
+      "quote": 15,
+      "line": 9804,
+      "speaker": null,
+      "opening": "\"You buy that?\""
+    },
+    {
+      "quote": 16,
+      "line": 9806,
+      "speaker": null,
+      "opening": "\"Somebody sent it.\""
+    },
+    {
+      "quote": 17,
+      "line": 9808,
+      "speaker": null,
+      "opening": "\"Why?\""
+    },
+    {
+      "quote": 18,
+      "line": 9810,
+      "speaker": null,
+      "opening": "\"Because they know who you are.\""
+    },
+    {
+      "quote": 19,
+      "line": 9814,
+      "speaker": null,
+      "opening": "\"I don't know how to ride.\""
+    },
+    {
+      "quote": 20,
+      "line": 9816,
+      "speaker": null,
+      "opening": "\"Then we'll learn.\""
+    },
+    {
+      "quote": 21,
+      "line": 9838,
+      "speaker": null,
+      "opening": "\"You want me to put it away?\""
+    },
+    {
+      "quote": 22,
+      "line": 9848,
+      "speaker": null,
+      "opening": "\"No,\""
+    },
+    {
+      "quote": 23,
+      "line": 9852,
+      "speaker": null,
+      "opening": "\"Sometimes I miss him when I'm happy.\""
+    },
+    {
+      "quote": 24,
+      "line": 9856,
+      "speaker": null,
+      "opening": "\"With me?\""
+    },
+    {
+      "quote": 25,
+      "line": 9858,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 26,
+      "line": 9864,
+      "speaker": null,
+      "opening": "\"Because I wish he knew I wasn't hurting"
+    },
+    {
+      "quote": 27,
+      "line": 9870,
+      "speaker": null,
+      "opening": "\"I wish he knew somebody stayed.\""
+    },
+    {
+      "quote": 28,
+      "line": 9880,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 29,
+      "line": 9882,
+      "speaker": null,
+      "opening": "\"I mean it.\""
+    },
+    {
+      "quote": 30,
+      "line": 9884,
+      "speaker": null,
+      "opening": "\"You just bought me a house.\""
+    },
+    {
+      "quote": 31,
+      "line": 9886,
+      "speaker": null,
+      "opening": "\"I'll buy you another one.\""
+    },
+    {
+      "quote": 32,
+      "line": 9888,
+      "speaker": null,
+      "opening": "\"That's not what I'm saying.\""
+    },
+    {
+      "quote": 33,
+      "line": 9890,
+      "speaker": null,
+      "opening": "\"Then tell me what you're saying.\""
+    },
+    {
+      "quote": 34,
+      "line": 9894,
+      "speaker": null,
+      "opening": "\"You can't fix every bad thing that ever"
+    },
+    {
+      "quote": 35,
+      "line": 9896,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 36,
+      "line": 9898,
+      "speaker": null,
+      "opening": "\"You gonna be mad when you find that"
+    },
+    {
+      "quote": 37,
+      "line": 9902,
+      "speaker": null,
+      "opening": "\"I'm gonna be mad about a lot of"
+    },
+    {
+      "quote": 38,
+      "line": 9906,
+      "speaker": null,
+      "opening": "\"I'm asking you to marry me, baby. Bring"
+    },
+    {
+      "quote": 39,
+      "line": 9912,
+      "speaker": null,
+      "opening": "\"Yes,\""
+    },
+    {
+      "quote": 40,
+      "line": 9916,
+      "speaker": null,
+      "opening": "\"Say it again.\""
+    },
+    {
+      "quote": 41,
+      "line": 9918,
+      "speaker": null,
+      "opening": "\"Yes. I'll marry you.\""
+    },
+    {
+      "quote": 42,
+      "line": 9954,
+      "speaker": null,
+      "opening": "\"I will.\""
+    },
+    {
+      "quote": 43,
+      "line": 9958,
+      "speaker": null,
+      "opening": "\"I will.\""
+    },
+    {
+      "quote": 44,
+      "line": 9968,
+      "speaker": null,
+      "opening": "\"Nigga, I'm trying to eat.\""
+    },
+    {
+      "quote": 45,
+      "line": 9970,
+      "speaker": null,
+      "opening": "\"Then look at your plate,\""
+    },
+    {
+      "quote": 46,
+      "line": 9976,
+      "speaker": null,
+      "opening": "\"Nigga, you signed this like you made me,\""
+    },
+    {
+      "quote": 47,
+      "line": 9982,
+      "speaker": null,
+      "opening": "\"I know exactly where this goes.\""
+    },
+    {
+      "quote": 48,
+      "line": 9984,
+      "speaker": null,
+      "opening": "\"Over the bed?\""
+    },
+    {
+      "quote": 49,
+      "line": 9986,
+      "speaker": null,
+      "opening": "\"Over the fireplace. You already think enough of"
+    },
+    {
+      "quote": 50,
+      "line": 9992,
+      "speaker": null,
+      "opening": "\"One punch,\""
+    },
+    {
+      "quote": 51,
+      "line": 9992,
+      "speaker": null,
+      "opening": "\"Before I got comfortable.\""
+    },
+    {
+      "quote": 52,
+      "line": 9994,
+      "speaker": null,
+      "opening": "\"Rex, nigga, you weren't comfortable when you arrived.\""
+    },
+    {
+      "quote": 53,
+      "line": 9996,
+      "speaker": null,
+      "opening": "\"That's what I'm telling him. I never stood"
+    },
+    {
+      "quote": 54,
+      "line": 10000,
+      "speaker": null,
+      "opening": "\"Congratulations, Captain.\""
+    },
+    {
+      "quote": 55,
+      "line": 10002,
+      "speaker": null,
+      "opening": "\"See?\""
+    },
+    {
+      "quote": 56,
+      "line": 10002,
+      "speaker": null,
+      "opening": "\"Nigga learns fast.\""
+    },
+    {
+      "quote": 57,
+      "line": 10006,
+      "speaker": null,
+      "opening": "\"You jealous?\""
+    },
+    {
+      "quote": 58,
+      "line": 10008,
+      "speaker": null,
+      "opening": "\"Nigga, I have watched this man drive. I"
+    },
+    {
+      "quote": 59,
+      "line": 10014,
+      "speaker": null,
+      "opening": "\"This one floats.\""
+    },
+    {
+      "quote": 60,
+      "line": 10018,
+      "speaker": null,
+      "opening": "\"Baby, so did the first car for a"
+    },
+    {
+      "quote": 61,
+      "line": 10022,
+      "speaker": null,
+      "opening": "\"I wouldn't have missed any of it,\""
+    },
+    {
+      "quote": 62,
+      "line": 10036,
+      "speaker": null,
+      "opening": "\"There,\""
+    },
+    {
+      "quote": 63,
+      "line": 10038,
+      "speaker": null,
+      "opening": "\"Where?\""
+    },
+    {
+      "quote": 64,
+      "line": 10040,
+      "speaker": null,
+      "opening": "\"Don't turn back. Keep going.\""
+    },
+    {
+      "quote": 65,
+      "line": 10044,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 66,
+      "line": 10046,
+      "speaker": null,
+      "opening": "\"That's us.\""
+    },
+    {
+      "quote": 67,
+      "line": 10054,
+      "speaker": null,
+      "opening": "\"Nigga, you know how to dance.\""
+    },
+    {
+      "quote": 68,
+      "line": 10056,
+      "speaker": null,
+      "opening": "\"I know how to dance with you. Different"
+    },
+    {
+      "quote": 69,
+      "line": 10062,
+      "speaker": null,
+      "opening": "\"I don't dance,\""
+    },
+    {
+      "quote": 70,
+      "line": 10064,
+      "speaker": null,
+      "opening": "\"You do tonight.\""
+    },
+    {
+      "quote": 71,
+      "line": 10066,
+      "speaker": null,
+      "opening": "\"Rosa—\""
+    },
+    {
+      "quote": 72,
+      "line": 10068,
+      "speaker": null,
+      "opening": "\"Nigga, you got shot for these people. Survive"
+    },
+    {
+      "quote": 73,
+      "line": 10086,
+      "speaker": null,
+      "opening": "\"You missing the expensive part.\""
+    },
+    {
+      "quote": 74,
+      "line": 10088,
+      "speaker": null,
+      "opening": "\"No, baby.\""
+    },
+    {
+      "quote": 75,
+      "line": 10092,
+      "speaker": null,
+      "opening": "\"I'm looking right at him.\""
+    },
+    {
+      "quote": 76,
+      "line": 10129,
+      "speaker": null,
+      "opening": "\"How long you been there?\""
+    },
+    {
+      "quote": 77,
+      "line": 10131,
+      "speaker": null,
+      "opening": "\"Long enough.\""
+    },
+    {
+      "quote": 78,
+      "line": 10133,
+      "speaker": null,
+      "opening": "\"You like it?\""
+    },
+    {
+      "quote": 79,
+      "line": 10135,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 80,
+      "line": 10137,
+      "speaker": null,
+      "opening": "\"You always say that.\""
+    },
+    {
+      "quote": 81,
+      "line": 10139,
+      "speaker": null,
+      "opening": "\"I always mean it.\""
+    },
+    {
+      "quote": 82,
+      "line": 10147,
+      "speaker": null,
+      "opening": "\"Stay a minute,\""
+    },
+    {
+      "quote": 83,
+      "line": 10190,
+      "speaker": null,
+      "opening": "\"If that's another college, I'm taking the test.\""
+    },
+    {
+      "quote": 84,
+      "line": 10192,
+      "speaker": null,
+      "opening": "\"Nigga, start with the envelope.\""
+    },
+    {
+      "quote": 85,
+      "line": 10194,
+      "speaker": null,
+      "opening": "\"Sky High.\""
+    },
+    {
+      "quote": 86,
+      "line": 10196,
+      "speaker": null,
+      "opening": "\"Club?\""
+    },
+    {
+      "quote": 87,
+      "line": 10198,
+      "speaker": null,
+      "opening": "\"School.\""
+    },
+    {
+      "quote": 88,
+      "line": 10200,
+      "speaker": null,
+      "opening": "\"Nigga, I just graduated. They got a return"
+    },
+    {
+      "quote": 89,
+      "line": 10204,
+      "speaker": null,
+      "opening": "\"It's their honeymoon,\""
+    },
+    {
+      "quote": 90,
+      "line": 10206,
+      "speaker": null,
+      "opening": "\"I'm aware.\""
+    },
+    {
+      "quote": 91,
+      "line": 10208,
+      "speaker": null,
+      "opening": "\"Then why you have four bags?\""
+    },
+    {
+      "quote": 92,
+      "line": 10210,
+      "speaker": null,
+      "opening": "\"Because I'm aware it's their honeymoon. I need"
+    },
+    {
+      "quote": 93,
+      "line": 10214,
+      "speaker": null,
+      "opening": "\"Trouble?\""
+    },
+    {
+      "quote": 94,
+      "line": 10216,
+      "speaker": null,
+      "opening": "\"Education,\""
+    },
+    {
+      "quote": 95,
+      "line": 10218,
+      "speaker": null,
+      "opening": "\"Ah. Expensive trouble.\""
+    },
+    {
+      "quote": 96,
+      "line": 10226,
+      "speaker": null,
+      "opening": "\"Nigga, that's up.\""
+    },
+    {
+      "quote": 97,
+      "line": 10228,
+      "speaker": null,
+      "opening": "\"I see.\""
+    },
+    {
+      "quote": 98,
+      "line": 10230,
+      "speaker": null,
+      "opening": "\"No. That's UP up. Our school had steps."
+    },
+    {
+      "quote": 99,
+      "line": 10234,
+      "speaker": null,
+      "opening": "\"What's underneath it?\""
+    },
+    {
+      "quote": 100,
+      "line": 10236,
+      "speaker": null,
+      "opening": "\"A lawsuit if a nigga drops his keys,\""
+    },
+    {
+      "quote": 101,
+      "line": 10246,
+      "speaker": null,
+      "opening": "\"All of us?\""
+    },
+    {
+      "quote": 102,
+      "line": 10250,
+      "speaker": null,
+      "opening": "\"They got rooms?\""
+    },
+    {
+      "quote": 103,
+      "line": 10252,
+      "speaker": null,
+      "opening": "\"Whole residences,\""
+    },
+    {
+      "quote": 104,
+      "line": 10254,
+      "speaker": null,
+      "opening": "\"Piano?\""
+    },
+    {
+      "quote": 105,
+      "line": 10256,
+      "speaker": null,
+      "opening": "\"Conservatory.\""
+    },
+    {
+      "quote": 106,
+      "line": 10258,
+      "speaker": null,
+      "opening": "\"That's more piano?\""
+    },
+    {
+      "quote": 107,
+      "line": 10260,
+      "speaker": null,
+      "opening": "\"Yes, baby. More piano.\""
+    },
+    {
+      "quote": 108,
+      "line": 10262,
+      "speaker": null,
+      "opening": "\"Cars?\""
+    },
+    {
+      "quote": 109,
+      "line": 10268,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 110,
+      "line": 10268,
+      "speaker": null,
+      "opening": "\"they know you personally.\""
+    },
+    {
+      "quote": 111,
+      "line": 10274,
+      "speaker": null,
+      "opening": "\"Honeymoon first.\""
+    },
+    {
+      "quote": 112,
+      "line": 10276,
+      "speaker": null,
+      "opening": "\"Absolutely.\""
+    },
+    {
+      "quote": 113,
+      "line": 10278,
+      "speaker": null,
+      "opening": "\"A real honeymoon. With a bed. The bed"
+    },
+    {
+      "quote": 114,
+      "line": 10280,
+      "speaker": null,
+      "opening": "\"Whatever my wife wants.\""
+    },
+    {
+      "quote": 115,
+      "line": 10282,
+      "speaker": null,
+      "opening": "\"And when I say beach, I mean beach."
+    },
+    {
+      "quote": 116,
+      "line": 10284,
+      "speaker": null,
+      "opening": "\"Baby, if the sand tests well—\""
+    },
+    {
+      "quote": 117,
+      "line": 10292,
+      "speaker": null,
+      "opening": "\"You think you can be best in that"
+    },
+    {
+      "quote": 118,
+      "line": 10296,
+      "speaker": null,
+      "opening": "\"Tank.\""
+    },
+    {
+      "quote": 119,
+      "line": 10298,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 120,
+      "line": 10300,
+      "speaker": null,
+      "opening": "\"Those niggas invited me. They know.\""
+    },
+    {
+      "quote": 121,
+      "line": 10304,
+      "speaker": null,
+      "opening": "\"Get in, valedictorian. I'm driving before somebody gives"
+    }
+  ]
+}

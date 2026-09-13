@@ -1,0 +1,643 @@
+{
+  "chapter_id": "b05-c10",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 106,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4767,
+      "speaker": null,
+      "opening": "\"Your Highness,\""
+    },
+    {
+      "quote": 2,
+      "line": 4767,
+      "speaker": null,
+      "opening": "\"you planning to fight the omelet?\""
+    },
+    {
+      "quote": 3,
+      "line": 4769,
+      "speaker": null,
+      "opening": "\"It's ceremonial.\""
+    },
+    {
+      "quote": 4,
+      "line": 4771,
+      "speaker": null,
+      "opening": "\"Nigga, ceremony spilled my juice. Take it off.\""
+    },
+    {
+      "quote": 5,
+      "line": 4777,
+      "speaker": null,
+      "opening": "\"You heard the woman. Your nigga graduated breakfast"
+    },
+    {
+      "quote": 6,
+      "line": 4781,
+      "speaker": null,
+      "opening": "\"You been suffering for tradition all morning?\""
+    },
+    {
+      "quote": 7,
+      "line": 4783,
+      "speaker": null,
+      "opening": "\"I wanted to make the right impression.\""
+    },
+    {
+      "quote": 8,
+      "line": 4785,
+      "speaker": null,
+      "opening": "\"Baby, you already made one in the carpet.\""
+    },
+    {
+      "quote": 9,
+      "line": 4789,
+      "speaker": null,
+      "opening": "\"I came to invite you,\""
+    },
+    {
+      "quote": 10,
+      "line": 4791,
+      "speaker": null,
+      "opening": "\"One woman or the whole room?\""
+    },
+    {
+      "quote": 11,
+      "line": 4795,
+      "speaker": null,
+      "opening": "\"The whole room. To the harbor. My house"
+    },
+    {
+      "quote": 12,
+      "line": 4803,
+      "speaker": null,
+      "opening": "\"Nigga getting closer.\""
+    },
+    {
+      "quote": 13,
+      "line": 4807,
+      "speaker": null,
+      "opening": "\"What are we doing at the harbor?\""
+    },
+    {
+      "quote": 14,
+      "line": 4809,
+      "speaker": null,
+      "opening": "\"Teaching a prince to be useful,\""
+    },
+    {
+      "quote": 15,
+      "line": 4813,
+      "speaker": null,
+      "opening": "\"Take the car with the big trunk. Useful"
+    },
+    {
+      "quote": 16,
+      "line": 4823,
+      "speaker": null,
+      "opening": "\"That the family?\""
+    },
+    {
+      "quote": 17,
+      "line": 4825,
+      "speaker": null,
+      "opening": "\"My grandfather,\""
+    },
+    {
+      "quote": 18,
+      "line": 4827,
+      "speaker": null,
+      "opening": "\"He point all day?\""
+    },
+    {
+      "quote": 19,
+      "line": 4829,
+      "speaker": null,
+      "opening": "\"It symbolizes vision.\""
+    },
+    {
+      "quote": 20,
+      "line": 4831,
+      "speaker": null,
+      "opening": "\"Nigga could've symbolized helping with the bags.\""
+    },
+    {
+      "quote": 21,
+      "line": 4837,
+      "speaker": null,
+      "opening": "\"You carrying these.\""
+    },
+    {
+      "quote": 22,
+      "line": 4839,
+      "speaker": null,
+      "opening": "\"Of course.\""
+    },
+    {
+      "quote": 23,
+      "line": 4841,
+      "speaker": null,
+      "opening": "\"Look at that, Porsche. A nigga said of"
+    },
+    {
+      "quote": 24,
+      "line": 4847,
+      "speaker": null,
+      "opening": "\"Captain!\""
+    },
+    {
+      "quote": 25,
+      "line": 4851,
+      "speaker": null,
+      "opening": "\"Colette Vail,\""
+    },
+    {
+      "quote": 26,
+      "line": 4851,
+      "speaker": null,
+      "opening": "\"I run the boats when the men pretending"
+    },
+    {
+      "quote": 27,
+      "line": 4853,
+      "speaker": null,
+      "opening": "\"Then I came to see the right nigga.\""
+    },
+    {
+      "quote": 28,
+      "line": 4859,
+      "speaker": null,
+      "opening": "\"Madam Vail. I am sorry for the delay."
+    },
+    {
+      "quote": 29,
+      "line": 4865,
+      "speaker": null,
+      "opening": "\"I'm sorry you couldn't work. Where do these"
+    },
+    {
+      "quote": 30,
+      "line": 4871,
+      "speaker": null,
+      "opening": "\"Kitchen. Back there.\""
+    },
+    {
+      "quote": 31,
+      "line": 4877,
+      "speaker": null,
+      "opening": "\"Our boy.\""
+    },
+    {
+      "quote": 32,
+      "line": 4879,
+      "speaker": null,
+      "opening": "\"Don't get emotional,\""
+    },
+    {
+      "quote": 33,
+      "line": 4879,
+      "speaker": null,
+      "opening": "\"Nigga still got to find the kitchen.\""
+    },
+    {
+      "quote": 34,
+      "line": 4883,
+      "speaker": null,
+      "opening": "\"Captain,\""
+    },
+    {
+      "quote": 35,
+      "line": 4883,
+      "speaker": null,
+      "opening": "\"I was told there would be a ceremony.\""
+    },
+    {
+      "quote": 36,
+      "line": 4885,
+      "speaker": null,
+      "opening": "\"Nigga, there'll be several if these people keep"
+    },
+    {
+      "quote": 37,
+      "line": 4889,
+      "speaker": null,
+      "opening": "\"This may be the best public appearance his"
+    },
+    {
+      "quote": 38,
+      "line": 4891,
+      "speaker": null,
+      "opening": "\"Keep your voice down. We don't want the"
+    },
+    {
+      "quote": 39,
+      "line": 4909,
+      "speaker": null,
+      "opening": "\"Open day,\""
+    },
+    {
+      "quote": 40,
+      "line": 4909,
+      "speaker": null,
+      "opening": "\"You buying something?\""
+    },
+    {
+      "quote": 41,
+      "line": 4911,
+      "speaker": null,
+      "opening": "\"Lord Vex has business here.\""
+    },
+    {
+      "quote": 42,
+      "line": 4913,
+      "speaker": null,
+      "opening": "\"Then tell Lord Vex to use his fucking"
+    },
+    {
+      "quote": 43,
+      "line": 4919,
+      "speaker": null,
+      "opening": "\"This pier is under my protection.\""
+    },
+    {
+      "quote": 44,
+      "line": 4923,
+      "speaker": null,
+      "opening": "\"My house's debt was released yesterday.\""
+    },
+    {
+      "quote": 45,
+      "line": 4925,
+      "speaker": null,
+      "opening": "\"The debt. My protection remains.\""
+    },
+    {
+      "quote": 46,
+      "line": 4927,
+      "speaker": null,
+      "opening": "\"Nigga, you hear that?\""
+    },
+    {
+      "quote": 47,
+      "line": 4927,
+      "speaker": null,
+      "opening": "\"Paid off one problem, another nigga came with"
+    },
+    {
+      "quote": 48,
+      "line": 4933,
+      "speaker": null,
+      "opening": "\"Captain Aiden.\""
+    },
+    {
+      "quote": 49,
+      "line": 4935,
+      "speaker": null,
+      "opening": "\"Lord Oren Vex. Nigga, you spelled it big"
+    },
+    {
+      "quote": 50,
+      "line": 4939,
+      "speaker": null,
+      "opening": "\"This is a local matter.\""
+    },
+    {
+      "quote": 51,
+      "line": 4943,
+      "speaker": null,
+      "opening": "\"Then you should be pleased I am here.\""
+    },
+    {
+      "quote": 52,
+      "line": 4949,
+      "speaker": null,
+      "opening": "\"House Laurent owes harbor fees.\""
+    },
+    {
+      "quote": 53,
+      "line": 4953,
+      "speaker": null,
+      "opening": "\"What you signing?\""
+    },
+    {
+      "quote": 54,
+      "line": 4955,
+      "speaker": null,
+      "opening": "\"I was going to read it.\""
+    },
+    {
+      "quote": 55,
+      "line": 4957,
+      "speaker": null,
+      "opening": "\"Good. Nigga, keep that habit.\""
+    },
+    {
+      "quote": 56,
+      "line": 4961,
+      "speaker": null,
+      "opening": "\"This includes three years of charges after today.\""
+    },
+    {
+      "quote": 57,
+      "line": 4963,
+      "speaker": null,
+      "opening": "\"A guarantee.\""
+    },
+    {
+      "quote": 58,
+      "line": 4965,
+      "speaker": null,
+      "opening": "\"For work you haven't done.\""
+    },
+    {
+      "quote": 59,
+      "line": 4967,
+      "speaker": null,
+      "opening": "\"For work I will not have to do"
+    },
+    {
+      "quote": 60,
+      "line": 4971,
+      "speaker": null,
+      "opening": "\"Nigga threatens like he got a stomachache.\""
+    },
+    {
+      "quote": 61,
+      "line": 4979,
+      "speaker": null,
+      "opening": "\"That's my ferry.\""
+    },
+    {
+      "quote": 62,
+      "line": 4981,
+      "speaker": null,
+      "opening": "\"It is security,\""
+    },
+    {
+      "quote": 63,
+      "line": 4987,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 64,
+      "line": 4987,
+      "speaker": null,
+      "opening": "\"you brought guns to take a boat away"
+    },
+    {
+      "quote": 65,
+      "line": 4989,
+      "speaker": null,
+      "opening": "\"Stand aside.\""
+    },
+    {
+      "quote": 66,
+      "line": 4991,
+      "speaker": null,
+      "opening": "\"No. Try the next idea.\""
+    },
+    {
+      "quote": 67,
+      "line": 5009,
+      "speaker": null,
+      "opening": "\"Nigga, now's a good time to be royal"
+    },
+    {
+      "quote": 68,
+      "line": 5017,
+      "speaker": null,
+      "opening": "\"Boat,\""
+    },
+    {
+      "quote": 69,
+      "line": 5019,
+      "speaker": null,
+      "opening": "\"Which one?\""
+    },
+    {
+      "quote": 70,
+      "line": 5021,
+      "speaker": null,
+      "opening": "\"Any nigga's boat that loves us.\""
+    },
+    {
+      "quote": 71,
+      "line": 5025,
+      "speaker": null,
+      "opening": "\"That one loves speed more than people.\""
+    },
+    {
+      "quote": 72,
+      "line": 5027,
+      "speaker": null,
+      "opening": "\"Nigga, sounds like family.\""
+    },
+    {
+      "quote": 73,
+      "line": 5031,
+      "speaker": null,
+      "opening": "\"I know the ferry,\""
+    },
+    {
+      "quote": 74,
+      "line": 5033,
+      "speaker": null,
+      "opening": "\"You know how to hold on?\""
+    },
+    {
+      "quote": 75,
+      "line": 5037,
+      "speaker": null,
+      "opening": "\"I learned yesterday.\""
+    },
+    {
+      "quote": 76,
+      "line": 5061,
+      "speaker": null,
+      "opening": "\"I should go first. I know—\""
+    },
+    {
+      "quote": 77,
+      "line": 5063,
+      "speaker": null,
+      "opening": "\"Nigga, let the best man get up there"
+    },
+    {
+      "quote": 78,
+      "line": 5077,
+      "speaker": null,
+      "opening": "\"Wheelhouse. They're taking her straight into the barge.\""
+    },
+    {
+      "quote": 79,
+      "line": 5085,
+      "speaker": null,
+      "opening": "\"Your Highness?\""
+    },
+    {
+      "quote": 80,
+      "line": 5087,
+      "speaker": null,
+      "opening": "\"Later,\""
+    },
+    {
+      "quote": 81,
+      "line": 5087,
+      "speaker": null,
+      "opening": "\"Help me get the others below the rail.\""
+    },
+    {
+      "quote": 82,
+      "line": 5131,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 83,
+      "line": 5131,
+      "speaker": null,
+      "opening": "\"you welcome.\""
+    },
+    {
+      "quote": 84,
+      "line": 5135,
+      "speaker": null,
+      "opening": "\"You turned it.\""
+    },
+    {
+      "quote": 85,
+      "line": 5137,
+      "speaker": null,
+      "opening": "\"Nigga, you see straight water in front of"
+    },
+    {
+      "quote": 86,
+      "line": 5139,
+      "speaker": null,
+      "opening": "\"That boat takes three crew to turn in"
+    },
+    {
+      "quote": 87,
+      "line": 5141,
+      "speaker": null,
+      "opening": "\"Then your nigga saved two salaries.\""
+    },
+    {
+      "quote": 88,
+      "line": 5149,
+      "speaker": null,
+      "opening": "\"Sir.\""
+    },
+    {
+      "quote": 89,
+      "line": 5153,
+      "speaker": null,
+      "opening": "\"Nigga, put it back on. Your boat needs"
+    },
+    {
+      "quote": 90,
+      "line": 5161,
+      "speaker": null,
+      "opening": "\"Absolutely not.\""
+    },
+    {
+      "quote": 91,
+      "line": 5163,
+      "speaker": null,
+      "opening": "\"It's maritime,\""
+    },
+    {
+      "quote": 92,
+      "line": 5165,
+      "speaker": null,
+      "opening": "\"It's embarrassing. Take it off before the ocean"
+    },
+    {
+      "quote": 93,
+      "line": 5169,
+      "speaker": null,
+      "opening": "\"You scared me.\""
+    },
+    {
+      "quote": 94,
+      "line": 5171,
+      "speaker": null,
+      "opening": "\"Nigga scared himself a little.\""
+    },
+    {
+      "quote": 95,
+      "line": 5175,
+      "speaker": null,
+      "opening": "\"You admitting that?\""
+    },
+    {
+      "quote": 96,
+      "line": 5177,
+      "speaker": null,
+      "opening": "\"Only to the woman holding me.\""
+    },
+    {
+      "quote": 97,
+      "line": 5183,
+      "speaker": null,
+      "opening": "\"Your Highness had a morning.\""
+    },
+    {
+      "quote": 98,
+      "line": 5185,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 99,
+      "line": 5187,
+      "speaker": null,
+      "opening": "\"You enjoy being useful?\""
+    },
+    {
+      "quote": 100,
+      "line": 5191,
+      "speaker": null,
+      "opening": "\"More than being introduced.\""
+    },
+    {
+      "quote": 101,
+      "line": 5195,
+      "speaker": null,
+      "opening": "\"There he is.\""
+    },
+    {
+      "quote": 102,
+      "line": 5201,
+      "speaker": null,
+      "opening": "\"You waited longest.\""
+    },
+    {
+      "quote": 103,
+      "line": 5211,
+      "speaker": null,
+      "opening": "\"Captain, you have acquired the harbor.\""
+    },
+    {
+      "quote": 104,
+      "line": 5213,
+      "speaker": null,
+      "opening": "\"Nigga, I came for breakfast. Things happen.\""
+    },
+    {
+      "quote": 105,
+      "line": 5217,
+      "speaker": null,
+      "opening": "\"Your family's launch house. It's yours again. But"
+    },
+    {
+      "quote": 106,
+      "line": 5221,
+      "speaker": null,
+      "opening": "\"They already do.\""
+    }
+  ]
+}

@@ -1,0 +1,667 @@
+Nigga, I bought Shawna a house before I bought myself another shirt.
+
+The real estate woman met us at Lake Las Vegas and immediately lost one heel to the lawn. Tank reached down, pulled it free, and handed it back. She looked at his hands, our cars, and the bandage under my collar.
+
+"Will anybody else be joining the viewing?"
+
+"Nigga, you want MORE of us?" Tank asked.
+
+"We're fine," I told her. "Show my woman the water."
+
+"Five bedrooms. Private dock. Heated pool. The piano can be negotiated separately."
+
+"Why? The nigga in a band?"
+
+"The owner may wish to retain it."
+
+"Tell that nigga to wish for a smaller instrument."
+
+Shawna squeezed my hand. "Baby. Let her do her job."
+
+The woman got both shoes onto stone and opened the door.
+
+White curtains, high ceilings, a curved staircase. Enough chandelier to make a nigga nervous about standing under the light. Beyond the glass doors was the lake. The black piano sat beside them, where Shawna could look at the water while she played.
+
+She let go of my hand.
+
+"Aiden."
+
+"Yeah."
+
+"Baby, you can't just—"
+
+"You like it?"
+
+She touched two keys without pressing them.
+
+"Yeah."
+
+I looked at the agent. "Nigga, we have a yes. Do whatever paper follows yes."
+
+"We haven't discussed the price."
+
+"Don't say it louder than she said yes."
+
+Tank walked out onto the dock. Shawna sat at the piano. I lowered myself beside her and got halfway through pretending it didn't hurt before she caught my arm.
+
+"Slowly, you ridiculous nigga."
+
+"That IS slowly. At my normal speed we'd own next door already."
+
+She laughed, then looked at the lake again.
+
+"We're doing this backward."
+
+"Nigga, then turn around."
+
+She put one leg over the bench and faced me.
+
+"We barely know each other."
+
+"I know you want water."
+
+"Dante wanted water."
+
+My smile stayed a second longer than it belonged. Through the window, Tank was testing the dock with one shoe. A duck watched him. Neither nigga trusted the other's business there.
+
+"You said it to me," I told her.
+
+She put her hand on my knee. "I know."
+
+I let her keep it there. Nigga, I could sit through that much truth if she kept touching me.
+
+The woman returned with the price. I sent her to the men handling T's accounts. The club and its money had survived him. His house was promised elsewhere. This house would carry Shawna's name.
+
+"And yours?" the agent asked.
+
+"My nigga lives where I live," Shawna said before I could answer.
+
+I looked at her.
+
+She looked back. "That the arrangement?"
+
+"Nigga, that's the whole constitution."
+
+"Then stop negotiating over my piano."
+
+I turned to the woman. "Put the keys in her hand. Piano stays. My wife said—"
+
+Shawna raised an eyebrow.
+
+"My future," I corrected. "My future said."
+
+She kissed me hard enough that I had to grip the bench. Behind the glass, Tank finally stepped onto the dock and the duck left.
+
+Two niggas had secured waterfront property. I liked my method better.
+
+***
+
+Rosa came over that evening and stood in the foyer without taking off her sunglasses. My nigga, she looked at that chandelier like it owed her money.
+
+"Nigga, this bitch gets shot at one time and comes home with a staircase."
+
+Shawna screamed laughing. I hadn't heard her do that before. Not the little laugh she'd given me in the car. This came from deep enough to make me realize how much of her I hadn't met.
+
+"Come see upstairs," she said.
+
+"You got upstairs too?"
+
+"Nigga, you looking at the stairs," Tank said.
+
+Rosa pointed at him.
+
+"And you got furniture that talks."
+
+The nigga looked at me like he wanted permission to leave. I couldn't stop smiling.
+
+They went up together. Within an hour Rosa had decided which room belonged to her, which bathroom had the best light, and which of the dead owner's paintings was making everybody sad. It wasn't a dead owner. He had moved to Arizona. She took the painting down anyway.
+
+I sat in the living room with my nigga Tank and an ice pack wrapped in a towel, listening to women take over my fucking palace.
+
+"You sure about all this?" he asked.
+
+"House?"
+
+"Woman."
+
+"Watch it."
+
+"Nigga, I been watching."
+
+I looked at him. He kept his eyes on the stairs.
+
+"Say it."
+
+"She loved Dante."
+
+"He's dead."
+
+"Nigga, that's what I'm telling you."
+
+I threw the ice pack at him. He caught it without standing.
+
+"Nigga, I got a bullet in me. You want me jumping up to fight your big ass?"
+
+"No."
+
+"Then stop saying shit I can't sit down for."
+
+He put the ice pack back on my side. Gently, which pissed me off worse.
+
+"Some nigga gotta tell you something."
+
+Upstairs, Shawna laughed again. We both looked toward the sound.
+
+"Tell me where T's funeral is," I said.
+
+***
+
+The first housewarming party started before anybody found the towels.
+
+Mercedes arrived with twelve women, two men, and a box of champagne she swore had been a gift. Porsche arrived behind her driving a white Bentley with the roof down and a man crying in the back seat.
+
+"Who that?" Tank asked.
+
+"His car," she said. "My evening."
+
+The man lifted a hand. "We're friends."
+
+"Nigga, blink if she bought you too," I told him.
+
+He laughed so hard he stopped crying. Thirty-seven, name of Leon, owned a steakhouse and had apparently proposed to Porsche over appetizers. She had declined the ring and accepted permission to drive.
+
+"That's growth," Mercedes told him as she took a bottle from his lap.
+
+Within twenty minutes the patio filled. My new pool had women in it wearing diamonds that probably hadn't been designed for swimming. A dealer I knew was trying to impress Rosa with the size of his watch. Rosa held it up to her ear and told him she couldn't hear the personality inside it.
+
+Tank laughed from the doorway.
+
+"You got something to say?" the dealer asked.
+
+"She said it. I'm enjoying it."
+
+The nigga looked at Tank's shoulders and decided he'd enjoyed it too.
+
+I lay back in a chair with Shawna beside me and a clean shirt open over my bandages. People kept bringing gifts. Liquor. Flowers. A statue of a horse nobody could explain. Somebody had brought a whole refrigerated truck of steaks because he'd heard Aiden had a yard now and wanted Aiden to know that meant something to him.
+
+"Baby," Shawna whispered, "is this all yours?"
+
+I looked across the water. Lights stood on the other shore. The moon caught the edge of her watch.
+
+"Whatever you can point at."
+
+She pointed at the horse statue.
+
+"Who the fuck brought that?"
+
+"I'm finding out."
+
+Before I could, a red speedboat came around the point and headed straight for our dock.
+
+The driver stood at the wheel. He had a white shirt open to the waist and a chain thick enough to anchor the boat if his ego failed. Two men sat behind him holding rifles across their knees.
+
+Tank set his plate down.
+
+"Everybody inside."
+
+The music kept going. Half the people hadn't heard him. The boat struck the dock hard enough to lift the planks, and now everybody heard.
+
+"Where's the new owner?" the man at the wheel shouted.
+
+I raised my glass.
+
+"Home."
+
+"You bought from my cousin."
+
+"He looked old enough to make that decision."
+
+"Brock had no right selling my house."
+
+Shawna stood up. "Your name on anything?"
+
+"Nigga, I'm talking to the man."
+
+I sat forward.
+
+"Then look at me while you regret that."
+
+His eyes found mine. Behind him, one of his men shifted the rifle.
+
+The music ended between songs. For half a second the whole party went quiet. Even the women in the pool stopped splashing, holding on to the edge with their jeweled hands.
+
+"Name's Roman," the man said. "Roman Pike. You can ask around."
+
+"You can go around. My dock's occupied."
+
+"I got a claim."
+
+"Nigga, so does my insurance company. You just hit the fucking dock."
+
+He stepped out of the boat. Forty-two, I found out later. Old enough to own three houses and stupid enough to think the one with me in it would be easiest to take.
+
+"I come for twenty thousand a month," he said. "My cousin paid. You pay. We don't have trouble."
+
+I looked at Shawna.
+
+"Baby, you hear that?"
+
+"I heard him."
+
+"Nigga sold his house and left a subscription."
+
+She laughed into her hand. Roman's face got dark.
+
+He drew a pistol.
+
+Tank moved. So did Roman's men. Shots broke the silence and the patio doors exploded behind me. I dropped off the chair with Shawna in my arms. We hit the stone hard. The pain made my vision go white, but I kept her under me until the next shots passed.
+
+Mercedes pulled two women from the pool and pushed them through the kitchen door. Porsche caught Leon by his collar and dragged him behind the Bentley.
+
+"My car!" he shouted.
+
+"Your head first!" she shouted back.
+
+Rosa rolled across the patio with my gun in her hand. She'd taken it off the table when everybody else was looking at Roman. She slid it to me without getting up.
+
+"Housewarming gift."
+
+"You shouldn't have."
+
+"Nigga, I didn't. It's yours."
+
+Roman ran back toward the boat while his men fired from the dock. Tank answered from behind the stone barbecue, rounds striking wood around their feet. A bottle burst above him and drenched his suit in champagne.
+
+"Now I'm fucking mad!" he shouted.
+
+I looked at the white Bentley.
+
+The car stood at the end of the patio drive. Between it and the dock lay fifty feet of lawn, two chairs, and a stone garden border that suddenly looked like a promise.
+
+Shawna saw me seeing it.
+
+"Again?"
+
+"Different boat."
+
+"Aiden."
+
+"Baby, get inside."
+
+She kissed me so hard I forgot the pain for exactly as long as the kiss lasted.
+
+"Then come back in my house."
+
+I ran for the Bentley bent at the waist. Porsche opened the driver's door before I got there. Leon held out both hands as if he could personally catch whatever was about to happen to his car.
+
+"It's new!"
+
+"Nigga, so's my house!"
+
+I got in. Porsche threw herself into the passenger seat.
+
+"I know this car."
+
+"Then introduce us fast."
+
+Roman's boat pulled off the dock. The red hull swung broadside, engine screaming, and I drove the Bentley across my own fucking lawn.
+
+Grass and stone flew behind us. The chairs disappeared under the front bumper. Porsche grabbed the door and shouted, "Beautiful, baby, beautiful!" like she'd been waiting all her life for somebody to drive a hundred thousand dollars through a flowerbed.
+
+The garden border lifted us.
+
+We went over the end of the dock and landed across the speedboat's rear deck.
+
+Nigga, the sound was enormous. Fiberglass broke. The Bentley's hood folded. The boat pitched forward, bow plunging into the water, and Roman flew over his steering wheel into the lake.
+
+For one second all I could see was white spray.
+
+Then it cleared, and I was sitting in a car on a boat in front of my new house while thirty people screamed my name.
+
+Porsche lifted her head.
+
+"You owe Leon a car."
+
+"Nigga owes me a dock."
+
+Roman came up beside the boat spitting lake water. His pistol was gone. One of his men had jumped into the shallows. Tank was standing at the end of the broken dock with his gun on the other one.
+
+I leaned out of the Bentley.
+
+"Roman."
+
+He looked up at me with wet hair in his eyes.
+
+"House still yours?"
+
+He shook his head.
+
+"Nigga, speak. I bought acoustics."
+
+"Your house!"
+
+"And whose car?"
+
+He stared.
+
+"Wrong answer. Leon!"
+
+Leon stood on the patio with both hands on his head.
+
+"Come get your speedboat!"
+
+The cheering started again. Mercedes climbed onto a chair and lifted a bottle in each hand. Rosa had both arms around Shawna. Tank was laughing so hard he had to tell the prisoner to stop fucking looking at him.
+
+Shawna came to the edge of the ruined dock and held out her hands.
+
+"You are the most ridiculous man I've ever met."
+
+I climbed out of the Bentley and took them.
+
+"Best-looking too."
+
+"Nigga, I married a dream tonight and I haven't even married you."
+
+She pulled me close while the boat settled deeper beneath the car. Behind her, Leon announced he'd never loved an automobile more and never wanted to see it again.
+
+Roman went away wet. His men went with Tank until Knox's people came to collect them. The chief called me herself that night.
+
+"Two boats in five days?"
+
+"First one I cleared."
+
+"I'm beginning to understand the distinction."
+
+"You got any more questions?"
+
+"One. Can you do that in uniform?"
+
+I looked at Shawna curled against me on the sofa, the whole house still alive with our friends, and smiled.
+
+"Depends how nice you make the uniform."
+
+***
+
+The club opened for me the following night.
+
+I wore a white suit because I wanted every nigga there to know I wasn't expecting to bleed. Shawna wore blue silk with her whole back out and earrings so long they touched her shoulders. Rosa had done her hair. I had bought the earrings. Dante's watch was still on her wrist.
+
+We pulled up to blue lights running all the way down the sidewalk. My name was above the door. They had done that without asking. AIDEN in letters taller than the apartment windows I'd grown up behind.
+
+Nigga, I stood under it long enough to make the cars behind us honk.
+
+Shawna hooked her arm through mine.
+
+"They waiting on you."
+
+"Let them."
+
+Inside, the whole west side had dressed like it was getting married to money. Women in diamonds. Men in velvet. Champagne sweating in silver tubs. Cocaine on mirrored tables in the private rooms. Hookers I knew from bad months wearing shoes that cost more than those months. Niggas who owed everybody suddenly buying bottles with both hands.
+
+One of the dancers came down from a platform and kissed my cheek.
+
+"Look at my nigga! Baby, you made it."
+
+"We made it," I told her.
+
+I put a stack of cash in her hand. She held it against her chest and went back up laughing.
+
+Shawna saw. She moved closer.
+
+At the back table, a pretty man in a silver shirt stood up when he saw me. I'd spent a reckless weekend with him the year before, broke and drunk and swearing on his balcony that one day I'd own the view.
+
+"Look at you," he said.
+
+"You too."
+
+He kissed the corner of my mouth before I could turn.
+
+Shawna's arm went stiff through mine.
+
+"Nigga, come here. Congratulations," he said. "Always knew you had something."
+
+"Nigga, he still has it," Shawna said.
+
+He looked at her and smiled.
+
+"Keep it, girl. Cost me a weekend's sleep."
+
+We moved on. Shawna waited until we reached our table.
+
+"How many niggas in here have you fucked?"
+
+I looked across the room.
+
+"Don't look around. Answer me."
+
+"You want me counting niggas I only kissed?"
+
+She hit my good shoulder with her purse.
+
+"Nigga, I want you sitting your ass down."
+
+I sat. Nigga, I had survived T, but I wasn't trying to survive her in those earrings.
+
+My nigga, she sat sideways on my lap until my face told on me, then moved into the chair beside mine. Her hand stayed on my thigh. Every time some nigga approached the table, she pulled me closer by the collar before letting go.
+
+I loved that shit. I had women flirting with me, men remembering me, the whole room learning which side of her I belonged on. Nigga, let them look. I'd spent my whole life feeling like people could leave me wherever they found me.
+
+Then the music stopped.
+
+Rosa stood onstage in the red velvet coat. Under it she wore gold from her throat to the floor.
+
+"Somebody owes me a song," she said.
+
+Shawna shook her head.
+
+"No."
+
+"I ain't said your name yet, bitch."
+
+"Rosa."
+
+The room started clapping. Rosa held out her hand.
+
+Shawna looked at me.
+
+"You set this up?"
+
+"No, baby."
+
+I meant it. My nigga, I would've bought her an orchestra and scared her right out the back door. Rosa just stood there with a microphone and waited for her friend.
+
+Shawna got up.
+
+The first few steps looked harder than the walk I'd made out of the hospital. She kept one hand against her stomach. When she reached the stage, Rosa kissed her cheek and gave her the microphone.
+
+"You know the one," she said.
+
+Shawna closed her eyes.
+
+The piano started.
+
+Nigga, I had heard people say a voice could break your heart. I thought it meant somebody sang pretty while you remembered somebody ugly. Then Shawna opened her mouth and I stopped knowing where I was.
+
+She sang about leaving a porch light burning. About a car going past the house. About getting dressed for somebody who wasn't coming home. Her voice shook on the first line. By the second verse, men stopped pouring drinks. A woman by the bar put her face in her hands.
+
+I watched that watch slide down Shawna's wrist when she lifted the microphone.
+
+"Dante's song," somebody behind me whispered.
+
+Nigga, I turned so fast my side lit up.
+
+The nigga was staring at the stage. He hadn't said it to hurt me. That almost made it worse.
+
+All these niggas were listening to my woman sing for her husband while my name glowed outside.
+
+I drank what was in front of me. Then I remembered what Vega had said and put the glass down, furious with myself for needing a fucking doctor in my head while another man had a song.
+
+Shawna opened her eyes during the last verse. She looked straight at me.
+
+I couldn't tell which of us she saw.
+
+When she finished, the whole club got up. Niggas banged on tables. Rosa cried openly. I stood too, slow and angry, clapping until my hands hurt.
+
+Shawna came down smiling like a girl who had found something under the bed she thought she'd lost forever.
+
+"Did you like it?"
+
+I kissed her before I answered.
+
+Long. In front of everybody.
+
+"Beautiful," I said.
+
+She touched my face.
+
+"Why you looking at me like that?"
+
+"Like what?"
+
+Her smile faded.
+
+"Never mind."
+
+***
+
+Later, a man from one of the cash tables grabbed Rosa by the coat when she told him she was done working.
+
+"I paid," he said.
+
+Rosa pulled away.
+
+"You paid for last time."
+
+He grabbed her again.
+
+Nigga, I was standing before Tank got to me.
+
+"Aiden," Shawna said.
+
+The nigga looked over his shoulder, still holding Rosa. That was his mistake. Not knowing me could've been fixed. Holding on after he saw somebody coming was the part that put him on the floor.
+
+I hit him once. Hard enough that I felt something pull under my bandages. Tank caught my elbow before I could hit him again.
+
+"Nigga, whose hand you think that is? Take your fucking hands off her," I said.
+
+The man wasn't holding anything now.
+
+"You hear me?"
+
+He nodded from the carpet.
+
+Rosa pulled her coat straight. Her hands shook. She hated that we could see them.
+
+"Get him out," I told Tank.
+
+"You sit down."
+
+"Get that nigga out first."
+
+The room had gone still around us. All these niggas had wanted a new boss to buy champagne. Now they had one bleeding into a white suit because somebody hadn't let go of Shawna's friend.
+
+Tank handed the man to two others and walked me into the back office. Shawna followed. So did Rosa.
+
+"You dumb motherfucker," Shawna said.
+
+She unbuttoned my jacket. A little red had come through the shirt.
+
+"I'm okay."
+
+"Nigga, you don't know another fucking sentence?"
+
+Rosa stood by the door with both hands inside her coat.
+
+"I didn't need—"
+
+"I know," I told her. "I wanted."
+
+She pressed her lips together. Then she came over, bent down, and kissed my head again.
+
+"Stupid nigga," she whispered.
+
+But she stayed beside me until Shawna got a clean shirt.
+
+***
+
+At home, the lake was black under the windows.
+
+Shawna took off her earrings and laid them on the bathroom counter. I watched her unclasp the watch.
+
+"Let me buy you one that fits," I said.
+
+She stopped.
+
+"A watch?"
+
+"Yeah."
+
+"I have one."
+
+"It hangs off you."
+
+"I like it."
+
+"I can see that."
+
+She turned around. The silence got ugly fast.
+
+"Say it, Aiden."
+
+I stood in the doorway, tired enough that my legs shook.
+
+"That song about him?"
+
+"Yes."
+
+She hadn't even tried to soften it. Nigga, I would've taken one little lie right then. Just something I could lay down beside.
+
+"You look at me when you sing to him?"
+
+"I looked at you because you were there."
+
+"I'm always there. You wearing his watch, my earrings, got his chain on my fucking neck—"
+
+"You want it off?"
+
+She reached toward the cross.
+
+I caught her wrist.
+
+We stared at each other.
+
+Then I let go.
+
+"Don't," I said.
+
+She rubbed where my fingers had been. I hadn't hurt her. I could still see that I'd done something I didn't want between us.
+
+"Nigga, what do you want from me?" she asked.
+
+I looked down at the marble. I'd bought the whole floor and couldn't find a place to stand.
+
+"I want one thing that's only mine."
+
+Her face changed.
+
+She came close and put her palm over my heartbeat, clear of the wound.
+
+"This is you," she said. "I know who this is."
+
+"Then why'd you say his name in the hospital?"
+
+She closed her eyes.
+
+I wished I'd kept it. Held it in until it killed me by itself. But it was out now, standing between us in our new fucking bathroom.
+
+"I dreamed he was there," she said. "And I was trying to tell him you were hurt."
+
+Nigga, I didn't know what to do with that.
+
+She took my hand and led me to bed. We didn't settle it. She didn't put the watch away. I didn't take off the cross. She kissed me until I stopped asking questions, and when we lay down, she kept her head on my good side.
+
+I woke once before dawn.
+
+She was still there.
+
+For that morning, that was enough.

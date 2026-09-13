@@ -1,0 +1,583 @@
+{
+  "chapter_id": "b01-c16",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 96,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 9231,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 2,
+      "line": 9231,
+      "speaker": null,
+      "opening": "\"You brought everybody.\""
+    },
+    {
+      "quote": 3,
+      "line": 9233,
+      "speaker": null,
+      "opening": "\"I told them there was a dead nigga"
+    },
+    {
+      "quote": 4,
+      "line": 9239,
+      "speaker": null,
+      "opening": "\"Come inside,\""
+    },
+    {
+      "quote": 5,
+      "line": 9239,
+      "speaker": null,
+      "opening": "\"Just you and Tank.\""
+    },
+    {
+      "quote": 6,
+      "line": 9245,
+      "speaker": null,
+      "opening": "\"Nigga.\""
+    },
+    {
+      "quote": 7,
+      "line": 9249,
+      "speaker": null,
+      "opening": "\"We get her and we leave.\""
+    },
+    {
+      "quote": 8,
+      "line": 9251,
+      "speaker": null,
+      "opening": "\"We get her,\""
+    },
+    {
+      "quote": 9,
+      "line": 9261,
+      "speaker": null,
+      "opening": "\"Nigga, let her walk,\""
+    },
+    {
+      "quote": 10,
+      "line": 9263,
+      "speaker": null,
+      "opening": "\"She is walking.\""
+    },
+    {
+      "quote": 11,
+      "line": 9265,
+      "speaker": null,
+      "opening": "\"Nigga, to me. Let my woman walk to"
+    },
+    {
+      "quote": 12,
+      "line": 9269,
+      "speaker": null,
+      "opening": "\"You haven't paid for anything yet.\""
+    },
+    {
+      "quote": 13,
+      "line": 9273,
+      "speaker": null,
+      "opening": "\"We got your money.\""
+    },
+    {
+      "quote": 14,
+      "line": 9277,
+      "speaker": null,
+      "opening": "\"My nigga, you think this is about the"
+    },
+    {
+      "quote": 15,
+      "line": 9279,
+      "speaker": null,
+      "opening": "\"That's what you been asking for.\""
+    },
+    {
+      "quote": 16,
+      "line": 9281,
+      "speaker": null,
+      "opening": "\"I asked for respect. The money was the"
+    },
+    {
+      "quote": 17,
+      "line": 9285,
+      "speaker": null,
+      "opening": "\"Tell me something, Aiden. How much did she"
+    },
+    {
+      "quote": 18,
+      "line": 9291,
+      "speaker": null,
+      "opening": "\"Enough.\""
+    },
+    {
+      "quote": 19,
+      "line": 9293,
+      "speaker": null,
+      "opening": "\"Did she tell you she was supposed to"
+    },
+    {
+      "quote": 20,
+      "line": 9295,
+      "speaker": null,
+      "opening": "\"Don't,\""
+    },
+    {
+      "quote": 21,
+      "line": 9299,
+      "speaker": null,
+      "opening": "\"We're being honest. That's what lovers want, isn't"
+    },
+    {
+      "quote": 22,
+      "line": 9305,
+      "speaker": null,
+      "opening": "\"Look at that. You got a palace, cars,"
+    },
+    {
+      "quote": 23,
+      "line": 9315,
+      "speaker": null,
+      "opening": "\"Tell him,\""
+    },
+    {
+      "quote": 24,
+      "line": 9315,
+      "speaker": null,
+      "opening": "\"Tell him whose chain made you go over"
+    },
+    {
+      "quote": 25,
+      "line": 9319,
+      "speaker": null,
+      "opening": "\"Dante's.\""
+    },
+    {
+      "quote": 26,
+      "line": 9325,
+      "speaker": null,
+      "opening": "\"First time I kissed you,\""
+    },
+    {
+      "quote": 27,
+      "line": 9325,
+      "speaker": null,
+      "opening": "\"I was looking at his cross. I wanted"
+    },
+    {
+      "quote": 28,
+      "line": 9331,
+      "speaker": null,
+      "opening": "\"And now?\""
+    },
+    {
+      "quote": 29,
+      "line": 9335,
+      "speaker": null,
+      "opening": "\"Now I'm looking at you.\""
+    },
+    {
+      "quote": 30,
+      "line": 9339,
+      "speaker": null,
+      "opening": "\"Don't give that nigga that shit.\""
+    },
+    {
+      "quote": 31,
+      "line": 9341,
+      "speaker": null,
+      "opening": "\"I'm looking at you, Aiden.\""
+    },
+    {
+      "quote": 32,
+      "line": 9345,
+      "speaker": null,
+      "opening": "\"Then keep looking, baby.\""
+    },
+    {
+      "quote": 33,
+      "line": 9361,
+      "speaker": null,
+      "opening": "\"One more step,\""
+    },
+    {
+      "quote": 34,
+      "line": 9367,
+      "speaker": null,
+      "opening": "\"You win,\""
+    },
+    {
+      "quote": 35,
+      "line": 9371,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 36,
+      "line": 9373,
+      "speaker": null,
+      "opening": "\"Let her come down. You want the west"
+    },
+    {
+      "quote": 37,
+      "line": 9379,
+      "speaker": null,
+      "opening": "\"You hear that?\""
+    },
+    {
+      "quote": 38,
+      "line": 9379,
+      "speaker": null,
+      "opening": "\"He'll give me everything.\""
+    },
+    {
+      "quote": 39,
+      "line": 9381,
+      "speaker": null,
+      "opening": "\"Then take it and let me go.\""
+    },
+    {
+      "quote": 40,
+      "line": 9385,
+      "speaker": null,
+      "opening": "\"Dante offered me everything too.\""
+    },
+    {
+      "quote": 41,
+      "line": 9391,
+      "speaker": null,
+      "opening": "\"Your husband thought having a brother made him"
+    },
+    {
+      "quote": 42,
+      "line": 9395,
+      "speaker": null,
+      "opening": "\"How much you take out of that pool"
+    },
+    {
+      "quote": 43,
+      "line": 9399,
+      "speaker": null,
+      "opening": "\"I gave it back.\""
+    },
+    {
+      "quote": 44,
+      "line": 9401,
+      "speaker": null,
+      "opening": "\"After I told him you had it.\""
+    },
+    {
+      "quote": 45,
+      "line": 9403,
+      "speaker": null,
+      "opening": "\"I gave it back.\""
+    },
+    {
+      "quote": 46,
+      "line": 9407,
+      "speaker": null,
+      "opening": "\"Come stand over here, Tank. You don't gotta"
+    },
+    {
+      "quote": 47,
+      "line": 9417,
+      "speaker": null,
+      "opening": "\"That's my brother,\""
+    },
+    {
+      "quote": 48,
+      "line": 9429,
+      "speaker": null,
+      "opening": "\"Go,\""
+    },
+    {
+      "quote": 49,
+      "line": 9433,
+      "speaker": null,
+      "opening": "\"Nigga, go get her.\""
+    },
+    {
+      "quote": 50,
+      "line": 9447,
+      "speaker": null,
+      "opening": "\"Captain!\""
+    },
+    {
+      "quote": 51,
+      "line": 9449,
+      "speaker": null,
+      "opening": "\"Stairs!\""
+    },
+    {
+      "quote": 52,
+      "line": 9465,
+      "speaker": null,
+      "opening": "\"Move.\""
+    },
+    {
+      "quote": 53,
+      "line": 9469,
+      "speaker": null,
+      "opening": "\"Captain Aiden?\""
+    },
+    {
+      "quote": 54,
+      "line": 9471,
+      "speaker": null,
+      "opening": "\"Nigga, this is a terrible place to introduce"
+    },
+    {
+      "quote": 55,
+      "line": 9473,
+      "speaker": null,
+      "opening": "\"Red said you weren't really—\""
+    },
+    {
+      "quote": 56,
+      "line": 9481,
+      "speaker": null,
+      "opening": "\"Your boss very generous,\""
+    },
+    {
+      "quote": 57,
+      "line": 9487,
+      "speaker": null,
+      "opening": "\"Go,\""
+    },
+    {
+      "quote": 58,
+      "line": 9491,
+      "speaker": null,
+      "opening": "\"Nigga, decide properly.\""
+    },
+    {
+      "quote": 59,
+      "line": 9495,
+      "speaker": null,
+      "opening": "\"Go get her, Captain.\""
+    },
+    {
+      "quote": 60,
+      "line": 9503,
+      "speaker": null,
+      "opening": "\"Rosa's coming!\""
+    },
+    {
+      "quote": 61,
+      "line": 9509,
+      "speaker": null,
+      "opening": "\"That's our nigga! Clear him a road!\""
+    },
+    {
+      "quote": 62,
+      "line": 9533,
+      "speaker": null,
+      "opening": "\"Don't make this your whole life.\""
+    },
+    {
+      "quote": 63,
+      "line": 9545,
+      "speaker": null,
+      "opening": "\"You don't get tired?\""
+    },
+    {
+      "quote": 64,
+      "line": 9549,
+      "speaker": null,
+      "opening": "\"Nigga, you keep giving me somewhere to be.\""
+    },
+    {
+      "quote": 65,
+      "line": 9558,
+      "speaker": null,
+      "opening": "\"Nigga, that gun drops now,\""
+    },
+    {
+      "quote": 66,
+      "line": 9562,
+      "speaker": null,
+      "opening": "\"Drop it or she goes over.\""
+    },
+    {
+      "quote": 67,
+      "line": 9568,
+      "speaker": null,
+      "opening": "\"Put her down,\""
+    },
+    {
+      "quote": 68,
+      "line": 9570,
+      "speaker": null,
+      "opening": "\"Put the gun down.\""
+    },
+    {
+      "quote": 69,
+      "line": 9580,
+      "speaker": null,
+      "opening": "\"That's how your husband died, Shawna. That's how"
+    },
+    {
+      "quote": 70,
+      "line": 9582,
+      "speaker": null,
+      "opening": "\"He wasn't begging for himself,\""
+    },
+    {
+      "quote": 71,
+      "line": 9586,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 72,
+      "line": 9588,
+      "speaker": null,
+      "opening": "\"You said he wanted somebody to take care"
+    },
+    {
+      "quote": 73,
+      "line": 9590,
+      "speaker": null,
+      "opening": "\"Shut the fuck up.\""
+    },
+    {
+      "quote": 74,
+      "line": 9592,
+      "speaker": null,
+      "opening": "\"He wasn't begging for himself.\""
+    },
+    {
+      "quote": 75,
+      "line": 9604,
+      "speaker": null,
+      "opening": "\"Dante,\""
+    },
+    {
+      "quote": 76,
+      "line": 9624,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 77,
+      "line": 9628,
+      "speaker": null,
+      "opening": "\"Shawna.\""
+    },
+    {
+      "quote": 78,
+      "line": 9634,
+      "speaker": null,
+      "opening": "\"It's done.\""
+    },
+    {
+      "quote": 79,
+      "line": 9668,
+      "speaker": null,
+      "opening": "\"Where the fuck you been?\""
+    },
+    {
+      "quote": 80,
+      "line": 9670,
+      "speaker": null,
+      "opening": "\"With her.\""
+    },
+    {
+      "quote": 81,
+      "line": 9674,
+      "speaker": null,
+      "opening": "\"Come here, baby.\""
+    },
+    {
+      "quote": 82,
+      "line": 9680,
+      "speaker": null,
+      "opening": "\"My nigga. You got her?\""
+    },
+    {
+      "quote": 83,
+      "line": 9682,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 84,
+      "line": 9684,
+      "speaker": null,
+      "opening": "\"Red?\""
+    },
+    {
+      "quote": 85,
+      "line": 9686,
+      "speaker": null,
+      "opening": "\"Dead.\""
+    },
+    {
+      "quote": 86,
+      "line": 9690,
+      "speaker": null,
+      "opening": "\"You better pay my fucking hospital bill.\""
+    },
+    {
+      "quote": 87,
+      "line": 9694,
+      "speaker": null,
+      "opening": "\"Every penny.\""
+    },
+    {
+      "quote": 88,
+      "line": 9696,
+      "speaker": null,
+      "opening": "\"And the car.\""
+    },
+    {
+      "quote": 89,
+      "line": 9698,
+      "speaker": null,
+      "opening": "\"What car?\""
+    },
+    {
+      "quote": 90,
+      "line": 9700,
+      "speaker": null,
+      "opening": "\"I want one.\""
+    },
+    {
+      "quote": 91,
+      "line": 9702,
+      "speaker": null,
+      "opening": "\"Nigga, a hundred. Your nigga will buy you"
+    },
+    {
+      "quote": 92,
+      "line": 9706,
+      "speaker": null,
+      "opening": "\"Black ones.\""
+    },
+    {
+      "quote": 93,
+      "line": 9734,
+      "speaker": null,
+      "opening": "\"What are you going to do?\""
+    },
+    {
+      "quote": 94,
+      "line": 9738,
+      "speaker": null,
+      "opening": "\"Take my wife home.\""
+    },
+    {
+      "quote": 95,
+      "line": 9746,
+      "speaker": null,
+      "opening": "\"You brought her home,\""
+    },
+    {
+      "quote": 96,
+      "line": 9748,
+      "speaker": null,
+      "opening": "\"Told you my nigga doesn't forget.\""
+    }
+  ]
+}

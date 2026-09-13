@@ -1,5 +1,9 @@
 # Ten Toes Down
 
+## Audiobook chapters
+
+[Chapter recordings and progress](audiobook/LISTEN.md) · [Full cast and production workflow](audiobook/production/README.md)
+
 ## Audiobook pilot
 
 [Listen to the verbatim funeral pilot](audiobook/pilot/funeral-new-voices.mp3) · [Read along](audiobook/pilot/script.md) · [Audio workflow and downloads](audiobook/README.md)

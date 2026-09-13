@@ -1,0 +1,523 @@
+{
+  "chapter_id": "b06-c22",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 86,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 8813,
+      "speaker": null,
+      "opening": "\"Brother.\""
+    },
+    {
+      "quote": 2,
+      "line": 8817,
+      "speaker": null,
+      "opening": "\"Nigga, you shaking.\""
+    },
+    {
+      "quote": 3,
+      "line": 8819,
+      "speaker": null,
+      "opening": "\"The fabric slippery.\""
+    },
+    {
+      "quote": 4,
+      "line": 8821,
+      "speaker": null,
+      "opening": "\"Your hands slippery?\""
+    },
+    {
+      "quote": 5,
+      "line": 8823,
+      "speaker": null,
+      "opening": "\"Don't start.\""
+    },
+    {
+      "quote": 6,
+      "line": 8835,
+      "speaker": null,
+      "opening": "\"We really doing this.\""
+    },
+    {
+      "quote": 7,
+      "line": 8837,
+      "speaker": null,
+      "opening": "\"Nigga, they rented chairs. We committed.\""
+    },
+    {
+      "quote": 8,
+      "line": 8841,
+      "speaker": null,
+      "opening": "\"I used to think getting through the night"
+    },
+    {
+      "quote": 9,
+      "line": 8843,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 10,
+      "line": 8845,
+      "speaker": null,
+      "opening": "\"Then another night. Then another. You get enough"
+    },
+    {
+      "quote": 11,
+      "line": 8851,
+      "speaker": null,
+      "opening": "\"Then she looked at me like I was"
+    },
+    {
+      "quote": 12,
+      "line": 8857,
+      "speaker": null,
+      "opening": "\"She does.\""
+    },
+    {
+      "quote": 13,
+      "line": 8861,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 14,
+      "line": 8863,
+      "speaker": null,
+      "opening": "\"And you ain't got to win her again"
+    },
+    {
+      "quote": 15,
+      "line": 8867,
+      "speaker": null,
+      "opening": "\"That sound like something Shawna told you.\""
+    },
+    {
+      "quote": 16,
+      "line": 8869,
+      "speaker": null,
+      "opening": "\"Nigga, I cite my sources privately.\""
+    },
+    {
+      "quote": 17,
+      "line": 8877,
+      "speaker": null,
+      "opening": "\"Come on. Your woman waiting.\""
+    },
+    {
+      "quote": 18,
+      "line": 8893,
+      "speaker": null,
+      "opening": "\"Nigga.\""
+    },
+    {
+      "quote": 19,
+      "line": 8897,
+      "speaker": null,
+      "opening": "\"Wedding gift.\""
+    },
+    {
+      "quote": 20,
+      "line": 8899,
+      "speaker": null,
+      "opening": "\"You fixed it.\""
+    },
+    {
+      "quote": 21,
+      "line": 8901,
+      "speaker": null,
+      "opening": "\"I improved it. Fixed would imply accepting the"
+    },
+    {
+      "quote": 22,
+      "line": 8909,
+      "speaker": null,
+      "opening": "\"She brought it home as often as you"
+    },
+    {
+      "quote": 23,
+      "line": 8917,
+      "speaker": null,
+      "opening": "\"If the men are crying over cars, tell"
+    },
+    {
+      "quote": 24,
+      "line": 8921,
+      "speaker": null,
+      "opening": "\"Yes, baby!\""
+    },
+    {
+      "quote": 25,
+      "line": 8929,
+      "speaker": null,
+      "opening": "\"He hasn't even done anything yet,\""
+    },
+    {
+      "quote": 26,
+      "line": 8931,
+      "speaker": null,
+      "opening": "\"He's arrived,\""
+    },
+    {
+      "quote": 27,
+      "line": 8931,
+      "speaker": null,
+      "opening": "\"He so rarely did.\""
+    },
+    {
+      "quote": 28,
+      "line": 8935,
+      "speaker": null,
+      "opening": "\"And yet, look at the outcome.\""
+    },
+    {
+      "quote": 29,
+      "line": 8939,
+      "speaker": null,
+      "opening": "\"Niggas, I graduated once. Let it rest.\""
+    },
+    {
+      "quote": 30,
+      "line": 8953,
+      "speaker": null,
+      "opening": "\"Mother,\""
+    },
+    {
+      "quote": 31,
+      "line": 8955,
+      "speaker": null,
+      "opening": "\"I am old, not blind.\""
+    },
+    {
+      "quote": 32,
+      "line": 8967,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 33,
+      "line": 8967,
+      "speaker": null,
+      "opening": "\"you need air for vows.\""
+    },
+    {
+      "quote": 34,
+      "line": 8983,
+      "speaker": null,
+      "opening": "\"You too?\""
+    },
+    {
+      "quote": 35,
+      "line": 8985,
+      "speaker": null,
+      "opening": "\"Nigga, look at them.\""
+    },
+    {
+      "quote": 36,
+      "line": 8987,
+      "speaker": null,
+      "opening": "\"I am.\""
+    },
+    {
+      "quote": 37,
+      "line": 8989,
+      "speaker": null,
+      "opening": "\"Then mind your own collapse.\""
+    },
+    {
+      "quote": 38,
+      "line": 8997,
+      "speaker": null,
+      "opening": "\"You look—\""
+    },
+    {
+      "quote": 39,
+      "line": 8999,
+      "speaker": null,
+      "opening": "\"I know,\""
+    },
+    {
+      "quote": 40,
+      "line": 9003,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 41,
+      "line": 9023,
+      "speaker": null,
+      "opening": "\"I wrote a lot,\""
+    },
+    {
+      "quote": 42,
+      "line": 9027,
+      "speaker": null,
+      "opening": "\"Aiden said some of it sounded like I"
+    },
+    {
+      "quote": 43,
+      "line": 9029,
+      "speaker": null,
+      "opening": "\"Nigga, the warranty language was concerning,\""
+    },
+    {
+      "quote": 44,
+      "line": 9035,
+      "speaker": null,
+      "opening": "\"I know how to stay,\""
+    },
+    {
+      "quote": 45,
+      "line": 9035,
+      "speaker": null,
+      "opening": "\"I stayed for people who didn't deserve it."
+    },
+    {
+      "quote": 46,
+      "line": 9039,
+      "speaker": null,
+      "opening": "\"But with you, staying don't feel like proving"
+    },
+    {
+      "quote": 47,
+      "line": 9043,
+      "speaker": null,
+      "opening": "\"I don't promise I'm gonna become smooth,\""
+    },
+    {
+      "quote": 48,
+      "line": 9043,
+      "speaker": null,
+      "opening": "\"These niggas know me. I can't lie in"
+    },
+    {
+      "quote": 49,
+      "line": 9047,
+      "speaker": null,
+      "opening": "\"I promise you won't have to wonder where"
+    },
+    {
+      "quote": 50,
+      "line": 9051,
+      "speaker": null,
+      "opening": "\"And I promise every good thing I get,"
+    },
+    {
+      "quote": 51,
+      "line": 9057,
+      "speaker": null,
+      "opening": "\"You big beautiful man,\""
+    },
+    {
+      "quote": 52,
+      "line": 9061,
+      "speaker": null,
+      "opening": "\"I had people listen to me sing and"
+    },
+    {
+      "quote": 53,
+      "line": 9065,
+      "speaker": null,
+      "opening": "\"They all looked right.\""
+    },
+    {
+      "quote": 54,
+      "line": 9067,
+      "speaker": null,
+      "opening": "\"They did.\""
+    },
+    {
+      "quote": 55,
+      "line": 9071,
+      "speaker": null,
+      "opening": "\"I promise to tell you what I want."
+    },
+    {
+      "quote": 56,
+      "line": 9073,
+      "speaker": null,
+      "opening": "\"That helps me.\""
+    },
+    {
+      "quote": 57,
+      "line": 9075,
+      "speaker": null,
+      "opening": "\"I know, baby.\""
+    },
+    {
+      "quote": 58,
+      "line": 9079,
+      "speaker": null,
+      "opening": "\"And I promise that when somebody asks who"
+    },
+    {
+      "quote": 59,
+      "line": 9115,
+      "speaker": null,
+      "opening": "\"Excellent control.\""
+    },
+    {
+      "quote": 60,
+      "line": 9117,
+      "speaker": null,
+      "opening": "\"Practice,\""
+    },
+    {
+      "quote": 61,
+      "line": 9131,
+      "speaker": null,
+      "opening": "\"We did it,\""
+    },
+    {
+      "quote": 62,
+      "line": 9133,
+      "speaker": null,
+      "opening": "\"You did it.\""
+    },
+    {
+      "quote": 63,
+      "line": 9135,
+      "speaker": null,
+      "opening": "\"Nigga, you stood here. That counts.\""
+    },
+    {
+      "quote": 64,
+      "line": 9153,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 65,
+      "line": 9153,
+      "speaker": null,
+      "opening": "\"more than anything.\""
+    },
+    {
+      "quote": 66,
+      "line": 9157,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 67,
+      "line": 9161,
+      "speaker": null,
+      "opening": "\"The first time I married you, I thought"
+    },
+    {
+      "quote": 68,
+      "line": 9165,
+      "speaker": null,
+      "opening": "\"I still like giving you those things. I'm"
+    },
+    {
+      "quote": 69,
+      "line": 9169,
+      "speaker": null,
+      "opening": "\"But you met me in the parts I"
+    },
+    {
+      "quote": 70,
+      "line": 9173,
+      "speaker": null,
+      "opening": "\"And every time I got scared you might"
+    },
+    {
+      "quote": 71,
+      "line": 9177,
+      "speaker": null,
+      "opening": "\"So I promise this. When I say home,"
+    },
+    {
+      "quote": 72,
+      "line": 9181,
+      "speaker": null,
+      "opening": "\"—I mean I'm gonna spend every fucking day"
+    },
+    {
+      "quote": 73,
+      "line": 9185,
+      "speaker": null,
+      "opening": "\"I knew you'd get that in.\""
+    },
+    {
+      "quote": 74,
+      "line": 9187,
+      "speaker": null,
+      "opening": "\"Baby, the vows got standards.\""
+    },
+    {
+      "quote": 75,
+      "line": 9193,
+      "speaker": null,
+      "opening": "\"You came into my life loudly.\""
+    },
+    {
+      "quote": 76,
+      "line": 9197,
+      "speaker": null,
+      "opening": "\"Very loudly.\""
+    },
+    {
+      "quote": 77,
+      "line": 9199,
+      "speaker": null,
+      "opening": "\"You were jealous, ridiculous, brave, and convinced a"
+    },
+    {
+      "quote": 78,
+      "line": 9201,
+      "speaker": null,
+      "opening": "\"Sometimes it helps,\""
+    },
+    {
+      "quote": 79,
+      "line": 9203,
+      "speaker": null,
+      "opening": "\"Sometimes it does.\""
+    },
+    {
+      "quote": 80,
+      "line": 9207,
+      "speaker": null,
+      "opening": "\"You never became easy. I didn't marry you"
+    },
+    {
+      "quote": 81,
+      "line": 9211,
+      "speaker": null,
+      "opening": "\"I promise to keep choosing you on purpose."
+    },
+    {
+      "quote": 82,
+      "line": 9213,
+      "speaker": null,
+      "opening": "\"Nigga, that's been consistent.\""
+    },
+    {
+      "quote": 83,
+      "line": 9215,
+      "speaker": null,
+      "opening": "\"I promise to laugh when you're funny and"
+    },
+    {
+      "quote": 84,
+      "line": 9217,
+      "speaker": null,
+      "opening": "\"The public appreciates it.\""
+    },
+    {
+      "quote": 85,
+      "line": 9219,
+      "speaker": null,
+      "opening": "\"The public isn't married to you.\""
+    },
+    {
+      "quote": 86,
+      "line": 9225,
+      "speaker": null,
+      "opening": "\"And I promise you will never have to"
+    }
+  ]
+}

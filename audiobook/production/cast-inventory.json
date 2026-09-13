@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "purpose": "Bounded continuity and voice-design inventory for a chapter-by-chapter audiobook of Books I-VI; not a speaker assignment file.",
+  "research_scope": "Built from work/brief-1-2.md, brief-3-4.md, brief-5-6.md, analysis-1-2.md, targeted name searches, chapter-heading searches, and selected local source passages. It is not a full six-book read.",
+  "production_rules": [
+    "Keep one stable voice identity per confirmed recurring character.",
+    "AIDEN and TANK are locked to the selected local Qwen references; do not regenerate their VoiceDesign identities.",
+    "Performance cues below are proposed casting directions grounded in the cited behavior or description, not claims that the prose specifies pitch or accent.",
+    "Do not infer gender, age, ethnicity, accent, or vocal physiology from a name alone.",
+    "Do not imitate celebrities or other real people.",
+    "TICKET and GUEST are pilot utility roles, not canonical personal identities. Reuse them only for genuinely incidental speakers after checking each chapter."
+  ],
+  "locked_identities": {
+    "AIDEN": {
+      "reference": "outputs/ten-toes-down-audio/voice-design/aiden-reference.wav",
+      "manifest": "outputs/ten-toes-down-audio/voice-design/aiden.manifest.json",
+      "sha256": "a8ebab9b6728b86706c35fb2781ddef56d24514e37195066dcdb54382ca2222a"
+    },
+    "TANK": {
+      "reference": "outputs/ten-toes-down-audio/voice-design/tank-reference.wav",
+      "manifest": "outputs/ten-toes-down-audio/voice-design/tank.manifest.json",
+      "sha256": "210f9dc804159ebd0ffe15b24dc28284c986bf632d09df03f5ed2814a1640d7b"
+    }
+  },
+  "cast": [
+    {
+      "id": "AIDEN",
+      "name": "Aiden",
+      "aliases": ["Captain Aiden"],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "First-person narrator, protagonist, Shawna's husband, Tank's chosen brother, police captain, later holder of the Crown of Midnight.",
+      "personality": "Boastful, funny, vigilant, reckless, affectionate, and highly competent; his narration can admit failure and bodily limits without losing confidence.",
+      "performance_cue": "LOCKED: retain the selected Qwen identity. Deep resonant baritone, relaxed conversational AAE cadence, slight grain, amused confidence, and small pauses that land jokes. Use the same identity for narration and quoted dialogue.",
+      "evidence": [
+        {"book": 1, "chapter": 1, "lines": "21-23", "note": "Exact narration used for the selected reference."},
+        {"book": 1, "chapter": 17, "lines": "9758 onward", "note": "Closing self-assessment retains temper, gun, criminal business, appetite, and devotion."},
+        {"book": 6, "chapter": 22, "lines": "9155-9183", "note": "Wedding vow names moments when being Aiden did not feel sufficient."}
+      ],
+      "uncertainty": "None about identity. Do not split narrator-Aiden and dialogue-Aiden into different voices."
+    },
+    {
+      "id": "TANK",
+      "name": "Tank",
+      "aliases": ["Aiden's brother", "chosen brother"],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Aiden's loyal chosen brother and physical backup; Rosa's fiancé and, in Book VI, husband.",
+      "personality": "Warm, loyal, physically imposing, dryly funny, emotionally sincere, and sometimes awkward when exposed or romantic.",
+      "performance_cue": "LOCKED: retain the selected deeper Qwen identity. Exceptionally low, full, warm bass; measured AAE conversational phrasing; dry amusement. Let vulnerable passages soften without making him suddenly polished.",
+      "evidence": [
+        {"book": 1, "chapter": 1, "lines": "149,153", "note": "Exact funeral dialogue used for the selected reference."},
+        {"book": 4, "chapter": 9, "lines": "3236-3593", "note": "Proposal plot establishes comic awkwardness and sincere devotion to Rosa."},
+        {"book": 6, "chapter": 22, "lines": "9013-9055", "note": "Wedding vows state loyalty and emotional priorities."}
+      ],
+      "uncertainty": "No canonical personal name beyond Tank was confirmed in the bounded search."
+    },
+    {
+      "id": "SHAWNA",
+      "name": "Shawna",
+      "aliases": ["Aiden's wife"],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Aiden's wife; singer; navigator, planner, armed protector, and independent decision-maker.",
+      "personality": "Precise, emotionally perceptive, operational under pressure, affectionate, and unwilling to be reduced to Aiden's audience.",
+      "performance_cue": "Clear, controlled, direct, and intimate with Aiden; retain steel in tactical lines. Singing requires a separate musical-performance decision and should still sound like the same character.",
+      "evidence": [
+        {"book": 1, "chapter": 4, "lines": "2481-2485", "note": "Her singing stops the room; the first line shakes and the performance grows steadier."},
+        {"book": 2, "chapter": 11, "lines": "5947-5949", "note": "Oil-streaked beside the locomotive station plan, she greets Aiden with fierce humor: 'You late.'"},
+        {"book": 3, "chapter": 8, "lines": "3069-3564", "note": "Reads route notes, spots an ambush, and directs drivers over radio."},
+        {"book": 6, "chapter": 15, "lines": "6013-6037", "note": "Fights beside Aiden in the final confrontation with Zero."}
+      ],
+      "uncertainty": "The pilot's existing Kokoro voice is a provisional implementation choice; only Aiden and Tank have selected Qwen identities."
+    },
+    {
+      "id": "ROSA",
+      "name": "Rosa",
+      "aliases": [],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Shawna's long-standing friend and fellow singer; Tank's partner, then wife; frequent crowd and evacuation coordinator.",
+      "personality": "World-worn, bold, practical, funny, and caring; she can take a microphone and organize frightened people.",
+      "performance_cue": "A seasoned, expressive speaking voice with emotional texture and command. Contrast Shawna by favoring earthier warmth and lived-in musicality over crisp precision.",
+      "evidence": [
+        {"book": 1, "chapter": 3, "lines": "1687-1689", "note": "Age 34; explicit description says her voice sounds as if she has been awake through every bad night in Vegas; singer and old friend of Shawna."},
+        {"book": 5, "chapter": 4, "lines": "2339-2341", "note": "Shouts evacuation directions over gunfire while others move people to safety."},
+        {"book": 6, "chapter": 22, "lines": "9077-9081", "note": "Wedding vow to Tank is bold, public, specific, and affectionate."}
+      ],
+      "uncertainty": "Do not equate a 'lived-in' sound with a specific accent or vocal damage."
+    },
+    {
+      "id": "MERCEDES",
+      "name": "Mercedes",
+      "aliases": [],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Friend, performer, driver, organizer, and Porsche's business partner in No Second Door and the Velvet Mile.",
+      "personality": "Quick, direct, socially bold, emotionally loyal, and ready to turn nearby objects into tools or weapons.",
+      "performance_cue": "Warm, fast-thinking, and direct, with an easy teasing edge. Keep distinct from Shawna by making Mercedes more socially expansive and impulsive in comic exchanges.",
+      "evidence": [
+        {"book": 1, "chapter": 2, "lines": "753-755", "note": "Introduced at age 30 with a pointed joke and history of taking action when disrespected."},
+        {"book": 1, "chapter": 1, "lines": "333-349", "note": "Secures her stolen recording drive and uses a microphone stand during the fight."},
+        {"book": 3, "chapter": 24, "lines": "9357-9359", "note": "Mercedes and Porsche make Alina a real business partner and ask her opinion."}
+      ],
+      "uncertainty": "No surname was confirmed. The prose establishes collaboration with Porsche, not a romantic relationship."
+    },
+    {
+      "id": "PORSCHE",
+      "name": "Porsche",
+      "aliases": [],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Driver, rescuer, organizer, and Mercedes's business partner in No Second Door and the Velvet Mile.",
+      "personality": "Focused, daring, observant, irreverent, and operationally decisive.",
+      "performance_cue": "Sharply focused and economical under pressure, opening into dry playfulness with the ensemble. Contrast Mercedes through firmer attack and cooler control rather than a different accent.",
+      "evidence": [
+        {"book": 1, "chapter": 2, "lines": "895-897", "note": "Introduced at age 29, driving with eyes fixed on the road and immediately ordering Mercedes to sit down."},
+        {"book": 1, "chapter": 1, "lines": "253-337", "note": "Runs the duplicate-case switch and trips Silas's largest guard."},
+        {"book": 4, "chapter": 22, "lines": "7568-7570", "note": "Velvet Mile papers put Mercedes's and Porsche's names and decisions at the center."}
+      ],
+      "uncertainty": "No surname was confirmed. Do not collapse Porsche and Mercedes into one ensemble voice."
+    },
+    {
+      "id": "MARCELLUS",
+      "name": "Marcellus Vale",
+      "aliases": ["Marcellus"],
+      "classification": "confirmed_major_recurring",
+      "books": [1, 2, 3, 4, 5, 6],
+      "continuity_role": "Master jeweler, Blue Mercy's maker, older adventurer, keeper and authenticator of jewels and crowns; later reunited with Isolde.",
+      "personality": "Exacting, dry, dangerous when needed, deeply sentimental, and delighted by good craft.",
+      "performance_cue": "Older, deliberate, dry, and exact; warmth should emerge through craft and memory rather than constant softness. Keep him clearly separate from institutional authority voices.",
+      "evidence": [
+        {"book": 1, "chapter": 6, "lines": "3411-3413", "note": "Introduced as a jeweler, 'violent when disappointed.'"},
+        {"book": 4, "chapter": 5, "lines": "1818-1820", "note": "Quietly identifies the difference between possession and being chosen."},
+        {"book": 4, "chapter": 21, "lines": "7100-7104", "note": "Moves carefully through the vault, examining workmanship instead of grabbing treasure."},
+        {"book": 6, "chapter": 24, "lines": "10071-10075", "note": "Works in morning light, teaches adult apprentices, and lives with memory and renewed love."}
+      ],
+      "uncertainty": "The bounded pass confirms that he is called an old man but does not establish an exact present-day age."
+    },
+    {
+      "id": "GLORIA_KNOX",
+      "name": "Gloria Knox",
+      "aliases": ["Chief Knox", "Knox"],
+      "classification": "confirmed_recurring_support",
+      "books": [1, 2, 3, 4, 6],
+      "continuity_role": "Las Vegas police chief, Aiden's institutional superior and ally.",
+      "personality": "Authoritative, skeptical, dry, and decisive; she can support Aiden while still setting boundaries.",
+      "performance_cue": "Crisp command, spare delivery, and dry patience; avoid booming villain authority.",
+      "evidence": [
+        {"book": 1, "chapter": 3, "lines": "1909-1912", "note": "Age 53, silver at the temples, sharply presented; assesses the impossible scene with one practical question."},
+        {"book": 1, "chapter": 13, "lines": "7659-7663", "note": "Protects Aiden's command while demanding corrupt officers bring their badges."},
+        {"book": 2, "chapter": 15, "lines": "7001-7003", "note": "Arrives with helicopters and champagne reserved for after the work."}
+      ],
+      "uncertainty": "No Book V appearance was confirmed."
+    },
+    {
+      "id": "DR_VEGA",
+      "name": "Dr. Marisol Vega",
+      "aliases": ["Dr. Vega", "Vega"],
+      "classification": "confirmed_recurring_support",
+      "books": [1, 2, 4, 6],
+      "continuity_role": "Physician who treats Aiden and repeatedly enforces the bodily limits his legend ignores.",
+      "personality": "Clinical, unflappable, blunt, and quietly funny.",
+      "performance_cue": "Measured medical precision and low tolerance for theatrical evasions; humor should stay deadpan.",
+      "evidence": [
+        {"book": 1, "chapter": 3, "lines": "1415-1435", "note": "Introduces herself, states that Aiden is alive, and immediately explains the consequences of his behavior."},
+        {"book": 4, "chapter": 13, "lines": "4712 onward", "note": "Diagnoses injury and explicitly restricts Blue Thunder, lifting, fighting, and rough riding."},
+        {"book": 6, "chapter": 23, "lines": "9343-9347", "note": "Adds a dry medical joke to the wedding toast."}
+      ],
+      "uncertainty": "Pronouns and title establish the character; no vocal age or accent is specified."
+    },
+    {
+      "id": "VICTOR",
+      "name": "Victor",
+      "aliases": [],
+      "classification": "confirmed_recurring_support",
+      "books": [2, 3, 4, 5, 6],
+      "continuity_role": "Lightning-powered academy rival who becomes a trusted friend and recurring rescuer.",
+      "personality": "Competitive, earnest, technically enthusiastic, sometimes pompous, and capable of apology.",
+      "performance_cue": "Cleaner, more formal, and more eager than Aiden; energetic competitive brightness, with sincere embarrassment when enthusiasm outruns judgment.",
+      "evidence": [
+        {"book": 2, "chapter": 1, "lines": "253-255", "note": "Moves immediately during a train emergency, wrapped in blue-white energy."},
+        {"book": 2, "chapter": 9, "lines": "5327-5329", "note": "Uses limited short bursts and tires, making him a capable but bounded ally."},
+        {"book": 6, "chapter": 20, "lines": "8129-8131, 8329-8333", "note": "Enthusiastic public announcement followed by a direct apology to Tank."}
+      ],
+      "uncertainty": "No surname was confirmed."
+    },
+    {
+      "id": "CASSIUS",
+      "name": "Cassius",
+      "aliases": [],
+      "classification": "confirmed_recurring_support",
+      "books": [3, 4, 6],
+      "continuity_role": "Elite racing rival turned friend; partner of Inez; son of Nero.",
+      "personality": "Proud, competitive, observant, wounded by family history, and increasingly generous.",
+      "performance_cue": "Controlled rival energy with dry elegance; allow emotion to tighten rather than explode in the family-history scenes.",
+      "evidence": [
+        {"book": 3, "chapter": 1, "lines": "317-319", "note": "Introduced trapped in a falling race car before Aiden rescues him."},
+        {"book": 3, "chapter": 3, "lines": "1033-1043", "note": "Explains that adults dismissed his accurate objection as grief when he was 24."},
+        {"book": 6, "chapter": 24, "lines": "10059-10061", "note": "Runs a racing garage with Inez and maintains the couple's competitive humor."}
+      ],
+      "uncertainty": "No surname was confirmed."
+    },
+    {
+      "id": "INEZ",
+      "name": "Inez",
+      "aliases": [],
+      "classification": "confirmed_recurring_support",
+      "books": [3, 4, 6],
+      "continuity_role": "Racer, daughter of Esteban, Cassius's partner, and active rescuer.",
+      "personality": "Fast, competitive, candid, emotionally intelligent, and unwilling to let inherited feuds define her.",
+      "performance_cue": "Quick, grounded confidence with an unforced competitive edge; her humor should sound real rather than courtly.",
+      "evidence": [
+        {"book": 3, "chapter": 1, "lines": "259-263", "note": "Laughs genuinely, then challenges Aiden to keep up."},
+        {"book": 3, "chapter": 3, "lines": "933-943", "note": "Stands between the feuding fathers and tells Esteban he does not know everything."},
+        {"book": 3, "chapter": 8, "lines": "3069-3564", "note": "Saves Rafe during the ambush; Aiden later gives her explicit credit."}
+      ],
+      "uncertainty": "No surname was confirmed."
+    },
+    {
+      "id": "ISOLDE",
+      "name": "Isolde",
+      "aliases": [],
+      "classification": "confirmed_recurring_support",
+      "books": [4, 5, 6],
+      "continuity_role": "Dancer and survivor from Marcellus's past; guardian of the seven-turn knowledge; later his partner.",
+      "personality": "Poised, exacting, perceptive, playful, and unwilling to let wealth define choosing.",
+      "performance_cue": "Mature poise, musical timing, and precise correction; warmth with Marcellus should coexist with firm instruction.",
+      "evidence": [
+        {"book": 4, "chapter": 5, "lines": "1656-1692", "note": "Reunites with Marcellus, recognizes Shawna's difficult performance work, and distinguishes dancing from display."},
+        {"book": 4, "chapter": 5, "lines": "1636-2063", "note": "Supplies the dance and jewel knowledge needed for the vault."},
+        {"book": 6, "chapter": 24, "lines": "10071-10075", "note": "Teaches dance above Marcellus's workshop and shares his daily life."}
+      ],
+      "uncertainty": "Book IV establishes that she is 60; no accent is specified."
+    },
+    {
+      "id": "VESPER",
+      "name": "Vesper",
+      "aliases": [],
+      "classification": "confirmed_recurring_support",
+      "books": [5, 6],
+      "continuity_role": "Midnight City royal insider, dancer, witness to its buried history, and central ally against Emperor Zero.",
+      "personality": "Elegant, guarded, precise, politically aware, grieving, and increasingly direct.",
+      "performance_cue": "Controlled elegance and careful phrasing; let wit sharpen when challenged and let later warmth appear without losing reserve.",
+      "evidence": [
+        {"book": 5, "chapter": 1, "lines": "185-189", "note": "Her smile sharpens as she answers Aiden's marital joke."},
+        {"book": 5, "chapter": 4, "lines": "2297-2299", "note": "Described as a precise, light dancer who destabilizes a partner's expected balance."},
+        {"book": 5, "chapter": 19, "lines": "8913-8955", "note": "Stops the counterfeit Crown and reads decisive evidence clearly to the arena."},
+        {"book": 6, "chapter": 4, "lines": "1785-1789", "note": "Counters Zero's dismissal of paper evidence with dry precision."}
+      ],
+      "uncertainty": "A title such as queen or princess is context-dependent; use Vesper as the stable speaker key until a chapter explicitly uses a title."
+    },
+    {
+      "id": "LIORA",
+      "name": "Liora",
+      "aliases": [],
+      "classification": "confirmed_book_major",
+      "books": [6],
+      "continuity_role": "Airship-berth manager, prisoner rescued from Zero, route expert, and later operator of the First Dance passenger airship.",
+      "personality": "Patient under confinement, technically observant, careful about uncertainty, and calm in command.",
+      "performance_cue": "Clear, calm operational delivery with restrained frustration; tension may narrow the voice during aerial danger without turning it frantic.",
+      "evidence": [
+        {"book": 6, "chapter": 4, "lines": "1851-1853, 2033-2037", "note": "Age 33, berth manager, introduced with 'furious patience' after confinement."},
+        {"book": 6, "chapter": 4, "lines": "2149-2151", "note": "Draws a route from memory and stops whenever uncertain."},
+        {"book": 6, "chapter": 10, "lines": "4329-4331, 4511-4513", "note": "Her radio voice is explicitly clear and calm, then tighter under danger."},
+        {"book": 6, "chapter": 16, "lines": "6523-6527", "note": "Plans passenger, cargo, and music routes so people can leave freely."}
+      ],
+      "uncertainty": "Major within Book VI, not a six-book recurring role."
+    },
+    {
+      "id": "RED",
+      "name": "Red",
+      "aliases": ["Mr. Redmond", "Redmond"],
+      "classification": "confirmed_book_major_antagonist",
+      "books": [1],
+      "continuity_role": "Primary Book I crime boss; controls the Saint, exploits Shawna, commissions theft and killing, and uses polished hospitality as coercion.",
+      "personality": "Possessive, calculating, image-conscious, and quietly threatening.",
+      "performance_cue": "Polished restraint and intimate menace; avoid shouting as the default. Contrast Aiden's open bravado with controlled ownership language.",
+      "evidence": [
+        {"book": 1, "chapter": 2, "lines": "737-739", "note": "Owns the Saint complex and enough people to make violence disappear."},
+        {"book": 1, "chapter": 10, "lines": "6038-6040", "note": "Redmond is explicitly identified as Red's government name."},
+        {"book": 1, "chapter": 11, "lines": "6672-6676", "note": "Receives Aiden in a king-sized office with Shawna already isolated there."}
+      ],
+      "uncertainty": "Given name not confirmed; do not expand Redmond."
+    },
+    {
+      "id": "VOSS",
+      "name": "Voss",
+      "aliases": ["Chancellor Voss"],
+      "classification": "confirmed_book_major_antagonist",
+      "books": [2],
+      "continuity_role": "Sky High chancellor who weaponizes the Heart, collaborates across the time door, and seeks transferable power.",
+      "personality": "Controlled, status-conscious, analytical, and exploitative.",
+      "performance_cue": "Formal, cool institutional authority with pressure under the surface; distinguish him from Knox by removing her practical warmth and humor.",
+      "evidence": [
+        {"book": 2, "chapter": 1, "lines": "483-487", "note": "Storm straightens at his arrival; he inspects damaged machinery before addressing people."},
+        {"book": 2, "chapter": 7, "lines": "3967-3969", "note": "His progression from polite disagreement to financing and coercive alliance is stated."},
+        {"book": 2, "chapter": 17, "lines": "7796-7800", "note": "Escapes in a damaged aircraft while the academy collapses."}
+      ],
+      "uncertainty": "No first name was confirmed."
+    },
+    {
+      "id": "KELLER",
+      "name": "Ernst Keller",
+      "aliases": ["Colonel Keller", "Keller"],
+      "classification": "confirmed_book_major_antagonist",
+      "books": [2],
+      "continuity_role": "Colonel commanding the altered-1944 Saint-Orage depot and Voss's partner in imprisonment and technology exchange.",
+      "personality": "Authoritarian, cold, violent, and pleased by power he previously outsourced.",
+      "performance_cue": "Smooth amplified command turning colder under challenge; use period-neutral clarity unless the text explicitly supports a language or accent choice in a given passage.",
+      "evidence": [
+        {"book": 2, "chapter": 7, "lines": "3967-3971", "note": "Full name, rank, depot, and alliance are established by Reiss."},
+        {"book": 2, "chapter": 9, "lines": "5385-5389", "note": "Voice explicitly arrives smooth and amplified over loudspeakers."},
+        {"book": 2, "chapter": 12, "lines": "6355-6359", "note": "Smile reveals triumph and hunger after gaining bodily power."}
+      ],
+      "uncertainty": "Historical setting does not by itself authorize an imitated national accent."
+    },
+    {
+      "id": "AURELIO",
+      "name": "Aurelio Cruel",
+      "aliases": ["Duke Aurelio Cruel", "the duke"],
+      "classification": "confirmed_book_major_antagonist",
+      "books": [3],
+      "continuity_role": "Duke who controls the Grand Prix apparatus, coerces workers and competitors, and buries the White Heron history.",
+      "personality": "Aristocratic, vain, possessive, dangerous, and genuinely skilled enough to make his rivalry consequential.",
+      "performance_cue": "Cultivated command and entitled calm, fraying into anger while retaining competence. Avoid cartoon aristocracy.",
+      "evidence": [
+        {"book": 3, "chapter": 1, "lines": "91-93", "note": "Full title and name announced by his official."},
+        {"book": 3, "chapter": 3, "lines": "1175-1179", "note": "Age 48, imposing and handsome with weapon-like danger."},
+        {"book": 3, "chapter": 18, "lines": "7263-7267", "note": "Still a good driver when furious, so defeat cannot be dismissed as incompetence."}
+      ],
+      "uncertainty": "No specific national accent was established in the bounded pass."
+    },
+    {
+      "id": "BELLARIO",
+      "name": "Bellario",
+      "aliases": [],
+      "classification": "confirmed_book_recurring_antagonist",
+      "books": [3],
+      "continuity_role": "Aurelio's announcer, race official, fixer, and intermediary for coercion.",
+      "personality": "Smooth, officious, quick to regain presentation, and practiced at laundering threats through rules.",
+      "performance_cue": "Broadcast polish and fast recovery; pleasant official cadence with coercion tucked inside it.",
+      "evidence": [
+        {"book": 3, "chapter": 1, "lines": "263-265", "note": "Recovers his microphone immediately and turns chaos into an official race announcement."},
+        {"book": 3, "chapter": 3, "lines": "1315-1319", "note": "Instantly steers an injured waiter toward a service door."},
+        {"book": 3, "chapter": 8, "lines": "3397-3401", "note": "Invokes the duke's order after the ambush."}
+      ],
+      "uncertainty": "No first name was confirmed."
+    },
+    {
+      "id": "SOLOMON_SAINT",
+      "name": "Solomon Saint",
+      "aliases": ["General Solomon Saint", "General Saint", "Saint"],
+      "classification": "confirmed_multi_book_major_antagonist",
+      "books": [3, 4],
+      "continuity_role": "Military patron and World Championship architect who becomes the principal Book IV antagonist and bridge to Emperor Zero.",
+      "personality": "Composed, strategic, theatrical through institutions rather than chatter, and accustomed to delegated force.",
+      "performance_cue": "Still, economical authority with broad command presence. Separate him from Voss by sounding military and physically grounded rather than academic.",
+      "evidence": [
+        {"book": 3, "chapter": 24, "lines": "9483-9489", "note": "Full name, age 51, composed bearing, broad chest, plain uniform, and weaponless stillness are explicit."},
+        {"book": 4, "chapter": 2, "lines": "427-429", "note": "Calls calmly after attempting to kill Aiden, treating violence as scheduling."},
+        {"book": 4, "chapter": 20, "lines": "6636-7041", "note": "Final contest reveals skill, patience, and lethal intent."}
+      ],
+      "uncertainty": "Do not confuse Solomon Saint with the Saint nightclub or Red Saint Works."
+    },
+    {
+      "id": "EMPEROR_ZERO",
+      "name": "Rafael Sorel",
+      "aliases": ["Emperor Zero", "Zero"],
+      "classification": "confirmed_multi_book_major_antagonist",
+      "books": [5, 6],
+      "continuity_role": "Former royal minister turned emperor; manipulates accounts, debt, monuments, institutions, and fear across Midnight City and the Last City.",
+      "personality": "Polished, controlling, image-conscious, patient, and unable to tolerate people walking away.",
+      "performance_cue": "Smooth courtly control with minimal volume; harden as public recognition slips. Keep his menace administrative and personal rather than monstrous.",
+      "evidence": [
+        {"book": 5, "chapter": 6, "lines": "3019-3025", "note": "Rafael Sorel is explicitly identified as the future Emperor Zero; at 36 he smiled well, remembered birthdays, and hid abuse from witnesses."},
+        {"book": 6, "chapter": 1, "lines": "47-49", "note": "Appears in white suit and black gloves to dismiss Aiden's greatness as accidents."},
+        {"book": 6, "chapter": 4, "lines": "1721-1723", "note": "Hard, handsome face shaped by years of frightened agreement."},
+        {"book": 6, "chapter": 15, "lines": "6035-6039", "note": "Death and the central fear beneath his rule are explicit."}
+      ],
+      "uncertainty": "Rafael Sorel and Emperor Zero are one confirmed person, not two roles."
+    },
+    {
+      "id": "BIG_T",
+      "name": "Big T",
+      "aliases": ["T"],
+      "classification": "confirmed_legacy_role_limited_scenes",
+      "books": [1],
+      "continuity_role": "Aiden's paternal predecessor and criminal boss; shoots Aiden and dies early, then persists through memory and consequences.",
+      "personality": "Paternal, controlling, amused by violence, and accustomed to obedience.",
+      "performance_cue": "Heavy paternal authority and casual menace; use one stable voice for living scenes and memories, but do not reserve a six-book lead slot.",
+      "evidence": [
+        {"book": 1, "chapter": 1, "lines": "565", "note": "The transition memory calls him Big T."},
+        {"book": 1, "chapter": 2, "lines": "575-577", "note": "The next scene calls him Big T and then T, confirming the alias as he leads Aiden toward a beating."},
+        {"book": 1, "chapter": 2, "lines": "615-623", "note": "Laughs while refusing to stop the fight."},
+        {"book": 1, "chapter": 3, "lines": "1387-1443", "note": "Aiden remembers him calling him son; his bullet remains after his death."}
+      ],
+      "uncertainty": "Do not confuse Big T/T with TICKET."
+    },
+    {
+      "id": "TICKET",
+      "name": "ticket man",
+      "aliases": ["TICKET"],
+      "classification": "confirmed_minor_one_scene_utility",
+      "books": [1],
+      "continuity_role": "Unnamed funeral-door worker in the Book I opening; a pilot speaker label, not a recurring named character.",
+      "personality": "Bureaucratically matter-of-fact about absurd admission rules.",
+      "performance_cue": "Keep the pilot's dry, unhurried service-counter contrast if reproducing this scene. Do not automatically assign the same role to every ticket worker in later books.",
+      "evidence": [
+        {"book": 1, "chapter": 1, "lines": "51-55", "note": "Checks Aiden's stamp and calls him 'Paid deceased.'"},
+        {"book": 1, "chapter": 1, "lines": "507-509", "note": "Continues admitting groups for sixty dollars."}
+      ],
+      "uncertainty": "No personal name, age, or gendered pronoun was confirmed in the cited scene; 'ticket man' is the source label."
+    },
+    {
+      "id": "GUEST",
+      "name": "incidental guest pool",
+      "aliases": ["GUEST"],
+      "classification": "noncanonical_utility_pool",
+      "books": [],
+      "continuity_role": "Production convenience for isolated unnamed funeral guests in the pilot, not one person across the saga.",
+      "personality": "Varies by line and scene.",
+      "performance_cue": "Use only for low-salience one-off lines. Rotate or separate timbres when two incidental speakers converse or when an unnamed speaker returns materially within a chapter.",
+      "evidence": [
+        {"book": 1, "chapter": 1, "lines": "3-566", "note": "Pilot script groups several unnamed guest turns under this utility label."}
+      ],
+      "uncertainty": "Never treat GUEST as a canonical identity or let it absorb named supporting characters."
+    }
+  ],
+  "defer_until_chapter_pass": [
+    {
+      "names": ["Valentino", "Silas Gold"],
+      "reason": "Named Book I antagonists with limited scope; give each a distinct local voice when their chapters are prepared, but they do not justify permanent ensemble priority. Valentino is tied to Dante and Shawna's past (I.2, lines 1035-1085); Silas drives the funeral auction incident (I.1, lines 181-427)."
+    },
+    {
+      "names": ["Dean Storm", "Petra Stone", "Bell", "Pike", "Dr. Ilya Reiss", "Commander Sable", "Finn Cinder"],
+      "reason": "Substantial Book II arc cast. Preserve identities within that book after a bounded Book II chapter pass; current evidence does not support elevating all to six-book recurring voices."
+    },
+    {
+      "names": ["Nero", "Esteban", "Lark", "Celadon", "Alina", "Rafe Velluto", "Odette", "Graves"],
+      "reason": "Important Book III/IV local cast. Nero and Esteban need separate older-father voices; Lark and Celadon need stable Book III voices. Resolve the possible duplicate Mateo identities before casting them as one person."
+    },
+    {
+      "names": ["Bastien", "Magnolia Saint-Clair", "Noor Vale", "Salma", "Anton Atlas", "Roland Ruin", "Gideon", "Orson", "June", "Adrian"],
+      "reason": "Important Book V/VI regional ensemble, but bounded evidence supports chapter-arc casting rather than permanent top-tier slots. Noor Vale is explicitly unrelated to Marcellus (VI.9, lines 4055-4059)."
+    },
+    {
+      "names": ["the baker"],
+      "reason": "Unnamed woman in VI.24 with a memorable final-scene role (lines 9795-10007), but one scene only. Do not turn the inherited or fandom-style label 'Baker' into a supernatural office or recurring person."
+    }
+  ]
+}

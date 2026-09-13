@@ -1,0 +1,751 @@
+{
+  "chapter_id": "b05-c09",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 124,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 4305,
+      "speaker": null,
+      "opening": "\"You want it?\""
+    },
+    {
+      "quote": 2,
+      "line": 4307,
+      "speaker": null,
+      "opening": "\"On you first.\""
+    },
+    {
+      "quote": 3,
+      "line": 4309,
+      "speaker": null,
+      "opening": "\"It's a king's crown.\""
+    },
+    {
+      "quote": 4,
+      "line": 4311,
+      "speaker": null,
+      "opening": "\"Nigga, it's jewelry until somebody starts arguing.\""
+    },
+    {
+      "quote": 5,
+      "line": 4323,
+      "speaker": null,
+      "opening": "\"Your pledge, Captain.\""
+    },
+    {
+      "quote": 6,
+      "line": 4329,
+      "speaker": null,
+      "opening": "\"The destroyed vehicle does not qualify.\""
+    },
+    {
+      "quote": 7,
+      "line": 4331,
+      "speaker": null,
+      "opening": "\"Nigga, you recognized it by sound?\""
+    },
+    {
+      "quote": 8,
+      "line": 4333,
+      "speaker": null,
+      "opening": "\"I recognized your face preparing to make my"
+    },
+    {
+      "quote": 9,
+      "line": 4339,
+      "speaker": null,
+      "opening": "\"That is a picture of the destruction.\""
+    },
+    {
+      "quote": 10,
+      "line": 4341,
+      "speaker": null,
+      "opening": "\"Before,\""
+    },
+    {
+      "quote": 11,
+      "line": 4341,
+      "speaker": null,
+      "opening": "\"Important distinction.\""
+    },
+    {
+      "quote": 12,
+      "line": 4345,
+      "speaker": null,
+      "opening": "\"Look at the nigga's posture.\""
+    },
+    {
+      "quote": 13,
+      "line": 4347,
+      "speaker": null,
+      "opening": "\"There is no financial value in posture.\""
+    },
+    {
+      "quote": 14,
+      "line": 4351,
+      "speaker": null,
+      "opening": "\"Is that the actual car?\""
+    },
+    {
+      "quote": 15,
+      "line": 4355,
+      "speaker": null,
+      "opening": "\"Available pieces of it,\""
+    },
+    {
+      "quote": 16,
+      "line": 4357,
+      "speaker": null,
+      "opening": "\"Two million.\""
+    },
+    {
+      "quote": 17,
+      "line": 4359,
+      "speaker": null,
+      "opening": "\"It is a pledge,\""
+    },
+    {
+      "quote": 18,
+      "line": 4359,
+      "speaker": null,
+      "opening": "\"There is a procedure.\""
+    },
+    {
+      "quote": 19,
+      "line": 4361,
+      "speaker": null,
+      "opening": "\"Three,\""
+    },
+    {
+      "quote": 20,
+      "line": 4367,
+      "speaker": null,
+      "opening": "\"Four million,\""
+    },
+    {
+      "quote": 21,
+      "line": 4371,
+      "speaker": null,
+      "opening": "\"And this.\""
+    },
+    {
+      "quote": 22,
+      "line": 4375,
+      "speaker": null,
+      "opening": "\"Running condition?\""
+    },
+    {
+      "quote": 23,
+      "line": 4377,
+      "speaker": null,
+      "opening": "\"Naturally.\""
+    },
+    {
+      "quote": 24,
+      "line": 4379,
+      "speaker": null,
+      "opening": "\"Nigga, nothing natural about this room. Keys.\""
+    },
+    {
+      "quote": 25,
+      "line": 4383,
+      "speaker": null,
+      "opening": "\"There. Provenance.\""
+    },
+    {
+      "quote": 26,
+      "line": 4385,
+      "speaker": null,
+      "opening": "\"Thank you,\""
+    },
+    {
+      "quote": 27,
+      "line": 4389,
+      "speaker": null,
+      "opening": "\"Your pledge remains unresolved.\""
+    },
+    {
+      "quote": 28,
+      "line": 4391,
+      "speaker": null,
+      "opening": "\"Nigga, let me enjoy being solvent in motion."
+    },
+    {
+      "quote": 29,
+      "line": 4395,
+      "speaker": null,
+      "opening": "\"Nigga, it even smells new.\""
+    },
+    {
+      "quote": 30,
+      "line": 4399,
+      "speaker": null,
+      "opening": "\"We should crash something famous.\""
+    },
+    {
+      "quote": 31,
+      "line": 4401,
+      "speaker": null,
+      "opening": "\"You already dated a musician.\""
+    },
+    {
+      "quote": 32,
+      "line": 4403,
+      "speaker": null,
+      "opening": "\"That nigga was famous locally.\""
+    },
+    {
+      "quote": 33,
+      "line": 4405,
+      "speaker": null,
+      "opening": "\"So was the damage.\""
+    },
+    {
+      "quote": 34,
+      "line": 4411,
+      "speaker": null,
+      "opening": "\"Darling, everybody saw you buy it. You can"
+    },
+    {
+      "quote": 35,
+      "line": 4417,
+      "speaker": null,
+      "opening": "\"Of him?\""
+    },
+    {
+      "quote": 36,
+      "line": 4421,
+      "speaker": null,
+      "opening": "\"Beside him.\""
+    },
+    {
+      "quote": 37,
+      "line": 4429,
+      "speaker": null,
+      "opening": "\"That's the nigga from the hotel.\""
+    },
+    {
+      "quote": 38,
+      "line": 4431,
+      "speaker": null,
+      "opening": "\"The bouquets?\""
+    },
+    {
+      "quote": 39,
+      "line": 4433,
+      "speaker": null,
+      "opening": "\"The bouquets, the apologies, the terrible choices. Yes.\""
+    },
+    {
+      "quote": 40,
+      "line": 4441,
+      "speaker": null,
+      "opening": "\"The prince offers his family's last racing car,\""
+    },
+    {
+      "quote": 41,
+      "line": 4441,
+      "speaker": null,
+      "opening": "\"A magnificent pledge of confidence.\""
+    },
+    {
+      "quote": 42,
+      "line": 4445,
+      "speaker": null,
+      "opening": "\"Your last car?\""
+    },
+    {
+      "quote": 43,
+      "line": 4447,
+      "speaker": null,
+      "opening": "\"It is a complicated family matter.\""
+    },
+    {
+      "quote": 44,
+      "line": 4449,
+      "speaker": null,
+      "opening": "\"Nigga, that's how men introduce simple lies,\""
+    },
+    {
+      "quote": 45,
+      "line": 4449,
+      "speaker": null,
+      "opening": "\"What happened?\""
+    },
+    {
+      "quote": 46,
+      "line": 4453,
+      "speaker": null,
+      "opening": "\"My father lost a wager. Enzo purchased the"
+    },
+    {
+      "quote": 47,
+      "line": 4455,
+      "speaker": null,
+      "opening": "\"And if you do?\""
+    },
+    {
+      "quote": 48,
+      "line": 4457,
+      "speaker": null,
+      "opening": "\"He takes the prize.\""
+    },
+    {
+      "quote": 49,
+      "line": 4461,
+      "speaker": null,
+      "opening": "\"That nigga good at math.\""
+    },
+    {
+      "quote": 50,
+      "line": 4465,
+      "speaker": null,
+      "opening": "\"I am not asking for help.\""
+    },
+    {
+      "quote": 51,
+      "line": 4467,
+      "speaker": null,
+      "opening": "\"Nigga, you think I waited for your permission"
+    },
+    {
+      "quote": 52,
+      "line": 4469,
+      "speaker": null,
+      "opening": "\"A prince has obligations.\""
+    },
+    {
+      "quote": 53,
+      "line": 4471,
+      "speaker": null,
+      "opening": "\"So does a nigga with friends. We both"
+    },
+    {
+      "quote": 54,
+      "line": 4475,
+      "speaker": null,
+      "opening": "\"Don't start borrowing dignity to pay that nigga"
+    },
+    {
+      "quote": 55,
+      "line": 4475,
+      "speaker": null,
+      "opening": "\"Tell Aiden the truth.\""
+    },
+    {
+      "quote": 56,
+      "line": 4479,
+      "speaker": null,
+      "opening": "\"Captain. Shall I put you down for a"
+    },
+    {
+      "quote": 57,
+      "line": 4481,
+      "speaker": null,
+      "opening": "\"Depends. How much for the prince?\""
+    },
+    {
+      "quote": 58,
+      "line": 4485,
+      "speaker": null,
+      "opening": "\"His obligations are not among today's lots.\""
+    },
+    {
+      "quote": 59,
+      "line": 4487,
+      "speaker": null,
+      "opening": "\"Nigga, everything was for sale five minutes ago."
+    },
+    {
+      "quote": 60,
+      "line": 4497,
+      "speaker": null,
+      "opening": "\"Nigga, for that we can get a whole"
+    },
+    {
+      "quote": 61,
+      "line": 4503,
+      "speaker": null,
+      "opening": "\"One race. You and me. Around the harbor"
+    },
+    {
+      "quote": 62,
+      "line": 4509,
+      "speaker": null,
+      "opening": "\"And your new car.\""
+    },
+    {
+      "quote": 63,
+      "line": 4511,
+      "speaker": null,
+      "opening": "\"Nigga, you haven't even seen me drive the"
+    },
+    {
+      "quote": 64,
+      "line": 4517,
+      "speaker": null,
+      "opening": "\"No hood riding.\""
+    },
+    {
+      "quote": 65,
+      "line": 4519,
+      "speaker": null,
+      "opening": "\"I'm inside this time.\""
+    },
+    {
+      "quote": 66,
+      "line": 4521,
+      "speaker": null,
+      "opening": "\"Stay ambitious about that.\""
+    },
+    {
+      "quote": 67,
+      "line": 4525,
+      "speaker": null,
+      "opening": "\"I know the road.\""
+    },
+    {
+      "quote": 68,
+      "line": 4527,
+      "speaker": null,
+      "opening": "\"Nigga, you know how to hold on?\""
+    },
+    {
+      "quote": 69,
+      "line": 4529,
+      "speaker": null,
+      "opening": "\"I intend to learn.\""
+    },
+    {
+      "quote": 70,
+      "line": 4533,
+      "speaker": null,
+      "opening": "\"When this nigga turns, you breathe. When this"
+    },
+    {
+      "quote": 71,
+      "line": 4537,
+      "speaker": null,
+      "opening": "\"Flies?\""
+    },
+    {
+      "quote": 72,
+      "line": 4539,
+      "speaker": null,
+      "opening": "\"Nigga, you entered the passenger seat of a"
+    },
+    {
+      "quote": 73,
+      "line": 4547,
+      "speaker": null,
+      "opening": "\"Keep it,\""
+    },
+    {
+      "quote": 74,
+      "line": 4547,
+      "speaker": null,
+      "opening": "\"Nigga needs a race souvenir.\""
+    },
+    {
+      "quote": 75,
+      "line": 4549,
+      "speaker": null,
+      "opening": "\"I need my heart back where it was!\""
+    },
+    {
+      "quote": 76,
+      "line": 4551,
+      "speaker": null,
+      "opening": "\"That nigga can sit with the orange. Where"
+    },
+    {
+      "quote": 77,
+      "line": 4553,
+      "speaker": null,
+      "opening": "\"Left at the fountain!\""
+    },
+    {
+      "quote": 78,
+      "line": 4561,
+      "speaker": null,
+      "opening": "\"That's the longer road.\""
+    },
+    {
+      "quote": 79,
+      "line": 4563,
+      "speaker": null,
+      "opening": "\"Nigga got a shorter conscience. Watch.\""
+    },
+    {
+      "quote": 80,
+      "line": 4575,
+      "speaker": null,
+      "opening": "\"Nigga, pick one god and give him directions!\""
+    },
+    {
+      "quote": 81,
+      "line": 4607,
+      "speaker": null,
+      "opening": "\"The race was irregular!\""
+    },
+    {
+      "quote": 82,
+      "line": 4611,
+      "speaker": null,
+      "opening": "\"Nigga, your truck missed. That's irregular for you.\""
+    },
+    {
+      "quote": 83,
+      "line": 4613,
+      "speaker": null,
+      "opening": "\"You left the road!\""
+    },
+    {
+      "quote": 84,
+      "line": 4615,
+      "speaker": null,
+      "opening": "\"Your nigga put a truck on it. I"
+    },
+    {
+      "quote": 85,
+      "line": 4619,
+      "speaker": null,
+      "opening": "\"He caught this too,\""
+    },
+    {
+      "quote": 86,
+      "line": 4619,
+      "speaker": null,
+      "opening": "\"No. I caught it. He made me keep"
+    },
+    {
+      "quote": 87,
+      "line": 4621,
+      "speaker": null,
+      "opening": "\"See?\""
+    },
+    {
+      "quote": 88,
+      "line": 4621,
+      "speaker": null,
+      "opening": "\"Nigga already remembering his own achievements. Sign his"
+    },
+    {
+      "quote": 89,
+      "line": 4631,
+      "speaker": null,
+      "opening": "\"I don't know how to repay you,\""
+    },
+    {
+      "quote": 90,
+      "line": 4633,
+      "speaker": null,
+      "opening": "\"Start by choosing a bouquet for one woman"
+    },
+    {
+      "quote": 91,
+      "line": 4635,
+      "speaker": null,
+      "opening": "\"That is all?\""
+    },
+    {
+      "quote": 92,
+      "line": 4637,
+      "speaker": null,
+      "opening": "\"Nigga, you tried it yet? Let's not call"
+    },
+    {
+      "quote": 93,
+      "line": 4641,
+      "speaker": null,
+      "opening": "\"That's yours, baby. This nigga gave you back"
+    },
+    {
+      "quote": 94,
+      "line": 4649,
+      "speaker": null,
+      "opening": "\"Where you going with that?\""
+    },
+    {
+      "quote": 95,
+      "line": 4651,
+      "speaker": null,
+      "opening": "\"It is mine.\""
+    },
+    {
+      "quote": 96,
+      "line": 4653,
+      "speaker": null,
+      "opening": "\"You owe me a running car.\""
+    },
+    {
+      "quote": 97,
+      "line": 4655,
+      "speaker": null,
+      "opening": "\"That was not part of our wager.\""
+    },
+    {
+      "quote": 98,
+      "line": 4657,
+      "speaker": null,
+      "opening": "\"Nigga, I bought it while you was crashing."
+    },
+    {
+      "quote": 99,
+      "line": 4669,
+      "speaker": null,
+      "opening": "“Captain. A small favor.”"
+    },
+    {
+      "quote": 100,
+      "line": 4671,
+      "speaker": null,
+      "opening": "“Nigga, I just sold you a wreck. You"
+    },
+    {
+      "quote": 101,
+      "line": 4675,
+      "speaker": null,
+      "opening": "“A signature. On the photograph. For the collection.”"
+    },
+    {
+      "quote": 102,
+      "line": 4681,
+      "speaker": null,
+      "opening": "“Where?”"
+    },
+    {
+      "quote": 103,
+      "line": 4683,
+      "speaker": null,
+      "opening": "“Anywhere you like.”"
+    },
+    {
+      "quote": 104,
+      "line": 4685,
+      "speaker": null,
+      "opening": "“Nigga, that's how the Ferrari ended up there"
+    },
+    {
+      "quote": 105,
+      "line": 4691,
+      "speaker": null,
+      "opening": "“Aiden, baby. Your face.”"
+    },
+    {
+      "quote": 106,
+      "line": 4693,
+      "speaker": null,
+      "opening": "“What about it?”"
+    },
+    {
+      "quote": 107,
+      "line": 4695,
+      "speaker": null,
+      "opening": "“You look offended by the landing.”"
+    },
+    {
+      "quote": 108,
+      "line": 4697,
+      "speaker": null,
+      "opening": "“Landing came up fast. Nigga prefers an introduction.”"
+    },
+    {
+      "quote": 109,
+      "line": 4701,
+      "speaker": null,
+      "opening": "“May I quote that beside the display?”"
+    },
+    {
+      "quote": 110,
+      "line": 4707,
+      "speaker": null,
+      "opening": "“Nigga, put the whole conversation up if the"
+    },
+    {
+      "quote": 111,
+      "line": 4711,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 112,
+      "line": 4715,
+      "speaker": null,
+      "opening": "“Nothing. I came here terrified of losing my"
+    },
+    {
+      "quote": 113,
+      "line": 4717,
+      "speaker": null,
+      "opening": "“And?”"
+    },
+    {
+      "quote": 114,
+      "line": 4721,
+      "speaker": null,
+      "opening": "“This man sold one that no longer worked"
+    },
+    {
+      "quote": 115,
+      "line": 4723,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 116,
+      "line": 4723,
+      "speaker": null,
+      "opening": "“you finally watching the right part of the"
+    },
+    {
+      "quote": 117,
+      "line": 4737,
+      "speaker": null,
+      "opening": "\"This nigga might be trainable.\""
+    },
+    {
+      "quote": 118,
+      "line": 4739,
+      "speaker": null,
+      "opening": "\"Don't say that in front of him. He'll"
+    },
+    {
+      "quote": 119,
+      "line": 4743,
+      "speaker": null,
+      "opening": "\"How many houses now?\""
+    },
+    {
+      "quote": 120,
+      "line": 4745,
+      "speaker": null,
+      "opening": "\"Enough to make that nigga Zero rearrange his"
+    },
+    {
+      "quote": 121,
+      "line": 4747,
+      "speaker": null,
+      "opening": "\"That many?\""
+    },
+    {
+      "quote": 122,
+      "line": 4749,
+      "speaker": null,
+      "opening": "\"Baby, the nigga needs a whole new expression"
+    },
+    {
+      "quote": 123,
+      "line": 4753,
+      "speaker": null,
+      "opening": "\"And how many cars?\""
+    },
+    {
+      "quote": 124,
+      "line": 4755,
+      "speaker": null,
+      "opening": "\"Baby, don't ask a nigga to count when"
+    }
+  ]
+}

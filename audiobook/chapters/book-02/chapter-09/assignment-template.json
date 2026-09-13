@@ -1,0 +1,373 @@
+{
+  "chapter_id": "b02-c09",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 61,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5135,
+      "speaker": null,
+      "opening": "“He wants us to stop.”"
+    },
+    {
+      "quote": 2,
+      "line": 5137,
+      "speaker": null,
+      "opening": "“Nigga, I gathered the mood.”"
+    },
+    {
+      "quote": 3,
+      "line": 5159,
+      "speaker": null,
+      "opening": "“Nigga, pavement. I missed your ugly ass.”"
+    },
+    {
+      "quote": 4,
+      "line": 5171,
+      "speaker": null,
+      "opening": "“She's asking if we're the people from the"
+    },
+    {
+      "quote": 5,
+      "line": 5173,
+      "speaker": null,
+      "opening": "“Tell her yes.”"
+    },
+    {
+      "quote": 6,
+      "line": 5177,
+      "speaker": null,
+      "opening": "“Miriam Levin,”"
+    },
+    {
+      "quote": 7,
+      "line": 5177,
+      "speaker": null,
+      "opening": "“I work here.”"
+    },
+    {
+      "quote": 8,
+      "line": 5181,
+      "speaker": null,
+      "opening": "“Not by choice.”"
+    },
+    {
+      "quote": 9,
+      "line": 5183,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 10,
+      "line": 5187,
+      "speaker": null,
+      "opening": "“I have many questions.”"
+    },
+    {
+      "quote": 11,
+      "line": 5189,
+      "speaker": null,
+      "opening": "“We going to earn you time for them.”"
+    },
+    {
+      "quote": 12,
+      "line": 5209,
+      "speaker": null,
+      "opening": "“What did you say?”"
+    },
+    {
+      "quote": 13,
+      "line": 5211,
+      "speaker": null,
+      "opening": "“That his bullets would damage the fuel pipes,"
+    },
+    {
+      "quote": 14,
+      "line": 5215,
+      "speaker": null,
+      "opening": "“Fuel pipes up there?”"
+    },
+    {
+      "quote": 15,
+      "line": 5217,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 16,
+      "line": 5221,
+      "speaker": null,
+      "opening": "“Ma'am, I like how you think.”"
+    },
+    {
+      "quote": 17,
+      "line": 5227,
+      "speaker": null,
+      "opening": "“David,”"
+    },
+    {
+      "quote": 18,
+      "line": 5233,
+      "speaker": null,
+      "opening": "“Dr. Marisol Vega.”"
+    },
+    {
+      "quote": 19,
+      "line": 5239,
+      "speaker": null,
+      "opening": "“You have supplies?”"
+    },
+    {
+      "quote": 20,
+      "line": 5241,
+      "speaker": null,
+      "opening": "“Show me who needs them.”"
+    },
+    {
+      "quote": 21,
+      "line": 5247,
+      "speaker": null,
+      "opening": "“There are fewer guards at the rear building"
+    },
+    {
+      "quote": 22,
+      "line": 5247,
+      "speaker": null,
+      "opening": "“Most are watching your door. They think your"
+    },
+    {
+      "quote": 23,
+      "line": 5251,
+      "speaker": null,
+      "opening": "“Finally, some accurate thinking.”"
+    },
+    {
+      "quote": 24,
+      "line": 5263,
+      "speaker": null,
+      "opening": "“You came back.”"
+    },
+    {
+      "quote": 25,
+      "line": 5265,
+      "speaker": null,
+      "opening": "“Told myself I would.”"
+    },
+    {
+      "quote": 26,
+      "line": 5267,
+      "speaker": null,
+      "opening": "“I told them you would too.”"
+    },
+    {
+      "quote": 27,
+      "line": 5277,
+      "speaker": null,
+      "opening": "“We're getting this open,”"
+    },
+    {
+      "quote": 28,
+      "line": 5295,
+      "speaker": null,
+      "opening": "“We have a way out. We need you"
+    },
+    {
+      "quote": 29,
+      "line": 5311,
+      "speaker": null,
+      "opening": "“How many?”"
+    },
+    {
+      "quote": 30,
+      "line": 5313,
+      "speaker": null,
+      "opening": "“Enough to be rude.”"
+    },
+    {
+      "quote": 31,
+      "line": 5317,
+      "speaker": null,
+      "opening": "“You arresting these niggas?”"
+    },
+    {
+      "quote": 32,
+      "line": 5321,
+      "speaker": null,
+      "opening": "“Depends how cooperative the evening gets.”"
+    },
+    {
+      "quote": 33,
+      "line": 5337,
+      "speaker": null,
+      "opening": "“Stop staring,”"
+    },
+    {
+      "quote": 34,
+      "line": 5341,
+      "speaker": null,
+      "opening": "“Ma'am.”"
+    },
+    {
+      "quote": 35,
+      "line": 5343,
+      "speaker": null,
+      "opening": "“He was blocking the path.”"
+    },
+    {
+      "quote": 36,
+      "line": 5345,
+      "speaker": null,
+      "opening": "“Yes, ma'am.”"
+    },
+    {
+      "quote": 37,
+      "line": 5353,
+      "speaker": null,
+      "opening": "“I got him.”"
+    },
+    {
+      "quote": 38,
+      "line": 5357,
+      "speaker": null,
+      "opening": "“What country are you from?”"
+    },
+    {
+      "quote": 39,
+      "line": 5359,
+      "speaker": null,
+      "opening": "“Long story.”"
+    },
+    {
+      "quote": 40,
+      "line": 5361,
+      "speaker": null,
+      "opening": "“Are you winning?”"
+    },
+    {
+      "quote": 41,
+      "line": 5365,
+      "speaker": null,
+      "opening": "“Nigga, look who walking out.”"
+    },
+    {
+      "quote": 42,
+      "line": 5373,
+      "speaker": null,
+      "opening": "“Thirty-eight here,”"
+    },
+    {
+      "quote": 43,
+      "line": 5373,
+      "speaker": null,
+      "opening": "“Twenty-one in the infirmary and east rooms. The"
+    },
+    {
+      "quote": 44,
+      "line": 5375,
+      "speaker": null,
+      "opening": "“Eighty-three still?”"
+    },
+    {
+      "quote": 45,
+      "line": 5379,
+      "speaker": null,
+      "opening": "“Eighty-six. Three arrived yesterday.”"
+    },
+    {
+      "quote": 46,
+      "line": 5391,
+      "speaker": null,
+      "opening": "“He says return the prisoners and he'll permit"
+    },
+    {
+      "quote": 47,
+      "line": 5395,
+      "speaker": null,
+      "opening": "“Tell him I ain't taking requests.”"
+    },
+    {
+      "quote": 48,
+      "line": 5397,
+      "speaker": null,
+      "opening": "“He can't hear me from here.”"
+    },
+    {
+      "quote": 49,
+      "line": 5405,
+      "speaker": null,
+      "opening": "“This nigga brought amplification.”"
+    },
+    {
+      "quote": 50,
+      "line": 5409,
+      "speaker": null,
+      "opening": "“Colonel Keller.”"
+    },
+    {
+      "quote": 51,
+      "line": 5415,
+      "speaker": null,
+      "opening": "“I'm Captain Aiden. You got eighty-six people that"
+    },
+    {
+      "quote": 52,
+      "line": 5427,
+      "speaker": null,
+      "opening": "“He says you have no authority here.”"
+    },
+    {
+      "quote": 53,
+      "line": 5431,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 54,
+      "line": 5431,
+      "speaker": null,
+      "opening": "“the door disagrees.”"
+    },
+    {
+      "quote": 55,
+      "line": 5437,
+      "speaker": null,
+      "opening": "“He will bring men from the barracks,”"
+    },
+    {
+      "quote": 56,
+      "line": 5437,
+      "speaker": null,
+      "opening": "“We cannot hold this shed all night.”"
+    },
+    {
+      "quote": 57,
+      "line": 5439,
+      "speaker": null,
+      "opening": "“Then we don't.”"
+    },
+    {
+      "quote": 58,
+      "line": 5441,
+      "speaker": null,
+      "opening": "“The return door is between us and them.”"
+    },
+    {
+      "quote": 59,
+      "line": 5445,
+      "speaker": null,
+      "opening": "“There is another engine in the machine building."
+    },
+    {
+      "quote": 60,
+      "line": 5453,
+      "speaker": null,
+      "opening": "“What you thinking?”"
+    },
+    {
+      "quote": 61,
+      "line": 5457,
+      "speaker": null,
+      "opening": "“Thinking we gonna make transportation very fucking confusing.”"
+    }
+  ]
+}

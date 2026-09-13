@@ -1,0 +1,805 @@
+{
+  "chapter_id": "b02-c07",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 133,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3947,
+      "speaker": null,
+      "opening": "“Nigga, prepare a heavier one,”"
+    },
+    {
+      "quote": 2,
+      "line": 3959,
+      "speaker": null,
+      "opening": "“It doesn't lead to every past,”"
+    },
+    {
+      "quote": 3,
+      "line": 3959,
+      "speaker": null,
+      "opening": "“It found one branch. One set of coordinates."
+    },
+    {
+      "quote": 4,
+      "line": 3963,
+      "speaker": null,
+      "opening": "“You told the board it failed.”"
+    },
+    {
+      "quote": 5,
+      "line": 3965,
+      "speaker": null,
+      "opening": "“I told the board it should never be"
+    },
+    {
+      "quote": 6,
+      "line": 3969,
+      "speaker": null,
+      "opening": "“A colonel named Ernst Keller,”"
+    },
+    {
+      "quote": 7,
+      "line": 3969,
+      "speaker": null,
+      "opening": "“He commands the Saint-Orage depot. It's a separate"
+    },
+    {
+      "quote": 8,
+      "line": 3973,
+      "speaker": null,
+      "opening": "“Nigga, I saw a woman looking for a"
+    },
+    {
+      "quote": 9,
+      "line": 3973,
+      "speaker": null,
+      "opening": "“You don't need to explain her to me.”"
+    },
+    {
+      "quote": 10,
+      "line": 3979,
+      "speaker": null,
+      "opening": "“He wanted transferable power,”"
+    },
+    {
+      "quote": 11,
+      "line": 3979,
+      "speaker": null,
+      "opening": "“A gift he could wear and remove. The"
+    },
+    {
+      "quote": 12,
+      "line": 3981,
+      "speaker": null,
+      "opening": "“Can it?”"
+    },
+    {
+      "quote": 13,
+      "line": 3983,
+      "speaker": null,
+      "opening": "“Not safely. Not the way he imagines.”"
+    },
+    {
+      "quote": 14,
+      "line": 3987,
+      "speaker": null,
+      "opening": "“The race.”"
+    },
+    {
+      "quote": 15,
+      "line": 3995,
+      "speaker": null,
+      "opening": "“Where's the real Heart?”"
+    },
+    {
+      "quote": 16,
+      "line": 4005,
+      "speaker": null,
+      "opening": "“He took my penthouse,”"
+    },
+    {
+      "quote": 17,
+      "line": 4007,
+      "speaker": null,
+      "opening": "“I was just hearing about your hospitality problem.”"
+    },
+    {
+      "quote": 18,
+      "line": 4009,
+      "speaker": null,
+      "opening": "“Aiden. He has twelve people from my staff"
+    },
+    {
+      "quote": 19,
+      "line": 4015,
+      "speaker": null,
+      "opening": "“Tell your staff to stay away from the"
+    },
+    {
+      "quote": 20,
+      "line": 4017,
+      "speaker": null,
+      "opening": "“What are you going to do?”"
+    },
+    {
+      "quote": 21,
+      "line": 4021,
+      "speaker": null,
+      "opening": "“Get your house back.”"
+    },
+    {
+      "quote": 22,
+      "line": 4029,
+      "speaker": null,
+      "opening": "“One more trip.”"
+    },
+    {
+      "quote": 23,
+      "line": 4033,
+      "speaker": null,
+      "opening": "“You said that yesterday.”"
+    },
+    {
+      "quote": 24,
+      "line": 4035,
+      "speaker": null,
+      "opening": "“Nigga, yesterday ended.”"
+    },
+    {
+      "quote": 25,
+      "line": 4041,
+      "speaker": null,
+      "opening": "“What she say?”"
+    },
+    {
+      "quote": 26,
+      "line": 4043,
+      "speaker": null,
+      "opening": "“Private.”"
+    },
+    {
+      "quote": 27,
+      "line": 4045,
+      "speaker": null,
+      "opening": "“You grinning publicly.”"
+    },
+    {
+      "quote": 28,
+      "line": 4047,
+      "speaker": null,
+      "opening": "“Nigga, let a man have a future.”"
+    },
+    {
+      "quote": 29,
+      "line": 4061,
+      "speaker": null,
+      "opening": "“Fortieth floor.”"
+    },
+    {
+      "quote": 30,
+      "line": 4063,
+      "speaker": null,
+      "opening": "“You coming?”"
+    },
+    {
+      "quote": 31,
+      "line": 4065,
+      "speaker": null,
+      "opening": "“It's my fucking building.”"
+    },
+    {
+      "quote": 32,
+      "line": 4071,
+      "speaker": null,
+      "opening": "“Nigga, why her cheeks armed?”"
+    },
+    {
+      "quote": 33,
+      "line": 4073,
+      "speaker": null,
+      "opening": "“Keep walking,”"
+    },
+    {
+      "quote": 34,
+      "line": 4081,
+      "speaker": null,
+      "opening": "“That is not mine.”"
+    },
+    {
+      "quote": 35,
+      "line": 4089,
+      "speaker": null,
+      "opening": "“These niggas shooting at diamonds.”"
+    },
+    {
+      "quote": 36,
+      "line": 4091,
+      "speaker": null,
+      "opening": "“Focus.”"
+    },
+    {
+      "quote": 37,
+      "line": 4093,
+      "speaker": null,
+      "opening": "“I am focused. That's a second crime.”"
+    },
+    {
+      "quote": 38,
+      "line": 4099,
+      "speaker": null,
+      "opening": "“The fountain,”"
+    },
+    {
+      "quote": 39,
+      "line": 4099,
+      "speaker": null,
+      "opening": "“It runs under both stairs.”"
+    },
+    {
+      "quote": 40,
+      "line": 4103,
+      "speaker": null,
+      "opening": "“You can open that?”"
+    },
+    {
+      "quote": 41,
+      "line": 4107,
+      "speaker": null,
+      "opening": "“Staff passage.”"
+    },
+    {
+      "quote": 42,
+      "line": 4111,
+      "speaker": null,
+      "opening": "“Which staff? The staff ants?”"
+    },
+    {
+      "quote": 43,
+      "line": 4117,
+      "speaker": null,
+      "opening": "“Come out where I can see you.”"
+    },
+    {
+      "quote": 44,
+      "line": 4121,
+      "speaker": null,
+      "opening": "“Nigga, I been doing that all week.”"
+    },
+    {
+      "quote": 45,
+      "line": 4143,
+      "speaker": null,
+      "opening": "“That nigga got aquatic accompaniment!”"
+    },
+    {
+      "quote": 46,
+      "line": 4145,
+      "speaker": null,
+      "opening": "“Tank!”"
+    },
+    {
+      "quote": 47,
+      "line": 4147,
+      "speaker": null,
+      "opening": "“He said make it loud!”"
+    },
+    {
+      "quote": 48,
+      "line": 4173,
+      "speaker": null,
+      "opening": "“Seated experience.”"
+    },
+    {
+      "quote": 49,
+      "line": 4179,
+      "speaker": null,
+      "opening": "“You came through the water.”"
+    },
+    {
+      "quote": 50,
+      "line": 4181,
+      "speaker": null,
+      "opening": "“Under it.”"
+    },
+    {
+      "quote": 51,
+      "line": 4183,
+      "speaker": null,
+      "opening": "“You were beneath the fish.”"
+    },
+    {
+      "quote": 52,
+      "line": 4185,
+      "speaker": null,
+      "opening": "“They seemed cool.”"
+    },
+    {
+      "quote": 53,
+      "line": 4189,
+      "speaker": null,
+      "opening": "“This nigga went through an aquarium and came"
+    },
+    {
+      "quote": 54,
+      "line": 4191,
+      "speaker": null,
+      "opening": "“That's part of the dawn display.”"
+    },
+    {
+      "quote": 55,
+      "line": 4193,
+      "speaker": null,
+      "opening": "“Put him on staff, then. Nigga covered the"
+    },
+    {
+      "quote": 56,
+      "line": 4199,
+      "speaker": null,
+      "opening": "“How many floors?”"
+    },
+    {
+      "quote": 57,
+      "line": 4201,
+      "speaker": null,
+      "opening": "“Forty.”"
+    },
+    {
+      "quote": 58,
+      "line": 4203,
+      "speaker": null,
+      "opening": "“And we done which one?”"
+    },
+    {
+      "quote": 59,
+      "line": 4207,
+      "speaker": null,
+      "opening": "“The shopping gallery.”"
+    },
+    {
+      "quote": 60,
+      "line": 4211,
+      "speaker": null,
+      "opening": "“Nigga, we ain't even started the numbers.”"
+    },
+    {
+      "quote": 61,
+      "line": 4213,
+      "speaker": null,
+      "opening": "“We have a private lift.”"
+    },
+    {
+      "quote": 62,
+      "line": 4215,
+      "speaker": null,
+      "opening": "“Tell that nigga we coming. Tell him personally.”"
+    },
+    {
+      "quote": 63,
+      "line": 4219,
+      "speaker": null,
+      "opening": "“Sit while Pike clears the approach.”"
+    },
+    {
+      "quote": 64,
+      "line": 4221,
+      "speaker": null,
+      "opening": "“I'm fine.”"
+    },
+    {
+      "quote": 65,
+      "line": 4223,
+      "speaker": null,
+      "opening": "“Nigga, you made one lamp explode and your"
+    },
+    {
+      "quote": 66,
+      "line": 4227,
+      "speaker": null,
+      "opening": "“Separate programs,”"
+    },
+    {
+      "quote": 67,
+      "line": 4233,
+      "speaker": null,
+      "opening": "“I hate that music now,”"
+    },
+    {
+      "quote": 68,
+      "line": 4235,
+      "speaker": null,
+      "opening": "“Nigga, it covered me beautifully.”"
+    },
+    {
+      "quote": 69,
+      "line": 4237,
+      "speaker": null,
+      "opening": "“Then you may have the recording.”"
+    },
+    {
+      "quote": 70,
+      "line": 4241,
+      "speaker": null,
+      "opening": "“Your entrance music. Little fish nigga.”"
+    },
+    {
+      "quote": 71,
+      "line": 4243,
+      "speaker": null,
+      "opening": "“You play that in my car, you walking.”"
+    },
+    {
+      "quote": 72,
+      "line": 4245,
+      "speaker": null,
+      "opening": "“Forty floors?”"
+    },
+    {
+      "quote": 73,
+      "line": 4247,
+      "speaker": null,
+      "opening": "“All of them.”"
+    },
+    {
+      "quote": 74,
+      "line": 4253,
+      "speaker": null,
+      "opening": "“Souvenir?”"
+    },
+    {
+      "quote": 75,
+      "line": 4255,
+      "speaker": null,
+      "opening": "“Evidence for when you tell this story wrong.”"
+    },
+    {
+      "quote": 76,
+      "line": 4257,
+      "speaker": null,
+      "opening": "“Nigga, I ain't told a wrong story in"
+    },
+    {
+      "quote": 77,
+      "line": 4261,
+      "speaker": null,
+      "opening": "“Your wedding speech said you invented commitment.”"
+    },
+    {
+      "quote": 78,
+      "line": 4263,
+      "speaker": null,
+      "opening": "“Improved it.”"
+    },
+    {
+      "quote": 79,
+      "line": 4265,
+      "speaker": null,
+      "opening": "“See?”"
+    },
+    {
+      "quote": 80,
+      "line": 4269,
+      "speaker": null,
+      "opening": "“Eveline?”"
+    },
+    {
+      "quote": 81,
+      "line": 4273,
+      "speaker": null,
+      "opening": "“Claudine?”"
+    },
+    {
+      "quote": 82,
+      "line": 4277,
+      "speaker": null,
+      "opening": "“Are they gone?”"
+    },
+    {
+      "quote": 83,
+      "line": 4279,
+      "speaker": null,
+      "opening": "“From this floor,”"
+    },
+    {
+      "quote": 84,
+      "line": 4279,
+      "speaker": null,
+      "opening": "“Open the door.”"
+    },
+    {
+      "quote": 85,
+      "line": 4291,
+      "speaker": null,
+      "opening": "“Good nigga,”"
+    },
+    {
+      "quote": 86,
+      "line": 4295,
+      "speaker": null,
+      "opening": "“You're Aiden.”"
+    },
+    {
+      "quote": 87,
+      "line": 4297,
+      "speaker": null,
+      "opening": "“Yes, ma'am.”"
+    },
+    {
+      "quote": 88,
+      "line": 4299,
+      "speaker": null,
+      "opening": "“I saw you on the moon.”"
+    },
+    {
+      "quote": 89,
+      "line": 4301,
+      "speaker": null,
+      "opening": "“Busy night.”"
+    },
+    {
+      "quote": 90,
+      "line": 4305,
+      "speaker": null,
+      "opening": "“You get younger every time you do something"
+    },
+    {
+      "quote": 91,
+      "line": 4307,
+      "speaker": null,
+      "opening": "“I started early.”"
+    },
+    {
+      "quote": 92,
+      "line": 4311,
+      "speaker": null,
+      "opening": "“For your wife.”"
+    },
+    {
+      "quote": 93,
+      "line": 4319,
+      "speaker": null,
+      "opening": "“Keep your ring.”"
+    },
+    {
+      "quote": 94,
+      "line": 4321,
+      "speaker": null,
+      "opening": "“My third husband gave it to me.”"
+    },
+    {
+      "quote": 95,
+      "line": 4323,
+      "speaker": null,
+      "opening": "“You might want the memory.”"
+    },
+    {
+      "quote": 96,
+      "line": 4325,
+      "speaker": null,
+      "opening": "“I kept the second husband's yacht. That is"
+    },
+    {
+      "quote": 97,
+      "line": 4329,
+      "speaker": null,
+      "opening": "“This lady understands separation.”"
+    },
+    {
+      "quote": 98,
+      "line": 4333,
+      "speaker": null,
+      "opening": "“Then give it to somebody you love.”"
+    },
+    {
+      "quote": 99,
+      "line": 4339,
+      "speaker": null,
+      "opening": "“Girl.”"
+    },
+    {
+      "quote": 100,
+      "line": 4341,
+      "speaker": null,
+      "opening": "“Exactly,”"
+    },
+    {
+      "quote": 101,
+      "line": 4345,
+      "speaker": null,
+      "opening": "“Don't,”"
+    },
+    {
+      "quote": 102,
+      "line": 4347,
+      "speaker": null,
+      "opening": "“I ain't said nothing.”"
+    },
+    {
+      "quote": 103,
+      "line": 4349,
+      "speaker": null,
+      "opening": "“You looking at a responsibility. That's a sentence"
+    },
+    {
+      "quote": 104,
+      "line": 4359,
+      "speaker": null,
+      "opening": "“They can watch light.”"
+    },
+    {
+      "quote": 105,
+      "line": 4365,
+      "speaker": null,
+      "opening": "“Nigga, I look incredible.”"
+    },
+    {
+      "quote": 106,
+      "line": 4369,
+      "speaker": null,
+      "opening": "“That's what you're focusing on?”"
+    },
+    {
+      "quote": 107,
+      "line": 4371,
+      "speaker": null,
+      "opening": "“You telling me the light nigga ain't handsome?”"
+    },
+    {
+      "quote": 108,
+      "line": 4407,
+      "speaker": null,
+      "opening": "“Again.”"
+    },
+    {
+      "quote": 109,
+      "line": 4409,
+      "speaker": null,
+      "opening": "“Nigga, you keep leaving doors.”"
+    },
+    {
+      "quote": 110,
+      "line": 4415,
+      "speaker": null,
+      "opening": "“Try me,”"
+    },
+    {
+      "quote": 111,
+      "line": 4425,
+      "speaker": null,
+      "opening": "“The housing controls the support link,”"
+    },
+    {
+      "quote": 112,
+      "line": 4425,
+      "speaker": null,
+      "opening": "“Do you imagine strength is only what a"
+    },
+    {
+      "quote": 113,
+      "line": 4433,
+      "speaker": null,
+      "opening": "“No. I imagine weakness is needing twelve people"
+    },
+    {
+      "quote": 114,
+      "line": 4439,
+      "speaker": null,
+      "opening": "“You have been admired for two days. I"
+    },
+    {
+      "quote": 115,
+      "line": 4441,
+      "speaker": null,
+      "opening": "“Nigga, that's embarrassing. I caught up on a"
+    },
+    {
+      "quote": 116,
+      "line": 4453,
+      "speaker": null,
+      "opening": "“I have the building. Briefly.”"
+    },
+    {
+      "quote": 117,
+      "line": 4473,
+      "speaker": null,
+      "opening": "“Nigga, stop conducting.”"
+    },
+    {
+      "quote": 118,
+      "line": 4507,
+      "speaker": null,
+      "opening": "“Impossible.”"
+    },
+    {
+      "quote": 119,
+      "line": 4509,
+      "speaker": null,
+      "opening": "“You been saying that with your face all"
+    },
+    {
+      "quote": 120,
+      "line": 4533,
+      "speaker": null,
+      "opening": "“Bell,”"
+    },
+    {
+      "quote": 121,
+      "line": 4533,
+      "speaker": null,
+      "opening": "“Got it.”"
+    },
+    {
+      "quote": 122,
+      "line": 4537,
+      "speaker": null,
+      "opening": "“Bring it to the service station. Carefully.”"
+    },
+    {
+      "quote": 123,
+      "line": 4539,
+      "speaker": null,
+      "opening": "“I know what carefully mean.”"
+    },
+    {
+      "quote": 124,
+      "line": 4543,
+      "speaker": null,
+      "opening": "“Definition been growing.”"
+    },
+    {
+      "quote": 125,
+      "line": 4557,
+      "speaker": null,
+      "opening": "“Make it loud,”"
+    },
+    {
+      "quote": 126,
+      "line": 4559,
+      "speaker": null,
+      "opening": "“It will require brass.”"
+    },
+    {
+      "quote": 127,
+      "line": 4561,
+      "speaker": null,
+      "opening": "“Nigga, get all the brass.”"
+    },
+    {
+      "quote": 128,
+      "line": 4569,
+      "speaker": null,
+      "opening": "“Captain,”"
+    },
+    {
+      "quote": 129,
+      "line": 4569,
+      "speaker": null,
+      "opening": "“Why am I watching footage of you falling"
+    },
+    {
+      "quote": 130,
+      "line": 4571,
+      "speaker": null,
+      "opening": "“Training.”"
+    },
+    {
+      "quote": 131,
+      "line": 4573,
+      "speaker": null,
+      "opening": "“Outstanding.”"
+    },
+    {
+      "quote": 132,
+      "line": 4577,
+      "speaker": null,
+      "opening": "“Bring me a souvenir.”"
+    },
+    {
+      "quote": 133,
+      "line": 4581,
+      "speaker": null,
+      "opening": "“Might have something.”"
+    }
+  ]
+}

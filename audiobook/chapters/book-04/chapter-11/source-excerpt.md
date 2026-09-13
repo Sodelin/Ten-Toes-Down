@@ -1,0 +1,327 @@
+Chief Knox brought flowers to a shooting competition. A nigga has to pause when love enters a room carrying evidence. This woman had spent years making grown niggas stand up straighter. This woman could stop a lying nigga halfway through his favorite sentence. Now she had pink flowers for one particular nigga and expected all the other niggas to act like botany had suddenly become police work.
+
+Pink ones.
+
+I saw them sticking out of the bag beside her ammunition case and stopped so suddenly Tank walked into my back.
+
+"Nigga, move," he said.
+
+"Chief got flowers."
+
+He looked.
+
+"Oh, shit."
+
+Knox shut the bag.
+
+"Do either of you have something useful to contribute?"
+
+"Water," Tank said. "Flowers need water."
+
+She stared at him until the big nigga remembered an appointment on the other side of the stadium.
+
+I stayed.
+
+"Graves?"
+
+"Captain."
+
+"I'm a captain too. Nigga know a rank when he hears a dodge."
+
+She looked toward the practice range. Lionel Graves stood beneath a canvas shelter adjusting the sleeve over the scrape he'd gotten during the ferry rescue. He was talking to Mina, who appeared to be explaining why the new scoreboard had awarded the throwing champion three hundred points for sneezing.
+
+Knox watched him listen.
+
+Then she looked back at me.
+
+"They are for his table. His room is miserable."
+
+"Chief, the nigga lives there. That's a beginning."
+
+She picked up her case.
+
+"Win your competition."
+
+"Say please."
+
+"Captain."
+
+"All right, damn. Nigga can't enjoy love around the police."
+
+The Precision Crown took place in the old quarry above the east beach. Saint had built a grandstand into the rock, with targets rising from behind stone walls and moving along distant rails. It looked expensive, dramatic, and like a place a man would choose if he expected a stray bullet to improve the afternoon.
+
+We had checked it before the audience arrived.
+
+Graves insisted on that. He walked the whole course with the island officers. Knox watched the entrances. The workers who had built the place showed Tank every space large enough to hide a man. By the time the competition started, Saint's favorite surprises were sitting in a guarded truck on the other side of the hill.
+
+Porsche called it the disappointment wagon.
+
+It was getting crowded.
+
+The first round was clean shooting. Distant targets, brief appearances, no fireworks beyond what a gun already supplied. Twelve competitors came down to four. Four came down to three.
+
+Me. Graves. Knox.
+
+A nigga in the stands leaned toward the nigga beside him. "Which one you got?"
+
+"The captain."
+
+"Nigga, two captains."
+
+"The good-looking nigga."
+
+"Chief pretty too."
+
+"The married nigga."
+
+Shawna turned around. "That one."
+
+Both niggas nodded. Expert testimony had arrived.
+
+I looked at them standing on either side of me.
+
+"Nigga, this is a staff meeting."
+
+The chief checked her target card.
+
+"Try attending one."
+
+She had beaten Graves by a single point. He took it well, which in a proud man meant his smile hurt at the corners but remained a smile.
+
+"Excellent shooting, Chief."
+
+"I know."
+
+"Nigga," I whispered, "tell her about the flowers."
+
+He looked at me.
+
+"What flowers?"
+
+Knox's elbow struck my ribs without appearing to move.
+
+I respected the precision. Nigga couldn't admire a woman without his chief making an elbow part of the lesson. Graves looked at the bag, then at the chief, then at me. I watched the nigga understand. Watched the nigga try not to smile too quickly. Nigga, there is nothing quieter or louder than a man discovering somebody thought about him before he entered the room.
+
+The final round used a great wooden wheel carrying colored plates through openings in a stone screen. Some were targets. Some were not. The whole trick was knowing when to do nothing, which explained why half the audience expected me to lose.
+
+I stood at the line and waited.
+
+The first plate passed.
+
+I let it.
+
+Second. Third.
+
+On the fourth I fired.
+
+The target broke cleanly inside its little window.
+
+Then another.
+
+Then two in quick succession, each one appearing only long enough to announce itself and regret it.
+
+I didn't think about looking fast. I looked where the answer would appear and let the rest of the world be scenery.
+
+The wheel stopped.
+
+The scorekeeper stared at the board.
+
+"Perfect," he said.
+
+Tank rose from the front row.
+
+"NIGGA, WE KNEW!"
+
+Shawna caught his sleeve and pulled him down before he blocked her view.
+
+Graves came within one target. Knox came within two. Both had performed well enough to win almost any other day.
+
+Today a nigga was trying to impress his wife again.
+
+The chief looked at my score and shook her head slowly.
+
+"You are a deeply irritating employee."
+
+"Put it in gold on my next jacket."
+
+Then a helicopter came over the quarry wall.
+
+No numbers. Black windows. Saint's silver crest beneath the nose.
+
+The audience ducked before the gunman opened the side door. They were learning the difference between a dramatic entrance and a nigga arriving to ruin somebody's lunch.
+
+I caught the chief's arm and pulled her beneath the shelter as shots tore through the canvas roof.
+
+Graves rolled behind the stone barrier beside us. Tank and the island officers moved the spectators toward the covered tunnel. Rosa stood at its entrance calling names and counting groups, making sure nobody disappeared in the rush.
+
+The helicopter hovered above the quarry.
+
+A voice boomed from its speaker.
+
+"Return the Night Pearl and the general will permit the competition to continue."
+
+I looked at Knox.
+
+She looked at me.
+
+"Permit?" she said.
+
+"Nigga just offended your whole profession."
+
+The helicopter moved lower.
+
+At its open door stood Colonel Flint, the man Graves said commanded Saint's hired soldiers. Forty-seven, one pale eyebrow, gold gloves. He held a gun in one hand and the helicopter's doorframe in the other, leaning out to see whether fear looked good from above.
+
+"Captain Aiden!"
+
+I stepped far enough from the shelter for him to see me.
+
+"Nigga, use your indoor voice."
+
+He fired.
+
+I was already behind the barrier.
+
+The stone exploded where I'd stood. Dust rained over my shoulders.
+
+"I don't like him," Knox said.
+
+"Give him time. He gets worse."
+
+Graves pointed toward the service road. My Lamborghini stood beside a small quarry truck beneath the ridge. Beyond it the road climbed to a broad loading platform level with the helicopter's lower turn.
+
+I saw the shape of the thing.
+
+He saw me see it.
+
+"Captain," he said carefully.
+
+"Nigga, don't start a sentence you can't finish before I get in the car."
+
+I ran.
+
+The helicopter swung toward me. Knox and Graves fired from the shelter, forcing Flint back into the cabin. I reached the Lamborghini, threw myself behind the wheel, and drove up the service road while stone chips snapped against the rear glass.
+
+My hands were steady. I had used no Blue Thunder since the pursuit course. My body felt full of its own breath again.
+
+I still didn't waste it.
+
+At the loading platform I hit the horn.
+
+Flint turned toward me.
+
+"Over here, nigga. Big blue answer to your question."
+
+The helicopter came around the ridge after me. Its rotor wash sent dust spinning across the platform. I drove toward the far end, then turned sharply enough to make the tires scream against the gravel.
+
+The helicopter followed my motion instead of the wall.
+
+Its landing skid clipped the old loading crane.
+
+Metal shrieked.
+
+The aircraft lurched, low and sideways, fighting to recover. Flint lost his grip and fell from the open door onto the crane platform below. He landed badly but moved at once, dragging himself toward the stairs with his gun still in his hand.
+
+The pilot brought the helicopter down hard on the quarry road.
+
+I stopped the Lamborghini between Flint and the stairs.
+
+He pointed his gun at me.
+
+I stepped out with mine already up.
+
+For a second the whole quarry seemed to hold its breath.
+
+"You've seen the score," I told him.
+
+His eyes moved to the gold laurel lying on my passenger seat.
+
+Then to the distance between us.
+
+Then to my hand, which wasn't shaking.
+
+"Nigga," I said, quieter now, "make one good decision while you still get to make decisions."
+
+He put the gun down.
+
+Graves reached us a minute later. He looked from Flint to the dented helicopter, then at my car parked crookedly beneath the crane.
+
+"You pursued an aircraft."
+
+"It was fleeing."
+
+"Nigga, it was flying."
+
+"Nigga, those things can happen together."
+
+Graves looked at the helicopter again. "You drove after a flying man."
+
+"And now the nigga's standing. That's progress."
+
+The pilot heard us from the roadside and put his face in his hands. Nigga had no idea how he was going to explain this to anyone who knew what an aircraft was.
+
+"In a Lamborghini."
+
+"Nigga, I didn't bring a horse."
+
+Knox arrived behind him, breathing hard and furious about it.
+
+She cuffed Flint herself.
+
+"On leave," Graves said.
+
+"Still having a marvelous time."
+
+The audience came back out of the tunnel as the island officers led Flint away. Nobody had been hit. The damaged helicopter sat on the service road with its pilot holding an ice pack to his forehead and explaining to anyone who would listen that a car had bullied him out of the sky.
+
+The announcer waited until I returned to the platform.
+
+Then he raised the microphone with both hands.
+
+"Our champion of precision," he said, "Captain Aiden."
+
+"And aviation!" somebody shouted.
+
+The quarry erupted. Niggas stood on chairs, niggas waved hats, niggas who hadn't fired a gun in their lives began explaining my shots to niggas who hadn't asked. One nigga said he had always believed a car could chase a helicopter. His friend told the nigga to name one previous occasion on which he'd expressed that belief. The nigga declined details. Greatness was spreading faster than honesty.
+
+I pointed at my wife in the front row.
+
+She stood and shook her head at me, smiling despite the tears she always tried to hide after the part where I might not come back.
+
+I went straight to her.
+
+"You all right?" I asked.
+
+"Nigga, you chased a helicopter."
+
+"Baby, it started."
+
+She caught my face in both hands.
+
+"You chased a helicopter."
+
+"I hear you. Sounds good when you say it."
+
+She kissed me hard enough to tell me exactly how good and exactly how angry lived beside each other in her heart.
+
+Behind us, Knox handed Graves the pink flowers.
+
+He stared down at them.
+
+"For your table," she said.
+
+"I don't have a vase."
+
+Mercedes stepped between them and offered her stolen champagne bucket.
+
+"Nigga, everybody's problems getting solved today."
+
+Graves took it.
+
+The chief laughed. A real laugh, open and surprised, like somebody had found a room in her chest she hadn't used in a long time and put the lights on.
+
+I watched Graves hear it.
+
+Watched his whole face soften.
+
+Then I turned back to Shawna before the nigga caught me looking at his future.

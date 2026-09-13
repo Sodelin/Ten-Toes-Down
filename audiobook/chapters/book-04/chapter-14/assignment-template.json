@@ -1,0 +1,433 @@
+{
+  "chapter_id": "b04-c14",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 71,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5034,
+      "speaker": null,
+      "opening": "\"This is irregular,\""
+    },
+    {
+      "quote": 2,
+      "line": 5038,
+      "speaker": null,
+      "opening": "\"Nigga, you tried shooting me out of a"
+    },
+    {
+      "quote": 3,
+      "line": 5044,
+      "speaker": null,
+      "opening": "\"I heard about the train.\""
+    },
+    {
+      "quote": 4,
+      "line": 5046,
+      "speaker": null,
+      "opening": "\"Nigga, who hasn't?\""
+    },
+    {
+      "quote": 5,
+      "line": 5048,
+      "speaker": null,
+      "opening": "\"The general said you would exhaust yourself before"
+    },
+    {
+      "quote": 6,
+      "line": 5050,
+      "speaker": null,
+      "opening": "\"Then tell that nigga I'm resting aggressively.\""
+    },
+    {
+      "quote": 7,
+      "line": 5056,
+      "speaker": null,
+      "opening": "\"You hungry?\""
+    },
+    {
+      "quote": 8,
+      "line": 5058,
+      "speaker": null,
+      "opening": "\"No.\""
+    },
+    {
+      "quote": 9,
+      "line": 5064,
+      "speaker": null,
+      "opening": "\"Nigga, let the honest part of you have"
+    },
+    {
+      "quote": 10,
+      "line": 5076,
+      "speaker": null,
+      "opening": "\"Who is she?\""
+    },
+    {
+      "quote": 11,
+      "line": 5078,
+      "speaker": null,
+      "opening": "\"No one involved in this.\""
+    },
+    {
+      "quote": 12,
+      "line": 5080,
+      "speaker": null,
+      "opening": "\"Nigga, thirty-one calls is involvement.\""
+    },
+    {
+      "quote": 13,
+      "line": 5084,
+      "speaker": null,
+      "opening": "\"My fiancée.\""
+    },
+    {
+      "quote": 14,
+      "line": 5092,
+      "speaker": null,
+      "opening": "\"Call her,\""
+    },
+    {
+      "quote": 15,
+      "line": 5094,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 16,
+      "line": 5096,
+      "speaker": null,
+      "opening": "\"Nigga, she watched your helicopter fall out of"
+    },
+    {
+      "quote": 17,
+      "line": 5100,
+      "speaker": null,
+      "opening": "\"You would permit that?\""
+    },
+    {
+      "quote": 18,
+      "line": 5102,
+      "speaker": null,
+      "opening": "\"I'm beginning to understand why she called thirty-one"
+    },
+    {
+      "quote": 19,
+      "line": 5110,
+      "speaker": null,
+      "opening": "\"I'm alive,\""
+    },
+    {
+      "quote": 20,
+      "line": 5114,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 21,
+      "line": 5118,
+      "speaker": null,
+      "opening": "\"No, the captain has not—\""
+    },
+    {
+      "quote": 22,
+      "line": 5122,
+      "speaker": null,
+      "opening": "\"He gave me breakfast.\""
+    },
+    {
+      "quote": 23,
+      "line": 5126,
+      "speaker": null,
+      "opening": "\"Yes. That captain.\""
+    },
+    {
+      "quote": 24,
+      "line": 5130,
+      "speaker": null,
+      "opening": "\"Sabine. Please. I know he's handsome. I am"
+    },
+    {
+      "quote": 25,
+      "line": 5138,
+      "speaker": null,
+      "opening": "\"My orders were—\""
+    },
+    {
+      "quote": 26,
+      "line": 5142,
+      "speaker": null,
+      "opening": "\"I don't know when.\""
+    },
+    {
+      "quote": 27,
+      "line": 5146,
+      "speaker": null,
+      "opening": "\"I will ask.\""
+    },
+    {
+      "quote": 28,
+      "line": 5150,
+      "speaker": null,
+      "opening": "\"Yes. I promise I'll ask.\""
+    },
+    {
+      "quote": 29,
+      "line": 5154,
+      "speaker": null,
+      "opening": "\"Can she come?\""
+    },
+    {
+      "quote": 30,
+      "line": 5156,
+      "speaker": null,
+      "opening": "\"We can arrange contact through the officers handling"
+    },
+    {
+      "quote": 31,
+      "line": 5158,
+      "speaker": null,
+      "opening": "\"I understand.\""
+    },
+    {
+      "quote": 32,
+      "line": 5160,
+      "speaker": null,
+      "opening": "\"And she gets accurate information,\""
+    },
+    {
+      "quote": 33,
+      "line": 5160,
+      "speaker": null,
+      "opening": "\"No heroic disappearance. No messages carried by whichever"
+    },
+    {
+      "quote": 34,
+      "line": 5162,
+      "speaker": null,
+      "opening": "\"She said that too.\""
+    },
+    {
+      "quote": 35,
+      "line": 5164,
+      "speaker": null,
+      "opening": "\"Y'all should get coffee.\""
+    },
+    {
+      "quote": 36,
+      "line": 5166,
+      "speaker": null,
+      "opening": "\"Finish your lemonade, Captain.\""
+    },
+    {
+      "quote": 37,
+      "line": 5170,
+      "speaker": null,
+      "opening": "\"I expected you to use her against me.\""
+    },
+    {
+      "quote": 38,
+      "line": 5172,
+      "speaker": null,
+      "opening": "\"Nigga, she already wants you to stop being"
+    },
+    {
+      "quote": 39,
+      "line": 5174,
+      "speaker": null,
+      "opening": "\"That isn't what I meant.\""
+    },
+    {
+      "quote": 40,
+      "line": 5176,
+      "speaker": null,
+      "opening": "\"I know. Eat.\""
+    },
+    {
+      "quote": 41,
+      "line": 5182,
+      "speaker": null,
+      "opening": "\"She wants me home,\""
+    },
+    {
+      "quote": 42,
+      "line": 5184,
+      "speaker": null,
+      "opening": "\"Nigga, I gathered.\""
+    },
+    {
+      "quote": 43,
+      "line": 5186,
+      "speaker": null,
+      "opening": "\"I told her one more season. One more"
+    },
+    {
+      "quote": 44,
+      "line": 5190,
+      "speaker": null,
+      "opening": "\"There has always been another season.\""
+    },
+    {
+      "quote": 45,
+      "line": 5194,
+      "speaker": null,
+      "opening": "\"You love her?\""
+    },
+    {
+      "quote": 46,
+      "line": 5198,
+      "speaker": null,
+      "opening": "\"Of course.\""
+    },
+    {
+      "quote": 47,
+      "line": 5200,
+      "speaker": null,
+      "opening": "\"Then why Saint keep getting the years you"
+    },
+    {
+      "quote": 48,
+      "line": 5210,
+      "speaker": null,
+      "opening": "\"He made me a colonel.\""
+    },
+    {
+      "quote": 49,
+      "line": 5212,
+      "speaker": null,
+      "opening": "\"And now you sitting here asking permission to"
+    },
+    {
+      "quote": 50,
+      "line": 5226,
+      "speaker": null,
+      "opening": "\"What is in it?\""
+    },
+    {
+      "quote": 51,
+      "line": 5230,
+      "speaker": null,
+      "opening": "\"He never said. Money, certainly. Old stones. He"
+    },
+    {
+      "quote": 52,
+      "line": 5232,
+      "speaker": null,
+      "opening": "\"Blackmail,\""
+    },
+    {
+      "quote": 53,
+      "line": 5234,
+      "speaker": null,
+      "opening": "\"He called it inheritance.\""
+    },
+    {
+      "quote": 54,
+      "line": 5236,
+      "speaker": null,
+      "opening": "\"Nigga names everything except what it is,\""
+    },
+    {
+      "quote": 55,
+      "line": 5240,
+      "speaker": null,
+      "opening": "\"The final challenge will bring him ashore. He"
+    },
+    {
+      "quote": 56,
+      "line": 5242,
+      "speaker": null,
+      "opening": "\"I noticed a pattern.\""
+    },
+    {
+      "quote": 57,
+      "line": 5244,
+      "speaker": null,
+      "opening": "\"There is a road beneath the stadium. It"
+    },
+    {
+      "quote": 58,
+      "line": 5248,
+      "speaker": null,
+      "opening": "\"Then we clear that road.\""
+    },
+    {
+      "quote": 59,
+      "line": 5252,
+      "speaker": null,
+      "opening": "\"He will move if he sees officers there."
+    },
+    {
+      "quote": 60,
+      "line": 5258,
+      "speaker": null,
+      "opening": "\"Not every uniform,\""
+    },
+    {
+      "quote": 61,
+      "line": 5268,
+      "speaker": null,
+      "opening": "\"You don't owe us a risk,\""
+    },
+    {
+      "quote": 62,
+      "line": 5272,
+      "speaker": null,
+      "opening": "\"We're asking what you know. You choose what"
+    },
+    {
+      "quote": 63,
+      "line": 5276,
+      "speaker": null,
+      "opening": "\"You really took his pearl?\""
+    },
+    {
+      "quote": 64,
+      "line": 5280,
+      "speaker": null,
+      "opening": "\"Nigga put it in my hand.\""
+    },
+    {
+      "quote": 65,
+      "line": 5304,
+      "speaker": null,
+      "opening": "\"The hotel,\""
+    },
+    {
+      "quote": 66,
+      "line": 5304,
+      "speaker": null,
+      "opening": "\"I want them to have somewhere they can"
+    },
+    {
+      "quote": 67,
+      "line": 5306,
+      "speaker": null,
+      "opening": "\"Then build that,\""
+    },
+    {
+      "quote": 68,
+      "line": 5310,
+      "speaker": null,
+      "opening": "\"Ours,\""
+    },
+    {
+      "quote": 69,
+      "line": 5316,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 70,
+      "line": 5316,
+      "speaker": null,
+      "opening": "\"You better come to the opening.\""
+    },
+    {
+      "quote": 71,
+      "line": 5318,
+      "speaker": null,
+      "opening": "\"Baby, try keeping me out.\""
+    }
+  ]
+}

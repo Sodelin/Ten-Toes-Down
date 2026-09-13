@@ -1,0 +1,607 @@
+{
+  "chapter_id": "b03-c20",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 100,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 7761,
+      "speaker": null,
+      "opening": "“You can lift a car,”"
+    },
+    {
+      "quote": 2,
+      "line": 7763,
+      "speaker": null,
+      "opening": "“Car don't burn this fast.”"
+    },
+    {
+      "quote": 3,
+      "line": 7765,
+      "speaker": null,
+      "opening": "“You left it.”"
+    },
+    {
+      "quote": 4,
+      "line": 7767,
+      "speaker": null,
+      "opening": "“I was checking the doors.”"
+    },
+    {
+      "quote": 5,
+      "line": 7769,
+      "speaker": null,
+      "opening": "“Nigga, the toast wasn't attacking the doors.”"
+    },
+    {
+      "quote": 6,
+      "line": 7773,
+      "speaker": null,
+      "opening": "“Duke send that?”"
+    },
+    {
+      "quote": 7,
+      "line": 7777,
+      "speaker": null,
+      "opening": "“Have some respect. Those niggas were bread once.”"
+    },
+    {
+      "quote": 8,
+      "line": 7781,
+      "speaker": null,
+      "opening": "“It ain't that bad.”"
+    },
+    {
+      "quote": 9,
+      "line": 7783,
+      "speaker": null,
+      "opening": "“Then bite it,”"
+    },
+    {
+      "quote": 10,
+      "line": 7787,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 11,
+      "line": 7787,
+      "speaker": null,
+      "opening": "“I got to save my teeth for the"
+    },
+    {
+      "quote": 12,
+      "line": 7791,
+      "speaker": null,
+      "opening": "“Stay here this time.”"
+    },
+    {
+      "quote": 13,
+      "line": 7793,
+      "speaker": null,
+      "opening": "“I am.”"
+    },
+    {
+      "quote": 14,
+      "line": 7795,
+      "speaker": null,
+      "opening": "“Both feet. In the kitchen.”"
+    },
+    {
+      "quote": 15,
+      "line": 7797,
+      "speaker": null,
+      "opening": "“Nigga, I know where a kitchen is.”"
+    },
+    {
+      "quote": 16,
+      "line": 7799,
+      "speaker": null,
+      "opening": "“Apparently only after it starts smoking.”"
+    },
+    {
+      "quote": 17,
+      "line": 7803,
+      "speaker": null,
+      "opening": "“How's security?”"
+    },
+    {
+      "quote": 18,
+      "line": 7805,
+      "speaker": null,
+      "opening": "“Nigga, secure.”"
+    },
+    {
+      "quote": 19,
+      "line": 7809,
+      "speaker": null,
+      "opening": "“There you go.”"
+    },
+    {
+      "quote": 20,
+      "line": 7817,
+      "speaker": null,
+      "opening": "“Captain,”"
+    },
+    {
+      "quote": 21,
+      "line": 7819,
+      "speaker": null,
+      "opening": "“Chief.”"
+    },
+    {
+      "quote": 22,
+      "line": 7821,
+      "speaker": null,
+      "opening": "“Race. Win. Come home.”"
+    },
+    {
+      "quote": 23,
+      "line": 7823,
+      "speaker": null,
+      "opening": "“Nigga, concise leadership.”"
+    },
+    {
+      "quote": 24,
+      "line": 7825,
+      "speaker": null,
+      "opening": "“I'm practicing for when you start interrupting.”"
+    },
+    {
+      "quote": 25,
+      "line": 7837,
+      "speaker": null,
+      "opening": "“You been quiet.”"
+    },
+    {
+      "quote": 26,
+      "line": 7839,
+      "speaker": null,
+      "opening": "“I've been watching you damage things.”"
+    },
+    {
+      "quote": 27,
+      "line": 7841,
+      "speaker": null,
+      "opening": "“Nigga, that's almost a career now.”"
+    },
+    {
+      "quote": 28,
+      "line": 7843,
+      "speaker": null,
+      "opening": "“For both of us, apparently.”"
+    },
+    {
+      "quote": 29,
+      "line": 7847,
+      "speaker": null,
+      "opening": "“Original work,”"
+    },
+    {
+      "quote": 30,
+      "line": 7847,
+      "speaker": null,
+      "opening": "“The old race commissioned a different maker for"
+    },
+    {
+      "quote": 31,
+      "line": 7849,
+      "speaker": null,
+      "opening": "“How you know?”"
+    },
+    {
+      "quote": 32,
+      "line": 7851,
+      "speaker": null,
+      "opening": "“I know the man who made it.”"
+    },
+    {
+      "quote": 33,
+      "line": 7853,
+      "speaker": null,
+      "opening": "“Of course you do.”"
+    },
+    {
+      "quote": 34,
+      "line": 7855,
+      "speaker": null,
+      "opening": "“He was very vain.”"
+    },
+    {
+      "quote": 35,
+      "line": 7857,
+      "speaker": null,
+      "opening": "“Nigga, was it you?”"
+    },
+    {
+      "quote": 36,
+      "line": 7863,
+      "speaker": null,
+      "opening": "“You made the big key?”"
+    },
+    {
+      "quote": 37,
+      "line": 7865,
+      "speaker": null,
+      "opening": "“Forty years in a trade leads to the"
+    },
+    {
+      "quote": 38,
+      "line": 7869,
+      "speaker": null,
+      "opening": "“Nigga, you could have mentioned it.”"
+    },
+    {
+      "quote": 39,
+      "line": 7871,
+      "speaker": null,
+      "opening": "“You were busy driving through the doors the"
+    },
+    {
+      "quote": 40,
+      "line": 7877,
+      "speaker": null,
+      "opening": "\"Nigga made the biggest key before Aiden even"
+    },
+    {
+      "quote": 41,
+      "line": 7879,
+      "speaker": null,
+      "opening": "\"Years before,\""
+    },
+    {
+      "quote": 42,
+      "line": 7881,
+      "speaker": null,
+      "opening": "\"So that nigga was preparing.\""
+    },
+    {
+      "quote": 43,
+      "line": 7883,
+      "speaker": null,
+      "opening": "\"I was working.\""
+    },
+    {
+      "quote": 44,
+      "line": 7885,
+      "speaker": null,
+      "opening": "\"Preparing while working,\""
+    },
+    {
+      "quote": 45,
+      "line": 7887,
+      "speaker": null,
+      "opening": "\"Nigga, let the man have a past without"
+    },
+    {
+      "quote": 46,
+      "line": 7889,
+      "speaker": null,
+      "opening": "\"That was almost modest.\""
+    },
+    {
+      "quote": 47,
+      "line": 7891,
+      "speaker": null,
+      "opening": "\"Nigga, almost. The key still ends up in"
+    },
+    {
+      "quote": 48,
+      "line": 7893,
+      "speaker": null,
+      "opening": "\"You young niggas exhaust a very old object.\""
+    },
+    {
+      "quote": 49,
+      "line": 7897,
+      "speaker": null,
+      "opening": "“I wanted the teeth shaped like waves,”"
+    },
+    {
+      "quote": 50,
+      "line": 7897,
+      "speaker": null,
+      "opening": "“My teacher told me a key must first"
+    },
+    {
+      "quote": 51,
+      "line": 7899,
+      "speaker": null,
+      "opening": "“And?”"
+    },
+    {
+      "quote": 52,
+      "line": 7901,
+      "speaker": null,
+      "opening": "“It does both.”"
+    },
+    {
+      "quote": 53,
+      "line": 7905,
+      "speaker": null,
+      "opening": "“Then I'll bring it back for inspection.”"
+    },
+    {
+      "quote": 54,
+      "line": 7909,
+      "speaker": null,
+      "opening": "“Please bring the hand holding it too.”"
+    },
+    {
+      "quote": 55,
+      "line": 7913,
+      "speaker": null,
+      "opening": "“Blue Hour stays,”"
+    },
+    {
+      "quote": 56,
+      "line": 7915,
+      "speaker": null,
+      "opening": "“For the yacht,”"
+    },
+    {
+      "quote": 57,
+      "line": 7915,
+      "speaker": null,
+      "opening": "“The island room needs its own name.”"
+    },
+    {
+      "quote": 58,
+      "line": 7917,
+      "speaker": null,
+      "opening": "“Nigga, it's the same ocean.”"
+    },
+    {
+      "quote": 59,
+      "line": 7919,
+      "speaker": null,
+      "opening": "“Different door.”"
+    },
+    {
+      "quote": 60,
+      "line": 7923,
+      "speaker": null,
+      "opening": "“What about No Second Door?”"
+    },
+    {
+      "quote": 61,
+      "line": 7929,
+      "speaker": null,
+      "opening": "“Nobody gets sent around the back.”"
+    },
+    {
+      "quote": 62,
+      "line": 7933,
+      "speaker": null,
+      "opening": "“That I like.”"
+    },
+    {
+      "quote": 63,
+      "line": 7939,
+      "speaker": null,
+      "opening": "“You got the building by the eastern quay.”"
+    },
+    {
+      "quote": 64,
+      "line": 7941,
+      "speaker": null,
+      "opening": "“You haven't won it yet,”"
+    },
+    {
+      "quote": 65,
+      "line": 7943,
+      "speaker": null,
+      "opening": "“Nigga, put it on hold.”"
+    },
+    {
+      "quote": 66,
+      "line": 7947,
+      "speaker": null,
+      "opening": "“Already did.”"
+    },
+    {
+      "quote": 67,
+      "line": 7953,
+      "speaker": null,
+      "opening": "“Nigga, I watered it before they took me.”"
+    },
+    {
+      "quote": 68,
+      "line": 7955,
+      "speaker": null,
+      "opening": "“Then it survived better than your communication.”"
+    },
+    {
+      "quote": 69,
+      "line": 7961,
+      "speaker": null,
+      "opening": "“She's done enough,”"
+    },
+    {
+      "quote": 70,
+      "line": 7961,
+      "speaker": null,
+      "opening": "“I'll drive my own.”"
+    },
+    {
+      "quote": 71,
+      "line": 7971,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 72,
+      "line": 7973,
+      "speaker": null,
+      "opening": "“You started a sentence last night.”"
+    },
+    {
+      "quote": 73,
+      "line": 7977,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 74,
+      "line": 7981,
+      "speaker": null,
+      "opening": "“I remember.”"
+    },
+    {
+      "quote": 75,
+      "line": 7983,
+      "speaker": null,
+      "opening": "“You planning to finish it?”"
+    },
+    {
+      "quote": 76,
+      "line": 7985,
+      "speaker": null,
+      "opening": "“After the race.”"
+    },
+    {
+      "quote": 77,
+      "line": 7991,
+      "speaker": null,
+      "opening": "“Drive well.”"
+    },
+    {
+      "quote": 78,
+      "line": 7999,
+      "speaker": null,
+      "opening": "“She'll bring you through.”"
+    },
+    {
+      "quote": 79,
+      "line": 8001,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 80,
+      "line": 8003,
+      "speaker": null,
+      "opening": "“Don't ask her to be a boat.”"
+    },
+    {
+      "quote": 81,
+      "line": 8005,
+      "speaker": null,
+      "opening": "“Nigga, that was another car.”"
+    },
+    {
+      "quote": 82,
+      "line": 8007,
+      "speaker": null,
+      "opening": "“Don't ask her to be a plane.”"
+    },
+    {
+      "quote": 83,
+      "line": 8009,
+      "speaker": null,
+      "opening": "“Context matters.”"
+    },
+    {
+      "quote": 84,
+      "line": 8017,
+      "speaker": null,
+      "opening": "“You riding?”"
+    },
+    {
+      "quote": 85,
+      "line": 8019,
+      "speaker": null,
+      "opening": "“Final race is single driver.”"
+    },
+    {
+      "quote": 86,
+      "line": 8021,
+      "speaker": null,
+      "opening": "“I can argue.”"
+    },
+    {
+      "quote": 87,
+      "line": 8023,
+      "speaker": null,
+      "opening": "“Nigga, I know.”"
+    },
+    {
+      "quote": 88,
+      "line": 8027,
+      "speaker": null,
+      "opening": "“I'll be at the finish. I want you"
+    },
+    {
+      "quote": 89,
+      "line": 8033,
+      "speaker": null,
+      "opening": "“I love you,”"
+    },
+    {
+      "quote": 90,
+      "line": 8037,
+      "speaker": null,
+      "opening": "“I know. I love you too.”"
+    },
+    {
+      "quote": 91,
+      "line": 8039,
+      "speaker": null,
+      "opening": "“Even when I do too much?”"
+    },
+    {
+      "quote": 92,
+      "line": 8041,
+      "speaker": null,
+      "opening": "“Especially when you come back and tell me.”"
+    },
+    {
+      "quote": 93,
+      "line": 8061,
+      "speaker": null,
+      "opening": "“Keep that.”"
+    },
+    {
+      "quote": 94,
+      "line": 8065,
+      "speaker": null,
+      "opening": "“You want me to answer?”"
+    },
+    {
+      "quote": 95,
+      "line": 8067,
+      "speaker": null,
+      "opening": "“Yeah.”"
+    },
+    {
+      "quote": 96,
+      "line": 8069,
+      "speaker": null,
+      "opening": "“What should I say?”"
+    },
+    {
+      "quote": 97,
+      "line": 8073,
+      "speaker": null,
+      "opening": "“Tell him I already chose the room.”"
+    },
+    {
+      "quote": 98,
+      "line": 8093,
+      "speaker": null,
+      "opening": "“See you at the palace.”"
+    },
+    {
+      "quote": 99,
+      "line": 8101,
+      "speaker": null,
+      "opening": "“I'd like to beat you once.”"
+    },
+    {
+      "quote": 100,
+      "line": 8103,
+      "speaker": null,
+      "opening": "“Nigga, ambition keeps a man young.”"
+    }
+  ]
+}

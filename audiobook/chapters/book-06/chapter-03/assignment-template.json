@@ -1,0 +1,931 @@
+{
+  "chapter_id": "b06-c03",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 154,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1101,
+      "speaker": null,
+      "opening": "\"Aiden,\""
+    },
+    {
+      "quote": 2,
+      "line": 1101,
+      "speaker": null,
+      "opening": "\"how attached are you to that hotel roof?\""
+    },
+    {
+      "quote": 3,
+      "line": 1107,
+      "speaker": null,
+      "opening": "\"What happened?\""
+    },
+    {
+      "quote": 4,
+      "line": 1109,
+      "speaker": null,
+      "opening": "\"Minor difficulty with the aircraft.\""
+    },
+    {
+      "quote": 5,
+      "line": 1111,
+      "speaker": null,
+      "opening": "\"WE HAVE LOST THE OTHER ENGINE!\""
+    },
+    {
+      "quote": 6,
+      "line": 1115,
+      "speaker": null,
+      "opening": "\"I am talking to Aiden!\""
+    },
+    {
+      "quote": 7,
+      "line": 1119,
+      "speaker": null,
+      "opening": "\"Nigga, what other engine?\""
+    },
+    {
+      "quote": 8,
+      "line": 1121,
+      "speaker": null,
+      "opening": "\"The second one.\""
+    },
+    {
+      "quote": 9,
+      "line": 1123,
+      "speaker": null,
+      "opening": "\"How many did you start with?\""
+    },
+    {
+      "quote": 10,
+      "line": 1125,
+      "speaker": null,
+      "opening": "\"Two.\""
+    },
+    {
+      "quote": 11,
+      "line": 1129,
+      "speaker": null,
+      "opening": "\"Tell him breakfast is getting cold.\""
+    },
+    {
+      "quote": 12,
+      "line": 1133,
+      "speaker": null,
+      "opening": "\"Captain, we are over the western quarter. The"
+    },
+    {
+      "quote": 13,
+      "line": 1135,
+      "speaker": null,
+      "opening": "\"What you flying?\""
+    },
+    {
+      "quote": 14,
+      "line": 1137,
+      "speaker": null,
+      "opening": "\"A university transport.\""
+    },
+    {
+      "quote": 15,
+      "line": 1139,
+      "speaker": null,
+      "opening": "\"How big?\""
+    },
+    {
+      "quote": 16,
+      "line": 1141,
+      "speaker": null,
+      "opening": "\"We brought gifts.\""
+    },
+    {
+      "quote": 17,
+      "line": 1147,
+      "speaker": null,
+      "opening": "\"You shower during that phone call?\""
+    },
+    {
+      "quote": 18,
+      "line": 1149,
+      "speaker": null,
+      "opening": "\"Other way around.\""
+    },
+    {
+      "quote": 19,
+      "line": 1157,
+      "speaker": null,
+      "opening": "\"There is an unfinished exhibition hall south of"
+    },
+    {
+      "quote": 20,
+      "line": 1163,
+      "speaker": null,
+      "opening": "\"Glass building. Half mile.\""
+    },
+    {
+      "quote": 21,
+      "line": 1165,
+      "speaker": null,
+      "opening": "\"Get everybody out of its way.\""
+    },
+    {
+      "quote": 22,
+      "line": 1167,
+      "speaker": null,
+      "opening": "\"Everybody?\""
+    },
+    {
+      "quote": 23,
+      "line": 1169,
+      "speaker": null,
+      "opening": "\"Nigga, the plane got gifts.\""
+    },
+    {
+      "quote": 24,
+      "line": 1181,
+      "speaker": null,
+      "opening": "\"Does this go all the way?\""
+    },
+    {
+      "quote": 25,
+      "line": 1183,
+      "speaker": null,
+      "opening": "\"About to.\""
+    },
+    {
+      "quote": 26,
+      "line": 1185,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 27,
+      "line": 1187,
+      "speaker": null,
+      "opening": "\"Baby, I got confidence.\""
+    },
+    {
+      "quote": 28,
+      "line": 1189,
+      "speaker": null,
+      "opening": "\"I would love some information to go with"
+    },
+    {
+      "quote": 29,
+      "line": 1197,
+      "speaker": null,
+      "opening": "\"There.\""
+    },
+    {
+      "quote": 30,
+      "line": 1199,
+      "speaker": null,
+      "opening": "\"That isn't a road.\""
+    },
+    {
+      "quote": 31,
+      "line": 1201,
+      "speaker": null,
+      "opening": "\"Nigga, it is today.\""
+    },
+    {
+      "quote": 32,
+      "line": 1207,
+      "speaker": null,
+      "opening": "\"Victor!\""
+    },
+    {
+      "quote": 33,
+      "line": 1213,
+      "speaker": null,
+      "opening": "\"You brought the new car!\""
+    },
+    {
+      "quote": 34,
+      "line": 1215,
+      "speaker": null,
+      "opening": "\"Cassius gonna be pissed if you land on"
+    },
+    {
+      "quote": 35,
+      "line": 1227,
+      "speaker": null,
+      "opening": "\"Enough to help him,\""
+    },
+    {
+      "quote": 36,
+      "line": 1227,
+      "speaker": null,
+      "opening": "\"Then you let go.\""
+    },
+    {
+      "quote": 37,
+      "line": 1231,
+      "speaker": null,
+      "opening": "\"Get down behind the wall.\""
+    },
+    {
+      "quote": 38,
+      "line": 1249,
+      "speaker": null,
+      "opening": "\"Go!\""
+    },
+    {
+      "quote": 39,
+      "line": 1269,
+      "speaker": null,
+      "opening": "\"Captain,\""
+    },
+    {
+      "quote": 40,
+      "line": 1269,
+      "speaker": null,
+      "opening": "\"your practical work remains exceptional.\""
+    },
+    {
+      "quote": 41,
+      "line": 1275,
+      "speaker": null,
+      "opening": "\"Sit.\""
+    },
+    {
+      "quote": 42,
+      "line": 1277,
+      "speaker": null,
+      "opening": "\"I am sitting.\""
+    },
+    {
+      "quote": 43,
+      "line": 1279,
+      "speaker": null,
+      "opening": "\"On the ground. You keep choosing expensive things"
+    },
+    {
+      "quote": 44,
+      "line": 1287,
+      "speaker": null,
+      "opening": "\"My nigga.\""
+    },
+    {
+      "quote": 45,
+      "line": 1289,
+      "speaker": null,
+      "opening": "\"You heavy as shit.\""
+    },
+    {
+      "quote": 46,
+      "line": 1291,
+      "speaker": null,
+      "opening": "\"That is gratitude you feel.\""
+    },
+    {
+      "quote": 47,
+      "line": 1293,
+      "speaker": null,
+      "opening": "\"Feels like a grown man in my lap.\""
+    },
+    {
+      "quote": 48,
+      "line": 1305,
+      "speaker": null,
+      "opening": "\"Victor,\""
+    },
+    {
+      "quote": 49,
+      "line": 1305,
+      "speaker": null,
+      "opening": "\"rest.\""
+    },
+    {
+      "quote": 50,
+      "line": 1307,
+      "speaker": null,
+      "opening": "\"Dean, I can—\""
+    },
+    {
+      "quote": 51,
+      "line": 1309,
+      "speaker": null,
+      "opening": "\"That was not a question.\""
+    },
+    {
+      "quote": 52,
+      "line": 1317,
+      "speaker": null,
+      "opening": "\"Aiden! How many fucking floors you need?\""
+    },
+    {
+      "quote": 53,
+      "line": 1319,
+      "speaker": null,
+      "opening": "\"Ask the architect!\""
+    },
+    {
+      "quote": 54,
+      "line": 1325,
+      "speaker": null,
+      "opening": "\"That better not be our cake,\""
+    },
+    {
+      "quote": 55,
+      "line": 1327,
+      "speaker": null,
+      "opening": "\"A sample,\""
+    },
+    {
+      "quote": 56,
+      "line": 1327,
+      "speaker": null,
+      "opening": "\"The final cake would never travel in these"
+    },
+    {
+      "quote": 57,
+      "line": 1331,
+      "speaker": null,
+      "opening": "\"Nigga, that's a sample?\""
+    },
+    {
+      "quote": 58,
+      "line": 1337,
+      "speaker": null,
+      "opening": "\"You two saved it once. Let somebody else"
+    },
+    {
+      "quote": 59,
+      "line": 1347,
+      "speaker": null,
+      "opening": "\"It is difficult,\""
+    },
+    {
+      "quote": 60,
+      "line": 1349,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 61,
+      "line": 1351,
+      "speaker": null,
+      "opening": "\"Being temporarily less impressive.\""
+    },
+    {
+      "quote": 62,
+      "line": 1353,
+      "speaker": null,
+      "opening": "\"Speak for yourself. I'm still handsome.\""
+    },
+    {
+      "quote": 63,
+      "line": 1355,
+      "speaker": null,
+      "opening": "\"Yes. It is extremely irritating.\""
+    },
+    {
+      "quote": 64,
+      "line": 1359,
+      "speaker": null,
+      "opening": "\"You knew I'd come?\""
+    },
+    {
+      "quote": 65,
+      "line": 1361,
+      "speaker": null,
+      "opening": "\"To the desert?\""
+    },
+    {
+      "quote": 66,
+      "line": 1363,
+      "speaker": null,
+      "opening": "\"To the end.\""
+    },
+    {
+      "quote": 67,
+      "line": 1367,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 68,
+      "line": 1367,
+      "speaker": null,
+      "opening": "\"I knew.\""
+    },
+    {
+      "quote": 69,
+      "line": 1371,
+      "speaker": null,
+      "opening": "\"You were bathing when I called.\""
+    },
+    {
+      "quote": 70,
+      "line": 1373,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 71,
+      "line": 1375,
+      "speaker": null,
+      "opening": "\"My nigga got out of a bath to"
+    },
+    {
+      "quote": 72,
+      "line": 1377,
+      "speaker": null,
+      "opening": "\"Nigga, there was an entire plane. Don't make"
+    },
+    {
+      "quote": 73,
+      "line": 1379,
+      "speaker": null,
+      "opening": "\"And you weren't even dry.\""
+    },
+    {
+      "quote": 74,
+      "line": 1381,
+      "speaker": null,
+      "opening": "\"Victor.\""
+    },
+    {
+      "quote": 75,
+      "line": 1383,
+      "speaker": null,
+      "opening": "\"The academy must know.\""
+    },
+    {
+      "quote": 76,
+      "line": 1385,
+      "speaker": null,
+      "opening": "\"The academy can know you started with two"
+    },
+    {
+      "quote": 77,
+      "line": 1389,
+      "speaker": null,
+      "opening": "\"They'll have to alter the painting,\""
+    },
+    {
+      "quote": 78,
+      "line": 1393,
+      "speaker": null,
+      "opening": "\"What painting?\""
+    },
+    {
+      "quote": 79,
+      "line": 1395,
+      "speaker": null,
+      "opening": "\"Dean Storm commissioned your portrait. Captain Aiden above"
+    },
+    {
+      "quote": 80,
+      "line": 1397,
+      "speaker": null,
+      "opening": "\"Nigga, what am I wearing?\""
+    },
+    {
+      "quote": 81,
+      "line": 1399,
+      "speaker": null,
+      "opening": "\"Your uniform.\""
+    },
+    {
+      "quote": 82,
+      "line": 1401,
+      "speaker": null,
+      "opening": "\"Good. You keep telling bath stories, some nigga"
+    },
+    {
+      "quote": 83,
+      "line": 1405,
+      "speaker": null,
+      "opening": "\"They argued over the inscription.\""
+    },
+    {
+      "quote": 84,
+      "line": 1407,
+      "speaker": null,
+      "opening": "\"How long?\""
+    },
+    {
+      "quote": 85,
+      "line": 1409,
+      "speaker": null,
+      "opening": "\"Forty minutes.\""
+    },
+    {
+      "quote": 86,
+      "line": 1411,
+      "speaker": null,
+      "opening": "\"Nigga, I almost died in less. What won?\""
+    },
+    {
+      "quote": 87,
+      "line": 1413,
+      "speaker": null,
+      "opening": "\"A Man Above Us All.\""
+    },
+    {
+      "quote": 88,
+      "line": 1415,
+      "speaker": null,
+      "opening": "\"Accurate faculty.\""
+    },
+    {
+      "quote": 89,
+      "line": 1417,
+      "speaker": null,
+      "opening": "\"One professor suggested Outstanding Attendance.\""
+    },
+    {
+      "quote": 90,
+      "line": 1419,
+      "speaker": null,
+      "opening": "\"That nigga understands the material.\""
+    },
+    {
+      "quote": 91,
+      "line": 1421,
+      "speaker": null,
+      "opening": "\"Then they argued over how much larger than"
+    },
+    {
+      "quote": 92,
+      "line": 1423,
+      "speaker": null,
+      "opening": "\"Start with actual size. Tell those niggas to"
+    },
+    {
+      "quote": 93,
+      "line": 1429,
+      "speaker": null,
+      "opening": "\"Thank you,\""
+    },
+    {
+      "quote": 94,
+      "line": 1433,
+      "speaker": null,
+      "opening": "\"My nigga.\""
+    },
+    {
+      "quote": 95,
+      "line": 1443,
+      "speaker": null,
+      "opening": "\"They're inside.\""
+    },
+    {
+      "quote": 96,
+      "line": 1453,
+      "speaker": null,
+      "opening": "\"Don't.\""
+    },
+    {
+      "quote": 97,
+      "line": 1455,
+      "speaker": null,
+      "opening": "\"I wasn't.\""
+    },
+    {
+      "quote": 98,
+      "line": 1457,
+      "speaker": null,
+      "opening": "\"I know your face.\""
+    },
+    {
+      "quote": 99,
+      "line": 1459,
+      "speaker": null,
+      "opening": "\"Nigga, everybody knows my face. It's famous.\""
+    },
+    {
+      "quote": 100,
+      "line": 1463,
+      "speaker": null,
+      "opening": "\"Can you drive?\""
+    },
+    {
+      "quote": 101,
+      "line": 1467,
+      "speaker": null,
+      "opening": "\"With you yelling directions?\""
+    },
+    {
+      "quote": 102,
+      "line": 1469,
+      "speaker": null,
+      "opening": "\"Always.\""
+    },
+    {
+      "quote": 103,
+      "line": 1475,
+      "speaker": null,
+      "opening": "\"Move over.\""
+    },
+    {
+      "quote": 104,
+      "line": 1487,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 105,
+      "line": 1489,
+      "speaker": null,
+      "opening": "\"I see him.\""
+    },
+    {
+      "quote": 106,
+      "line": 1491,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 107,
+      "line": 1493,
+      "speaker": null,
+      "opening": "\"I married you. I know a bad approach"
+    },
+    {
+      "quote": 108,
+      "line": 1503,
+      "speaker": null,
+      "opening": "\"Mrs. Aiden!\""
+    },
+    {
+      "quote": 109,
+      "line": 1505,
+      "speaker": null,
+      "opening": "\"Seat belt!\""
+    },
+    {
+      "quote": 110,
+      "line": 1509,
+      "speaker": null,
+      "opening": "\"My gift.\""
+    },
+    {
+      "quote": 111,
+      "line": 1511,
+      "speaker": null,
+      "opening": "\"Your gift saved a plane,\""
+    },
+    {
+      "quote": 112,
+      "line": 1517,
+      "speaker": null,
+      "opening": "\"And I drove it home.\""
+    },
+    {
+      "quote": 113,
+      "line": 1523,
+      "speaker": null,
+      "opening": "\"That medically necessary?\""
+    },
+    {
+      "quote": 114,
+      "line": 1525,
+      "speaker": null,
+      "opening": "\"For my peace of mind.\""
+    },
+    {
+      "quote": 115,
+      "line": 1529,
+      "speaker": null,
+      "opening": "\"For your wedding renewal. I wished to bring"
+    },
+    {
+      "quote": 116,
+      "line": 1533,
+      "speaker": null,
+      "opening": "\"You could have mailed them.\""
+    },
+    {
+      "quote": 117,
+      "line": 1535,
+      "speaker": null,
+      "opening": "\"My dear, your husband would have found that"
+    },
+    {
+      "quote": 118,
+      "line": 1537,
+      "speaker": null,
+      "opening": "\"She's right.\""
+    },
+    {
+      "quote": 119,
+      "line": 1541,
+      "speaker": null,
+      "opening": "\"You have assembled a remarkable family, Captain.\""
+    },
+    {
+      "quote": 120,
+      "line": 1545,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 121,
+      "line": 1545,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 122,
+      "line": 1549,
+      "speaker": null,
+      "opening": "\"The academy sent something else.\""
+    },
+    {
+      "quote": 123,
+      "line": 1563,
+      "speaker": null,
+      "opening": "\"Motivation.\""
+    },
+    {
+      "quote": 124,
+      "line": 1575,
+      "speaker": null,
+      "opening": "\"Captain!\""
+    },
+    {
+      "quote": 125,
+      "line": 1577,
+      "speaker": null,
+      "opening": "\"Chief!\""
+    },
+    {
+      "quote": 126,
+      "line": 1579,
+      "speaker": null,
+      "opening": "\"Why is there an airplane on a shopping"
+    },
+    {
+      "quote": 127,
+      "line": 1581,
+      "speaker": null,
+      "opening": "\"Exhibition hall!\""
+    },
+    {
+      "quote": 128,
+      "line": 1583,
+      "speaker": null,
+      "opening": "\"That clears it right up!\""
+    },
+    {
+      "quote": 129,
+      "line": 1589,
+      "speaker": null,
+      "opening": "\"You look tired.\""
+    },
+    {
+      "quote": 130,
+      "line": 1591,
+      "speaker": null,
+      "opening": "\"Saved a plane.\""
+    },
+    {
+      "quote": 131,
+      "line": 1593,
+      "speaker": null,
+      "opening": "\"I saw. Somebody filmed you from a crane."
+    },
+    {
+      "quote": 132,
+      "line": 1595,
+      "speaker": null,
+      "opening": "\"They should've been helping.\""
+    },
+    {
+      "quote": 133,
+      "line": 1597,
+      "speaker": null,
+      "opening": "\"They voted to name a road after you.\""
+    },
+    {
+      "quote": 134,
+      "line": 1599,
+      "speaker": null,
+      "opening": "\"I already got one.\""
+    },
+    {
+      "quote": 135,
+      "line": 1601,
+      "speaker": null,
+      "opening": "\"They voted for a better road.\""
+    },
+    {
+      "quote": 136,
+      "line": 1605,
+      "speaker": null,
+      "opening": "\"And you're the young man who held it"
+    },
+    {
+      "quote": 137,
+      "line": 1607,
+      "speaker": null,
+      "opening": "\"Victor Voltage.\""
+    },
+    {
+      "quote": 138,
+      "line": 1609,
+      "speaker": null,
+      "opening": "\"Excellent work. We are considering a roundabout.\""
+    },
+    {
+      "quote": 139,
+      "line": 1611,
+      "speaker": null,
+      "opening": "\"I would accept a tasteful one.\""
+    },
+    {
+      "quote": 140,
+      "line": 1615,
+      "speaker": null,
+      "opening": "\"I brought twelve volunteers. All grown, all armed,"
+    },
+    {
+      "quote": 141,
+      "line": 1617,
+      "speaker": null,
+      "opening": "\"Zero let you through?\""
+    },
+    {
+      "quote": 142,
+      "line": 1619,
+      "speaker": null,
+      "opening": "\"He tried to charge an arrival tax.\""
+    },
+    {
+      "quote": 143,
+      "line": 1621,
+      "speaker": null,
+      "opening": "\"You pay it?\""
+    },
+    {
+      "quote": 144,
+      "line": 1627,
+      "speaker": null,
+      "opening": "\"The border captain now owes me money,\""
+    },
+    {
+      "quote": 145,
+      "line": 1633,
+      "speaker": null,
+      "opening": "\"The city wanted you to have something dignified,\""
+    },
+    {
+      "quote": 146,
+      "line": 1635,
+      "speaker": null,
+      "opening": "\"Nigga, this is a sword with my name"
+    },
+    {
+      "quote": 147,
+      "line": 1637,
+      "speaker": null,
+      "opening": "\"I argued for two. Budget hearing was difficult.\""
+    },
+    {
+      "quote": 148,
+      "line": 1641,
+      "speaker": null,
+      "opening": "\"I didn't come for a photograph, Aiden.\""
+    },
+    {
+      "quote": 149,
+      "line": 1645,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 150,
+      "line": 1647,
+      "speaker": null,
+      "opening": "\"You made my department the most famous in"
+    },
+    {
+      "quote": 151,
+      "line": 1649,
+      "speaker": null,
+      "opening": "\"Working on it.\""
+    },
+    {
+      "quote": 152,
+      "line": 1653,
+      "speaker": null,
+      "opening": "\"Work harder. Your wife has plans.\""
+    },
+    {
+      "quote": 153,
+      "line": 1659,
+      "speaker": null,
+      "opening": "\"Yes, ma'am.\""
+    },
+    {
+      "quote": 154,
+      "line": 1663,
+      "speaker": null,
+      "opening": "\"There. Best officer I ever hired. Follows instructions"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+Las Vegas met us in the sky.
+
+Nigga, I thought I was seeing traffic until the helicopters turned together and blue smoke spread above the city. Five aircraft flew on either side of the First Dance, their pilots holding formation around an airship with a repaired heart painted across its side. Below us, the Strip glittered in the afternoon sun. The hotels looked up like old friends pretending they had not spent the whole week waiting at the window.
+
+Tank stood beside me in the observation cabin.
+
+"Brother."
+
+"I see it."
+
+"Those niggas escorting us."
+
+"They got taste."
+
+"What if they escorting Rosa?"
+
+I looked at him.
+
+"Nigga, then smile and enjoy the relationship."
+
+Rosa came up behind us wearing sunglasses and a yellow dress. She looked down at the city, then at the heart on the airship's side.
+
+"We are going to be unbearable at this wedding."
+
+"Going to?" Shawna asked.
+
+The women laughed and hugged.
+
+I stood with my arm in a sling Vega had forced on me for the journey. The sling was blue because my wife understood that if a nigga had to be medically inconvenienced, he should still match his vehicle. The crown sat in its case. My badge remained on my chest. I had tried wearing both during breakfast, and Shawna told me the waiter was having difficulty remembering where to put the eggs.
+
+Below us, the airport runway cleared.
+
+A line of dark-blue police vehicles waited along the edge. Beyond them stood cars from every year of my life since I had first learned how good a key could feel in a man's hand. My original Lamborghini waited near the front, repaired and polished. The black Mercedes had come home separately with Tank's trusted drivers. Cassius's gift car stood beside them. Even the battered Last Word rested on a transport truck, looking less dead now that June had spent the voyage threatening its damaged parts personally.
+
+Nigga, my cars had their own reunion before I got to hug anybody.
+
+We landed beneath a banner stretched across two airport cranes.
+
+WELCOME HOME, CAPTAIN AIDEN.
+
+Underneath, in a different hand, somebody had added:
+
+AND HIS EXTREMELY IMPORTANT WIFE.
+
+Shawna read it twice.
+
+Then she turned to Knox.
+
+The chief smiled.
+
+"Your fans were insistent."
+
+"Good," my wife said.
+
+Tank pointed at a smaller banner near the terminal.
+
+ROSA, PLEASE MARRY THIS MAN BEFORE HE BUYS MORE FLOWERS.
+
+The nigga covered his face.
+
+Rosa laughed until she had to lean against him.
+
+"Who told them?"
+
+"Nigga," I said, "you sent a florist eleven voice messages about blue. The city knows."
+
+We came down the airship stairs into a roar.
+
+Police officers saluted. Drivers cheered. College faculty waved little blue flags. Musicians played from a temporary stage. Adult students from Sky High stood near the terminal with their old graduation jackets over their arms. Friends from Monaco had flown in ahead of us, along with people from Isla Gloria who apparently believed gratitude should travel with luggage and several bottles of rum.
+
+Everybody wanted to touch somebody.
+
+I hugged men whose names I knew and men whose faces I remembered from nights when knowing a face had been enough. Women kissed my cheeks, then embraced Shawna harder. Tank disappeared inside a crowd of old friends. Rosa watched him with the smile of a woman discovering how many people already loved the man she had chosen.
+
+A young officer approached with a clipboard, twenty-five and trying to look at my face without looking at the crown case behind it.
+
+"Captain. Welcome home. Signature for the arrival report."
+
+I took his pen.
+
+"Nigga, I been gone a while. You sure one signature gonna cover it?"
+
+"The chief said everything else waits until lunch."
+
+"Excellent nigga. Excellent department."
+
+He watched me sign. Watched the crown case. Looked at Shawna, then back at me. The question fought its way out through every rule they had taught him about greeting a superior.
+
+"Did you really arrest an armored vehicle?"
+
+Shawna answered before I could.
+
+"He used the siren."
+
+The young nigga nodded like that resolved the physics.
+
+"Of course."
+
+Tank passed behind him.
+
+"Procedure, nigga. Can't just climb a military vehicle without announcing customer service."
+
+"Traffic enforcement," the officer corrected, very earnestly.
+
+Tank looked at me. I looked at Shawna. My wife suddenly found something fascinating in the sky.
+
+The officer pointed his pen at the form.
+
+"Should I put the vehicle under recovered property?"
+
+"Nigga, it stayed there. I came home."
+
+"Right. International incident, then."
+
+"Why your handwriting speed up when you said that?"
+
+Knox rescued him by taking the clipboard.
+
+"Lunch," she told him.
+
+He saluted. "Yes, Chief."
+
+He left still smiling. The nigga had met his hero and received an administrative puzzle. Police academy was gonna hear about that shit for a month.
+
+Knox put a hand on my good shoulder.
+
+"Half the academy now asks whether vehicle size affects jurisdiction."
+
+"Tell those niggas to dream."
+
+"I'm telling them to finish parking practice. One of them cited a bus and stood in front of it."
+
+Shawna looked at me.
+
+"Don't," I said.
+
+"I didn't say anything."
+
+"Nigga, you prepared a whole expression."
+
+Knox laughed and led us toward the stage. I handed the officer's pen back as we passed him. The nigga looked surprised.
+
+"What?" I asked. "I came home rich. I can afford manners."
+
+The mayor waited there with a key to the city.
+
+I had met him before. He had already given me things to hold for photographs. This key was bigger than the previous one and shone so brightly I suspected he had measured his reelection prospects in carats.
+
+"Captain Aiden," he began, "Las Vegas welcomes its most extraordinary citizen."
+
+The crowd cheered.
+
+Tank cupped his hands around his mouth.
+
+"That nigga right there!"
+
+Rosa tried to pull his arms down and failed because she was laughing too hard.
+
+The mayor continued through the noise. He named the races, the rescues, the academy, the island, the people who had come home because my friends and I had refused to let an emperor decide when the road closed.
+
+He did not mention every crime.
+
+Nigga, a good welcome speech knows when to make room for lunch.
+
+Then he handed me the key.
+
+It took both hands.
+
+My injured arm complained.
+
+Shawna took one end before I could pretend otherwise.
+
+The crowd cheered louder.
+
+"Joint ownership," she said.
+
+"Baby, you already got all the doors."
+
+She kissed me in front of the cameras.
+
+The mayor waited with the patient expression of a man who knew which photograph would actually appear on the news.
+
+When it was my turn to speak, I stepped to the microphone.
+
+The crowd quieted slowly.
+
+I looked out at them: cops, crooks, drivers, singers, friends, people who had watched the bridge on a screen and come to see whether the man climbing out of the car still looked like himself in daylight.
+
+"Niggas," I said warmly, "I missed my fucking city."
+
+The airport roared.
+
+"I missed the heat. I missed the bad decisions. I missed knowing which restaurant would feed Tank after the kitchen closed."
+
+Tank raised a fist.
+
+"But I brought something back."
+
+I turned toward my people.
+
+"Friends. A whole lot of cars. Some extremely complicated luggage. And the two best reasons I know to throw the biggest wedding this city has ever survived."
+
+I held out my hand to Shawna.
+
+Rosa took Tank's hand beside us.
+
+The crowd began cheering before I finished.
+
+I let them.
+
+Nigga, I had earned the microphone, but I did not need every second of it.
+
+The drive home took two hours because the city had decided every street was part of the parade.
+
+We moved slowly behind police motorcycles. People stood outside shops waving towels, flags, shirts, anything blue. A man ran beside the Lamborghini for half a block holding a framed photograph of me that I did not remember posing for.
+
+"Captain! Sign it!"
+
+I took the marker through the window and signed while Shawna drove.
+
+"Nigga, where you get this picture?"
+
+"My aunt took it at graduation!"
+
+I looked at the photograph.
+
+My gown flew open. I held a diploma in one hand and something expensive appeared to be on fire behind me.
+
+"Excellent photographer."
+
+"She says you're her favorite graduate!"
+
+"Tell her I accept."
+
+The man ran away cheering.
+
+Shawna shook her head.
+
+"You accept being somebody's favorite?"
+
+"Nigga, it would be rude to reject the woman."
+
+At the next intersection, three street racers pulled up beside us in polished cars. Grown men, late twenties, wearing expressions of reverence they would absolutely deny possessing if anyone described them that way.
+
+The driver nearest me lowered his window.
+
+"Captain. One block. For honor."
+
+I looked at his car.
+
+Then at the crowded street.
+
+"Nigga, look around."
+
+He deflated.
+
+"Right. Sorry."
+
+"Tomorrow. Track. Bring a better excuse than honor."
+
+His face lit up.
+
+"For love?"
+
+Shawna looked over.
+
+"That's a much better reason."
+
+The nigga nodded like she had knighted his accelerator.
+
+We reached the mansion at sunset.
+
+The gates opened before we stopped.
+
+Our house stood beyond the palms, white walls glowing, windows open, music coming from somewhere inside. The staff waited on the steps. Flowers filled the entrance. In the garden, the white horse lifted its head and regarded me with the grave judgment of an animal that had spent months living better than most kings without once feeling the need to own a badge.
+
+I got out of the car.
+
+For a moment I could not move.
+
+The house had been a boast when I bought it. A palace for a woman I barely knew and already could not imagine leaving. Now every window held something we had lived long enough to return to.
+
+Shawna came around the car.
+
+"Baby."
+
+I looked at her.
+
+"Nigga, we actually made it."
+
+She took my hand.
+
+"Yes."
+
+No bigger word.
+
+No prettier one.
+
+We walked up the steps together.
+
+Inside, somebody had placed a photograph on the entrance table. Our first wedding. Me looking like I had won the world and remained suspicious it might ask for identification. Shawna beside me, beautiful and laughing. Tank behind us, trying to stand seriously. Rosa looking at him instead of the camera.
+
+I picked it up.
+
+Shawna leaned against my shoulder.
+
+"Look at those two," she said.
+
+"Us?"
+
+"Them."
+
+I looked at Tank and Rosa in the photograph.
+
+Nigga, the whole future had been standing behind us while we smiled.
+
+Tank came through the door carrying three bags at once.
+
+"Brother, where you want these?"
+
+I turned the photograph toward him.
+
+He looked.
+
+Then he smiled so softly I almost did not recognize the expression on that big dangerous face.
+
+Rosa came up behind him and put her chin against his shoulder.
+
+"You were staring," she said.
+
+"I had excellent judgment."
+
+She kissed his cheek.
+
+We stood there in the entrance of our house, four people who had carried too much and somehow brought the right things home.
+
+Outside, the parade kept cheering along the road.
+
+Inside, my wife took off her shoes.
+
+Nigga, that was the sound I had crossed the world to hear.

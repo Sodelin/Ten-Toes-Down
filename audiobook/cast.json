@@ -1,8 +1,82 @@
 {
-  "AIDEN": {"voice": "am_fenrir", "speed": 1.03, "direction": "Conversational confidence; same voice for narration and dialogue."},
-  "TICKET": {"voice": "am_michael", "speed": 0.95, "direction": "Dry, unhurried service-counter delivery."},
-  "TANK": {"voice": "am_puck", "speed": 0.96, "direction": "Warm, confident, completely sincere about ridiculous explanations."},
-  "GUEST": {"voice": "am_echo", "speed": 1.05, "direction": "Eager, opportunistic guest."},
-  "SHAWNA": {"voice": "af_heart", "speed": 1.00, "direction": "Clear, confident, affectionate, in charge."},
-  "MERCEDES": {"voice": "af_bella", "speed": 1.00, "direction": "Warm and direct; distinct from Shawna."}
+  "AIDEN": {
+    "voice": "am_fenrir",
+    "speed": 1.03,
+    "direction": "Conversational confidence; same voice for narration and dialogue."
+  },
+  "TICKET": {
+    "voice": "am_michael",
+    "speed": 0.95,
+    "direction": "Dry, unhurried service-counter delivery."
+  },
+  "TANK": {
+    "voice": "am_puck",
+    "speed": 0.96,
+    "direction": "Warm, confident, completely sincere about ridiculous explanations."
+  },
+  "GUEST": {
+    "voice": "am_echo",
+    "speed": 1.05,
+    "direction": "Eager, opportunistic guest."
+  },
+  "SHAWNA": {
+    "voice": "af_heart",
+    "speed": 1.0,
+    "direction": "Clear, confident, affectionate, in charge."
+  },
+  "MERCEDES": {
+    "voice": "af_bella",
+    "speed": 1.0,
+    "direction": "Warm and direct; distinct from Shawna."
+  },
+  "SILAS": {
+    "voice": "am_onyx",
+    "speed": 0.96,
+    "direction": "Polished public charm, clipped entitlement under pressure."
+  },
+  "COOK": {
+    "voice": "am_adam",
+    "speed": 1.0,
+    "direction": "Grounded, practical, casually unimpressed."
+  },
+  "DRUMMER": {
+    "voice": "am_liam",
+    "speed": 0.98,
+    "direction": "Precise, dry working musician."
+  },
+  "CORPSE_PERFORMER": {
+    "voice": "am_puck",
+    "speed": 1.05,
+    "direction": "Indignant professional entertainer; vivid and emphatic."
+  },
+  "SILAS_SMALL_MAN": {
+    "voice": "am_eric",
+    "speed": 1.02,
+    "direction": "Nervous, subdued, trying to talk his way out."
+  },
+  "SOUND_TECH": {
+    "voice": "am_fenrir",
+    "speed": 1.04,
+    "direction": "Young, curious, tentative before relaxing."
+  },
+  "GUEST_TABLE_WOMAN": {
+    "voice": "af_sarah",
+    "speed": 1.04,
+    "direction": "Delighted, bold heckle."
+  },
+  "GUEST_AISLE_WOMAN": {
+    "voice": "af_nova",
+    "speed": 0.97,
+    "direction": "Startled, practical urgency."
+  },
+  "GUEST_AISLE_MAN": {
+    "voice": "am_santa",
+    "speed": 1.0,
+    "direction": "Sincere, understated uncertainty."
+  },
+  "GUEST_DANCE_WOMAN": {
+    "voice": "af_sky",
+    "speed": 1.02,
+    "direction": "Playful and decisive."
+  }
 }

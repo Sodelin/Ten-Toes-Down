@@ -1,0 +1,577 @@
+{
+  "chapter_id": "b04-c10",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 95,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3608,
+      "speaker": null,
+      "opening": "\"This is a serious competition,\""
+    },
+    {
+      "quote": 2,
+      "line": 3610,
+      "speaker": null,
+      "opening": "\"Nigga, marriage is serious too. Read the authority.\""
+    },
+    {
+      "quote": 3,
+      "line": 3612,
+      "speaker": null,
+      "opening": "\"You really ask her?\""
+    },
+    {
+      "quote": 4,
+      "line": 3614,
+      "speaker": null,
+      "opening": "\"Nigga, about everything.\""
+    },
+    {
+      "quote": 5,
+      "line": 3616,
+      "speaker": null,
+      "opening": "\"Everything?\""
+    },
+    {
+      "quote": 6,
+      "line": 3618,
+      "speaker": null,
+      "opening": "\"Nigga, the apron ain't a rumor.\""
+    },
+    {
+      "quote": 7,
+      "line": 3630,
+      "speaker": null,
+      "opening": "\"Nigga, I have been hungry,\""
+    },
+    {
+      "quote": 8,
+      "line": 3630,
+      "speaker": null,
+      "opening": "\"I paid attention.\""
+    },
+    {
+      "quote": 9,
+      "line": 3636,
+      "speaker": null,
+      "opening": "\"That motherfucker owes somebody money.\""
+    },
+    {
+      "quote": 10,
+      "line": 3638,
+      "speaker": null,
+      "opening": "\"Then we're collecting,\""
+    },
+    {
+      "quote": 11,
+      "line": 3642,
+      "speaker": null,
+      "opening": "\"Fiancée,\""
+    },
+    {
+      "quote": 12,
+      "line": 3644,
+      "speaker": null,
+      "opening": "\"We know,\""
+    },
+    {
+      "quote": 13,
+      "line": 3646,
+      "speaker": null,
+      "opening": "\"Just making sure.\""
+    },
+    {
+      "quote": 14,
+      "line": 3648,
+      "speaker": null,
+      "opening": "\"Nigga, you said it to a seagull.\""
+    },
+    {
+      "quote": 15,
+      "line": 3650,
+      "speaker": null,
+      "opening": "\"Seagull was looking.\""
+    },
+    {
+      "quote": 16,
+      "line": 3660,
+      "speaker": null,
+      "opening": "\"You are using the larger pan?\""
+    },
+    {
+      "quote": 17,
+      "line": 3662,
+      "speaker": null,
+      "opening": "\"Nigga, I got larger intentions.\""
+    },
+    {
+      "quote": 18,
+      "line": 3666,
+      "speaker": null,
+      "opening": "\"The acid will change as it reduces.\""
+    },
+    {
+      "quote": 19,
+      "line": 3668,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 20,
+      "line": 3670,
+      "speaker": null,
+      "opening": "\"The fish does not wait for your conversation.\""
+    },
+    {
+      "quote": 21,
+      "line": 3672,
+      "speaker": null,
+      "opening": "\"Neither does my wife. Nigga, I live with"
+    },
+    {
+      "quote": 22,
+      "line": 3676,
+      "speaker": null,
+      "opening": "\"Go ahead. You been staring into this pan"
+    },
+    {
+      "quote": 23,
+      "line": 3684,
+      "speaker": null,
+      "opening": "\"Ah,\""
+    },
+    {
+      "quote": 24,
+      "line": 3684,
+      "speaker": null,
+      "opening": "\"The nigga has discovered lunch.\""
+    },
+    {
+      "quote": 25,
+      "line": 3686,
+      "speaker": null,
+      "opening": "\"You need something crisp.\""
+    },
+    {
+      "quote": 26,
+      "line": 3690,
+      "speaker": null,
+      "opening": "\"Alma,\""
+    },
+    {
+      "quote": 27,
+      "line": 3690,
+      "speaker": null,
+      "opening": "\"you got—\""
+    },
+    {
+      "quote": 28,
+      "line": 3694,
+      "speaker": null,
+      "opening": "\"Pay attention,\""
+    },
+    {
+      "quote": 29,
+      "line": 3694,
+      "speaker": null,
+      "opening": "\"A man can talk and still be useful.\""
+    },
+    {
+      "quote": 30,
+      "line": 3696,
+      "speaker": null,
+      "opening": "\"Somebody put that on Tank's apron.\""
+    },
+    {
+      "quote": 31,
+      "line": 3698,
+      "speaker": null,
+      "opening": "\"Mine says engaged,\""
+    },
+    {
+      "quote": 32,
+      "line": 3704,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 33,
+      "line": 3706,
+      "speaker": null,
+      "opening": "\"Good Aiden or what-the-fuck Aiden?\""
+    },
+    {
+      "quote": 34,
+      "line": 3708,
+      "speaker": null,
+      "opening": "\"The one that feeds me before he feeds"
+    },
+    {
+      "quote": 35,
+      "line": 3712,
+      "speaker": null,
+      "opening": "\"That was for presentation.\""
+    },
+    {
+      "quote": 36,
+      "line": 3714,
+      "speaker": null,
+      "opening": "\"Nigga, I presented it. Look at her.\""
+    },
+    {
+      "quote": 37,
+      "line": 3718,
+      "speaker": null,
+      "opening": "\"You have abandoned your entry,\""
+    },
+    {
+      "quote": 38,
+      "line": 3720,
+      "speaker": null,
+      "opening": "\"Nah. I'm making another. You want to stand"
+    },
+    {
+      "quote": 39,
+      "line": 3738,
+      "speaker": null,
+      "opening": "\"The Saint Aurelia,\""
+    },
+    {
+      "quote": 40,
+      "line": 3738,
+      "speaker": null,
+      "opening": "\"Fire below decks. The general's ordered the other"
+    },
+    {
+      "quote": 41,
+      "line": 3740,
+      "speaker": null,
+      "opening": "\"Why?\""
+    },
+    {
+      "quote": 42,
+      "line": 3742,
+      "speaker": null,
+      "opening": "\"He thinks it's a desertion signal.\""
+    },
+    {
+      "quote": 43,
+      "line": 3748,
+      "speaker": null,
+      "opening": "\"Your fish—\""
+    },
+    {
+      "quote": 44,
+      "line": 3750,
+      "speaker": null,
+      "opening": "\"Nigga, don't let it burn.\""
+    },
+    {
+      "quote": 45,
+      "line": 3764,
+      "speaker": null,
+      "opening": "\"Come back wearing that ring's husband,\""
+    },
+    {
+      "quote": 46,
+      "line": 3778,
+      "speaker": null,
+      "opening": "\"That's the nigga.\""
+    },
+    {
+      "quote": 47,
+      "line": 3780,
+      "speaker": null,
+      "opening": "\"I see the nigga.\""
+    },
+    {
+      "quote": 48,
+      "line": 3782,
+      "speaker": null,
+      "opening": "\"The racing nigga.\""
+    },
+    {
+      "quote": 49,
+      "line": 3784,
+      "speaker": null,
+      "opening": "\"Can the racing nigga climb?\""
+    },
+    {
+      "quote": 50,
+      "line": 3786,
+      "speaker": null,
+      "opening": "\"Nigga can do everything.\""
+    },
+    {
+      "quote": 51,
+      "line": 3788,
+      "speaker": null,
+      "opening": "\"Then let the nigga get up here before"
+    },
+    {
+      "quote": 52,
+      "line": 3792,
+      "speaker": null,
+      "opening": "\"You coming aboard or admiring the paint?\""
+    },
+    {
+      "quote": 53,
+      "line": 3794,
+      "speaker": null,
+      "opening": "\"Nigga, you keep greeting people like that, we'll"
+    },
+    {
+      "quote": 54,
+      "line": 3800,
+      "speaker": null,
+      "opening": "\"Captain Aiden,\""
+    },
+    {
+      "quote": 55,
+      "line": 3802,
+      "speaker": null,
+      "opening": "\"I know who the fuck you are. Half"
+    },
+    {
+      "quote": 56,
+      "line": 3804,
+      "speaker": null,
+      "opening": "\"Good taste at sea.\""
+    },
+    {
+      "quote": 57,
+      "line": 3820,
+      "speaker": null,
+      "opening": "\"Captain?\""
+    },
+    {
+      "quote": 58,
+      "line": 3822,
+      "speaker": null,
+      "opening": "\"Different captain,\""
+    },
+    {
+      "quote": 59,
+      "line": 3822,
+      "speaker": null,
+      "opening": "\"Better looking. Stay loud.\""
+    },
+    {
+      "quote": 60,
+      "line": 3834,
+      "speaker": null,
+      "opening": "\"Nine,\""
+    },
+    {
+      "quote": 61,
+      "line": 3836,
+      "speaker": null,
+      "opening": "\"We're getting nine.\""
+    },
+    {
+      "quote": 62,
+      "line": 3846,
+      "speaker": null,
+      "opening": "\"You last?\""
+    },
+    {
+      "quote": 63,
+      "line": 3848,
+      "speaker": null,
+      "opening": "\"I'm last.\""
+    },
+    {
+      "quote": 64,
+      "line": 3850,
+      "speaker": null,
+      "opening": "\"Then move, nigga. You got a hell of"
+    },
+    {
+      "quote": 65,
+      "line": 3858,
+      "speaker": null,
+      "opening": "\"No one leaves with the general's property,\""
+    },
+    {
+      "quote": 66,
+      "line": 3868,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 67,
+      "line": 3868,
+      "speaker": null,
+      "opening": "\"look around and find somebody who still gives"
+    },
+    {
+      "quote": 68,
+      "line": 3882,
+      "speaker": null,
+      "opening": "\"What do you want for the rescue?\""
+    },
+    {
+      "quote": 69,
+      "line": 3884,
+      "speaker": null,
+      "opening": "\"Nigga, wash your hands. We're eating.\""
+    },
+    {
+      "quote": 70,
+      "line": 3896,
+      "speaker": null,
+      "opening": "\"Eat.\""
+    },
+    {
+      "quote": 71,
+      "line": 3906,
+      "speaker": null,
+      "opening": "\"You made this?\""
+    },
+    {
+      "quote": 72,
+      "line": 3908,
+      "speaker": null,
+      "opening": "\"Had help finishing.\""
+    },
+    {
+      "quote": 73,
+      "line": 3912,
+      "speaker": null,
+      "opening": "\"The balance was his,\""
+    },
+    {
+      "quote": 74,
+      "line": 3912,
+      "speaker": null,
+      "opening": "\"I merely prevented it from being ruined while"
+    },
+    {
+      "quote": 75,
+      "line": 3914,
+      "speaker": null,
+      "opening": "\"Lunch delivery,\""
+    },
+    {
+      "quote": 76,
+      "line": 3922,
+      "speaker": null,
+      "opening": "\"The general told us you were a savage.\""
+    },
+    {
+      "quote": 77,
+      "line": 3926,
+      "speaker": null,
+      "opening": "\"Nigga, he should taste the peppers.\""
+    },
+    {
+      "quote": 78,
+      "line": 3936,
+      "speaker": null,
+      "opening": "\"Return to your vessel,\""
+    },
+    {
+      "quote": 79,
+      "line": 3936,
+      "speaker": null,
+      "opening": "\"The cargo must be secured.\""
+    },
+    {
+      "quote": 80,
+      "line": 3940,
+      "speaker": null,
+      "opening": "\"My men are secure.\""
+    },
+    {
+      "quote": 81,
+      "line": 3942,
+      "speaker": null,
+      "opening": "\"I did not ask about your men.\""
+    },
+    {
+      "quote": 82,
+      "line": 3948,
+      "speaker": null,
+      "opening": "\"May I have another plate?\""
+    },
+    {
+      "quote": 83,
+      "line": 3956,
+      "speaker": null,
+      "opening": "\"Then you asked the wrong captain.\""
+    },
+    {
+      "quote": 84,
+      "line": 3966,
+      "speaker": null,
+      "opening": "\"The Aurelia is yours,\""
+    },
+    {
+      "quote": 85,
+      "line": 3966,
+      "speaker": null,
+      "opening": "\"Her crew chooses to sail with you.\""
+    },
+    {
+      "quote": 86,
+      "line": 3968,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 87,
+      "line": 3968,
+      "speaker": null,
+      "opening": "\"you bought a navy with lunch.\""
+    },
+    {
+      "quote": 88,
+      "line": 3970,
+      "speaker": null,
+      "opening": "\"One ship.\""
+    },
+    {
+      "quote": 89,
+      "line": 3972,
+      "speaker": null,
+      "opening": "\"You got leftovers.\""
+    },
+    {
+      "quote": 90,
+      "line": 3976,
+      "speaker": null,
+      "opening": "\"Give it to him,\""
+    },
+    {
+      "quote": 91,
+      "line": 3978,
+      "speaker": null,
+      "opening": "\"Chef, the formal tasting—\""
+    },
+    {
+      "quote": 92,
+      "line": 3980,
+      "speaker": null,
+      "opening": "\"Look at the tables. There is your tasting.\""
+    },
+    {
+      "quote": 93,
+      "line": 3988,
+      "speaker": null,
+      "opening": "\"Captain. Champion. Chef.\""
+    },
+    {
+      "quote": 94,
+      "line": 3990,
+      "speaker": null,
+      "opening": "\"Husband,\""
+    },
+    {
+      "quote": 95,
+      "line": 3992,
+      "speaker": null,
+      "opening": "\"My favorite one.\""
+    }
+  ]
+}

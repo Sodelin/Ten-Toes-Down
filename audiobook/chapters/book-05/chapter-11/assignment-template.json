@@ -1,0 +1,493 @@
+{
+  "chapter_id": "b05-c11",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 81,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 5241,
+      "speaker": null,
+      "opening": "\"Smaller letters?\""
+    },
+    {
+      "quote": 2,
+      "line": 5245,
+      "speaker": null,
+      "opening": "\"You singing?\""
+    },
+    {
+      "quote": 3,
+      "line": 5247,
+      "speaker": null,
+      "opening": "\"Nigga could.\""
+    },
+    {
+      "quote": 4,
+      "line": 5249,
+      "speaker": null,
+      "opening": "\"Then you can audition next time. Tonight you"
+    },
+    {
+      "quote": 5,
+      "line": 5263,
+      "speaker": null,
+      "opening": "\"What's under there?\""
+    },
+    {
+      "quote": 6,
+      "line": 5267,
+      "speaker": null,
+      "opening": "\"Your wife.\""
+    },
+    {
+      "quote": 7,
+      "line": 5277,
+      "speaker": null,
+      "opening": "\"Nigga, you got her.\""
+    },
+    {
+      "quote": 8,
+      "line": 5281,
+      "speaker": null,
+      "opening": "\"She sat for twenty minutes. You spent nineteen"
+    },
+    {
+      "quote": 9,
+      "line": 5285,
+      "speaker": null,
+      "opening": "\"You kept the scar.\""
+    },
+    {
+      "quote": 10,
+      "line": 5287,
+      "speaker": null,
+      "opening": "\"It's yours.\""
+    },
+    {
+      "quote": 11,
+      "line": 5291,
+      "speaker": null,
+      "opening": "\"An extraordinary piece. I could place it in"
+    },
+    {
+      "quote": 12,
+      "line": 5295,
+      "speaker": null,
+      "opening": "\"It belongs here.\""
+    },
+    {
+      "quote": 13,
+      "line": 5299,
+      "speaker": null,
+      "opening": "\"I paid for the—\""
+    },
+    {
+      "quote": 14,
+      "line": 5301,
+      "speaker": null,
+      "opening": "\"Stone,\""
+    },
+    {
+      "quote": 15,
+      "line": 5301,
+      "speaker": null,
+      "opening": "\"You paid for the stone.\""
+    },
+    {
+      "quote": 16,
+      "line": 5305,
+      "speaker": null,
+      "opening": "\"Nigga, how much rock you want reimbursed?\""
+    },
+    {
+      "quote": 17,
+      "line": 5311,
+      "speaker": null,
+      "opening": "\"A gift to the house. Put your name"
+    },
+    {
+      "quote": 18,
+      "line": 5315,
+      "speaker": null,
+      "opening": "\"Your name first,\""
+    },
+    {
+      "quote": 19,
+      "line": 5319,
+      "speaker": null,
+      "opening": "\"There might be hope for you.\""
+    },
+    {
+      "quote": 20,
+      "line": 5323,
+      "speaker": null,
+      "opening": "\"Everybody learning tonight.\""
+    },
+    {
+      "quote": 21,
+      "line": 5327,
+      "speaker": null,
+      "opening": "\"Nigga class filling up.\""
+    },
+    {
+      "quote": 22,
+      "line": 5335,
+      "speaker": null,
+      "opening": "\"I hear the harbor went well.\""
+    },
+    {
+      "quote": 23,
+      "line": 5337,
+      "speaker": null,
+      "opening": "\"Nigga, the harbor still there. That's a strong"
+    },
+    {
+      "quote": 24,
+      "line": 5341,
+      "speaker": null,
+      "opening": "\"Laurent told me you turned the ferry.\""
+    },
+    {
+      "quote": 25,
+      "line": 5343,
+      "speaker": null,
+      "opening": "\"Laurent needs to stop remembering things before people"
+    },
+    {
+      "quote": 26,
+      "line": 5347,
+      "speaker": null,
+      "opening": "\"Where do you need me?\""
+    },
+    {
+      "quote": 27,
+      "line": 5351,
+      "speaker": null,
+      "opening": "\"Smile at the rich people. Let them know"
+    },
+    {
+      "quote": 28,
+      "line": 5353,
+      "speaker": null,
+      "opening": "\"I can do that.\""
+    },
+    {
+      "quote": 29,
+      "line": 5361,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 30,
+      "line": 5363,
+      "speaker": null,
+      "opening": "\"I know. I'm going to be good.\""
+    },
+    {
+      "quote": 31,
+      "line": 5365,
+      "speaker": null,
+      "opening": "\"Nigga, good ain't big enough for you.\""
+    },
+    {
+      "quote": 32,
+      "line": 5369,
+      "speaker": null,
+      "opening": "\"You keep saying things like that before I"
+    },
+    {
+      "quote": 33,
+      "line": 5371,
+      "speaker": null,
+      "opening": "\"Then go onstage and make me look honest.\""
+    },
+    {
+      "quote": 34,
+      "line": 5377,
+      "speaker": null,
+      "opening": "\"Keep the car out of the theater.\""
+    },
+    {
+      "quote": 35,
+      "line": 5379,
+      "speaker": null,
+      "opening": "\"Why you starting the night with limits?\""
+    },
+    {
+      "quote": 36,
+      "line": 5381,
+      "speaker": null,
+      "opening": "\"Because I know my husband.\""
+    },
+    {
+      "quote": 37,
+      "line": 5383,
+      "speaker": null,
+      "opening": "\"Nigga knows his wife too. She gonna make"
+    },
+    {
+      "quote": 38,
+      "line": 5387,
+      "speaker": null,
+      "opening": "\"Go sit down, Captain. Let me work.\""
+    },
+    {
+      "quote": 39,
+      "line": 5399,
+      "speaker": null,
+      "opening": "\"Nigga, you're gripping the chair.\""
+    },
+    {
+      "quote": 40,
+      "line": 5401,
+      "speaker": null,
+      "opening": "\"Chair should feel honored.\""
+    },
+    {
+      "quote": 41,
+      "line": 5415,
+      "speaker": null,
+      "opening": "\"This one is for a man who still"
+    },
+    {
+      "quote": 42,
+      "line": 5421,
+      "speaker": null,
+      "opening": "\"Nigga, she talking about me.\""
+    },
+    {
+      "quote": 43,
+      "line": 5423,
+      "speaker": null,
+      "opening": "\"We got there,\""
+    },
+    {
+      "quote": 44,
+      "line": 5423,
+      "speaker": null,
+      "opening": "\"Everybody got there.\""
+    },
+    {
+      "quote": 45,
+      "line": 5447,
+      "speaker": null,
+      "opening": "\"The company rooms.\""
+    },
+    {
+      "quote": 46,
+      "line": 5465,
+      "speaker": null,
+      "opening": "\"You let her keep that?\""
+    },
+    {
+      "quote": 47,
+      "line": 5469,
+      "speaker": null,
+      "opening": "\"Nigga, you already lost.\""
+    },
+    {
+      "quote": 48,
+      "line": 5485,
+      "speaker": null,
+      "opening": "\"They came for us.\""
+    },
+    {
+      "quote": 49,
+      "line": 5487,
+      "speaker": null,
+      "opening": "\"Nigga, they came to get disappointed. You stay"
+    },
+    {
+      "quote": 50,
+      "line": 5491,
+      "speaker": null,
+      "opening": "\"Wrong exit, baby.\""
+    },
+    {
+      "quote": 51,
+      "line": 5497,
+      "speaker": null,
+      "opening": "\"He argued.\""
+    },
+    {
+      "quote": 52,
+      "line": 5499,
+      "speaker": null,
+      "opening": "\"Nigga, you have a persuasive face,\""
+    },
+    {
+      "quote": 53,
+      "line": 5503,
+      "speaker": null,
+      "opening": "\"Three more in the laundry lift. I saw"
+    },
+    {
+      "quote": 54,
+      "line": 5517,
+      "speaker": null,
+      "opening": "\"Captain Aiden. Finally.\""
+    },
+    {
+      "quote": 55,
+      "line": 5519,
+      "speaker": null,
+      "opening": "\"Nigga, everybody says finally right before their night"
+    },
+    {
+      "quote": 56,
+      "line": 5523,
+      "speaker": null,
+      "opening": "\"Colonel Drake will be pleased.\""
+    },
+    {
+      "quote": 57,
+      "line": 5525,
+      "speaker": null,
+      "opening": "\"Then call the nigga after. Let him enjoy"
+    },
+    {
+      "quote": 58,
+      "line": 5559,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 59,
+      "line": 5561,
+      "speaker": null,
+      "opening": "\"Baby, keep singing.\""
+    },
+    {
+      "quote": 60,
+      "line": 5621,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 61,
+      "line": 5621,
+      "speaker": null,
+      "opening": "\"you told her you was keeping the car"
+    },
+    {
+      "quote": 62,
+      "line": 5623,
+      "speaker": null,
+      "opening": "\"I did. This street.\""
+    },
+    {
+      "quote": 63,
+      "line": 5627,
+      "speaker": null,
+      "opening": "\"Technically.\""
+    },
+    {
+      "quote": 64,
+      "line": 5629,
+      "speaker": null,
+      "opening": "\"A nigga keeps his promises.\""
+    },
+    {
+      "quote": 65,
+      "line": 5633,
+      "speaker": null,
+      "opening": "\"And whose performance were you hoping to interrupt?\""
+    },
+    {
+      "quote": 66,
+      "line": 5637,
+      "speaker": null,
+      "opening": "\"Good answer,\""
+    },
+    {
+      "quote": 67,
+      "line": 5637,
+      "speaker": null,
+      "opening": "\"Keep it until we reach the station.\""
+    },
+    {
+      "quote": 68,
+      "line": 5655,
+      "speaker": null,
+      "opening": "\"Beautiful show.\""
+    },
+    {
+      "quote": 69,
+      "line": 5657,
+      "speaker": null,
+      "opening": "\"Nigga, I caught most of it.\""
+    },
+    {
+      "quote": 70,
+      "line": 5659,
+      "speaker": null,
+      "opening": "\"You were in some of it.\""
+    },
+    {
+      "quote": 71,
+      "line": 5661,
+      "speaker": null,
+      "opening": "\"Versatile.\""
+    },
+    {
+      "quote": 72,
+      "line": 5665,
+      "speaker": null,
+      "opening": "\"They all safe upstairs.\""
+    },
+    {
+      "quote": 73,
+      "line": 5675,
+      "speaker": null,
+      "opening": "\"My husband,\""
+    },
+    {
+      "quote": 74,
+      "line": 5675,
+      "speaker": null,
+      "opening": "\"He promised to sit still.\""
+    },
+    {
+      "quote": 75,
+      "line": 5681,
+      "speaker": null,
+      "opening": "\"Nigga, I sat extremely still when I finally"
+    },
+    {
+      "quote": 76,
+      "line": 5695,
+      "speaker": null,
+      "opening": "\"Look at you,\""
+    },
+    {
+      "quote": 77,
+      "line": 5695,
+      "speaker": null,
+      "opening": "\"Useful marble.\""
+    },
+    {
+      "quote": 78,
+      "line": 5701,
+      "speaker": null,
+      "opening": "\"You heard the last song?\""
+    },
+    {
+      "quote": 79,
+      "line": 5703,
+      "speaker": null,
+      "opening": "\"Every word.\""
+    },
+    {
+      "quote": 80,
+      "line": 5705,
+      "speaker": null,
+      "opening": "\"You were outside for part of it.\""
+    },
+    {
+      "quote": 81,
+      "line": 5707,
+      "speaker": null,
+      "opening": "\"Baby, a nigga can hear home from the"
+    }
+  ]
+}

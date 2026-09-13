@@ -1,0 +1,583 @@
+{
+  "chapter_id": "b06-c09",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 96,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3921,
+      "speaker": null,
+      "opening": "\"Brother,\""
+    },
+    {
+      "quote": 2,
+      "line": 3921,
+      "speaker": null,
+      "opening": "\"You ready?\""
+    },
+    {
+      "quote": 3,
+      "line": 3923,
+      "speaker": null,
+      "opening": "\"Nigga, look at me.\""
+    },
+    {
+      "quote": 4,
+      "line": 3925,
+      "speaker": null,
+      "opening": "\"I am. You standing like the sun owes"
+    },
+    {
+      "quote": 5,
+      "line": 3927,
+      "speaker": null,
+      "opening": "\"The nigga late.\""
+    },
+    {
+      "quote": 6,
+      "line": 3929,
+      "speaker": null,
+      "opening": "\"Dawn has had several warnings.\""
+    },
+    {
+      "quote": 7,
+      "line": 3931,
+      "speaker": null,
+      "opening": "\"Confiscate the afternoon.\""
+    },
+    {
+      "quote": 8,
+      "line": 3937,
+      "speaker": null,
+      "opening": "\"They promoting you?\""
+    },
+    {
+      "quote": 9,
+      "line": 3939,
+      "speaker": null,
+      "opening": "\"They supervising you.\""
+    },
+    {
+      "quote": 10,
+      "line": 3941,
+      "speaker": null,
+      "opening": "\"Nigga, I married an internal investigation.\""
+    },
+    {
+      "quote": 11,
+      "line": 3945,
+      "speaker": null,
+      "opening": "\"And you keep volunteering evidence.\""
+    },
+    {
+      "quote": 12,
+      "line": 3949,
+      "speaker": null,
+      "opening": "\"Every fucking sunrise. These niggas gotta discover marriage"
+    },
+    {
+      "quote": 13,
+      "line": 3951,
+      "speaker": null,
+      "opening": "\"You're next.\""
+    },
+    {
+      "quote": 14,
+      "line": 3953,
+      "speaker": null,
+      "opening": "\"I'm prepared.\""
+    },
+    {
+      "quote": 15,
+      "line": 3955,
+      "speaker": null,
+      "opening": "\"You cried at a photograph of flowers.\""
+    },
+    {
+      "quote": 16,
+      "line": 3957,
+      "speaker": null,
+      "opening": "\"Nigga, the blue was exactly right.\""
+    },
+    {
+      "quote": 17,
+      "line": 3963,
+      "speaker": null,
+      "opening": "\"No hanging off trains today.\""
+    },
+    {
+      "quote": 18,
+      "line": 3965,
+      "speaker": null,
+      "opening": "\"Aircraft?\""
+    },
+    {
+      "quote": 19,
+      "line": 3967,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 20,
+      "line": 3969,
+      "speaker": null,
+      "opening": "\"Nigga, you issued a specific restriction. I'm being"
+    },
+    {
+      "quote": 21,
+      "line": 3973,
+      "speaker": null,
+      "opening": "\"Don't let him be funny at the expense"
+    },
+    {
+      "quote": 22,
+      "line": 3975,
+      "speaker": null,
+      "opening": "\"Ordinary greatness only,\""
+    },
+    {
+      "quote": 23,
+      "line": 3977,
+      "speaker": null,
+      "opening": "\"There is no ordinary setting.\""
+    },
+    {
+      "quote": 24,
+      "line": 3979,
+      "speaker": null,
+      "opening": "\"Doctor, my nigga, I'm right here.\""
+    },
+    {
+      "quote": 25,
+      "line": 3981,
+      "speaker": null,
+      "opening": "\"I know. That's where I intend to keep"
+    },
+    {
+      "quote": 26,
+      "line": 3987,
+      "speaker": null,
+      "opening": "\"It stays here until we know the road,\""
+    },
+    {
+      "quote": 27,
+      "line": 3991,
+      "speaker": null,
+      "opening": "\"I am relieved you possess at least one"
+    },
+    {
+      "quote": 28,
+      "line": 3993,
+      "speaker": null,
+      "opening": "\"Nigga, I got several. They take shifts.\""
+    },
+    {
+      "quote": 29,
+      "line": 3997,
+      "speaker": null,
+      "opening": "\"These come with me. Zero has commanders who"
+    },
+    {
+      "quote": 30,
+      "line": 3999,
+      "speaker": null,
+      "opening": "\"Paper won't stop a bullet,\""
+    },
+    {
+      "quote": 31,
+      "line": 4001,
+      "speaker": null,
+      "opening": "\"No,\""
+    },
+    {
+      "quote": 32,
+      "line": 4001,
+      "speaker": null,
+      "opening": "\"But sometimes the man holding the gun stops"
+    },
+    {
+      "quote": 33,
+      "line": 4019,
+      "speaker": null,
+      "opening": "\"You sure about the road?\""
+    },
+    {
+      "quote": 34,
+      "line": 4021,
+      "speaker": null,
+      "opening": "\"I led the emperor through it six times.\""
+    },
+    {
+      "quote": 35,
+      "line": 4023,
+      "speaker": null,
+      "opening": "\"Nigga, that's not the part I'm asking.\""
+    },
+    {
+      "quote": 36,
+      "line": 4027,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 37,
+      "line": 4037,
+      "speaker": null,
+      "opening": "\"This nigga got a mountain face.\""
+    },
+    {
+      "quote": 38,
+      "line": 4039,
+      "speaker": null,
+      "opening": "\"Bad likeness,\""
+    },
+    {
+      "quote": 39,
+      "line": 4041,
+      "speaker": null,
+      "opening": "\"How?\""
+    },
+    {
+      "quote": 40,
+      "line": 4043,
+      "speaker": null,
+      "opening": "\"Rock got more warmth.\""
+    },
+    {
+      "quote": 41,
+      "line": 4057,
+      "speaker": null,
+      "opening": "\"Captain Noor Vale. Thirty-eight. No relation to Marcellus."
+    },
+    {
+      "quote": 42,
+      "line": 4059,
+      "speaker": null,
+      "opening": "\"She know you?\""
+    },
+    {
+      "quote": 43,
+      "line": 4061,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 44,
+      "line": 4063,
+      "speaker": null,
+      "opening": "\"She like you?\""
+    },
+    {
+      "quote": 45,
+      "line": 4065,
+      "speaker": null,
+      "opening": "\"Less lately.\""
+    },
+    {
+      "quote": 46,
+      "line": 4067,
+      "speaker": null,
+      "opening": "\"Nigga, join the club.\""
+    },
+    {
+      "quote": 47,
+      "line": 4073,
+      "speaker": null,
+      "opening": "\"Captain Aiden.\""
+    },
+    {
+      "quote": 48,
+      "line": 4075,
+      "speaker": null,
+      "opening": "\"Captain Noor.\""
+    },
+    {
+      "quote": 49,
+      "line": 4079,
+      "speaker": null,
+      "opening": "\"Ruin.\""
+    },
+    {
+      "quote": 50,
+      "line": 4083,
+      "speaker": null,
+      "opening": "\"Noor.\""
+    },
+    {
+      "quote": 51,
+      "line": 4085,
+      "speaker": null,
+      "opening": "\"You alive?\""
+    },
+    {
+      "quote": 52,
+      "line": 4087,
+      "speaker": null,
+      "opening": "\"Unexpectedly.\""
+    },
+    {
+      "quote": 53,
+      "line": 4091,
+      "speaker": null,
+      "opening": "\"Your reputation is growing tiresome. Every man I"
+    },
+    {
+      "quote": 54,
+      "line": 4093,
+      "speaker": null,
+      "opening": "\"Nigga, question better witnesses. Some of them seen"
+    },
+    {
+      "quote": 55,
+      "line": 4099,
+      "speaker": null,
+      "opening": "\"The gate remains closed.\""
+    },
+    {
+      "quote": 56,
+      "line": 4103,
+      "speaker": null,
+      "opening": "\"Then speak with me while it is closed.\""
+    },
+    {
+      "quote": 57,
+      "line": 4107,
+      "speaker": null,
+      "opening": "\"Your Majesty.\""
+    },
+    {
+      "quote": 58,
+      "line": 4109,
+      "speaker": null,
+      "opening": "\"My father knew your mother.\""
+    },
+    {
+      "quote": 59,
+      "line": 4111,
+      "speaker": null,
+      "opening": "\"My mother grew old waiting for his promises.\""
+    },
+    {
+      "quote": 60,
+      "line": 4113,
+      "speaker": null,
+      "opening": "\"Then you should read what his successor has"
+    },
+    {
+      "quote": 61,
+      "line": 4129,
+      "speaker": null,
+      "opening": "\"My mother's house,\""
+    },
+    {
+      "quote": 62,
+      "line": 4133,
+      "speaker": null,
+      "opening": "\"Signed over three months ago. The pension account"
+    },
+    {
+      "quote": 63,
+      "line": 4135,
+      "speaker": null,
+      "opening": "\"He told me—\""
+    },
+    {
+      "quote": 64,
+      "line": 4137,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 65,
+      "line": 4143,
+      "speaker": null,
+      "opening": "\"I cannot open the gate on one document.\""
+    },
+    {
+      "quote": 66,
+      "line": 4145,
+      "speaker": null,
+      "opening": "\"Don't,\""
+    },
+    {
+      "quote": 67,
+      "line": 4149,
+      "speaker": null,
+      "opening": "\"Call her.\""
+    },
+    {
+      "quote": 68,
+      "line": 4151,
+      "speaker": null,
+      "opening": "\"My mother?\""
+    },
+    {
+      "quote": 69,
+      "line": 4153,
+      "speaker": null,
+      "opening": "\"Nigga, she got a phone? Ask what happened"
+    },
+    {
+      "quote": 70,
+      "line": 4165,
+      "speaker": null,
+      "opening": "\"Those are imperial guns!\""
+    },
+    {
+      "quote": 71,
+      "line": 4167,
+      "speaker": null,
+      "opening": "\"Nigga, your emperor impatient!\""
+    },
+    {
+      "quote": 72,
+      "line": 4179,
+      "speaker": null,
+      "opening": "\"Cover the convoy!\""
+    },
+    {
+      "quote": 73,
+      "line": 4189,
+      "speaker": null,
+      "opening": "\"I was supposed to stop you.\""
+    },
+    {
+      "quote": 74,
+      "line": 4191,
+      "speaker": null,
+      "opening": "\"Nigga, you did. We having a whole conversation.\""
+    },
+    {
+      "quote": 75,
+      "line": 4201,
+      "speaker": null,
+      "opening": "\"Everybody forward!\""
+    },
+    {
+      "quote": 76,
+      "line": 4209,
+      "speaker": null,
+      "opening": "\"Brother!\""
+    },
+    {
+      "quote": 77,
+      "line": 4223,
+      "speaker": null,
+      "opening": "\"No lightning.\""
+    },
+    {
+      "quote": 78,
+      "line": 4225,
+      "speaker": null,
+      "opening": "\"No lightning.\""
+    },
+    {
+      "quote": 79,
+      "line": 4227,
+      "speaker": null,
+      "opening": "\"Promise.\""
+    },
+    {
+      "quote": 80,
+      "line": 4229,
+      "speaker": null,
+      "opening": "\"Baby, this one runs on gasoline and disrespect.\""
+    },
+    {
+      "quote": 81,
+      "line": 4247,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 82,
+      "line": 4249,
+      "speaker": null,
+      "opening": "\"Correct,\""
+    },
+    {
+      "quote": 83,
+      "line": 4249,
+      "speaker": null,
+      "opening": "\"Open the gate.\""
+    },
+    {
+      "quote": 84,
+      "line": 4259,
+      "speaker": null,
+      "opening": "\"You broke that nigga's nose from inside a"
+    },
+    {
+      "quote": 85,
+      "line": 4261,
+      "speaker": null,
+      "opening": "\"I didn't even touch it!\""
+    },
+    {
+      "quote": 86,
+      "line": 4263,
+      "speaker": null,
+      "opening": "\"Your greatness got range!\""
+    },
+    {
+      "quote": 87,
+      "line": 4267,
+      "speaker": null,
+      "opening": "\"I am opening the second gate.\""
+    },
+    {
+      "quote": 88,
+      "line": 4271,
+      "speaker": null,
+      "opening": "\"Appreciate you.\""
+    },
+    {
+      "quote": 89,
+      "line": 4273,
+      "speaker": null,
+      "opening": "\"I have not joined your army.\""
+    },
+    {
+      "quote": 90,
+      "line": 4275,
+      "speaker": null,
+      "opening": "\"Nigga, I didn't ask you to. Just don't"
+    },
+    {
+      "quote": 91,
+      "line": 4279,
+      "speaker": null,
+      "opening": "\"That,\""
+    },
+    {
+      "quote": 92,
+      "line": 4279,
+      "speaker": null,
+      "opening": "\"I can promise.\""
+    },
+    {
+      "quote": 93,
+      "line": 4287,
+      "speaker": null,
+      "opening": "\"You kept the promise,\""
+    },
+    {
+      "quote": 94,
+      "line": 4289,
+      "speaker": null,
+      "opening": "\"No lightning.\""
+    },
+    {
+      "quote": 95,
+      "line": 4291,
+      "speaker": null,
+      "opening": "\"Still a ridiculous amount of flying.\""
+    },
+    {
+      "quote": 96,
+      "line": 4293,
+      "speaker": null,
+      "opening": "\"Nigga, I should've read the small print.\""
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "chapter_id": "b03-c02",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 151,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 453,
+      "speaker": null,
+      "opening": "\"The black ones are the captain's.\""
+    },
+    {
+      "quote": 2,
+      "line": 455,
+      "speaker": null,
+      "opening": "\"Nigga, all of them are the captain's,\""
+    },
+    {
+      "quote": 3,
+      "line": 457,
+      "speaker": null,
+      "opening": "\"Even the white—\""
+    },
+    {
+      "quote": 4,
+      "line": 459,
+      "speaker": null,
+      "opening": "\"Especially the white ones. That's his wife.\""
+    },
+    {
+      "quote": 5,
+      "line": 461,
+      "speaker": null,
+      "opening": "\"And the trunks?\""
+    },
+    {
+      "quote": 6,
+      "line": 463,
+      "speaker": null,
+      "opening": "\"That's the nigga preparing to stay great in"
+    },
+    {
+      "quote": 7,
+      "line": 467,
+      "speaker": null,
+      "opening": "\"That one comes with me.\""
+    },
+    {
+      "quote": 8,
+      "line": 471,
+      "speaker": null,
+      "opening": "\"Nigga, I said with me. My wife asked"
+    },
+    {
+      "quote": 9,
+      "line": 479,
+      "speaker": null,
+      "opening": "“Nigga got a gift shop open,”"
+    },
+    {
+      "quote": 10,
+      "line": 483,
+      "speaker": null,
+      "opening": "“You owe that man a table.”"
+    },
+    {
+      "quote": 11,
+      "line": 485,
+      "speaker": null,
+      "opening": "“I gave him a business.”"
+    },
+    {
+      "quote": 12,
+      "line": 487,
+      "speaker": null,
+      "opening": "“You gave him tire tracks.”"
+    },
+    {
+      "quote": 13,
+      "line": 489,
+      "speaker": null,
+      "opening": "“Limited edition.”"
+    },
+    {
+      "quote": 14,
+      "line": 497,
+      "speaker": null,
+      "opening": "“Why didn't you knock?”"
+    },
+    {
+      "quote": 15,
+      "line": 499,
+      "speaker": null,
+      "opening": "“I did. The door didn't answer.”"
+    },
+    {
+      "quote": 16,
+      "line": 503,
+      "speaker": null,
+      "opening": "“No,”"
+    },
+    {
+      "quote": 17,
+      "line": 503,
+      "speaker": null,
+      "opening": "“He saved your favorite driver and beat your"
+    },
+    {
+      "quote": 18,
+      "line": 507,
+      "speaker": null,
+      "opening": "“What's that?”"
+    },
+    {
+      "quote": 19,
+      "line": 509,
+      "speaker": null,
+      "opening": "“Appearances.”"
+    },
+    {
+      "quote": 20,
+      "line": 511,
+      "speaker": null,
+      "opening": "“I ain't said yes to appearances.”"
+    },
+    {
+      "quote": 21,
+      "line": 513,
+      "speaker": null,
+      "opening": "“That's why they cost extra.”"
+    },
+    {
+      "quote": 22,
+      "line": 515,
+      "speaker": null,
+      "opening": "“You want six hundred thousand to eat dinner"
+    },
+    {
+      "quote": 23,
+      "line": 517,
+      "speaker": null,
+      "opening": "“Does the watch eat?”"
+    },
+    {
+      "quote": 24,
+      "line": 519,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 25,
+      "line": 521,
+      "speaker": null,
+      "opening": "“Make it eight.”"
+    },
+    {
+      "quote": 26,
+      "line": 527,
+      "speaker": null,
+      "opening": "“Gold plate,”"
+    },
+    {
+      "quote": 27,
+      "line": 529,
+      "speaker": null,
+      "opening": "“Nigga.”"
+    },
+    {
+      "quote": 28,
+      "line": 531,
+      "speaker": null,
+      "opening": "“Very thick plate.”"
+    },
+    {
+      "quote": 29,
+      "line": 533,
+      "speaker": null,
+      "opening": "“That ain't the point.”"
+    },
+    {
+      "quote": 30,
+      "line": 535,
+      "speaker": null,
+      "opening": "“No,”"
+    },
+    {
+      "quote": 31,
+      "line": 535,
+      "speaker": null,
+      "opening": "“It rarely is.”"
+    },
+    {
+      "quote": 32,
+      "line": 539,
+      "speaker": null,
+      "opening": "“Beautiful work on the face. Someone talented made"
+    },
+    {
+      "quote": 33,
+      "line": 543,
+      "speaker": null,
+      "opening": "“The musicians say nobody's been paid in three"
+    },
+    {
+      "quote": 34,
+      "line": 547,
+      "speaker": null,
+      "opening": "“They told the dancers tomorrow.”"
+    },
+    {
+      "quote": 35,
+      "line": 549,
+      "speaker": null,
+      "opening": "“They told the drivers' hosts next week. One"
+    },
+    {
+      "quote": 36,
+      "line": 553,
+      "speaker": null,
+      "opening": "“How many?”"
+    },
+    {
+      "quote": 37,
+      "line": 555,
+      "speaker": null,
+      "opening": "“Don't know yet,”"
+    },
+    {
+      "quote": 38,
+      "line": 555,
+      "speaker": null,
+      "opening": "“Enough that they're scared to count in front"
+    },
+    {
+      "quote": 39,
+      "line": 561,
+      "speaker": null,
+      "opening": "“There's a mechanic downstairs who wants to see"
+    },
+    {
+      "quote": 40,
+      "line": 563,
+      "speaker": null,
+      "opening": "“The fish?”"
+    },
+    {
+      "quote": 41,
+      "line": 565,
+      "speaker": null,
+      "opening": "“No. A piece of the green car.”"
+    },
+    {
+      "quote": 42,
+      "line": 573,
+      "speaker": null,
+      "opening": "“Lark,”"
+    },
+    {
+      "quote": 43,
+      "line": 573,
+      "speaker": null,
+      "opening": "“Thirty-two, chief mechanic for the Silver Arrow team"
+    },
+    {
+      "quote": 44,
+      "line": 577,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 45,
+      "line": 579,
+      "speaker": null,
+      "opening": "“I watched.”"
+    },
+    {
+      "quote": 46,
+      "line": 583,
+      "speaker": null,
+      "opening": "“This was lodged below your light. The car"
+    },
+    {
+      "quote": 47,
+      "line": 585,
+      "speaker": null,
+      "opening": "“I noticed the mask.”"
+    },
+    {
+      "quote": 48,
+      "line": 587,
+      "speaker": null,
+      "opening": "“I mean it belongs to the harbor service."
+    },
+    {
+      "quote": 49,
+      "line": 591,
+      "speaker": null,
+      "opening": "“That's some violent luggage.”"
+    },
+    {
+      "quote": 50,
+      "line": 595,
+      "speaker": null,
+      "opening": "“My partner drove one of those cars. Mateo."
+    },
+    {
+      "quote": 51,
+      "line": 597,
+      "speaker": null,
+      "opening": "“Your partner on the team?”"
+    },
+    {
+      "quote": 52,
+      "line": 599,
+      "speaker": null,
+      "opening": "“My partner in my house.”"
+    },
+    {
+      "quote": 53,
+      "line": 603,
+      "speaker": null,
+      "opening": "“He's thirty-four. Laughs with his whole mouth. Puts"
+    },
+    {
+      "quote": 54,
+      "line": 607,
+      "speaker": null,
+      "opening": "“They keep sending people there.”"
+    },
+    {
+      "quote": 55,
+      "line": 609,
+      "speaker": null,
+      "opening": "“You heard it too?”"
+    },
+    {
+      "quote": 56,
+      "line": 611,
+      "speaker": null,
+      "opening": "“I hear things men think women ain't listening"
+    },
+    {
+      "quote": 57,
+      "line": 615,
+      "speaker": null,
+      "opening": "“What do you need?”"
+    },
+    {
+      "quote": 58,
+      "line": 617,
+      "speaker": null,
+      "opening": "“To know whether you really stopped for Cassius."
+    },
+    {
+      "quote": 59,
+      "line": 619,
+      "speaker": null,
+      "opening": "“Nigga was hanging off a cliff. That's an"
+    },
+    {
+      "quote": 60,
+      "line": 623,
+      "speaker": null,
+      "opening": "“I need somebody who can get through a"
+    },
+    {
+      "quote": 61,
+      "line": 625,
+      "speaker": null,
+      "opening": "“Show me the door.”"
+    },
+    {
+      "quote": 62,
+      "line": 631,
+      "speaker": null,
+      "opening": "“I've been looking for you,”"
+    },
+    {
+      "quote": 63,
+      "line": 633,
+      "speaker": null,
+      "opening": "“Everybody has.”"
+    },
+    {
+      "quote": 64,
+      "line": 635,
+      "speaker": null,
+      "opening": "“I found you first.”"
+    },
+    {
+      "quote": 65,
+      "line": 637,
+      "speaker": null,
+      "opening": "“You hungry?”"
+    },
+    {
+      "quote": 66,
+      "line": 639,
+      "speaker": null,
+      "opening": "“Yes.”"
+    },
+    {
+      "quote": 67,
+      "line": 641,
+      "speaker": null,
+      "opening": "“Good. My father cooks. He lives on the"
+    },
+    {
+      "quote": 68,
+      "line": 645,
+      "speaker": null,
+      "opening": "“Nigga, that sounds like a race wearing a"
+    },
+    {
+      "quote": 69,
+      "line": 647,
+      "speaker": null,
+      "opening": "“It can be both.”"
+    },
+    {
+      "quote": 70,
+      "line": 651,
+      "speaker": null,
+      "opening": "“Where did you get that?”"
+    },
+    {
+      "quote": 71,
+      "line": 653,
+      "speaker": null,
+      "opening": "“Out of my fish tank.”"
+    },
+    {
+      "quote": 72,
+      "line": 655,
+      "speaker": null,
+      "opening": "“Aiden,”"
+    },
+    {
+      "quote": 73,
+      "line": 657,
+      "speaker": null,
+      "opening": "“Out of the car.”"
+    },
+    {
+      "quote": 74,
+      "line": 661,
+      "speaker": null,
+      "opening": "“Bring Lark,”"
+    },
+    {
+      "quote": 75,
+      "line": 661,
+      "speaker": null,
+      "opening": "“And don't let a hotel car follow you.”"
+    },
+    {
+      "quote": 76,
+      "line": 663,
+      "speaker": null,
+      "opening": "“That one belongs with us now.”"
+    },
+    {
+      "quote": 77,
+      "line": 667,
+      "speaker": null,
+      "opening": "“There's a restaurant at the top,”"
+    },
+    {
+      "quote": 78,
+      "line": 667,
+      "speaker": null,
+      "opening": "“Nine turns. Two narrow bridges. No traffic this"
+    },
+    {
+      "quote": 79,
+      "line": 669,
+      "speaker": null,
+      "opening": "“Your father live at the restaurant?”"
+    },
+    {
+      "quote": 80,
+      "line": 671,
+      "speaker": null,
+      "opening": "“No. We eat there first, so he's got"
+    },
+    {
+      "quote": 81,
+      "line": 677,
+      "speaker": null,
+      "opening": "“The exhibition was one thing. You went through"
+    },
+    {
+      "quote": 82,
+      "line": 679,
+      "speaker": null,
+      "opening": "“It was in the way.”"
+    },
+    {
+      "quote": 83,
+      "line": 681,
+      "speaker": null,
+      "opening": "“You're fast. But this road is mine.”"
+    },
+    {
+      "quote": 84,
+      "line": 685,
+      "speaker": null,
+      "opening": "“What we racing for?”"
+    },
+    {
+      "quote": 85,
+      "line": 687,
+      "speaker": null,
+      "opening": "“An honest answer.”"
+    },
+    {
+      "quote": 86,
+      "line": 689,
+      "speaker": null,
+      "opening": "“To what?”"
+    },
+    {
+      "quote": 87,
+      "line": 691,
+      "speaker": null,
+      "opening": "“Why you're here.”"
+    },
+    {
+      "quote": 88,
+      "line": 693,
+      "speaker": null,
+      "opening": "“Shawna wanted the ocean.”"
+    },
+    {
+      "quote": 89,
+      "line": 697,
+      "speaker": null,
+      "opening": "“Nigga, that is the honest answer.”"
+    },
+    {
+      "quote": 90,
+      "line": 701,
+      "speaker": null,
+      "opening": "“I did.”"
+    },
+    {
+      "quote": 91,
+      "line": 705,
+      "speaker": null,
+      "opening": "“Then race for dinner,”"
+    },
+    {
+      "quote": 92,
+      "line": 709,
+      "speaker": null,
+      "opening": "“Baby?”"
+    },
+    {
+      "quote": 93,
+      "line": 713,
+      "speaker": null,
+      "opening": "“Win me something with potatoes.”"
+    },
+    {
+      "quote": 94,
+      "line": 733,
+      "speaker": null,
+      "opening": "“Papa,”"
+    },
+    {
+      "quote": 95,
+      "line": 739,
+      "speaker": null,
+      "opening": "“Together.”"
+    },
+    {
+      "quote": 96,
+      "line": 741,
+      "speaker": null,
+      "opening": "“That's my father.”"
+    },
+    {
+      "quote": 97,
+      "line": 743,
+      "speaker": null,
+      "opening": "“I heard you.”"
+    },
+    {
+      "quote": 98,
+      "line": 751,
+      "speaker": null,
+      "opening": "“Move back,”"
+    },
+    {
+      "quote": 99,
+      "line": 753,
+      "speaker": null,
+      "opening": "“He's caught.”"
+    },
+    {
+      "quote": 100,
+      "line": 755,
+      "speaker": null,
+      "opening": "“I see him.”"
+    },
+    {
+      "quote": 101,
+      "line": 763,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 102,
+      "line": 763,
+      "speaker": null,
+      "opening": "“don't make this complicated.”"
+    },
+    {
+      "quote": 103,
+      "line": 771,
+      "speaker": null,
+      "opening": "“Look at me. You're out. Stay with me.”"
+    },
+    {
+      "quote": 104,
+      "line": 777,
+      "speaker": null,
+      "opening": "“Nigga, we left you alone for six minutes.”"
+    },
+    {
+      "quote": 105,
+      "line": 779,
+      "speaker": null,
+      "opening": "“Dinner got delayed.”"
+    },
+    {
+      "quote": 106,
+      "line": 785,
+      "speaker": null,
+      "opening": "“Why were you up here?”"
+    },
+    {
+      "quote": 107,
+      "line": 787,
+      "speaker": null,
+      "opening": "“The restaurant called. They said you wanted—”"
+    },
+    {
+      "quote": 108,
+      "line": 793,
+      "speaker": null,
+      "opening": "“I didn't call the restaurant.”"
+    },
+    {
+      "quote": 109,
+      "line": 799,
+      "speaker": null,
+      "opening": "“You are Aiden.”"
+    },
+    {
+      "quote": 110,
+      "line": 801,
+      "speaker": null,
+      "opening": "“Yes, sir.”"
+    },
+    {
+      "quote": 111,
+      "line": 803,
+      "speaker": null,
+      "opening": "“My daughter said you were very annoying.”"
+    },
+    {
+      "quote": 112,
+      "line": 805,
+      "speaker": null,
+      "opening": "“Papa.”"
+    },
+    {
+      "quote": 113,
+      "line": 809,
+      "speaker": null,
+      "opening": "“She was smiling when she said it.”"
+    },
+    {
+      "quote": 114,
+      "line": 813,
+      "speaker": null,
+      "opening": "“Esteban Inferno,”"
+    },
+    {
+      "quote": 115,
+      "line": 813,
+      "speaker": null,
+      "opening": "“You saved my life, and my daughter's pride"
+    },
+    {
+      "quote": 116,
+      "line": 815,
+      "speaker": null,
+      "opening": "“Nigga, her pride looked healthy in them turns.”"
+    },
+    {
+      "quote": 117,
+      "line": 825,
+      "speaker": null,
+      "opening": "“They didn't want you at his house,”"
+    },
+    {
+      "quote": 118,
+      "line": 833,
+      "speaker": null,
+      "opening": "\"Nigga, we was racing for potatoes.\""
+    },
+    {
+      "quote": 119,
+      "line": 835,
+      "speaker": null,
+      "opening": "\"We still eating potatoes,\""
+    },
+    {
+      "quote": 120,
+      "line": 837,
+      "speaker": null,
+      "opening": "\"Nigga, the potatoes got witnesses now.\""
+    },
+    {
+      "quote": 121,
+      "line": 839,
+      "speaker": null,
+      "opening": "\"Does he always talk like this?\""
+    },
+    {
+      "quote": 122,
+      "line": 841,
+      "speaker": null,
+      "opening": "\"Which nigga?\""
+    },
+    {
+      "quote": 123,
+      "line": 845,
+      "speaker": null,
+      "opening": "\"That nigga makes it everybody's evening,\""
+    },
+    {
+      "quote": 124,
+      "line": 847,
+      "speaker": null,
+      "opening": "\"You came,\""
+    },
+    {
+      "quote": 125,
+      "line": 849,
+      "speaker": null,
+      "opening": "\"Nigga, you had the address.\""
+    },
+    {
+      "quote": 126,
+      "line": 851,
+      "speaker": null,
+      "opening": "\"Come on. Let the niggas argue where the"
+    },
+    {
+      "quote": 127,
+      "line": 857,
+      "speaker": null,
+      "opening": "“Help him do it,”"
+    },
+    {
+      "quote": 128,
+      "line": 863,
+      "speaker": null,
+      "opening": "“Nigga, you drive that yourself?”"
+    },
+    {
+      "quote": 129,
+      "line": 865,
+      "speaker": null,
+      "opening": "“With one good arm I'm still quicker than"
+    },
+    {
+      "quote": 130,
+      "line": 867,
+      "speaker": null,
+      "opening": "“Most people ain't me.”"
+    },
+    {
+      "quote": 131,
+      "line": 869,
+      "speaker": null,
+      "opening": "“No,”"
+    },
+    {
+      "quote": 132,
+      "line": 869,
+      "speaker": null,
+      "opening": "“They aren't.”"
+    },
+    {
+      "quote": 133,
+      "line": 873,
+      "speaker": null,
+      "opening": "“I watched the harbor footage,”"
+    },
+    {
+      "quote": 134,
+      "line": 873,
+      "speaker": null,
+      "opening": "“You jumped a Lamborghini across two yachts, pulled"
+    },
+    {
+      "quote": 135,
+      "line": 875,
+      "speaker": null,
+      "opening": "“Three things.”"
+    },
+    {
+      "quote": 136,
+      "line": 877,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 137,
+      "line": 879,
+      "speaker": null,
+      "opening": "“You forgot the fish.”"
+    },
+    {
+      "quote": 138,
+      "line": 885,
+      "speaker": null,
+      "opening": "“You won the potatoes.”"
+    },
+    {
+      "quote": 139,
+      "line": 887,
+      "speaker": null,
+      "opening": "“We didn't finish.”"
+    },
+    {
+      "quote": 140,
+      "line": 889,
+      "speaker": null,
+      "opening": "“My wife eating them, ain't she?”"
+    },
+    {
+      "quote": 141,
+      "line": 895,
+      "speaker": null,
+      "opening": "“Seven years ago,”"
+    },
+    {
+      "quote": 142,
+      "line": 895,
+      "speaker": null,
+      "opening": "“a car this color followed my wife to"
+    },
+    {
+      "quote": 143,
+      "line": 899,
+      "speaker": null,
+      "opening": "“Papa.”"
+    },
+    {
+      "quote": 144,
+      "line": 901,
+      "speaker": null,
+      "opening": "“You brought him here.”"
+    },
+    {
+      "quote": 145,
+      "line": 903,
+      "speaker": null,
+      "opening": "“Because he saved Cassius.”"
+    },
+    {
+      "quote": 146,
+      "line": 905,
+      "speaker": null,
+      "opening": "“And now he has saved me.”"
+    },
+    {
+      "quote": 147,
+      "line": 905,
+      "speaker": null,
+      "opening": "“Perhaps I have been waiting for a man"
+    },
+    {
+      "quote": 148,
+      "line": 911,
+      "speaker": null,
+      "opening": "“My wife was Amalia,”"
+    },
+    {
+      "quote": 149,
+      "line": 911,
+      "speaker": null,
+      "opening": "“She loved this race before the duke turned"
+    },
+    {
+      "quote": 150,
+      "line": 915,
+      "speaker": null,
+      "opening": "“What happened?”"
+    },
+    {
+      "quote": 151,
+      "line": 919,
+      "speaker": null,
+      "opening": "“I believed the wrong man,”"
+    }
+  ]
+}

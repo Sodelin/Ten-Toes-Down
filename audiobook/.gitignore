@@ -8,3 +8,9 @@ __pycache__/
 *.cd.wav
 pilot/*.wav
 .venv-qwen/
+production/*.lock
+production/*.part
+production/local-config.json
+chapters/**/audio.mp3
+chapters/**/audio.wav
+chapters/**/audio.cd.wav

@@ -1,0 +1,337 @@
+{
+  "chapter_id": "b04-c22",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 55,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 7376,
+      "speaker": null,
+      "opening": "\"Twelve,\""
+    },
+    {
+      "quote": 2,
+      "line": 7378,
+      "speaker": null,
+      "opening": "\"Nigga, you found multiplication?\""
+    },
+    {
+      "quote": 3,
+      "line": 7380,
+      "speaker": null,
+      "opening": "\"I found ownership. Different joy.\""
+    },
+    {
+      "quote": 4,
+      "line": 7386,
+      "speaker": null,
+      "opening": "\"Brought your cousin home.\""
+    },
+    {
+      "quote": 5,
+      "line": 7390,
+      "speaker": null,
+      "opening": "\"What the fuck is that?\""
+    },
+    {
+      "quote": 6,
+      "line": 7392,
+      "speaker": null,
+      "opening": "\"A veteran. Show respect.\""
+    },
+    {
+      "quote": 7,
+      "line": 7394,
+      "speaker": null,
+      "opening": "\"That's a very specific opinion somebody had about"
+    },
+    {
+      "quote": 8,
+      "line": 7396,
+      "speaker": null,
+      "opening": "\"Saved us a ladder,\""
+    },
+    {
+      "quote": 9,
+      "line": 7400,
+      "speaker": null,
+      "opening": "\"Fine. He can stay.\""
+    },
+    {
+      "quote": 10,
+      "line": 7402,
+      "speaker": null,
+      "opening": "\"He?\""
+    },
+    {
+      "quote": 11,
+      "line": 7404,
+      "speaker": null,
+      "opening": "\"Look at him. Stubborn, useful, needs cleaning. That's"
+    },
+    {
+      "quote": 12,
+      "line": 7406,
+      "speaker": null,
+      "opening": "\"Nigga, I just got here.\""
+    },
+    {
+      "quote": 13,
+      "line": 7412,
+      "speaker": null,
+      "opening": "\"We need to tip that man.\""
+    },
+    {
+      "quote": 14,
+      "line": 7414,
+      "speaker": null,
+      "opening": "\"Already did,\""
+    },
+    {
+      "quote": 15,
+      "line": 7414,
+      "speaker": null,
+      "opening": "\"I'm difficult. I'm not cheap.\""
+    },
+    {
+      "quote": 16,
+      "line": 7434,
+      "speaker": null,
+      "opening": "\"That's your woman,\""
+    },
+    {
+      "quote": 17,
+      "line": 7436,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 18,
+      "line": 7436,
+      "speaker": null,
+      "opening": "\"that's why I'm standing this straight.\""
+    },
+    {
+      "quote": 19,
+      "line": 7452,
+      "speaker": null,
+      "opening": "\"They asked me,\""
+    },
+    {
+      "quote": 20,
+      "line": 7452,
+      "speaker": null,
+      "opening": "\"I said ask her.\""
+    },
+    {
+      "quote": 21,
+      "line": 7458,
+      "speaker": null,
+      "opening": "\"May we?\""
+    },
+    {
+      "quote": 22,
+      "line": 7488,
+      "speaker": null,
+      "opening": "\"I'm going back to Vegas,\""
+    },
+    {
+      "quote": 23,
+      "line": 7490,
+      "speaker": null,
+      "opening": "\"City misses your sunshine.\""
+    },
+    {
+      "quote": 24,
+      "line": 7492,
+      "speaker": null,
+      "opening": "\"Someone has to prevent your officers from requesting"
+    },
+    {
+      "quote": 25,
+      "line": 7494,
+      "speaker": null,
+      "opening": "\"Forward-looking niggas.\""
+    },
+    {
+      "quote": 26,
+      "line": 7498,
+      "speaker": null,
+      "opening": "\"Graves is coming with me.\""
+    },
+    {
+      "quote": 27,
+      "line": 7504,
+      "speaker": null,
+      "opening": "\"Police business?\""
+    },
+    {
+      "quote": 28,
+      "line": 7508,
+      "speaker": null,
+      "opening": "\"Some.\""
+    },
+    {
+      "quote": 29,
+      "line": 7514,
+      "speaker": null,
+      "opening": "\"Look after her,\""
+    },
+    {
+      "quote": 30,
+      "line": 7518,
+      "speaker": null,
+      "opening": "\"And let her look after you,\""
+    },
+    {
+      "quote": 31,
+      "line": 7518,
+      "speaker": null,
+      "opening": "\"Nigga, I know the arrangement.\""
+    },
+    {
+      "quote": 32,
+      "line": 7530,
+      "speaker": null,
+      "opening": "\"Nigga, the police got romantic jurisdiction.\""
+    },
+    {
+      "quote": 33,
+      "line": 7532,
+      "speaker": null,
+      "opening": "\"Let the woman work.\""
+    },
+    {
+      "quote": 34,
+      "line": 7538,
+      "speaker": null,
+      "opening": "\"Celeste's?\""
+    },
+    {
+      "quote": 35,
+      "line": 7542,
+      "speaker": null,
+      "opening": "\"It's beautiful.\""
+    },
+    {
+      "quote": 36,
+      "line": 7544,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 37,
+      "line": 7552,
+      "speaker": null,
+      "opening": "\"This one,\""
+    },
+    {
+      "quote": 38,
+      "line": 7552,
+      "speaker": null,
+      "opening": "\"I made for you.\""
+    },
+    {
+      "quote": 39,
+      "line": 7560,
+      "speaker": null,
+      "opening": "\"No more letters that don't arrive,\""
+    },
+    {
+      "quote": 40,
+      "line": 7562,
+      "speaker": null,
+      "opening": "\"No more leaving without saying where.\""
+    },
+    {
+      "quote": 41,
+      "line": 7572,
+      "speaker": null,
+      "opening": "\"Opening in Vegas after the work is done,\""
+    },
+    {
+      "quote": 42,
+      "line": 7574,
+      "speaker": null,
+      "opening": "\"Aiden brings the cars,\""
+    },
+    {
+      "quote": 43,
+      "line": 7576,
+      "speaker": null,
+      "opening": "\"Nigga, I bring the whole street.\""
+    },
+    {
+      "quote": 44,
+      "line": 7582,
+      "speaker": null,
+      "opening": "\"Yes,\""
+    },
+    {
+      "quote": 45,
+      "line": 7590,
+      "speaker": null,
+      "opening": "\"Vegas,\""
+    },
+    {
+      "quote": 46,
+      "line": 7592,
+      "speaker": null,
+      "opening": "\"For the wedding.\""
+    },
+    {
+      "quote": 47,
+      "line": 7594,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 48,
+      "line": 7596,
+      "speaker": null,
+      "opening": "\"We'll do it big.\""
+    },
+    {
+      "quote": 49,
+      "line": 7600,
+      "speaker": null,
+      "opening": "\"Nigga, I know you. Big ain't the worry."
+    },
+    {
+      "quote": 50,
+      "line": 7604,
+      "speaker": null,
+      "opening": "\"Then everybody comes home.\""
+    },
+    {
+      "quote": 51,
+      "line": 7638,
+      "speaker": null,
+      "opening": "\"Every city wants you,\""
+    },
+    {
+      "quote": 52,
+      "line": 7640,
+      "speaker": null,
+      "opening": "\"They got excellent judgment.\""
+    },
+    {
+      "quote": 53,
+      "line": 7642,
+      "speaker": null,
+      "opening": "\"What do you want?\""
+    },
+    {
+      "quote": 54,
+      "line": 7650,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 55,
+      "line": 7650,
+      "speaker": null,
+      "opening": "\"I'm standing next to it.\""
+    }
+  ]
+}

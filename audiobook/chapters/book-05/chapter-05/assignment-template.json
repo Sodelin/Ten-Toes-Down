@@ -1,0 +1,721 @@
+{
+  "chapter_id": "b05-c05",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 119,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 2461,
+      "speaker": null,
+      "opening": "\"That nigga left us seven cars.\""
+    },
+    {
+      "quote": 2,
+      "line": 2465,
+      "speaker": null,
+      "opening": "\"Which nigga?\""
+    },
+    {
+      "quote": 3,
+      "line": 2467,
+      "speaker": null,
+      "opening": "\"All the niggas. Every house you saved last"
+    },
+    {
+      "quote": 4,
+      "line": 2469,
+      "speaker": null,
+      "opening": "\"See, nigga? That's gratitude with tires.\""
+    },
+    {
+      "quote": 5,
+      "line": 2475,
+      "speaker": null,
+      "opening": "\"That one's mine.\""
+    },
+    {
+      "quote": 6,
+      "line": 2477,
+      "speaker": null,
+      "opening": "\"Your name ain't on it,\""
+    },
+    {
+      "quote": 7,
+      "line": 2479,
+      "speaker": null,
+      "opening": "\"Neither is yours.\""
+    },
+    {
+      "quote": 8,
+      "line": 2481,
+      "speaker": null,
+      "opening": "\"Nigga, her name is Porsche,\""
+    },
+    {
+      "quote": 9,
+      "line": 2481,
+      "speaker": null,
+      "opening": "\"She gonna keep doing this forever.\""
+    },
+    {
+      "quote": 10,
+      "line": 2483,
+      "speaker": null,
+      "opening": "\"Let her. Nigga got enough cars to make"
+    },
+    {
+      "quote": 11,
+      "line": 2487,
+      "speaker": null,
+      "opening": "\"Listen to this nigga granting permission. Baby, I"
+    },
+    {
+      "quote": 12,
+      "line": 2491,
+      "speaker": null,
+      "opening": "\"Then introduce your nigga to the seat controls."
+    },
+    {
+      "quote": 13,
+      "line": 2493,
+      "speaker": null,
+      "opening": "\"You taking half my car?\""
+    },
+    {
+      "quote": 14,
+      "line": 2495,
+      "speaker": null,
+      "opening": "\"Nigga, you taking the whole man's car. We"
+    },
+    {
+      "quote": 15,
+      "line": 2499,
+      "speaker": null,
+      "opening": "“Captain. Please. One photograph.”"
+    },
+    {
+      "quote": 16,
+      "line": 2503,
+      "speaker": null,
+      "opening": "“Nigga, which one you need me improving?”"
+    },
+    {
+      "quote": 17,
+      "line": 2505,
+      "speaker": null,
+      "opening": "“With all of them.”"
+    },
+    {
+      "quote": 18,
+      "line": 2507,
+      "speaker": null,
+      "opening": "“Ambitious.”"
+    },
+    {
+      "quote": 19,
+      "line": 2511,
+      "speaker": null,
+      "opening": "“Relax,”"
+    },
+    {
+      "quote": 20,
+      "line": 2513,
+      "speaker": null,
+      "opening": "“I am relaxed.”"
+    },
+    {
+      "quote": 21,
+      "line": 2515,
+      "speaker": null,
+      "opening": "“Nigga, your shoulders in my pockets. Come down.”"
+    },
+    {
+      "quote": 22,
+      "line": 2521,
+      "speaker": null,
+      "opening": "“Look at you working before breakfast.”"
+    },
+    {
+      "quote": 23,
+      "line": 2523,
+      "speaker": null,
+      "opening": "“Public service.”"
+    },
+    {
+      "quote": 24,
+      "line": 2527,
+      "speaker": null,
+      "opening": "“Your wife?”"
+    },
+    {
+      "quote": 25,
+      "line": 2529,
+      "speaker": null,
+      "opening": "“Nigga, look how quickly you stood straighter. Who"
+    },
+    {
+      "quote": 26,
+      "line": 2533,
+      "speaker": null,
+      "opening": "“You don't have to do that, ma'am,”"
+    },
+    {
+      "quote": 27,
+      "line": 2535,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 28,
+      "line": 2541,
+      "speaker": null,
+      "opening": "“Nigga got seven cars and still the woman"
+    },
+    {
+      "quote": 29,
+      "line": 2545,
+      "speaker": null,
+      "opening": "“That's the one she drives home.”"
+    },
+    {
+      "quote": 30,
+      "line": 2559,
+      "speaker": null,
+      "opening": "\"The seal is genuine.\""
+    },
+    {
+      "quote": 31,
+      "line": 2561,
+      "speaker": null,
+      "opening": "\"Good. Nigga rescued it dramatically. I'd hate to"
+    },
+    {
+      "quote": 32,
+      "line": 2565,
+      "speaker": null,
+      "opening": "\"You rescued the people around it too.\""
+    },
+    {
+      "quote": 33,
+      "line": 2567,
+      "speaker": null,
+      "opening": "\"Nigga, they looked genuine. This little gold motherfucker"
+    },
+    {
+      "quote": 34,
+      "line": 2569,
+      "speaker": null,
+      "opening": "\"And now it will tell us something.\""
+    },
+    {
+      "quote": 35,
+      "line": 2571,
+      "speaker": null,
+      "opening": "\"See? That's why I bring my old nigga."
+    },
+    {
+      "quote": 36,
+      "line": 2573,
+      "speaker": null,
+      "opening": "\"It belonged to the old royal household. The"
+    },
+    {
+      "quote": 37,
+      "line": 2577,
+      "speaker": null,
+      "opening": "\"Worth something?\""
+    },
+    {
+      "quote": 38,
+      "line": 2579,
+      "speaker": null,
+      "opening": "\"The Crown itself is worth a fortune. What"
+    },
+    {
+      "quote": 39,
+      "line": 2581,
+      "speaker": null,
+      "opening": "\"Nigga, everybody keep telling me something worth more"
+    },
+    {
+      "quote": 40,
+      "line": 2585,
+      "speaker": null,
+      "opening": "\"This may be one of the rare exceptions."
+    },
+    {
+      "quote": 41,
+      "line": 2587,
+      "speaker": null,
+      "opening": "\"And Zero wants the books.\""
+    },
+    {
+      "quote": 42,
+      "line": 2589,
+      "speaker": null,
+      "opening": "\"He wants everyone to believe he already controls"
+    },
+    {
+      "quote": 43,
+      "line": 2593,
+      "speaker": null,
+      "opening": "\"What are we doing today?\""
+    },
+    {
+      "quote": 44,
+      "line": 2595,
+      "speaker": null,
+      "opening": "\"Bastien says he got something to show Marcellus.\""
+    },
+    {
+      "quote": 45,
+      "line": 2597,
+      "speaker": null,
+      "opening": "\"Then I'm driving.\""
+    },
+    {
+      "quote": 46,
+      "line": 2603,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 47,
+      "line": 2603,
+      "speaker": null,
+      "opening": "\"you gonna let somebody else drive one of"
+    },
+    {
+      "quote": 48,
+      "line": 2605,
+      "speaker": null,
+      "opening": "\"That's my wife.\""
+    },
+    {
+      "quote": 49,
+      "line": 2607,
+      "speaker": null,
+      "opening": "\"I know who the nigga's wife is. I'm"
+    },
+    {
+      "quote": 50,
+      "line": 2611,
+      "speaker": null,
+      "opening": "\"Today the woman who hasn't crashed a Ferrari"
+    },
+    {
+      "quote": 51,
+      "line": 2613,
+      "speaker": null,
+      "opening": "\"You helped your nigga crash both of them,\""
+    },
+    {
+      "quote": 52,
+      "line": 2615,
+      "speaker": null,
+      "opening": "\"And I looked gorgeous. Imagine what I can"
+    },
+    {
+      "quote": 53,
+      "line": 2619,
+      "speaker": null,
+      "opening": "\"Nigga, she got an argument.\""
+    },
+    {
+      "quote": 54,
+      "line": 2621,
+      "speaker": null,
+      "opening": "\"You on her side?\""
+    },
+    {
+      "quote": 55,
+      "line": 2623,
+      "speaker": null,
+      "opening": "\"I'm on the nigga's side who still has"
+    },
+    {
+      "quote": 56,
+      "line": 2629,
+      "speaker": null,
+      "opening": "\"That nigga know us?\""
+    },
+    {
+      "quote": 57,
+      "line": 2633,
+      "speaker": null,
+      "opening": "\"Apparently.\""
+    },
+    {
+      "quote": 58,
+      "line": 2635,
+      "speaker": null,
+      "opening": "\"Nigga waving like I paid his rent.\""
+    },
+    {
+      "quote": 59,
+      "line": 2637,
+      "speaker": null,
+      "opening": "\"You wrecked his landlord's house last night.\""
+    },
+    {
+      "quote": 60,
+      "line": 2645,
+      "speaker": null,
+      "opening": "\"You taking this corner kind of beautiful,\""
+    },
+    {
+      "quote": 61,
+      "line": 2647,
+      "speaker": null,
+      "opening": "\"Don't flirt when I'm concentrating.\""
+    },
+    {
+      "quote": 62,
+      "line": 2649,
+      "speaker": null,
+      "opening": "\"Nigga, you married a distraction.\""
+    },
+    {
+      "quote": 63,
+      "line": 2659,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 64,
+      "line": 2661,
+      "speaker": null,
+      "opening": "\"I see them.\""
+    },
+    {
+      "quote": 65,
+      "line": 2663,
+      "speaker": null,
+      "opening": "\"I'm not asking. I'm telling you to buckle"
+    },
+    {
+      "quote": 66,
+      "line": 2669,
+      "speaker": null,
+      "opening": "\"Nigga!\""
+    },
+    {
+      "quote": 67,
+      "line": 2671,
+      "speaker": null,
+      "opening": "\"You told me I was beautiful on corners!\""
+    },
+    {
+      "quote": 68,
+      "line": 2677,
+      "speaker": null,
+      "opening": "\"Nigga, that was glass!\""
+    },
+    {
+      "quote": 69,
+      "line": 2679,
+      "speaker": null,
+      "opening": "\"I read the label!\""
+    },
+    {
+      "quote": 70,
+      "line": 2685,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 71,
+      "line": 2687,
+      "speaker": null,
+      "opening": "\"Trust me.\""
+    },
+    {
+      "quote": 72,
+      "line": 2689,
+      "speaker": null,
+      "opening": "\"Nigga, I'm married to you. That's documented.\""
+    },
+    {
+      "quote": 73,
+      "line": 2701,
+      "speaker": null,
+      "opening": "\"Get him!\""
+    },
+    {
+      "quote": 74,
+      "line": 2727,
+      "speaker": null,
+      "opening": "\"AIDEN!\""
+    },
+    {
+      "quote": 75,
+      "line": 2737,
+      "speaker": null,
+      "opening": "\"Get off, nigga!\""
+    },
+    {
+      "quote": 76,
+      "line": 2739,
+      "speaker": null,
+      "opening": "\"Nigga, stop the car!\""
+    },
+    {
+      "quote": 77,
+      "line": 2741,
+      "speaker": null,
+      "opening": "\"Get off the fucking car!\""
+    },
+    {
+      "quote": 78,
+      "line": 2743,
+      "speaker": null,
+      "opening": "\"Stop giving a nigga travel advice while you"
+    },
+    {
+      "quote": 79,
+      "line": 2747,
+      "speaker": null,
+      "opening": "\"Come here!\""
+    },
+    {
+      "quote": 80,
+      "line": 2749,
+      "speaker": null,
+      "opening": "\"You sound like we in the kitchen!\""
+    },
+    {
+      "quote": 81,
+      "line": 2751,
+      "speaker": null,
+      "opening": "\"Then move like you're hungry!\""
+    },
+    {
+      "quote": 82,
+      "line": 2765,
+      "speaker": null,
+      "opening": "\"You good?\""
+    },
+    {
+      "quote": 83,
+      "line": 2769,
+      "speaker": null,
+      "opening": "\"Nigga, I'm excellent.\""
+    },
+    {
+      "quote": 84,
+      "line": 2771,
+      "speaker": null,
+      "opening": "\"You bleeding on the seat.\""
+    },
+    {
+      "quote": 85,
+      "line": 2773,
+      "speaker": null,
+      "opening": "\"Excellence leaks.\""
+    },
+    {
+      "quote": 86,
+      "line": 2787,
+      "speaker": null,
+      "opening": "\"Captain?\""
+    },
+    {
+      "quote": 87,
+      "line": 2789,
+      "speaker": null,
+      "opening": "\"Charge it to the niggas in the fountain.\""
+    },
+    {
+      "quote": 88,
+      "line": 2795,
+      "speaker": null,
+      "opening": "\"Another attack?\""
+    },
+    {
+      "quote": 89,
+      "line": 2797,
+      "speaker": null,
+      "opening": "\"No, nigga. I was trying a new taxi.\""
+    },
+    {
+      "quote": 90,
+      "line": 2801,
+      "speaker": null,
+      "opening": "\"My brother saw a nigga riding the hood"
+    },
+    {
+      "quote": 91,
+      "line": 2803,
+      "speaker": null,
+      "opening": "\"And?\""
+    },
+    {
+      "quote": 92,
+      "line": 2805,
+      "speaker": null,
+      "opening": "\"He said no nigga could survive that.\""
+    },
+    {
+      "quote": 93,
+      "line": 2807,
+      "speaker": null,
+      "opening": "\"Then who this?\""
+    },
+    {
+      "quote": 94,
+      "line": 2811,
+      "speaker": null,
+      "opening": "\"He said if the nigga survived, it was"
+    },
+    {
+      "quote": 95,
+      "line": 2813,
+      "speaker": null,
+      "opening": "\"Now your brother talking sense. What the other"
+    },
+    {
+      "quote": 96,
+      "line": 2817,
+      "speaker": null,
+      "opening": "\"My cousin saw the lady drive beneath you."
+    },
+    {
+      "quote": 97,
+      "line": 2821,
+      "speaker": null,
+      "opening": "\"Apparently I do.\""
+    },
+    {
+      "quote": 98,
+      "line": 2823,
+      "speaker": null,
+      "opening": "\"Nigga, take notes,\""
+    },
+    {
+      "quote": 99,
+      "line": 2823,
+      "speaker": null,
+      "opening": "\"Your brother found me on the hood. His"
+    },
+    {
+      "quote": 100,
+      "line": 2827,
+      "speaker": null,
+      "opening": "\"Madame. Extraordinary driving.\""
+    },
+    {
+      "quote": 101,
+      "line": 2829,
+      "speaker": null,
+      "opening": "\"Thank you. Somebody had to come collect him.\""
+    },
+    {
+      "quote": 102,
+      "line": 2833,
+      "speaker": null,
+      "opening": "\"Tell your nigga to keep watching. And tell"
+    },
+    {
+      "quote": 103,
+      "line": 2837,
+      "speaker": null,
+      "opening": "\"Come on, greatness. Somebody needs to clean your"
+    },
+    {
+      "quote": 104,
+      "line": 2843,
+      "speaker": null,
+      "opening": "\"You hit a statue.\""
+    },
+    {
+      "quote": 105,
+      "line": 2845,
+      "speaker": null,
+      "opening": "\"Nigga was behind it.\""
+    },
+    {
+      "quote": 106,
+      "line": 2847,
+      "speaker": null,
+      "opening": "\"The statue didn't know that.\""
+    },
+    {
+      "quote": 107,
+      "line": 2849,
+      "speaker": null,
+      "opening": "\"It know now.\""
+    },
+    {
+      "quote": 108,
+      "line": 2853,
+      "speaker": null,
+      "opening": "\"They came for you,\""
+    },
+    {
+      "quote": 109,
+      "line": 2857,
+      "speaker": null,
+      "opening": "\"They have been coming for what I remember"
+    },
+    {
+      "quote": 110,
+      "line": 2869,
+      "speaker": null,
+      "opening": "\"You brought them here,\""
+    },
+    {
+      "quote": 111,
+      "line": 2871,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 112,
+      "line": 2873,
+      "speaker": null,
+      "opening": "\"You promised me you would keep it safe.\""
+    },
+    {
+      "quote": 113,
+      "line": 2875,
+      "speaker": null,
+      "opening": "\"I did.\""
+    },
+    {
+      "quote": 114,
+      "line": 2877,
+      "speaker": null,
+      "opening": "\"This is not safe.\""
+    },
+    {
+      "quote": 115,
+      "line": 2881,
+      "speaker": null,
+      "opening": "\"Neither is letting you spend the rest of"
+    },
+    {
+      "quote": 116,
+      "line": 2893,
+      "speaker": null,
+      "opening": "\"Eliane wrote this the night before the harbor"
+    },
+    {
+      "quote": 117,
+      "line": 2893,
+      "speaker": null,
+      "opening": "\"She believed I would be angry with her."
+    },
+    {
+      "quote": 118,
+      "line": 2897,
+      "speaker": null,
+      "opening": "\"Tell it straight,\""
+    },
+    {
+      "quote": 119,
+      "line": 2897,
+      "speaker": null,
+      "opening": "\"All of it.\""
+    }
+  ]
+}

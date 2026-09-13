@@ -1,0 +1,631 @@
+{
+  "chapter_id": "b05-c08",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 104,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 3801,
+      "speaker": null,
+      "opening": "\"Nigga, how you sell tickets before the singer"
+    },
+    {
+      "quote": 2,
+      "line": 3805,
+      "speaker": null,
+      "opening": "\"We heard she was coming.\""
+    },
+    {
+      "quote": 3,
+      "line": 3807,
+      "speaker": null,
+      "opening": "\"Nigga, she came to look at curtains.\""
+    },
+    {
+      "quote": 4,
+      "line": 3809,
+      "speaker": null,
+      "opening": "\"The city would pay to see that also.\""
+    },
+    {
+      "quote": 5,
+      "line": 3813,
+      "speaker": null,
+      "opening": "\"This nigga got taste and no manners. Baby,"
+    },
+    {
+      "quote": 6,
+      "line": 3819,
+      "speaker": null,
+      "opening": "\"What time?\""
+    },
+    {
+      "quote": 7,
+      "line": 3821,
+      "speaker": null,
+      "opening": "\"Eight.\""
+    },
+    {
+      "quote": 8,
+      "line": 3823,
+      "speaker": null,
+      "opening": "\"Get me a piano.\""
+    },
+    {
+      "quote": 9,
+      "line": 3829,
+      "speaker": null,
+      "opening": "\"I want the second song.\""
+    },
+    {
+      "quote": 10,
+      "line": 3831,
+      "speaker": null,
+      "opening": "\"You can have three.\""
+    },
+    {
+      "quote": 11,
+      "line": 3833,
+      "speaker": null,
+      "opening": "\"I knew this marriage would eventually benefit me.\""
+    },
+    {
+      "quote": 12,
+      "line": 3837,
+      "speaker": null,
+      "opening": "\"That nigga in love,\""
+    },
+    {
+      "quote": 13,
+      "line": 3839,
+      "speaker": null,
+      "opening": "\"That nigga has been in love. He just"
+    },
+    {
+      "quote": 14,
+      "line": 3849,
+      "speaker": null,
+      "opening": "“Captain. One small difficulty.”"
+    },
+    {
+      "quote": 15,
+      "line": 3851,
+      "speaker": null,
+      "opening": "“Nigga, don't introduce a large problem wearing a"
+    },
+    {
+      "quote": 16,
+      "line": 3857,
+      "speaker": null,
+      "opening": "“Has it always done that?”"
+    },
+    {
+      "quote": 17,
+      "line": 3859,
+      "speaker": null,
+      "opening": "“Only for important performances.”"
+    },
+    {
+      "quote": 18,
+      "line": 3861,
+      "speaker": null,
+      "opening": "“Nigga, it better retire that habit today.”"
+    },
+    {
+      "quote": 19,
+      "line": 3865,
+      "speaker": null,
+      "opening": "“Captain, you don't have to—”"
+    },
+    {
+      "quote": 20,
+      "line": 3869,
+      "speaker": null,
+      "opening": "“That nigga fixes curtains too?”"
+    },
+    {
+      "quote": 21,
+      "line": 3871,
+      "speaker": null,
+      "opening": "“Nigga, that man's wife downstairs.”"
+    },
+    {
+      "quote": 22,
+      "line": 3873,
+      "speaker": null,
+      "opening": "“This nigga can hear you,”"
+    },
+    {
+      "quote": 23,
+      "line": 3873,
+      "speaker": null,
+      "opening": "“And that part about my wife is why"
+    },
+    {
+      "quote": 24,
+      "line": 3885,
+      "speaker": null,
+      "opening": "“You showing off up there?”"
+    },
+    {
+      "quote": 25,
+      "line": 3887,
+      "speaker": null,
+      "opening": "“Nigga fixing your sky.”"
+    },
+    {
+      "quote": 26,
+      "line": 3895,
+      "speaker": null,
+      "opening": "“Perfect,”"
+    },
+    {
+      "quote": 27,
+      "line": 3899,
+      "speaker": null,
+      "opening": "“Nigga, I know.”"
+    },
+    {
+      "quote": 28,
+      "line": 3903,
+      "speaker": null,
+      "opening": "\"Nigga, y'all dress like the portrait owes you"
+    },
+    {
+      "quote": 29,
+      "line": 3905,
+      "speaker": null,
+      "opening": "\"In a sense,\""
+    },
+    {
+      "quote": 30,
+      "line": 3909,
+      "speaker": null,
+      "opening": "\"Bring back the book.\""
+    },
+    {
+      "quote": 31,
+      "line": 3911,
+      "speaker": null,
+      "opening": "\"That's all?\""
+    },
+    {
+      "quote": 32,
+      "line": 3913,
+      "speaker": null,
+      "opening": "\"And yourself. The book can't come to my"
+    },
+    {
+      "quote": 33,
+      "line": 3917,
+      "speaker": null,
+      "opening": "\"Front row.\""
+    },
+    {
+      "quote": 34,
+      "line": 3919,
+      "speaker": null,
+      "opening": "\"Better be.\""
+    },
+    {
+      "quote": 35,
+      "line": 3935,
+      "speaker": null,
+      "opening": "\"Captain.\""
+    },
+    {
+      "quote": 36,
+      "line": 3937,
+      "speaker": null,
+      "opening": "\"Nigga, who invited the funeral jackets?\""
+    },
+    {
+      "quote": 37,
+      "line": 3939,
+      "speaker": null,
+      "opening": "\"The emperor claims an interest in the property.\""
+    },
+    {
+      "quote": 38,
+      "line": 3941,
+      "speaker": null,
+      "opening": "\"I claimed it first. With evidence. And a"
+    },
+    {
+      "quote": 39,
+      "line": 3945,
+      "speaker": null,
+      "opening": "\"The house is closed.\""
+    },
+    {
+      "quote": 40,
+      "line": 3949,
+      "speaker": null,
+      "opening": "\"Open.\""
+    },
+    {
+      "quote": 41,
+      "line": 3951,
+      "speaker": null,
+      "opening": "\"Your foreign rank has no authority here.\""
+    },
+    {
+      "quote": 42,
+      "line": 3955,
+      "speaker": null,
+      "opening": "\"The captain acts with my full cooperation.\""
+    },
+    {
+      "quote": 43,
+      "line": 3959,
+      "speaker": null,
+      "opening": "\"You should be more careful with that.\""
+    },
+    {
+      "quote": 44,
+      "line": 3961,
+      "speaker": null,
+      "opening": "\"Nigga, you should be more careful with your"
+    },
+    {
+      "quote": 45,
+      "line": 3961,
+      "speaker": null,
+      "opening": "\"This man been nothing but handsome and helpful.\""
+    },
+    {
+      "quote": 46,
+      "line": 3967,
+      "speaker": null,
+      "opening": "\"You enjoy making people love you.\""
+    },
+    {
+      "quote": 47,
+      "line": 3969,
+      "speaker": null,
+      "opening": "\"Nigga, you make that sound difficult. Look at"
+    },
+    {
+      "quote": 48,
+      "line": 3969,
+      "speaker": null,
+      "opening": "\"Useful. Respectful. Helped my wife get home. Nigga,"
+    },
+    {
+      "quote": 49,
+      "line": 3975,
+      "speaker": null,
+      "opening": "\"That nigga ain't your problem,\""
+    },
+    {
+      "quote": 50,
+      "line": 3975,
+      "speaker": null,
+      "opening": "\"You threatening the wrong part of the conversation.\""
+    },
+    {
+      "quote": 51,
+      "line": 3985,
+      "speaker": null,
+      "opening": "\"Let the old nigga walk.\""
+    },
+    {
+      "quote": 52,
+      "line": 3991,
+      "speaker": null,
+      "opening": "\"You have fifteen minutes.\""
+    },
+    {
+      "quote": 53,
+      "line": 3993,
+      "speaker": null,
+      "opening": "\"Nigga, I was gonna take twenty. You just"
+    },
+    {
+      "quote": 54,
+      "line": 4005,
+      "speaker": null,
+      "opening": "\"That's a crown,\""
+    },
+    {
+      "quote": 55,
+      "line": 4009,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 56,
+      "line": 4011,
+      "speaker": null,
+      "opening": "\"Nigga, I was expecting a crown, but that's"
+    },
+    {
+      "quote": 57,
+      "line": 4013,
+      "speaker": null,
+      "opening": "\"We've discussed it several times.\""
+    },
+    {
+      "quote": 58,
+      "line": 4015,
+      "speaker": null,
+      "opening": "\"Words, my nigga. You used words. Should've held"
+    },
+    {
+      "quote": 59,
+      "line": 4019,
+      "speaker": null,
+      "opening": "\"His nose was wrong.\""
+    },
+    {
+      "quote": 60,
+      "line": 4029,
+      "speaker": null,
+      "opening": "\"Can I take it down?\""
+    },
+    {
+      "quote": 61,
+      "line": 4031,
+      "speaker": null,
+      "opening": "\"Carefully,\""
+    },
+    {
+      "quote": 62,
+      "line": 4043,
+      "speaker": null,
+      "opening": "\"You had that the whole time?\""
+    },
+    {
+      "quote": 63,
+      "line": 4045,
+      "speaker": null,
+      "opening": "\"I knew where it belonged. I was afraid"
+    },
+    {
+      "quote": 64,
+      "line": 4047,
+      "speaker": null,
+      "opening": "\"Nigga, she got company now.\""
+    },
+    {
+      "quote": 65,
+      "line": 4065,
+      "speaker": null,
+      "opening": "\"Time,\""
+    },
+    {
+      "quote": 66,
+      "line": 4069,
+      "speaker": null,
+      "opening": "\"You have recovered imperial property.\""
+    },
+    {
+      "quote": 67,
+      "line": 4071,
+      "speaker": null,
+      "opening": "\"Nigga, you timed that beautifully.\""
+    },
+    {
+      "quote": 68,
+      "line": 4073,
+      "speaker": null,
+      "opening": "\"Give it to me.\""
+    },
+    {
+      "quote": 69,
+      "line": 4079,
+      "speaker": null,
+      "opening": "\"You want your old king back?\""
+    },
+    {
+      "quote": 70,
+      "line": 4099,
+      "speaker": null,
+      "opening": "\"You think they love you?\""
+    },
+    {
+      "quote": 71,
+      "line": 4101,
+      "speaker": null,
+      "opening": "\"Nigga, you asking while we wrestle? Pick a"
+    },
+    {
+      "quote": 72,
+      "line": 4115,
+      "speaker": null,
+      "opening": "\"Back way,\""
+    },
+    {
+      "quote": 73,
+      "line": 4117,
+      "speaker": null,
+      "opening": "\"That's where his men are.\""
+    },
+    {
+      "quote": 74,
+      "line": 4119,
+      "speaker": null,
+      "opening": "\"Not all the way back. The ninth door.\""
+    },
+    {
+      "quote": 75,
+      "line": 4123,
+      "speaker": null,
+      "opening": "\"The wall door?\""
+    },
+    {
+      "quote": 76,
+      "line": 4137,
+      "speaker": null,
+      "opening": "\"I am sixty-two.\""
+    },
+    {
+      "quote": 77,
+      "line": 4139,
+      "speaker": null,
+      "opening": "\"Nigga, you wearing it beautifully. Come here.\""
+    },
+    {
+      "quote": 78,
+      "line": 4143,
+      "speaker": null,
+      "opening": "\"Move left!\""
+    },
+    {
+      "quote": 79,
+      "line": 4145,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 80,
+      "line": 4147,
+      "speaker": null,
+      "opening": "\"Nigga, your other left!\""
+    },
+    {
+      "quote": 81,
+      "line": 4157,
+      "speaker": null,
+      "opening": "\"Captain Aiden?\""
+    },
+    {
+      "quote": 82,
+      "line": 4159,
+      "speaker": null,
+      "opening": "\"Drive, my nigga. Autographs when the roof stops"
+    },
+    {
+      "quote": 83,
+      "line": 4177,
+      "speaker": null,
+      "opening": "\"You bleeding?\""
+    },
+    {
+      "quote": 84,
+      "line": 4179,
+      "speaker": null,
+      "opening": "\"Mostly architecture.\""
+    },
+    {
+      "quote": 85,
+      "line": 4181,
+      "speaker": null,
+      "opening": "\"Aiden.\""
+    },
+    {
+      "quote": 86,
+      "line": 4183,
+      "speaker": null,
+      "opening": "\"Nigga fought a portrait. Portrait lost. Little cut."
+    },
+    {
+      "quote": 87,
+      "line": 4185,
+      "speaker": null,
+      "opening": "\"Then let your wife be interested before you"
+    },
+    {
+      "quote": 88,
+      "line": 4189,
+      "speaker": null,
+      "opening": "\"At least one of you came back with"
+    },
+    {
+      "quote": 89,
+      "line": 4191,
+      "speaker": null,
+      "opening": "\"Nigga, I came back with the useful ones.\""
+    },
+    {
+      "quote": 90,
+      "line": 4195,
+      "speaker": null,
+      "opening": "\"You have twelve minutes.\""
+    },
+    {
+      "quote": 91,
+      "line": 4197,
+      "speaker": null,
+      "opening": "\"To explain?\""
+    },
+    {
+      "quote": 92,
+      "line": 4199,
+      "speaker": null,
+      "opening": "\"To sit down and look like my husband.\""
+    },
+    {
+      "quote": 93,
+      "line": 4201,
+      "speaker": null,
+      "opening": "\"Nigga, that's my strongest subject.\""
+    },
+    {
+      "quote": 94,
+      "line": 4203,
+      "speaker": null,
+      "opening": "\"Then get an A and keep your feet"
+    },
+    {
+      "quote": 95,
+      "line": 4241,
+      "speaker": null,
+      "opening": "\"That's your woman, nigga. Stop looking adopted by"
+    },
+    {
+      "quote": 96,
+      "line": 4245,
+      "speaker": null,
+      "opening": "\"That's your nigga singing,\""
+    },
+    {
+      "quote": 97,
+      "line": 4247,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 98,
+      "line": 4249,
+      "speaker": null,
+      "opening": "\"Then let the woman see you know.\""
+    },
+    {
+      "quote": 99,
+      "line": 4253,
+      "speaker": null,
+      "opening": "\"There that nigga go,\""
+    },
+    {
+      "quote": 100,
+      "line": 4255,
+      "speaker": null,
+      "opening": "\"Whole damn balcony heard his relationship,\""
+    },
+    {
+      "quote": 101,
+      "line": 4271,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 102,
+      "line": 4285,
+      "speaker": null,
+      "opening": "\"Nigga, they got a whole funeral scheduled after"
+    },
+    {
+      "quote": 103,
+      "line": 4291,
+      "speaker": null,
+      "opening": "\"Aight,\""
+    },
+    {
+      "quote": 104,
+      "line": 4291,
+      "speaker": null,
+      "opening": "\"We gonna need a bigger after-party.\""
+    }
+  ]
+}

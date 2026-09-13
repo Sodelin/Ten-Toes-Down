@@ -1,0 +1,997 @@
+{
+  "chapter_id": "b05-c03",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 165,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 1223,
+      "speaker": null,
+      "opening": "\"Leave it,\""
+    },
+    {
+      "quote": 2,
+      "line": 1225,
+      "speaker": null,
+      "opening": "\"I'm looking.\""
+    },
+    {
+      "quote": 3,
+      "line": 1227,
+      "speaker": null,
+      "opening": "\"You looking with your bag open.\""
+    },
+    {
+      "quote": 4,
+      "line": 1237,
+      "speaker": null,
+      "opening": "\"Graveyard\""
+    },
+    {
+      "quote": 5,
+      "line": 1245,
+      "speaker": null,
+      "opening": "\"That the nigga?\""
+    },
+    {
+      "quote": 6,
+      "line": 1249,
+      "speaker": null,
+      "opening": "\"That the college nigga?\""
+    },
+    {
+      "quote": 7,
+      "line": 1253,
+      "speaker": null,
+      "opening": "\"Valedictorian. Nigga, say it with the whole education.\""
+    },
+    {
+      "quote": 8,
+      "line": 1257,
+      "speaker": null,
+      "opening": "\"And the cop nigga?\""
+    },
+    {
+      "quote": 9,
+      "line": 1261,
+      "speaker": null,
+      "opening": "\"Captain. You checking the nigga's credentials before you"
+    },
+    {
+      "quote": 10,
+      "line": 1263,
+      "speaker": null,
+      "opening": "\"And this nigga sings?\""
+    },
+    {
+      "quote": 11,
+      "line": 1267,
+      "speaker": null,
+      "opening": "\"When he feels like it. Usually when the"
+    },
+    {
+      "quote": 12,
+      "line": 1271,
+      "speaker": null,
+      "opening": "\"What this nigga when he bleeds?\""
+    },
+    {
+      "quote": 13,
+      "line": 1273,
+      "speaker": null,
+      "opening": "\"Still better dressed than you,\""
+    },
+    {
+      "quote": 14,
+      "line": 1273,
+      "speaker": null,
+      "opening": "\"You asked about four niggas and they all"
+    },
+    {
+      "quote": 15,
+      "line": 1281,
+      "speaker": null,
+      "opening": "\"The captain enters three trials. Strength, courage, dominion.\""
+    },
+    {
+      "quote": 16,
+      "line": 1283,
+      "speaker": null,
+      "opening": "\"Y'all named three fights like they got degrees.\""
+    },
+    {
+      "quote": 17,
+      "line": 1285,
+      "speaker": null,
+      "opening": "\"The first is fought against the chosen hand"
+    },
+    {
+      "quote": 18,
+      "line": 1287,
+      "speaker": null,
+      "opening": "\"And if I win?\""
+    },
+    {
+      "quote": 19,
+      "line": 1291,
+      "speaker": null,
+      "opening": "\"A seat among the criminal kings.\""
+    },
+    {
+      "quote": 20,
+      "line": 1293,
+      "speaker": null,
+      "opening": "\"I sat in the throne yesterday.\""
+    },
+    {
+      "quote": 21,
+      "line": 1295,
+      "speaker": null,
+      "opening": "\"Yes. We noticed.\""
+    },
+    {
+      "quote": 22,
+      "line": 1301,
+      "speaker": null,
+      "opening": "\"Bastien Moreau,\""
+    },
+    {
+      "quote": 23,
+      "line": 1301,
+      "speaker": null,
+      "opening": "\"I will keep the rounds.\""
+    },
+    {
+      "quote": 24,
+      "line": 1303,
+      "speaker": null,
+      "opening": "\"You a referee?\""
+    },
+    {
+      "quote": 25,
+      "line": 1305,
+      "speaker": null,
+      "opening": "\"Tonight.\""
+    },
+    {
+      "quote": 26,
+      "line": 1307,
+      "speaker": null,
+      "opening": "\"What were you yesterday?\""
+    },
+    {
+      "quote": 27,
+      "line": 1309,
+      "speaker": null,
+      "opening": "\"Tired.\""
+    },
+    {
+      "quote": 28,
+      "line": 1315,
+      "speaker": null,
+      "opening": "\"Wait till he breathes,\""
+    },
+    {
+      "quote": 29,
+      "line": 1315,
+      "speaker": null,
+      "opening": "\"You haven't seen the shoulders move yet.\""
+    },
+    {
+      "quote": 30,
+      "line": 1323,
+      "speaker": null,
+      "opening": "\"How fast you want this done?\""
+    },
+    {
+      "quote": 31,
+      "line": 1325,
+      "speaker": null,
+      "opening": "\"Fast enough that my dinner's still hot. Slow"
+    },
+    {
+      "quote": 32,
+      "line": 1327,
+      "speaker": null,
+      "opening": "\"Baby, that's a narrow window.\""
+    },
+    {
+      "quote": 33,
+      "line": 1329,
+      "speaker": null,
+      "opening": "\"You're gifted.\""
+    },
+    {
+      "quote": 34,
+      "line": 1333,
+      "speaker": null,
+      "opening": "\"That's allowed?\""
+    },
+    {
+      "quote": 35,
+      "line": 1335,
+      "speaker": null,
+      "opening": "\"It is ceremonial.\""
+    },
+    {
+      "quote": 36,
+      "line": 1337,
+      "speaker": null,
+      "opening": "\"Good, because my ceremony didn't bring one.\""
+    },
+    {
+      "quote": 37,
+      "line": 1347,
+      "speaker": null,
+      "opening": "\"Aight,\""
+    },
+    {
+      "quote": 38,
+      "line": 1347,
+      "speaker": null,
+      "opening": "\"Nigga got somewhere to be.\""
+    },
+    {
+      "quote": 39,
+      "line": 1353,
+      "speaker": null,
+      "opening": "\"Hold up.\""
+    },
+    {
+      "quote": 40,
+      "line": 1357,
+      "speaker": null,
+      "opening": "\"That you talking?\""
+    },
+    {
+      "quote": 41,
+      "line": 1359,
+      "speaker": null,
+      "opening": "\"Nigga, who else you fighting?\""
+    },
+    {
+      "quote": 42,
+      "line": 1363,
+      "speaker": null,
+      "opening": "\"Let him fight!\""
+    },
+    {
+      "quote": 43,
+      "line": 1365,
+      "speaker": null,
+      "opening": "\"Nigga can't see!\""
+    },
+    {
+      "quote": 44,
+      "line": 1365,
+      "speaker": null,
+      "opening": "\"Put a bucket on your head and come"
+    },
+    {
+      "quote": 45,
+      "line": 1369,
+      "speaker": null,
+      "opening": "\"That one. Purple suit. He volunteered.\""
+    },
+    {
+      "quote": 46,
+      "line": 1377,
+      "speaker": null,
+      "opening": "\"Oh, you ungrateful motherfucker.\""
+    },
+    {
+      "quote": 47,
+      "line": 1379,
+      "speaker": null,
+      "opening": "\"We fighting,\""
+    },
+    {
+      "quote": 48,
+      "line": 1381,
+      "speaker": null,
+      "opening": "\"Fair.\""
+    },
+    {
+      "quote": 49,
+      "line": 1387,
+      "speaker": null,
+      "opening": "\"Finished.\""
+    },
+    {
+      "quote": 50,
+      "line": 1391,
+      "speaker": null,
+      "opening": "\"Name?\""
+    },
+    {
+      "quote": 51,
+      "line": 1393,
+      "speaker": null,
+      "opening": "\"Adrian.\""
+    },
+    {
+      "quote": 52,
+      "line": 1395,
+      "speaker": null,
+      "opening": "\"Adrian, my nigga, you got good feet. Let"
+    },
+    {
+      "quote": 53,
+      "line": 1399,
+      "speaker": null,
+      "opening": "\"My brother said that.\""
+    },
+    {
+      "quote": 54,
+      "line": 1401,
+      "speaker": null,
+      "opening": "\"Your brother here?\""
+    },
+    {
+      "quote": 55,
+      "line": 1405,
+      "speaker": null,
+      "opening": "\"I TOLD THAT NIGGA!\""
+    },
+    {
+      "quote": 56,
+      "line": 1409,
+      "speaker": null,
+      "opening": "\"Nigga, get him a microphone,\""
+    },
+    {
+      "quote": 57,
+      "line": 1411,
+      "speaker": null,
+      "opening": "\"Do not get that nigga a microphone,\""
+    },
+    {
+      "quote": 58,
+      "line": 1415,
+      "speaker": null,
+      "opening": "\"Sign it?\""
+    },
+    {
+      "quote": 59,
+      "line": 1417,
+      "speaker": null,
+      "opening": "\"After that sneaky rib punch?\""
+    },
+    {
+      "quote": 60,
+      "line": 1419,
+      "speaker": null,
+      "opening": "\"You said fair.\""
+    },
+    {
+      "quote": 61,
+      "line": 1421,
+      "speaker": null,
+      "opening": "\"Nigga remembered the ruling. What's your brother called?\""
+    },
+    {
+      "quote": 62,
+      "line": 1423,
+      "speaker": null,
+      "opening": "\"Luis.\""
+    },
+    {
+      "quote": 63,
+      "line": 1429,
+      "speaker": null,
+      "opening": "\"Nigga, I meant your signature.\""
+    },
+    {
+      "quote": 64,
+      "line": 1431,
+      "speaker": null,
+      "opening": "\"That's beneath the medical advice.\""
+    },
+    {
+      "quote": 65,
+      "line": 1435,
+      "speaker": null,
+      "opening": "\"You were fast,\""
+    },
+    {
+      "quote": 66,
+      "line": 1435,
+      "speaker": null,
+      "opening": "\"Come back with your face next time.\""
+    },
+    {
+      "quote": 67,
+      "line": 1441,
+      "speaker": null,
+      "opening": "\"You let him hit you.\""
+    },
+    {
+      "quote": 68,
+      "line": 1443,
+      "speaker": null,
+      "opening": "\"Nigga took advantage of my community work.\""
+    },
+    {
+      "quote": 69,
+      "line": 1447,
+      "speaker": null,
+      "opening": "\"Do your community work after the bell.\""
+    },
+    {
+      "quote": 70,
+      "line": 1451,
+      "speaker": null,
+      "opening": "\"And quit signing evidence while there's two more"
+    },
+    {
+      "quote": 71,
+      "line": 1453,
+      "speaker": null,
+      "opening": "\"One.\""
+    },
+    {
+      "quote": 72,
+      "line": 1455,
+      "speaker": null,
+      "opening": "\"You keeping count?\""
+    },
+    {
+      "quote": 73,
+      "line": 1457,
+      "speaker": null,
+      "opening": "\"I'm keeping dinner warm in my imagination.\""
+    },
+    {
+      "quote": 74,
+      "line": 1461,
+      "speaker": null,
+      "opening": "\"Captain, the odds have changed.\""
+    },
+    {
+      "quote": 75,
+      "line": 1463,
+      "speaker": null,
+      "opening": "\"Nigga, I ain't changed. Catch the board up.\""
+    },
+    {
+      "quote": 76,
+      "line": 1467,
+      "speaker": null,
+      "opening": "\"You are still the underdog.\""
+    },
+    {
+      "quote": 77,
+      "line": 1471,
+      "speaker": null,
+      "opening": "\"That nigga what?\""
+    },
+    {
+      "quote": 78,
+      "line": 1473,
+      "speaker": null,
+      "opening": "\"The underdog. In the market.\""
+    },
+    {
+      "quote": 79,
+      "line": 1475,
+      "speaker": null,
+      "opening": "\"Nigga, look up. Does that look underneath anything?\""
+    },
+    {
+      "quote": 80,
+      "line": 1479,
+      "speaker": null,
+      "opening": "\"The champion has eleven years—\""
+    },
+    {
+      "quote": 81,
+      "line": 1481,
+      "speaker": null,
+      "opening": "\"Nigga, we heard the years,\""
+    },
+    {
+      "quote": 82,
+      "line": 1481,
+      "speaker": null,
+      "opening": "\"We about to discuss the minutes.\""
+    },
+    {
+      "quote": 83,
+      "line": 1485,
+      "speaker": null,
+      "opening": "\"We backed Aiden,\""
+    },
+    {
+      "quote": 84,
+      "line": 1487,
+      "speaker": null,
+      "opening": "\"Obviously,\""
+    },
+    {
+      "quote": 85,
+      "line": 1491,
+      "speaker": null,
+      "opening": "\"How much?\""
+    },
+    {
+      "quote": 86,
+      "line": 1497,
+      "speaker": null,
+      "opening": "\"That is a significant exposure.\""
+    },
+    {
+      "quote": 87,
+      "line": 1499,
+      "speaker": null,
+      "opening": "\"Then cover your ass with a better opinion,\""
+    },
+    {
+      "quote": 88,
+      "line": 1505,
+      "speaker": null,
+      "opening": "\"You two bet that much?\""
+    },
+    {
+      "quote": 89,
+      "line": 1507,
+      "speaker": null,
+      "opening": "\"On him?\""
+    },
+    {
+      "quote": 90,
+      "line": 1507,
+      "speaker": null,
+      "opening": "\"Baby, this nigga lands cars where helicopters get"
+    },
+    {
+      "quote": 91,
+      "line": 1511,
+      "speaker": null,
+      "opening": "\"That's yours.\""
+    },
+    {
+      "quote": 92,
+      "line": 1515,
+      "speaker": null,
+      "opening": "\"Now you really need to win.\""
+    },
+    {
+      "quote": 93,
+      "line": 1517,
+      "speaker": null,
+      "opening": "\"Nigga, I was planning to lose economically till"
+    },
+    {
+      "quote": 94,
+      "line": 1523,
+      "speaker": null,
+      "opening": "\"Listen. This nigga ain't one of those pretty"
+    },
+    {
+      "quote": 95,
+      "line": 1525,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 96,
+      "line": 1527,
+      "speaker": null,
+      "opening": "\"I seen him move.\""
+    },
+    {
+      "quote": 97,
+      "line": 1529,
+      "speaker": null,
+      "opening": "\"So have I.\""
+    },
+    {
+      "quote": 98,
+      "line": 1531,
+      "speaker": null,
+      "opening": "\"Then don't be so busy being the greatest"
+    },
+    {
+      "quote": 99,
+      "line": 1539,
+      "speaker": null,
+      "opening": "\"I got you.\""
+    },
+    {
+      "quote": 100,
+      "line": 1541,
+      "speaker": null,
+      "opening": "\"You better have you. I already got me.\""
+    },
+    {
+      "quote": 101,
+      "line": 1543,
+      "speaker": null,
+      "opening": "\"Nigga, that's a beautiful sentence from a man"
+    },
+    {
+      "quote": 102,
+      "line": 1545,
+      "speaker": null,
+      "opening": "\"The hotel got too many doors.\""
+    },
+    {
+      "quote": 103,
+      "line": 1557,
+      "speaker": null,
+      "opening": "\"Nigga, your necklace got staff?\""
+    },
+    {
+      "quote": 104,
+      "line": 1571,
+      "speaker": null,
+      "opening": "\"Stay down when I put you there.\""
+    },
+    {
+      "quote": 105,
+      "line": 1573,
+      "speaker": null,
+      "opening": "\"Nigga, you talking about next week? Do something.\""
+    },
+    {
+      "quote": 106,
+      "line": 1587,
+      "speaker": null,
+      "opening": "\"Good.\""
+    },
+    {
+      "quote": 107,
+      "line": 1591,
+      "speaker": null,
+      "opening": "\"Nigga, you enjoy that?\""
+    },
+    {
+      "quote": 108,
+      "line": 1593,
+      "speaker": null,
+      "opening": "\"Very much.\""
+    },
+    {
+      "quote": 109,
+      "line": 1595,
+      "speaker": null,
+      "opening": "\"Remember it pretty. Tell your niggas you had"
+    },
+    {
+      "quote": 110,
+      "line": 1597,
+      "speaker": null,
+      "opening": "\"I'll tell them I had you down.\""
+    },
+    {
+      "quote": 111,
+      "line": 1599,
+      "speaker": null,
+      "opening": "\"Then explain how this nigga got back up"
+    },
+    {
+      "quote": 112,
+      "line": 1611,
+      "speaker": null,
+      "opening": "\"Nigga, let the man work!\""
+    },
+    {
+      "quote": 113,
+      "line": 1613,
+      "speaker": null,
+      "opening": "\"That's my nigga! I'm supporting!\""
+    },
+    {
+      "quote": 114,
+      "line": 1615,
+      "speaker": null,
+      "opening": "\"Then support him from the floor. Nigga, you"
+    },
+    {
+      "quote": 115,
+      "line": 1633,
+      "speaker": null,
+      "opening": "\"Corners.\""
+    },
+    {
+      "quote": 116,
+      "line": 1637,
+      "speaker": null,
+      "opening": "\"You really don't have to do this,\""
+    },
+    {
+      "quote": 117,
+      "line": 1639,
+      "speaker": null,
+      "opening": "\"Nigga, I'm in the ring. We past invitations.\""
+    },
+    {
+      "quote": 118,
+      "line": 1641,
+      "speaker": null,
+      "opening": "\"If you win, he doubles what I owe.\""
+    },
+    {
+      "quote": 119,
+      "line": 1653,
+      "speaker": null,
+      "opening": "\"What?\""
+    },
+    {
+      "quote": 120,
+      "line": 1655,
+      "speaker": null,
+      "opening": "\"Zero owns his debt.\""
+    },
+    {
+      "quote": 121,
+      "line": 1657,
+      "speaker": null,
+      "opening": "\"Can you buy it?\""
+    },
+    {
+      "quote": 122,
+      "line": 1659,
+      "speaker": null,
+      "opening": "\"Probably.\""
+    },
+    {
+      "quote": 123,
+      "line": 1661,
+      "speaker": null,
+      "opening": "\"Then win first. Men like that hear money"
+    },
+    {
+      "quote": 124,
+      "line": 1693,
+      "speaker": null,
+      "opening": "\"The second trial is complete.\""
+    },
+    {
+      "quote": 125,
+      "line": 1697,
+      "speaker": null,
+      "opening": "\"The nigga's debt is complete too.\""
+    },
+    {
+      "quote": 126,
+      "line": 1701,
+      "speaker": null,
+      "opening": "\"That is not a prize you were offered.\""
+    },
+    {
+      "quote": 127,
+      "line": 1703,
+      "speaker": null,
+      "opening": "\"Then offer it now.\""
+    },
+    {
+      "quote": 128,
+      "line": 1709,
+      "speaker": null,
+      "opening": "\"The emperor will expect compensation.\""
+    },
+    {
+      "quote": 129,
+      "line": 1711,
+      "speaker": null,
+      "opening": "\"Tell him send an invoice with a picture"
+    },
+    {
+      "quote": 130,
+      "line": 1717,
+      "speaker": null,
+      "opening": "\"Nigga, you free enough to laugh yet?\""
+    },
+    {
+      "quote": 131,
+      "line": 1719,
+      "speaker": null,
+      "opening": "\"I think so.\""
+    },
+    {
+      "quote": 132,
+      "line": 1721,
+      "speaker": null,
+      "opening": "\"Then make it a good one. That's your"
+    },
+    {
+      "quote": 133,
+      "line": 1725,
+      "speaker": null,
+      "opening": "\"That nigga laughing,\""
+    },
+    {
+      "quote": 134,
+      "line": 1727,
+      "speaker": null,
+      "opening": "\"I hear him,\""
+    },
+    {
+      "quote": 135,
+      "line": 1729,
+      "speaker": null,
+      "opening": "\"Nah. Nigga laughing like he got tomorrow.\""
+    },
+    {
+      "quote": 136,
+      "line": 1735,
+      "speaker": null,
+      "opening": "\"The final trial,\""
+    },
+    {
+      "quote": 137,
+      "line": 1735,
+      "speaker": null,
+      "opening": "\"is dominion. You may claim the cathedral's purse."
+    },
+    {
+      "quote": 138,
+      "line": 1741,
+      "speaker": null,
+      "opening": "\"Take the purse,\""
+    },
+    {
+      "quote": 139,
+      "line": 1743,
+      "speaker": null,
+      "opening": "\"Nigga, be quiet.\""
+    },
+    {
+      "quote": 140,
+      "line": 1745,
+      "speaker": null,
+      "opening": "\"I mean it.\""
+    },
+    {
+      "quote": 141,
+      "line": 1747,
+      "speaker": null,
+      "opening": "\"I know. That's why I told you to"
+    },
+    {
+      "quote": 142,
+      "line": 1751,
+      "speaker": null,
+      "opening": "\"Buy his freedom.\""
+    },
+    {
+      "quote": 143,
+      "line": 1755,
+      "speaker": null,
+      "opening": "\"Done.\""
+    },
+    {
+      "quote": 144,
+      "line": 1759,
+      "speaker": null,
+      "opening": "\"And I'm charging the cathedral eleven million for"
+    },
+    {
+      "quote": 145,
+      "line": 1765,
+      "speaker": null,
+      "opening": "\"You cannot simply—\""
+    },
+    {
+      "quote": 146,
+      "line": 1767,
+      "speaker": null,
+      "opening": "\"Nigga, I just sold out your dead church,"
+    },
+    {
+      "quote": 147,
+      "line": 1775,
+      "speaker": null,
+      "opening": "\"I'll pay it.\""
+    },
+    {
+      "quote": 148,
+      "line": 1781,
+      "speaker": null,
+      "opening": "\"We'll pay it,\""
+    },
+    {
+      "quote": 149,
+      "line": 1787,
+      "speaker": null,
+      "opening": "\"If you need me,\""
+    },
+    {
+      "quote": 150,
+      "line": 1787,
+      "speaker": null,
+      "opening": "\"send word.\""
+    },
+    {
+      "quote": 151,
+      "line": 1789,
+      "speaker": null,
+      "opening": "\"I need you to go eat something you"
+    },
+    {
+      "quote": 152,
+      "line": 1793,
+      "speaker": null,
+      "opening": "\"Your husband is—\""
+    },
+    {
+      "quote": 153,
+      "line": 1795,
+      "speaker": null,
+      "opening": "\"I know,\""
+    },
+    {
+      "quote": 154,
+      "line": 1799,
+      "speaker": null,
+      "opening": "\"No. Nigga, I don't think anybody knows all"
+    },
+    {
+      "quote": 155,
+      "line": 1801,
+      "speaker": null,
+      "opening": "\"And?\""
+    },
+    {
+      "quote": 156,
+      "line": 1803,
+      "speaker": null,
+      "opening": "\"The nigga I needed to meet showed up"
+    },
+    {
+      "quote": 157,
+      "line": 1815,
+      "speaker": null,
+      "opening": "\"There is a woman who ought to have"
+    },
+    {
+      "quote": 158,
+      "line": 1817,
+      "speaker": null,
+      "opening": "\"Who?\""
+    },
+    {
+      "quote": 159,
+      "line": 1821,
+      "speaker": null,
+      "opening": "\"Someone she was before this city taught her"
+    },
+    {
+      "quote": 160,
+      "line": 1833,
+      "speaker": null,
+      "opening": "\"You going?\""
+    },
+    {
+      "quote": 161,
+      "line": 1837,
+      "speaker": null,
+      "opening": "\"Depends if they got dinner.\""
+    },
+    {
+      "quote": 162,
+      "line": 1839,
+      "speaker": null,
+      "opening": "\"Baby.\""
+    },
+    {
+      "quote": 163,
+      "line": 1841,
+      "speaker": null,
+      "opening": "\"Nigga freed a champion. Let him investigate a"
+    },
+    {
+      "quote": 164,
+      "line": 1843,
+      "speaker": null,
+      "opening": "\"You already decided.\""
+    },
+    {
+      "quote": 165,
+      "line": 1847,
+      "speaker": null,
+      "opening": "\"Yeah. We going. But your nigga taking snacks."
+    }
+  ]
+}

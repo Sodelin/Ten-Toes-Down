@@ -1,0 +1,1850 @@
+[
+  {
+    "id": "001",
+    "speaker": "AIDEN",
+    "text": "Nigga, it’s my motherfucking funeral.",
+    "pause_ms": 250
+  },
+  {
+    "id": "002",
+    "speaker": "AIDEN",
+    "text": "The man taking tickets didn’t look up.",
+    "pause_ms": 120
+  },
+  {
+    "id": "003",
+    "speaker": "TICKET",
+    "text": "Forty dollars.",
+    "pause_ms": 240
+  },
+  {
+    "id": "004",
+    "speaker": "AIDEN",
+    "text": "I’m Aiden. He looked at me. Looked at the six-foot photograph beside the door. Looked back.",
+    "pause_ms": 180
+  },
+  {
+    "id": "005",
+    "speaker": "TICKET",
+    "text": "You look better in the picture.",
+    "pause_ms": 300
+  },
+  {
+    "id": "006",
+    "speaker": "AIDEN",
+    "text": "Nigga, I’m alive.",
+    "pause_ms": 120
+  },
+  {
+    "id": "007",
+    "speaker": "TICKET",
+    "text": "Then you can pay.",
+    "pause_ms": 450
+  },
+  {
+    "id": "008",
+    "speaker": "AIDEN",
+    "text": "Vegas. After the homecoming. I had been back long enough for these niggas to start charging admission to my problems. Somebody had put angel wings on a photograph of me getting arrested. Cropped out the cuffs, left the officer’s hand on my shoulder. Nigga had a police escort into heaven. I called Tank.",
+    "pause_ms": 200
+  },
+  {
+    "id": "009",
+    "speaker": "AIDEN",
+    "text": "Why there a cover charge at my funeral?",
+    "pause_ms": 100
+  },
+  {
+    "id": "010",
+    "speaker": "TANK",
+    "text": "The shrimp was expensive.",
+    "pause_ms": 180
+  },
+  {
+    "id": "011",
+    "speaker": "AIDEN",
+    "text": "Why do I have shrimp?",
+    "pause_ms": 100
+  },
+  {
+    "id": "012",
+    "speaker": "TANK",
+    "text": "You died successful.",
+    "pause_ms": 330
+  },
+  {
+    "id": "013",
+    "speaker": "AIDEN",
+    "text": "I heard chewing. Nigga, are you eating?",
+    "pause_ms": 100
+  },
+  {
+    "id": "014",
+    "speaker": "TANK",
+    "text": "Grieving.",
+    "pause_ms": 500
+  },
+  {
+    "id": "015",
+    "speaker": "AIDEN",
+    "text": "I paid the forty. The nigga stamped DECEASED on my wrist.",
+    "pause_ms": 150
+  },
+  {
+    "id": "016",
+    "speaker": "TICKET",
+    "text": "That gets you one well drink.",
+    "pause_ms": 100
+  },
+  {
+    "id": "017",
+    "speaker": "AIDEN",
+    "text": "One? Nigga, the sign says two-drink minimum.",
+    "pause_ms": 150
+  },
+  {
+    "id": "018",
+    "speaker": "TICKET",
+    "text": "Second one’s your responsibility.",
+    "pause_ms": 350
+  },
+  {
+    "id": "019",
+    "speaker": "AIDEN",
+    "text": "A nigga behind me shook his head.",
+    "pause_ms": 120
+  },
+  {
+    "id": "020",
+    "speaker": "GUEST",
+    "text": "Hold up. Ain’t that the deceased?",
+    "pause_ms": 120
+  },
+  {
+    "id": "021",
+    "speaker": "AIDEN",
+    "text": "Ticket man looked at my stamp.",
+    "pause_ms": 120
+  },
+  {
+    "id": "022",
+    "speaker": "TICKET",
+    "text": "Paid deceased.",
+    "pause_ms": 330
+  },
+  {
+    "id": "023",
+    "speaker": "AIDEN",
+    "text": "The nigga pulled out his phone.",
+    "pause_ms": 100
+  },
+  {
+    "id": "024",
+    "speaker": "GUEST",
+    "text": "Can I get a picture?",
+    "pause_ms": 100
+  },
+  {
+    "id": "025",
+    "speaker": "AIDEN",
+    "text": "Of me alive?",
+    "pause_ms": 100
+  },
+  {
+    "id": "026",
+    "speaker": "GUEST",
+    "text": "People gonna think I knew you personally.",
+    "pause_ms": 120
+  },
+  {
+    "id": "027",
+    "speaker": "AIDEN",
+    "text": "Nigga, you meeting me personally.",
+    "pause_ms": 120
+  },
+  {
+    "id": "028",
+    "speaker": "GUEST",
+    "text": "Yeah, but the funeral picture hit different.",
+    "pause_ms": 350
+  },
+  {
+    "id": "029",
+    "speaker": "AIDEN",
+    "text": "I kept walking.",
+    "pause_ms": 650
+  },
+  {
+    "id": "030",
+    "speaker": "AIDEN",
+    "text": "Shawna found me beside the chocolate fountain, turning my memorial program upside down.",
+    "pause_ms": 150
+  },
+  {
+    "id": "031",
+    "speaker": "AIDEN",
+    "text": "Why this say I’m survived by eleven children?",
+    "pause_ms": 100
+  },
+  {
+    "id": "032",
+    "speaker": "SHAWNA",
+    "text": "Those are sponsors.",
+    "pause_ms": 160
+  },
+  {
+    "id": "033",
+    "speaker": "AIDEN",
+    "text": "Nigga, one of them’s Jeremiah.",
+    "pause_ms": 100
+  },
+  {
+    "id": "034",
+    "speaker": "SHAWNA",
+    "text": "Jeremiah’s Collision Repair.",
+    "pause_ms": 360
+  },
+  {
+    "id": "035",
+    "speaker": "AIDEN",
+    "text": "My wife looked beautiful in black. Slit up one leg, diamond at her throat, hat tilted like she had already forgiven herself. You enjoying widowhood?",
+    "pause_ms": 120
+  },
+  {
+    "id": "036",
+    "speaker": "SHAWNA",
+    "text": "The parking is excellent.",
+    "pause_ms": 350
+  },
+  {
+    "id": "037",
+    "speaker": "AIDEN",
+    "text": "I pulled her close. She put two fingers against my mouth.",
+    "pause_ms": 100
+  },
+  {
+    "id": "038",
+    "speaker": "SHAWNA",
+    "text": "Eight minutes. Kitchen. Stay there until we get the case.",
+    "pause_ms": 180
+  },
+  {
+    "id": "039",
+    "speaker": "AIDEN",
+    "text": "Nigga, I could take it right now.",
+    "pause_ms": 100
+  },
+  {
+    "id": "040",
+    "speaker": "SHAWNA",
+    "text": "And Silas’s men could start shooting into everybody who paid to eat shrimp.",
+    "pause_ms": 160
+  },
+  {
+    "id": "041",
+    "speaker": "AIDEN",
+    "text": "Apparently excellent shrimp.",
+    "pause_ms": 180
+  },
+  {
+    "id": "042",
+    "speaker": "SHAWNA",
+    "text": "Aiden.",
+    "pause_ms": 300
+  },
+  {
+    "id": "043",
+    "speaker": "AIDEN",
+    "text": "I straightened up. Mercedes stood beside the stage in a red suit, thumb pressed into her palm. She’d been doing that all week. Silas Gold had stolen the original recordings of her first album. The nigga had locked the drive in a silver case and invited buyers to bid. She could sing every song again. She couldn’t rebuild the demolished studio, recall every musician to the same night, or make her voice crack exactly where it had in the last chorus. She had left that crack in. Said it sounded like her.",
+    "pause_ms": 450
+  },
+  {
+    "id": "044",
+    "speaker": "AIDEN",
+    "text": "Silas lived behind bulletproof glass and sent other niggas out to be unpleasant. Tell him Aiden was dead, though, and suddenly the motherfucker wanted fresh air. Shawna had promised a private auction after the memorial. My watch, my cars, the collection. Silas would bring the recordings so they could settle everything together. Mercedes would inspect the case backstage. Porsche would switch it. I would stay in the fucking kitchen.",
+    "pause_ms": 420
+  },
+  {
+    "id": "045",
+    "speaker": "AIDEN",
+    "text": "Mercedes caught me looking and came to fix my collar.",
+    "pause_ms": 120
+  },
+  {
+    "id": "046",
+    "speaker": "MERCEDES",
+    "text": "Nigga, don’t do the thing.",
+    "pause_ms": 160
+  },
+  {
+    "id": "047",
+    "speaker": "AIDEN",
+    "text": "Which thing?",
+    "pause_ms": 150
+  },
+  {
+    "id": "048",
+    "speaker": "AIDEN",
+    "text": "She looked around my funeral.",
+    "pause_ms": 100
+  },
+  {
+    "id": "049",
+    "speaker": "MERCEDES",
+    "text": "The thing where this becomes about you.",
+    "pause_ms": 180
+  },
+  {
+    "id": "050",
+    "speaker": "AIDEN",
+    "text": "My photograph is six feet tall.",
+    "pause_ms": 100
+  },
+  {
+    "id": "051",
+    "speaker": "MERCEDES",
+    "text": "Exactly. The nigga has enough publicity.",
+    "pause_ms": 320
+  },
+  {
+    "id": "052",
+    "speaker": "AIDEN",
+    "text": "I stopped smiling. You’ll get your music.",
+    "pause_ms": 150
+  },
+  {
+    "id": "053",
+    "speaker": "MERCEDES",
+    "text": "I know. I want to enjoy getting it.",
+    "pause_ms": 280
+  },
+  {
+    "id": "054",
+    "speaker": "AIDEN",
+    "text": "She squeezed my shoulder and went back to the stage. Shawna kissed me.",
+    "pause_ms": 140
+  },
+  {
+    "id": "055",
+    "speaker": "SHAWNA",
+    "text": "Kitchen.",
+    "pause_ms": 240
+  },
+  {
+    "id": "056",
+    "speaker": "AIDEN",
+    "text": "Nigga, y’all got one word for me tonight. She turned me toward the door.",
+    "pause_ms": 650
+  },
+  {
+    "id": "057",
+    "speaker": "AIDEN",
+    "text": "They had hired a full band. Horns, two keyboards, drummer wearing sunglasses he hadn’t removed for either prayer.",
+    "pause_ms": 180,
+    "source_line": 142
+  },
+  {
+    "id": "058",
+    "speaker": "AIDEN",
+    "text": "Tank took the microphone carrying a plate.",
+    "pause_ms": 180,
+    "source_line": 142
+  },
+  {
+    "id": "059",
+    "speaker": "TANK",
+    "text": "We gathered here because my brother would want these niggas supporting the bar.",
+    "pause_ms": 200,
+    "source_line": 149
+  },
+  {
+    "id": "060",
+    "speaker": "AIDEN",
+    "text": "Glasses went up.",
+    "pause_ms": 180,
+    "source_line": 149
+  },
+  {
+    "id": "061",
+    "speaker": "TANK",
+    "text": "Aiden was generous. Nigga gave me the shirt off his back.",
+    "pause_ms": 200,
+    "source_line": 153
+  },
+  {
+    "id": "062",
+    "speaker": "AIDEN",
+    "text": "I leaned toward the kitchen speaker.",
+    "pause_ms": 180,
+    "source_line": 153
+  },
+  {
+    "id": "063",
+    "speaker": "AIDEN",
+    "text": "Police was looking for a man in a red shirt.",
+    "pause_ms": 180,
+    "source_line": 157
+  },
+  {
+    "id": "064",
+    "speaker": "AIDEN",
+    "text": "The room broke open.",
+    "pause_ms": 180,
+    "source_line": 157
+  },
+  {
+    "id": "065",
+    "speaker": "AIDEN",
+    "text": "I pushed through the kitchen door. Shawna held up one finger without turning around.",
+    "pause_ms": 180,
+    "source_line": 157
+  },
+  {
+    "id": "066",
+    "speaker": "AIDEN",
+    "text": "Back I went.",
+    "pause_ms": 180,
+    "source_line": 157
+  },
+  {
+    "id": "067",
+    "speaker": "TANK",
+    "text": "But my nigga came back,",
+    "pause_ms": 200,
+    "source_line": 165
+  },
+  {
+    "id": "068",
+    "speaker": "AIDEN",
+    "text": "Tank said.",
+    "pause_ms": 180,
+    "source_line": 165
+  },
+  {
+    "id": "069",
+    "speaker": "AIDEN",
+    "text": "The room quieted.",
+    "pause_ms": 180,
+    "source_line": 165
+  },
+  {
+    "id": "070",
+    "speaker": "TANK",
+    "text": "Came to the station. Told them I hadn’t done shit. Paid everything. Waited six hours. Bought me breakfast.",
+    "pause_ms": 200,
+    "source_line": 169
+  },
+  {
+    "id": "071",
+    "speaker": "AIDEN",
+    "text": "My palm rested against the door.",
+    "pause_ms": 180,
+    "source_line": 169
+  },
+  {
+    "id": "072",
+    "speaker": "AIDEN",
+    "text": "Tank sniffed.",
+    "pause_ms": 180,
+    "source_line": 169
+  },
+  {
+    "id": "073",
+    "speaker": "TANK",
+    "text": "Then the nigga asked for his shirt.",
+    "pause_ms": 200,
+    "source_line": 175
+  },
+  {
+    "id": "074",
+    "speaker": "AIDEN",
+    "text": "The drummer caught the laugh with a roll. I had to smile. Nigga knew when to hit.",
+    "pause_ms": 180,
+    "source_line": 175
+  },
+  {
+    "id": "075",
+    "speaker": "AIDEN",
+    "text": "Then somebody booed.",
+    "pause_ms": 180,
+    "source_line": 175
+  },
+  {
+    "id": "076",
+    "speaker": "AIDEN",
+    "text": "Silas Gold entered in a white fur coat. Four men followed him. Smallest nigga carried the silver case. Biggest had a neck wider than my thigh and an expression like somebody assembled him without the last page.",
+    "pause_ms": 180,
+    "source_line": 175
+  },
+  {
+    "id": "077",
+    "speaker": "AIDEN",
+    "text": "Silas raised a bottle.",
+    "pause_ms": 180,
+    "source_line": 175
+  },
+  {
+    "id": "078",
+    "speaker": "SILAS",
+    "text": "Miss the good part?",
+    "pause_ms": 200,
+    "source_line": 185
+  },
+  {
+    "id": "079",
+    "speaker": "AIDEN",
+    "text": "Tank looked at the closed coffin.",
+    "pause_ms": 180,
+    "source_line": 185
+  },
+  {
+    "id": "080",
+    "speaker": "TANK",
+    "text": "Depends how this speech goes.",
+    "pause_ms": 200,
+    "source_line": 189
+  },
+  {
+    "id": "081",
+    "speaker": "AIDEN",
+    "text": "Silas laughed. His niggas joined a second late.",
+    "pause_ms": 180,
+    "source_line": 189
+  },
+  {
+    "id": "082",
+    "speaker": "AIDEN",
+    "text": "Shawna offered her hand. He bent to kiss it. She moved it just enough that his mouth met his own thumb.",
+    "pause_ms": 180,
+    "source_line": 189
+  },
+  {
+    "id": "083",
+    "speaker": "SHAWNA",
+    "text": "The recordings.",
+    "pause_ms": 200,
+    "source_line": 195
+  },
+  {
+    "id": "084",
+    "speaker": "SILAS",
+    "text": "After my tribute.",
+    "pause_ms": 200,
+    "source_line": 197
+  },
+  {
+    "id": "085",
+    "speaker": "SHAWNA",
+    "text": "Mercedes inspects them first. We agreed.",
+    "pause_ms": 200,
+    "source_line": 199
+  },
+  {
+    "id": "086",
+    "speaker": "SILAS",
+    "text": "Darling, look at the crowd. Can’t buy timing.",
+    "pause_ms": 200,
+    "source_line": 201
+  },
+  {
+    "id": "087",
+    "speaker": "AIDEN",
+    "text": "He took the microphone from Tank and balanced his bottle on my coffin.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "088",
+    "speaker": "AIDEN",
+    "text": "Tank handed it back.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "089",
+    "speaker": "AIDEN",
+    "text": "Silas put it down.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "090",
+    "speaker": "AIDEN",
+    "text": "Tank handed it back.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "091",
+    "speaker": "AIDEN",
+    "text": "The drummer gave them a little tick, tick, tick.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "092",
+    "speaker": "AIDEN",
+    "text": "Silas stopped smiling.",
+    "pause_ms": 180,
+    "source_line": 201
+  },
+  {
+    "id": "093",
+    "speaker": "SILAS",
+    "text": "You got somewhere to be?",
+    "pause_ms": 200,
+    "source_line": 215
+  },
+  {
+    "id": "094",
+    "speaker": "TANK",
+    "text": "Nigga, eventually.",
+    "pause_ms": 200,
+    "source_line": 217
+  },
+  {
+    "id": "095",
+    "speaker": "AIDEN",
+    "text": "Silas faced the crowd.",
+    "pause_ms": 180,
+    "source_line": 217
+  },
+  {
+    "id": "096",
+    "speaker": "SILAS",
+    "text": "Aiden and I had differences.",
+    "pause_ms": 200,
+    "source_line": 221
+  },
+  {
+    "id": "097",
+    "speaker": "AIDEN",
+    "text": "From the kitchen I mouthed, Nigga, you stole my boat.",
+    "pause_ms": 180,
+    "source_line": 221
+  },
+  {
+    "id": "098",
+    "speaker": "SILAS",
+    "text": "But he was a man of appetite.",
+    "pause_ms": 200,
+    "source_line": 225
+  },
+  {
+    "id": "099",
+    "speaker": "AIDEN",
+    "text": "He looked at Shawna.",
+    "pause_ms": 180,
+    "source_line": 225
+  },
+  {
+    "id": "100",
+    "speaker": "SILAS",
+    "text": "Appetite leaves things unfinished. People unprovided for. I would never presume—",
+    "pause_ms": 200,
+    "source_line": 229
+  },
+  {
+    "id": "101",
+    "speaker": "SHAWNA",
+    "text": "Then don’t.",
+    "pause_ms": 200,
+    "source_line": 231
+  },
+  {
+    "id": "102",
+    "speaker": "AIDEN",
+    "text": "A woman slapped her table.",
+    "pause_ms": 180,
+    "source_line": 231
+  },
+  {
+    "id": "103",
+    "speaker": "GUEST_TABLE_WOMAN",
+    "text": "That nigga got instructions!",
+    "pause_ms": 200,
+    "source_line": 235
+  },
+  {
+    "id": "104",
+    "speaker": "AIDEN",
+    "text": "Silas waited out the laughter with his teeth showing.",
+    "pause_ms": 180,
+    "source_line": 235
+  },
+  {
+    "id": "105",
+    "speaker": "SILAS",
+    "text": "Mercedes. Up here.",
+    "pause_ms": 200,
+    "source_line": 239
+  },
+  {
+    "id": "106",
+    "speaker": "AIDEN",
+    "text": "She didn’t move.",
+    "pause_ms": 180,
+    "source_line": 239
+  },
+  {
+    "id": "107",
+    "speaker": "AIDEN",
+    "text": "The case opened. Silas put his bottle on the coffin and took out the hard drive.",
+    "pause_ms": 180,
+    "source_line": 239
+  },
+  {
+    "id": "108",
+    "speaker": "SILAS",
+    "text": "Perhaps our little lady could sing a tribute. And apologize for some things she’s said about me.",
+    "pause_ms": 200,
+    "source_line": 245
+  },
+  {
+    "id": "109",
+    "speaker": "AIDEN",
+    "text": "Mercedes walked toward the steps.",
+    "pause_ms": 180,
+    "source_line": 245
+  },
+  {
+    "id": "110",
+    "speaker": "MERCEDES",
+    "text": "You promised an inspection.",
+    "pause_ms": 200,
+    "source_line": 249
+  },
+  {
+    "id": "111",
+    "speaker": "SILAS",
+    "text": "Sing first.",
+    "pause_ms": 200,
+    "source_line": 251
+  },
+  {
+    "id": "112",
+    "speaker": "AIDEN",
+    "text": "The biggest nigga blocked the backstage doorway. Porsche stood behind him with the duplicate case.",
+    "pause_ms": 180,
+    "source_line": 251
+  },
+  {
+    "id": "113",
+    "speaker": "AIDEN",
+    "text": "Silas offered Mercedes the microphone. Pulled it back.",
+    "pause_ms": 180,
+    "source_line": 251
+  },
+  {
+    "id": "114",
+    "speaker": "SILAS",
+    "text": "Ask nicely.",
+    "pause_ms": 200,
+    "source_line": 257
+  },
+  {
+    "id": "115",
+    "speaker": "AIDEN",
+    "text": "I took off my jacket.",
+    "pause_ms": 180,
+    "source_line": 257
+  },
+  {
+    "id": "116",
+    "speaker": "AIDEN",
+    "text": "The cook looked up from his potatoes.",
+    "pause_ms": 180,
+    "source_line": 257
+  },
+  {
+    "id": "117",
+    "speaker": "COOK",
+    "text": "Nigga, you want me to hold that?",
+    "pause_ms": 200,
+    "source_line": 263
+  },
+  {
+    "id": "118",
+    "speaker": "AIDEN",
+    "text": "Please.",
+    "pause_ms": 180,
+    "source_line": 265
+  },
+  {
+    "id": "119",
+    "speaker": "COOK",
+    "text": "You coming back?",
+    "pause_ms": 200,
+    "source_line": 267
+  },
+  {
+    "id": "120",
+    "speaker": "AIDEN",
+    "text": "I looked through the round window.",
+    "pause_ms": 180,
+    "source_line": 267
+  },
+  {
+    "id": "121",
+    "speaker": "AIDEN",
+    "text": "Apparently I do.",
+    "pause_ms": 650,
+    "source_line": 271
+  },
+  {
+    "id": "122",
+    "speaker": "AIDEN",
+    "text": "I walked out carrying shrimp.",
+    "pause_ms": 180,
+    "source_line": 271
+  },
+  {
+    "id": "123",
+    "speaker": "AIDEN",
+    "text": "Shawna saw my hands, looked at the stage, and shifted her chair clear of the aisle.",
+    "pause_ms": 180,
+    "source_line": 271
+  },
+  {
+    "id": "124",
+    "speaker": "AIDEN",
+    "text": "Tank set down his plate.",
+    "pause_ms": 180,
+    "source_line": 271
+  },
+  {
+    "id": "125",
+    "speaker": "AIDEN",
+    "text": "A woman near the aisle looked from me to the coffin.",
+    "pause_ms": 180,
+    "source_line": 271
+  },
+  {
+    "id": "126",
+    "speaker": "GUEST_AISLE_WOMAN",
+    "text": "Lord.",
+    "pause_ms": 200,
+    "source_line": 283
+  },
+  {
+    "id": "127",
+    "speaker": "AIDEN",
+    "text": "The nigga beside her crossed himself.",
+    "pause_ms": 180,
+    "source_line": 283
+  },
+  {
+    "id": "128",
+    "speaker": "GUEST_AISLE_WOMAN",
+    "text": "Don't do that,",
+    "pause_ms": 200,
+    "source_line": 287
+  },
+  {
+    "id": "129",
+    "speaker": "AIDEN",
+    "text": "she whispered.",
+    "pause_ms": 180,
+    "source_line": 287
+  },
+  {
+    "id": "130",
+    "speaker": "GUEST_AISLE_WOMAN",
+    "text": "He got shrimp.",
+    "pause_ms": 200,
+    "source_line": 287
+  },
+  {
+    "id": "131",
+    "speaker": "GUEST_AISLE_MAN",
+    "text": "Could still be spiritual.",
+    "pause_ms": 200,
+    "source_line": 289
+  },
+  {
+    "id": "132",
+    "speaker": "AIDEN",
+    "text": "Nigga, move your chair.",
+    "pause_ms": 180,
+    "source_line": 291
+  },
+  {
+    "id": "133",
+    "speaker": "AIDEN",
+    "text": "They moved. I passed between them without losing a shrimp.",
+    "pause_ms": 180,
+    "source_line": 291
+  },
+  {
+    "id": "134",
+    "speaker": "AIDEN",
+    "text": "From the stage, the drummer lifted one stick and watched me approach.",
+    "pause_ms": 180,
+    "source_line": 291
+  },
+  {
+    "id": "135",
+    "speaker": "AIDEN",
+    "text": "I stopped beside the smallest nigga.",
+    "pause_ms": 180,
+    "source_line": 291
+  },
+  {
+    "id": "136",
+    "speaker": "AIDEN",
+    "text": "Shrimp?",
+    "pause_ms": 180,
+    "source_line": 299
+  },
+  {
+    "id": "137",
+    "speaker": "AIDEN",
+    "text": "He took one.",
+    "pause_ms": 180,
+    "source_line": 299
+  },
+  {
+    "id": "138",
+    "speaker": "AIDEN",
+    "text": "Sauce?",
+    "pause_ms": 180,
+    "source_line": 303
+  },
+  {
+    "id": "139",
+    "speaker": "AIDEN",
+    "text": "He nodded.",
+    "pause_ms": 180,
+    "source_line": 303
+  },
+  {
+    "id": "140",
+    "speaker": "AIDEN",
+    "text": "Help yourself, my nigga.",
+    "pause_ms": 180,
+    "source_line": 307
+  },
+  {
+    "id": "141",
+    "speaker": "AIDEN",
+    "text": "Silas heard me. Turned so fast the fur collar slapped his mouth.",
+    "pause_ms": 180,
+    "source_line": 307
+  },
+  {
+    "id": "142",
+    "speaker": "AIDEN",
+    "text": "He stared.",
+    "pause_ms": 180,
+    "source_line": 307
+  },
+  {
+    "id": "143",
+    "speaker": "AIDEN",
+    "text": "Forty dollars. Worth it.",
+    "pause_ms": 180,
+    "source_line": 307
+  },
+  {
+    "id": "144",
+    "speaker": "SILAS",
+    "text": "You—",
+    "pause_ms": 200,
+    "source_line": 315
+  },
+  {
+    "id": "145",
+    "speaker": "AIDEN",
+    "text": "Nigga, it’s my motherfucking funeral.",
+    "pause_ms": 180,
+    "source_line": 317
+  },
+  {
+    "id": "146",
+    "speaker": "AIDEN",
+    "text": "He shoved the microphone into its stand and reached inside his coat.",
+    "pause_ms": 180,
+    "source_line": 317
+  },
+  {
+    "id": "147",
+    "speaker": "AIDEN",
+    "text": "I drove the tray under his wrist. The pistol fired through the ceiling, flew from his hand, and skidded under the piano. Plaster burst over the stage. The trumpet player ducked. Tank tackled two guests behind a table without spilling his drink.",
+    "pause_ms": 180,
+    "source_line": 317
+  },
+  {
+    "id": "148",
+    "speaker": "AIDEN",
+    "text": "I caught Silas by the coat.",
+    "pause_ms": 180,
+    "source_line": 317
+  },
+  {
+    "id": "149",
+    "speaker": "AIDEN",
+    "text": "Nigga, everybody else brought flowers!",
+    "pause_ms": 180,
+    "source_line": 325
+  },
+  {
+    "id": "150",
+    "speaker": "AIDEN",
+    "text": "He grabbed his bottle from the coffin and swung. Glass broke against my shoulder. Pain ran down my arm.",
+    "pause_ms": 180,
+    "source_line": 325
+  },
+  {
+    "id": "151",
+    "speaker": "SILAS",
+    "text": "Motherfucker.",
+    "pause_ms": 200,
+    "source_line": 329
+  },
+  {
+    "id": "152",
+    "speaker": "AIDEN",
+    "text": "I hit him with the tray.",
+    "pause_ms": 180,
+    "source_line": 329
+  },
+  {
+    "id": "153",
+    "speaker": "AIDEN",
+    "text": "The drive flew from his other hand. Mercedes caught it against her chest.",
+    "pause_ms": 180,
+    "source_line": 329
+  },
+  {
+    "id": "154",
+    "speaker": "MERCEDES",
+    "text": "Got it!",
+    "pause_ms": 200,
+    "source_line": 335
+  },
+  {
+    "id": "155",
+    "speaker": "AIDEN",
+    "text": "The biggest nigga lunged. Porsche hooked his ankle with the duplicate case. He stumbled down the steps into the chair Shawna had picked up.",
+    "pause_ms": 180,
+    "source_line": 335
+  },
+  {
+    "id": "156",
+    "speaker": "AIDEN",
+    "text": "The chair lost.",
+    "pause_ms": 180,
+    "source_line": 335
+  },
+  {
+    "id": "157",
+    "speaker": "AIDEN",
+    "text": "So did his teeth.",
+    "pause_ms": 180,
+    "source_line": 335
+  },
+  {
+    "id": "158",
+    "speaker": "AIDEN",
+    "text": "He sat carefully among the pieces.",
+    "pause_ms": 180,
+    "source_line": 335
+  },
+  {
+    "id": "159",
+    "speaker": "SHAWNA",
+    "text": "Stay,",
+    "pause_ms": 200,
+    "source_line": 345
+  },
+  {
+    "id": "160",
+    "speaker": "AIDEN",
+    "text": "my wife said.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "161",
+    "speaker": "AIDEN",
+    "text": "Nigga stayed.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "162",
+    "speaker": "AIDEN",
+    "text": "Mercedes tucked the drive inside her jacket. Behind me, another man drew a gun. I saw him in the mirrored wall and ducked as she threw the microphone stand over my head with both hands.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "163",
+    "speaker": "AIDEN",
+    "text": "It hit the nigga across the chest and carried him into the drum kit.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "164",
+    "speaker": "AIDEN",
+    "text": "The crash filled the room.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "165",
+    "speaker": "AIDEN",
+    "text": "The drummer stood. Looked at his broken cymbal. Looked at the man under it.",
+    "pause_ms": 180,
+    "source_line": 345
+  },
+  {
+    "id": "166",
+    "speaker": "DRUMMER",
+    "text": "Nigga, that’s vintage.",
+    "pause_ms": 200,
+    "source_line": 357
+  },
+  {
+    "id": "167",
+    "speaker": "AIDEN",
+    "text": "Then he hit him with the stool.",
+    "pause_ms": 180,
+    "source_line": 357
+  },
+  {
+    "id": "168",
+    "speaker": "AIDEN",
+    "text": "Silas wriggled free of his coat. Ran for the steps. Tank caught him around the waist, flung open the coffin with his free hand, and tipped him inside.",
+    "pause_ms": 180,
+    "source_line": 357
+  },
+  {
+    "id": "169",
+    "speaker": "AIDEN",
+    "text": "The coffin rocked. Lid banged shut.",
+    "pause_ms": 180,
+    "source_line": 357
+  },
+  {
+    "id": "170",
+    "speaker": "AIDEN",
+    "text": "Something squealed.",
+    "pause_ms": 180,
+    "source_line": 357
+  },
+  {
+    "id": "171",
+    "speaker": "AIDEN",
+    "text": "Tank froze.",
+    "pause_ms": 180,
+    "source_line": 357
+  },
+  {
+    "id": "172",
+    "speaker": "TANK",
+    "text": "Shit.",
+    "pause_ms": 200,
+    "source_line": 369
+  },
+  {
+    "id": "173",
+    "speaker": "AIDEN",
+    "text": "The lid flew up.",
+    "pause_ms": 180,
+    "source_line": 369
+  },
+  {
+    "id": "174",
+    "speaker": "AIDEN",
+    "text": "A little man in a gold tracksuit sat upright underneath Silas, wearing my spare sunglasses and looking ready to fight the entire funeral.",
+    "pause_ms": 180,
+    "source_line": 369
+  },
+  {
+    "id": "175",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "NIGGA, I TOLD YOU NINE-FIFTEEN!",
+    "pause_ms": 200,
+    "source_line": 375
+  },
+  {
+    "id": "176",
+    "speaker": "AIDEN",
+    "text": "I stared at Tank.",
+    "pause_ms": 180,
+    "source_line": 375
+  },
+  {
+    "id": "177",
+    "speaker": "AIDEN",
+    "text": "Tank stared at his shoes.",
+    "pause_ms": 180,
+    "source_line": 375
+  },
+  {
+    "id": "178",
+    "speaker": "AIDEN",
+    "text": "You hired a corpse?",
+    "pause_ms": 180,
+    "source_line": 381
+  },
+  {
+    "id": "179",
+    "speaker": "TANK",
+    "text": "Resurrection package.",
+    "pause_ms": 200,
+    "source_line": 383
+  },
+  {
+    "id": "180",
+    "speaker": "AIDEN",
+    "text": "Nigga.",
+    "pause_ms": 180,
+    "source_line": 385
+  },
+  {
+    "id": "181",
+    "speaker": "TANK",
+    "text": "It included the dance.",
+    "pause_ms": 200,
+    "source_line": 387
+  },
+  {
+    "id": "182",
+    "speaker": "AIDEN",
+    "text": "The little man pointed at Tank.",
+    "pause_ms": 180,
+    "source_line": 387
+  },
+  {
+    "id": "183",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "And fog.",
+    "pause_ms": 200,
+    "source_line": 391
+  },
+  {
+    "id": "184",
+    "speaker": "AIDEN",
+    "text": "Tank pointed at the dust hanging over the stage.",
+    "pause_ms": 180,
+    "source_line": 391
+  },
+  {
+    "id": "185",
+    "speaker": "TANK",
+    "text": "Nigga, we got atmosphere.",
+    "pause_ms": 200,
+    "source_line": 395
+  },
+  {
+    "id": "186",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "That’s ceiling.",
+    "pause_ms": 200,
+    "source_line": 397
+  },
+  {
+    "id": "187",
+    "speaker": "TANK",
+    "text": "Nigga, work with the venue.",
+    "pause_ms": 200,
+    "source_line": 399
+  },
+  {
+    "id": "188",
+    "speaker": "AIDEN",
+    "text": "The little man climbed over Silas’s stomach and straightened his tracksuit.",
+    "pause_ms": 180,
+    "source_line": 399
+  },
+  {
+    "id": "189",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "I do the surprise. I do the dance. I leave. Ain’t no nigga mentioned wrestling.",
+    "pause_ms": 200,
+    "source_line": 403
+  },
+  {
+    "id": "190",
+    "speaker": "AIDEN",
+    "text": "Silas’s fourth man backed toward the exit. Tank pointed at him without looking away from me.",
+    "pause_ms": 180,
+    "source_line": 403
+  },
+  {
+    "id": "191",
+    "speaker": "TANK",
+    "text": "Sit your ass down. The nigga hasn’t danced.",
+    "pause_ms": 200,
+    "source_line": 407
+  },
+  {
+    "id": "192",
+    "speaker": "AIDEN",
+    "text": "He sat.",
+    "pause_ms": 180,
+    "source_line": 407
+  },
+  {
+    "id": "193",
+    "speaker": "AIDEN",
+    "text": "The smallest man still held the empty case and a shrimp tail. He lowered the case very slowly.",
+    "pause_ms": 180,
+    "source_line": 407
+  },
+  {
+    "id": "194",
+    "speaker": "SILAS_SMALL_MAN",
+    "text": "I’m with catering.",
+    "pause_ms": 200,
+    "source_line": 413
+  },
+  {
+    "id": "195",
+    "speaker": "AIDEN",
+    "text": "From the kitchen:",
+    "pause_ms": 180,
+    "source_line": 413
+  },
+  {
+    "id": "196",
+    "speaker": "COOK",
+    "text": "No the fuck you are not.",
+    "pause_ms": 650,
+    "source_line": 415
+  },
+  {
+    "id": "197",
+    "speaker": "AIDEN",
+    "text": "Seven minutes to collect the guns, tie up Silas’s men, and convince everybody the bar remained open.",
+    "pause_ms": 180,
+    "source_line": 415
+  },
+  {
+    "id": "198",
+    "speaker": "AIDEN",
+    "text": "Silas kept trying to sit up in the coffin. The little man eased him down with a sneaker against his forehead.",
+    "pause_ms": 180,
+    "source_line": 415
+  },
+  {
+    "id": "199",
+    "speaker": "SILAS",
+    "text": "Stop touching my face.",
+    "pause_ms": 200,
+    "source_line": 423
+  },
+  {
+    "id": "200",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "Stop being in my office, nigga.",
+    "pause_ms": 200,
+    "source_line": 425
+  },
+  {
+    "id": "201",
+    "speaker": "AIDEN",
+    "text": "At the sound desk, Mercedes took the drive from her jacket and plugged it in. Files appeared. She chose one, listened through the headphones, and closed her eyes.",
+    "pause_ms": 180,
+    "source_line": 425
+  },
+  {
+    "id": "202",
+    "speaker": "AIDEN",
+    "text": "Porsche took her hand beneath the table.",
+    "pause_ms": 180,
+    "source_line": 425
+  },
+  {
+    "id": "203",
+    "speaker": "AIDEN",
+    "text": "I moved closer. Shawna caught my belt and pulled me back.",
+    "pause_ms": 180,
+    "source_line": 425
+  },
+  {
+    "id": "204",
+    "speaker": "AIDEN",
+    "text": "We waited.",
+    "pause_ms": 180,
+    "source_line": 425
+  },
+  {
+    "id": "205",
+    "speaker": "AIDEN",
+    "text": "Mercedes removed the headphones and wiped under one eye.",
+    "pause_ms": 180,
+    "source_line": 425
+  },
+  {
+    "id": "206",
+    "speaker": "MERCEDES",
+    "text": "All here.",
+    "pause_ms": 200,
+    "source_line": 437
+  },
+  {
+    "id": "207",
+    "speaker": "AIDEN",
+    "text": "Tank breathed out.",
+    "pause_ms": 180,
+    "source_line": 437
+  },
+  {
+    "id": "208",
+    "speaker": "TANK",
+    "text": "Then play one, my nigga.",
+    "pause_ms": 200,
+    "source_line": 441
+  },
+  {
+    "id": "209",
+    "speaker": "AIDEN",
+    "text": "She looked around. Overturned flowers. Two men bleeding into memorial napkins. My giant face leaning crookedly against the wall.",
+    "pause_ms": 180,
+    "source_line": 441
+  },
+  {
+    "id": "210",
+    "speaker": "AIDEN",
+    "text": "Then she went to the stage.",
+    "pause_ms": 180,
+    "source_line": 441
+  },
+  {
+    "id": "211",
+    "speaker": "AIDEN",
+    "text": "The drummer was fitting a spare cymbal.",
+    "pause_ms": 180,
+    "source_line": 441
+  },
+  {
+    "id": "212",
+    "speaker": "MERCEDES",
+    "text": "You good?",
+    "pause_ms": 200,
+    "source_line": 449
+  },
+  {
+    "id": "213",
+    "speaker": "DRUMMER",
+    "text": "You doing something slow?",
+    "pause_ms": 200,
+    "source_line": 451
+  },
+  {
+    "id": "214",
+    "speaker": "MERCEDES",
+    "text": "No.",
+    "pause_ms": 200,
+    "source_line": 453
+  },
+  {
+    "id": "215",
+    "speaker": "AIDEN",
+    "text": "He sat.",
+    "pause_ms": 180,
+    "source_line": 453
+  },
+  {
+    "id": "216",
+    "speaker": "DRUMMER",
+    "text": "Then yeah.",
+    "pause_ms": 200,
+    "source_line": 457
+  },
+  {
+    "id": "217",
+    "speaker": "AIDEN",
+    "text": "She gave the sound man a track number. A hiss came through the speakers, then saxophone, warm and rough. The band found its rhythm.",
+    "pause_ms": 180,
+    "source_line": 457
+  },
+  {
+    "id": "218",
+    "speaker": "AIDEN",
+    "text": "Mercedes pointed at my portrait.",
+    "pause_ms": 180,
+    "source_line": 457
+  },
+  {
+    "id": "219",
+    "speaker": "MERCEDES",
+    "text": "Turn that nigga around. I need the room.",
+    "pause_ms": 200,
+    "source_line": 463
+  },
+  {
+    "id": "220",
+    "speaker": "AIDEN",
+    "text": "I turned it myself.",
+    "pause_ms": 180,
+    "source_line": 463
+  },
+  {
+    "id": "221",
+    "speaker": "AIDEN",
+    "text": "She sang low at first, almost speaking. Bass came underneath. She planted a heel against the monitor and let the next line climb. By the chorus, people stood between fallen chairs finding somebody to dance with.",
+    "pause_ms": 180,
+    "source_line": 463
+  },
+  {
+    "id": "222",
+    "speaker": "AIDEN",
+    "text": "The little man shut the coffin and started dancing on it.",
+    "pause_ms": 180,
+    "source_line": 463
+  },
+  {
+    "id": "223",
+    "speaker": "SILAS",
+    "text": "Get off!",
+    "pause_ms": 200,
+    "source_line": 471
+  },
+  {
+    "id": "224",
+    "speaker": "AIDEN",
+    "text": "Silas shouted.",
+    "pause_ms": 180,
+    "source_line": 471
+  },
+  {
+    "id": "225",
+    "speaker": "CORPSE_PERFORMER",
+    "text": "Nine-fifteen, bitch!",
+    "pause_ms": 200,
+    "source_line": 473
+  },
+  {
+    "id": "226",
+    "speaker": "AIDEN",
+    "text": "Tank raised both hands.",
+    "pause_ms": 180,
+    "source_line": 473
+  },
+  {
+    "id": "227",
+    "speaker": "TANK",
+    "text": "That nigga earned his deposit!",
+    "pause_ms": 200,
+    "source_line": 477
+  },
+  {
+    "id": "228",
+    "speaker": "AIDEN",
+    "text": "Porsche laughed with her face turned up. The cook came out with my jacket over his shoulder and a tray in his hands. A woman took the tray, put it on a table, and pulled him onto the floor.",
+    "pause_ms": 180,
+    "source_line": 477
+  },
+  {
+    "id": "229",
+    "speaker": "COOK",
+    "text": "Nigga, I’m working.",
+    "pause_ms": 200,
+    "source_line": 481
+  },
+  {
+    "id": "230",
+    "speaker": "GUEST_DANCE_WOMAN",
+    "text": "Not anymore.",
+    "pause_ms": 200,
+    "source_line": 483
+  },
+  {
+    "id": "231",
+    "speaker": "AIDEN",
+    "text": "Shawna slipped her fingers into mine.",
+    "pause_ms": 180,
+    "source_line": 483
+  },
+  {
+    "id": "232",
+    "speaker": "SHAWNA",
+    "text": "You’re bleeding.",
+    "pause_ms": 200,
+    "source_line": 487
+  },
+  {
+    "id": "233",
+    "speaker": "AIDEN",
+    "text": "Little bit.",
+    "pause_ms": 180,
+    "source_line": 489
+  },
+  {
+    "id": "234",
+    "speaker": "AIDEN",
+    "text": "She touched my sleeve. I winced.",
+    "pause_ms": 180,
+    "source_line": 489
+  },
+  {
+    "id": "235",
+    "speaker": "SHAWNA",
+    "text": "We’ll get it looked at.",
+    "pause_ms": 200,
+    "source_line": 493
+  },
+  {
+    "id": "236",
+    "speaker": "AIDEN",
+    "text": "After the song.",
+    "pause_ms": 180,
+    "source_line": 495
+  },
+  {
+    "id": "237",
+    "speaker": "AIDEN",
+    "text": "She stayed against my good side.",
+    "pause_ms": 180,
+    "source_line": 495
+  },
+  {
+    "id": "238",
+    "speaker": "AIDEN",
+    "text": "The last chorus came. Mercedes’s younger voice caught for half a breath through the speakers. Onstage, she sang alongside it, smiling. Porsche stopped laughing to listen.",
+    "pause_ms": 180,
+    "source_line": 495
+  },
+  {
+    "id": "239",
+    "speaker": "AIDEN",
+    "text": "Shawna leaned to my ear.",
+    "pause_ms": 180,
+    "source_line": 495
+  },
+  {
+    "id": "240",
+    "speaker": "SHAWNA",
+    "text": "Eleven sponsors is a lot of mouths to feed.",
+    "pause_ms": 200,
+    "source_line": 503
+  },
+  {
+    "id": "241",
+    "speaker": "AIDEN",
+    "text": "I laughed and hurt my shoulder again.",
+    "pause_ms": 180,
+    "source_line": 503
+  },
+  {
+    "id": "242",
+    "speaker": "AIDEN",
+    "text": "The ticket man opened the door for another group.",
+    "pause_ms": 180,
+    "source_line": 503
+  },
+  {
+    "id": "243",
+    "speaker": "TICKET",
+    "text": "Sixty dollars.",
+    "pause_ms": 200,
+    "source_line": 509
+  },
+  {
+    "id": "244",
+    "speaker": "AIDEN",
+    "text": "I pointed.",
+    "pause_ms": 180,
+    "source_line": 509
+  },
+  {
+    "id": "245",
+    "speaker": "AIDEN",
+    "text": "Nigga, it was forty!",
+    "pause_ms": 180,
+    "source_line": 513
+  },
+  {
+    "id": "246",
+    "speaker": "AIDEN",
+    "text": "He nodded toward Mercedes, the man dancing on the coffin, and me.",
+    "pause_ms": 180,
+    "source_line": 513
+  },
+  {
+    "id": "247",
+    "speaker": "TICKET",
+    "text": "Live show now.",
+    "pause_ms": 650,
+    "source_line": 517
+  },
+  {
+    "id": "248",
+    "speaker": "AIDEN",
+    "text": "By the time the police took Silas away, the band had demanded overtime and Tank was negotiating for the leftover shrimp.",
+    "pause_ms": 180,
+    "source_line": 517
+  },
+  {
+    "id": "249",
+    "speaker": "AIDEN",
+    "text": "The young sound technician came over with two clean glasses. Twenty-three, little beard, still looking between Shawna and my DECEASED wrist stamp.",
+    "pause_ms": 180,
+    "source_line": 517
+  },
+  {
+    "id": "250",
+    "speaker": "SOUND_TECH",
+    "text": "Can I ask something?",
+    "pause_ms": 200,
+    "source_line": 525
+  },
+  {
+    "id": "251",
+    "speaker": "AIDEN",
+    "text": "Nigga, apparently you can charge for it.",
+    "pause_ms": 180,
+    "source_line": 527
+  },
+  {
+    "id": "252",
+    "speaker": "SOUND_TECH",
+    "text": "How’d you two meet?",
+    "pause_ms": 200,
+    "source_line": 529
+  },
+  {
+    "id": "253",
+    "speaker": "AIDEN",
+    "text": "My wife laughed before I opened my mouth.",
+    "pause_ms": 180,
+    "source_line": 529
+  },
+  {
+    "id": "254",
+    "speaker": "SHAWNA",
+    "text": "Let me tell it,",
+    "pause_ms": 200,
+    "source_line": 533
+  },
+  {
+    "id": "255",
+    "speaker": "AIDEN",
+    "text": "she said.",
+    "pause_ms": 180,
+    "source_line": 533
+  },
+  {
+    "id": "256",
+    "speaker": "AIDEN",
+    "text": "Baby, I was there.",
+    "pause_ms": 180,
+    "source_line": 535
+  },
+  {
+    "id": "257",
+    "speaker": "SHAWNA",
+    "text": "So was I. One of us remembers who saved whom.",
+    "pause_ms": 200,
+    "source_line": 537
+  },
+  {
+    "id": "258",
+    "speaker": "AIDEN",
+    "text": "The technician pulled up a chair.",
+    "pause_ms": 180,
+    "source_line": 537
+  },
+  {
+    "id": "259",
+    "speaker": "TANK",
+    "text": "Somebody get this nigga a plate,",
+    "pause_ms": 200,
+    "source_line": 541
+  },
+  {
+    "id": "260",
+    "speaker": "AIDEN",
+    "text": "Tank called.",
+    "pause_ms": 180,
+    "source_line": 541
+  },
+  {
+    "id": "261",
+    "speaker": "SOUND_TECH",
+    "text": "I'm on the clock.",
+    "pause_ms": 200,
+    "source_line": 543
+  },
+  {
+    "id": "262",
+    "speaker": "TANK",
+    "text": "So am I. I organized a death.",
+    "pause_ms": 200,
+    "source_line": 545
+  },
+  {
+    "id": "263",
+    "speaker": "AIDEN",
+    "text": "Mercedes passed the young man a napkin. Porsche moved the bottle closer. He loosened the headphones around his neck and sat.",
+    "pause_ms": 180,
+    "source_line": 545
+  },
+  {
+    "id": "264",
+    "speaker": "AIDEN",
+    "text": "Tank dragged over another chair. Shawna sat against my good side and took one of the glasses.",
+    "pause_ms": 180,
+    "source_line": 545
+  },
+  {
+    "id": "265",
+    "speaker": "AIDEN",
+    "text": "I looked at the nigga who had asked.",
+    "pause_ms": 180,
+    "source_line": 545
+  },
+  {
+    "id": "266",
+    "speaker": "AIDEN",
+    "text": "First night in Vegas. You want the whole thing?",
+    "pause_ms": 180,
+    "source_line": 553
+  },
+  {
+    "id": "267",
+    "speaker": "AIDEN",
+    "text": "He nodded.",
+    "pause_ms": 180,
+    "source_line": 553
+  },
+  {
+    "id": "268",
+    "speaker": "AIDEN",
+    "text": "Shawna settled in.",
+    "pause_ms": 180,
+    "source_line": 553
+  },
+  {
+    "id": "269",
+    "speaker": "SHAWNA",
+    "text": "Start before you became reasonable.",
+    "pause_ms": 200,
+    "source_line": 559
+  },
+  {
+    "id": "270",
+    "speaker": "AIDEN",
+    "text": "Nigga, we still waiting on that chapter.",
+    "pause_ms": 180,
+    "source_line": 561
+  },
+  {
+    "id": "271",
+    "speaker": "AIDEN",
+    "text": "Tank laughed into his shrimp.",
+    "pause_ms": 180,
+    "source_line": 561
+  },
+  {
+    "id": "272",
+    "speaker": "AIDEN",
+    "text": "I took a drink. Back then, before any of these niggas knew what we'd become, the bass was shaking a different wall. Big T had his hand on my shoulder, and twelve men waited beside the cars.",
+    "pause_ms": 800,
+    "source_line": 561
+  }
+]

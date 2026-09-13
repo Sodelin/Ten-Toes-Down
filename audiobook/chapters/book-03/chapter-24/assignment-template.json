@@ -1,0 +1,577 @@
+{
+  "chapter_id": "b03-c24",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 95,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 9241,
+      "speaker": null,
+      "opening": "“Captain Aiden. An exceptional acquisition.”"
+    },
+    {
+      "quote": 2,
+      "line": 9243,
+      "speaker": null,
+      "opening": "“Nigga, it's breakfast.”"
+    },
+    {
+      "quote": 3,
+      "line": 9245,
+      "speaker": null,
+      "opening": "“I refer to the island.”"
+    },
+    {
+      "quote": 4,
+      "line": 9247,
+      "speaker": null,
+      "opening": "“I refer to the strawberries.”"
+    },
+    {
+      "quote": 5,
+      "line": 9251,
+      "speaker": null,
+      "opening": "“Six hundred million.”"
+    },
+    {
+      "quote": 6,
+      "line": 9255,
+      "speaker": null,
+      "opening": "“No.”"
+    },
+    {
+      "quote": 7,
+      "line": 9259,
+      "speaker": null,
+      "opening": "“You haven't considered the offer.”"
+    },
+    {
+      "quote": 8,
+      "line": 9261,
+      "speaker": null,
+      "opening": "“Nigga, she picked the curtains.”"
+    },
+    {
+      "quote": 9,
+      "line": 9265,
+      "speaker": null,
+      "opening": "“Those can be included.”"
+    },
+    {
+      "quote": 10,
+      "line": 9267,
+      "speaker": null,
+      "opening": "“They already are,”"
+    },
+    {
+      "quote": 11,
+      "line": 9267,
+      "speaker": null,
+      "opening": "“They're in our house.”"
+    },
+    {
+      "quote": 12,
+      "line": 9271,
+      "speaker": null,
+      "opening": "“Behave.”"
+    },
+    {
+      "quote": 13,
+      "line": 9273,
+      "speaker": null,
+      "opening": "“Nigga brought that phrase to my ocean.”"
+    },
+    {
+      "quote": 14,
+      "line": 9277,
+      "speaker": null,
+      "opening": "“Is there a figure you'd entertain?”"
+    },
+    {
+      "quote": 15,
+      "line": 9279,
+      "speaker": null,
+      "opening": "“She's sitting right there.”"
+    },
+    {
+      "quote": 16,
+      "line": 9283,
+      "speaker": null,
+      "opening": "“All right, that one's terrible.”"
+    },
+    {
+      "quote": 17,
+      "line": 9285,
+      "speaker": null,
+      "opening": "“Nigga, I'm off duty.”"
+    },
+    {
+      "quote": 18,
+      "line": 9291,
+      "speaker": null,
+      "opening": "“You like money.”"
+    },
+    {
+      "quote": 19,
+      "line": 9293,
+      "speaker": null,
+      "opening": "“Love money.”"
+    },
+    {
+      "quote": 20,
+      "line": 9295,
+      "speaker": null,
+      "opening": "“Love me more?”"
+    },
+    {
+      "quote": 21,
+      "line": 9297,
+      "speaker": null,
+      "opening": "“Nigga, money don't look at me like that.”"
+    },
+    {
+      "quote": 22,
+      "line": 9315,
+      "speaker": null,
+      "opening": "“This is what I asked for.”"
+    },
+    {
+      "quote": 23,
+      "line": 9319,
+      "speaker": null,
+      "opening": "“All that racing for this little patch?”"
+    },
+    {
+      "quote": 24,
+      "line": 9323,
+      "speaker": null,
+      "opening": "“Nigga, don't make the ocean regret choosing us.”"
+    },
+    {
+      "quote": 25,
+      "line": 9341,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 26,
+      "line": 9341,
+      "speaker": null,
+      "opening": "“you sure you can afford friendship?”"
+    },
+    {
+      "quote": 27,
+      "line": 9345,
+      "speaker": null,
+      "opening": "“I can't afford another enemy like you.”"
+    },
+    {
+      "quote": 28,
+      "line": 9363,
+      "speaker": null,
+      "opening": "“That line is for you.”"
+    },
+    {
+      "quote": 29,
+      "line": 9365,
+      "speaker": null,
+      "opening": "“Nigga, my vehicles have rich experiences.”"
+    },
+    {
+      "quote": 30,
+      "line": 9367,
+      "speaker": null,
+      "opening": "“They have rich owners. There's a difference.”"
+    },
+    {
+      "quote": 31,
+      "line": 9383,
+      "speaker": null,
+      "opening": "“You met me at a race.”"
+    },
+    {
+      "quote": 32,
+      "line": 9385,
+      "speaker": null,
+      "opening": "“I also met you standing still occasionally. We"
+    },
+    {
+      "quote": 33,
+      "line": 9389,
+      "speaker": null,
+      "opening": "“You'll come?”"
+    },
+    {
+      "quote": 34,
+      "line": 9391,
+      "speaker": null,
+      "opening": "“Nigga, try to stop me.”"
+    },
+    {
+      "quote": 35,
+      "line": 9397,
+      "speaker": null,
+      "opening": "“My father,”"
+    },
+    {
+      "quote": 36,
+      "line": 9399,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 37,
+      "line": 9401,
+      "speaker": null,
+      "opening": "“My life.”"
+    },
+    {
+      "quote": 38,
+      "line": 9403,
+      "speaker": null,
+      "opening": "“Nigga, you helped save mine too.”"
+    },
+    {
+      "quote": 39,
+      "line": 9407,
+      "speaker": null,
+      "opening": "“You ever need us.”"
+    },
+    {
+      "quote": 40,
+      "line": 9409,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 41,
+      "line": 9429,
+      "speaker": null,
+      "opening": "“For the room,”"
+    },
+    {
+      "quote": 42,
+      "line": 9433,
+      "speaker": null,
+      "opening": "“Earrings?”"
+    },
+    {
+      "quote": 43,
+      "line": 9435,
+      "speaker": null,
+      "opening": "“You are most of what makes it beautiful.”"
+    },
+    {
+      "quote": 44,
+      "line": 9443,
+      "speaker": null,
+      "opening": "“You trying to take my job?”"
+    },
+    {
+      "quote": 45,
+      "line": 9445,
+      "speaker": null,
+      "opening": "“I retired from competing with young men. They"
+    },
+    {
+      "quote": 46,
+      "line": 9471,
+      "speaker": null,
+      "opening": "“Captain Aiden.”"
+    },
+    {
+      "quote": 47,
+      "line": 9475,
+      "speaker": null,
+      "opening": "“You keep showing up.”"
+    },
+    {
+      "quote": 48,
+      "line": 9477,
+      "speaker": null,
+      "opening": "“I wanted to see whether the island suited"
+    },
+    {
+      "quote": 49,
+      "line": 9479,
+      "speaker": null,
+      "opening": "“Nigga, it adjusted.”"
+    },
+    {
+      "quote": 50,
+      "line": 9483,
+      "speaker": null,
+      "opening": "“General Solomon Saint.”"
+    },
+    {
+      "quote": 51,
+      "line": 9489,
+      "speaker": null,
+      "opening": "“You were Aurelio's friend?”"
+    },
+    {
+      "quote": 52,
+      "line": 9491,
+      "speaker": null,
+      "opening": "“An interested guest.”"
+    },
+    {
+      "quote": 53,
+      "line": 9493,
+      "speaker": null,
+      "opening": "“Your interest look expensive.”"
+    },
+    {
+      "quote": 54,
+      "line": 9495,
+      "speaker": null,
+      "opening": "“It can be.”"
+    },
+    {
+      "quote": 55,
+      "line": 9499,
+      "speaker": null,
+      "opening": "“I offered him a festival. Ships. Champions. Demonstrations"
+    },
+    {
+      "quote": 56,
+      "line": 9501,
+      "speaker": null,
+      "opening": "“Nigga, poor timing.”"
+    },
+    {
+      "quote": 57,
+      "line": 9505,
+      "speaker": null,
+      "opening": "“Indeed.”"
+    },
+    {
+      "quote": 58,
+      "line": 9509,
+      "speaker": null,
+      "opening": "“What do you want from my husband?”"
+    },
+    {
+      "quote": 59,
+      "line": 9513,
+      "speaker": null,
+      "opening": "“To find out whether the stories are large"
+    },
+    {
+      "quote": 60,
+      "line": 9515,
+      "speaker": null,
+      "opening": "“They've been trying to catch up,”"
+    },
+    {
+      "quote": 61,
+      "line": 9521,
+      "speaker": null,
+      "opening": "“A challenge,”"
+    },
+    {
+      "quote": 62,
+      "line": 9521,
+      "speaker": null,
+      "opening": "“When you return to Las Vegas. I believe"
+    },
+    {
+      "quote": 63,
+      "line": 9525,
+      "speaker": null,
+      "opening": "“Nigga, you selling tickets or trouble?”"
+    },
+    {
+      "quote": 64,
+      "line": 9527,
+      "speaker": null,
+      "opening": "“Sometimes the distinction is unprofitable.”"
+    },
+    {
+      "quote": 65,
+      "line": 9531,
+      "speaker": null,
+      "opening": "“The island isn't a weapons fair.”"
+    },
+    {
+      "quote": 66,
+      "line": 9535,
+      "speaker": null,
+      "opening": "“No,”"
+    },
+    {
+      "quote": 67,
+      "line": 9535,
+      "speaker": null,
+      "opening": "“Not under its present captain.”"
+    },
+    {
+      "quote": 68,
+      "line": 9543,
+      "speaker": null,
+      "opening": "“My island. My people. My wife. If you"
+    },
+    {
+      "quote": 69,
+      "line": 9547,
+      "speaker": null,
+      "opening": "“I intend to.”"
+    },
+    {
+      "quote": 70,
+      "line": 9551,
+      "speaker": null,
+      "opening": "“Enjoy your return, Captain.”"
+    },
+    {
+      "quote": 71,
+      "line": 9559,
+      "speaker": null,
+      "opening": "“That man doesn't collect trophies. He collects the"
+    },
+    {
+      "quote": 72,
+      "line": 9561,
+      "speaker": null,
+      "opening": "“Nigga, he picked a heavy shelf.”"
+    },
+    {
+      "quote": 73,
+      "line": 9565,
+      "speaker": null,
+      "opening": "“You don't have to answer today.”"
+    },
+    {
+      "quote": 74,
+      "line": 9567,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 75,
+      "line": 9569,
+      "speaker": null,
+      "opening": "“You have a home to get back to.”"
+    },
+    {
+      "quote": 76,
+      "line": 9577,
+      "speaker": null,
+      "opening": "“We go home,”"
+    },
+    {
+      "quote": 77,
+      "line": 9583,
+      "speaker": null,
+      "opening": "\"Nigga, the Mercedes good?\""
+    },
+    {
+      "quote": 78,
+      "line": 9585,
+      "speaker": null,
+      "opening": "\"The Mercedes good. The nigga driving it good."
+    },
+    {
+      "quote": 79,
+      "line": 9587,
+      "speaker": null,
+      "opening": "\"Because you answered. I already knew you alive.\""
+    },
+    {
+      "quote": 80,
+      "line": 9589,
+      "speaker": null,
+      "opening": "\"Nigga, he washed it twice.\""
+    },
+    {
+      "quote": 81,
+      "line": 9591,
+      "speaker": null,
+      "opening": "\"That's care.\""
+    },
+    {
+      "quote": 82,
+      "line": 9593,
+      "speaker": null,
+      "opening": "\"Then he sat in it waiting for you.\""
+    },
+    {
+      "quote": 83,
+      "line": 9595,
+      "speaker": null,
+      "opening": "\"Nigga, I was checking the seat.\""
+    },
+    {
+      "quote": 84,
+      "line": 9597,
+      "speaker": null,
+      "opening": "\"This nigga loves you,\""
+    },
+    {
+      "quote": 85,
+      "line": 9601,
+      "speaker": null,
+      "opening": "\"Tell that nigga I know. Tell him I'm"
+    },
+    {
+      "quote": 86,
+      "line": 9609,
+      "speaker": null,
+      "opening": "“Nigga, this is my father's car.”"
+    },
+    {
+      "quote": 87,
+      "line": 9611,
+      "speaker": null,
+      "opening": "“Your father taught you to be brave.”"
+    },
+    {
+      "quote": 88,
+      "line": 9613,
+      "speaker": null,
+      "opening": "“He also taught me to stop talking to"
+    },
+    {
+      "quote": 89,
+      "line": 9619,
+      "speaker": null,
+      "opening": "“Take care of my ocean,”"
+    },
+    {
+      "quote": 90,
+      "line": 9621,
+      "speaker": null,
+      "opening": "“Take care of the road between here and"
+    },
+    {
+      "quote": 91,
+      "line": 9623,
+      "speaker": null,
+      "opening": "“Always.”"
+    },
+    {
+      "quote": 92,
+      "line": 9637,
+      "speaker": null,
+      "opening": "“You really got me the ocean.”"
+    },
+    {
+      "quote": 93,
+      "line": 9639,
+      "speaker": null,
+      "opening": "“Nigga, I pay attention.”"
+    },
+    {
+      "quote": 94,
+      "line": 9651,
+      "speaker": null,
+      "opening": "“Home?”"
+    },
+    {
+      "quote": 95,
+      "line": 9655,
+      "speaker": null,
+      "opening": "“Home.”"
+    }
+  ]
+}

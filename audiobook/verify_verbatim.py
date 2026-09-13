@@ -21,6 +21,9 @@ class VerbatimError(ValueError):
 
 def normalize(text):
     text = re.sub(r"(?m)^[ \t]*\*\*\*[ \t]*\r?$", "", text)
+    # Paired Markdown emphasis is typography; retain every enclosed word.
+    text = re.sub(r"(?<![\w*])\*\*([^*\n]+)\*\*(?![\w*])", r"\1", text)
+    text = re.sub(r"(?<![\w*])\*([^*\n]+)\*(?![\w*])", r"\1", text)
     text = text.replace("\u201c", "").replace("\u201d", "")
     return " ".join(text.split())
 
@@ -125,7 +128,7 @@ def verify_verbatim(script_path, source_excerpt_path=None, source_metadata_path=
         "source_sha256": metadata["source_sha256"],
         "excerpt_sha256": excerpt_hash,
         "script_sha256": hashlib.sha256(script_path.read_bytes()).hexdigest(),
-        "normalization": "whitespace, curly double quotation marks, standalone *** only",
+        "normalization": "whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis",
         "audio_listening_verified": False,
     }
 

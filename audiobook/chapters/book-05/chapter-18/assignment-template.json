@@ -1,0 +1,451 @@
+{
+  "chapter_id": "b05-c18",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 74,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 8199,
+      "speaker": null,
+      "opening": "\"Nine,\""
+    },
+    {
+      "quote": 2,
+      "line": 8201,
+      "speaker": null,
+      "opening": "\"Noon.\""
+    },
+    {
+      "quote": 3,
+      "line": 8203,
+      "speaker": null,
+      "opening": "\"Luncheon is noon. Final is nine.\""
+    },
+    {
+      "quote": 4,
+      "line": 8207,
+      "speaker": null,
+      "opening": "\"Nigga, produce your evidence.\""
+    },
+    {
+      "quote": 5,
+      "line": 8211,
+      "speaker": null,
+      "opening": "\"I married you. I keep copies.\""
+    },
+    {
+      "quote": 6,
+      "line": 8215,
+      "speaker": null,
+      "opening": "\"Both of you behave.\""
+    },
+    {
+      "quote": 7,
+      "line": 8221,
+      "speaker": null,
+      "opening": "\"Nigga, did you let your transportation eat your"
+    },
+    {
+      "quote": 8,
+      "line": 8223,
+      "speaker": null,
+      "opening": "\"Hand me the coat.\""
+    },
+    {
+      "quote": 9,
+      "line": 8225,
+      "speaker": null,
+      "opening": "\"This nigga's horse canceled his appearance.\""
+    },
+    {
+      "quote": 10,
+      "line": 8227,
+      "speaker": null,
+      "opening": "\"Tank.\""
+    },
+    {
+      "quote": 11,
+      "line": 8229,
+      "speaker": null,
+      "opening": "\"Rusk been announcing you for ten minutes. Nigga"
+    },
+    {
+      "quote": 12,
+      "line": 8231,
+      "speaker": null,
+      "opening": "\"That good. Write it down.\""
+    },
+    {
+      "quote": 13,
+      "line": 8233,
+      "speaker": null,
+      "opening": "\"Get dressed, motherfucker!\""
+    },
+    {
+      "quote": 14,
+      "line": 8237,
+      "speaker": null,
+      "opening": "\"Nigga, you ate breakfast and my schedule. Don't"
+    },
+    {
+      "quote": 15,
+      "line": 8241,
+      "speaker": null,
+      "opening": "\"Marcellus?\""
+    },
+    {
+      "quote": 16,
+      "line": 8243,
+      "speaker": null,
+      "opening": "\"Mercedes and Porsche took him and the Crown"
+    },
+    {
+      "quote": 17,
+      "line": 8247,
+      "speaker": null,
+      "opening": "\"Nearly everybody.\""
+    },
+    {
+      "quote": 18,
+      "line": 8251,
+      "speaker": null,
+      "opening": "\"Aight, my nigga. You caused it. Carry it.\""
+    },
+    {
+      "quote": 19,
+      "line": 8257,
+      "speaker": null,
+      "opening": "\"Tell the niggas the king is coming. His"
+    },
+    {
+      "quote": 20,
+      "line": 8269,
+      "speaker": null,
+      "opening": "\"AIDEN!\""
+    },
+    {
+      "quote": 21,
+      "line": 8277,
+      "speaker": null,
+      "opening": "\"The houses have elected their champion!\""
+    },
+    {
+      "quote": 22,
+      "line": 8281,
+      "speaker": null,
+      "opening": "\"Nigga, I wasn't here!\""
+    },
+    {
+      "quote": 23,
+      "line": 8285,
+      "speaker": null,
+      "opening": "\"The vote was unanimous among the pledged houses."
+    },
+    {
+      "quote": 24,
+      "line": 8289,
+      "speaker": null,
+      "opening": "\"I thought we was about to do the"
+    },
+    {
+      "quote": 25,
+      "line": 8291,
+      "speaker": null,
+      "opening": "\"We are.\""
+    },
+    {
+      "quote": 26,
+      "line": 8293,
+      "speaker": null,
+      "opening": "\"Then what did I just win?\""
+    },
+    {
+      "quote": 27,
+      "line": 8295,
+      "speaker": null,
+      "opening": "\"Their confidence.\""
+    },
+    {
+      "quote": 28,
+      "line": 8301,
+      "speaker": null,
+      "opening": "\"You won while you were losing an argument"
+    },
+    {
+      "quote": 29,
+      "line": 8303,
+      "speaker": null,
+      "opening": "\"Nigga, that's range.\""
+    },
+    {
+      "quote": 30,
+      "line": 8311,
+      "speaker": null,
+      "opening": "\"Captain. Your gloves.\""
+    },
+    {
+      "quote": 31,
+      "line": 8313,
+      "speaker": null,
+      "opening": "\"You ran all the way?\""
+    },
+    {
+      "quote": 32,
+      "line": 8315,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 33,
+      "line": 8317,
+      "speaker": null,
+      "opening": "\"Nigga, you deserve a medal.\""
+    },
+    {
+      "quote": 34,
+      "line": 8323,
+      "speaker": null,
+      "opening": "\"I was only bringing the gloves.\""
+    },
+    {
+      "quote": 35,
+      "line": 8325,
+      "speaker": null,
+      "opening": "\"Nigga, I was only looking for a horse,\""
+    },
+    {
+      "quote": 36,
+      "line": 8325,
+      "speaker": null,
+      "opening": "\"The morning generous. Accept it.\""
+    },
+    {
+      "quote": 37,
+      "line": 8331,
+      "speaker": null,
+      "opening": "\"That nigga gonna tell this story at every"
+    },
+    {
+      "quote": 38,
+      "line": 8333,
+      "speaker": null,
+      "opening": "\"Nigga earned seasoning for his memories. Let him"
+    },
+    {
+      "quote": 39,
+      "line": 8337,
+      "speaker": null,
+      "opening": "\"You made a whole nigga's biography,\""
+    },
+    {
+      "quote": 40,
+      "line": 8339,
+      "speaker": null,
+      "opening": "\"He brought the gloves. I recognize service.\""
+    },
+    {
+      "quote": 41,
+      "line": 8343,
+      "speaker": null,
+      "opening": "\"Now go win the expensive one.\""
+    },
+    {
+      "quote": 42,
+      "line": 8347,
+      "speaker": null,
+      "opening": "\"Nigga, this one's already got fans.\""
+    },
+    {
+      "quote": 43,
+      "line": 8349,
+      "speaker": null,
+      "opening": "\"Then give it a famous older brother.\""
+    },
+    {
+      "quote": 44,
+      "line": 8353,
+      "speaker": null,
+      "opening": "\"Beautiful instruction.\""
+    },
+    {
+      "quote": 45,
+      "line": 8365,
+      "speaker": null,
+      "opening": "\"The emperor has entered his household champion.\""
+    },
+    {
+      "quote": 46,
+      "line": 8367,
+      "speaker": null,
+      "opening": "\"Nigga, he finally sent the receipt with the"
+    },
+    {
+      "quote": 47,
+      "line": 8385,
+      "speaker": null,
+      "opening": "\"May the best man win.\""
+    },
+    {
+      "quote": 48,
+      "line": 8387,
+      "speaker": null,
+      "opening": "\"Nigga, why you making a wish about me?\""
+    },
+    {
+      "quote": 49,
+      "line": 8393,
+      "speaker": null,
+      "opening": "\"You driving that?\""
+    },
+    {
+      "quote": 50,
+      "line": 8395,
+      "speaker": null,
+      "opening": "\"I fit if I stop breathing at corners.\""
+    },
+    {
+      "quote": 51,
+      "line": 8397,
+      "speaker": null,
+      "opening": "\"Useful skill.\""
+    },
+    {
+      "quote": 52,
+      "line": 8399,
+      "speaker": null,
+      "opening": "\"Learned it fighting you.\""
+    },
+    {
+      "quote": 53,
+      "line": 8407,
+      "speaker": null,
+      "opening": "\"Nigga, you want a portrait to wear? I"
+    },
+    {
+      "quote": 54,
+      "line": 8419,
+      "speaker": null,
+      "opening": "\"No thunder until you need it.\""
+    },
+    {
+      "quote": 55,
+      "line": 8421,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 56,
+      "line": 8423,
+      "speaker": null,
+      "opening": "\"And if you need it, come back tired"
+    },
+    {
+      "quote": 57,
+      "line": 8427,
+      "speaker": null,
+      "opening": "\"Baby, those ain't separate arrivals for me.\""
+    },
+    {
+      "quote": 58,
+      "line": 8431,
+      "speaker": null,
+      "opening": "\"Come back.\""
+    },
+    {
+      "quote": 59,
+      "line": 8433,
+      "speaker": null,
+      "opening": "\"Always my intention.\""
+    },
+    {
+      "quote": 60,
+      "line": 8463,
+      "speaker": null,
+      "opening": "\"Nigga, you repeating your homework,\""
+    },
+    {
+      "quote": 61,
+      "line": 8489,
+      "speaker": null,
+      "opening": "\"Aight, my nigga. We both heard them cheering."
+    },
+    {
+      "quote": 62,
+      "line": 8493,
+      "speaker": null,
+      "opening": "\"Aight, nigga,\""
+    },
+    {
+      "quote": 63,
+      "line": 8493,
+      "speaker": null,
+      "opening": "\"We ain't come this far to swim.\""
+    },
+    {
+      "quote": 64,
+      "line": 8561,
+      "speaker": null,
+      "opening": "\"You said you would come back.\""
+    },
+    {
+      "quote": 65,
+      "line": 8563,
+      "speaker": null,
+      "opening": "\"I'm here.\""
+    },
+    {
+      "quote": 66,
+      "line": 8565,
+      "speaker": null,
+      "opening": "\"I saw the gate.\""
+    },
+    {
+      "quote": 67,
+      "line": 8567,
+      "speaker": null,
+      "opening": "\"So did I. That's why I went under"
+    },
+    {
+      "quote": 68,
+      "line": 8579,
+      "speaker": null,
+      "opening": "\"Best driver I've ever seen.\""
+    },
+    {
+      "quote": 69,
+      "line": 8583,
+      "speaker": null,
+      "opening": "\"Most unreasonable man I've ever admired.\""
+    },
+    {
+      "quote": 70,
+      "line": 8585,
+      "speaker": null,
+      "opening": "\"Nigga, y'all making me sound expensive.\""
+    },
+    {
+      "quote": 71,
+      "line": 8589,
+      "speaker": null,
+      "opening": "\"You are.\""
+    },
+    {
+      "quote": 72,
+      "line": 8605,
+      "speaker": null,
+      "opening": "\"You got enough left?\""
+    },
+    {
+      "quote": 73,
+      "line": 8613,
+      "speaker": null,
+      "opening": "\"Nigga,\""
+    },
+    {
+      "quote": 74,
+      "line": 8613,
+      "speaker": null,
+      "opening": "\"I ain't even started collecting the jewelry.\""
+    }
+  ]
+}

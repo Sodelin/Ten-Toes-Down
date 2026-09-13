@@ -1,0 +1,471 @@
+The Royal Meridian gave me a bedroom with a ceiling painted like heaven and a bathtub big enough to baptize a basketball team. Two porters argued over which bags belonged to me.
+
+"The black ones are the captain's."
+
+"Nigga, all of them are the captain's," Tank said.
+
+"Even the white—"
+
+"Especially the white ones. That's his wife."
+
+"And the trunks?"
+
+"That's the nigga preparing to stay great in different weather."
+
+I let them finish before pointing to Shawna's little blue case.
+
+"That one comes with me."
+
+A porter reached for it anyway.
+
+"Nigga, I said with me. My wife asked me to carry it. I ain't promoting you into my marriage."
+
+Shawna leaned against the door laughing. The porter apologized, grinning now, and Tank took the two largest trunks himself because the conversation had apparently made him impatient with luggage.
+
+I put Shawna in the bathtub before anybody had a chance to ask me another question.
+
+She sat among the bubbles with her hair pinned up, holding the gold wheel I had won and turning it between her fingers. Through the open balcony doors we could see the harbor, the yacht with my name, and the smaller yacht whose owner had already renamed it AIDEN LANDED HERE.
+
+“Nigga got a gift shop open,” I said.
+
+Shawna looked over my shoulder. On the smaller boat, somebody was carrying boxes of shirts onto the deck.
+
+“You owe that man a table.”
+
+“I gave him a business.”
+
+“You gave him tire tracks.”
+
+“Limited edition.”
+
+She tried to stay serious. Failed. I took that as permission to kiss her again.
+
+For a while the whole Grand Prix could do whatever the fuck it wanted outside. I had warm water, my wife and a door that locked. When we finally got dressed, her lipstick was on my shoulder and a bell was ringing somewhere in the suite with the desperate persistence of a man who didn't know how close he was to getting fired.
+
+Tank stood at the door holding the room-service bell between two fingers.
+
+“Why didn't you knock?” I asked.
+
+“I did. The door didn't answer.”
+
+Behind him, Rosa had a plate of fruit. Mercedes wore a silk robe over her clothes because, according to her, the robe was included and she was getting her money's worth. Porsche had three phones laid out on a tray and was talking into the fourth.
+
+“No,” she told somebody. “He saved your favorite driver and beat your other favorite driver. The price changed twice.”
+
+I pointed at her.
+
+“What's that?”
+
+“Appearances.”
+
+“I ain't said yes to appearances.”
+
+“That's why they cost extra.”
+
+She covered the phone with her hand. “You want six hundred thousand to eat dinner near a watch?”
+
+“Does the watch eat?”
+
+“No.”
+
+“Make it eight.”
+
+She nodded and went back to the call like this was exactly the kind of business judgment she had expected.
+
+Marcellus sat beside the balcony with a little screwdriver and my gold wheel. He had taken the chain off because the clasp was cheap.
+
+“Gold plate,” he said.
+
+“Nigga.”
+
+“Very thick plate.”
+
+“That ain't the point.”
+
+“No,” he agreed. “It rarely is.”
+
+He fitted a better clasp, one of his own, then held the wheel to the light.
+
+“Beautiful work on the face. Someone talented made the original design. Someone cheap ordered the copies.”
+
+Rosa stopped eating her grapes.
+
+“The musicians say nobody's been paid in three weeks.”
+
+Porsche lowered her phone.
+
+“They told the dancers tomorrow.”
+
+Mercedes leaned against the doorway. “They told the drivers' hosts next week. One girl asked to leave, and the hotel said her passport was at the island office.”
+
+The room changed. Not dramatically. Nobody stood up with a speech. But Tank put the bell down, and Shawna stopped turning the wheel.
+
+“How many?” I asked.
+
+“Don't know yet,” Mercedes said. “Enough that they're scared to count in front of anybody.”
+
+There are lies rich niggas tell because they want more money, and lies they tell because they think other people belong to them. The second kind always pisses me off faster. I had bought enough things to know the difference between owning a building and owning the woman standing in it.
+
+Porsche's phone started ringing again. She silenced it.
+
+“There's a mechanic downstairs who wants to see you. She says you picked up something in your grille.”
+
+“The fish?”
+
+“No. A piece of the green car.”
+
+We went downstairs together.
+
+The hotel's underground garage looked like somebody had threatened a museum until it learned to accelerate. Red Ferraris, silver machines with doors like wings, a white car sitting under its own chandelier. My Lamborghini stood in the middle with half the harbor still drying on it.
+
+A woman with close-cut hair and grease on one cheek waited beside the front wheel. She wore blue overalls tied at the waist and a pair of gold hoops so large I respected her confidence around machinery.
+
+“Lark,” she said. “Thirty-two, chief mechanic for the Silver Arrow team until somebody sold the team without telling the people inside it.”
+
+She gave me a handshake strong enough to be honest.
+
+“Aiden.”
+
+“I watched.”
+
+She held up a bent piece of green metal.
+
+“This was lodged below your light. The car that hit Chrome wasn't part of the field.”
+
+“I noticed the mask.”
+
+“I mean it belongs to the harbor service. It should have been carrying luggage.”
+
+Tank took the fragment and turned it over.
+
+“That's some violent luggage.”
+
+Lark didn't smile.
+
+“My partner drove one of those cars. Mateo. He's been missing nine days.”
+
+Shawna stepped closer. “Your partner on the team?”
+
+“My partner in my house.”
+
+She said it firmly, like she was tired of people trying to make the missing part smaller.
+
+“He's thirty-four. Laughs with his whole mouth. Puts salt on pineapple. Buys me flowers even though I keep telling him a plant would survive longer. His last message said they wanted extra crew for the island. Then nothing.”
+
+Mercedes folded her arms.
+
+“They keep sending people there.”
+
+Lark looked at her. “You heard it too?”
+
+“I hear things men think women ain't listening to.”
+
+I took the green fragment from Tank.
+
+“What do you need?” I asked.
+
+“To know whether you really stopped for Cassius. Or whether it was a show.”
+
+“Nigga was hanging off a cliff. That's an expensive show.”
+
+She studied me. Then she nodded once.
+
+“I need somebody who can get through a door they won't open for me.”
+
+“Show me the door.”
+
+Before she could answer, an engine shouted from the garage entrance.
+
+Inez's red car came down the ramp and stopped close enough for its heat to reach my shoes. She climbed out in black jeans and a red sleeveless shirt, braid down her back, the gold wheel she had won hanging against her chest.
+
+“I've been looking for you,” she said.
+
+“Everybody has.”
+
+“I found you first.”
+
+She looked at Shawna. “You hungry?”
+
+“Yes.”
+
+“Good. My father cooks. He lives on the mountain. I brought two cars.”
+
+I looked past her. A second red car waited at the top of the ramp.
+
+“Nigga, that sounds like a race wearing a dinner jacket.”
+
+“It can be both.”
+
+Her eyes dropped to the green metal in my hand. For the first time since I'd met her, her smile went away completely.
+
+“Where did you get that?”
+
+“Out of my fish tank.”
+
+“Aiden,” Shawna said.
+
+“Out of the car.”
+
+Inez reached for the fragment, then stopped before touching it.
+
+“Bring Lark,” she said. “And don't let a hotel car follow you.”
+
+The mountain road started above the city and climbed into terraces of olive trees, old stone walls and houses whose balconies seemed to be standing on faith. Inez led in her red machine. Shawna sat beside me, Lark in the back of a car Porsche had obtained by pointing at it and saying, “That one belongs with us now.” Tank followed in a black SUV so large it made the little stone villages look recently built around it.
+
+At the first overlook, Inez stopped and got out.
+
+“There's a restaurant at the top,” she said. “Nine turns. Two narrow bridges. No traffic this afternoon; they close it for race practice.”
+
+“Your father live at the restaurant?”
+
+“No. We eat there first, so he's got time to stop pretending he isn't excited.”
+
+Shawna laughed.
+
+Inez rested her arms on my open window.
+
+“The exhibition was one thing. You went through a fountain.”
+
+“It was in the way.”
+
+“You're fast. But this road is mine.”
+
+I looked at the road curling up behind her. Beautiful road. Lots of opportunity to be wrong in public.
+
+“What we racing for?”
+
+“An honest answer.”
+
+“To what?”
+
+“Why you're here.”
+
+“Shawna wanted the ocean.”
+
+Inez waited.
+
+“Nigga, that is the honest answer.”
+
+She looked at my wife. Shawna shrugged.
+
+“I did.”
+
+For a moment Inez seemed almost disappointed. She had probably expected a secret revenge, a lost fortune, a hidden father. People see a man driving a police Lamborghini across yachts and assume his life requires explanation. Sometimes a nigga just loves his wife.
+
+“Then race for dinner,” she said.
+
+I glanced at Shawna.
+
+“Baby?”
+
+She tightened her belt.
+
+“Win me something with potatoes.”
+
+Inez went first.
+
+She knew every inch of that mountain. I could tell by the way she entered a turn before the turn seemed to exist, the way her red car moved from sunlight to shadow without any hesitation. She wasn't performing for me. She was speaking a language she'd learned before anybody told her it was difficult.
+
+I answered with my right foot.
+
+We climbed past a chapel and two empty market squares. At the first bridge she gained half a car. At the second I took it back. Shawna watched the road with one hand on the dashboard and the other on my thigh, not holding me down, just staying connected to the nigga who had decided dinner should happen at a hundred impossible miles an hour.
+
+Inez's car flicked left around a stone fountain.
+
+I stayed on the road this time. Growth.
+
+Then we hit the smoke.
+
+It rolled across the upper bend, black and thick, carrying the bitter smell of burning rubber. Inez braked. I pulled beside her. Through the smoke, a delivery truck sat sideways against the wall, its cab burning. Beyond it, a little open-top car had stopped with its driver trapped between the truck and the drop.
+
+A man in a chef's jacket stood on the far side waving both arms.
+
+“Papa,” Inez said.
+
+She was out of her car before the word finished.
+
+I caught her wrist as she passed.
+
+“Together.”
+
+“That's my father.”
+
+“I heard you.”
+
+Her eyes hit mine, hot with the kind of fear that wants to turn itself into violence. Then she nodded, and we ran into the smoke.
+
+The heat slapped us. Inez pulled her shirt over her mouth and reached the small car. Her father was outside it, trying to free the truck's driver from the burning cab. Another man lay on the road, dazed, one arm over his face.
+
+Inez went to the man on the road. I went to her father.
+
+“Move back,” I said.
+
+“He's caught.”
+
+“I see him.”
+
+The truck driver was conscious, terrified, his belt jammed beneath a twisted piece of door. I didn't need a lesson in trucks to know we had very little time. I grabbed what was in the way and pulled.
+
+It moved an inch.
+
+Fire climbed the dashboard.
+
+“Nigga,” I told the truck, “don't make this complicated.”
+
+I pulled again.
+
+This time the metal gave enough. Inez's father reached in beside me, and between us we dragged the driver out. His shoes hit the road. He tried to stand. Couldn't. I threw his arm over my shoulder and carried him away while Inez helped the other man toward our cars.
+
+Shawna was already there with water and a cloth from the back seat. She took the driver's face gently between her hands.
+
+“Look at me. You're out. Stay with me.”
+
+Behind us the truck's front tire burst with a sound like a shot.
+
+Tank's SUV came around the bend. He stopped, took in the fire, the men, Inez and her father, then looked at me.
+
+“Nigga, we left you alone for six minutes.”
+
+“Dinner got delayed.”
+
+He lifted the second injured man into the SUV like the man weighed the same as a suit jacket. Lark got in beside him. Porsche called ahead to the mountain clinic. Mercedes flagged the practice marshals arriving from below, and within a minute everybody had a job except the fire, which continued being a disrespectful motherfucker until a crew put it out.
+
+Inez stood beside her father. He had gray at his temples, a burn on one sleeve and hands that wouldn't stop shaking. She held both of them.
+
+“Why were you up here?” she asked.
+
+“The restaurant called. They said you wanted—”
+
+He stopped.
+
+I saw her face change.
+
+“I didn't call the restaurant.”
+
+Nobody spoke for a moment.
+
+Then her father looked at me.
+
+“You are Aiden.”
+
+“Yes, sir.”
+
+“My daughter said you were very annoying.”
+
+“Papa.”
+
+He held out his shaking hand.
+
+“She was smiling when she said it.”
+
+I shook it carefully.
+
+“Esteban Inferno,” he said. “You saved my life, and my daughter's pride will never recover.”
+
+“Nigga, her pride looked healthy in them turns.”
+
+Inez let out a breath that almost became a laugh. She brushed soot off her father's cheek, then turned toward the burned truck.
+
+Its rear doors had fallen open. Inside were cases of fruit, a few crates of flowers and a green service-car panel stacked behind them.
+
+The same green as the fragment in my pocket.
+
+Lark saw it too.
+
+“They didn't want you at his house,” she said.
+
+Esteban closed his eyes.
+
+For the first time, he looked old.
+
+Tank watched the emergency crew load the last injured man into a vehicle.
+
+"Nigga, we was racing for potatoes."
+
+"We still eating potatoes," I said.
+
+"Nigga, the potatoes got witnesses now."
+
+Esteban looked between us. "Does he always talk like this?"
+
+"Which nigga?" Shawna asked.
+
+He pointed at me.
+
+"That nigga makes it everybody's evening," Tank said.
+
+"You came," I told him.
+
+"Nigga, you had the address."
+
+Inez took her father's arm. "Come on. Let the niggas argue where the food is."
+
+We ate at his house anyway.
+
+It stood above the road, white walls, blue shutters, a courtyard full of lemon trees. The dining table was long enough for all of us. Esteban insisted on cooking, even with the burn on his sleeve, and Inez argued with him until Shawna quietly handed her a knife and a bowl of vegetables.
+
+“Help him do it,” she said.
+
+So Inez helped.
+
+I stood at the courtyard wall watching the sea below. Cassius arrived in a borrowed silver car with one arm in a sling and a bottle of wine under the other.
+
+“Nigga, you drive that yourself?” I asked.
+
+“With one good arm I'm still quicker than most people with two.”
+
+“Most people ain't me.”
+
+“No,” he said. “They aren't.”
+
+He put the bottle on the table and held out his good hand. This handshake felt different from the one we had never actually had at the starting line. His fingers closed hard around mine.
+
+“I watched the harbor footage,” he said. “You jumped a Lamborghini across two yachts, pulled me out of my car and still won.”
+
+“Three things.”
+
+“What?”
+
+“You forgot the fish.”
+
+He stared at me. Then he started laughing. It hurt his shoulder, so he held it and kept laughing anyway.
+
+At dinner Esteban served lamb, potatoes crisp at the edges, bread warm enough to steam when Tank tore it. Shawna held up her fork toward me.
+
+“You won the potatoes.”
+
+Inez shook her head. “We didn't finish.”
+
+“My wife eating them, ain't she?”
+
+Everybody laughed except Esteban, who was looking at the green fragment beside my plate.
+
+Finally he picked it up.
+
+“Seven years ago,” he said, “a car this color followed my wife to the last race she ever attended.”
+
+Inez put her fork down.
+
+“Papa.”
+
+“You brought him here.”
+
+“Because he saved Cassius.”
+
+“And now he has saved me.” Esteban turned the piece of metal in his hand. “Perhaps I have been waiting for a man who would stop.”
+
+The courtyard grew quiet. Beyond the wall, the sun touched the sea.
+
+Esteban reached into his shirt and drew out a little folded photograph. He placed it beside the green metal. A woman stood in front of a racing car, smiling into the camera with one hand lifted to block the sun. She wore a plain blue dress. On the car behind her, someone had painted a white bird.
+
+“My wife was Amalia,” he said. “She loved this race before the duke turned it into a kingdom.”
+
+I looked at the photograph. Then at the mountains, the road and the impossible amount of money glittering below us.
+
+“What happened?” I asked.
+
+Esteban watched his daughter's face for a long moment.
+
+“I believed the wrong man,” he said.
+
+And underneath the table, Shawna took my hand.

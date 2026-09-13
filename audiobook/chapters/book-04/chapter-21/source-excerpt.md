@@ -1,0 +1,311 @@
+The vault opened so quietly it offended Tank.
+
+Marcellus put the Lion's Heart into the empty setting. Isolde turned the old silver plate beneath it. Somewhere inside the wall, a mechanism that had outlived several terrible men finally completed the conversation it had been built to have.
+
+The doors moved.
+
+No explosion. No thunder. No choir.
+
+Tank stared.
+
+"Nigga, after all that, it could at least sing."
+
+Then the light reached the first room.
+
+My brother stopped complaining.
+
+Gold.
+
+Not a little gold. Not a rich man opening a drawer to remind another rich man the night could become competitive. Gold stacked along the walls, gold bowls taller than the champagne bucket, gold coins in low stone bins, gold bars laid in rows beneath a balcony whose rail appeared to have been built by somebody who believed iron was an insult.
+
+Beyond it stood another room.
+
+And another.
+
+Jewels under glass. Paintings in covered racks. Crowns resting on velvet like somebody had put several countries to bed and forgotten to wake them. A line of old cars beneath dust-coated sheets, their shapes long and beautiful enough that Cassius made a sound I had previously heard only when Inez entered a room.
+
+"Nigga," Tank said.
+
+Nobody answered.
+
+"Nigga."
+
+Still nothing.
+
+"I need one nigga to acknowledge what the fuck I'm looking at."
+
+Mercedes walked past him toward a cabinet full of necklaces.
+
+"Baby, we're busy."
+
+I stood beside Shawna at the threshold.
+
+For once I didn't immediately imagine buying something.
+
+I had walked in already rich. Already king of an island. Already carrying more money around in the paint on my cars than I'd once imagined seeing altogether.
+
+This was a different rich.
+
+This was the kind of rich that made previous rich sit quietly and wait to be introduced.
+
+Shawna looked up at me.
+
+"Breathe."
+
+"Baby, I might own the air."
+
+She laughed, and the sound traveled through rooms that had waited decades to hear something worth keeping.
+
+Marcellus moved carefully between the cabinets. He didn't grab. Didn't rush. He examined a clasp here, a stone there, the old man's eyes going sharp with the pleasure of work made well by hands he would never meet.
+
+Isolde walked beside him.
+
+At the third case she stopped.
+
+A pair of silver dancing shoes rested on a black cushion. Small sapphires ran along the straps. Beneath them lay a card in Bellanotte's handwriting.
+
+FOR THE WOMAN WHO WILL LEARN TO STAY.
+
+Isolde looked at the card for a long time.
+
+Then she turned it face down.
+
+"He never understood," she said.
+
+Marcellus took her hand.
+
+"No."
+
+They left the shoes in the case and walked on together.
+
+I watched them go.
+
+Nigga had buried a fortune underground because he couldn't make a woman want the room he'd put her in. Thirty-five years later she came back holding the hand of the jeweler he'd told to know his place.
+
+Some losses deserved interest.
+
+Tank found a crown large enough for his head and stood in front of a dusty mirror.
+
+Rosa came beside him.
+
+"Too much?" he asked.
+
+She considered the crown.
+
+Then his face beneath it.
+
+"For breakfast, yes."
+
+He took it off immediately.
+
+"Wedding?"
+
+"We'll discuss it."
+
+Nigga looked happier about that uncertain answer than he had about finding the gold.
+
+Porsche opened a shallow drawer and found rings arranged by color. She called Mercedes over. The two women stared at them, then at each other.
+
+"Hotel elevator," Mercedes said.
+
+"What?" I asked.
+
+"I want the hotel elevator blue. This blue."
+
+Porsche nodded. "And the roof needs a pool."
+
+They were standing in a king's treasure room using it to argue about a business they would own together. I liked that so much I told them the pool could have a second pool if the first one got lonely.
+
+"Nigga," Mercedes said, "don't encourage me without a ceiling."
+
+"We bought a roof. Put your ceiling somewhere else."
+
+Farther back, Graves found the documents.
+
+Not loose papers scattered for dramatic convenience. Shelves of ledgers, sealed boxes, old deeds, marriage settlements, letters, maps, records of money passing between men who had called themselves sovereign while borrowing from the same rooms.
+
+He opened one book and went quiet.
+
+Knox came beside him.
+
+I saw their faces change and left the jewelry cabinet.
+
+"What?"
+
+Graves turned the book toward me.
+
+The crowned lion appeared at the top of the page. Beneath it, a list of names and properties. A family of ports. Shipping companies. Private banks. Palace estates. The kind of old wealth that kept producing new disguises while the same people remained underneath.
+
+"The king wasn't only hiding money," Graves said. "He was hiding who owned it."
+
+Knox opened a second book.
+
+Love letters inside.
+
+Real ones. Angry ones. A woman's note telling a prince she would wait at the east door until midnight and not one minute longer. A husband's promise to leave a title behind if his wife would leave a marriage she had been sold into. Photographs of couples who had never been permitted to appear beside one another in public.
+
+Private lives, kept like chains.
+
+I looked toward the gold rooms.
+
+Then back at the letters.
+
+"These mattered more," I said.
+
+Knox nodded.
+
+Men could replace money. They couldn't replace a secret after somebody else put it in the wrong hands.
+
+Keel arrived with a black case recovered from Saint's car. One of the drivers who had come to Mercedes and Porsche recognized it and brought it under guard. It held the general's current papers: recent photographs, marked copies of old records, letters bearing a midnight crown instead of the seven-point saint.
+
+The old books and the new papers matched.
+
+Same properties.
+
+Same families.
+
+Different names on the envelopes.
+
+Saint had been collecting the remaining pieces for somebody else.
+
+Graves read the heading on the newest letter.
+
+"Emperor Zero."
+
+Tank looked over my shoulder.
+
+"Nigga couldn't pick a smaller problem for us after dying?"
+
+The letter did not ask Saint to conquer the island for its beaches. It asked him to recover the ownership books and the private correspondence attached to them. The writer intended to put the old claims beside new debts, buy men who could be bought, expose men who could be frightened, and take the rest by force.
+
+There were names of rulers in it, but that wasn't the part that held me.
+
+It was the ordinary things beneath the titles.
+
+A woman kept from the man she loved because her family owed the wrong bank.
+
+A captain ordered away from home until he agreed to command a ship he hated.
+
+A marriage treated as a receipt.
+
+Nigga had found a way to put prices on the hours people were supposed to choose for themselves.
+
+I thought of Flint calling Sabine.
+
+Of Marcellus's letters never reaching Isolde.
+
+Of Shawna saying she'd have chosen me in a room without a window.
+
+Then I closed the book.
+
+"Where is he?"
+
+Graves turned the last page.
+
+Midnight City.
+
+A kingdom above the Mediterranean, old stone rising over a port full of modern money. A place where the owners of ugly empires wore beautiful jackets to decide which one of them deserved the next crown.
+
+At its center stood the Crown of Midnight.
+
+Marcellus came to the table when he heard the name.
+
+"A jewel?" Shawna asked.
+
+"A very old one," he said. "The crown identifies the holder of certain royal claims. The real value is what travels with it. The register. The authority people agree to recognize."
+
+"Not magic," Tank said.
+
+Marcellus looked at him.
+
+"No."
+
+"Good. Nigga tired of explaining ordinary rich already."
+
+My phone rang before we finished reading.
+
+An unknown number.
+
+I answered because I'd come too far to let a ringing phone develop an opinion of itself.
+
+A man appeared on the screen sitting in a dark room beneath a crown-shaped light.
+
+Older than Saint. Or maybe simply calmer about being old. Silver at the temples, dark suit, no mask. His face was handsome in the expensive, practiced way of a man who had spent years making other people wait for the end of his sentence.
+
+"Captain Aiden," he said.
+
+"Nigga, everybody got my number today."
+
+"The world watches its new champion."
+
+"Then the world saw your collector lose."
+
+His eyes moved once, almost a smile.
+
+"Solomon was useful until he began mistaking borrowed importance for ownership."
+
+"Dead nigga's friends always got criticism ready."
+
+"I did not call to mourn him."
+
+"Then get to your point. My wife and I found a room full of diamonds. We're busy."
+
+He leaned forward.
+
+"Come to Midnight City. The tournament of criminal kings begins soon. Bring your winnings. Bring your courage. Let us see whether the man who won everything on an island understands what a crown means elsewhere."
+
+I looked at my people around the table.
+
+My wife.
+
+My brother and his future wife.
+
+The two women planning a hotel from a dead king's colors.
+
+The old lovers holding hands beside letters that had tried to keep people apart.
+
+Then I looked back at the screen.
+
+"Nigga, you should've let me enjoy my vacation."
+
+The man's smile finally appeared.
+
+"I am Emperor Zero."
+
+"I'm Aiden."
+
+"I know."
+
+"Good. Saves time when you hear people shouting it."
+
+I ended the call.
+
+For a moment nobody spoke.
+
+Then Porsche looked at the map.
+
+"Mediterranean," she said. "Good weather."
+
+Mercedes nodded. "Hotel ideas."
+
+Tank rubbed a hand across his face.
+
+"Niggas really can't let a man get married before finding another crown."
+
+Rosa took his hand.
+
+"Then we make the wedding bigger."
+
+Shawna looked at me.
+
+"We choose this," she said. "All of us."
+
+I nodded.
+
+No letter had written our next step for us. No dead king owned it. We could have closed the books, kept the gold, and spent the rest of the year congratulating ourselves beneath better weather.
+
+Instead my wife put her hand on the map, and my brother put his hand beside hers, and the room filled with the quiet certainty of people who knew whose cars they intended to ride in.
+
+Nigga, we had found the other rich.
+
+Now we were going to find the man who thought it belonged to him.

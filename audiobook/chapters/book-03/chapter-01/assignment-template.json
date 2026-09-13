@@ -1,0 +1,733 @@
+{
+  "chapter_id": "b03-c01",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 121,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 11,
+      "speaker": null,
+      "opening": "“Accurate advertising,”"
+    },
+    {
+      "quote": 2,
+      "line": 13,
+      "speaker": null,
+      "opening": "“Your advertisement is losing a customer.”"
+    },
+    {
+      "quote": 3,
+      "line": 17,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 4,
+      "line": 17,
+      "speaker": null,
+      "opening": "“He lost traction.”"
+    },
+    {
+      "quote": 5,
+      "line": 19,
+      "speaker": null,
+      "opening": "“He wasn't driving.”"
+    },
+    {
+      "quote": 6,
+      "line": 21,
+      "speaker": null,
+      "opening": "“Still lost it.”"
+    },
+    {
+      "quote": 7,
+      "line": 27,
+      "speaker": null,
+      "opening": "“Is this the welcome?”"
+    },
+    {
+      "quote": 8,
+      "line": 29,
+      "speaker": null,
+      "opening": "“Better not be the captain.”"
+    },
+    {
+      "quote": 9,
+      "line": 31,
+      "speaker": null,
+      "opening": "“Nigga, if that's the captain,”"
+    },
+    {
+      "quote": 10,
+      "line": 31,
+      "speaker": null,
+      "opening": "“we singing from shore.”"
+    },
+    {
+      "quote": 11,
+      "line": 35,
+      "speaker": null,
+      "opening": "“You can start by catching the garment bag"
+    },
+    {
+      "quote": 12,
+      "line": 45,
+      "speaker": null,
+      "opening": "“Twelve,”"
+    },
+    {
+      "quote": 13,
+      "line": 45,
+      "speaker": null,
+      "opening": "“One for every month, baby.”"
+    },
+    {
+      "quote": 14,
+      "line": 47,
+      "speaker": null,
+      "opening": "“You planning to win January before we unpack?”"
+    },
+    {
+      "quote": 15,
+      "line": 49,
+      "speaker": null,
+      "opening": "“Nigga, January better warm up.”"
+    },
+    {
+      "quote": 16,
+      "line": 57,
+      "speaker": null,
+      "opening": "“Rooms look settled,”"
+    },
+    {
+      "quote": 17,
+      "line": 61,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 18,
+      "line": 61,
+      "speaker": null,
+      "opening": "“the rooms have surrendered.”"
+    },
+    {
+      "quote": 19,
+      "line": 65,
+      "speaker": null,
+      "opening": "\"For the aircraft, sir.\""
+    },
+    {
+      "quote": 20,
+      "line": 69,
+      "speaker": null,
+      "opening": "\"Nigga, you parking the helicopter?\""
+    },
+    {
+      "quote": 21,
+      "line": 71,
+      "speaker": null,
+      "opening": "\"I supervise arrivals.\""
+    },
+    {
+      "quote": 22,
+      "line": 73,
+      "speaker": null,
+      "opening": "\"This nigga supervised gravity and called it a"
+    },
+    {
+      "quote": 23,
+      "line": 77,
+      "speaker": null,
+      "opening": "\"You're Captain Aiden.\""
+    },
+    {
+      "quote": 24,
+      "line": 79,
+      "speaker": null,
+      "opening": "\"Now you supervising recognition.\""
+    },
+    {
+      "quote": 25,
+      "line": 83,
+      "speaker": null,
+      "opening": "\"Anything you need, Captain.\""
+    },
+    {
+      "quote": 26,
+      "line": 85,
+      "speaker": null,
+      "opening": "\"Nigga, start with my people. Everybody eats, everybody"
+    },
+    {
+      "quote": 27,
+      "line": 91,
+      "speaker": null,
+      "opening": "“Captain Aiden,”"
+    },
+    {
+      "quote": 28,
+      "line": 91,
+      "speaker": null,
+      "opening": "“By special instruction of His Grace, Duke Aurelio"
+    },
+    {
+      "quote": 29,
+      "line": 93,
+      "speaker": null,
+      "opening": "“Nigga, somebody really put Cruel on the birth"
+    },
+    {
+      "quote": 30,
+      "line": 95,
+      "speaker": null,
+      "opening": "“An ancient name.”"
+    },
+    {
+      "quote": 31,
+      "line": 97,
+      "speaker": null,
+      "opening": "“That don't improve it.”"
+    },
+    {
+      "quote": 32,
+      "line": 101,
+      "speaker": null,
+      "opening": "“I am Bellario, master of ceremonies and chief"
+    },
+    {
+      "quote": 33,
+      "line": 105,
+      "speaker": null,
+      "opening": "“He's right there,”"
+    },
+    {
+      "quote": 34,
+      "line": 107,
+      "speaker": null,
+      "opening": "“His Grace is at luncheon.”"
+    },
+    {
+      "quote": 35,
+      "line": 109,
+      "speaker": null,
+      "opening": "“Tell him chew faster.”"
+    },
+    {
+      "quote": 36,
+      "line": 113,
+      "speaker": null,
+      "opening": "“This nigga said we can't be on the"
+    },
+    {
+      "quote": 37,
+      "line": 115,
+      "speaker": null,
+      "opening": "“Then he offered to upgrade us if we"
+    },
+    {
+      "quote": 38,
+      "line": 117,
+      "speaker": null,
+      "opening": "“A misunderstanding.”"
+    },
+    {
+      "quote": 39,
+      "line": 119,
+      "speaker": null,
+      "opening": "“Then misunderstand this.”"
+    },
+    {
+      "quote": 40,
+      "line": 119,
+      "speaker": null,
+      "opening": "“We already bought the floor.”"
+    },
+    {
+      "quote": 41,
+      "line": 123,
+      "speaker": null,
+      "opening": "“With your money,”"
+    },
+    {
+      "quote": 42,
+      "line": 125,
+      "speaker": null,
+      "opening": "“Good.”"
+    },
+    {
+      "quote": 43,
+      "line": 127,
+      "speaker": null,
+      "opening": "“Both floors.”"
+    },
+    {
+      "quote": 44,
+      "line": 129,
+      "speaker": null,
+      "opening": "“Better.”"
+    },
+    {
+      "quote": 45,
+      "line": 133,
+      "speaker": null,
+      "opening": "“Each contestant must earn the gold wheel before"
+    },
+    {
+      "quote": 46,
+      "line": 135,
+      "speaker": null,
+      "opening": "“Nigga, I'm on time.”"
+    },
+    {
+      "quote": 47,
+      "line": 137,
+      "speaker": null,
+      "opening": "“For your arrival, certainly.”"
+    },
+    {
+      "quote": 48,
+      "line": 143,
+      "speaker": null,
+      "opening": "“The course,”"
+    },
+    {
+      "quote": 49,
+      "line": 143,
+      "speaker": null,
+      "opening": "“is a ceremonial run from the harbor to"
+    },
+    {
+      "quote": 50,
+      "line": 145,
+      "speaker": null,
+      "opening": "“How far?”"
+    },
+    {
+      "quote": 51,
+      "line": 147,
+      "speaker": null,
+      "opening": "“Eleven minutes by tender. Forty by road.”"
+    },
+    {
+      "quote": 52,
+      "line": 149,
+      "speaker": null,
+      "opening": "“And when do they close the list?”"
+    },
+    {
+      "quote": 53,
+      "line": 151,
+      "speaker": null,
+      "opening": "“In seven.”"
+    },
+    {
+      "quote": 54,
+      "line": 159,
+      "speaker": null,
+      "opening": "“You wear that, my nigga. It'll remind you"
+    },
+    {
+      "quote": 55,
+      "line": 167,
+      "speaker": null,
+      "opening": "“Baby,”"
+    },
+    {
+      "quote": 56,
+      "line": 167,
+      "speaker": null,
+      "opening": "“tell me this yacht has a road.”"
+    },
+    {
+      "quote": 57,
+      "line": 169,
+      "speaker": null,
+      "opening": "“It got a front.”"
+    },
+    {
+      "quote": 58,
+      "line": 171,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 59,
+      "line": 173,
+      "speaker": null,
+      "opening": "“Trust the front.”"
+    },
+    {
+      "quote": 60,
+      "line": 177,
+      "speaker": null,
+      "opening": "“I'll meet you at the hotel,”"
+    },
+    {
+      "quote": 61,
+      "line": 187,
+      "speaker": null,
+      "opening": "“You ready to see the ocean?”"
+    },
+    {
+      "quote": 62,
+      "line": 189,
+      "speaker": null,
+      "opening": "“I was hoping from a chair.”"
+    },
+    {
+      "quote": 63,
+      "line": 199,
+      "speaker": null,
+      "opening": "“Aiden, you stupid beautiful motherfucker!”"
+    },
+    {
+      "quote": 64,
+      "line": 213,
+      "speaker": null,
+      "opening": "“You were on the wrong side,”"
+    },
+    {
+      "quote": 65,
+      "line": 215,
+      "speaker": null,
+      "opening": "“I corrected it.”"
+    },
+    {
+      "quote": 66,
+      "line": 219,
+      "speaker": null,
+      "opening": "“Name?”"
+    },
+    {
+      "quote": 67,
+      "line": 221,
+      "speaker": null,
+      "opening": "“Nigga, look at the yacht.”"
+    },
+    {
+      "quote": 68,
+      "line": 229,
+      "speaker": null,
+      "opening": "“Interesting route,”"
+    },
+    {
+      "quote": 69,
+      "line": 231,
+      "speaker": null,
+      "opening": "“You should see the parking.”"
+    },
+    {
+      "quote": 70,
+      "line": 233,
+      "speaker": null,
+      "opening": "“Cassius Chrome.”"
+    },
+    {
+      "quote": 71,
+      "line": 235,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 72,
+      "line": 237,
+      "speaker": null,
+      "opening": "“I know.”"
+    },
+    {
+      "quote": 73,
+      "line": 243,
+      "speaker": null,
+      "opening": "“You brought a passenger,”"
+    },
+    {
+      "quote": 74,
+      "line": 245,
+      "speaker": null,
+      "opening": "“My wife.”"
+    },
+    {
+      "quote": 75,
+      "line": 247,
+      "speaker": null,
+      "opening": "“This isn't a scenic tour.”"
+    },
+    {
+      "quote": 76,
+      "line": 249,
+      "speaker": null,
+      "opening": "“It is for her.”"
+    },
+    {
+      "quote": 77,
+      "line": 251,
+      "speaker": null,
+      "opening": "“I'm Shawna.”"
+    },
+    {
+      "quote": 78,
+      "line": 253,
+      "speaker": null,
+      "opening": "“Inez.”"
+    },
+    {
+      "quote": 79,
+      "line": 257,
+      "speaker": null,
+      "opening": "“If he scares you,”"
+    },
+    {
+      "quote": 80,
+      "line": 257,
+      "speaker": null,
+      "opening": "“you can ride with me.”"
+    },
+    {
+      "quote": 81,
+      "line": 259,
+      "speaker": null,
+      "opening": "“I think we passed scared at the piano.”"
+    },
+    {
+      "quote": 82,
+      "line": 263,
+      "speaker": null,
+      "opening": "“Keep up, Captain.”"
+    },
+    {
+      "quote": 83,
+      "line": 271,
+      "speaker": null,
+      "opening": "\"Nigga, was that really your first time crossing"
+    },
+    {
+      "quote": 84,
+      "line": 273,
+      "speaker": null,
+      "opening": "\"That nigga's asking about practice,\""
+    },
+    {
+      "quote": 85,
+      "line": 273,
+      "speaker": null,
+      "opening": "\"He thinks I practiced disrespecting the marina.\""
+    },
+    {
+      "quote": 86,
+      "line": 275,
+      "speaker": null,
+      "opening": "\"Did you?\""
+    },
+    {
+      "quote": 87,
+      "line": 277,
+      "speaker": null,
+      "opening": "\"Nigga, you were there.\""
+    },
+    {
+      "quote": 88,
+      "line": 279,
+      "speaker": null,
+      "opening": "\"I'm checking whether you had a smaller marina"
+    },
+    {
+      "quote": 89,
+      "line": 281,
+      "speaker": null,
+      "opening": "\"This nigga got a wife who investigates him.\""
+    },
+    {
+      "quote": 90,
+      "line": 283,
+      "speaker": null,
+      "opening": "\"Nigga needs one,\""
+    },
+    {
+      "quote": 91,
+      "line": 285,
+      "speaker": null,
+      "opening": "\"Niggas,\""
+    },
+    {
+      "quote": 92,
+      "line": 285,
+      "speaker": null,
+      "opening": "\"the investigation can follow my taillights.\""
+    },
+    {
+      "quote": 93,
+      "line": 305,
+      "speaker": null,
+      "opening": "“Nigga, what—”"
+    },
+    {
+      "quote": 94,
+      "line": 313,
+      "speaker": null,
+      "opening": "“Aiden.”"
+    },
+    {
+      "quote": 95,
+      "line": 315,
+      "speaker": null,
+      "opening": "“I see him.”"
+    },
+    {
+      "quote": 96,
+      "line": 319,
+      "speaker": null,
+      "opening": "“Stay still!”"
+    },
+    {
+      "quote": 97,
+      "line": 321,
+      "speaker": null,
+      "opening": "“Get me out!”"
+    },
+    {
+      "quote": 98,
+      "line": 323,
+      "speaker": null,
+      "opening": "“Nigga, that is the plan. Help the plan"
+    },
+    {
+      "quote": 99,
+      "line": 329,
+      "speaker": null,
+      "opening": "“You can't hold the car.”"
+    },
+    {
+      "quote": 100,
+      "line": 331,
+      "speaker": null,
+      "opening": "“I can hold you.”"
+    },
+    {
+      "quote": 101,
+      "line": 349,
+      "speaker": null,
+      "opening": "“Nigga,”"
+    },
+    {
+      "quote": 102,
+      "line": 349,
+      "speaker": null,
+      "opening": "“you got to get off my chain.”"
+    },
+    {
+      "quote": 103,
+      "line": 355,
+      "speaker": null,
+      "opening": "“How much?”"
+    },
+    {
+      "quote": 104,
+      "line": 357,
+      "speaker": null,
+      "opening": "“One burst.”"
+    },
+    {
+      "quote": 105,
+      "line": 359,
+      "speaker": null,
+      "opening": "“Tell me the truth.”"
+    },
+    {
+      "quote": 106,
+      "line": 361,
+      "speaker": null,
+      "opening": "“One burst, baby.”"
+    },
+    {
+      "quote": 107,
+      "line": 369,
+      "speaker": null,
+      "opening": "“That's the yacht man!”"
+    },
+    {
+      "quote": 108,
+      "line": 373,
+      "speaker": null,
+      "opening": "“You stopped your race.”"
+    },
+    {
+      "quote": 109,
+      "line": 375,
+      "speaker": null,
+      "opening": "“You was in it.”"
+    },
+    {
+      "quote": 110,
+      "line": 379,
+      "speaker": null,
+      "opening": "“Nobody stops here.”"
+    },
+    {
+      "quote": 111,
+      "line": 383,
+      "speaker": null,
+      "opening": "“Nigga, I didn't say I quit.”"
+    },
+    {
+      "quote": 112,
+      "line": 387,
+      "speaker": null,
+      "opening": "“Three minutes behind,”"
+    },
+    {
+      "quote": 113,
+      "line": 389,
+      "speaker": null,
+      "opening": "“Then we should go.”"
+    },
+    {
+      "quote": 114,
+      "line": 397,
+      "speaker": null,
+      "opening": "“What?”"
+    },
+    {
+      "quote": 115,
+      "line": 399,
+      "speaker": null,
+      "opening": "“You really think you're going to do it.”"
+    },
+    {
+      "quote": 116,
+      "line": 401,
+      "speaker": null,
+      "opening": "“Nigga, I know I'm going to do it.”"
+    },
+    {
+      "quote": 117,
+      "line": 413,
+      "speaker": null,
+      "opening": "“Welcome, Your Majesty.”"
+    },
+    {
+      "quote": 118,
+      "line": 421,
+      "speaker": null,
+      "opening": "“You ridiculous motherfucker.”"
+    },
+    {
+      "quote": 119,
+      "line": 425,
+      "speaker": null,
+      "opening": "“Put my nigga back in his house.”"
+    },
+    {
+      "quote": 120,
+      "line": 437,
+      "speaker": null,
+      "opening": "“Got your ocean,”"
+    },
+    {
+      "quote": 121,
+      "line": 441,
+      "speaker": null,
+      "opening": "“Now get me a towel, fastest man alive.”"
+    }
+  ]
+}

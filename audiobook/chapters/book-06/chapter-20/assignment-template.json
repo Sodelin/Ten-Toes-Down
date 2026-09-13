@@ -1,0 +1,541 @@
+{
+  "chapter_id": "b06-c20",
+  "source_commit": "3f16cb8dc89171439167297d744e623d6b16df25",
+  "quote_count": 89,
+  "assignments": [
+    {
+      "quote": 1,
+      "line": 7971,
+      "speaker": null,
+      "opening": "\"Freedom?\""
+    },
+    {
+      "quote": 2,
+      "line": 8003,
+      "speaker": null,
+      "opening": "\"Brother.\""
+    },
+    {
+      "quote": 3,
+      "line": 8005,
+      "speaker": null,
+      "opening": "\"Quiet,\""
+    },
+    {
+      "quote": 4,
+      "line": 8011,
+      "speaker": null,
+      "opening": "\"Nigga, define quiet.\""
+    },
+    {
+      "quote": 5,
+      "line": 8013,
+      "speaker": null,
+      "opening": "\"Nobody's shooting.\""
+    },
+    {
+      "quote": 6,
+      "line": 8017,
+      "speaker": null,
+      "opening": "\"Fair.\""
+    },
+    {
+      "quote": 7,
+      "line": 8027,
+      "speaker": null,
+      "opening": "\"There. Nigga's becoming a person.\""
+    },
+    {
+      "quote": 8,
+      "line": 8029,
+      "speaker": null,
+      "opening": "\"I was a person before.\""
+    },
+    {
+      "quote": 9,
+      "line": 8031,
+      "speaker": null,
+      "opening": "\"You wore a white suit to shoot at"
+    },
+    {
+      "quote": 10,
+      "line": 8035,
+      "speaker": null,
+      "opening": "\"A former job description.\""
+    },
+    {
+      "quote": 11,
+      "line": 8045,
+      "speaker": null,
+      "opening": "\"You're the groom.\""
+    },
+    {
+      "quote": 12,
+      "line": 8049,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 13,
+      "line": 8051,
+      "speaker": null,
+      "opening": "\"You look nervous.\""
+    },
+    {
+      "quote": 14,
+      "line": 8053,
+      "speaker": null,
+      "opening": "\"Nigga, people keep noticing.\""
+    },
+    {
+      "quote": 15,
+      "line": 8057,
+      "speaker": null,
+      "opening": "\"Good. Means you know the size of what"
+    },
+    {
+      "quote": 16,
+      "line": 8065,
+      "speaker": null,
+      "opening": "\"Yeah,\""
+    },
+    {
+      "quote": 17,
+      "line": 8065,
+      "speaker": null,
+      "opening": "\"I do.\""
+    },
+    {
+      "quote": 18,
+      "line": 8075,
+      "speaker": null,
+      "opening": "\"This nigga got little hands hidden inside the"
+    },
+    {
+      "quote": 19,
+      "line": 8079,
+      "speaker": null,
+      "opening": "\"Precision is not limited by size.\""
+    },
+    {
+      "quote": 20,
+      "line": 8081,
+      "speaker": null,
+      "opening": "\"That's what I tell Rosa.\""
+    },
+    {
+      "quote": 21,
+      "line": 8085,
+      "speaker": null,
+      "opening": "\"Nigga!\""
+    },
+    {
+      "quote": 22,
+      "line": 8087,
+      "speaker": null,
+      "opening": "\"What? I meant dancing!\""
+    },
+    {
+      "quote": 23,
+      "line": 8093,
+      "speaker": null,
+      "opening": "\"Is there anything?\""
+    },
+    {
+      "quote": 24,
+      "line": 8095,
+      "speaker": null,
+      "opening": "\"Nigga, I still buy the wrong butter occasionally.\""
+    },
+    {
+      "quote": 25,
+      "line": 8097,
+      "speaker": null,
+      "opening": "\"A comforting flaw.\""
+    },
+    {
+      "quote": 26,
+      "line": 8099,
+      "speaker": null,
+      "opening": "\"Don't spread it around.\""
+    },
+    {
+      "quote": 27,
+      "line": 8111,
+      "speaker": null,
+      "opening": "\"Where's the new song?\""
+    },
+    {
+      "quote": 28,
+      "line": 8117,
+      "speaker": null,
+      "opening": "\"There, perhaps.\""
+    },
+    {
+      "quote": 29,
+      "line": 8129,
+      "speaker": null,
+      "opening": "\"Ladies and gentlemen,\""
+    },
+    {
+      "quote": 30,
+      "line": 8129,
+      "speaker": null,
+      "opening": "\"a new song from Captain Aiden, prepared especially"
+    },
+    {
+      "quote": 31,
+      "line": 8133,
+      "speaker": null,
+      "opening": "\"Nigga, what?\""
+    },
+    {
+      "quote": 32,
+      "line": 8147,
+      "speaker": null,
+      "opening": "\"Go. They love you.\""
+    },
+    {
+      "quote": 33,
+      "line": 8149,
+      "speaker": null,
+      "opening": "\"Those are separate issues.\""
+    },
+    {
+      "quote": 34,
+      "line": 8183,
+      "speaker": null,
+      "opening": "\"Different song.\""
+    },
+    {
+      "quote": 35,
+      "line": 8187,
+      "speaker": null,
+      "opening": "\"Captain?\""
+    },
+    {
+      "quote": 36,
+      "line": 8189,
+      "speaker": null,
+      "opening": "\"Different song, nigga. Give me something with an"
+    },
+    {
+      "quote": 37,
+      "line": 8197,
+      "speaker": null,
+      "opening": "\"Y'all know my brother?\""
+    },
+    {
+      "quote": 38,
+      "line": 8201,
+      "speaker": null,
+      "opening": "\"Nigga's getting married.\""
+    },
+    {
+      "quote": 39,
+      "line": 8205,
+      "speaker": null,
+      "opening": "\"Which means the rest of us are going"
+    },
+    {
+      "quote": 40,
+      "line": 8217,
+      "speaker": null,
+      "opening": "\"That's my nigga by the bar, looking like"
+    },
+    {
+      "quote": 41,
+      "line": 8223,
+      "speaker": null,
+      "opening": "\"Nigga, this man stole a boat with his"
+    },
+    {
+      "quote": 42,
+      "line": 8237,
+      "speaker": null,
+      "opening": "\"He got hands like trouble and a heart"
+    },
+    {
+      "quote": 43,
+      "line": 8245,
+      "speaker": null,
+      "opening": "\"That's my brother. That's the nigga. The one"
+    },
+    {
+      "quote": 44,
+      "line": 8249,
+      "speaker": null,
+      "opening": "\"To Tank.\""
+    },
+    {
+      "quote": 45,
+      "line": 8261,
+      "speaker": null,
+      "opening": "\"Let's talk.\""
+    },
+    {
+      "quote": 46,
+      "line": 8267,
+      "speaker": null,
+      "opening": "\"You read it?\""
+    },
+    {
+      "quote": 47,
+      "line": 8269,
+      "speaker": null,
+      "opening": "\"The first two lines. Same as everybody.\""
+    },
+    {
+      "quote": 48,
+      "line": 8271,
+      "speaker": null,
+      "opening": "\"I didn't give it to you.\""
+    },
+    {
+      "quote": 49,
+      "line": 8273,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 50,
+      "line": 8275,
+      "speaker": null,
+      "opening": "\"Nigga, I been working on that.\""
+    },
+    {
+      "quote": 51,
+      "line": 8277,
+      "speaker": null,
+      "opening": "\"I know.\""
+    },
+    {
+      "quote": 52,
+      "line": 8281,
+      "speaker": null,
+      "opening": "\"Then why—\""
+    },
+    {
+      "quote": 53,
+      "line": 8283,
+      "speaker": null,
+      "opening": "\"Porsche thought it was the song list. Cassius"
+    },
+    {
+      "quote": 54,
+      "line": 8295,
+      "speaker": null,
+      "opening": "\"I don't want it to sound like you,\""
+    },
+    {
+      "quote": 55,
+      "line": 8299,
+      "speaker": null,
+      "opening": "\"Good.\""
+    },
+    {
+      "quote": 56,
+      "line": 8301,
+      "speaker": null,
+      "opening": "\"Everybody expects some big shit when we talk."
+    },
+    {
+      "quote": 57,
+      "line": 8307,
+      "speaker": null,
+      "opening": "\"Then don't.\""
+    },
+    {
+      "quote": 58,
+      "line": 8311,
+      "speaker": null,
+      "opening": "\"What if I forget?\""
+    },
+    {
+      "quote": 59,
+      "line": 8313,
+      "speaker": null,
+      "opening": "\"You know her.\""
+    },
+    {
+      "quote": 60,
+      "line": 8315,
+      "speaker": null,
+      "opening": "\"What if I can't say it?\""
+    },
+    {
+      "quote": 61,
+      "line": 8317,
+      "speaker": null,
+      "opening": "\"She's gonna be standing right there. Talk to"
+    },
+    {
+      "quote": 62,
+      "line": 8321,
+      "speaker": null,
+      "opening": "\"You gonna manage furniture?\""
+    },
+    {
+      "quote": 63,
+      "line": 8323,
+      "speaker": null,
+      "opening": "\"Nigga, for five minutes. Because I love you."
+    },
+    {
+      "quote": 64,
+      "line": 8331,
+      "speaker": null,
+      "opening": "\"Tank,\""
+    },
+    {
+      "quote": 65,
+      "line": 8331,
+      "speaker": null,
+      "opening": "\"I am sorry. I should have asked.\""
+    },
+    {
+      "quote": 66,
+      "line": 8335,
+      "speaker": null,
+      "opening": "\"Me too.\""
+    },
+    {
+      "quote": 67,
+      "line": 8339,
+      "speaker": null,
+      "opening": "\"I guessed. Poorly.\""
+    },
+    {
+      "quote": 68,
+      "line": 8345,
+      "speaker": null,
+      "opening": "\"Niggas,\""
+    },
+    {
+      "quote": 69,
+      "line": 8345,
+      "speaker": null,
+      "opening": "\"y'all had my wedding vows on a karaoke"
+    },
+    {
+      "quote": 70,
+      "line": 8357,
+      "speaker": null,
+      "opening": "\"I KNOW HOW TO STAY,\""
+    },
+    {
+      "quote": 71,
+      "line": 8365,
+      "speaker": null,
+      "opening": "\"The chord progression was tasteful,\""
+    },
+    {
+      "quote": 72,
+      "line": 8367,
+      "speaker": null,
+      "opening": "\"Nigga, the chord progression was about to get"
+    },
+    {
+      "quote": 73,
+      "line": 8375,
+      "speaker": null,
+      "opening": "\"You finished?\""
+    },
+    {
+      "quote": 74,
+      "line": 8379,
+      "speaker": null,
+      "opening": "\"Yeah.\""
+    },
+    {
+      "quote": 75,
+      "line": 8383,
+      "speaker": null,
+      "opening": "\"Good. I want to dance with the man"
+    },
+    {
+      "quote": 76,
+      "line": 8389,
+      "speaker": null,
+      "opening": "\"Nigga, furniture time. Go.\""
+    },
+    {
+      "quote": 77,
+      "line": 8397,
+      "speaker": null,
+      "opening": "\"You handled that well.\""
+    },
+    {
+      "quote": 78,
+      "line": 8399,
+      "speaker": null,
+      "opening": "\"Nigga, you almost made my brother marry a"
+    },
+    {
+      "quote": 79,
+      "line": 8403,
+      "speaker": null,
+      "opening": "\"Yes.\""
+    },
+    {
+      "quote": 80,
+      "line": 8405,
+      "speaker": null,
+      "opening": "\"Next time ask.\""
+    },
+    {
+      "quote": 81,
+      "line": 8407,
+      "speaker": null,
+      "opening": "\"There will not be a next time.\""
+    },
+    {
+      "quote": 82,
+      "line": 8413,
+      "speaker": null,
+      "opening": "\"Next time I will ask.\""
+    },
+    {
+      "quote": 83,
+      "line": 8415,
+      "speaker": null,
+      "opening": "\"There you go. Growth.\""
+    },
+    {
+      "quote": 84,
+      "line": 8421,
+      "speaker": null,
+      "opening": "\"Nice song,\""
+    },
+    {
+      "quote": 85,
+      "line": 8423,
+      "speaker": null,
+      "opening": "\"Freestyle.\""
+    },
+    {
+      "quote": 86,
+      "line": 8425,
+      "speaker": null,
+      "opening": "\"I noticed. You mentioned yourself less than usual.\""
+    },
+    {
+      "quote": 87,
+      "line": 8427,
+      "speaker": null,
+      "opening": "\"Nigga, it was difficult.\""
+    },
+    {
+      "quote": 88,
+      "line": 8437,
+      "speaker": null,
+      "opening": "\"Keep them.\""
+    },
+    {
+      "quote": 89,
+      "line": 8441,
+      "speaker": null,
+      "opening": "\"I got what I need.\""
+    }
+  ]
+}
