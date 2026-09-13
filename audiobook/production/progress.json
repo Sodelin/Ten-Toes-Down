@@ -789,7 +789,7 @@
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T15:55:24.611173+00:00",
+      "updated_at": "2026-09-13T15:55:34.161182+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-15.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -804,7 +804,7 @@
       "id": "b02-c16",
       "book": 2,
       "chapter": 16,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-16",
       "release_tag": "audiobook-book-02",
       "title": "16. The Tower Was Scared of My Wife",
@@ -813,7 +813,17 @@
       "narrator": "TICKET",
       "segments": 22,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T15:59:37.510470+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-16.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "602bb2c4c277fc8c43f80abb1babf56727f9d990275593ff799c2abeeea0b610",
+        "duration_seconds": 504.68175,
+        "uploaded_at": "2026-09-13T15:59:45.555586+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c17",
