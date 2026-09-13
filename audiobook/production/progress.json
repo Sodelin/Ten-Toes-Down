@@ -129,7 +129,7 @@
       "id": "b01-c06",
       "book": 1,
       "chapter": 6,
-      "status": "rendered",
+      "status": "published",
       "path": "chapters/book-01/chapter-06",
       "release_tag": "audiobook-book-01",
       "title": "6. Forty Million Reasons to Die",
@@ -139,7 +139,16 @@
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T11:59:53.628488+00:00"
+      "updated_at": "2026-09-13T11:59:53.628488+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-06.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "3d3b5d70ec0fe567011ce5070e93c2f3ad40ab7db44f2cb9ad20230218b9c465",
+        "duration_seconds": 1250.1247083333333,
+        "uploaded_at": "2026-09-13T12:40:10.403350+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c07",
@@ -280,7 +289,7 @@
       "segments": 55,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T12:40:00.020343+00:00",
+      "updated_at": "2026-09-13T12:40:09.109680+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
