@@ -464,7 +464,7 @@
       "segments": 59,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T14:01:43.052571+00:00",
+      "updated_at": "2026-09-13T14:01:54.039497+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-02.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
@@ -479,7 +479,7 @@
       "id": "b02-c03",
       "book": 2,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-02/chapter-03",
       "release_tag": "audiobook-book-02",
       "title": "3. You Can't Outrun a Nigga with a Siren",
@@ -488,7 +488,17 @@
       "narrator": "TICKET",
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T14:12:17.684812+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-02",
+        "audio_sha256": "0eaed8dbff050001e6757f90d26b531dc7d9bfaf2688204e619eb16044849466",
+        "duration_seconds": 1296.697125,
+        "uploaded_at": "2026-09-13T14:12:24.059009+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b02-c04",
