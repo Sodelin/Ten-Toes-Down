@@ -1,0 +1,9 @@
+{
+  "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-07.mp3",
+  "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+  "audio_sha256": "8061ffd95e392a9bdeed7beb240fbdc98bd3eb1f667fd491778732fdc534b6ff",
+  "duration_seconds": 1309.8169166666667,
+  "uploaded_at": "2026-09-13T12:06:38.332369+00:00",
+  "checks": "verbatim input, audio integrity and remote asset hashes passed",
+  "listening_review": "pending"
+}

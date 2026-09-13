@@ -114,7 +114,7 @@
       "segments": 62,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T11:50:20.934033+00:00",
+      "updated_at": "2026-09-13T11:51:20.050406+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-05.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -129,7 +129,7 @@
       "id": "b01-c06",
       "book": 1,
       "chapter": 6,
-      "status": "ready",
+      "status": "failed",
       "path": "chapters/book-01/chapter-06",
       "release_tag": "audiobook-book-01",
       "title": "6. Forty Million Reasons to Die",
@@ -138,13 +138,15 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "narrator": "TICKET"
+      "narrator": "TICKET",
+      "updated_at": "2026-09-13T11:59:53.628488+00:00",
+      "error": "s\": [\n      \"TICKET\"\n    ],\n    \"commit\": \"3f16cb8dc89171439167297d744e623d6b16df25\",\n    \"repository_path\": \"editions/niggatorial-tellings/books/book-01.md\",\n    \"source_lines\": [\n      3203,\n      3753\n    ],\n    \"source_sha256\": \"e29ede030580d267adf48c1a179dee4a3b5a510bff3030ac0b65eeed8cb63a98\",\n    \"excerpt_sha256\": \"15b5e94ded3fafd1f6bb42ba5e04ecfcca78d54c42eda4b273e4d6db11a48c81\",\n    \"script_sha256\": \"df3c75f39455f438dd1c5d8cc61a0573e1f7391527bd1284892cf4e767fa503e\",\n    \"normalization\": \"whitespace, curly double quotation marks, standalone ***, paired Markdown emphasis\",\n    \"audio_listening_verified\": false\n  }\n}\n\n[2026-09-13T11:59:04.674359+00:00] chapter publication\nTraceback (most recent call last):\n  File \"C:\\Users\\nolan\\Documents\\Codex\\2026-09-13\\yo-yo-yo-my-nigga-nigga\\outputs\\ten-toes-down-audio\\production\\publish.py\", line 150, in <module>\n    if __name__=='__main__': main()\n                             ^^^^^^\n  File \"C:\\Users\\nolan\\Documents\\Codex\\2026-09-13\\yo-yo-yo-my-nigga-nigga\\outputs\\ten-toes-down-audio\\production\\publish.py\", line 148, in main\n    publish(config,a.chapter)\n  File \"C:\\Users\\nolan\\Documents\\Codex\\2026-09-13\\yo-yo-yo-my-nigga-nigga\\outputs\\ten-toes-down-audio\\production\\publish.py\", line 116, in publish\n    release=json.loads(run(api).stdout)\n                       ^^^^^^^^\n  File \"C:\\Users\\nolan\\Documents\\Codex\\2026-09-13\\yo-yo-yo-my-nigga-nigga\\outputs\\ten-toes-down-audio\\production\\publish.py\", line 19, in run\n    if r.returncode not in okay: raise RuntimeError(r.stderr[-2500:] or r.stdout[-2500:])\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nRuntimeError: Get \"https://api.github.com/repos/Sodelin/Ten-Toes-Down/releases/tags/audiobook-book-01\": dial tcp 140.82.116.5:443: i/o timeout\n\n\nRuntimeError: chapter publication exited with status 1"
     },
     {
       "id": "b01-c07",
       "book": 1,
       "chapter": 7,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-07",
       "release_tag": "audiobook-book-01",
       "title": "7. The Man Who Cut the Heart Out of a Mountain",
@@ -153,7 +155,17 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 63,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "narrator": "TICKET"
+      "narrator": "TICKET",
+      "updated_at": "2026-09-13T12:06:31.378582+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-07.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "8061ffd95e392a9bdeed7beb240fbdc98bd3eb1f667fd491778732fdc534b6ff",
+        "duration_seconds": 1309.8169166666667,
+        "uploaded_at": "2026-09-13T12:06:38.332369+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c08",
