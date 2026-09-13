@@ -4,7 +4,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
-## Book 1 — 10/17 recordings uploaded
+## Book 1 — 11/17 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -13,13 +13,13 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 3. A King with a Hole in Him | [MP3 · 22.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-03.mp3) | [Read](chapters/book-01/chapter-03/script.md) |
 | 4. The Palace of the Woman I Just Met | [MP3 · 23.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-04.mp3) | [Read](chapters/book-01/chapter-04/script.md) |
 | 5. Flowers for the Man I Killed | [MP3 · 21.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-05.mp3) | [Read](chapters/book-01/chapter-05/script.md) |
-| 6. Forty Million Reasons to Die | failed | [Read](chapters/book-01/chapter-06/script.md) |
+| 6. Forty Million Reasons to Die | rendered | [Read](chapters/book-01/chapter-06/script.md) |
 | 7. The Man Who Cut the Heart Out of a Mountain | [MP3 · 21.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-07.mp3) | [Read](chapters/book-01/chapter-07/script.md) |
 | 8. Let Him Think You Love Him | [MP3 · 21.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-08.mp3) | [Read](chapters/book-01/chapter-08/script.md) |
 | 9. Our Valedictorian Has a Gun | [MP3 · 23.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-09.mp3) | [Read](chapters/book-01/chapter-09/script.md) |
 | 10. Forty Million and One Woman | [MP3 · 19.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-10.mp3) | [Read](chapters/book-01/chapter-10/script.md) |
 | 11. Blue Mercy | [MP3 · 19.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-11.mp3) | [Read](chapters/book-01/chapter-11/script.md) |
-| 12. The Money at the Bottom | ready | [Read](chapters/book-01/chapter-12/script.md) |
+| 12. The Money at the Bottom | [MP3 · 19.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-12.mp3) | [Read](chapters/book-01/chapter-12/script.md) |
 | 13. Everybody Bring Your Heart | ready | [Read](chapters/book-01/chapter-13/script.md) |
 | 14. What She Told Me After | ready | [Read](chapters/book-01/chapter-14/script.md) |
 | 15. Ten Toes, Thirty Engines | ready | [Read](chapters/book-01/chapter-15/script.md) |
