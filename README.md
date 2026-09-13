@@ -22,6 +22,16 @@ Distinct voices for six characters, including newly designed Aiden and Tank voic
 
 The earlier editions and their reading files below remain intact.
 
+## The Viet Telling — four complete alternate novels
+
+**207,527 prose words · four books · 98 chapters.** Aiden's Vietnamese crime saga, his father's war, his living great-grandfather's river epic, and a second Aiden novel about a secret club, an affair, and the price of coming home. Grandpa Hòa's untold history and true strength remain an open question.
+
+- [Read The Viet Telling and the four individual books](editions/the-viet-telling/)
+- [Complete Markdown manuscript](editions/the-viet-telling/manuscript.md)
+- [Adaptation and research notes](editions/the-viet-telling/afterword.md)
+
+Creative direction: Nolan. New prose: Codex. A separate, noncanonical alternate telling, in English and Markdown.
+
 ## The Greatest Man Alive
 
 The complete six-book Aiden epic: **318,891 words, 129 chapters, 2,049 PDF pages**. Written by ChatGPT for Nolan, following Nolan's creative direction.
