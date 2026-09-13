@@ -1214,7 +1214,7 @@
       "segments": 36,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T18:23:30.458406+00:00",
+      "updated_at": "2026-09-13T18:23:40.147143+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1229,7 +1229,7 @@
       "id": "b03-c13",
       "book": 3,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-13",
       "release_tag": "audiobook-book-03",
       "title": "13. I Drove a Legend Through the Opera",
@@ -1238,7 +1238,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T18:30:21.883541+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "b0d9de991f27c04ae99583047298113a3437b8f728fbc17a7b20f4a68dec6ca4",
+        "duration_seconds": 762.91075,
+        "uploaded_at": "2026-09-13T18:30:27.856206+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c14",
