@@ -31,7 +31,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 14/20 recordings uploaded
+## Book 2 — 15/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -49,7 +49,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 12. The Train Had Eighty-Six Reasons to Move | [MP3 · 10.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-12.mp3) | [Read](chapters/book-02/chapter-12/script.md) |
 | 13. The Door Opened Both Ways | [MP3 · 12.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-13.mp3) | [Read](chapters/book-02/chapter-13/script.md) |
 | 14. School Was Falling and I Still Had Perfect Attendance | [MP3 · 10.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-14.mp3) | [Read](chapters/book-02/chapter-14/script.md) |
-| 15. Every Cop in the Sky Wanted My Shift | ready | [Read](chapters/book-02/chapter-15/script.md) |
+| 15. Every Cop in the Sky Wanted My Shift | [MP3 · 12.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-15.mp3) | [Read](chapters/book-02/chapter-15/script.md) |
 | 16. The Tower Was Scared of My Wife | ready | [Read](chapters/book-02/chapter-16/script.md) |
 | 17. Blue Thunder Looked Good on a Nigga | ready | [Read](chapters/book-02/chapter-17/script.md) |
 | 18. The Sky Stayed Up Because We Did | ready | [Read](chapters/book-02/chapter-18/script.md) |
