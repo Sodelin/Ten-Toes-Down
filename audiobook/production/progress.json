@@ -89,7 +89,7 @@
       "segments": 66,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "narrator": "TICKET",
-      "updated_at": "2026-09-13T11:44:22.523461+00:00",
+      "updated_at": "2026-09-13T11:45:21.650752+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-04.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
@@ -104,7 +104,7 @@
       "id": "b01-c05",
       "book": 1,
       "chapter": 5,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-01/chapter-05",
       "release_tag": "audiobook-book-01",
       "title": "5. Flowers for the Man I Killed",
@@ -113,7 +113,17 @@
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
       "segments": 62,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "narrator": "TICKET"
+      "narrator": "TICKET",
+      "updated_at": "2026-09-13T11:50:20.934033+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01-chapter-05.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-01",
+        "audio_sha256": "38f19d05fa1f584859b378a1ea251f538af58ac0deb87e86532b2c6dcefa8e27",
+        "duration_seconds": 1293.648875,
+        "uploaded_at": "2026-09-13T11:51:04.480077+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b01-c06",
