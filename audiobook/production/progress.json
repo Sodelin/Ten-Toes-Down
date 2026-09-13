@@ -1389,7 +1389,7 @@
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T19:12:11.355571+00:00",
+      "updated_at": "2026-09-13T19:12:21.272054+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-19.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1404,7 +1404,7 @@
       "id": "b03-c20",
       "book": 3,
       "chapter": 20,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-20",
       "release_tag": "audiobook-book-03",
       "title": "20. Breakfast Before Paradise",
@@ -1413,7 +1413,17 @@
       "narrator": "TICKET",
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:18:42.307258+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-20.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "2ab0600446084713acd7b5ad605e12624b980ee536dc0ceb58de01c76f921ffd",
+        "duration_seconds": 711.5345416666667,
+        "uploaded_at": "2026-09-13T19:18:48.230934+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b03-c21",
