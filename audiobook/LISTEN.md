@@ -31,7 +31,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 1 playlist](books/book-01.m3u)
 
 
-## Book 2 — 8/20 recordings uploaded
+## Book 2 — 9/20 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -43,7 +43,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 6. The Basement Found Out Who Lived Upstairs | [MP3 · 26.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-06.mp3) | [Read](chapters/book-02/chapter-06/script.md) |
 | 7. Forty Floors of Niggas Finding Out | [MP3 · 24.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-07.mp3) | [Read](chapters/book-02/chapter-07/script.md) |
 | 8. A Nigga Can't Be Late to Yesterday | [MP3 · 20.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-08.mp3) | [Read](chapters/book-02/chapter-08/script.md) |
-| 9. The Wrong Men Saw the Blue Lights | ready | [Read](chapters/book-02/chapter-09/script.md) |
+| 9. The Wrong Men Saw the Blue Lights | [MP3 · 12.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02-chapter-09.mp3) | [Read](chapters/book-02/chapter-09/script.md) |
 | 10. My Wife Was Already Inside | ready | [Read](chapters/book-02/chapter-10/script.md) |
 | 11. The Colonel Had Never Been That Embarrassed | ready | [Read](chapters/book-02/chapter-11/script.md) |
 | 12. The Train Had Eighty-Six Reasons to Move | ready | [Read](chapters/book-02/chapter-12/script.md) |
