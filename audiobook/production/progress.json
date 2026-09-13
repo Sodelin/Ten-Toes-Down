@@ -1489,7 +1489,7 @@
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-09-13T19:40:03.727333+00:00",
+      "updated_at": "2026-09-13T19:40:13.297029+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-23.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
@@ -1504,7 +1504,7 @@
       "id": "b03-c24",
       "book": 3,
       "chapter": 24,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-03/chapter-24",
       "release_tag": "audiobook-book-03",
       "title": "24. The Ocean Fit in My Pocket",
@@ -1513,7 +1513,17 @@
       "narrator": "TICKET",
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-09-13T19:48:17.037904+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03-chapter-24.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-03",
+        "audio_sha256": "1b9306d387119929de5575bc7586ee41aced33a4975a5fa9ef69620a75c9de88",
+        "duration_seconds": 921.8634583333334,
+        "uploaded_at": "2026-09-13T19:48:23.948791+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c01",
