@@ -1,0 +1,359 @@
+## 7. The Man Who Cut the Heart Out of a Mountain
+
+“There were rose petals on the bed,” Shawna said. “Dante was putting them in the ice bucket.”
+
+Aiden sat beside her in the lake-facing room. A pin still hung loose from the silver dress near her knee. He wanted to remove it before it hurt her, but she had both hands around his, and he didn't want to interrupt the first thing she was offering him.
+
+She described the wedding room: her shoes on the carpet, Dante still in his suit, gathering petals instead of touching the champagne. She'd asked whether the flowers bothered him.
+
+“He said they had dirt on them,” Shawna told Aiden. “Didn't want me sleeping in dirt.”
+
+She smiled at the memory. Dante had watched her shoes fall as though he hadn't quite believed she intended to stay.
+
+Aiden looked toward the doorway. He knew that look without needing a photograph. He'd watched her put down the watch in their bathroom, checking whether she'd leave something there long enough to belong in the room.
+
+He loosened his grip so she could go on.
+
+***
+
+Dante had told her about his nine months in prison, Shawna said. He'd been twenty-eight then, a little more than three years before this morning. On his first afternoon, a man at the next table poured soup down an older prisoner's shirt.
+
+The old man looked down and kept eating what remained in his bowl.
+
+“You hear me, old man?” the bully had demanded, according to Shawna.
+
+The older prisoner told him he heard perfectly well. When the bully ordered him to look up, he set his spoon down.
+
+“You have my soup on your hand,” Shawna said, giving Aiden the old man's reply.
+
+The man slapped him. Dante stood. As Shawna first told it, the next clear thing Dante remembered was holding the bully against a wall, shouting for somebody to bring the old man another bowl.
+
+Aiden shook his head.
+
+“You skipped the part where he found out,” he told her.
+
+“Who?” Shawna asked.
+
+“The man with the soup,” Aiden said. “How'd Dante get him to the fucking wall?”
+
+She looked at him, then settled farther into the chair.
+
+“He had two friends,” Shawna said. “Three of them altogether.”
+
+Aiden nodded. “There we go.”
+
+She described the first friend rising to block the space between the tables: shaved head, towel over one shoulder, big enough to expect Dante to reconsider. Dante still had his tray.
+
+The man ordered him to sit down. Dante kept coming. The man asked if he was deaf.
+
+“Dante said, ‘No. You finished?’” Shawna told Aiden.
+
+The swing caught Dante along the jaw. He answered with the tray. Food scattered. A cup rolled off the table and broke beneath somebody's shoe. Around them, prisoners stood so fast the benches scraped together.
+
+The man who'd poured the soup caught the older prisoner by his collar and held him between himself and Dante. He told Dante to come get him.
+
+Shawna lifted both hands, showing Aiden the movement her husband had shown her on their wedding night: palms striking the table, body rising, knees driving forward.
+
+Aiden pictured the distance across the table disappearing beneath a man who'd stopped considering any other route. He understood that decision. He didn't especially want to share it with Dante.
+
+Dante hit the bully with both knees. They fell together. The older man stumbled against the bench, steadied himself, and picked up his spoon.
+
+“He picked up the spoon?” Aiden asked.
+
+“He liked it,” Shawna said.
+
+Aiden glanced at the watch on her wrist. “Respect an attachment.”
+
+The remaining attacker came up behind Dante carrying a chair. The old man stuck a foot against his ankle as he passed. The chair struck the table instead of Dante's head. Dante turned into the man and wrestled it away.
+
+“Broke a finger somewhere in there,” Shawna said. “He couldn't tell me where. Said he remembered it hurting afterward.”
+
+She described blood on Dante's shirt, soup spreading over the floor, three men finding reasons to remain down. When guards reached him, Dante was still demanding another bowl.
+
+The nearest guard pointed at the exit. Dante told him the old man hadn't eaten. The guard ordered him to move again.
+
+“Marcellus put a hand on his shoulder,” Shawna said. “Told him he could wait.”
+
+That was the old man's name. Aiden repeated it quietly, connecting the man with the spoon to the jeweler Red had discussed over breakfast.
+
+Dante picked up the empty bowl and placed it in the guard's hand, Shawna told him. Then he looked toward the three men on the floor.
+
+“So can they,” she said, quoting Dante.
+
+A smile pulled at her mouth. Aiden let it stay without trying to turn it toward himself.
+
+“Three men,” he said after a moment.
+
+“Three,” Shawna confirmed.
+
+“I had twelve,” Aiden reminded her.
+
+She tapped his good shoulder with the small cushion beside her.
+
+“You wanted the story,” Shawna said.
+
+“A man can listen and hold the record,” he told her.
+
+Her laugh loosened something in him. He shifted the cushion behind his side and asked her to continue.
+
+***
+
+The fight bought Dante punishment and a friendship. When he returned, Marcellus waited on his bunk with a little paper box. Shawna counted what Dante had said was inside: a broken plastic comb, several buttons, a gold-colored wrapper folded into a heart.
+
+“For his trouble,” she explained. “Dante asked what he was supposed to do with it.”
+
+Marcellus told him to give it to somebody. Dante asked if he meant a woman.
+
+“If you like women,” the old man had replied.
+
+Aiden smiled despite himself. He could picture Dante standing in a prison with a little paper heart, being made to explain his interests.
+
+The folds were so fine, Shawna said, that Dante asked whether Marcellus made jewelry. Marcellus answered that he used to. Dante admitted he'd stolen some himself.
+
+“Then we may have met professionally,” Shawna said, repeating the old man's answer.
+
+She told Aiden that Dante laughed, and Marcellus made room on the bunk. Over the next two months they ate together. The jeweler taught him cards. Dante offered advice about the other men, although Marcellus had already been inside long enough to know most of it. He let Dante talk.
+
+At night, Marcellus held a photograph beneath the light from the corridor. In the picture, Celeste stood on a small stage with a microphone, eyes closed, mouth open. A blue stone rested at her throat.
+
+“His wife,” Aiden said.
+
+Shawna nodded. “Dante asked whether she still visited.”
+
+Marcellus turned the photograph over and said no. Dante left the question alone until a letter came and Marcellus sat through dinner without opening it.
+
+“Dante offered to read it,” Shawna told Aiden. “Marcellus said he knew what it said.”
+
+The letter concerned closing an account. The old man had been angry, according to Dante, that anybody could treat finishing a piece of banking as finishing a love affair.
+
+“She'd died three months before,” Shawna said.
+
+Aiden looked at her hands around his. No expensive answer presented itself. He waited while she took a breath.
+
+That night, she said, Dante asked about the diamond.
+
+***
+
+“Marcellus said the rough stone looked dirty,” Shawna told Aiden. “Nothing you'd look at and think forty million.”
+
+She held her hand toward the window, showing him the size Dante had shown her. A piece of blue sky knocked loose and dragged through earth, that was how the old man described it. He bought it from somebody carrying it in an empty cigarette packet. Paid too much. Threatened two men who wanted a share. Came home with his account empty and a bruise on his jaw.
+
+Celeste was frying chicken when he walked in, Shawna said. She turned the burner down and asked how much.
+
+He told her to look first. She asked again. Finally he put the cigarette packet on the table.
+
+“She opened it and told him they weren't eating that,” Shawna said.
+
+Aiden let out a short laugh. “First sensible person in the story.”
+
+Marcellus held the rough stone toward the kitchen window. Blue light fell across Celeste's white sleeve. She stopped arguing long enough to look at it properly.
+
+“That's the part he kept telling Dante,” Shawna said. “Her sleeve. Her face changing. He said he looked at her instead of the stone.”
+
+Aiden watched the sunlight touch the silver dress. The little pin below her knee glittered. He freed his hand just long enough to pull it loose and place it safely on the table. Shawna glanced down, touched his wrist in thanks, and went on.
+
+The cutting took three months. Marcellus worked in a room behind the house while Celeste sang at a lounge that barely paid. She brought him meals. Returned to find them cold and untouched.
+
+After the first month, she moved his pillow into the workshop. After the second, she set a photograph of herself beside his lamp.
+
+“So you remember who the fuck lives out here,” Shawna said, giving Aiden Celeste's words.
+
+At the end of the third month, Marcellus appeared at the lounge in his good suit with a box in his hands. Celeste was in the middle of a song. The pianist lost his place when he saw her husband walking toward the stage.
+
+Shawna smiled again as she recalled Celeste speaking into the microphone.
+
+“Don't propose again,” she quoted. “I fell for that shit once.”
+
+Marcellus reached the steps and told her he'd made something. She came down. He opened the box.
+
+Aiden watched Shawna search for a description of the color. Dante hadn't been able to give her one either, she said. He'd held her hand near the bedside lamp, trying to explain a blue that deepened away from the light, a stone that looked wet after a person understood it wasn't.
+
+Celeste covered her mouth. Marcellus asked her to turn, then fastened the necklace behind her neck. Small pale stones surrounded the blue, making it seem deeper against her skin.
+
+“She asked what he called it,” Shawna told Aiden. “He said Blue Mercy.”
+
+“Mercy for what?” Aiden asked.
+
+“That's what she asked,” Shawna said. “He told her the last three months.”
+
+Celeste kissed him in front of the lounge, she said. In the same room sat Valentino and Red. Red was twenty-eight at the time. Marcellus later learned they'd been watching from the back.
+
+Aiden turned his hand palm-up on the chair arm. It was an old story passing through several people: Marcellus to Dante, Dante to his bride, Shawna to him now. He couldn't see a diamond yet. He could see a man returning from a room behind a house, hoping the thing in his hands could pay for all the nights he'd left his wife outside it.
+
+He wanted to ask something cruel about whether Dante kissed better or promised more. Instead he waited for Shawna to tell him what happened next.
+
+***
+
+Red and T came to the workshop two weeks later with an expensive bottle of wine. That was Marcellus's account, Shawna reminded him; Red's claim to have bought an extraordinary stone began with a man saying it wasn't for sale.
+
+Red offered money anyway. Marcellus said it belonged to his wife. Red told him to ask her.
+
+“She isn't for sale either,” Shawna said, repeating Marcellus's answer.
+
+T laughed. The two men left the wine on the table when they went.
+
+Celeste read the label and carried the bottle to the sink. Marcellus caught her wrist, asking whether she knew what it was worth. She pulled free.
+
+“That's why I don't want to find out what we owe if we drink it,” Shawna quoted.
+
+Aiden looked down at his own hand. The cross rested against his shirt where T had put it, where Shawna had returned it. He let her keep talking.
+
+Money remained short. A necklace couldn't pay the electric bill if nobody meant to sell it. Valentino arranged a private showing. A wealthy client wanted something made in the same blue setting. Other men would pay Marcellus to inspect jewels they already owned.
+
+He told Celeste the work would let him stop worrying. She asked when he'd have enough work to stop.
+
+Before the showing, he made a duplicate with a lesser blue stone. Under warm light, it could pass in an identical necklace while Celeste wore the real one. The mounting could be removed, Shawna explained. Marcellus marked it where he knew to look. The actual diamond had a tiny irregularity inside it that no copy could share.
+
+Aiden repeated that distinction to her: a mark on the mounting, a flaw inside the stone.
+
+“That's what he told Dante,” Shawna said. “They took both anyway.”
+
+T held Marcellus against his own workbench. Valentino lifted the necklace from Celeste's throat carefully enough not to disturb her hair. The loose jewels vanished with the duplicate and the book of customers' names. Red stood in the doorway.
+
+“Now perhaps we can agree on a price,” Shawna said, quoting what Marcellus remembered Red telling him.
+
+Marcellus lunged. T hit him hard enough to knock the lamp off the bench. Celeste went down beside her husband and told Red to take it and go.
+
+Red left an envelope with a fraction of the money inside. Enough to call it payment, Shawna said. Not enough to mistake it for anything the jeweler had agreed to.
+
+After they left, Celeste held a towel against Marcellus's face. She kept asking him to look at her. The necklace was gone. She was still there.
+
+“He told Dante he couldn't stop looking at her throat,” Shawna said. “Where the stone had been. That's what he saw while she was trying to get him to look at her face.”
+
+Aiden's eyes dropped to the bare place at Shawna's throat. He brought them back up deliberately.
+
+***
+
+Aiden stood and moved to the window while Shawna told him how Marcellus went after the necklace. The chair had begun hurting his side. Standing wasn't much better, but it gave his hands something to do against the windowsill.
+
+“Celeste tried to stop him?” Aiden asked.
+
+“Took his keys,” Shawna said.
+
+“Smart woman,” Aiden said.
+
+“He called a taxi,” Shawna told him.
+
+Marcellus went in the same good suit he'd worn to the lounge, with a pistol inside his coat and Red's envelope on his knee. The last thing he saw at home, he'd told Dante, was Celeste standing in the doorway holding the keys he no longer needed. She didn't call after him.
+
+At Valentino's club, a singer he knew stopped halfway through a line when she saw his face. Valentino sat in a private booth with two men. Marcellus put the envelope on their table.
+
+“Your money,” Shawna said, repeating the words Dante had repeated to her.
+
+Valentino inspected it and asked whether he'd come to buy something. Marcellus told him he'd come for what was his.
+
+The man on Valentino's right stood. Marcellus struck him with the pistol before he got fully upright. He went across the table into the champagne. The second man reached beneath his jacket, and Marcellus fired.
+
+“Shoulder,” Shawna said. “The man lived.”
+
+Aiden nodded once. He kept picturing Red at breakfast, cutting food while talking about a violent jeweler.
+
+Valentino slipped behind the booth. Marcellus followed him through a door beside the bar, along a corridor, into a room of jewelry laid beneath bright lights. He found his own tools on a table.
+
+One still carried the initials he'd engraved when he bought it. Shawna described him lifting it and turning it over while the diamond remained nowhere he could see.
+
+Men came in behind him. Another appeared at the far door. Marcellus turned with his gun and demanded the necklace.
+
+The first blow caught him behind the ear. Rings scattered as he struck the table. Someone caught his wrist. Someone hit his stomach. He ended on the cold tile among things he'd made, unable to raise the pistol.
+
+By the time police entered, Valentino was in the doorway explaining how dangerous the jeweler was. Marcellus tried to get up when he heard him. The men holding him pressed him down again.
+
+Shawna paused. Aiden turned from the window.
+
+“What?” he asked.
+
+“The taxi was still outside,” she said. “Driver holding up the meter while they carried him out.”
+
+Aiden looked at her. Money still finding something to ask for while a man went past bleeding. He could imagine the little illuminated numbers far too clearly.
+
+Celeste came to the station in slippers, one heel crushed beneath her foot. Marcellus saw those first. He told her he hadn't found the necklace.
+
+“I found you,” Shawna said, repeating Celeste's answer.
+
+Marcellus told Dante he'd spent the years afterward wishing he'd said something better in return.
+
+Aiden left the windowsill and came back to her chair.
+
+“Red has to die,” he said.
+
+Shawna caught his hand. “Keep listening.”
+
+“I am,” Aiden told her. “That's what the listening is doing.”
+
+***
+
+Marcellus went to prison. Red opened the Saint with money raised against a diamond he said he had bought from a respected jeweler. Marcellus read about it in a magazine in the visiting room, Shawna said.
+
+Celeste kept visiting. Bright dresses at first, stories from the lounge, candy she told him to eat when he interrupted with questions about who was asking after the necklace.
+
+Then the visits became less frequent. She was ill. Marcellus admitted to Dante that he'd taken her absence as punishment before he understood how sick she was. They argued through the glass about a doctor she hadn't mentioned and money he couldn't send.
+
+On her final visit, she wore earrings he'd made before either of them knew Red. She asked him to remember the first thing he'd ever given her.
+
+“He guessed the earrings,” Shawna said. “Then a bracelet.”
+
+Aiden looked toward the piano by the lake doors, the house around it, the pin holding his own jacket closed. He waited.
+
+“A ride,” Shawna told him. “She'd been standing in the rain. He drove her home. Didn't ask for her number till they got there.”
+
+Celeste asked her husband to remember that man too. She put her hand against the glass.
+
+After her death, a letter arrived with her things. Marcellus carried it until the folds began splitting. Eventually he read it aloud to Dante. Dante wrote down what he could after he got out because he was frightened of forgetting it.
+
+“He read it to me that night,” Shawna said. “I don't remember every word.”
+
+Aiden sat beside her again. “Tell me the ones you do.”
+
+She began with the little words hidden beneath the blue mounting. Celeste found them one night while taking the necklace off, angry because Marcellus had missed supper again. They were what he used to say when he came to her door.
+
+“I came for you,” Shawna recited.
+
+Aiden looked at her wrist. She went on before he could ask anything.
+
+Celeste wore those words against her skin afterward. She understood the hours he'd spent cutting the stone. She wanted him to know her visits stopped because she was sick, not because she stopped loving him. She wanted to spend what strength she had left somewhere she didn't have to pass through a locked door.
+
+Shawna's voice lowered as she reached the line she remembered most clearly.
+
+“If you get your beautiful stone back, put it down before you touch somebody you love,” she said. “I know your hands. They are warmer without all that metal in them.”
+
+Aiden opened the hand she'd been holding. His fingers had closed around nothing hard enough to ache.
+
+The letter told Marcellus to open the curtains when he came home, Shawna said. Pay the piano player what Celeste owed him. There was chicken in the freezer because she never learned to cook for one.
+
+Shawna stopped, pressed her lips together, then gave him the last line.
+
+“I would take the ride again,” she said.
+
+Aiden looked toward the lake until his face felt dependable enough to turn back.
+
+“What did Dante do?” he asked.
+
+“Promised to get it back,” Shawna told him.
+
+“For a man he met inside?” Aiden asked.
+
+“For Marcellus,” she said. “For her. For the kind of man Dante thought that would make him.”
+
+“And you?” Aiden asked.
+
+Shawna looked down at their hands. “I thought I'd married somebody who would do that.”
+
+He nodded slowly. He didn't find Dante easier to want in their lives. He found him harder to dislike cheaply.
+
+Shawna told him Dante took the three million first. He meant to pay for a lawyer for Marcellus and buy a way out for himself and Shawna once Red learned what else he wanted. He believed T would choose his brother.
+
+“He didn't,” Aiden said.
+
+“No,” Shawna answered.
+
+She lifted the watch. Light travelled across its oversized face.
+
+“Last night he came home, he asked if it still looked too big on me,” she said. “I told him everything he owned was too big. He said he'd put something in it that fit.”
+
+Aiden leaned closer.
+
+“What something?” he asked.
+
+“I thought he meant himself,” Shawna said.
+
+She worked the clasp with shaking fingers. Aiden moved his hand beneath hers so the watch couldn't fall when it opened.

@@ -2,7 +2,7 @@
 
 **Blood Money and Blue Diamonds**, the first book of the original Tellings.
 
-Chapters **1–4 of 17** are rewritten, reviewed, and released in all three viewpoints. The remaining chapters are in progress.
+Chapters **1–7 of 17** are rewritten, reviewed, and released in all three viewpoints. The remaining chapters are in progress.
 
 ## Read and listen
 
