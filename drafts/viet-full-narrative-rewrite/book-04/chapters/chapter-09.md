@@ -1,0 +1,161 @@
+## Chapter 9: The Breakfast Alibi
+
+In the morning Khải made coffee, and that was harder to dismiss than the night.
+
+I'd expected guilt to announce itself in some exceptional form. Instead traffic passed beneath the open kitchen window. A woman in the market argued about crushed delivery boxes. Khải stood in damp hair and bare feet making eggs. His shirt stretched across my shoulders; he'd looked once at its seams and informed me he'd never liked them anyway.
+
+He set iced coffee before me. I tasted it, found it excellent, and said so. Khải accepted the review with mock gravity and gave me toast.
+
+We ate slowly. I noticed the faint mark at his throat; he caught me looking and informed me I should recognize my own work. I smiled. The ease of it didn't make what I'd done less serious. It made the life I'd concealed feel real enough to want again.
+
+Khải took a piece of toast out of the pan with his fingers, regretted it, and shook his hand over the sink. I reached for the plate. He moved it away.
+
+“You lift vehicles,” Khải said. “That doesn't qualify you for breakfast.”
+
+“We could test the transfer of skill,” I said.
+
+“Two intact plates left,” Khải replied. “I refuse peer review.”
+
+He sat again and put the less browned slice on my side. I pushed it back. He looked at the darker one, broke it in half, and divided both kinds between us. It was such a small act that I had no place to put how much I liked it.
+
+“Do you eat here every morning?” I asked.
+
+“When I'm here. At the studio it's whatever the assistants hide from me badly,” Khải said.
+
+“They hide your breakfast?” I asked.
+
+“They hide theirs,” Khải said. “Accuracy matters in our work.”
+
+He described a packet of biscuits labeled foundation samples that had fooled him for three days. I told him Saint would pay for labeling technology that successful. Khải laughed and brushed crumbs into his palm. Sunlight reached the table edge. There was no emergency pulling us out of the room, no difficult machine to distract me. I wanted another piece of toast because it would mean sitting there longer.
+
+When Khải offered one, I said yes. Then I looked at the ring beside my phone.
+
+My wedding ring lay beside my phone. I'd taken it off to wash my hands and left it while drying them. When I put it back on, Khải looked at it.
+
+“What happens now?” Khải asked.
+
+“I don't know yet,” I said.
+
+“That's at least something I can believe,” Khải said.
+
+I told him I wasn't treating the night as a mistake. He wasn't either. He buttered another piece of toast before speaking again.
+
+“But I won't spend mornings hiding your glass,” Khải said.
+
+“I haven't asked,” I said.
+
+“People ask without using the word,” Khải replied.
+
+Downstairs something fell, and the delivery argument became much louder. Khải winced. The plants were probably from his mother, he explained. She owned a greenhouse and sent greenery to people regardless of whether they'd expressed a need to remain visible inside their homes.
+
+His phone rang. He showed me the screen. Evidence, his expression said. While he explained to his mother that a neighbor's balcony didn't constitute spare family acreage, I went to the window.
+
+The van below had backed into an awning support. The striped canopy sagged across half the market entrance. The driver stood with his hands spread beneath the bend as though presenting a work of art nobody understood.
+
+I went downstairs.
+
+The market woman looked at Khải's shirt on me, then at my face. “You live here?”
+
+“Visiting,” I said.
+
+“Good morning, visitor. Look what this idiot did,” the market woman said.
+
+The driver objected. I raised the canopy frame off his van with one hand and straightened its support with the other. The metal squealed, settled, and stopped blocking the door. The driver looked up through the repaired shade and began thanking me fast enough to eliminate most consonants.
+
+“Unload the plants,” I told him.
+
+When I returned upstairs Khải stood at the window with his mother still on the phone. She wanted the name of the man who had fixed the awning.
+
+“Tell her the visitor,” I suggested.
+
+Khải looked at me, then told her my name. Hearing it in his kitchen pleased me. I understood enough to know pleasure wasn't an exemption.
+
+Thành called while I pulled on my ruined jacket.
+
+“You have my car,” Thành said.
+
+“It was at a party,” I said.
+
+“It isn't there now,” Thành said.
+
+“Parties end,” I told him.
+
+He wanted it returned by Friday. I wanted an explanation for Mick. Thành claimed the groundsman had stolen from him. I observed that his bookkeeping left bullet wounds. The pause afterward carried more information than his denial.
+
+When he hung up, Khải stood beside the sink holding our glasses. “He'll send people.”
+
+“I'll tell the crew,” I said.
+
+“And your wife?” Khải asked.
+
+I put a hand against his back. He waited. I said I would speak to her. When he asked whether I meant today, I took too long.
+
+Khải moved my hand gently away. “Don't promise a day just because I'm here to hear it.”
+
+Saint waited outside the Pearl holding coffee and a bag. He had the look of a man who'd prepared several jokes and lost interest in using them.
+
+“Shawna called Trinh,” Saint said.
+
+I stopped with my hand on the door.
+
+“Asked if the room was all right. It was. Asked if you'd slept. Trinh hadn't checked your room, which was true because you weren't in it.” Saint looked at my shirt. “Whose?”
+
+I said his name instead of answering. He didn't let it help.
+
+“Nigga, I promote faces,” Saint said. “Yours has been walking around without permission all week.”
+
+I could have lied. The next lie was already available. I disliked how quickly it arrived.
+
+“I stayed with Khải,” I said.
+
+Saint looked down at the coffee. “Shawna's my friend.”
+
+“I haven't asked you to lie,” I said.
+
+“Then stop putting the lie in my office,” Saint said. He handed me the pastry bag and went inside.
+
+Upstairs Trinh gave me the work report. The Argent was secure. Tess was testing it. Hậu had extra men. Irene would call later. Then Trinh closed the folder and told me to have the conversation I was avoiding somewhere outside her shift.
+
+I nodded. We worked an hour. A room manager wanted a larger cut. A supplier had delivered the wrong tables. Someone had offered a boat against a debt; Trinh had written NO beside it so firmly the next page carried the impression.
+
+“Shawna would like that,” I said automatically.
+
+Trinh looked up. I went back to the numbers.
+
+At Orchard House Shawna and Valerie were arranging flowers for the collection photographer. Shawna smiled when she saw me, then noticed the borrowed shirt. I said mine had been ruined moving the car. That much was true. Valerie took the flowers into the next room.
+
+Shawna kissed my cheek. “Long night?”
+
+“Long,” I said.
+
+“Trinh sounded calm. What was wrong with the room?” Shawna asked.
+
+Here it was. The opening Khải had asked for. No gun, no broken ramp, no ticking deadline. My wife stood before me and asked where I'd been. I could have said his name.
+
+“One of the back rooms,” I said. “We had to stay until it was sorted.”
+
+Shawna watched me a moment, then nodded. She asked me to move a garment rail, thanked me when I did, and started telling me about a buyer who wanted the collection in two cities. She'd negotiated it herself. She'd refused exclusivity rather than tie up the work for a year.
+
+Her hands moved as she talked. The new order mattered to her; I could see her trying to contain how much. I stood with an empty hanger bag and managed an inadequate congratulations.
+
+Shawna stopped. “I know it's good, Aiden. I wanted to tell you last night.”
+
+I put down the bag and held her. She held me back, then tapped my shoulder so I wouldn't crease a sample.
+
+At dinner I listened properly. I asked questions I should have asked before. She laughed because she was pleased with the order and because she still believed what I'd told her. I loved her. I ate across from her carrying the knowledge that love had not prevented me from arranging this room to my advantage.
+
+Later, while she slept, I took my phone into the bathroom and called Khải. He answered quietly.
+
+“Did you talk to her?” Khải asked.
+
+“No,” I said.
+
+He was silent long enough for me to hear the hum of the bathroom light.
+
+“I wanted your voice,” I said.
+
+“You keep knowing things and doing them anyway,” Khải told me.
+
+I sat on the closed toilet lid. We talked for twenty minutes about his mother's plants. One stem had broken; his neighbor had splinted it with a chopstick and far too much string. He made me laugh quietly into my hand.
+
+When I returned to bed, Shawna moved toward me in her sleep. I lay beside her until the windows began to lighten.

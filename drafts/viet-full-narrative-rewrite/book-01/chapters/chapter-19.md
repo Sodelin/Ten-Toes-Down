@@ -1,0 +1,241 @@
+## Chapter 19: The Price Goes Up
+
+Sunday put my face on a bus. It filled most of the side, twelve feet wide, smiling above the words COME ABOARD WITH THE KING.
+
+The bus stopped outside Bishop's while I was eating lunch. Denise looked through the window, looked back at me, and set another bowl on the table.
+
+“You eating for two now?” she asked.
+
+Saint was already on his way outside with his phone. I caught the back of his jacket before he reached the curb.
+
+“Do not admire the problem,” I told him.
+
+“I'm documenting unauthorized usage,” Saint said.
+
+“You're smiling,” I pointed out.
+
+“I can do both,” he replied.
+
+The driver opened the bus door when he saw me.
+
+“You want a ride?” he asked.
+
+“Who gave you that advertisement?” I asked him.
+
+He pointed at the depot number on his shirt. “They give me keys. I don't choose the people on the side.”
+
+I nodded. His shoulders lowered. Then he leaned toward the open door.
+
+“Can you sign it?” the driver asked.
+
+Saint produced a marker so quickly that I suspected he'd been waiting for this particular emergency. I took it, walked around the side, and wrote across my enormous forehead: I DIDN'T AGREE TO THIS.
+
+Passengers watched from the windows above me. One applauded. The driver got out, read the inscription, and looked worried again.
+
+“Am I supposed to wash that off?” he asked.
+
+“Ask the people who gave you the keys,” I told him.
+
+He considered that, nodded, and got back behind the wheel. Saint stood beside me holding the marker cap as the bus pulled away.
+
+“You just improved the advertisement,” Saint said.
+
+“Then let's improve the competition,” I told him.
+
+By evening, Trinh had booked the Pearl for the ferry's opening night. Three other Circle rooms agreed to hold parties of their own. Shawna offered to show the remaining pieces from her collection at the Pearl. Saint called everyone who'd paid to photograph me and made my plans clear.
+
+“No boat,” he kept telling people. “Dry land. Reliable floor. A man with a face that belongs to him.”
+
+Deposits began arriving before he finished the calls. He recorded them on a napkin until Trinh took it away and handed him a notebook.
+
+“You've entered civilization,” she told him.
+
+Saint opened it. “It lacks romance.”
+
+“It has page numbers,” Trinh replied.
+
+The next morning, Benny Châu came to the Pearl with two men carrying a safe. It would fit behind the bar, but the men had to stop twice before getting it that far. Benny followed them upstairs, twisting his hands together each time they put it down.
+
+“For the house,” he told me.
+
+“You're already lending me a house,” I said.
+
+“For the money in the house,” Benny explained.
+
+“You could have brought a shelf,” I told him.
+
+He swallowed. “Mercer came to my room last night.”
+
+I let him continue. Sunday had asked about Orchard House, its staff, the terrace, and the river side of the property. Benny said he'd answered a few questions before understanding what sort of conversation he was having.
+
+“I told him I wasn't involved,” Benny said.
+
+“And?” I asked.
+
+“He said everybody who profits is involved,” Benny told me.
+
+Saint looked up from his notebook. “I hate when a dangerous nigga discovers a slogan.”
+
+I went around the bar to stand beside Benny.
+
+“Did you give him keys?” I asked.
+
+“No,” he said.
+
+“Did anyone who works for you?” I asked.
+
+“No,” Benny repeated.
+
+“Then keep coming to the Pearl,” I told him.
+
+He looked at the safe. “You don't want it?”
+
+“I want you to stop apologizing with furniture,” I said.
+
+Benny laughed nervously. Then he took a thick envelope out of his jacket and placed it on the counter.
+
+“This isn't furniture,” he told me.
+
+I let him leave it.
+
+Money came faster than we could clear places to count it. Some came from the games, some from appearances, some from men who wanted to be close to whoever remained if Sunday lost. I took my share and paid Trinh hers. Hậu and Rafa received enough to stop pretending their cars and bodies were unpaid favors.
+
+Hậu looked at the transfer on his phone for a long time.
+
+“That's too much,” he said.
+
+“You went through a mall in a wheelchair,” I told him.
+
+“You did most of the steering,” Hậu replied.
+
+“Buy something that fits,” I said.
+
+He looked down at his new shirt. “This fits.”
+
+“Something with a roof,” I told him.
+
+His eyes came back to mine. “You mean that?”
+
+I nodded. He went quiet, looking between me and the number on the screen. Then he put the phone down, took a sandwich from the plate between us, and handed me half.
+
+“Thank you,” Hậu said.
+
+“Hank the Thank,” I told him.
+
+He laughed and shook his head. “Don't let Saint print it.”
+
+Across the room, Saint was already writing it down.
+
+That afternoon, Imani brought her former chief engineer to Orchard House. Edwin Marsh was narrow, with silver hair, permanently darkened fingernails, and a voice that sounded worn down by forty years of arguing with engines.
+
+He stopped in the kitchen doorway when he saw Dad at the table.
+
+“Minh,” Edwin said.
+
+Dad looked up from the broken toaster he'd brought from our old apartment. “Ed.”
+
+“You still making everybody else look unemployed?” Edwin asked.
+
+“Only on Thursdays,” Dad told him.
+
+Edwin laughed and shook his hand. Imani looked between them.
+
+“Everybody knows everybody,” she said.
+
+“Usually after something breaks,” Dad replied.
+
+We took the ferry photographs out to the terrace. Edwin spread them across the table and began explaining the changes. Imani interrupted whenever he drifted into something she already knew, keeping him close to the parts that mattered to me.
+
+“Can it run safely?” I asked.
+
+“With a crew that knows it,” Edwin said. “And without some idiot locking people out of places they need to reach.”
+
+“Mercer's doing that?” I asked.
+
+He tapped a picture of a new steel door. “He calls it privacy.”
+
+“Can you undo it?” I asked him.
+
+Edwin looked at Imani. She turned toward me.
+
+“We can get people off a boat,” Imani said. “We won't help you fill it with more people to prove a point.”
+
+“I don't want them on it,” I told her.
+
+“Good,” Imani said. “Then we understand each other.”
+
+I paid them before they left. Edwin tried to return part of the money when he saw Dad watching from the kitchen. Dad told him to take it and stop wasting everybody's afternoon.
+
+Afterward, I sat at the kitchen table. The toaster lay open between Dad's hands. A small spring rested beside his screwdriver.
+
+“How do you know Ed?” I asked.
+
+“A truck,” Dad said.
+
+“That's not much of a story,” I told him.
+
+“It was a big truck,” he replied.
+
+He put the spring back and closed the toaster.
+
+“Your great-grandfather asked whether you're trying to buy the river,” Dad said.
+
+“No,” I told him.
+
+“Good,” he said.
+
+“Why?” I asked.
+
+Dad plugged in the toaster, put in two slices, and lowered the lever.
+
+“He says he still has some of the paperwork,” Dad told me.
+
+I stared at him while the bread browned. When it popped up, he caught the pieces before they landed on the table and handed me one.
+
+“Ask him after dinner,” Dad said. “He likes an audience.”
+
+Two nights later, the owner of a smaller Circle room on Ash Street called Trinh. Sunday's men were taking over his premises. They'd brought a van full of folding tables and a new sign, and had begun replacing him in front of his own customers.
+
+Trinh called me. When we arrived, a man was on a ladder unscrewing the old sign above the entrance.
+
+“Leave that,” I told him.
+
+He looked down, recognized me, and came off the ladder at once. Inside, six men occupied the gaming room. Two were emptying the till. The other four stood among the tables, blocking the customers from leaving. A woman in the nearest chair clutched her handbag against her chest.
+
+I stopped in the doorway. “Who wants to explain?”
+
+The taller man at the till turned with cash in his hand.
+
+“New management,” he said.
+
+“Again? Busy month,” I told him.
+
+He put the money down and came toward me. I picked up a folding chair, closed it, and held it out. He accepted it before stopping to consider why.
+
+I drove the chair into his chest with both hands. He flew backward into the edge of a table. The frame bent around his shoulders, and he hit the floor still holding it.
+
+The other man at the till reached for a bottle. Hậu took it from him and tried to drink, then noticed the cap was on. He lowered it, annoyed, and pinned the man against the bar with his free hand.
+
+Two men headed for the rear exit. Rafa had come around the back and stood in the doorway holding a wrench. They stopped and raised their hands.
+
+The remaining pair looked at each other. I pointed at the new sign leaning against the wall.
+
+“Take your furniture,” I told them.
+
+They collected it. Their companion needed help getting the bent chair through the entrance. They turned him sideways and carried him out while the customers watched. Then the applause began.
+
+The owner came from behind the bar holding the recovered cash.
+
+“For you,” he said.
+
+I took half and pushed the rest back into his hand.
+
+“Open tomorrow,” I told him.
+
+“Of course,” the owner said.
+
+Outside, Saint waited beside the car. He watched the departing van, then the customers crowding the doorway behind me.
+
+“Do we need to update your appearance fee?” he asked.
+
+I got into the car. “Double it.”

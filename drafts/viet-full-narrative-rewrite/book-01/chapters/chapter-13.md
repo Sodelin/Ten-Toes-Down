@@ -1,0 +1,277 @@
+## Chapter 13: Gifts for a Bastard
+
+The racehorse arrived anyway.
+
+At eight on Monday morning, it stood outside the atelier wearing a blue ribbon and chewing my welcome-home banner. Shawna saw it first from the apartment window.
+
+“Aiden,” she said.
+
+I came to stand beside her. The horse looked up with painted bedsheet protruding from its mouth.
+
+“I refused that,” I told Shawna.
+
+“It hasn't accepted your refusal,” she said.
+
+A man in riding boots stood beside a trailer with a clipboard. Saint faced him on the pavement, talking with both hands. From upstairs it looked like a negotiation between someone who understood horses and someone who understood deposits.
+
+I opened the window. “Saint!”
+
+He looked up. “Good morning, Your Greatness.”
+
+“Send it back,” I told him.
+
+“The owner says it likes you,” Saint called.
+
+“We've never met,” I said.
+
+Saint indicated the horse. “It's seen the video.”
+
+Shawna closed the window before I could answer.
+
+“Nigga, I am not learning to clean up after a horse because you won an argument at a boxing gym,” she said.
+
+I called the owner. He sounded hurt when I explained the problem. I thanked him and complimented the horse, which had now eaten enough of the banner to alter my name.
+
+“My wife opened a tailoring business,” I told him. “We don't have a stable.”
+
+“I can buy you one,” the owner offered.
+
+It took another ten minutes. When I finally reached the street, the horse was leaving and a refrigerator was arriving.
+
+I pointed at Saint. “Stop accepting appliances.”
+
+“This one's for the Pearl,” he told me.
+
+“Why is it here?” I asked.
+
+Saint nodded toward the man holding the delivery dolly. “The driver wanted a picture.”
+
+I stood beside the refrigerator. The driver took his photograph, thanked me, and handed me an envelope before wheeling the appliance down the block. Inside was five hundred dollars.
+
+Shawna looked over my shoulder at the money.
+
+“You should have let him take a video,” she said.
+
+By noon, flowers crowded the apartment until walking to the kitchen required turning sideways. The hallway contained three televisions, a marble side table, and a painting of me riding a tiger. The painter had made my jaw wider than my shoulders.
+
+“That's how he sees your aura,” Saint explained.
+
+“That's how he avoids painting a neck,” I told him.
+
+Hậu carried the painting upstairs and tried it against two walls. The plastic crown had already found a home on top of our kitchen cabinet. Hậu denied putting it there, although nobody else could reach the spot without a chair and no chair had moved.
+
+Trinh arrived with the week's cash from the Pearl and two of the Circle's smaller gaming rooms. She set a bag on the counter between vases and opened it.
+
+Saint stopped studying the tiger. “That's a healthy animal.”
+
+The bundled notes smelled of cigarette smoke and somebody's perfume. For years those rooms had paid Bảo. Their managers had brought the money here quickly enough to make sure I understood they understood.
+
+“They all come willingly?” I asked Trinh.
+
+She gave me a dry look. “Some came enthusiastically. Some came because they watched you take apart the stage.”
+
+“Which ones are useful?” I asked.
+
+Trinh arranged the envelopes in groups beside the open bag.
+
+“These want to expand,” she said. “These two want a dispute settled. This one wants you to frighten his wife's boyfriend.”
+
+I pushed the last envelope back. “Tell him to buy flowers.”
+
+Saint looked around the apartment. “We can supply those.”
+
+Another knock came before Trinh could close the bag. The visitor introduced himself as Benny Châu. He was small, neatly dressed, and sweating despite the cool air coming up the stairs. I recognized him from Honest Work, where he'd applauded with both hands above his head. He told me he owned a private card room near the marina.
+
+In his hands was a wooden presentation box. Shawna looked at it and pointed toward the stairs.
+
+“If there's something alive in there, leave,” she told him.
+
+“A key,” Benny said quickly.
+
+“One?” Shawna asked.
+
+“One main key,” Benny said. “There are others.”
+
+He opened the box. A brass key lay against its lining, attached to a silver tag engraved ORCHARD HOUSE.
+
+“What is Orchard House?” I asked.
+
+“A house,” Benny said.
+
+Saint folded his arms. “Strong opening, Benny. Keep going.”
+
+Benny set the box where we could all see it and explained. The house stood on a low rise above the river, fifteen minutes from Bell Street. He'd bought it to entertain clients. His wife hated it. Lately his clients preferred the Pearl.
+
+“I'd like you to have the use of it,” Benny told me. “The house, the staff. As long as your games are making my games fashionable.”
+
+Shawna put down the invoice she'd been holding. “The staff work for themselves.”
+
+“Of course,” Benny said. “I mean I pay their wages.”
+
+“Then say that,” she told him.
+
+He nodded rapidly. I picked up the key, weighing it in my good hand.
+
+“What do you want in return?” I asked Benny.
+
+“You come to my room once a month,” he said. “Sit at a table. Be seen.”
+
+“Play?” I asked.
+
+“Please don't,” Benny replied.
+
+I laughed. His gaze moved to the black equipment case beneath our table.
+
+“I heard about the computer,” Benny said.
+
+“Everybody did,” Saint announced proudly.
+
+Trinh looked at him. “You told everybody.”
+
+“Again,” Saint said, touching his own chest. “Publicist.”
+
+We went to see the house after lunch. It had seven bedrooms, a terrace above the river, and a pool shaped as if somebody had described an oval to an architect during an argument. From the drive, I could see the water through the far side of the house.
+
+A woman met us at the front door holding a tablet. She had the composed expression of someone who'd already survived wealthy people explaining what they wanted.
+
+“Mr. Trần. Mrs. Nguyễn,” she said. “Valerie Banks. I manage the house.”
+
+“Aiden,” I told her.
+
+Valerie looked up from her tablet. “For emergencies or generally?”
+
+“Generally,” I said.
+
+“Good,” she replied. “Mr. Châu had four preferred titles depending on who was visiting.”
+
+She took us through the rooms, explaining the practical things Benny had left out. Shawna listened more closely than Saint, who kept drifting toward windows with his phone raised. Hậu followed quietly, examining doorways before passing through them.
+
+In the largest bedroom, Shawna opened the door to the adjoining dressing room and stopped. I waited by the bedroom entrance while she walked inside. There were cupboards along both walls and enough clear floor between them to lay out a garment without moving anything first.
+
+“Is it enough?” I asked.
+
+She opened a second cupboard. “For now.”
+
+Valerie gave her a key separate from the one in my pocket.
+
+“That locks the workroom downstairs,” Valerie said. “I was told you might need one.”
+
+Shawna turned toward me. “You thought of that?”
+
+“I'm occasionally useful,” I told her.
+
+She came back through the doorway and kissed me. Valerie studied her tablet with professional concentration until we were ready to continue.
+
+On the terrace, Saint was already photographing the view.
+
+“We should do the official portrait here,” he called through the open doors.
+
+“There's no official portrait,” I told him.
+
+Saint turned his phone toward the house. “Then this place lacks leadership.”
+
+Hậu stood by the pool, looking into the water.
+
+“Can I use this?” he asked me.
+
+“Yes,” I said.
+
+He looked across to the far side. “Whenever?”
+
+“Within reason,” I told him.
+
+Hậu considered the width again. “That's a lot of reason.”
+
+My phone rang before Valerie could finish the tour. Loan began without a greeting.
+
+“Two men downstairs wearing your shirts,” she told me. “They say they're collecting for you.”
+
+I looked toward Saint on the terrace. He lowered his phone when he saw my face.
+
+“What are they collecting?” I asked Loan.
+
+“Money,” she said. “And one of them keeps touching my scissors.”
+
+“Don't let them leave,” I told her.
+
+“Nigga, I'm doing his eyebrows,” Loan said. “He's not going anywhere.”
+
+We drove back to Bell Street. The men were still in her chairs when Hậu, Saint, and I entered the shop. Both wore BELL STREET AIRLINES shirts. One had a towel around his neck. The other had white wax across his eyebrows and the frightened eyes of someone who'd agreed to a treatment without understanding it.
+
+Loan stood behind him holding a strip of cloth.
+
+“There he is,” she told the men. “Your employer.”
+
+The one with the towel began to get up. Hậu put a hand on his shoulder and settled him back into the chair. I stopped beside the man with the wax.
+
+“Where did you buy that?” I asked, pointing at his shirt.
+
+“Outside,” he said.
+
+Saint leaned close to the print. “That's counterfeit.”
+
+“That isn't the important part,” I told him.
+
+Saint pointed anyway. “The wings are backwards.”
+
+I held out my hand to the seated man. “What did you collect?”
+
+He looked up toward Loan's strip of cloth.
+
+“Nothing from here,” he said.
+
+“Elsewhere,” I told him.
+
+He reached into one pocket and produced a folded stack of money. I kept my hand out. After a moment he reached into the other pocket and added another stack. His companion sighed and took an envelope from beneath the towel.
+
+“We thought you wouldn't mind,” the first man said.
+
+“You put my face on a robbery,” I told him.
+
+He looked down at the shirt. “It's just a shirt.”
+
+Loan pulled the strip. He screamed and lurched against the chair back.
+
+“It's just an eyebrow,” she said.
+
+I put the money on her counter and nodded toward Hậu.
+
+“He'll go with you,” I told the two men. “Every place you visited gets its money back. Then you take off the shirts.”
+
+Saint looked hopeful. “We could sell them the real ones.”
+
+I watched him until he began inspecting the floor.
+
+The man with one bare eyebrow nodded repeatedly. “We understand.”
+
+“You don't work for me,” I said.
+
+“We understand,” he repeated.
+
+“Say it,” I told him.
+
+“We don't work for you,” the man said.
+
+His companion looked up at Hậu's hand on his shoulder. “We don't work for you.”
+
+Loan removed the second eyebrow. She'd started the job, and she disliked leaving uneven work. Hậu collected the money from the counter and brought both men toward the door.
+
+Outside, people had gathered again. The gaming-room managers had sent more flowers. A new motorcycle stood beside the bakery, a card tied to its handlebar. I looked at it while the two men tried to avoid being photographed.
+
+Saint came to stand beside me.
+
+“You can't send everything back,” he said.
+
+“I'm starting with the shirts,” I told him.
+
+My phone buzzed. Sunday had sent a message: breakfast had run late; bowling tomorrow, noon; he'd bring the plates.
+
+Beneath it was a photograph of Orchard House taken from across the river. Shawna stood on the terrace. I recognized the clothes she'd worn on the tour and the place where she'd stopped to look at the water.
+
+I put the phone away for a moment, before Saint could lean over my shoulder. Then I took it out again and called Sunday.
+
+“Enjoying the house?” Sunday asked warmly.
+
+“Tomorrow,” I told him. “Bring yourself.”
+
+He laughed into my ear. “I wouldn't miss it.”

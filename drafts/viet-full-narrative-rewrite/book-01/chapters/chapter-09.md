@@ -1,0 +1,335 @@
+## Chapter 9: My Father's Day Off
+
+Dad's sign said CLOSED THURSDAYS. Eleven people waited beneath it on Thursday morning.
+
+One had brought pastries. A woman had unfolded a chair beside the door and was reading a book. Farther along the curb, a man stood beside a red sports car, holding an envelope against his chest. He kept looking between the car and the shop as if one of them might deliver bad news.
+
+Dad was inside sharpening a kitchen knife. I went in through the side door.
+
+“Your customers are here,” I told him.
+
+“They're early for Friday,” Dad said.
+
+The blade made a soft, even scrape across the stone. Tools hung in straight rows behind him. Two motorcycles stood on lifts, their parts arranged neatly on trays. The shop was cleaner than I remembered; even the counter had only an engine block and a coffee mug beside Dad's work.
+
+My eight-year-old face looked out from the mug. Around it, in gold paint, I'd written MASTER CHIGGA. One G had gone wrong and resembled a fishhook somebody had tried to straighten.
+
+I picked up the mug. “You still use this?”
+
+“It holds coffee,” Dad said.
+
+“I was eight when I made it,” I told him.
+
+“You've improved at writing,” he said.
+
+I turned the damaged letter toward the wall. “The title was Saint's idea.”
+
+“Most expensive mistakes in this family begin with that sentence,” Dad said, drawing the blade across the stone again.
+
+Outside, the man with the pastries tapped lightly on the glass. Dad didn't look up. The man smiled anyway, just in case.
+
+“What do you need?” Dad asked me.
+
+“A car that doesn't look like a tow truck,” I said.
+
+“You have a car,” he reminded me.
+
+“Mine is at the apartment,” I said.
+
+“That's where you should keep it,” Dad told me.
+
+“Dad,” I said.
+
+He put the knife down and examined my face. I resisted the urge to turn the bruised side away. He'd already seen that side.
+
+“New bruise,” he observed.
+
+“Same face,” I said.
+
+Dad set the stone flat on the counter. “Your mother saw the bridge.”
+
+I leaned against the clear end. “Does everybody in this city film traffic?”
+
+“When it flies,” Dad said.
+
+He took a key off a hook and tossed it across. I caught it before it could hit the mug.
+
+“Blue sedan,” Dad told me. “Bring it back with fuel.”
+
+“Thank you,” I said.
+
+“And all four doors,” he added.
+
+The man beside the sports car came to the glass and knocked. Dad checked the clock, although it couldn't make Thursday any less Thursday. He set the knife aside and opened the front door.
+
+“Mr. Trần, I know you're closed,” the man began.
+
+“Good,” Dad said.
+
+The man followed his gaze to the sign and then hurried on. “But I've got a meeting in an hour, and the engine's making a noise.”
+
+“Engines do that,” Dad told him.
+
+The man offered the envelope. “Five thousand.”
+
+Dad looked past him at the car. “To fix it?”
+
+“To look at it,” the man said.
+
+Dad took the envelope and walked once around the red car. Its owner followed half a step behind, trying to see what he saw. At the driver's window, Dad stopped and leaned forward.
+
+“Handbrake,” he said.
+
+The man's expression emptied. Dad opened the door, released the brake, and closed it again.
+
+“Try now,” Dad told him.
+
+The man got behind the wheel and started the engine. He moved forward six feet. Nothing complained. For a moment he sat perfectly still, staring through the windshield. Then he got out and began applauding.
+
+The waiting customers applauded with him. The woman put her bookmark in before joining them.
+
+“Five thousand dollars,” I said when Dad came back inside.
+
+He placed the envelope in a drawer. “He asked me to look.”
+
+“You could have charged ten,” I told him.
+
+Dad picked up the knife. “Nigga, it's my day off.”
+
+The man with the pastries set his box on the doorstep and left without making a request. The woman returned to her book, shifting her chair to keep her feet in the shade. I went out to the blue sedan.
+
+Hậu stood beside it with two coffees. He gave me one and looked over at the crowd.
+
+“Your dad signing something?” Hậu asked.
+
+“Apparently people pay him to notice them,” I said.
+
+He looked at the remaining envelopes. “You come by it honest.”
+
+Before I could unlock the sedan, a black pickup rolled into the space in front of the shop. Its tires were too large for its body, and its body blocked two parked cars. The driver left it there and climbed down in sunglasses and a sleeveless vest.
+
+His passenger got out holding what I first took for a motorcycle frame. The two men lowered it to the pavement. Up close it was a broken electric bicycle, stripped of enough parts to look more expensive.
+
+The driver pointed through the window. “You Minh?”
+
+Dad continued sharpening. The man tried the front door, which Dad hadn't locked after his five-thousand-dollar inspection. It opened. He went inside, leaving his friend beside the bicycle.
+
+I started to hand my coffee back to Hậu. He shook his head and kept his own cup clear.
+
+“I think we should watch,” Hậu said.
+
+From beside the sedan, I could see the counter through the open door. The driver planted his hands on it.
+
+“That repair you did failed,” he told Dad.
+
+Dad lifted the knife off the stone. “Invoice?”
+
+“Don't need an invoice,” the man said. “My friend knows the guy who brought it here.”
+
+Dad looked through the door at the frame. “That's a bicycle.”
+
+“Electric,” the driver said.
+
+“Still a bicycle,” Dad told him.
+
+The man removed his sunglasses slowly. “You think I'm stupid?”
+
+Dad waited. Outside, the woman lowered her book without marking her place.
+
+The silence continued until the driver had to fill it himself.
+
+“I want compensation,” he said.
+
+Dad pointed toward the sign. “Friday.”
+
+The man slammed his palm on the counter. My mug jumped, tipped onto its side, and rolled toward the edge. Dad caught it with the hand holding the sharpening stone. He set the mug upright, put the stone beside it, and looked down at the palm still spread on his counter.
+
+“Take that off,” Dad said.
+
+The man reached inside his vest with his other hand.
+
+Dad put down the knife, picked up the engine block with one hand, and deposited it across the man's forearms. The reaching hand came out of the vest to catch the weight. Both knees folded. He staggered backward and landed on the shop stool with a short, shocked grunt.
+
+The stool bent. His boots scraped outward as he tried to keep the engine from settling fully onto his lap. Dad reached into the open vest and removed the pistol the man had been trying to draw. He lowered it out of sight beneath the counter and returned with an empty hand.
+
+“Who sent you?” Dad asked.
+
+The man opened his mouth. No answer came out. His face had turned red, and the engine kept him folded too tightly to breathe properly.
+
+Dad lifted the block two inches. The man sucked in air.
+
+“Mercer,” he gasped.
+
+Dad let the weight settle back into his arms.
+
+Outside, the passenger had abandoned the bicycle and begun edging toward the pickup. I stepped across and put a hand on the door before he could climb in.
+
+“Stay,” I told him.
+
+He looked up at me. Recognition crossed his face, followed by something less pleasant. He shut his eyes.
+
+“Fuck,” he said.
+
+“Busy family,” Hậu told him sympathetically.
+
+Dad brought the driver out with the engine still in his arms. The man shuffled, bent almost double. Every few steps Dad supported the block with two fingers, allowing him to straighten enough for another breath. The waiting customers moved their boxes and feet out of the way. The woman folded her chair halfway so they could pass.
+
+Beside the pickup, Dad stopped them both.
+
+“Tell Mercer he can bring his own complaint,” he said.
+
+The driver nodded so vigorously that sweat fell off his chin. Dad took the engine from him and set it gently in the truck bed. The man stayed crouched for a moment, his arms still shaped around the missing weight.
+
+Dad caught the rear bumper with one hand and lifted.
+
+The rear tires rose off the street. At the front, the suspension compressed until the bumper touched the curb. Tools slid through the bed and struck the back of the cab. The passenger caught the open door as the truck shifted beside him.
+
+Over the tilted bed, Dad looked at me. “Get the bicycle.”
+
+I retrieved the broken frame and laid it beside the engine. Dad lowered the pickup until all four tires met the road. It bounced once, softly. He took the engine back out and tucked it beneath his arm.
+
+“Go,” Dad told the driver, pointing at the seat.
+
+The two men climbed in. I stepped away from the passenger door and watched the pickup leave, its bicycle frame rattling in the empty bed.
+
+The customers applauded again. The woman stood and handed Dad a foil-covered dish she'd kept beneath her chair.
+
+“For your wife,” she said.
+
+Dad accepted it with his free hand. “Thank you.”
+
+“Don't eat it yourself,” she warned him.
+
+“I won't,” Dad said.
+
+She looked at the engine under his arm. “And stop encouraging idiots. They bring more.”
+
+He nodded as though she'd supplied useful information about the weather. I followed him back into the shop.
+
+“Mercer sent them because of me,” I said.
+
+Dad returned the engine to the counter. “Mercer sends people because he likes sending people.”
+
+“I can deal with him,” I told him.
+
+“Then deal with him,” Dad said.
+
+He put the dish beside my mug. The foil had a small dent where his thumb had held it, but the food inside hadn't spilled. He looked at the car key still looped around my finger.
+
+“You wanted a car,” Dad said. “You have a car.”
+
+I nodded and headed for the door. Behind me, Dad called my name. I turned.
+
+“Your mother wants you at dinner on Sunday,” he said.
+
+“I'll be there,” I told him.
+
+“And Shawna,” he added.
+
+“She'll be there,” I said.
+
+Dad picked up the knife and checked its edge against the light. “She's invited even if you're stupid.”
+
+“I figured,” I said, smiling.
+
+Hậu waited by the sedan. We put the coffees in the holders and got in.
+
+“Did he ever fight your great-grandfather?” Hậu asked.
+
+“I've heard stories,” I said.
+
+Hậu fastened his belt. “Who won?”
+
+“Depends who starts telling them,” I replied.
+
+We drove uphill to Bảo's house. It had a white wall and a black gate, then enough driveway to make a visitor reconsider his shoes before reaching the door. Two guards opened the gate. One watched Dad's blue sedan pass with a frown, as though he'd expected me to arrive in something that made more noise.
+
+Bảo sat beside the pool under a striped umbrella. His arm rested in a sling across his chest. On a nearby lounger, a woman in enormous sunglasses held a magazine upside down.
+
+“That's Phương,” Hậu murmured as we approached. “His wife.”
+
+“The magazine's upside down,” I said quietly.
+
+“She likes knowing who's paying attention,” Hậu told me.
+
+Bảo waved us over. A young man stood behind his chair with a drinks tray, holding it so rigidly that the ice trembled when we stopped.
+
+“My son, Baojun,” Bảo said.
+
+Baojun nodded without smiling. I took a glass off his tray.
+
+“Thank you,” I said.
+
+He looked toward his father. From his expression, I might have asked him to surrender an inherited title.
+
+Phương lowered her magazine. “He said thank you, baby. That's the polite part.”
+
+Baojun put the tray down and went inside. Bảo watched him until the door closed, then turned toward me.
+
+“You saved my life,” he said.
+
+“Vinh tried to end it,” I replied.
+
+“I heard the recording,” Bảo told me.
+
+“Good,” I said.
+
+“Trinh sent it,” he added.
+
+With his good hand, Bảo pushed an envelope across the small table. It stopped beside my glass. I left it there.
+
+“What's this one for?” I asked.
+
+“Last night,” he said.
+
+“And the next one?” I asked him.
+
+Bảo held my gaze. “Bring me Vinh.”
+
+“Alive?” I asked.
+
+“Breathing,” Bảo said.
+
+Phương turned a page without correcting her magazine. “He'll want to talk for an hour first. Make sure the man can hear.”
+
+Bảo continued looking at me. “Vinh knows every room I own. Every driver. Every weakness.”
+
+“He also knows you were putting Shawna in front of a window for him,” I said.
+
+“I didn't know,” Bảo replied.
+
+“You know now,” I told him.
+
+He started to reach for his drink with the injured arm and winced. After a moment, he used the other hand.
+
+“What do you want?” Bảo asked.
+
+I leaned forward, leaving the envelope where he'd put it. “The Pearl outright. The games, the rooms, the building. Your men stop collecting on Bell Street. Anyone who wants my help asks me directly.”
+
+Beside me, Hậu stopped moving. Bảo placed his glass carefully on the table.
+
+“You've barely joined,” he said.
+
+“You've had a difficult twenty-four hours,” I told him.
+
+The corner of Phương's mouth rose above the magazine. Bảo looked toward the closed door his son had used. I waited. The pool filter hummed beneath the silence.
+
+“Bring me Vinh,” Bảo said at last.
+
+I took the envelope and stood. “Have the keys ready.”
+
+We'd reached the end of the lounger when Phương called my name. I turned back. She held up her phone.
+
+“One picture,” she said. “My sister doesn't believe you can jump.”
+
+“I'm not jumping into your pool,” I told her.
+
+“Good. The cleaner just left,” Phương said.
+
+I stood beside her while she took the photograph. Then she pressed a folded hundred-dollar bill into my hand.
+
+“For your wife,” Phương told me.
+
+I looked at it. “Everybody keeps saying that.”
+
+She raised the upside-down magazine again. “Maybe listen.”

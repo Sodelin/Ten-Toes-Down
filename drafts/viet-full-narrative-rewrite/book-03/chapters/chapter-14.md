@@ -1,0 +1,145 @@
+## Chapter 14: The Wrong Man in the Trunk
+
+The ransom note reached the kitchen on Friday morning. Hòa had corrected three spelling mistakes and added a request for his brown shoes.
+
+Tín read it while Hương listened to the kidnappers on the telephone. At the bottom, beneath COME ALONE, his son had explained that the left shoe came off in the car.
+
+Bích leaned over the paper. “He was wearing brown.”
+
+“Apparently one still is,” Tín said.
+
+Hương gave him the receiver. The voice on the other end demanded that he come to room seven at the old motor court. Tín asked to speak to Hòa.
+
+“He's not near the phone,” the caller said.
+
+“Bring him nearer,” Tín replied.
+
+A muffled argument followed. Somebody said he wasn't opening that again. Then the caller repeated the address and hung up.
+
+Mai stood in the hall with her schoolbag. Hương took car keys and a spare pair of shoes. Tín began to mention the instruction to come alone.
+
+“They put two Ls in it,” Hương said. “I'm not trusting their judgment.”
+
+Bích took Mai's bag and set it on the table. “Stay by the phone. I need one person who hears an entire sentence before deciding to break furniture.”
+
+On the drive west, Hương kept her eyes on the road. She had spoken to Hòa from school that morning; he had asked if they needed anything. Laundry soap, she had told him. Tín looked at the shoes in his lap and promised they would get it.
+
+At the light, she reached for the turn signal and missed it on the first try. Tín looked out his own window rather than at her hand. She found it and waited for the arrow.
+
+“He corrects people when he's irritated,” Hương said. “The note. That's how I know.”
+
+“I know the habit,” Tín replied.
+
+Hương gave him a brief sideways look. “You do it when you're trying to seem patient.”
+
+Tín folded the note more carefully. Hương's knuckles remained pale on the wheel. He could offer her the confidence he felt in his son's voice; he couldn't ask her to share it simply because he did.
+
+“I'll bring him to this car,” Tín told her.
+
+Hương looked ahead as the arrow changed. “Do that. Then we can discuss which of you was patient.”
+
+The motor court was a row of boarded rooms around an empty swimming pool. Two cars stood beside room seven, a third by the office. Hương stopped behind the office wall. Tín walked into the courtyard carrying the shoes.
+
+A gunman came out of the room. One side of his face had swollen.
+
+“Alone,” the gunman said.
+
+“My daughter-in-law drives better,” Tín answered.
+
+“Money?” the man demanded.
+
+Tín lifted the shoes. A soft knocking came from the nearest car's trunk. The gunman flinched.
+
+“Hòa?” Tín called.
+
+“Here,” Hòa answered through the lid. “The upholstery is unpleasant.”
+
+The gunman snapped at him to be quiet. Tín turned back. The pistol began shaking.
+
+“Put it down,” Tín said.
+
+“Rook said—” the man began, then fired.
+
+Tín stepped inside the muzzle's line, caught the wrist, and pulled him into a knee. Glass broke behind Tín. He struck the gunman's jaw with the shoes, took his pistol, and laid it on the car roof.
+
+A second man rushed out carrying a shotgun. The trunk opened.
+
+Hòa sat up with exercise books across his knees. “Behind you, Father.”
+
+Tín threw the shoes at the shotgun man's face. The man ducked; Tín reached him before he could recover his aim. He trapped the barrel under his arm and drove the man backward through the room's doorway. A bedside table broke beneath them.
+
+At the bathroom, a third man tried to load a revolver. Cartridges rattled into the sink. Tín lifted the mattress off the bed and folded it around the man against the bathroom wall.
+
+“Stay,” Tín told the muffled occupant.
+
+The shotgun man grabbed his ankle. Tín pressed the wrist until the hand opened, kicked the gun beneath the bed frame, and returned outside at the sound of an engine.
+
+The third car accelerated toward Hương. She reversed behind the office; it followed. Tín crossed a parked hood, jumped to the low office roof, and dropped onto the fleeing car's rear bumper. The back struck concrete. Its front wheels lifted.
+
+He stepped down, caught the bumper, and swung the car away from Hương. The driver tried reverse. Tín raised the nose over the empty pool's edge and set the front wheels inside. The engine stalled with the car pointing downward like a badly parked diving board.
+
+“Use the stairs,” Tín told the driver.
+
+Hương pulled up beside Hòa. He stood in one shoe and one sock, brushing his trousers. She embraced him, held him for several breaths, then pushed him back to examine his face.
+
+“Why did you get in?” Hương asked.
+
+Hòa looked toward the room. “They came outside school. Students were there.”
+
+Hương closed her eyes briefly and held him again.
+
+Tín examined the trunk. Its lining bore the shape of a shoulder. The latch metal had folded outward. Beneath it, the rear axle mounting was twisted through and one wheel sat at an improbable distance from the body.
+
+“Comfortable eventually?” Tín asked his son.
+
+“The lid stuck,” Hòa replied.
+
+Their eyes met. Tín touched the torn mounting with one finger, then stood without asking the question the metal suggested.
+
+Hương walked to the first gunman and slapped him. His head hit the wall.
+
+“My husband buys laundry soap,” Hương told him. “Five minutes. You couldn't wait five minutes.”
+
+Tín found both thrown shoes. Hòa put them on, then considered the surviving original.
+
+“Three now,” Hòa said.
+
+“Spare for the car,” Tín advised.
+
+While they secured the men, Hương telephoned Vega from the office. A harbor radio crackled beside the phone. Tín heard River Queen and turned up the volume.
+
+“Clears by sundown,” the radio voice said. “Truck route closed. Move it on water. Same window at the east bridge. Keep the red tug clear.”
+
+Hòa wrote RED TUG on the back of the ransom note. Tín took the radio. Outside, the driver sat on the pool's shallow-end steps with both hands raised, evidently unwilling to experiment with escape.
+
+Vega stopped beside his car on arrival.
+
+“Parking?” Vega asked Tín.
+
+“Temporary,” Tín said.
+
+She looked at the wrecked trunk. Hòa stepped forward with the corrected note before his father answered.
+
+“Latch gave us trouble,” Hòa told her.
+
+Vega looked past him at the wheel sitting too far from the car's body. “Quite a latch.”
+
+Hòa held out the corrected note. “The radio may interest you more.”
+
+“I can be interested in several things,” Vega said, taking it.
+
+Tín kept quiet. Hương came out of the office and gave the detective the number she'd dialed and the caller's description. Hòa waited until his wife finished before explaining where the men had approached him at school. He named the entrance and the students nearby without dramatizing the choice.
+
+“I got into the car because they were there,” Hòa said. “Once we were away, there were different choices.”
+
+Vega wrote that down too. Tín watched her pen pause before moving to the next line. She asked Hòa which man carried the first gun. He pointed, and the officer by the room took the indicated man aside.
+
+Tín could have answered other questions for his son. He didn't. Hòa had remained to give his own account. Standing beside him while he did so was the useful part left for a father.
+
+Vega studied him, then took the paper. Hòa stayed to give his statement despite Tín's suggestion that he go home. He had seen things the detective needed to hear, and afterward he still had work to finish.
+
+On the way back, Hương stopped for laundry soap. Tín waited with the radio on his knees while Hòa returned carrying the box under one arm and exercise books under the other.
+
+Mai ran down the home steps and embraced her father. Bích watched from the doorway until Hòa held up the soap.
+
+“Then come in,” Bích said. “At last we can accomplish something.”

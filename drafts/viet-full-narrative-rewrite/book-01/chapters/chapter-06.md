@@ -1,0 +1,277 @@
+## Chapter 6: The Woman Who Charged Full Price
+
+Shawna had a receipt waiting when I reached our apartment. She held it against my chest while I stood on the top stair, one hand over the cut behind my ear.
+
+Six hundred dollars.
+
+“What's this?” I asked.
+
+“Blood on the stair runner. Replacement shirt. Whatever you've done to those trousers.” She looked down at the open seam beside my knee. “Emergency alterations.”
+
+“We share a bank account,” I reminded her.
+
+“Then you'll enjoy watching it move.” Shawna stepped back and looked at Hậu, who held the red box beneath one arm. “Are you bleeding too?”
+
+“Not on anything,” Hậu said.
+
+She let him in first.
+
+We'd collected the box from Loan on the way back. Saint had stayed at the barber shop to explain why he'd never meant she could keep half its contents, although he'd apparently said it with considerable clarity. Hậu had taken the box while they argued. Loan surrendered it with the offended dignity of a woman whose donation had developed legal complications.
+
+Now it rested on our kitchen table while Shawna sat me on the closed toilet lid. She turned my head toward the light, parted the hair behind my ear, and opened the first-aid kit.
+
+“Warehouse got personal,” I told her.
+
+“Warehouses don't usually leave knuckle marks on faces.” Shawna wiped the cut. I hissed. She held my head still. “The great one suffers.”
+
+“The great one's considering another doctor,” I said.
+
+“His mother's downstairs,” Shawna replied.
+
+I stopped moving.
+
+Mom had brought price cards for the atelier and a sandwich press she considered essential business equipment. When Shawna finished with my ear, I found Mom at the counter, with the press plugged in and Hậu working beside her. She'd given him a knife and was correcting the size of his portions.
+
+“People need to hold them,” Hậu said, indicating the sandwiches.
+
+“Two hands,” Mom replied. She turned a triangle over and put it back beside its other half, restoring it to what she considered a reasonable meal.
+
+She handed me a stack of thick cream cards. Shawna's name stood in raised lettering across the top. I ran a thumb over it.
+
+“Looks good,” I said.
+
+“I know. Downstairs. Your wife has a client.” Mom pushed the whole stack into my hand.
+
+“I'm helping Hậu with—” I began.
+
+“Nigga, she's the one who makes you look employable,” Mom said, and turned me toward the stairs.
+
+The atelier had changed while I was out. The machines stood along the left wall, the cutting table in the middle. Three finished jackets hung near the window. The rolling mirror caught the afternoon light and sent it across the fitting platform. I stopped with the cards in my hand, surprised by how thoroughly Shawna had made the place hers between one disaster and the next.
+
+A woman in a red coat stood by the mirror. She was tall and broad-shouldered, gold bracelets ringing softly when she adjusted her sleeve. A younger woman beside her held a garment bag carefully clear of the floor.
+
+“Estelle Mercer,” the woman in red said when she saw me.
+
+“Your brother mentioned you.” I put the cards on the counter.
+
+“He mentions everybody,” Estelle said. “Keeps track of who thinks they matter.”
+
+I liked her immediately, which was probably worth remembering about the family.
+
+She examined my taped ear, then my ruined trousers. “You're the one who jumped over the boxer.”
+
+“Avoiding an elbow,” I explained.
+
+“I'd have hit him with the bell,” Estelle said.
+
+“I'll remember that.” I stepped out of the way as Shawna came downstairs carrying her notebook.
+
+Estelle opened the garment bag. Inside hung a silver dress with a torn sleeve and a neckline pulling strangely toward one shoulder.
+
+“I need this fixed,” she told Shawna.
+
+Shawna examined the way it hung. “For when?”
+
+“Saturday,” Estelle said.
+
+“This Saturday?” Shawna put her notebook on the table.
+
+“I like deadlines near enough to frighten people.” Estelle handed the bag over and waited for the effect.
+
+Shawna took out the dress, spread it on the cutting table, and turned the shoulder inside out. She checked the sleeve, the lining, and the seam beneath the arm. Then she asked Estelle's companion for a photograph of the original fitting.
+
+The younger woman had three on her phone before Estelle could answer.
+
+“Thank you. What's your name?” Shawna asked her.
+
+“Nia,” the woman said.
+
+“You're about to save both of us time.” Shawna angled the phone beside the damaged shoulder and began comparing them.
+
+Estelle rested one hand on the table. “My brother says your husband's a friend.”
+
+“He can come to the show,” Shawna said, lifting the lining clear of the seam.
+
+“I thought there might be a family rate,” Estelle said.
+
+“There is.” Shawna looked up. “Family gets told what it actually costs.”
+
+I coughed into my hand. Estelle turned toward me.
+
+“You knew she was like this?” she asked.
+
+“Married her on purpose,” I said.
+
+Shawna wrote a number and turned the notebook around. Estelle looked at it, at the dress, and back at the number.
+
+“For a sleeve?” Estelle asked.
+
+Shawna pointed to each part as she answered. “Sleeve. Rebuilt shoulder. Corrected lining. Two days removed from my week.”
+
+“Expensive shoulder,” Estelle said.
+
+“Demanding woman,” Shawna replied.
+
+Nia lowered her face over her phone. Her shoulders moved once. Estelle leaned against the table, and for a moment I thought the visit might turn ugly. Then she laughed and took a stack of cash from her bag.
+
+“Fix the neckline too,” Estelle said. “I want the photographer to feel unprepared.”
+
+Shawna counted the deposit and wrote a receipt. While Estelle took off her red coat, Shawna pointed me toward the stairs.
+
+“Aiden. Upstairs,” Shawna said.
+
+“He's not staying?” Estelle asked, handing Nia the coat.
+
+“Distracting,” Shawna said.
+
+I spread my hands. Estelle looked at my exposed knee again.
+
+“Several directions,” she agreed.
+
+I went upstairs. Hậu had finished the sandwiches. Mom had left for the printshop after telling him twice not to let me eat over the box. He'd put the food at one end of the table and the box at the other, a separation I respected long enough to get a plate.
+
+Saint arrived with a plastic crown from the party shop.
+
+“Don't,” I said when he took it from the bag.
+
+He placed it on the table. “Statue's out of commission. We need continuity.”
+
+“We need this open.” I turned the red box toward me.
+
+“Loan tried scissors, pliers, and a man who used to do safes,” Saint said.
+
+“Did he?” I asked.
+
+“Sells furniture now. Nobody asked why.” Saint pulled up a chair.
+
+The box was about the size of a paperback. Eight points radiated from the brass star on its lid. Small black dots ran along one edge. I turned it over, looking for a keyhole, and found only a recessed latch. Hậu put down his sandwich when I settled my thumbs on the lid.
+
+“Don't squeeze the contents,” he said.
+
+“I know.” I braced the bottom against the table.
+
+“Last time, we landed on a bridge,” Hậu reminded me.
+
+I hooked my fingers beneath the lip and pulled upward. The steel squealed. I kept the bottom flat against the wood until the latch tore free, then lifted the lid away from whatever lay beneath it.
+
+Saint leaned forward. “Very advanced.”
+
+Inside lay a black drive, a folded card, and an ivory heron small enough to cover with my hand. I opened the card first.
+
+“Beautiful dies,” I read aloud.
+
+Hậu stopped chewing. “Mr. Beautiful,” he said.
+
+I turned the card over. Nothing. No mark on the heron either. A silver star had been etched into the drive's casing.
+
+Saint picked up the crown, set it down, and moved his chair away from the table. “Should've ordered the bench.”
+
+My phone vibrated beside my plate. The same unknown number had sent another message: You should have stayed in the gym.
+
+Below it was a photograph of the atelier's front window, taken from across the street. Estelle's silver car was parked at its edge. She'd arrived less than an hour ago.
+
+I went to our window. A cyclist waited at the intersection. Two men in work jackets stood outside the pharmacy, looking at their phones. One raised his face toward me.
+
+I stepped back from the glass.
+
+“Hậu. Downstairs,” I said.
+
+He was already out of his chair.
+
+The atelier door opened before we reached the bottom step. From the turn in the staircase I saw the taller man enter carrying a paper bag. His companion stayed by the doorway, one hand inside his jacket.
+
+“Delivery,” the tall man said.
+
+Shawna stood beside Estelle on the fitting platform. Nia sat near the window with the red coat across her knees. Shawna looked from the bag to the man's shoes.
+
+“Floor,” she told him.
+
+“Needs a signature,” the man said, moving another step inside.
+
+“So does a lease,” Shawna replied. “You don't see me carrying one in a lunch bag.”
+
+The man at the door drew a pistol.
+
+Estelle stepped off the platform and caught Nia's jacket. Shawna shoved the rolling mirror between them and the gun. Its wheels rattled across the floor just before the first shot shattered the glass.
+
+I hit the tall man from his right side. His shoulder slammed into the cutting table. I drove my elbow across his jaw and folded him down over its edge before he could swing the bag toward the platform.
+
+The bag opened as it fell. A bottle rolled out with cloth stuffed into its neck. Shawna stopped it with the side of her shoe, rolled it beneath the table, and kicked a metal waste bin over it. The bin rang against the floor. The bottle hadn't been lit.
+
+Hậu reached the door gunman and drove him into the frame. The pistol fired again. Plaster burst above the staircase, dust spilling down the steps Saint was coming onto. Hậu caught the man's forearm between both hands and bent it backward. The pistol fell. The man screamed into Hậu's shoulder.
+
+At the table, the tall man tried to lift his head. I punched his temple. His knees gave way. I caught his collar and lowered him beside the table, stopping his head short of the machine pedal.
+
+“Nia, are you hit?” Estelle shouted from behind the fallen mirror.
+
+“No,” Nia answered.
+
+“Then stop trying to save the coat,” Estelle told her.
+
+The door gunman tried to bite Hậu.
+
+Hậu drew his shoulder away and stared at him. “Nigga.”
+
+Then he caught the man's belt and jacket, carried him outside, and lowered him headfirst into the empty recycling cart. The lid bounced against the man's back. His shoes kicked once above it and vanished.
+
+I searched the unconscious man at my feet. Phone, keys, two hundred dollars, a brass lighter shaped like a pistol. I put the lighter on the table, well away from the bin.
+
+“That would've been confusing,” Saint said from the stairs.
+
+I looked up. He held his own phone in both hands.
+
+“Called your mother,” Saint said.
+
+“Why?” I asked.
+
+“She told me to if somebody tried to burn the shop down.” He looked at the bin, then back at me.
+
+“When?” I asked.
+
+“This morning. You were discussing the fish.” Saint put his phone away.
+
+Shawna came around the table. I stood. She took my face in her hands, checked my eyes, and looked past me at the frame lying in broken glass.
+
+“Three days,” she said.
+
+“I'll replace it.” I kept my hands against her waist.
+
+“I've owned that mirror three days.” Shawna's fingers tightened briefly against my jaw.
+
+“Same one,” I promised.
+
+She looked down at the man on the floor. “No. He will.”
+
+Estelle emerged with Nia. Both were unhurt. A strip of silver lining hung from the dress where she'd pulled Nia clear. She lifted it between two fingers.
+
+“Add it to the bill,” Estelle told Shawna.
+
+“Your brother gave my husband shoes this morning,” Shawna said.
+
+Estelle let the lining fall. “Did he wear them?”
+
+“No,” I answered.
+
+“Good.” She took out her phone and went to the far corner. She spoke quietly, but I heard her brother's name and enough of the words around it to understand Saint's impressed expression.
+
+Outside, Mom arrived with Denise and Loan. The man in the recycling cart was pushing against the lid. Loan held it shut with one palm while Denise demanded his home address so she could send the video to his family.
+
+Mom stepped over the broken glass and went straight to Shawna. She hugged her without speaking. Shawna held on. I stood beside them with the attacker's phone in my hand, listening to the cart lid thump outside.
+
+After a few seconds Mom stepped back and picked a fragment of glass off Shawna's sleeve.
+
+“Printshop tonight,” Mom said. “Work there until this is fixed.”
+
+Shawna nodded. Mom turned toward me.
+
+“Make the phone stop ringing,” Mom told me.
+
+I looked down. The screen in my hand had lit up. An incoming call from somebody saved as SUNDAY SCHOOL.
+
+I answered and held it to my ear.
+
+For a second there was only the faint sound of breathing. Then a man asked, “Is it done?”
+
+I looked at the shattered mirror, the waste bin over the bottle, and Shawna holding the torn silver dress against her chest.
+
+“No,” I told him. “But I'm getting started.”

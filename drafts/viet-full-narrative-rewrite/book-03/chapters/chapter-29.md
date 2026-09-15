@@ -1,0 +1,181 @@
+## Chapter 29: The Long Way Home
+
+Three weeks later, Bích allowed Tín to walk to the river alone. She came too, because she wanted air.
+
+“You wanted air in the same direction?” Tín asked as she took his arm.
+
+“It's a small street,” Bích replied. “Try not to occupy all of it.”
+
+The stitches were out. His side had closed, though both palms remained tender and a pale line crossed his nose. Arturo's soft shoes made walking agreeable. Tín carried no crown, weapon, or object that required someone following behind to explain it.
+
+Mai called from the house steps. “Home before dinner.”
+
+“Who's making dinner?” Tín asked.
+
+“Dad is,” Mai answered. “He started before you got your shoes on.”
+
+Tín nodded. “Then we'll be punctual. We should encourage him.”
+
+Hòa appeared behind her with a towel. “I can hear the encouragement.”
+
+“Improve accordingly,” Tín called back.
+
+Bell Street's new windows looked unusually clean beside the surviving old ones. Boots's garage had fresh roof panels. The white truck no longer admitted daylight above the driver's head. Its torn steering wheel hung on the wall under ADVANCED DRIVER TRAINING.
+
+Boots sat outside with his recovering arm supported. Loretta brought Bích a cup, and the women stepped toward the salon doorway to discuss a dress and the person who had chosen it without adequate consultation.
+
+“You're walking,” Boots observed when Tín sat beside him. “No vehicle in your hands.”
+
+“I've done it before,” Tín said. “I'm recovering the technique.”
+
+Boots pointed toward the white truck. “No mechanical admiration. I know how it starts.”
+
+A customer emerged, read the steering-wheel plaque, and opened his mouth. Boots sent him to pay for the repair before receiving the story. The man laughed and went inside.
+
+Tín watched Boots shift his arm. “Still hurts?”
+
+“Some days,” Boots said. “Mostly when I forget and try to make that arm do the other one's work.”
+
+“Are you sleeping properly?” Tín asked.
+
+Boots smiled. “Loretta says everybody in the house knows when I do.”
+
+They watched traffic for a while. Then Boots asked whether Tín remembered bringing him a broken fan during the first year in Eastbridge.
+
+Tín remembered its rattle, Hương comparing it to a motorcycle in the bedroom, and Boots pointing out that his sign said auto repair.
+
+“Car with limited ambition,” Tín had called it. That description still amused him.
+
+“Two hours,” Boots recalled. “You sat telling me which screw sounded loose. Should've known.”
+
+“You kept inviting me back,” Tín said. “You can't claim you weren't warned.”
+
+“You brought food,” Boots answered. “I made a calculated decision.”
+
+From the doorway, Bích corrected ownership of the food. Boots raised his good hand and thanked the proper management. She nodded and returned to Loretta's story.
+
+When the couple left, Boots stood for a careful one-armed embrace. Neither man squeezed hard. Both treated this as a matter of excellent taste.
+
+“Tomorrow,” Boots told Tín. “Come by.”
+
+“Something broken?” Tín asked.
+
+“Probably,” Boots said. “Come anyway.”
+
+At Vân's, the birthday banner was gone. In its place hung Tín's photograph and his instruction, PLEASE REFRIGERATE AFTER OPENING, enlarged to sell cold drinks. Vân paid his requested percentage in fruit, identifying a bruised peach as tax. Bích took the bag before the negotiation developed procedures.
+
+Downhill, Pilgrim Slip had new pilings and a half-finished landing. Rook's first payment had become timber, glass, paid medical bills, and workers carrying tools instead of guns. Other claims remained. Sable dealt with the people who wanted numbers on multiple pages; Tín preferred watching those numbers become boards wide enough to stand on.
+
+Rosa and Duke waited beside the repaired gangway. Mercy's Cousin wore clean paint. Its little family tree now had varnish over it, apparently having survived Rosa's appeals to adulthood.
+
+“Around the bend,” Duke offered. “Coming?”
+
+Tín looked innocent under Bích's inspection.
+
+“I didn't arrange this,” Tín said. “You heard him offer.”
+
+“That's usually when it's worse,” Bích replied.
+
+Rosa offered her hand. “I'll supervise. He hasn't hit anything today.”
+
+Bích accepted. Duke helped her down, then waited for Tín. His captain's cap carried no crown. Tín decided maturity and Rosa's influence could share credit without an inquiry.
+
+The tug left smoothly. Rosa nodded once. Duke smiled at the river as though it had personally complimented him.
+
+They passed the River Queen at its temporary landing, open for lunch. Families and workers occupied the tables. Sable stood at the bar listening to a supplier with her pencil poised. She waved from the window.
+
+Marcus leaned from the upper balcony. “Sunday show needs a name!”
+
+Bích cupped her hand. “Lunch!”
+
+Rosa laughed. Marcus stood defeated for a breath, then turned inside to explain his new concept.
+
+The replacement span rested on proper supports again. Inspectors had spent days examining the fall, catch, and landing. Some steel needed replacing before it could enter service. Workers fitted a brace while another crew devoted considerable attention to the lifting cables.
+
+The young operator recognized Tín from beside a workboat. He raised his cap, then held his palms very far apart.
+
+Tín laughed and waved.
+
+“What?” Bích asked.
+
+“Prefers the crane next time,” Tín said.
+
+“Sensible,” Bích replied.
+
+Beyond the lower passage, the basin widened. Bell Street's noise dwindled beneath the engine. Tín offered Bích the unbruised peach. She rubbed it clean, cut it with her little fruit knife, and gave him half.
+
+They ate at the rail while Duke steered.
+
+“You could have bought an ordinary birthday present,” Bích said.
+
+“The refrigerator was ordinary,” Tín replied. “It did exactly what the salesman promised.”
+
+“Then you became involved,” Bích said. “The salesman should cover that in the warranty.”
+
+She looked back toward the barge. She liked the kitchen, she told him. She liked Hương using the upstairs room for fittings and Mai showing photographs. She even liked Duke when Rosa stood nearby.
+
+“Thank you, I think,” Duke called from the wheelhouse.
+
+Bích ignored him. “I don't want every week to be that week.”
+
+Tín studied the scars on his hand. “Neither do I.”
+
+Bích looked at him. “You mean it today. I can tell.”
+
+“Today is available,” Tín said. “Let me begin with that.”
+
+Bích leaned against his shoulder. He put his arm around her. A gull dipped toward a fishing boat's wake, missed its prize, and rose with an indignant cry.
+
+“You,” Bích said, pointing with the peach stone.
+
+“Magnificent?” Tín suggested.
+
+“Loud when hungry,” Bích told him.
+
+They returned before dinner. Duke brought the tug in without a hard touch against the fenders. Rosa secured the line and kissed his cheek as he came down from the wheelhouse. He stopped moving entirely.
+
+Tín looked at Bích. “We’ve lost the captain.”
+
+“Temporary mechanical fault,” Rosa said, taking Duke's hand and pulling him out of the way.
+
+Tín and Bích walked uphill slowly. Cooking reached the gate before they did. Mai sat on the steps with a printshop manual, marking its margins. She closed it, took the fruit bag, and inspected Tín's clean shoes.
+
+“No damage?” Mai asked.
+
+Tín lifted a foot. “Successful expedition.”
+
+Mai bowed solemnly. “Welcome home, Grandmaster.”
+
+Tín bowed as far as his ribs allowed. “You may rise.”
+
+“Already did,” Mai said.
+
+“Advanced student,” Tín replied.
+
+She kissed his cheek and went inside laughing. Hòa met them in the hall with a towel over his shoulder. He looked at the clean shoes and at his mother carrying only her purse.
+
+“Quiet trip?” Hòa asked.
+
+Tín nodded.
+
+“Did you cause that?” Hòa asked.
+
+“I'm learning,” Tín replied. “I thought I'd bring you evidence.”
+
+For a moment he remembered the trunk's twisted latch, the marked bollard, and the safe leaving the truck while his son's tea waited on a ledge. Hòa looked back as though there were time for whatever question his father chose to ask.
+
+Tín put a hand on his shoulder. “Dinner smells good.”
+
+“Sit before it gets ideas,” Hòa said.
+
+Hương brought the final dish. Mai poured tea. Bích inspected the rice and handed Hòa the serving spoon. Tín moved the photograph from the refrigerator to a shelf where they could all see it. Beside it sat the gold-plated crown with a wooden spoon through its center.
+
+Bích met his look. “Useful.”
+
+Tín smiled and sat. Outside, a boat sounded its horn. Boots's garage door rolled down. Somewhere along the street, Marcus explained Sunday lunch as if he had invented the afternoon.
+
+Hòa offered Tín a bowl. Bích touched his wrist before he lifted it.
+
+“Hot,” Bích said.
+
+He waited, blew gently across the surface, and took a mouthful. Then he began telling his family about Duke's new problem with kissing.

@@ -1,0 +1,4499 @@
+# Book III: The River’s Weight
+
+> Status: Proposal. Complete narrative revision authored by Codex under direction from Nolan; separate, non-canonical draft. Source commit: 4f38948aa5fa97f294adfa74a0b7055c399b2826. Original text preserved.
+
+## Chapter 1: The Refrigerator Gets a Better Offer
+
+On the morning he turned seventy, Tín bought a refrigerator with delivery included. By eleven, the refrigerator had remained perfectly still while the delivery acquired a criminal record.
+
+It was summer 1992. Five years in Eastbridge, California, had taught Tín to bring a receipt, exact change, and something to read while the person demanding both went away to find a supervisor. He had brought no book to Vân's grocery. Forty dollars, he had thought, ought to purchase enough movement to get one refrigerator onto Bell Street and into his kitchen.
+
+Instead, Bình's pickup was attached to a tow truck. A man in a black HARBOR SECURITY polo wound chain around its axle. Another man pasted a yellow notice on the windshield, directly beneath Vân's CUSTOMER LOADING sign.
+
+“Three hundred,” the notice man told Tín. “Cash settlement.”
+
+“You take checks?” Tín asked, studying the gold crown embroidered above the man's heart.
+
+“Cash,” the notice man repeated.
+
+“The city progresses so quickly,” Tín said. “Yesterday it still had a bank.”
+
+Vân emerged beneath the sign with a grocery bag and a folded paper crown. “That's my loading space. If the city wants it, the city can come buy something.”
+
+Bình stood by his tailgate, pressing his tongue against the inside of his cheek. He was twenty-three; his pickup payments were older than several of his romantic relationships. Someone had struck him hard enough to leave the first pink swelling beneath his eye.
+
+“We'd just started unloading,” Bình told Tín.
+
+The chain man straightened. “I told the boy to shut up.”
+
+Tín folded his receipt. “Which one of you hit him?”
+
+“Me,” the chain man said. He gave the word room to be impressive.
+
+“Thank you,” Tín said, and slipped the receipt into his shirt pocket.
+
+The man grinned at his partner. He was still grinning when Tín climbed onto the pickup's rear step, undid the cargo strap, and took the refrigerator in his arms.
+
+The truck rose behind him. Bình caught the loose end of the strap. Vân caught her paper crown against her chest.
+
+Tín backed down onto the pavement with the appliance blocking most of his view. He could see his sandals, the bottom of Bình's trousers, and forty dollars departing the universe without rendering a service.
+
+“Seized property doesn't leave,” the notice man said.
+
+“Then let go of the truck,” Tín answered. “Something has to.”
+
+Across the street, Darnell Jackson stepped out of his garage holding coffee. Twenty years earlier, he had played one game of basketball in cowboy boots. The name Boots had lasted longer than the boots, the basketball court, and three businesses occupying the court's former address.
+
+“They invented wheels, old man,” Boots called.
+
+Tín edged around the newspaper box. “I paid for wheels. They've been arrested.”
+
+Boots looked at Bình's face. His smile went away. He put his mug on a customer's hood with the care of a man setting down the last pleasant part of his morning.
+
+The notice man's hand slid under his polo shirt.
+
+“Leave it,” Tín said.
+
+The refrigerator door swung open against his shoulder. Tín closed it with his chin without taking his eyes off the man's hand.
+
+Boots pointed at the appliance. “My brother is carrying a whole kitchen and you want to add a problem?”
+
+The chain man chose that moment to collect a steel bar from the tow truck. Tín set the refrigerator squarely on the sidewalk and checked its feet. Vân withdrew behind her shop door.
+
+“Outside,” Vân warned through the gap. “I mopped.”
+
+The bar came at Tín's ear. He caught the wrist, turned it, and took the man's knees away by making his shoulder follow his hand. The bar rang against the curb. Tín lifted it while its former owner attempted to inhale through an arm.
+
+The second man drew a pistol beside the tow truck's passenger door.
+
+Tín sent the bar through the open cab. It passed over the bench seat and struck the gunman's forearm against the far door frame. The pistol fell at his feet. Boots kicked it under the refrigerator, then immediately looked at Tín.
+
+“We got to remember it's there,” Boots said. “I don't want the delivery people getting it.”
+
+Tín pressed the kneeling man's collarbone with two fingers. “That hand hit Bình?”
+
+“Yes,” the chain man gasped.
+
+Tín bent the wrist a little farther. “Then begin with him.”
+
+“Sorry,” the chain man told Bình.
+
+Bình lowered his hand from his cheek. “I swallowed my gum.”
+
+“I'm sorry about your gum,” the chain man said.
+
+“And his face,” Vân supplied from the doorway.
+
+“And your face,” the chain man added, his voice climbing as Tín adjusted one finger.
+
+The other man scrambled into the cab and started the engine. His partner twisted toward him with a betrayed grunt. Tín let him go, walked to the front of the truck, and lifted it by the bumper.
+
+The driver accelerated. Rear tires shrieked. Tín raised the front higher; the driver's cap slid off his head and vanished behind the seat. The wheels quit gaining anything except heat.
+
+Boots retrieved his coffee. “I've been financing the wrong equipment.”
+
+Tín shuffled the truck sideways until its front wheels rested on the curb and its nose kissed the lamp post. The driver's door faced steel. The passenger door faced Vân's newspaper box. He tried both handles, slowly discovering the floor plan of his defeat.
+
+“Unhook Bình's truck,” Tín told him through the glass.
+
+“I can't get out,” the driver said.
+
+Tín consulted his watch. “I can wait.”
+
+The driver came through the window. His shoe remained inside. He landed in one sock, hurried to the chain, and began earning somebody's delivery fee.
+
+A bus stopped at the corner. Its driver opened the doors to improve the view. Passengers applauded as the chain came loose; Vân took this as the official beginning of the birthday ceremony.
+
+She placed the paper crown on Tín's head. “Seventy,” Vân announced, as though he had completed a difficult order.
+
+Inside her window, an enormous banner confirmed the number. Under HAPPY BIRTHDAY, MASTER TÍN, Marcus had written STILL ACCEPTING APPLICATIONS FOR A WORTHY OPPONENT.
+
+“Your son needs work,” Tín told Boots.
+
+Boots drank. “He says that is work.”
+
+The bus driver offered a transit pass. “Unlimited rides, birthday man.”
+
+Tín accepted it. “Refrigerators included?”
+
+The driver looked at the tow truck. “Yours, yes.”
+
+As Vân loaded groceries onto the refrigerator, the chain man rose with his wrist cradled against his chest.
+
+“You don't know who owns that truck,” the chain man said. “Duke Mercer.”
+
+Tín glanced at the bumper touching the lamp post. “They appear to be sharing it.”
+
+“Duke owns the River Queen,” the man continued. “You want to move anything through here again, you talk to him.”
+
+Tín lifted the refrigerator. “Tell him to come before my nap. At my age we must threaten each other efficiently.”
+
+Boots walked beside him, carrying the eggs. Once they were beyond the bus, his voice dropped.
+
+“Duke answers to Calvin Rook,” Boots said. “Half the waterfront belongs to him.”
+
+Tín went around a broken paving stone to keep Vân's fruit from rolling off. “Then we still have people to meet in the other half.”
+
+Bích opened the house door with a wooden spoon in her hand. The kitchen smelled of pork and warm bread. She inspected her husband from crown to sandals, pausing at the refrigerator between them.
+
+“Delivery cost forty dollars,” Bích said.
+
+“I'm aware,” Tín replied.
+
+“Did you get it back?” Bích asked.
+
+Hòa came out of the kitchen, moved a chair, and directed the refrigerator through the doorway. Mai cleared her carefully arranged magnets off the table so her grandfather could set the appliance down.
+
+“Left,” Hòa told him.
+
+Tín stopped with the cardboard corners beside his ears. “I know where the kitchen is.”
+
+“The frame doesn't,” Hòa replied, putting one hand against the wood to show how little space remained.
+
+Tín turned. The refrigerator cleared the doorway without leaving paint behind. Bích watched the last inch pass, then looked at Boots's eggs as though deciding which delivery required greater supervision.
+
+Hương took the carton from him. Boots flexed his empty fingers and studied Tín's bare arms around the machine.
+
+“Happy birthday to me too,” Boots said. “I've completed an important task.”
+
+“Wash your hands,” Bích told him. “There may be more.”
+
+“Your Majesty,” Mai said, presenting a screwdriver. “The old freezer leaks.”
+
+“We shall investigate,” Tín told her.
+
+“We shall put it there,” Bích said, pointing with the spoon.
+
+Hòa carried the old refrigerator to the back door while continuing to hold his glass of water. Boots watched the water remain level.
+
+Tín knelt to plug in the new machine. Its interior light came on. He opened the freezer and waited for Mai to inspect it; she leaned in, checked the shelves, and transferred the cartoon dog magnet to the door. Someone had drawn fangs beneath HAVE A NICE DAY. The dog now appeared willing to enforce it.
+
+“Warranty beside that,” Mai told him, holding out the paper.
+
+Tín put it under the magnet. “Three months. Plenty of time to frighten it.”
+
+Bích opened the lower door and moved one shelf before putting anything inside. She closed it, opened it again, and checked that the shelf hadn't argued. Then she nodded. The purchase had survived its inspection.
+
+“Does this family own a dolly?” Boots asked.
+
+“No room,” Hương answered, and went back to lunch.
+
+Mai's gift was a photograph she had developed herself: Tín and Bích laughing outside the house, his hand on her shoulder, both of them looking beyond the frame. Tín could not recall the instant until Hòa spoke from the back steps.
+
+“That was the cake I dropped,” Hòa said. “It was a difficult cake.”
+
+Bích held the photograph longer than necessary to inspect its technical quality. Then she gave it back, and Tín set it on the new refrigerator.
+
+Bình arrived with ice on his cheek and a gift watch of uncertain origin. Tín opened the box while Mai leaned over to see it.
+
+Tín turned the little box in his hands. The lining was blue and worn at one corner. Bình kept his eyes on it, waiting for the question he evidently expected.
+
+“Bought it from a guy,” Bình said.
+
+“Honest guy?” Tín asked.
+
+Bình considered this. “Honest about the price.”
+
+Tín wound it and held it close enough to hear the uneven ticking. “It's beautiful. Thank you.”
+
+Bình lowered the ice bag. For a moment he looked younger than he had beside his truck. Bích put a plate in front of him before he could start explaining the price again. Boots moved his own plate onto the table at her look; he had been preparing to balance it on his knees.
+
+“They disagree,” Mai said.
+ 
+Tín looked at the gift, now fastened beside the time he had brought with him that morning. Both watches seemed confident.
+
+“Give them time,” Tín replied.
+
+Boots stayed for the meal he had claimed he could not stay for. Bích cut the cake. Before the first plate reached Tín, the telephone rang in the hall.
+
+Hương covered the receiver. “Mr. Mercer says your birthday present is waiting at the roller rink. He says it won't wait forever.”
+
+Tín passed his slice to Bích and cut another. “Tell Mr. Mercer to eat slowly.”
+
+## Chapter 2: Everybody Bet Against the Old Man
+
+By the time Tín, Boots, and Bình reached Duke's roller rink, the birthday present had acquired a trumpet section. Three boys waited beside a red carpet in tuxedo jackets and shorts. Only one possessed an instrument. The others seemed to be employed as witnesses.
+
+Tín stopped beside them. “Does he pay more when you stop?”
+
+The trumpet boy tested a note. It sounded as though the trumpet had stepped on something.
+
+Tín put five dollars in the boy's pocket. “For the silence after that.”
+
+Inside, a chandelier hung over the rental shoes. Beyond the skating floor and its painted moon, the bowling lanes stretched toward the back wall. Duke had decorated a building devoted to rented footwear with enough velvet to conceal a minor royal family.
+
+The rental woman offered Tín a pair of nines. “Birthday boy gets them free.”
+
+“I'm with him,” Boots said.
+
+“Then buy him something,” the rental woman replied, and stamped a purple star on Tín's hand.
+
+Duke Mercer sat by the first lane in green velvet, with two women beside him and a golden anchor hanging against his chest. A third woman occupied a separate chair with a score sheet. When Duke's drink drifted near her paper, she moved the paper without looking up.
+
+“I expected you sooner,” Duke told Tín.
+
+Tín held his drying star away from his shirt. “The cake deserved time.”
+
+“Bring him a good chair, Sable,” Duke said.
+
+Sable indicated six vacant chairs with her pencil. “They're all the same model of chair, Duke. He can choose the one with the least of you on it.”
+
+Tín chose. Bình remained standing, ice pressed to his cheek. Duke looked at the swelling, then at Boots, who had planted himself against the rail.
+
+“My people say there was a misunderstanding,” Duke began.
+
+“His face understood them,” Tín said. “Leave his truck alone. Leave Bell Street alone. Apologize.”
+
+Duke rose with a black bowling ball dangling from two fingers. He crossed to the line and threw so hard that the pinsetter jumped. One pin came back spinning. Another made a long journey through machinery before something expensive landed out of sight.
+
+The room applauded. Duke spread his arms.
+
+Sable wrote beneath the score. “Third repair this month.”
+
+“Write strike,” Duke told her.
+
+“I have room for both,” Sable replied.
+
+Tín examined a ball on the rack. His fingers did not fit. He set it down.
+
+“Too small,” Tín said.
+
+A young man at the next table snorted at his hands.
+
+Tín looked up. “I meant the conversation.”
+
+Bình's attempt not to laugh hurt his face more than laughing would have. Boots folded over the rail. Duke returned to the table with the room's attention following him, and Tín watched him discover that attention was harder to return than a rental shoe.
+
+“You know what the River Queen contains?” Duke asked. “Three bars. Two dance floors. A kitchen bigger than your house.”
+
+“My wife would enjoy that,” Tín said.
+
+“She can buy a ticket,” Duke replied.
+
+“She dislikes queues,” Tín told him.
+
+Duke pointed toward the last lane. Its machinery had been removed. A white steel safe stood at the end, chained to anchors in the concrete, a painted crown occupying its door.
+
+“Crown Lane,” Duke announced. “Ten thousand if you knock it over. You fail, I get my three hundred and your apology at the dock tomorrow.”
+
+Boots stared at the anchors. “That isn't bowling. That's a building permit.”
+
+Tín studied the cracked concrete around one fixing. “Plus forty dollars delivery.”
+
+“Fine,” Duke said. “Ten thousand and forty.”
+
+Tín turned a red ball in his palm. “What if it goes through the wall?”
+
+Sable's pencil stopped. She looked directly at Duke and shook her head.
+
+“Then you get the boat,” Duke said.
+
+Sable stood so abruptly her chair slid back. “Sit down, Duke.”
+
+“My boat,” Duke reminded her.
+
+“Yes,” Sable said. “The one I keep finding money to repair.”
+
+Tín smiled at her. “How many burners?”
+
+Sable closed her eyes briefly. “Six. Two ovens.”
+
+“We should write those down,” Tín said.
+
+Money was already changing hands by the snack counter. Boots opened his wallet; Bình caught his sleeve.
+
+“You're betting against him?” Bình whispered.
+
+Boots looked offended. “I have personally seen the refrigerator.”
+
+Sable wrote the wager with a flamingo pencil, read it aloud, and watched both men sign. Then she opened the service door beside Crown Lane. Tín saw her send two workers and their boxes out of the yard beyond the back wall. She inspected the space herself before returning.
+
+While they waited, the bookmaker tried chalking the terms onto the snack board. The first attempt left DUKE written under NACHOS and TÍN beside a price for pretzels. A customer pointed out that the arrangement implied he could buy either man with cheese. Sable took the chalk, drew a line through the menu, and wrote the actual wager beneath it.
+
+“His own money,” Sable told the people gathering around the bookmaker. “He pays you if you win. This bar is not guaranteeing his optimism.”
+
+The bookmaker tapped his cash box indignantly. Boots drew it a little farther from the counter's back edge.
+
+“Keeping it visible,” Boots explained. “For public confidence.”
+
+Tín rolled the red ball once between his palms. Its finger holes were ordinary; he could hold it without using them. He watched a worker step out behind the safe to retrieve a broom, waited until Sable brought the man back through the side door, and then glanced at her. She nodded that the yard remained clear.
+
+Duke followed the exchange. “You're both taking your time.”
+
+Sable put her pencil behind her ear. “I'm saving time for the part after you've said something you regret.”
+
+“Empty,” Sable said. “Nobody behind it.”
+
+“You're taking this seriously?” Duke asked.
+
+Sable put the pencil behind her ear. “I'm taking your next sentence seriously. Experience suggests it will need room.”
+
+Tín approached the line. He still wore Vân's paper crown. A little child waved from behind the rail; Tín waved back, then waited until everyone stood clear of the far lane.
+
+“Practice throw?” Duke called.
+
+“Clean the stove,” Tín answered.
+
+He swung the ball low. It touched the lane once and continued through the air. The red sphere struck the safe's door; steel folded inward around it, concrete blew from both anchors, and the chain tore free with a sound like a snapped tow line.
+
+The safe left the building.
+
+Brick dust rolled back into the rink. In the yard, the safe hit a dumpster and drove it into the fence. A red curve briefly showed in the wrecked door, then sprang loose. The ball bounced back through the hole and rolled down the lane until it touched Tín's shoe.
+
+Tín picked it up. One finger hole had expanded considerably.
+
+“I'll pay for the ball,” Tín said.
+
+At the snack counter, the bookmaker laid both palms over the bets.
+
+Boots turned toward him. “Don't become religious now. My money has children in there.”
+
+The child by the rail began clapping. The sound spread until people were shouting Tín's name beneath the chandelier. The trumpet boy found a note strong enough to survive the room and held it like a grudge.
+
+Tín raised one hand for the crowd to settle. “Please stay out of the yard.”
+
+Duke came across the floor with his right fist closing. Tín put the ball on the return rack, stepped inside the punch, and lifted Duke by his velvet waist.
+
+Green shoes dangled above the polished floor. The anchor swung between their faces. Tín rotated him and sat him on the ball return. Its plastic shell cracked. A ball emerged beneath Duke's thigh and rolled into the rack with a polite clunk.
+
+“We should finish the bowling,” Tín told him, keeping one hand on his shoulder.
+
+Sable presented another page. “Receipt.”
+
+“I signed,” Duke said.
+
+“You agreed to lose,” Sable replied. “Now acknowledge that you managed it.”
+
+Duke took the flamingo pencil. Tín let go. The larger man signed with his feet swinging above the floor, climbed down, and faced Bình.
+
+“My men shouldn't have touched you,” Duke said.
+
+“Or my truck,” Bình added.
+
+“Or his truck,” Duke agreed.
+
+“The forty,” Tín reminded him.
+
+Duke placed the bills on the table. “Everybody's become specific.”
+
+Sable gave Tín the documents. Boots collected a bag of winnings. The snack-counter owner supplied pretzels, the rental woman insisted Tín keep the bowling shoes, and a stranger placed a gold watch in the pretzel box after discovering both of Tín's wrists were occupied.
+
+On the way out, Tín paused at the pay phone. He heard Bích answer over the sounds of dishes being washed.
+
+“Did you get my forty dollars?” Bích asked.
+
+“All of it,” Tín said.
+
+“Then come home,” Bích told him.
+
+Tín looked down at the inventory, where Sable had underlined the stove. Boots leaned against the wall and waited with an awful, delighted patience.
+
+“Before I do,” Tín said, “how much room do we have for a nightclub?”
+
+## Chapter 3: Your Grandmother Owns the Dance Floor
+
+Tuesday morning found Duke waiting at Pilgrim Slip with the River Queen behind him and a prepared speech about chandeliers. Bích arrived carrying a market bag.
+
+“Grease trap,” Bích said.
+
+Duke put away the first gesture of his speech. “Wouldn't you like the ballroom first?”
+
+“An elegant kitchen will have an elegant grease trap,” Bích replied, and went up the gangway to discover whether she had inherited a liar.
+
+Tín waited with Sable on the landing while Hương followed Bích aboard carrying a tape measure. Mai stopped on the gangway to photograph the name. Beyond the white barge, the river ran east toward the harbor bridge; a tug passed with a dog standing above three men as if inspecting their work.
+
+“No engines,” Duke told Tín. “You move her with a tug.”
+
+“Then the children won't borrow her,” Tín said.
+
+Sable opened her folder. The wager conveyed the vessel and Duke's listed fixtures, not every part of his operating business. Tín listened while she identified each page and made sure the six burners and two ovens remained present.
+
+She laid the title on the broad top of the landing post, weighting one corner with the keys against the breeze. Tín read the names rather than merely watching where she pointed.
+
+“These pages say what the boat is,” Sable told him. “This list says what stays inside it. If Duke remembers some great sentimental attachment to a cash register, you have the list.”
+
+Duke put a hand on the brass post. “I've had that register six years.”
+
+“It has two working buttons,” Sable said. “Be sentimental at a distance.”
+
+Tín turned the inventory over. “People aren't fixtures. Who works here?”
+
+Sable named the cleaners and bar staff, then the people who no longer came because their money hadn't come either. Duke looked at the passing tug. Tín waited until he looked back.
+
+“No party works itself,” Tín told Duke.
+
+“I know how to operate a nightclub,” Duke replied.
+
+From inside the galley, Bích called his name. The tone brought both Duke's hands off the brass post at once.
+
+“We'll continue your qualifications inside,” Tín said.
+
+“Chandelier?” Duke asked.
+
+Sable turned the inventory around. “All fixtures. Your handwriting.”
+
+“I was under pressure,” Duke said.
+
+“From a pencil,” Sable answered.
+
+Inside, Loretta and two women from her salon had already placed themselves in the ballroom's center, examining possible arrangements of furniture and lesser people. Boots arrived with records. Marcus came behind him carrying a speaker and enough extension cable to trip a procession.
+
+“Grandmaster's birthday cruise!” Marcus announced.
+
+“Yesterday was my birthday,” Tín said.
+
+Marcus set the speaker on the stage. “We're extending the season.”
+
+“Who invited all these people?” Duke asked.
+
+Loretta inspected the dance floor. “The new administration.”
+
+Mai photographed Duke beneath his chandelier. He straightened instinctively and only then noticed the camera.
+
+“I want that picture,” Duke told her.
+
+“Five dollars,” Mai said.
+
+“I owned this place,” Duke protested.
+
+Mai wrote something in her notebook. “Six.”
+
+Bích emerged from the galley. Duke looked at her face and briefly tried to find Sable behind him.
+
+“Filthy,” Bích said. “I need a volunteer.”
+
+Loretta's friends looked at Duke. Boots looked at Duke. Tín looked at Duke. Duke looked at the perfectly clean ceiling, as though a different volunteer might be attached to it.
+
+Ten minutes later, Duke knelt in rubber gloves while Bích sat on a stool supervising the grease trap. Music began in the ballroom. Hương measured serving space; Mai tried to explain to Marcus why the words FOOD AVAILABLE would bring people who had no interest in a SUMMER REIGN.
+
+Tín carried clean utensils to the serving hatch. Through it he could see his granddaughter hold her notebook sideways while Marcus pointed out where gold letters would go. She let him finish, then turned it upright and drew a box around the date.
+
+“They have to arrive on the correct day,” Mai explained. “Then they can appreciate your gold.”
+
+Boots tested an outlet with a little electrical tester. Its light flickered. He frowned, tried another, and frowned again.
+
+“Boat or tester?” Tín asked.
+
+Boots looked at the instrument. “Seeking a second opinion from something I didn't buy at a swap meet.”
+
+He went to borrow a better one. In his absence, Marcus moved the speaker onto the serving route. Hương asked him to imagine a pot of soup traveling through his professional equipment. He moved it again.
+
+Tín opened a window. River air replaced some of the stale beer smell. Hương found a table upstairs broad enough to lay out cloth; Loretta approved room for a band; Bích found the shelf where she wanted bowls. The boat had been a thing won through a wall. Tín watched it become a place where each person could point to some small practical future.
+
+Tín went to the windows when two black cars stopped on the pier.
+
+The woman leaving the first car wore a gray suit and carried an envelope. Two men followed her aboard. The second car idled with its windows closed.
+
+“Iris Rook,” Sable said beside him. “Calvin's daughter. He usually sends her when he'd like people to keep their teeth.”
+
+Tín watched the two men choose different positions in the room. “Whose teeth?”
+
+Marcus lifted the needle from his record.
+
+“Put that back,” Loretta told him. “She hasn't rented the air.”
+
+Music returned quietly beneath Iris's introduction. She addressed Tín formally, placed the envelope on the bar, and offered twenty-five thousand dollars to undo Duke's error.
+
+Tín glanced toward the kitchen. Duke had stopped scrubbing to listen. Bích tapped the grease trap with her spoon, and the work resumed.
+
+“My father controls this berth,” Iris said. “He has uses for it.”
+
+“We're planning food next Saturday,” Tín told her. “He can bring a dish.”
+
+“He doesn't cook,” Iris said.
+
+“Duke is learning,” Tín replied.
+
+Iris's nearer guard rested his hand on the service-door handle. Hương came out from behind the serving counter and watched him until he noticed.
+
+“Stop touching the doors,” Hương said.
+
+The man withdrew his hand. Tín noted the uneven hang of his jacket and the other guard's clear view of both stairs and gangway. He set the boat keys beside Iris's envelope.
+
+“Take your money home,” Tín told her.
+
+Iris picked it up. “We won't offer twice.”
+
+She was turning toward the exit when the man beside the service door drew a pistol.
+
+Hương slammed the serving hatch onto his wrist. The first bullet went through the partition above Tín. He caught the trapped hand, pushed the muzzle against the counter, and turned it down. A second round struck the floor. His open palm hit the guard's jaw, sending him backward into folded chairs.
+
+The other guard reached beneath his jacket. Tín took a bar stool by one leg and swung it low across the floor. It struck both knees. The man fell face-first, and his gun slid beneath a table.
+
+Through the window Tín saw the second car open.
+
+“Kitchen!” Tín shouted.
+
+Bích already had Mai behind the galley wall. Hương dragged a knife box out of their escape path. Boots shoved Marcus behind the bar. Tín ripped the nearest round table from its pedestal and raised it as the man beside the car shouldered a long gun.
+
+The burst shattered three windows. Wood kicked against Tín's chest. One bullet cut the outside of his upper arm; he felt the hot line but kept moving. He drove the tabletop through the empty window frame and jumped after it.
+
+The shield hit the gunman squarely and pinned him against the car. Tín landed on the pier, caught the rifle barrel, and bent it over the open door's edge. The man's fingers released. Tín struck his ribs once, then caught his collar before his head reached the boards.
+
+Iris stood at the gangway's foot, aiming her own small pistol at the fallen man.
+
+“I said no shooting,” Iris told him.
+
+Tín lowered the gunman beside the wheel. “Your employees are difficult.”
+
+Blood reached his wrist. He pressed the graze with his thumb and looked inside the car. Tow cable and bolt cutters lay on the back seat. He looped the cable through a front wheel and around the pier's bollard, then broke the bolt cutters' handles over the edge of the dock.
+
+“You can walk,” Tín told the driver.
+
+Iris put her pistol away. “My father didn't authorize this.”
+
+Tín looked from the bullet holes in his table to the smoking muzzle he had bent. “You can both enjoy being surprised.”
+
+Inside the ballroom, Duke guarded the two fallen men with a frying pan. One tried to lift his head. Duke showed him the new dent, and the head returned to the floor.
+
+“You brought guns into my kitchen,” Duke told the man.
+
+Bích took the pan from him. “My kitchen.”
+
+Duke looked down at the guard. “Ownership changes quickly around here. Pay attention.”
+
+Mai saw Tín's arm and pulled out a chair. “Sit down, Grandpa.”
+
+Tín obeyed after a look at her face. Her hands stayed steady while she cleaned the graze. He wanted to say something reassuring; the room contained too much broken glass for the usual easy answer.
+
+“Where did you learn that?” Tín asked instead.
+
+“At home,” Mai said, tightening the cloth. “Hold still.”
+
+Iris called another car from the bar telephone while Boots and Duke got her men onto the pier. Sable stood beside her with a pencil.
+
+“Local calls are free,” Sable told Iris. “Your father pays for the rest.”
+
+Before the replacement car arrived, Rosa Méndez came aboard carrying a cooler. She surveyed the windows, the overturned stools, Duke's rubber gloves, and Tín's bandage.
+
+“I brought shrimp,” Rosa said.
+
+Boots leaned against the bar. “Thank God. Somebody understands the business.”
+
+Bích inspected the cooler. Then she inspected the ballroom as though measuring how much violence could be repaired before seafood became wasteful.
+
+“We'll need a bigger party,” Bích decided.
+
+Tín held up his bandaged arm. “I thought we might close.”
+
+Bích looked at the shrimp. “With all this food?”
+
+At the gangway, Iris paused. Tín raised his good hand toward her.
+
+“Saturday next week,” Tín said. “Tell your father to come hungry.”
+
+Marcus put the needle back where it had been. This time the record played at its proper volume while everyone began sweeping.
+
+## Chapter 4: The Man with Two Tow Trucks
+
+Calvin Rook came to Boots's garage on Wednesday with an electric wheelchair and no intention of being helpful.
+
+Tín was waiting for Bình to finish an oil change. His wounded arm rested in his lap; the recovered forty dollars waited in a paper bag with two peaches from Vân. Rook stood beneath the awning while his men wheeled the chair out of a van. It was red, padded, and decorated with a ribbon.
+
+“Something suitable for your age,” Rook told him.
+
+Tín rose to inspect the controls. “Electric?”
+
+“Yes,” Rook said, his smile losing a little height.
+
+Boots came out wiping his hands. “Charger included? Don't bring half a threat.”
+
+A man went back to the van for the charger. Tín tested the seat, then waved across the street to Arturo Benítez, who was repairing a shoe outside his shop.
+
+“Arturo, you're having a birthday,” Tín called.
+
+Arturo, the cobbler, looked up. “When?”
+
+“Now,” Tín said. “Boots, take him his present.”
+
+Rook watched his insult cross Bell Street. Boots helped Arturo transfer from his stool and showed him the control. The red chair made a careful circle. Arturo made it make a faster one.
+
+“Academically, how fast does this go?” Arturo asked.
+
+“Stay out of traffic while we research,” Boots told him.
+
+Tín offered Rook a peach. “You've made a friend.”
+
+Rook ignored it. “Fifty thousand for the boat. Duke embarrassed himself. Let me pay you to enjoy it somewhere else.”
+
+Tín bit the peach. “My wife has started on the kitchen.”
+
+“I'll pay her too,” Rook said.
+
+“You should ask her,” Tín replied.
+
+Rook moved closer. His cream suit smelled faintly of something expensive and dry. A white scar crossed the bridge of his nose. Tín had seen the expression beneath it before: a man unhappy that the room had failed to arrange itself around his entrance.
+
+“That berth operates because I permit it,” Rook said.
+
+“We're having food Saturday next week,” Tín answered. “Come see how well your permission works.”
+
+The van's door opened. A broad man in a buttoned black shirt stepped down; the van rose behind him. A silver plate ran along his jaw.
+
+“Tom,” Rook said.
+
+The man rested his hand on Boots's blue truck. Metal crumpled beneath his fingers.
+
+Boots stared at the fender. “I had that painted Tuesday.”
+
+“It's Wednesday,” the man replied.
+
+Tín set his peach on its paper bag. “Your name?”
+
+“Nail,” the man told him.
+
+Tín glanced at the jaw plate. “I was hoping that wasn't the dentist.”
+
+He took Nail's wrist. Nail tried to keep his hand on the truck; Tín lifted until the fingers peeled off one at a time. Nail's shoulder rose. His other fist came up, and Tín folded the captive arm across it. Fist hit elbow with a crack. Nail staggered back into the van, denting the sliding door.
+
+Rook caught his sleeve. “Enough.”
+
+Tín returned to the peach while Boots presented the bill verbally: fender, paint, labor, and grief. Rook peeled bills onto the hood. At grief he stopped.
+
+“You have enough to replace it,” Rook said.
+
+Boots pointed at the damaged metal. “The fender doesn't walk to the supplier. It doesn't match its own paint. Then it doesn't climb on the truck and apologize for the delay.”
+
+Rook peeled off another bill. Boots kept his hands beside him.
+
+“Labor,” Boots said.
+
+Another bill landed beside the first.
+
+“Paint matching,” Boots continued.
+
+Rook looked toward the van. Nail was trying to make the dented door run smoothly without admitting it was dented. It caught, moved, caught again. Boots watched him through one more scrape.
+
+“That too, eventually,” Boots said. “If you'd like an estimate.”
+
+Rook added the paint money. Boots looked down at the little pile, then back at the handprint in his truck.
+
+“I've named this truck,” Boots explained. “We're close.”
+
+Rook added another bill. Nail shouldered the damaged van door shut, and the vehicle pulled away beneath Arturo's cheerful thanks.
+
+Bình came out of the bay after it left. “That's Nail from the dock fights. He put somebody through a shipping crate.”
+
+Tín saw how Bình held his injured cheek. “You fought there?”
+
+“Not him,” Bình said. “Another man. They're still settling my purse.”
+
+Boots closed his eyes. “They settled on keeping it.”
+
+Bình laid his rag on the pickup. “I knew it wasn't respectable. That isn't the part I misunderstood.”
+
+Tín waited.
+
+“They named a price for fighting,” Bình continued. “I did the work. Next day it was another man's ledger. Next day that man wasn't there. Every answer had somebody larger standing beside it.”
+
+Boots stopped examining the fender. Bình looked at his own truck rather than either older man.
+
+“Payment's due,” Bình said. “I don't need a speech about how I should've known.”
+
+“Then we won't give you one,” Tín told him. “You don't have to fight Nail to deserve money you earned fighting somebody else.”
+
+Bình nodded once, still looking at the pickup. Tín had seen him washing it on evenings when only the person holding the sponge would admire it. The truck wasn't the whole reason he had fought, but it was the part standing in front of them, stubbornly costing money while men in a basement discussed expenses.
+
+A horn interrupted them. The white tow truck rolled out of the next bay with a stranger at the wheel and another man on its rear platform. Its raised hook caught Bình's bumper. The pickup lurched sideways. Bình jumped clear as both vehicles headed for Bell Street.
+
+Boots ran after his truck. The man on the platform swung a crowbar toward his head. Tín caught Boots's shirt and hauled him back; the crowbar struck the door frame, spraying old paint over the coffee mug.
+
+“My truck!” Bình shouted.
+
+Tín took the pickup's rear corner and lifted. The hooked bumper tore away, leaving the pickup across the entrance. He stepped onto its hood, crossed its roof, and jumped onto the departing tow truck.
+
+The platform man swung again. Tín ducked under the bar, drove him against the boom, and pulled his jacket over his head. The man tried to punch through his own lining. Tín threaded both sleeves through the hook's retaining loop and left him explaining the arrangement to the inside of his collar.
+
+The driver swerved onto the curb outside Loretta's salon. A wig rack fell. One wig caught on Bình's dangling bumper and streamed behind it like a luxurious distress flag.
+
+“Bring that back!” Loretta shouted from her doorway.
+
+Tín reached the cab roof. A shot punched up beside his foot. He drove his hand through the thin panel and pulled the gunman's wrist into daylight. The pistol fell; Tín kicked it into an empty parked truck bed, clear of the scattering crowd.
+
+Ahead, Arturo's chair stood trapped between two frozen pedestrians at the curb.
+
+“Brake!” Tín told the driver through the torn roof.
+
+The engine grew louder.
+
+Tín dropped beside the open window, braced his feet against the door, and pulled the wheel out of the steering column. The driver stared at it in his hands.
+
+“That wasn't the brake,” Tín observed.
+
+He hit the street running, caught the truck's front bumper, and raised its front wheels. Tires screamed behind him as he turned the whole vehicle away from Arturo. Its rear wheels bumped into the gutter; he shoved it sideways until it faced the empty furniture-store wall. The stolen bumper swung forward and slapped brick. Loretta's wig settled over it with magnificent composure.
+
+Tín lowered the truck. “Get out. Bring the wheel. Boots will want all the pieces.”
+
+Boots arrived in the blue truck with Bình on the back. They tied both thieves beside the store. Loretta recovered her wig, inspected the hair, and slapped the driver twice with it before Boots persuaded her to stop adding evidence.
+
+Tín sat on the curb. His bandage had slipped, and blood traveled toward his elbow. Bình brought water and a clean rag. The furniture-store owner emerged, saw Arturo safely returning to his shop, and quietly took a brass key from his ring.
+
+“Twenty chairs for your party,” the owner told Tín. “Tables too.”
+
+Boots held the steering wheel against his chest. “I want a birthday with this man's accounting.”
+
+Loretta lifted a folding chair from the open store and tested its weight while looking at the thieves.
+
+Boots took it gently from her. “Party first, sweetheart.”
+
+As sirens approached, Tín checked his two watches. Neither agreed with the shop clock.
+
+“Find Duke,” Tín told Bình. “After supper, I'd like to visit that downstairs room. You worked. Somebody should pay you.”
+
+## Chapter 5: Nobody Ordered This Much Shrimp
+
+By Wednesday afternoon, Bích had rejected four sponsorship banners and accepted enough shrimp to found a small coastal nation.
+
+The latest banner occupied a table on the River Queen. Marcus had drawn Tín rising from the river with the barge in one hand and a mountain in the other. Sunglasses covered most of his face.
+
+Bích tapped the mountain. “Where did he get this?”
+
+“It's artistic,” Marcus explained.
+
+“It's in the way of the date,” Mai said, sliding her own layout over it. Her version advertised food, music, and a place to dance. No mountains needed lifting.
+
+Marcus studied it. “How much for admission?”
+
+“Nothing,” Mai replied. “Stalls pay for space. The bar makes money. People come.”
+
+“We're promoting free?” Marcus asked Tín.
+
+Tín held still while Bích replaced his bloody bandage. “You seem expensive enough for everybody.”
+
+Bích knotted the clean cloth. Tín winced and surrendered the forty dollars. She put them in the repaired purse inside her apron, the same purse she had carried when they reached California five years earlier.
+
+“We could get you a better stove at home,” Tín said.
+
+Bích looked toward her galley. “I have two ovens here.”
+
+“I was thinking about safety,” Tín told her.
+
+Bích took his chin and turned him toward her. “Try it before the next window.”
+
+Boots arrived with Detective Vega and the stolen truck's steering wheel. Vega carried a notebook. Boots carried the wheel as if it might identify its attacker in a lineup.
+
+“I asked him to leave that at the garage,” Vega told Tín.
+
+Boots set it on the bar. “You can't trust those men around detachable evidence.”
+
+Vega asked about the truck, then the arm, then the boat's boarded windows. Tín answered in order. When she discovered he had owned the barge only since Monday, she closed the notebook for a moment.
+
+“Keep the children out of this,” Vega said.
+
+Mai looked up from her layout. “I'm making a flyer.”
+
+Vega inspected Marcus's mountainous alternative. “You'll need a larger printer for that one.”
+
+Mai slid it back toward Marcus with evident satisfaction.
+
+Rosa's first two coolers arrived while Vega took notes. A third wedged itself in the galley doorway. Tín lifted it through. Three delivery men followed with ice and buckets, their faces showing a growing resentment of the word donation.
+
+“How much shrimp?” Tín asked Rosa.
+
+“Enough,” Rosa said.
+
+Boots opened a lid. “For which coast?”
+
+Rosa pointed back toward Bell Street. “My cousin knows Arturo. A man who keeps him from going under a truck can eat.”
+
+Tín reached for a bucket. A live crab climbed its rim and snapped at him.
+
+“That one hasn't heard of me,” Tín said.
+
+Rosa fitted the lid. “He doesn't read.”
+
+The galley became a procession of cold boxes. Vega drank Bích's coffee while Boots supplied information about the thieves, their employers, and several men who were unrelated to the case but whom he disliked. Sable emerged from the office at a metallic clang outside.
+
+“Who's working on the fuel?” Sable asked.
+
+Bích stopped counting trays. “Nobody.”
+
+Sable ran through the side door. Tín followed onto the narrow walkway between galley and river. At the far end, a delivery man crouched beside an open steel fuel cabinet. A tool bag sat by his knee. A small flame moved in his hand.
+
+“Inside,” Tín told Sable.
+
+The man threw the flame and bolted toward them. Tín caught his collar as he passed and hurled him through the open doorway. The man landed flat between the ballroom tables. Boots dropped onto him, pressing the steering wheel across his chest.
+
+“Useful!” Boots shouted, apparently to Vega and posterity.
+
+Fire raced along the cabinet's lower seam. Tín seized its frame and pulled it away from the deck. Mounting bolts tore through boards. Heat curled his clean sleeve; the hiss beneath the steel grew into a shriek. He threw the cabinet over the rail.
+
+It struck the river well clear of the hull, disappeared, and burst underwater. The river rose above the balcony. The barge rolled under Tín's feet. Inside, glass broke, a cooler slid, and somebody yelled for a towel before the water finished falling.
+
+Tín gripped the rail until the deck settled. His new sleeve smoked above the old wound.
+
+“I just put this on,” Tín told the ruined cloth.
+
+Sable returned with an extinguisher and drowned the burning boards in powder. Vega came behind her holding her pistol low. A second false delivery man was running along the pier.
+
+Vega ordered him to stop. He ran faster. Tín swung the weighted end of a loose mooring rope and sent it across the gap. The knot struck behind his knees. He landed on his stomach and slid into a coil of line, where he discovered the river had already done a thorough job of making it unpleasant.
+
+Vega went down the gangway to collect him.
+
+Inside, one of Rosa's real delivery men sat with his palm wrapped in a towel. He had fallen onto broken glass when the boat rocked. Mai and Hương steadied him while Bích tightened the cloth. Marcus knelt beside the cooler that had struck the wall, holding it still long after it stopped moving.
+
+Boots looked down at his prisoner. “You chose a seafood delivery. We have buckets. We can lose you by category.”
+
+Rosa nudged the tool bag open with her shoe. A blank receipt bearing a Crown Shipping stamp slid onto the floor. Vega returned, took it by one corner, and called for officers from the bar phone.
+
+Sable touched the unburned edge of Tín's sleeve. “Cold water.”
+
+Bích was already bringing a bowl. Tín sat without supplying his usual preliminary objections.
+
+The police took the two men away. Boots reluctantly surrendered his steering wheel after Vega promised to return it to the truck. Rosa's injured worker tried to stand and was assigned to regain his dignity by eating.
+
+Vega stayed to inspect the cabinet's mounting holes. She asked Sable how the false delivery men had reached the side deck. Sable showed her the open door and the route used by Rosa's real carriers.
+
+“Three deliveries together,” Sable explained. “We were all looking at the coolers.”
+
+Vega watched the volunteers sweep the ballroom. “Somebody decides who boards. Somebody who isn't also carrying dinner.”
+
+Tín nodded. This was a thing he could arrange without demanding that everyone remain behind a locked door. Sable began listing expected suppliers. Boots volunteered, then remembered the garage. Duke dried his hands in the galley and became very interested in a towel until the others looked his way.
+
+“I know the suppliers,” Duke said.
+
+“Know them enough to ask about the others?” Sable said.
+
+Duke stopped folding the towel. “Yes.”
+
+At the nearest table, a volunteer asked Bích whether the festival would really happen. Her sister had promised pastries; she needed to tell her what to expect. Bích set her broom down and listened to the whole question.
+
+“I want it,” Bích answered. “I won't make you want it.”
+
+The woman looked relieved to have been allowed uncertainty. Bích packed food for her to take home, then pointed to the telephone.
+
+“Tell your sister what happened,” Bích added. “All of it. She should choose knowing.”
+
+Tín didn't interrupt with a claim that everything was handled. Powder still covered his sleeve. The delivery worker's towel had red showing through it. He watched the woman use the phone and held cold water against his burned arm until it stopped feeling cold.
+
+Tín waited beside the scorched door while the kitchen crew cleaned up. Through the broken boards he could see the river moving calmly past the place where the cabinet had vanished.
+
+“He needs this berth before next week ends,” Sable said beside him.
+
+“For what?” Tín asked.
+
+Sable looked toward the shore, then back at the room. “Ask Rook about the midnight train. Ask it where he keeps the money.”
+
+“You could tell me,” Tín said.
+
+Sable held his gaze. “You should see what he's protecting before you decide what my word is worth.”
+
+She returned to help Hương lift a table. Tín watched her go. She knew the doors, deliveries, wages, and locks. Whatever she had decided now, she had known enough before today to make her silence part of the business.
+
+Bích called them to supper. The main stove still worked; she had checked it before allowing anyone to sit down. Fourteen people gathered with bowls and plates while white extinguisher powder drifted off the outside rail.
+
+Bích put food before Tín. “You're going out tonight.”
+
+Tín nodded.
+
+“Wear the ugly shirt,” Bích told him.
+
+Tín considered asking which one. Her look spared them both the exchange.
+
+## Chapter 6: The House Asked for Another Table
+
+The shirt had peacocks on it. Blue and orange peacocks, large enough to make eye contact across a room. Tín had bought it in 1988 from a salesman who claimed it suited his confidence. Bích maintained that the salesman had identified the weakness accurately.
+
+Outside the dock warehouse that Wednesday night, Duke examined it in silence before admitting them.
+
+“Are we robbing the place or causing a distraction?” Duke asked.
+
+“My wife wants me home,” Tín said.
+
+Duke opened the door. “They may send you there.”
+
+Bình followed with his injured cheek uncovered. Boots had intended to come, but Loretta had hidden both sets of truck keys and suggested a hobby that didn't require a statement to police.
+
+Music and warm air rose from the basement. Beyond the bottom of the ramp, twelve gambling tables occupied a broad room beneath low lamps. A boxing ring stood along the far wall. Waiters carried Crown Shipping glasses between people betting wages, borrowed money, and money they hoped nobody remembered lending.
+
+A woman recognized Tín. The news moved across the tables faster than a winning hand. Before he reached the bar, a man in a silk waistcoat offered him whiskey and praised the shirt.
+
+“Don't encourage that,” Duke muttered.
+
+Tín accepted the drink and went to Rook's table. Iris stood behind her father. Nail waited by the ring with a swollen hand and an expression Tín remembered from the garage.
+
+“I didn't invite you,” Rook said.
+
+Tín pulled out a chair. “I didn't invite the fire. Two of your delivery men are telling Vega about it.”
+
+Iris glanced at her father. Rook kept his eyes on Tín.
+
+“You owe Bình for his fight,” Tín continued.
+
+Rook looked at the younger man. “There were expenses.”
+
+“I fought,” Bình said. “The other man got carried away. I stayed for the explanation.”
+
+Tín picked up a black chip. “How much is this one worth?”
+
+“Five thousand,” Rook replied.
+
+Tín passed it to Bình. Rook caught his wrist. The table slid several inches, and every glass trembled beneath the lamp. Tín waited, studying the hand around his wrist until Rook's fingers loosened.
+
+“That's more than his purse,” Rook said.
+
+“Expenses,” Tín reminded him, and moved the table back. He tucked a napkin under the spilled whiskey.
+
+Rook tapped the table with two fingers. At the bar, a cashier looked toward the chip in Bình's hand and then toward Rook. Tín saw the calculation and waited.
+
+“He's cashing that,” Tín told Rook. “Before we forget why we came.”
+
+Rook kept his hand on the table. For several seconds only the ring's loose chain moved, knocked by someone climbing down from its apron. Then Rook flicked two fingers toward the cashier.
+
+Bình went to the bar. The cashier counted real bills reluctantly, making the transaction appear more difficult than any hand of cards in the room. Bình counted them too. When he returned, he had put the notes in a different pocket from the ice bag he no longer needed.
+
+“That's mine,” Bình said quietly to Tín.
+
+Tín nodded. “Yes. It was before tonight.”
+
+He turned back to Rook. “Now tell me about the midnight train,” Tín said.
+
+Iris stopped turning her ring. Tín noticed because her hand had been moving continuously since he sat down.
+
+“Concern yourself with your family,” Rook said.
+
+Tín looked at the watching tables. “I am. We have a kitchen in your way.”
+
+Rook stood and called Nail. The enforcer climbed into the ring. Its other occupant ducked through the ropes before anyone explained why.
+
+“Fifty thousand if you last three minutes,” Rook said. “Then perhaps you'll understand the room.”
+
+Tín counted the exits with a glance. “One door everyone keeps watching. I understand it.”
+
+Duke touched his chair. “Nail doesn't fight clean.”
+
+Tín looked down at the peacocks. “Neither did the shirt salesman.”
+
+He made Rook confirm that Bình kept his money, finished the whiskey, and returned the glass to its donor. Then he stepped between the ropes.
+
+At the far tables people had begun placing bets on the three minutes. Tín heard his age pass between them like another handicap. The man who had given him whiskey offered to hold his shirt, then saw the peacocks clearly beneath the ring light and let the offer expire.
+
+Tín tested the platform with one foot. It gave slightly at the edge. He looked at the nearest row of seated spectators.
+
+“Move your chairs back,” Tín told them.
+
+A player held up his cards. “We're using the table.”
+
+“Keep the cards,” Tín said. “Move yourself.”
+
+Duke came over and drew the first chair back. That persuaded the others. Drinks and chips traveled with them. Rook said nothing, but his eyes followed every person obeying the old man in the ugly shirt.
+
+Bình stood with his cash pocket turned away from the crowd. Tín saw him touch it once, as if still testing whether the promise had become something he could take home.
+
+Nail rolled his neck. Dark screws held the silver jaw plate in place. Tín kept his burned arm loose, testing how much lifting it would allow. It answered unpleasantly.
+
+“No gloves?” Tín asked.
+
+Nail shook his head.
+
+“Ask for some next time,” Tín advised.
+
+At the bell, Nail aimed straight for his throat. Tín turned the fist past his cheek, struck the ribs, and stepped away from the answering elbow. Nail drove a knee upward. Tín caught the thigh and shoved him into the ropes. A corner post leaned toward the nearest card table. Players collected their drinks but left their chips, establishing their priorities.
+
+Nail sprang off the ropes and caught both shoulders of Tín's shirt. He drove him into the opposite corner hard enough to punch the post through the platform. Pain ran along Tín's burn. He tucked his chin, met the headbutt with the top of his skull, and punched twice into Nail's stomach.
+
+When he lifted his elbows between Nail's arms, the shirt tore. Nail stepped back holding an enormous peacock.
+
+Tín glanced at it. “My wife will send flowers.”
+
+He hit Nail beneath the chin, then across the body before the man's heels settled. Nail stumbled into the sagging ropes and tore one free. Its metal hook swung past Tín's face and into the lamp above Rook's table.
+
+The lamp fell among the cards. Rook leaped back. Whiskey, chips, and glass arrived in laps that had expected an evening of calculated risk.
+
+Nail hauled the rope back. Tín pinned it beneath his sandal. Nail pulled harder; the opposite corner broke from its mountings. The ring tilted, pouring its loose objects and its larger fighter toward Tín.
+
+Tín stepped across the falling boards and kicked Nail through the remaining ropes. He landed on a card table. It collapsed beneath him, throwing chips across the room. A woman caught a whole stack against her dress and clutched it there as though the money had finally recognized its proper mother.
+
+Nail rose with a table leg.
+
+“Stay in the ring,” Rook snapped at Tín.
+
+Tín pointed at the wreckage. “It left.”
+
+Nail swung. Tín caught the wood; it split between their hands. Nail thrust the pointed half at his ribs. Tín let it pass, folded the forearm under his elbow, and swept the ankle. Nail hit the floor on his back, cracking boards beneath him.
+
+Tín knelt on the good wrist and rested two fingers beside the jaw plate. He could hear the enforcer breathing through broken wood dust.
+
+“Does this detach?” Tín asked.
+
+Nail went still.
+
+“Enough,” Rook said from behind them.
+
+Tín looked only at Nail. The man swallowed and finally said the word himself.
+
+“Enough,” Nail whispered.
+
+Tín stood. Around him the room began chanting for payment. Duke sat on the ruined platform laughing, Bình beside him with the five-thousand-dollar chip gripped in one fist.
+
+Rook handed over the stake. Tín passed it to Bình to carry. At the bar, Sable appeared from a side corridor and surveyed the debris.
+
+“I asked for another table,” Sable said. “Singular.”
+
+Rook caught Tín's torn sleeve as he left. When Tín looked down, the hand withdrew.
+
+“The berth's apron remains mine,” Rook said quietly. “Whatever Duke signed. Move the barge by Friday.”
+
+Tín glanced at the ring and the broken lamp. “Send fire again and I'll bring the kitchen to your house.”
+
+He went to the stairs. Sable caught up beside him long enough to speak beneath the cheering.
+
+“Rail loading,” Sable said. “Trucks need your gangway's space. Ask Duke about his liquor prices. Ask what used the passage underneath.”
+
+Outside, Duke sat on the steps while Bình counted their winnings for the third time. Behind them, somebody had begun selling pieces of the broken table.
+
+Tín sat beside Duke. “The liquor bill.”
+
+Duke's amusement vanished. Tín waited; from below came a new offer involving pieces of rope.
+
+“Before they sell the stairs,” Tín added.
+
+Duke looked at the remaining peacocks, then at the money in Bình's hands. At last he began to explain how cheaply a man could buy something when he made a point of never asking whose it had been.
+
+## Chapter 7: Mai Brings Her Own Camera
+
+Thursday morning, Tín submitted to photography in front of a bedsheet hung across Boots's garage. Marcus had painted water along its bottom and stars above it. Between them, he had added GRANDMASTER CHIGGA PRESENTS.
+
+Tín inspected his new title. “Did I lose my name in the fight?”
+
+“Entertainment name,” Marcus explained.
+
+“My wife has several for me,” Tín said.
+
+Mai took the banner down. “We are advertising lunch. Grandpa, look here.”
+
+Tín looked dangerous. Mai lowered the camera.
+
+“You look like you know where somebody is buried,” Mai told him.
+
+“Use the other lens,” Boots suggested.
+
+That made Tín laugh. Mai caught it, lowered the camera, and announced that he was free except for a ride to the printer. She would carry layout boards; Marcus would carry supplies; Tín could carry the responsibility of driving Bình's repaired pickup without removing its new bumper.
+
+On the way, they passed Duke beside the River Queen with empty liquor crates. At dawn he had shown Tín the service entrance beneath the berth and finally opened a case he had never wanted to examine. Foam inside bore six handgun-shaped depressions. The cheap liquor had been the part of the business that allowed Duke to tell himself he understood the business.
+
+“Those going back?” Tín called from the window.
+
+Duke lifted a crate. “Working out who to return them to.”
+
+Mr. Chen's printshop stood near the old rail bridge. Two machines rattled inside; wedding invitations and nightclub cards filled the window. Mai unwrapped her layouts while Tín stayed beside the paper samples.
+
+Mr. Chen adjusted his glasses. “You did these?”
+
+Mai nodded.
+
+Mr. Chen marked the spacing with a pencil. “This needs work.”
+
+“Show me,” Mai said before Marcus could defend her against useful information.
+
+By her third question Mr. Chen had invited her behind the counter.
+
+Mr. Chen laid two samples side by side. One had the letters crowded; the other had enough space for each word to hold its shape. He made Mai stand at the far side of the shop and read them through the moving press noise.
+
+“From the bus,” Mr. Chen said. “Your reader is passing. Your reader isn't going to get off because you worked hard.”
+
+Mai moved the words FOOD AND MUSIC with the edge of a ruler. Marcus suggested making them gold. Mr. Chen looked at him over his glasses.
+
+“Gold bad spacing is still bad spacing,” Mr. Chen told Marcus.
+
+Tín heard his granddaughter laugh, then stop laughing so she could ask another question. He watched her hands: the careful way she kept ink off the board, the pause before moving a line she had already spent time getting right. She was prepared to change it when someone showed her a reason. Marcus offered to hold the ruler. She gave him the paper stack instead.
+
+Mr. Chen checked the date. “Saturday work?”
+
+“The festival's Saturday,” Mai replied.
+
+“Other Saturdays,” Mr. Chen clarified. “People will need printing after lunch.”
+
+Mai looked toward Tín. He kept his hands in his pockets and waited for her to ask the question herself. She turned back to the printer and asked what she would learn.
+
+“He's stealing our designer,” Marcus whispered.
+
+Tín watched Mai move a strip of lettering. “She's improving her contract.”
+
+A train rolled slowly behind the shops. Along the road beside it came a flatbed carrying long wooden cases and a curved brass pipe. Marcus pointed through the window.
+
+“Orpheum organ,” Marcus said. “They took it out last week. My music teacher went down there to argue. Somebody claimed a church bought it.”
+
+The truck stopped at the shuttered warehouse opposite. A Crown Shipping man with a clipboard waved two loaders toward the first case. Mai came out of the work area while the printer prepared her first sheet. She lifted her camera at the sight of the brass.
+
+“For the music page,” Mai told Tín.
+
+He followed her outside. A loader dropped his end of a case. Its lid sprang up, revealing black weapons nested beneath the organ fittings.
+
+Mai's shutter clicked.
+
+The clipboard man heard it. His hand went inside his jacket.
+
+Tín took the printer's sandwich board and threw it across the street. It struck the man at shoulder height and drove him backward through the warehouse doors.
+
+“Back entrance,” Tín told Mai. “Take Marcus.”
+
+Mr. Chen was already pointing them toward the rear passage. The truck driver fired over his door. The pickup's windshield burst behind Tín. He crouched at its nose, pulled the temporary bumper from its bolts, and rose with the steel across his chest.
+
+A second shot rang against it. Tín crossed the street. The driver tried to shut his door; Tín thrust the bumper into the opening and folded the door inward, leaving the man pinned against his seat. His pistol dropped into the footwell.
+
+A loader came out carrying a shotgun. Tín caught its barrel before it cleared the doorway and struck the man's nose with his elbow. Blood splashed the loading sheet on the wall. The man slid down the door track.
+
+The other loader fled along the building. Tín heard a shout behind the printshop and ran, flinging the shotgun onto the warehouse roof where nobody could reach it quickly.
+
+In the rear courtyard, the fleeing man had Marcus by the shoulder. Mai struck the hand with her camera bag. The man shoved her into the fence. She caught herself and came back toward him; Tín vaulted the dividing wall from a stack of pallets and landed at the gate.
+
+The loader dragged Marcus against his chest and drew a knife.
+
+Tín stopped. Marcus held the man's wrist with both hands, trying to leave room between blade and throat. Mai glanced at a broken chair by the fence. Tín shook his head once. She stayed still.
+
+“Put it down,” Tín told the loader.
+
+“Stay there,” the loader said, backing toward the gate.
+
+The gate opened behind him. Hòa stood on the other side carrying exercise books.
+
+“You're blocking the path,” Hòa said.
+
+The man drove an elbow backward. Hòa caught it against his ribs, placed the books on the wall, and turned the knife wrist outward. The blade fell. Marcus stumbled free. With his foot behind the loader's heel, Hòa guided him onto both knees and held the arm at an angle that discouraged every further idea.
+
+Tín watched his son's hands. The loader had stopped trembling because he had stopped trying to move.
+
+“Dad?” Mai said.
+
+Hòa looked at her. “I came to see the first print.”
+
+Marcus bent over with his hands on his knees. “Reviews got aggressive.”
+
+Mr. Chen emerged holding a paper cutter in both hands. He lowered it when he saw Hòa and sent his assistant to call police.
+
+“Any more?” Hòa asked his father.
+
+Tín nodded toward the street.
+
+“Go,” Hòa said.
+
+Tín returned to find the driver still pinned, the shotgun man reconsidering sitting up, and the clipboard man emerging beneath the sandwich board. One gesture put all three in agreement about waiting.
+
+Vega arrived, inspected the open case, and immediately called another officer over. Mai offered her camera. Her hands shook now that the work of holding them still was finished.
+
+“You okay?” Vega asked.
+
+“Mostly,” Mai said, correcting her first quick nod.
+
+Vega lowered her notebook. “You don't have to decide the rest right here.”
+
+Mai adjusted the camera strap. “I got the open case. Before he saw us. I think the jacket too.”
+
+“We'll preserve the film properly,” Vega said. “Tell me which pictures you took, and we'll arrange prints.”
+
+Mr. Chen brought a chair out beneath the awning. Marcus sat on its edge and held the layout boards across his knees. One corner had creased when they fell in the courtyard. Mai touched it, then took her hand away.
+
+“Fixable,” Mr. Chen said, watching her.
+
+She nodded. Tín moved beside Marcus without touching his shoulder. The boy stared at a mark on his own wrist where the loader had gripped him.
+
+“You're out now,” Tín told him.
+
+Marcus tried a smile. “This still counts as volunteering?”
+
+“We'll improve the lunch,” Tín said.
+
+Marcus let out one uncertain laugh. Tín stayed there while it passed. A joke could give the boy a place to begin talking; it couldn't make the knife disappear from what had happened.
+
+Mr. Chen brought the first flyer out beneath the awning. Mai took it carefully. The lettering was clean. Her grandfather laughed beside the River Queen's name; beneath him, people could read what they were invited to do.
+
+“Your grandfather pays for the sign,” Mr. Chen said.
+
+“Of course,” Mai replied.
+
+While they waited for Bình to collect them, Hòa stood beside Tín with his rescued exercise books.
+
+“You didn't know?” Hòa asked.
+
+“No,” Tín answered.
+
+Hòa watched his daughter showing Marcus the print. “Then don't tell her the mistake was leaving home.”
+
+Tín looked at him. “I wasn't going to.”
+
+“Good,” Hòa said.
+
+Mai joined them. “Mr. Chen offered Saturdays. Paid work.”
+
+Hòa asked whether she wanted it. Mai nodded, holding the flyer by its edges so she wouldn't mark it.
+
+Tín studied the printed date. “Your grandmother will want to negotiate.”
+
+“About the job?” Mai asked.
+
+“About who owns your Saturdays,” Tín told her.
+
+Mai smiled. Hòa put an arm around her, and they waited together while officers fetched the shotgun off the roof with considerably more equipment than Tín had used to put it there.
+
+## Chapter 8: A Very Inconvenient Wedding
+
+By Saturday, Mateo Méndez had polished his tug, arranged flowers over its rear deck, and discovered that the boat could not leave because his bride had married the throttle to the steering wheel with satin ribbon.
+
+“The boat should look married,” Denise told him through the wheelhouse door.
+
+Mateo worked scissors between his teeth. “The boat would like a little independence.”
+
+Denise wore the cream dress Hương had finished before Denise's planned last-minute emergency. Her bouquet rested beside work gloves on a bench. Beyond her, Tín held the gangway as Rosa counted guests aboard the Little Mercy.
+
+“Twenty places,” Rosa told Boots.
+
+Boots lifted his cooler. “This doesn't need a seat.”
+
+“You just gave it one,” Rosa replied.
+
+Tín took the cooler. Bích took Tín's elbow and guided him to their assigned chairs. His burn itched; four members of his family and a grocery customer had forbidden scratching. He kept both hands visibly occupied until Bích looked elsewhere.
+
+Hòa secured Marcus's speaker beneath the awning. Mai checked her camera strap at the rail. Hương removed a loose thread from Denise's hem, apparently expecting the wedding photographs to be inspected by hostile thread experts.
+
+The engine started. On the pier, Arturo waved from his red chair. Vân distributed pastries to strangers who had only stopped to watch. Duke stood beside the River Queen with Bích's cleaning list hanging from one hand.
+
+Mai moved along the rail taking pictures while the shore still stood behind everyone. Rosa kept interrupting the photographs to ask whether Tín could move half a chair left or Boots could stop hiding behind the cooler. Boots put the cooler under his seat. It didn't fit. He turned it, tried again, and discovered that the cooler did not become narrower through persuasion.
+
+Hòa moved the nearest two chairs apart by a few inches. The cooler slid between them. Boots looked up gratefully.
+
+“That education's paying off,” Boots told him.
+
+Hòa tested the space with his foot. “Elementary geometry.”
+
+Tín reached to help tie the final line away from the gangway. Bích caught his hand and put it back on his knee.
+
+“You're a guest,” Bích reminded him.
+
+“Guests can tie things,” Tín said.
+
+Bích looked toward the wheelhouse, where Mateo was still extracting wedding ribbon from his controls. “We've seen enough of that.”
+
+“You could have invited him,” Tín told his wife as the tug moved away.
+
+“I did,” Bích said. “He said weddings made him emotional.”
+
+“He was looking at the grease trap,” Tín said.
+
+“Then he should answer faster,” Bích replied.
+
+They headed west past the cannery inlet toward the little lighthouse where Mateo and Denise had shared their first sandwiches. Tín listened to them dispute whether the sandwiches had been cold or merely memorable. Denise's uncle Frank opened his blue folder under the floral arch.
+
+“Two sandwiches,” Mateo told Frank. “She stayed for the second.”
+
+Denise rested her hands over her bouquet. “The first was small.”
+
+“And the view,” Mateo added.
+
+“Very good view,” Denise admitted. “No complaints about the lighthouse.”
+
+Frank made a note as if considering whether the correction belonged in his remarks. Denise watched the pencil move and shook her head until he stopped. Tín caught Mateo's eye and pointed at the jacket button again. Mateo fixed it, missed the next hole, and had to begin once more.
+
+Bích leaned close to Tín. “You did that.”
+
+Tín looked at her. “Different jacket.”
+
+“Same panic,” Bích replied, and folded her hand over his. He let the memory of his own fingers failing at a simple button sit between them without telling the whole boat about it.
+
+Marcus pressed play. Boots's recorded voice announced a discount on used tires.
+
+Boots lunged across Hòa to stop the cassette. “I support my son's career.”
+
+The proper music began. Mateo fixed his crooked jacket button as Denise approached, late enough that she saw and early enough that she could pretend she hadn't. Frank began the ceremony. Two paragraphs later, Tín noticed a dark speedboat leaving the inlet. Another followed behind it.
+
+The first came alongside the tug's right rear quarter. A man stood at its bow with a pistol.
+
+“Shut the engine off!” the gunman shouted.
+
+Denise turned. “Absolutely fucking not.”
+
+“Down,” Tín told the guests.
+
+Bích pulled Frank behind the cabin. Hương took Denise toward the wheelhouse. Hòa lifted the nearest row of chairs against the rail. The first bullet struck a chair back as Tín jumped onto the speedboat.
+
+Its bow plunged under his landing. Spray covered his sandals. He caught the pistol wrist, drove it onto the windshield frame, and turned the next shot into the water. His free hand struck the gunman's throat, dropping him into the footwell.
+
+The driver swerved. A third man threw a hook toward the tug; it caught beneath the floral arch. The line tightened, ripping the arch from its supports. Mai ducked as flowers swept over her. Her camera struck the deck.
+
+Tín stepped onto the speedboat's rail and caught the falling arch. The smaller boat rolled toward his weight. Its hook man reached for a knife to cut the line before the wedding decoration capsized them all.
+
+Tín swung the arch back onto the tug. Hòa caught its far end before it struck the guests and lowered it across the deck. Marcus crawled underneath to recover Mai's camera.
+
+The knife came toward Tín. He turned the wrist, struck the man across the face, and caught his belt as he fell overboard. Tín hauled him back and dropped him beside the first gunman.
+
+“Remain available for collection,” Tín told him.
+
+The driver reached beneath his seat. Tín drove his head back into the padded chair, breaking the headrest. He pulled the throttle down and turned toward the second speedboat.
+
+It had reached the tug's other side. A man raised a shotgun while his companion lifted a canister with a burning rag at its mouth. Mateo swung the Little Mercy into them. The tug's heavy flank struck their bow; burning fuel splashed across the water.
+
+The shotgun fired. Wheelhouse glass burst. Mateo hit the door frame, blood spreading down his upper leg.
+
+Rosa screamed her brother's name.
+
+Tín crossed back onto the tug, ran the rear deck, and leaped into the second boat beside its engine. Water poured over the stern. He hauled the shotgun man against the rail and hit him behind the ear. The other attacker raised both hands above his scorched sleeve.
+
+“I'm done,” the burned man said.
+
+“Good,” Tín answered, securing the flooding boat to the tug's trailing line.
+
+In the wheelhouse, Denise had torn the lining from her dress and pressed it against Mateo's thigh. Hương held the cloth while Rosa helped secure it. Hòa took the controls. Tín knelt beside the groom.
+
+“Move your foot,” Tín told Mateo.
+
+Mateo did, glaring at the blood. “My wedding.”
+
+“Still yours,” Denise said. “Hold this.” She put his hand over the dressing.
+
+“We're going ashore,” Tín said.
+
+Mateo began objecting about the ceremony. Denise took his face in both hands.
+
+“You are marrying me with all the blood you have left,” Denise told him. “Stop negotiating.”
+
+At the nearest repair landing, workers caught the lines while somebody telephoned for an ambulance. Boots had secured both attacker boats behind the tug; their occupants remained too busy surviving to object. Tín carried Mateo to a bench with Denise walking beside him, keeping pressure on the wound.
+
+Frank arrived with the damp folder. Denise asked what remained. Vows, rings, and a reading. The reading lost its appointment.
+
+“My aunt chose it,” Frank said.
+
+“She can read it at the hospital,” Denise replied.
+
+They married on the repair-yard bench. Rosa held the surviving flowers. Boots produced both rings. The ambulance arrived during Mateo's vows; its crew waited for the last words and began moving him while Denise said hers. She slid the ring onto his finger as the stretcher rose.
+
+Frank started the announcement of the kiss. Denise completed the action before he completed the sentence.
+
+The repair crew applauded. A worker tried to give Tín a hundred dollars for whatever he had just witnessed. Tín directed it to the couple. The note went into the bouquet, followed by others, until the flowers appeared to be growing a bank.
+
+Vega arrived as Denise climbed into the ambulance. Tín waited by the burned attacker on the tug.
+
+“Who sent you?” Tín asked.
+
+The man glanced toward the officers. Tín lifted the hook line. That proved more persuasive than a second question.
+
+“Bishop Price,” the man said. “I don't ask who pays Bishop.”
+
+Tín put the line down. Bích drew him aside with a damp cloth and wiped another man's blood from his cheek.
+
+“The medic told Rosa he'll live,” Bích said.
+
+Tín closed his eyes briefly. When he opened them, she still held his hand.
+
+“I want the party,” Bích told him. “And I want you at it.”
+
+Marcus found the wedding cassette and played it quietly while they cleaned. Mai photographed the empty bench, Frank's damp folder, and one missed banknote beneath the cushion. Then she put her camera away and helped Hương gather the ruined flowers.
+
+## Chapter 9: Duke Gets His Shoes Wet
+
+On Sunday morning, Denise had twelve bouquets, four coolers, and a husband who resented the surgical removal of his trousers.
+
+“Hương hemmed those,” Mateo told Tín from the hospital bed.
+
+“They were full of blood,” Denise replied. “Stop getting shot in fitted clothes.”
+
+Tín put Bích's fruit on the cabinet and took Mateo's hand. For a moment the tug captain's complaints stopped.
+
+“Everybody got off?” Mateo asked.
+
+“Everybody,” Tín said. “Mai has a scratch and a grievance against her camera strap.”
+
+Mateo nodded, and Denise moved a chair close for Tín. The surgeon had cleaned the wound; Mateo would stay a few days, then use crutches. He asked whether the festival would have something suitable for sitting on. Denise answered that suitability would depend on its complete inability to float away and become useful.
+
+“On the tug?” Mateo asked, testing the boundary despite its clear description.
+
+Denise folded a towel over the back of the chair. “On a chair.”
+
+“Chairs go on tugs,” Mateo said.
+
+“So do ropes,” Denise replied. “We can involve one if necessary.”
+
+Tín laughed. Mateo gripped his hand again, harder than before, then let it go. The bandage disappeared beneath the sheet. Tín kept his eyes on Mateo's face instead of the covered leg. The younger man had enough people looking at the wound as if it were his newest qualification.
+
+“The photographs?” Mateo asked.
+
+“Mai has them,” Tín told him. “The beginning, anyway. After that she helped.”
+
+Denise's hands stopped on the towel. “Tell her thank you. For both.”
+
+Mateo looked at his wife. The two of them held each other's gaze, and Tín busied himself turning Bích's fruit bag so it wouldn't fall. He had come prepared to be thanked or blamed. Sitting quietly while they remembered their own wedding required more patience than either.
+
+Outside the room, Rosa handed Tín vending-machine coffee.
+
+“I know where Bishop buys fish,” Rosa said.
+
+Tín looked through the doorway at her brother. “Don't.”
+
+Rosa's fingers tightened around her empty change. “Then you do something.”
+
+“I am,” Tín answered.
+
+The coffee was terrible. Rosa told him she knew; she was angry. He drank it while she went back inside.
+
+Duke waited in the parking lot wearing white shoes and carrying a gift basket for Denise. He returned five minutes after entering with the basket gone and a wedding favor tied in white ribbon.
+
+“Candy for leaving quickly,” Duke explained.
+
+They drove to the River Queen, where Sable waited at the service stairs with a flashlight. Bích had closed the galley for the morning. Hương's instructions for the decorators hung on the door; underneath, Marcus had written YES MA'AM large enough for passing ships.
+
+Sable inspected Duke's footwear. “I said underneath the dock.”
+
+Duke looked down at the white leather. “I hoped there'd be a better underneath.”
+
+At low water, a concrete ledge lay beneath the rail apron. Sable led them to a steel door. Beyond it, a damp passage connected a freight lift to the barge's lower storage entrance when the vessel sat at the correct height. The air smelled of oil and ruined cardboard.
+
+Tín followed fresh wheel marks under a canvas sheet. A steel chest stood on a little wheeled frame. He broke its lock and raised the lid. Wrapped cash filled the interior; below the top layer lay two pistols and keys with a yellow WEST COLD STORE tag.
+
+Duke drew a long breath. “That wasn't on my inventory.”
+
+Sable touched black residue on a wheel. “Cannery loading-ramp sealant. Transfer money. Drivers and cargo people get paid before they disappear.”
+
+Tín closed the lid. The outer door slammed behind them.
+
+For an instant Duke looked upward, as though somebody on the pier had merely dropped something heavy. Sable turned toward the entrance. Tín set the key ring on top of the chest so both hands were free.
+
+The passage they had entered ran behind them to the ledge. The lift stood ahead, beyond the chest, with a barred upper gate separating it from the apron level. On their right, the lower storage connection led toward the barge, but a locked partition closed it from this side. Tín followed those routes with a glance while listening to the first mechanical movement overhead.
+
+The lift began rising, blocking the upper exit. Water surged from a low opening in the wall. Duke backed onto the chest's frame, too late to preserve his shoes.
+
+“Leave the money,” a voice called through the steel door. “Rook says.”
+
+Tín tried the handle. Something held it outside. “Open up and improve your introduction.”
+
+A bullet dented the door beside his head. He stepped away. Sable climbed onto the lift's frame; Duke raised her by the waist so she could reach the control housing.
+
+“No power down here,” Sable said.
+
+“Can you change that?” Duke asked, wavering beneath her.
+
+Sable pried the housing open. “If you stop shaking.”
+
+“My shoes are full,” Duke explained.
+
+Tín gripped the door's bottom edge and pulled. Hinges tore from the concrete. He turned the steel in the passage and pushed it ahead of him through the opening. The waiting gunman fired into it; Tín drove him backward against a piling, leaving him folded below the door's edge.
+
+A second gunman fired from the stairs. Tín angled the door upward and threw it. Steel struck legs and pinned the shooter against the rail. At the stairhead, a third man thrust a long pole at his face. Tín caught it, pulled the man down three steps, and laid him flat with a blow across the back.
+
+Below, Duke shouted. The ledge was breaking away as water hollowed the old structure behind it. Sable jumped onto the rolling chest. Duke caught her arm, got her to the doorway, then plunged waist-deep as concrete disappeared beneath his shoe.
+
+Tín came down the stairs and hauled him up by the collar. One white shoe remained in the mud.
+
+Duke looked at his sock. “Fuck.”
+
+“Stay here,” Tín told him.
+
+Duke sat above the pinned gunman. “A thrilling alternative.”
+
+Tín reached back for Sable. He took her hand and helped her across the collapsing gap. Behind her, the chest rolled into the opening. Tín caught its handle with his free hand and lifted it before it could pull them both into the river.
+
+Sable looked from the chest to him. “You're keeping it?”
+
+“It was in my basement,” Tín said. “They seem to have left it behind.”
+
+On the pier, he set it beside Hương's decoration note and returned for the attackers. Duke inspected his wet wedding candy while Sable promised him spare black shoes from the office.
+
+“Black doesn't match,” Duke said.
+
+Sable looked at his dripping red suit. “Neither does the river.”
+
+Marcus arrived with volunteers carrying banners. They had seen Tín emerge carrying the chest and wanted its contents to justify the entrance.
+
+“Treasure?” Marcus asked.
+
+Tín opened the lid. Marcus sat down on his box.
+
+Tín counted bundles into a paper bag. “Fuel equipment. Windows. A wedding without gunfire.”
+
+He handed the bag to Sable. He was taking another man's money without waiting for anyone to call it compensation. He knew that. The men tied beside his feet knew exactly whose money it was too, and watched with renewed alarm as he kept counting.
+
+Sable weighed the bag. “Receipts?”
+
+Tín looked at her. “For everything.”
+
+“You'll want a list of what's still in the chest,” Sable said.
+
+“We should have one,” Tín agreed.
+
+Duke leaned toward the money. “I could count it.”
+
+Sable turned the chest so its opening faced her. “You could get dry.”
+
+Duke looked down at his wet sleeve. The wedding ribbon clung to his fingers; somehow he had kept the little favor through the flood. He pulled the ribbon free carefully and laid it in the sun on the rail. Tín watched the gesture. The money had arrested Duke's attention when the lid opened. Now he was trying to dry a handful of candy somebody had given him for behaving well.
+
+“Office has a towel,” Sable added more gently.
+
+Duke nodded and went for it. Sable opened her pad and began with the cost of the fuel equipment.
+
+“Buy Duke shoes,” Tín added.
+
+Duke held up the surviving candy. “Now you're running a nightclub.”
+
+Across the river, a Crown Shipping truck moved down the cannery ramp. Tín pocketed the yellow keys and closed the chest.
+
+“Tomorrow,” Tín said, “we'll see what else they've stored for us.”
+
+## Chapter 10: The Cannery Has Visitors
+
+Rosa drove to the cannery on Monday because she knew its doors and because everyone who had suggested taking her keys had reconsidered after seeing her face.
+
+Tín rode beside her. In the back seat, Duke balanced a clipboard between himself, Bình, and Sable. Sable wore an old Crown Shipping jacket with the embroidered crown cut away, leaving a pale outline like an accusation.
+
+“You could have covered it,” Duke said.
+
+“I wanted it missing,” Sable replied.
+
+The truck carried fish crates, coolers, and tarps. At the west gate, a guard barely glanced up from his portable television before waving Rosa through. She stopped anyway and ordered him to open the loading door. When Tín stepped out beside the cab, the guard recognized him and ran.
+
+Rosa watched him round the corner. “Discreet.”
+
+The yellow key fitted. The door rose on a long room of idle conveyors, stainless tables, and overhead hooks. Three men stood beside an open crate with pistols lying on its lid. One reached down.
+
+Tín tore the loading door from its tracks and let it fall between the crate and his friends.
+
+“Behind it,” Tín told them.
+
+Shots rang on steel. He moved left behind a conveyor, tore a sorting tray off its stand, and raised it against the next burst. Then he vaulted the belt and hit the nearest gunman across the mouth with the tray.
+
+The second man fired behind him. Tín ducked and tipped the crate forward. Wrapped guns slid across concrete; the heavy lid struck the shooter's knees and trapped him beneath it.
+
+The third ran toward the stairs. Bình came over the conveyor ahead of him, struck his mouth and body, and knocked the pistol loose with packing timber. The man slammed Bình into the stair rail. Bình cried out, kept his feet, and hooked the attacker's ankle before driving a knee into his stomach.
+
+Tín caught the falling man and drove him onto the floor.
+
+Bình held his shoulder. “I had him.”
+
+“You did,” Tín agreed. “I wanted a turn.”
+
+Sable collected the weapons. Duke dragged a pallet across the exposed entrance. Rosa climbed into a forklift, demanded the keys, and began trying them without asking permission from the forklift either.
+
+“You drive everything?” Duke asked when it started.
+
+Rosa slid the forks under the fallen door. “Fish don't walk onto trucks.”
+
+She raised the door and braced it between concrete posts across the entrance. Outside, the fleeing guard was shouting for help of the wrong kind.
+
+Tín climbed to the glass office above the floor. A dispatcher stood behind the desk telling a telephone that the old man was upstairs, then that he was at the door, then nothing at all because Tín had entered.
+
+Tín took the receiver. “Your cannery has visitors.”
+
+“Bishop Price's property,” the voice answered.
+
+“Tell Bishop he shot a groom,” Tín said.
+
+“You're speaking to him,” Bishop replied. “My men were sent to bring you in. They got excited.”
+
+Tín looked down at Bình while Sable made a sling from a towel. “Then come yourself. You sound calm.”
+
+“I know where you live,” Bishop said.
+
+Tín pulled the telephone cord from the wall and set the dead receiver before the dispatcher. “Try explaining honestly. The novelty may help.”
+
+A harbor map hung behind the desk. Red lines connected the River Queen's apron with the eastern terminal. Beside it was a photograph of a gray replacement span for East Channel Bridge suspended from a crane.
+
+“When?” Tín asked, taking down the photograph.
+
+“Friday night,” the dispatcher said.
+
+Tín laid the photograph flat on the desk. “This Friday. Not a date somebody forgot to change.”
+
+The dispatcher nodded quickly. “This one. They close the channel for the lift.”
+
+Tín traced the red route on the map without touching its pins. “Train comes to the apron. Trucks use the road behind my boat. Then this terminal.”
+
+“I send the schedules,” the dispatcher said. “I don't choose the contents.”
+
+“Who chose the organ?” Tín asked.
+
+The man looked through the office glass toward the cold room. Tín followed his gaze. Below, Sable was trying to get Bình's arm supported while he insisted he could hold it himself. Duke held the towel ends without offering an opinion about the knot.
+
+“Those boxes,” Tín said, pointing through the glass. “Somebody wrote a destination.”
+
+The dispatcher opened a drawer with two fingers and slid out a folder. He pushed it across the desk rather than hand it directly to Tín.
+
+Tín left it where Vega could find it. “Stay for the detective. Tell her what you put on paper and what they told you to leave off.”
+
+The man swallowed. “Bishop will know I talked.”
+
+Tín looked at the disconnected telephone. “Bishop knows I'm here. You're having an unusually well-witnessed morning.”
+
+An engine roared below. A loader came around Rosa's truck with its bucket raised and two armed men using it for cover. It rammed the blocked door. Concrete cracked around the posts.
+
+Tín shouted for everyone to get down. Rosa reversed. Duke took Bình behind the cold-room wall while Sable followed with the first-aid box.
+
+The loader struck again. Tín jumped through the office window onto the conveyor, ran along its belt, and leaped onto the bucket as it punched into the building. The driver raised it to throw him off. Tín caught the upper edge, hauled himself over, and ripped one hydraulic arm from its mounting.
+
+The bucket dropped sideways, shrieking. Tín jumped to the cab, broke the side window, and pulled the driver out by his shirt. The man landed across the hood.
+
+A gunman below fired upward. The bullet cut Tín's trouser leg and scored his calf. He ducked behind the cab, tore the driver's seat loose, and threw it down. Seat and gunman struck concrete together.
+
+The remaining gunman aimed toward the cold room. Rosa came around the conveyor in her forklift. Its forks caught his coat and belt. She raised him over the table. His gun fell as he clutched a steel tine with both hands.
+
+Rosa looked up at him. “Delivery complete. Sign when convenient.”
+
+Tín crossed beneath the suspended man. “Open the other hand.”
+
+A knife fell. Rosa lowered him into empty nets. Duke approached with packing straps and the first uncomplicated pleasure Tín had seen on his face all morning.
+
+“Logistics,” Duke said. “I understand the attraction.”
+
+Sable made Tín sit while she cleaned his calf. Bình sat beside him, shoulder in its sling, and considered whether the ruined loader should come home with them.
+
+Rosa inspected it. “Parts.”
+
+She went to the loading entrance and looked around the wreckage at her truck. One tire had a black mark where a shot struck nearby. She crouched, pressed her thumb against the rubber, and checked the sidewall.
+
+“We can move it,” Rosa told Duke. “After the police mark what they need.”
+
+Duke was gathering fallen weapons away from the tied men. He stopped when Sable reminded him not to handle them by the trigger guards. He changed his grip and laid each one on the steel table.
+
+“You know a lot about this,” Duke said to her.
+
+Sable looked at the guns. “Yes.”
+
+The answer left little for him to admire. Duke nodded and moved the last weapon as she had shown him. Tín sat with the towel against his calf and watched them work. None of the room's useful people arrived at that usefulness entirely clean.
+
+Bình shifted beside him, trying to settle his shoulder. Tín moved a second crate under his elbow. The younger man accepted it after a brief hesitation.
+
+“You did have him,” Tín told Bình.
+
+“I know,” Bình said, then looked down at the improvised support. “Thanks.”
+
+When the bandage was tied, Tín opened the cold room. Stolen televisions, tools, liquor, sound equipment, and theatrical crates occupied the space where fish had been. At the rear, polished organ wood waited beneath blankets.
+
+Duke admired the stage lights.
+
+“Somebody owns those,” Sable reminded him.
+
+“I'm admiring ethically,” Duke said.
+
+Tín lifted a corner of the organ's blanket. Marcus's teacher had tried to save this. Somebody had trusted that a church would play it. Rook had packed guns around it instead.
+
+“Can the truck take the console?” Tín asked Rosa.
+
+Rosa measured it with her eyes. “Some. We'll need trips for the pipes.”
+
+A siren sounded beyond the yard wall.
+
+“I called before we came,” Sable told Tín. “You get your turn. Vega gets hers.”
+
+Tín gave Sable the bridge photograph. “The dispatcher knows what happens Friday. Ask him while he still wants to answer.”
+
+Then Tín lifted the console clear of the floor and carried it toward Rosa's truck. At the ruined entrance, the first officer stopped to let several hundred pounds of polished wood pass.
+
+“Normal?” the officer asked Duke.
+
+Duke adjusted his cuffs. “He usually begins with an appliance.”
+
+## Chapter 11: Auntie Sets the Price
+
+On Tuesday, Bích sold her husband's photograph while he was still eating breakfast beneath it.
+
+Vân and Loretta bid across the kitchen. Mai's print stood on an easel beside the stove: Tín laughing, a corner of Boots's hand intruding at the edge.
+
+“Crop my hand,” Boots told Mai from the doorway.
+
+“Editing costs extra,” Mai said.
+
+“That's my hand,” Boots protested.
+
+“Publicity costs extra too,” Mai replied.
+
+Hòa continued marking books at the table. When Boots complained that Mai was becoming dangerous, Hòa turned a page and said she had been practicing.
+
+Vân won at forty dollars. She asked for something inspiring beneath Tín's signature. Tín wrote PLEASE REFRIGERATE AFTER OPENING. Vân slapped his good shoulder and took it anyway.
+
+By noon the photograph was helping sell cold drinks outside her shop, and Bell Street had become a market. Rosa's fish stood beneath a blue awning. Loretta sold raffle tickets and appointments. Arturo drove between stalls collecting shoes. Bình sat under Boots's awning with his injured shoulder supported, teaching two boys to wrap their hands with the hand he could still use.
+
+Tín carried trays for Bích. His calf pulled whenever he crossed the gutter. She noticed and relieved him of the heavier tray before he could invent a different gait.
+
+Hương brought out a red apron with AUNTIE IN CHARGE stitched across it. Hòa had paid for the lettering.
+
+“Labeling the equipment,” Hòa explained, arriving behind his wife with bowls.
+
+Tín tied the apron behind Bích, kissed her cheek, and heard Vân immediately increase the price of the remaining photographs.
+
+A white car stopped at the barrier. Bishop Price stepped out in a purple shirt and black suit, carrying a gold-tipped cane. Three men followed, each dressed almost as well as the man who employed them. Tín set down his tray.
+
+Bích caught his wrist. “He can buy food.”
+
+Bishop worked his way through the market, shaking hands that hadn't been offered. He sampled Rosa's fried fish without paying.
+
+“Three dollars,” Rosa said.
+
+Bishop reached for another piece. Rosa moved the plate.
+
+“Six if your memory's failing,” Rosa added.
+
+He gave her twenty, perhaps expecting the gesture to restore his entrance. She kept it and said nothing admiring. By the time Bishop reached Bích's stall, Tín was almost interested to see what he would try next.
+
+“You found the address,” Tín said. “You could have started here.”
+
+“Heard there was food,” Bishop replied.
+
+Bích set a plate before him. “Eat before you start.”
+
+Bishop glanced at the apron. “Mrs. Lê?”
+
+“Auntie, if you behave,” Bích told him.
+
+He took a bite and paused. He took another, less theatrically.
+
+“Fifteen,” Bích said.
+
+Bishop pointed at the sign. “It says eight.”
+
+“The sign hasn't met you,” Bích replied.
+
+People at the next stall laughed. Bishop smiled despite himself and paid. Bích gave him a napkin as though issuing a limited permit to speak.
+
+“I represent waterfront interests,” Bishop said.
+
+“Down the hill,” Bích told him, pointing.
+
+Bishop looked at Tín. “You understand respect.”
+
+Tín caught a napkin blowing toward Rosa's fish and set it back on Bishop's plate. “Keep hold of yours.”
+
+One of Bishop's men had wandered toward Bình. A scar cut his eyebrow; he looked at the sling and asked whether Bình was still being paid to lose. Bình began to rise. Tín lifted one hand, and the young man sat, furious.
+
+Tín left the food table. “Your name?”
+
+“Wade,” the scarred man said.
+
+“Carry those chairs, Wade,” Tín told him. “People are standing.”
+
+Wade laughed and reached into his jacket. Tín caught his hand through the cloth, pinned it to his stomach, and pushed him backward into the stack. Chairs clattered across the street. Bishop's other men reached for their belts.
+
+Hòa stepped between them carrying a level tray of bowls. “Careful.”
+
+One tried to push past him. He stopped with his palm flat against Hòa's chest. The tray didn't move. Hòa looked down at the hand, and the man withdrew it.
+
+Tín took Wade's pistol and put it on the stage. Then he hauled Wade upright and placed two folded chairs in his hands.
+
+“Beside Vân,” Tín said.
+
+Wade carried them. At Vân's stall, an elderly customer needed one unfolded, so the job grew before he could escape it.
+
+“You're making a joke of my people,” Bishop told Tín.
+
+Tín watched Wade struggle with a stubborn hinge. “He was standing beside the chairs. Opportunity did the rest.”
+
+Bishop picked up his cane. “Tomorrow night. My hall.”
+
+Tín looked at Mai's photograph beside the wedding collection box: Denise by Mateo's hospital bed, the torn hem visible beneath her chair. He looked back at Bishop.
+
+“Here,” Tín said. “Seven. Bring the people whose opinion matters.”
+
+Bishop smiled. “You'll regret an audience.”
+
+“So far they bring food,” Tín replied.
+
+At the barrier, Rosa made Bishop return the plate. She allowed him to finish the last bite first. He ate it beside his car while his men waited for their employer to stop being managed.
+
+After they left, Tín sat with Bình under the garage awning. The hand wraps lay forgotten in the younger man's lap.
+
+“Which arm were you going to use?” Tín asked.
+
+Bình looked at his sling. “The optimistic one.”
+
+Tín handed him tea. “Heal. There's a long supply of fools.”
+
+“You never wait,” Bình said.
+
+Tín lifted his bandaged arm. “Your auntie mentions it.”
+
+The two boys began arguing about whose wrap looked more professional. Bình corrected one with his good hand. Soon he had them trying again, his attention back on what he could teach.
+
+Mai returned with printed flyers and wages in a separate envelope. She declined Marcus's request for soda money, explaining that his business expenses belonged to his business. Hương measured a customer for a jacket while Hòa kept the order book. The furniture-store owner brought more chairs, saying people had bought eight sets after hearing where Tín got his.
+
+Tín watched Mai divide the stack among the stalls. At Rosa's, she asked where a flyer would stay dry. At Loretta's, she waited while the women chose a place visible from both chairs inside the salon. She didn't simply hand people paper and leave; she looked where it would go.
+
+When she reached Bích, her grandmother held the sheet at arm's length and read the date aloud.
+
+“Good,” Bích said.
+
+Mai's face changed more at that one word than it had at all Marcus's enthusiasm. She tucked the remaining sheets under her arm and took the empty food tray her grandmother offered.
+
+“How was the job?” Tín asked when she passed him.
+
+Mai showed him the envelope without opening it. “He paid for this afternoon. The training Saturdays start after the festival.”
+
+“What did you print?” Tín asked.
+
+“A church program,” Mai said. “And labels. I had to do the labels twice because I put the sheet in wrong.”
+
+“He paid for both times?” Tín asked.
+
+Mai laughed. “He said the second time was included if I remembered which way was up next week.”
+
+Tín nodded toward the envelope. “Keep it separate, then. So you'll remember which money you made yourself.”
+
+Mai put the envelope away before Marcus could approach with his renewed soda proposal. Across the street, Hòa held a tape measure level while Hương checked a customer's sleeve. He caught Mai's eye, and she lifted the envelope toward him. His small smile reached her without an announcement.
+
+At sunset Bích counted stall money with Rosa and Loretta. Their dispute about ice ended with three bills and a promise. Then she caught Tín at the house door.
+
+“Dinner at six tomorrow,” Bích told him.
+
+“You needn't organize around Bishop,” Tín said.
+
+“I'm organizing around you,” Bích replied. “Eat first. Do the stupid thing afterward.”
+
+## Chapter 12: Bishop Brings a Choir
+
+Bishop arrived on Wednesday at seven with eleven men, two singers, and a portable organ. Tín had eaten two bowls at six, changed into the shirt Bích selected, and received instructions about where wet shoes were to go afterward. Bishop had apparently used the same hour to arrange a soundtrack.
+
+Marcus watched the singers uncoil their cable. “He brought witnesses with harmonies.”
+
+Loretta pointed them toward the salon outlet and named the price of tripping the dryers. One singer tested the microphone. Feedback tore down Bell Street.
+
+Marcus took it away. “The mood is established. It's electrical distress.”
+
+Neighbors watched from doors, windows, and rows of borrowed chairs. Hương and Bích sat outside the house with tea. Hòa stood behind them beside Mai. Tín took his place in the cleared street opposite Bishop, who opened a bag and set down twenty thousand dollars.
+
+“You win, take it,” Bishop said. “I win, the boat moves tomorrow.”
+
+Tín shook his head. “My wife's stove isn't in your bag.”
+
+Laughter moved among the chairs. Bishop asked for terms through a tightening smile.
+
+“Hospital bill, wedding damage, and your men off Bell Street,” Tín said. He put down fifty thousand of Rook's money as his own stake.
+
+Bishop stared at it. Two of his men exchanged a look.
+
+“Rook enjoyed the last show,” Tín explained. “Didn't he tell you?”
+
+Bishop handed Wade his jacket. Tín gave his shirt to Mai. She folded it carefully, looking at the burn and bandage underneath.
+
+“Come back inside this one,” Mai told her grandfather.
+
+One singer began a low note. Bishop raised his hand.
+
+“After,” Bishop told her.
+
+He attacked before the note fully died. The first punch drove Tín half a step sideways through his guard. Tín caught the second on his elbow and struck Bishop's mouth. Blood brightened the man's lower lip. He wiped it and grinned.
+
+Bishop charged shoulder-first. Tín stepped aside. The folding chair behind him crushed against Bishop's car.
+
+“One,” Vân called, raising a finger.
+
+Tín kicked the outside of Bishop's knee, caught his wrist, and pulled him into an elbow. Bishop dropped onto a hand and swept at Tín's ankles. Tín jumped, landed behind him, and took an unexpectedly quick backward elbow across the cheek.
+
+Blood filled the edge of Tín's mouth. The crowd quieted. Bishop stood and smiled through his own blood.
+
+“Age does mean something,” Bishop said.
+
+Tín gripped his shirt and waistband, raised him overhead, and turned toward the car. For an instant Bishop's shoes hung level with the streetlights. Then Tín set him on the roof hard enough to fold it. Rear windows burst. The trunk popped, spilling a spare hat and parking notices onto the pavement.
+
+“I dislike bending,” Tín explained.
+
+Bishop climbed down, breathing hard, and took a short steel bar from the trunk. Wade moved forward; Bishop ordered him back. Tín waited until the bar descended, caught the wrist, and turned the blow into the street. Concrete chipped. He stamped on the bar, hit Bishop's chest with his palm, and took the released weapon.
+
+Tín bent it around a parking sign, leaving a useful handle. Arturo examined it from his red chair with professional interest.
+
+Bishop fell to one knee, then lunged again. Tín stepped in, caught his chin, and drove him backward onto the hood. Metal buckled beneath his shoulders. Bishop clutched Tín's wrist with both hands and pulled until he understood the difference between being held and being given an opportunity to escape.
+
+“Finished?” Tín asked.
+
+“Finished,” Bishop said.
+
+Tín let go. The singers immediately supplied a triumphant chord. Bishop looked toward them from his dented hood.
+
+“Really?” Bishop asked.
+
+The woman at the keyboard spread her hands. “You paid for a winner.”
+
+The street erupted. Tín recovered his own stake and handed Bishop's twenty thousand to Rosa. She accepted without smiling.
+
+“There'll be more,” Rosa told Bishop.
+
+Bishop nodded. “I'll pay.”
+
+The first rifle crack came from the pharmacy roof.
+
+Tín caught Bishop's collar and threw him behind the car. A second bullet punched the hood where Bishop's head had been. Tín shouted for everybody to get inside. Hòa drew the women through the house door; Mai crawled behind the porch rail with Tín's shirt. Boots overturned a table in front of the singers.
+
+Tín jumped onto the ruined car roof, crossed to the pharmacy awning, and tore its outer edge upward. The shooter turned toward him. Metal folded over the gunman's legs; the next shot went into the sky.
+
+Tín hauled himself over the roof edge and kicked the rifle away. The man drew a knife. Tín struck him in the face. His head hit the brick vent behind him, and he fell forward.
+
+Tín knelt. He checked the neck, waited, checked again. Nothing moved beneath his fingers. The fight below had been noisy and public and survivable. This man's body ended its part without an audience close enough to see the difference.
+
+Tín stood, broke the rifle, and dropped its pieces into the cleared street. Then he climbed down and went directly to the house. Mai offered his shirt. Bích nodded from behind her. Hương held Loretta against her side. Everyone in the doorway was breathing.
+
+Mai had kept the shirt folded despite crawling with it across the porch. Tín put his uninjured arm through first. She held the other sleeve open so it didn't drag over his burn. Neither spoke until the collar was in place.
+
+“You're all right?” Tín asked her.
+
+Mai nodded, then looked toward the roof. He could see the question forming. There was no reason to give her a clean lie while the police would arrive to collect an untidy truth.
+
+“He's dead,” Tín told her quietly.
+
+Her fingers loosened on the shirt. Hòa came beside her and put his hand on her shoulder. Tín buttoned the front himself, slowly, and waited until she looked at him again.
+
+“He was still reaching,” Tín said. “I hit him. It ended there.”
+
+Mai nodded once. She didn't tell him it was all right. He didn't ask her to.
+
+Across the street, the singers picked their way around the overturned table. Boots held it steady while they recovered cables. Vân called from her doorway to ask whether the people inside could come out. Hương answered that they should wait for the officers to check the roof and street. The practical work of getting everyone safely home resumed around the place where a man would not.
+
+Bishop approached from the car as Tín dressed.
+
+“That shot was for me,” Bishop said. “Rook told me the burns had finished you.”
+
+Tín touched his split lip. “He should find a better doctor.”
+
+Bishop looked back at the hood's bullet hole. Then he took off a heavy ring with a red stone and held it out.
+
+Tín shook his head. “I don't want to marry you.”
+
+“My word,” Bishop said.
+
+“Speak it,” Tín told him.
+
+Bishop closed his hand over the ring. “My people leave the street alone. Rook asks again, he gets tonight's bill.”
+
+Rosa stepped beside him. “Mateo too. Everything.”
+
+Bishop nodded. Behind him, the singers emerged from cover, one missing a shoe. Boots found it beside the keyboard and presented it with a bow.
+
+“Still paid?” the singer asked Bishop.
+
+“Yes,” Bishop said.
+
+“Hazard pay?” the singer added.
+
+Bishop looked at Tín. Tín indicated the microphone stands and broken glass.
+
+“You hired professionals,” Tín reminded him.
+
+Bishop paid. Police sirens approached while cables were collected and chairs returned to the pavement. Bích brought tea to the people sheltering in her house, then sat beside Tín on the steps.
+
+Vega arrived with officers who went to the pharmacy roof. Tín gave her his account away from the nearest chairs. She listened, asked where the knife had fallen, and wrote it down. Bishop stood near his damaged car waiting for his own interview, the ring still closed inside his fist.
+
+“You can put that back on,” Tín told him when Vega turned to an officer.
+
+Bishop looked down as though he'd forgotten it. “Wasn't much use.”
+
+“You spoke,” Tín replied. “Rosa heard you.”
+
+Bishop glanced at Rosa, who was already writing something on a piece of paper. He put the ring on and approached her. Whatever he had intended to buy when he hired singers for the evening, he now had numbers to discuss and a witness who wouldn't be impressed by his cane.
+
+“Dinner was good,” Tín told her, drinking carefully.
+
+Bích inspected his lip. “Tomorrow, soup.”
+
+## Chapter 13: A Night Off Costs Extra
+
+Thursday evening, Bích took Tín to a film because a cinema appeared to be one building in Eastbridge where a seated man was already doing his job.
+
+The manager met them with flowers.
+
+Tín had put on his shoes slowly at home while Bích waited by the door. She wore a clean blouse and had fastened her hair more carefully than for the boat. He watched her adjust one sleeve and reached to help.
+
+“Leave it,” Bích said. “You're not in charge of every crooked thing.”
+
+“I was admiring,” Tín told her.
+
+Bích looked at him in the hall mirror. “Then continue from there.”
+
+He did until she smiled. It had been too easy all week to spend his attention on whatever endangered them and give her only the remains afterward. At the door he took her hand before looking toward the street. The telephone rang as they left. Hòa answered it; Tín let his son handle the voice on the other end.
+
+Bích stopped under the marquee. “Who told him?”
+
+“His niece saw the bowling,” the manager explained before Tín could deny knowing him. He led them past complimentary popcorn to two padded dining chairs installed in the middle of the auditorium. Between them stood a little table with a battery candle and a card reserving the space for the Grandmaster and his queen.
+
+People applauded. Bích sat quickly, pulling Tín down beside her.
+
+“Any slower and they'll need a parade route,” Bích whispered.
+
+His chair creaked. He adjusted his weight; it creaked again. Bích placed the flowers beside the candle and told him his throne needed oil. When Tín looked toward the manager, she intercepted the thought before it acquired words.
+
+“Your face was preparing,” Bích told him.
+
+For twenty minutes the film gave them only the difficulties they had paid to see. A man lost money, lied to his wife, and hid beneath a hotel bed while she questioned someone nearby.
+
+“He should tell her,” Bích whispered.
+
+“He would have a shorter film,” Tín answered.
+
+“I'd pay more,” Bích said.
+
+Tín laughed and felt his split lip sting. Bích touched his good arm. She had watched him return with that expression long before anybody in Eastbridge put his name on a poster.
+
+The projector failed briefly. The manager approached with more candy. Bích sent him away gently, explaining that her husband needed time to chew the first installment. When the auditorium settled, she turned toward Tín.
+
+“Do you remember the airport man and the cooking pot?” Bích asked.
+
+The memory came plainly: five years earlier, suitcases open, Hương gathering spilled belongings, a man deciding their pot qualified as commercial equipment. Tín had offered to cook for him. Bích maintained he had offered to cook him.
+
+They had been married forty-five years. He had seen that particular look on her face in borrowed kitchens, crowded waiting rooms, and the first rented house where Hòa discovered that the blue bathtub had been painted instead of cleaned. She could still reproduce it precisely enough to put him back beside the suitcase with the broken clasp.
+
+“My English was developing,” Tín said.
+
+Bích tapped his shoulder. “It was perfect whenever you wanted the pot.”
+
+The pot reached their rented house before the bed. Tín remembered why. He had set out with a furniture-store address and found a piano stuck halfway down an outside stair. Three men clung to moving straps while its owner explained from below that the instrument was paying no rent and would therefore leave.
+
+Tín had asked the men to step back. One began explaining his twenty years of experience. Tín lifted the piano away from the rail; the man stopped explaining and continued holding a strap that no longer did anything.
+
+The owner offered money, then a television. Tín asked whether it worked.
+
+“That question cost the afternoon,” Bích said beside him in the dim cinema.
+
+Tín smiled at the recollection. He had carried the television to the furniture shop. Its owner recognized him from the piano and offered a discounted mattress if he moved one wardrobe. The wardrobe became a sofa, the sofa became a bathtub, and six people eventually stood beside chosen heavy objects explaining why their need was the exception.
+
+Hòa found him there. His son took the television, loaded it into their borrowed truck, and announced that his father was closed. When the furniture seller argued, Hòa lifted the mattress one-handed, loaded it beside the television, and offered the agreed price with the other hand. The argument ended quietly.
+
+“Two mattresses, a television, and a fish lamp,” Bích recalled. “You came home proud of the lamp.”
+
+In the remembered furniture shop, the lamp had appeared after Hòa announced the end of Tín's unofficial moving service. The seller thrust it toward the truck as a final inducement. Tín accepted it before his son could move the vehicle away.
+
+“We have nowhere to put it,” Hòa had said, looking through the open window.
+
+“On the floor,” Tín answered. “Until the mattresses arrive.”
+
+Hòa looked at the mattresses already in the truck, then at the lamp, then at his father. The fish's painted mouth opened around the bulb. Its eyes were misplaced, making it appear troubled by the light coming out of itself.
+
+“That is the most upsetting fish I've seen indoors,” Hòa said.
+
+Tín climbed beside him holding it carefully. “Free.”
+
+By the time they reached the rented house, Mai had fallen asleep on the floor near the television's eventual position. Hương lifted her while the men brought the mattresses inside. Tín remembered stopping in the doorway to watch his son lay the first one down. A mattress should have been an ordinary purchase. In that unfamiliar room, with their cooking pot already in the kitchen and Bích arguing about where the head of the bed should go, it had felt like a foothold.
+
+He hadn't told Bích that at the time. He had plugged in the terrible fish and asked if anyone wanted tea.
+
+Now, beside him in the cinema, Bích turned the candy box so he could reach the pieces at the far end.
+
+“You were late that day too,” Bích said. “But we ate together.”
+
+Tín took a piece and nodded. The projector light returned to the blank screen for a moment, then vanished while the manager argued quietly in the booth. Tín wasn't impatient with it.
+
+“Free,” Tín reminded her.
+
+“Hương still uses it,” Bích said, squeezing his hand. “A good afternoon can finish with the furniture inside and everybody eating dinner.”
+
+The projector returned. Tín kept her hand beneath the table until the film ended. Outside, Bích accepted the annual passes before he could begin another inquiry about refrigerators.
+
+They walked toward the night market. Tín paused for a saxophonist beside a shuttered jeweler and put twenty dollars in his case. The musician recognized him and began a bright flourish.
+
+“No encore,” Bích said, drawing Tín onward. “Noodles.”
+
+At the next corner, the same black car passed for a second time. Tín recognized its cracked left tail light. He tightened his hand on Bích's by a fraction.
+
+“Where?” Bích asked.
+
+“Behind,” Tín said.
+
+Bích looked ahead. “The laundromat's open.”
+
+They crossed and entered. Tín quietly warned the attendant, who looked outside, put down his paper, and called his customers toward the rear. Bích helped a woman carry a towel basket. Tín stayed beside the folding table.
+
+Two men entered. One carried a baton. The other's hand remained under his jacket.
+
+“Outside,” the baton man ordered.
+
+“Waiting for a cycle,” Tín said.
+
+The baton broke a corner off the table. Tín caught the wrist and drove the man's face into folded shirts. The second man drew his gun. Tín hauled the first attacker upright between them as the shot came.
+
+The man in Tín's arms jerked. Tín felt the impact through him and shoved him into the shooter, moving sideways as the pistol rose again. He caught the slide, forced the muzzle down, and struck the elbow. The joint bent backward. Tín took the gun and hit the shooter behind the ear with its butt.
+
+Outside, the driver emerged armed. Tín tore a dryer door loose and threw it through the open entrance. The round steel door struck the driver's shoulder and spun him into the car. His gun discharged through its roof.
+
+Tín reached him, put his head through the open window, and closed the car door against his hips. Then he recovered the weapon and returned to the laundry.
+
+The first attacker lay beside the broken table in spreading blood. Tín knelt. His fingers found no pulse. He closed the man's eyes.
+
+Bích came forward when Tín called the customers out. She looked at the body, then at her husband.
+
+“You?” Bích asked.
+
+Tín shook his head. She checked his sleeve anyway.
+
+The attendant phoned police. Tín placed the guns out of reach on a machine and waited outside with the trapped driver. At the corner, the saxophone had gone silent.
+
+After officers took over, Tín sat beside Bích on a bench. The laundry owner offered free washing for a year. Bích accepted, then made Tín pay for the broken table and dryer door. One of the theater flowers had snapped; she turned it between her fingers.
+
+The attendant brought their coats from the back room. The woman with the towel basket came out behind him and thanked Bích for helping carry it. She kept both arms around the basket even after reaching the pavement.
+
+Bích touched a loose towel at its edge. “Your clothes are still damp. Don't leave them like that.”
+
+The woman looked down, startled by an ordinary problem surviving alongside the other one. Then she nodded and went back inside to finish the drying. Tín watched the attendant open another machine for her. A customer's shirts still lay on the far end of the broken folding table. An officer moved them out of the way without allowing them to touch the blood.
+
+Tín put his remaining cash away. The police had his account. The attendant had enough money to repair the damage. Neither action restored the exact room they had entered, or the evening the customers had expected when they brought their washing.
+
+Bích placed the broken flower beside the intact ones instead of throwing it away. Tín moved closer so their shoulders touched while they waited to be told they could leave.
+
+“I'm sorry,” Tín said.
+
+“The film was good,” Bích replied.
+
+“After,” Tín said.
+
+Bích looked toward the black car. “We came with four suitcases and that pot. We wanted people to enter because we invited them. We got the house. Hương chose her work. Mai has school. Our son comes home angry at fractions. Rook doesn't get to put a price on that.”
+
+Tín took her hand. “He won't.”
+
+“And you don't get to disappear into him,” Bích said. “Until all we have of you is a story someone tells outside a broken shop. I knew you before this street knew your name. I won't take a number.”
+
+Tín bent and kissed her hand. He could feel the broken flower stem between her fingers.
+
+“First,” Tín said.
+
+“I don't stand in line,” Bích reminded him.
+
+The saxophone began again, quietly. After a while she rose and took his arm. At the noodle stall, the cook recognized Tín and opened his mouth. Bích put down the money first.
+
+“Two bowls,” Bích said. “Ordinary customers for twenty minutes.”
+
+The cook looked at her and accepted the terms. Tín took the stool beside his wife and stayed there while their food was made.
+
+## Chapter 14: The Wrong Man in the Trunk
+
+The ransom note reached the kitchen on Friday morning. Hòa had corrected three spelling mistakes and added a request for his brown shoes.
+
+Tín read it while Hương listened to the kidnappers on the telephone. At the bottom, beneath COME ALONE, his son had explained that the left shoe came off in the car.
+
+Bích leaned over the paper. “He was wearing brown.”
+
+“Apparently one still is,” Tín said.
+
+Hương gave him the receiver. The voice on the other end demanded that he come to room seven at the old motor court. Tín asked to speak to Hòa.
+
+“He's not near the phone,” the caller said.
+
+“Bring him nearer,” Tín replied.
+
+A muffled argument followed. Somebody said he wasn't opening that again. Then the caller repeated the address and hung up.
+
+Mai stood in the hall with her schoolbag. Hương took car keys and a spare pair of shoes. Tín began to mention the instruction to come alone.
+
+“They put two Ls in it,” Hương said. “I'm not trusting their judgment.”
+
+Bích took Mai's bag and set it on the table. “Stay by the phone. I need one person who hears an entire sentence before deciding to break furniture.”
+
+On the drive west, Hương kept her eyes on the road. She had spoken to Hòa from school that morning; he had asked if they needed anything. Laundry soap, she had told him. Tín looked at the shoes in his lap and promised they would get it.
+
+At the light, she reached for the turn signal and missed it on the first try. Tín looked out his own window rather than at her hand. She found it and waited for the arrow.
+
+“He corrects people when he's irritated,” Hương said. “The note. That's how I know.”
+
+“I know the habit,” Tín replied.
+
+Hương gave him a brief sideways look. “You do it when you're trying to seem patient.”
+
+Tín folded the note more carefully. Hương's knuckles remained pale on the wheel. He could offer her the confidence he felt in his son's voice; he couldn't ask her to share it simply because he did.
+
+“I'll bring him to this car,” Tín told her.
+
+Hương looked ahead as the arrow changed. “Do that. Then we can discuss which of you was patient.”
+
+The motor court was a row of boarded rooms around an empty swimming pool. Two cars stood beside room seven, a third by the office. Hương stopped behind the office wall. Tín walked into the courtyard carrying the shoes.
+
+A gunman came out of the room. One side of his face had swollen.
+
+“Alone,” the gunman said.
+
+“My daughter-in-law drives better,” Tín answered.
+
+“Money?” the man demanded.
+
+Tín lifted the shoes. A soft knocking came from the nearest car's trunk. The gunman flinched.
+
+“Hòa?” Tín called.
+
+“Here,” Hòa answered through the lid. “The upholstery is unpleasant.”
+
+The gunman snapped at him to be quiet. Tín turned back. The pistol began shaking.
+
+“Put it down,” Tín said.
+
+“Rook said—” the man began, then fired.
+
+Tín stepped inside the muzzle's line, caught the wrist, and pulled him into a knee. Glass broke behind Tín. He struck the gunman's jaw with the shoes, took his pistol, and laid it on the car roof.
+
+A second man rushed out carrying a shotgun. The trunk opened.
+
+Hòa sat up with exercise books across his knees. “Behind you, Father.”
+
+Tín threw the shoes at the shotgun man's face. The man ducked; Tín reached him before he could recover his aim. He trapped the barrel under his arm and drove the man backward through the room's doorway. A bedside table broke beneath them.
+
+At the bathroom, a third man tried to load a revolver. Cartridges rattled into the sink. Tín lifted the mattress off the bed and folded it around the man against the bathroom wall.
+
+“Stay,” Tín told the muffled occupant.
+
+The shotgun man grabbed his ankle. Tín pressed the wrist until the hand opened, kicked the gun beneath the bed frame, and returned outside at the sound of an engine.
+
+The third car accelerated toward Hương. She reversed behind the office; it followed. Tín crossed a parked hood, jumped to the low office roof, and dropped onto the fleeing car's rear bumper. The back struck concrete. Its front wheels lifted.
+
+He stepped down, caught the bumper, and swung the car away from Hương. The driver tried reverse. Tín raised the nose over the empty pool's edge and set the front wheels inside. The engine stalled with the car pointing downward like a badly parked diving board.
+
+“Use the stairs,” Tín told the driver.
+
+Hương pulled up beside Hòa. He stood in one shoe and one sock, brushing his trousers. She embraced him, held him for several breaths, then pushed him back to examine his face.
+
+“Why did you get in?” Hương asked.
+
+Hòa looked toward the room. “They came outside school. Students were there.”
+
+Hương closed her eyes briefly and held him again.
+
+Tín examined the trunk. Its lining bore the shape of a shoulder. The latch metal had folded outward. Beneath it, the rear axle mounting was twisted through and one wheel sat at an improbable distance from the body.
+
+“Comfortable eventually?” Tín asked his son.
+
+“The lid stuck,” Hòa replied.
+
+Their eyes met. Tín touched the torn mounting with one finger, then stood without asking the question the metal suggested.
+
+Hương walked to the first gunman and slapped him. His head hit the wall.
+
+“My husband buys laundry soap,” Hương told him. “Five minutes. You couldn't wait five minutes.”
+
+Tín found both thrown shoes. Hòa put them on, then considered the surviving original.
+
+“Three now,” Hòa said.
+
+“Spare for the car,” Tín advised.
+
+While they secured the men, Hương telephoned Vega from the office. A harbor radio crackled beside the phone. Tín heard River Queen and turned up the volume.
+
+“Clears by sundown,” the radio voice said. “Truck route closed. Move it on water. Same window at the east bridge. Keep the red tug clear.”
+
+Hòa wrote RED TUG on the back of the ransom note. Tín took the radio. Outside, the driver sat on the pool's shallow-end steps with both hands raised, evidently unwilling to experiment with escape.
+
+Vega stopped beside his car on arrival.
+
+“Parking?” Vega asked Tín.
+
+“Temporary,” Tín said.
+
+She looked at the wrecked trunk. Hòa stepped forward with the corrected note before his father answered.
+
+“Latch gave us trouble,” Hòa told her.
+
+Vega looked past him at the wheel sitting too far from the car's body. “Quite a latch.”
+
+Hòa held out the corrected note. “The radio may interest you more.”
+
+“I can be interested in several things,” Vega said, taking it.
+
+Tín kept quiet. Hương came out of the office and gave the detective the number she'd dialed and the caller's description. Hòa waited until his wife finished before explaining where the men had approached him at school. He named the entrance and the students nearby without dramatizing the choice.
+
+“I got into the car because they were there,” Hòa said. “Once we were away, there were different choices.”
+
+Vega wrote that down too. Tín watched her pen pause before moving to the next line. She asked Hòa which man carried the first gun. He pointed, and the officer by the room took the indicated man aside.
+
+Tín could have answered other questions for his son. He didn't. Hòa had remained to give his own account. Standing beside him while he did so was the useful part left for a father.
+
+Vega studied him, then took the paper. Hòa stayed to give his statement despite Tín's suggestion that he go home. He had seen things the detective needed to hear, and afterward he still had work to finish.
+
+On the way back, Hương stopped for laundry soap. Tín waited with the radio on his knees while Hòa returned carrying the box under one arm and exercise books under the other.
+
+Mai ran down the home steps and embraced her father. Bích watched from the doorway until Hòa held up the soap.
+
+“Then come in,” Bích said. “At last we can accomplish something.”
+
+## Chapter 15: The Midnight Train Is Early
+
+Sable listened to the radio on Boots's truck for twelve seconds. Then she took Tín's coffee and put it on the roof.
+
+“Red tug,” Sable said. “Crown Ruby. Salt spur, east of the bridge. We need to go.”
+
+“My coffee isn't finished,” Tín said.
+
+Sable opened the passenger door. “Neither is his shipment.”
+
+Boots came out with his keys. Bình rose from his chair. Everyone looked at the sling. Bình sat down again and announced that he had merely intended to fetch water.
+
+“Take some to Duke,” Tín told him. “Tell him nobody he doesn't recognize boards the River Queen. Volunteers he knows. Everyone else can enjoy being ashore.”
+
+They left in the blue truck with Sable between them and the radio on her lap. At the bridge repair site, Friday afternoon work lights were coming on around a long gray span resting on supports. A floating crane waited beside it. The photograph from the cannery had concealed its scale; now men crossing its upper edge looked like figures stuck onto somebody else's machinery.
+
+Boots slowed over the tracks. Bình's little painted crown bounced on the dashboard beside the radio. Boots glanced at it and shook his head.
+
+“Told that boy no decorations,” Boots said.
+
+Tín steadied the radio. “Small one.”
+
+“That's how they start,” Boots replied. “Next month the truck has a chandelier and employees named after precious stones.”
+
+Sable looked from the crown to him. “I was named before Duke hired me.”
+
+Boots held up two fingers from the wheel in apology. “I meant the new regime. We're all learning.”
+
+She almost smiled, then turned the radio volume up as another voice mentioned the loading platform. Tín listened while the casual talk disappeared from the cab. Boots kept his eyes ahead. The truck was still somebody's livelihood; they were driving it toward another place where men had guns and something to hide.
+
+A worker carried a board marked FORTY TONNES and propped it beside the operator's cabin.
+
+Boots whistled. “Tonight?”
+
+“Main channel closes,” Sable said. “Boats use the lower passage behind the crane barge.”
+
+Tín followed the narrow curve of open water with his eyes. Beyond it lay the eastern basin and the sea.
+
+The Crown Ruby smoked at the salt dock. Two rail cars stood beside it while men moved long crates onto a loading platform. At the end of the dock, a truck waited with its doors open and a festival banner painted on its side.
+
+Tín stared at his enormous painted face. The artist had given him sunglasses again.
+
+“That's not ours,” Boots said.
+
+“It isn't my nose either,” Tín replied.
+
+Sable gripped the radio. “He's putting the cargo under your name.”
+
+Boots parked behind a shed. Tín walked toward the freight crew beside the waiting engine. Their Crown Shipping supervisor recognized him, abandoned his conversation, and ran toward the truck.
+
+“Can you hold the train?” Tín asked the crewman.
+
+The man looked after the running supervisor. “What's happening?”
+
+Tín pointed to the false banner. “Someone borrowed my face.”
+
+The truck engine roared. Tín ran, crossed in front of the freight engine, jumped onto a coupling and from there onto a rail-car roof. As the truck passed the end of the platform, he leaped onto its cargo box.
+
+The roof buckled. The driver swerved toward the fence. Tín dropped to one knee and caught the upper rim. A hatch opened behind the cab, and a pistol appeared through it. Tín stamped the hatch shut. The gun fired inside.
+
+He tore the handle free, reached through the opening, and drew the gunman up by his wrist until both shoulders jammed in the hole.
+
+“Drop it,” Tín told him.
+
+The pistol fell. Tín struck him across the face and lowered him back inside.
+
+Boots brought the tow truck across the access road. The cargo driver braked; rear tires slid into a light pole's concrete base, tilting the whole box. Tín jumped down on the low side, caught the upper rail, and pushed until all four wheels met the road again.
+
+Boots approached the cab with a wrench. “You put my friend's face on a truck and then wrinkled it.”
+
+Tín opened the rear doors. Sable climbed onto the step and lifted a loose crate lid. Wrapped weapons lay beside smaller cases marked with warning symbols. He closed it immediately.
+
+“Leave the rest,” Tín said.
+
+Sable nodded and went to the office phone for Vega. At the dock, the Crown Ruby's engine deepened. It pulled away with a cargo lighter tied alongside. Iris Rook stood on the lighter beside covered pallets, pointing toward the lower channel. An armed man waited near her.
+
+Their eyes met. Tín ran for the platform. A deckhand tried to stop him with a boat hook. Tín pulled him off balance, took the hook, and jumped from the dock.
+
+The lighter's stern dipped beneath his landing. The gunman raised his weapon. Tín threw the hook into his forearm, knocking the gun overboard. Iris stepped between them.
+
+“Don't,” Iris said.
+
+“He had the gun,” Tín pointed out.
+
+“Both of you,” Iris answered, then shouted for the captain to slow down. The engine ignored her. She took a whistle from her pocket and blew a sharp pattern. The tug slowed.
+
+“Lead with that,” Tín advised.
+
+Iris caught his sleeve when he approached the line between lighter and tug. “What do you want?”
+
+“My son spent this morning in a trunk,” Tín said.
+
+Iris's face changed. “I didn't know.”
+
+Tín looked toward the covered pallets. “Your family has remarkable gaps in its information.”
+
+He pulled back the nearest cover. Boxed ammunition and metal cases filled the pallet. Iris watched him without pretending they contained anything else.
+
+“Men paid him before you won the boat,” Iris said. “He spent their money. He can't simply hand it back.”
+
+Tín looked at the covered ammunition, then at the men working the tug beyond her. “So they get other people's homes instead?”
+
+Iris put a hand against the pallet. “I told him to take the loss on Duke. Pay you. Move the schedule.”
+
+“You came with the envelope,” Tín said. “I remember.”
+
+Iris looked back at him. “You made him lose in front of people who work for him.”
+
+“He sent them to hit Bình,” Tín replied. “Where should Bình have taken that? Somewhere private so your father could remain impressive?”
+
+Iris's hand fell from the pallet. For a moment neither spoke. The lighter rode low in the water, its cargo making a small steady creak against the lashings. Tín didn't have to open every crate to know she had helped bring them here. She didn't have to say her father's name again for him to understand whom she was still defending.
+
+“They're expecting delivery,” Iris said finally.
+
+“Then tell them it's late,” Tín answered.
+
+“Found some of it,” Tín replied.
+
+Her mouth almost moved into a smile. Then she looked at the tug's wheelhouse.
+
+“He'll take your vessel tonight,” Iris told him. “The festival gives him a name on trucks, boats, invoices. Everyone watching your music while his cargo moves beneath it.”
+
+“You should have told me before the shooting,” Tín said.
+
+“You should have sold the boat,” Iris answered, then looked away under his silence.
+
+The captain appeared at his side door carrying a rifle. Iris raised her hand and shouted. Tín seized her around the waist and pulled her behind the pallet as the shot tore through its cover where her head had been.
+
+For a moment she stared at the torn canvas. Tín released her.
+
+“The staff again,” Tín said.
+
+He took a loose steel mooring ring and threw it at the wheelhouse. It struck the rifle and carried it through the far window. The captain fell back inside. Tín crossed the narrow gap to the tug, caught the cabin door, and met the captain's knife hand as it came toward him.
+
+He forced the wrist upward, drove the man against the wall, and hit his stomach. When the captain folded, Tín lowered him to the floor and took the controls. The tug was drifting toward a channel marker. He turned slowly until its bow faced the dock.
+
+On the lighter, Iris caught a shore line. Workers hauled it against the platform while Boots returned with Sable and an approaching patrol car. Tín brought the tug alongside without making another hole in the harbor.
+
+The freight crew watched him step ashore. One offered him a clean engineer's cap. Tín accepted it and put it on.
+
+Boots looked up. “Separate closet for the kingdom. We need one.”
+
+Vega met Iris at the gate. Iris held her hands empty at her sides and turned once toward Tín.
+
+“There's another tug,” Iris said. “Black. He sent it west.”
+
+Vega stood close enough to hear. She asked Iris who had its schedule. Iris named the dispatch office, then corrected herself and gave the individual who would answer the telephone.
+
+Tín watched that correction. It was smaller than drawing a pistol, less dramatic than shouting at a captain. It gave Vega a person to find. He waited while the detective wrote it down.
+
+Before Tín answered, Duke's voice burst from the truck radio.
+
+“Tín,” Duke shouted. “Come home.”
+
+## Chapter 16: The River Queen Leaves Early
+
+The River Queen slid past the bottom of Bell Street as Boots arrived. A black tug pulled its bow west. A small launch held a stern line, keeping the barge clear of the piers. Men on the landing threw off the last mooring; the raised gangway scraped away half the platform as it left.
+
+Tín ran before Boots finished stopping. Marcus stood on the upper balcony waving both arms.
+
+“They're taking the fucking boat!” Marcus called.
+
+“I see,” Tín shouted back.
+
+“Making sure!” Marcus replied.
+
+Tín jumped for the lifting gangway, caught its rail, and hauled himself above the water. He ran uphill into the ballroom. A man stood aiming a pistol at the galley. Tín hit him from behind and sent him sliding beneath the bar through three chairs.
+
+Hương lowered the pot she had raised behind the serving hatch. “Late.”
+
+“Train was early,” Tín said. “Bích?”
+
+His wife waited at the galley's rear with six volunteers behind her and a long knife held low. One young man had a bleeding forehead. Bích put the knife down when Tín entered.
+
+One volunteer still held the tray she had been carrying when the men boarded. Its bowls rattled with the tremor in her hands. Bích took it from her and put it on the counter before answering Tín.
+
+“Sit against this wall,” Bích told the woman. “You don't have to keep holding it.”
+
+The woman sat. Tín looked at the young man's forehead. The cut bled into his eyebrow, but his eyes followed Tín clearly.
+
+“Hit you with the gun?” Tín asked.
+
+The young man nodded. “I tried the door.”
+
+Tín moved a clean towel within reach. “Press here. Hương will help you.”
+
+He kept his voice low enough that the others didn't have to compete with panic to hear it. The room was narrow. Nobody could solve the boat from this end of the kitchen. Bích had given them one place to stand and one person to look at until he came. He saw what that had cost in the way she flexed the hand that had held the knife.
+
+“Bridge work,” Bích said. “That's what they told us. Then they started pointing things.”
+
+She counted everyone for him. Duke and Bình had gone downstairs. Mai was by the sound equipment. Hòa had helped two people ashore before the gangway rose and remained on the landing.
+
+“Behind the wall,” Tín told her.
+
+Bích caught his hand. “Come back through it.”
+
+He squeezed her fingers and went outside. Through the window he could see Nail on the black tug's aft deck, wrist braced, jaw swollen above its silver plate.
+
+“You could buy a ticket,” Tín called through the opened window.
+
+Nail pointed upward. Tín looked through the skylight and saw a gun barrel.
+
+He lifted a serving table overhead as the first round struck the dance floor. More tore through the wood while he crossed underneath; one grazed near his shoulder and ripped his collar. Tín threw the table into the skylight. Glass and furniture erupted upward. He climbed onto the bar, caught the shattered frame, and pulled himself onto the roof.
+
+The shooter lay beneath the table. Tín stamped on the rifle and twisted its barrel. A second man swung a chain beside the ventilation housing. Tín stepped inside its arc, caught the shirtfront, and drove him backward into the metal. When he rebounded, Tín put him into it again. The chain fell. Tín used it to fasten both men to the wrecked housing.
+
+The River Queen was turning toward the cannery inlet and the open drydock gates beyond. Its stern launch accelerated, hauling the rear around. Rook wanted his freight door aligned with a place nobody from Bell Street could reach easily.
+
+Tín dropped to the balcony. Mai met him with a wrench and a locked sound cabinet.
+
+“Radio's inside,” Mai told him.
+
+Tín broke the lock with one turn and returned the wrench to Mai. “Tell Boots we’re heading for the drydock. Stay with Marcus while you call.”
+
+“I am,” Mai said, opening the cabinet.
+
+Below, Tín found Duke in the storeroom holding a broken chair leg in each hand. Two men lay at his feet. A third aimed a pistol at Bình, whose good hand gripped the weapon wrist while his injured shoulder sagged against his chest.
+
+“Let go,” the gunman said.
+
+“You first,” Bình replied through his teeth.
+
+The gunman dragged Bình sideways when he saw Tín. Duke threw a chair leg low into the man's shin. Bình headbutted his face, shoved the gun upward, and ducked. The shot struck the ceiling. Tín caught the raised arm, folded it behind the man's back, and drove him face-first into the freight hatch.
+
+Duke looked at Bình. “I said stay upstairs.”
+
+Bình held his shoulder. “You said you had them.”
+
+“I did,” Duke insisted.
+
+“I helped with paperwork,” Bình said, looking at the bodies.
+
+Tín ordered both upstairs. Duke pointed out the outside lock on the freight hatch: once inside the drydock, cargo could come through while everyone remained trapped above.
+
+The hull ground against old timber fenders. Plates rattled overhead. Duke's face changed.
+
+“He'll split her,” Duke said.
+
+“Upstairs,” Tín repeated.
+
+He climbed to the forward service deck and wrapped both hands around the tow line. On the tug, Nail rested his good hand on the winch.
+
+“Come over,” Nail called.
+
+Tín pulled. The tug's stern dipped; Nail caught the rail as water crossed his shoes. Tín pulled again, drawing the smaller vessel backward. Nail reached for a knife. A sideways snap of the rope knocked it from his hand and jarred the winch against its mountings.
+
+The captain turned toward the drydock wall, trying to drag the line away. Tín stepped onto the barge rail and jumped to the tug.
+
+Nail's fist met his forearm. Tín struck the ribs, drove him against the winch, caught the returning elbow, and turned him headfirst through the wheelhouse door. The captain jumped aside. The controls buckled beneath Nail's weight; the engine faltered.
+
+Tín reached for the tow release. A pistol shot hit beside his foot. He threw the broken door handle at the captain's wrist. The gun fell into the machinery.
+
+Nail rose and locked both arms around Tín's waist. They drove through the outer rail together. Nail lost his grip as his legs swung below the deck. Tín caught the deck edge with one hand and the back of Nail's coat with the other. Hanging above the propeller wash, Nail tucked his braced wrist against Tín's side and drove his good fist into the old man's ribs.
+
+Tín let go of the man's coat. Nail fell into the river. Tín hauled himself aboard and looked back long enough to see the enforcer surface and catch a line trailing from the launch.
+
+He released the main tow. The River Queen drifted free of the tug, but its rear launch kept pulling it toward the gates.
+
+A horn sounded. Rosa's fishing boat cut across the launch's course with Boots at the bow. Boots caught the trailing line with a boat hook and pulled it across while Rosa turned. The launch's driver cut his tow to avoid being dragged broadside.
+
+The barge cleared the concrete wall.
+
+Tín stood in the tug's broken wheelhouse, breathing through his aching ribs. Across the gap, Bích appeared in the River Queen's forward doorway. She pointed at the water between them.
+
+Tín looked at the tug, the drifting barge, and Duke leaning over its rail.
+
+“Can you drive this?” Tín called.
+
+“I've had ambitions,” Duke answered.
+
+Tín looked from the tug's ruined controls to the barge. “Have them quickly. We're drifting.”
+
+Duke glanced toward Rosa's boat. “She'll never let me finish hearing about this.”
+
+“Then you'll stay alive to listen,” Tín told him.
+
+On the River Queen, Bích pointed toward a clear place on the deck. Mai moved the overturned chairs away from it. The people in the galley began emerging in pairs, one person helping another find room near the open windows. Tín waited for Duke with one hand braced against the wheelhouse frame, keeping his face still whenever breathing pulled at his ribs.
+
+## Chapter 17: Duke Gets a Better Job
+
+Rosa ferried Duke across in a boat barely large enough to contain his knees. He tried to shift one foot and the whole craft disagreed.
+
+“Stop moving,” Rosa told him.
+
+“Breathing,” Duke replied.
+
+“Less impressively,” Rosa said.
+
+Tín helped Duke onto the tug. The former nightclub owner examined its broken windows, missing rail, and captain sitting against the wall nursing his wrist.
+
+“You said drive,” Duke told Tín.
+
+“It floats,” Tín answered.
+
+“So does a shoe,” Duke said. “I've done research.”
+
+Rosa came aboard, checked the controls, and listened to the engine. She pointed at the seat. Duke tried to announce that she was obviously the driver. Rosa corrected that: she was obviously the teacher.
+
+“Sit down, student,” Rosa ordered.
+
+Tín took the captain outside and tied him beside two deckhands Boots had found near the engine hatch. One had surrendered so enthusiastically that he still held his hands up while sitting. Tín placed life jackets beside all three, then returned to Rosa and Duke's first lesson.
+
+Duke moved a lever. The stern swung away from the barge. Rosa covered his hand and corrected it.
+
+“That way is expensive,” Rosa said.
+
+“They look alike,” Duke objected.
+
+Rosa pointed through the glass. “That direction gets us to the boat. The other gets your name in a newspaper.”
+
+He tried again. This time the tug came alongside. Boots passed a line, Tín secured it, and people could move between the vessels.
+
+Mai inspected the new shoulder cut as soon as he crossed back. Tín answered her look by standing still. Bích gave him the casualty count: one forehead cut, Bình's shoulder aggravated, broken furniture, frightened volunteers. Everyone aboard accounted for.
+
+Near the stage, Marcus crouched beside a speaker with a torn cone.
+
+“Repairable?” Tín asked.
+
+“New cone,” Marcus said. “Shop's closed.”
+
+Tín took out his wallet.
+
+“You can't pay a door to open,” Marcus protested.
+
+Boots laughed from behind them. “Stop telling that man what can't be done.”
+
+Harbor patrol arrived with Vega. Officers collected the hijackers and carried the injured volunteer aboard. Vega inspected the tug before looking at Tín.
+
+“Collecting those now?” Vega asked.
+
+“Duke needs transportation,” Tín said.
+
+“Crown Shipping owns it,” Vega reminded him.
+
+Tín glanced at the damaged rail. “They delivered.”
+
+Their old berth was unusable. The rising gangway had torn the landing badly enough to need an inspection before a crowd returned. Small boats could get people ashore, Vega said; the River Queen needed another place to tie up.
+
+Bích came beside Tín. “Another kitchen by tomorrow.”
+
+Vega looked at her. “You're still having the festival?”
+
+Bích gestured toward the galley. “Food.”
+
+The detective let the entire argument pass in that single word, then pointed east to Hollis Pier. Ruth Hollis owned the Orpheum and wanted to thank the man who recovered her organ, as well as shout at everyone involved in losing it.
+
+“Duke can take the shouting,” Tín said.
+
+“Heard you,” Duke called from the tug.
+
+They moved slowly back out of the inlet, Rosa supervising Duke. Four volunteers chose to go home on the patrol boat. Tín helped each down without asking for reasons. Hương sent Bình too. His attempt to argue ended when she took his chin and made him look at her.
+
+The first departing volunteer apologized about the boxes she had promised to unpack. Tín moved the boat's rail under her hand so she could step down without looking at the gap.
+
+“The boxes can wait,” Tín told her.
+
+“Tomorrow morning,” the woman began.
+
+“Tomorrow morning you can decide tomorrow morning,” Tín replied.
+
+She looked at him, nodded, and took the patrol officer's hand. A second volunteer said she would return with more cloths. The two others simply climbed down and sat pressed close together on the bench. Tín passed them the bags Bích had packed. They didn't need to make the decision sound generous for him to help them leave.
+
+Bình waited until the others were aboard before trying Hương once more.
+
+“They need people for the repairs,” Bình said.
+
+Hương lifted his sling slightly. He winced before he could stop himself.
+
+“They need people who can use an arm tomorrow,” Hương told him. “You've got one useful shoulder. Keep it.”
+
+Hollis Pier had a yellow warehouse, a broad landing, and a pavilion strung with old bulbs. Ruth waited there wearing a hat pinned with three silver birds, a walking stick in one hand and a drink in the other. She boarded before anyone could offer assistance.
+
+“Where?” Ruth asked.
+
+Tín took her below. She lifted the blanket from the console and laid her hand on its polished wood. The room quieted around her.
+
+“My husband played this the night the theater opened,” Ruth said at last. “Rook's broker promised a church. I thought somebody would keep playing.”
+
+Duke came to the doorway as she called the broker a bastard.
+
+“Which one?” Duke asked.
+
+Ruth turned her head. “I'm including several.”
+
+She replaced the blanket and announced that her technician could put enough pipes together for tomorrow. Tín pointed out the boat damage. Ruth said everyone worth inviting had damage and led him back upstairs to inspect what could be repaired by evening.
+
+She gave Bích the pier kitchen key in exchange for dinner. Bích warned that the arrangement might become expensive. Ruth, seventy-four and apparently comfortable with negotiated risk, accepted.
+
+By sunset, friends and Ruth's carpenters were carrying tools across the landing. The skylight received a temporary cover. Glass workers measured the windows. Hương divided kitchen volunteers between pier and barge. Boots returned with a speaker cone, its shopkeeper, a spare part, and a bill whose discount made him suspicious.
+
+Tín sat beneath a lamp while Mai cleaned his shoulder.
+
+“Wrong pier on every flyer,” Mai said.
+
+“Mr. Chen?” Tín asked.
+
+“He'll open,” Mai answered. “I want to do the work.”
+
+Tín nodded. “Do it well.”
+
+Hòa arrived from ashore carrying a box of printed directions. He had used Hương's car, gone to the printer, and brought proofs for Mai to approve. She stood so quickly her chair scraped the boards.
+
+Tín watched them compare the maps. His son waited until Mai asked before explaining the route. Tín thought of the morning's wrecked trunk and looked away before either of them caught him staring.
+
+On the black tug, Duke painted over CROWN and stepped back from the blank patch.
+
+“Try Student,” Rosa suggested.
+
+“I'm improving from spite,” Duke told her.
+
+Tín raised his voice from the pier. “Useful beginning.”
+
+Duke returned to the brush. He painted MERCY'S COUSIN in uneven white letters. Rosa read it, sat on the rail, and laughed until he smiled too.
+
+“Mateo will hate it,” Rosa said.
+
+“Then he's healing,” Duke replied.
+
+Under the pavilion, the bulbs came on one by one. For the first time since the boat left Bell Street, Tín heard music without first looking for the direction of a gun.
+
+## Chapter 18: The Band Refuses to Stop
+
+At nine that Friday night, the rehearsal began admitting an audience Marcus denied inviting.
+
+“Practicing attendance,” Marcus told Mai as people danced beneath the pavilion bulbs.
+
+“You called the radio station,” Mai said.
+
+“Public service,” Marcus replied.
+
+Bích opened another tray. Ruth sent somebody home for better shoes. Tín stood beside the recovered organ console while Ellis, Ruth's elderly technician, worked underneath with a lamp clipped to his collar.
+
+Only a small portion of the pipes had been recovered and assembled. Proper restoration would take weeks. Ellis preferred a few working notes to an entire instrument remaining dignified and silent.
+
+He pressed a key. A thin groan emerged.
+
+“That one heard about the wedding,” Duke called from the tug.
+
+Ellis glared without releasing the note. Tín walked behind the temporary frame, touched a loose fitting, and shifted it slightly. The sound steadied.
+
+Ellis climbed out. “You work on these?”
+
+“No,” Tín said.
+
+“Do it again,” Ellis told him.
+
+Tín moved the fitting. The pitch bent and returned. Ellis gave him a wrench and pointed to the frame.
+
+“Stay,” Ellis said.
+
+Passing with food, Bích nodded approvingly. “Good word.”
+
+For twenty minutes Tín held pipes, braces, and finally an entire frame while Ellis secured its base. After the first impossible lift the technician quit remarking on it and began using Tín like the helper he had apparently been waiting for all his life. The band worked around them until Ellis played a warm chord. Then the musicians stopped to listen.
+
+Ruth put down her drink. Ellis played a little rising phrase, rough at the edges but recognizably itself.
+
+“Your turn,” Tín told Ruth.
+
+“My husband played,” Ruth said.
+
+“You listened,” Tín replied.
+
+Ruth went to the bench. “Mostly complained about his hours.”
+
+She placed two fingers on the keys and played a simple melody. The bass joined. The drummer brushed a cymbal. The saxophonist took the difficult notes without making her relinquish the tune. Ruth smiled, and the people nearest the stage moved closer.
+
+Tín found Bích holding a serving spoon. He offered his hand. She showed him the spoon as evidence of a prior engagement.
+
+Hương took it from her. “You have staff.”
+
+Bích let Tín lead her onto the open boards beside the stage. She rested her hand near his uninjured shoulder.
+
+“No lifting,” Bích warned.
+
+“I hadn't begun,” Tín said.
+
+“I know the planning stage,” Bích replied.
+
+They moved slowly. Tín could feel the evening in her back: hours over stoves, lifting trays, keeping frightened people busy. She had taken off the apron. A strand of hair lay against her cheek; he brushed it away.
+
+“Better than the cinema?” Tín asked.
+
+“Quieter chair there,” Bích said.
+
+He laughed. Marcus reached for the microphone, saw Mai looking at him, and thought better of it. Tín turned Bích once and brought her close again. Applause started anyway.
+
+“Impossible people,” Bích murmured.
+
+Tín leaned near her ear. “Bad example from their host.”
+
+Bishop arrived after the song with a square box. Wade followed carrying two more. His hands remained conspicuously visible. Bishop's lip was swollen, and he waited until Tín had brought Bích back to her chair before approaching.
+
+“Festival gift,” Bishop said.
+
+“If it sings, return it,” Tín replied.
+
+Inside lay a gold-plated crown lined with red cloth, decorated with red stones and a little GRANDMASTER TÍN plate. Boots came over, saw it, and shook his head with the certainty of a mechanic recognizing a preventable accident.
+
+“Apologized by making him worse,” Boots told Bishop.
+
+Tín put the crown on. The crowd cheered. Bích covered her eyes.
+
+Wade opened the other boxes: microphone stands and cables. Marcus took one stand in both hands with far more tenderness than he had shown the organ.
+
+Tín removed the crown and passed it to Mai. “Somewhere safe.”
+
+“Locked room?” Mai asked.
+
+“Accessible,” Tín amended.
+
+Once she left, Bishop drew closer. “Rook offered two hundred thousand to bring you to the eastern terminal tonight.”
+
+Boots stopped admiring the cable.
+
+“Your answer?” Tín asked.
+
+Bishop took out an envelope. “Half in advance.”
+
+Boots stared at it. “He's financing the whole neighborhood.”
+
+Bishop explained the eleven-o'clock service gate, the warehouse, the waiting launch, and the men who still believed Rook could pay them afterward. Tín let him finish. The money came from the same operation that had shot Mateo. Bishop had accepted it while arranging to betray the employer who had tried to kill him. Calling it friendship wouldn't make it simple.
+
+“Keep it,” Tín told him.
+
+Bishop hesitated. “Sure?”
+
+Tín looked directly at him. “You'll need it if you change your mind.”
+
+Bishop put the envelope away. “I won't.”
+
+Tín found Bích with Ruth beside the food table. His wife looked at his face and put down her plate.
+
+“How long?” Bích asked.
+
+“I don't know,” Tín answered.
+
+Bích nodded. “Say that. Don't say ten minutes.”
+
+He named Duke and Bishop. Bích added Boots, who needed to stop advising the musicians, then straightened Tín's collar around the fresh dressing.
+
+“Do you need anybody else?” Bích asked.
+
+Tín looked across the pavilion. Hòa stood with Mai near the pipe frame while Ellis explained which sections would need a workshop. His son held a cup in one hand and listened. Tín couldn't tell whether he had heard the conversation beside the food table. He knew Hòa would come if asked.
+
+“Stay here with Hòa,” Tín told Bích.
+
+Bích looked at him. “He already told me that.”
+
+Tín smiled faintly.
+
+“Both of you think repeating an instruction makes it a new idea,” Bích said. “I know where I am.”
+
+He took her hand between both of his. The bandage made the gesture clumsy. She adjusted her fingers around it without looking down.
+
+“I know,” Tín said. “I want to know where to return.”
+
+Bích held his gaze, then nodded toward the plate she had left. “Here. Before that gets cold.”
+
+“Come back while there's food,” Bích told him.
+
+Tín kissed her cheek. Across the pier, Hòa met his eyes and stayed beside the family without needing another instruction.
+
+On Mercy's Cousin, Rosa gave Duke one final lesson about taking the turn slowly. Then she handed him a dry jacket. He examined it, looked at her, and put it on without offering a joke.
+
+Marcus announced a brief engagement through the microphone as the four men boarded.
+
+“Brief?” Tín called.
+
+Marcus lowered the microphone. “Marketing.”
+
+The tug moved toward the terminal's three white lamps. Behind them the band kept playing, its sound folded gradually into the engine. Tín stood at the bow until the last clear notes were gone.
+
+Boots came beside him with the black bag. He opened it to check the flashlights, then took out the sandwich and examined its wrapping.
+
+“She trusts us to face men with guns,” Boots said, “but not to obtain food.”
+
+Tín looked at the sandwich. “We have evidence for that.”
+
+Boots returned it carefully and fastened the bag. “You coming back for the next song?”
+
+“I told her I didn't know,” Tín answered.
+
+Boots nodded, the joke gone. For a while they stood together with their hands on the rail. In the wheelhouse, Duke repeated Rosa's instruction to himself and slowed before the turn.
+
+## Chapter 19: Rook Cuts the Lights
+
+Bishop tied Tín's wrists with a silk scarf so loosely that Tín had to hold his hands together to keep the knot in place.
+
+Duke watched from the tug's wheel. “Convincing.”
+
+“Difficult material,” Bishop replied, tugging one end of the scarf. It slid sideways. He tucked it beneath Tín's thumb and stepped back.
+
+Boots looked at the silk. “You expecting that back?”
+
+Bishop considered Tín's hands. “Preferably.”
+
+At the terminal's service landing, two guards waited above the ladder holding guns. Duke nosed Mercy's Cousin against the rubber fender. Neither guard reached for the line.
+
+“We can't tie up and intimidate you together,” Boots called, throwing it at their feet.
+
+One guard caught it. Tín climbed after Bishop with the scarf held in place by his thumbs. Boots followed carrying Bishop's black bag, now containing a wrench, two flashlights, and Bích's sandwich. Duke stayed at the controls.
+
+The nearest guard examined Tín's wrists.
+
+“That's all?” the guard asked.
+
+Bishop looked at him. “Improve it if you like.”
+
+The guard let them pass.
+
+Floodlights lit a central aisle through freight pallets. At its far end stood a raised platform, a black car with its trunk open, and Calvin Rook in a dark suit. Nail waited beside him in clean clothes, his wet hair shining above the bruised jaw plate.
+
+Rook leaned a narrow cane against the car, its handle beside his hand. Tín saw it while checking the route back to the entrance. To the right of the central aisle, stacked shelving reached nearly to a catwalk. To the left stood crated freight and a low trolley. The raised platform had a second large shutter behind it; beneath that shutter came the river smell.
+
+Boots paused just inside the service door and shifted the bag to his other hand. Bishop stayed a step closer to the guards than Tín did. They hadn't rehearsed where to stand. Tín noticed what each man chose and kept the exit in view.
+
+“Found a towel,” Tín observed.
+
+Nail's hands closed. Rook stepped forward and ordered Bishop to untie his prisoner. Tín separated his hands. The scarf fell; Boots caught it before it reached the dirty floor and returned it to Bishop.
+
+“Still clean,” Boots said.
+
+Rook looked from one man to the next. “You took my money.”
+
+Bishop spread his hands toward Tín. “You paid for delivery. Here.”
+
+For a moment the silence was so complete Tín could hear Duke adjusting the tug's engine outside. Then Rook looked toward his guards, and both shifted their feet.
+
+“Everyone has become clever this week,” Rook said.
+
+“It started with the refrigerator,” Boots replied.
+
+Tín moved into the aisle. “Your men put my son in a trunk.”
+
+“Your son hurt two of them,” Rook said.
+
+Tín stopped beside a pallet. “They should have attended his school first.”
+
+Nail came off the platform swinging a cable with a steel hook. Tín stepped behind the pallet. The hook smashed through its slats and caught the crate below. Nail pulled. Tín kicked the sliding crate toward him, jumped onto it as it struck his thighs, and drove a heel into his shoulder.
+
+Nail hit a steel upright. The sound rang across the building. At the entrance, the guards raised their guns. Boots threw the bag into one man's face; the wrench struck through canvas. Bishop seized the second rifle and drove its owner into the door frame. The shot went through the roof.
+
+Tín pulled Nail off the upright and hit his jaw. The edge of the silver plate cut his knuckles. Nail drove a knee into his ribs, then another that Tín took on his elbow. He shoved the enforcer through the side of an empty packing crate. Nail rolled free with a splintered plank.
+
+In the polished side of Rook's car, Tín saw movement behind his own reflection. He turned as Rook's cane struck his forearm. Steel inside the cane bent against the burned flesh. Pain shot to his shoulder.
+
+Rook reversed the cane toward his throat. Tín caught it under his chin and pulled him into a punch. Rook's head snapped back, but he stayed upright, blood across his teeth.
+
+“Now we're honest,” Rook said.
+
+Tín hit him again. Rook went over the hood into the windshield. “You speak slowly,” Tín told him.
+
+The plank broke across Tín's back. Nail came after its splintering end. Tín caught his throat with the bleeding hand and drove him backward until his heels struck a low cart. They fell together. Nail locked an arm around Tín's neck.
+
+Tín planted a palm on the concrete and rose. Nail's feet dragged, then left the floor. Tín turned and slammed him onto the cart. Its four wheels burst from their mountings. The arm around his neck opened.
+
+At the entrance, Boots had pinned his guard beneath a fallen sign. Bishop stood over the other holding a rifle with its stock broken. Tín called to them; Boots lifted a thumb.
+
+Above him, a gunman stepped onto the catwalk.
+
+Tín shouted, but the shot reached Boots first. His arm snapped back. He struck the door frame and fell against it, blood spreading down the work shirt. Bishop fired upward with the broken rifle. The shooter ducked.
+
+Tín lifted the wheelless cart and threw it beneath the catwalk. Steel struck steel. Two supports tore out. The walkway folded, and the gunman fell through its rail onto the concrete beside the pallets. He did not rise.
+
+Tín ran to Boots and pressed a clean cloth from the bag against his upper arm. The sandwich rolled onto the floor beside them.
+
+“Loretta,” Boots said through clenched teeth.
+
+“We'll get you to her,” Tín told him.
+
+Boots stared at the blood. “She's going to make it about the shirt.”
+
+Tín pressed harder. Boots looked at the sandwich.
+
+“Don't leave that,” Boots added.
+
+“I won't,” Tín promised.
+
+At the platform, Rook reached a control box. The lights went out. Tín heard the rear shutter rise and an engine start beyond it.
+
+“Take Boots,” Tín told Bishop.
+
+Bishop lifted Boots beneath his good arm. Boots found his feet, swore, and leaned into the help. Tín recovered the sandwich and shoved it into the bag.
+
+Fire brightened behind the pallets. In its light he saw Rook climbing onto a launch through the rear opening. Nail staggered after him with one arm against his ribs. Tín ran down the aisle.
+
+A shelving rack toppled across his path. He caught its upper beam on his shoulder. Boxes burst around his legs; its far end crushed the car's roof. Flame spread across packing material beneath the shelves.
+
+Through the open shutter, Rook's launch drew away. Tín and Rook faced each other across the widening black strip of water. Behind Tín, Boots cried out as Bishop helped him over the entrance threshold.
+
+Tín turned back. He lifted the rack, stepped beneath it, and shoved it into the empty aisle beside the crushed car. Then he ran toward his friends.
+
+Duke had brought the tug close beneath the service ladder. Bishop lowered Boots. Duke caught his belt and drew him aboard. Tín came down last while fire crawled across the warehouse windows above them.
+
+“Hospital,” Tín told Duke.
+
+Duke turned toward patrol lights upchannel. Bishop knelt beside Boots and held the dressing while Tín called Vega. Blood left a dark handprint on the microphone.
+
+Vega answered immediately. Tín gave their position and told her Rook had gone east. She ordered them to remain in the channel for a patrol boat.
+
+Boots opened one eye. “Tell Loretta I was useful.”
+
+“You were,” Tín said.
+
+“Lead with it,” Boots whispered.
+
+The patrol boat met them before the bend. Its crew transferred Boots while Bishop kept pressure on the wound. They also collected the surviving injured guards from the landing. Tín watched until the boat left for the hospital dock.
+
+Behind them, the warehouse roof glowed red. Emergency lights moved along the road. Duke stood quietly at the wheel.
+
+“Hollis?” Duke asked.
+
+Tín nodded. Before Duke turned, the radio came alive again.
+
+“Tín,” Rosa said, her breath ragged behind the microphone. “The pier's burning.”
+
+## Chapter 20: Nobody Gets to Sink My Wife
+
+Three fires climbed the yellow warehouse at Hollis Pier. The pavilion lights still burned between them. Beneath those bulbs, people moved toward the River Queen in a stumbling line.
+
+Marcus's voice reached the tug through the smoke. “Keep moving. If it isn't a person, stop carrying it.”
+
+Hòa stood at the gangway helping an older man across. Hương held a wet cloth over a child's mouth. Tín counted what he could see, lost track in the smoke, and told Duke to come closer.
+
+Mercy's Cousin touched the barge's outer fenders. Tín jumped across, passed a stack of trays, and went into the ballroom. People sat coughing against the far wall. Ruth stood beside the organ, ordering Ellis to abandon his tools.
+
+“It survived one fire,” Ruth told the technician. “Walk.”
+
+Ellis looked at Tín. Tín pointed to the outside deck. Ellis went.
+
+Bích emerged carrying a large pot. Tín stopped in front of her.
+
+“People first,” Tín said.
+
+“Everyone from the kitchen is out,” Bích replied.
+
+He took the pot. It was full of soup. Even now, warmth rose from it into his face.
+
+“They'll be hungry,” Bích explained.
+
+Tín looked behind her into the galley. The burners were off. The last helper had set a tray down by the exit rather than carry it into the smoke. Bích had checked the room before bringing the pot; he could see it in the clear counter and the towel folded over the handle to protect her hands.
+
+“You turned everything off?” Tín asked.
+
+Bích pointed toward the cold stove with her chin. “You can look.”
+
+He had looked. He didn't argue again. At the far wall, a man coughed so hard the woman beside him had to hold his shoulders. Near them, a child cried without making much sound. Bích followed his gaze.
+
+“They need something warm after this,” Bích said.
+
+Tín tightened his grip on the pot handles. He could remove weight quickly. She had been keeping people from coming apart while they waited for him to arrive. Neither job made the other unnecessary.
+
+Tín set it on the cold stove, kissed her forehead, and sent her toward clearer air. She took the ladle.
+
+At the gangway, Tín could see the shore route cut off between warehouse and ticket booth. Those who had attempted it were returning through thickening smoke. Hòa helped a dockhand whose melted shoe dragged across the boards.
+
+“Rosa's checking the far end,” Hòa told Tín. “Mai's with her.”
+
+Tín turned toward the pavilion. His granddaughter emerged carrying a little girl. Rosa followed with the child's father, one leg bleeding. An overhead beam dropped in front of them.
+
+Tín ran down the gangway and caught the burning timber before it struck Mai. Heat hit his face. His sleeve began smoking again. He lifted the beam over his head, making an opening with his body.
+
+Mai ran beneath his arms with the girl. Rosa dragged the father after her. Tín turned and threw the beam into the river. Steam erupted below.
+
+“Nobody else,” Rosa called.
+
+Tín looked through the smoke anyway. A pale shape moved behind the organ's temporary pipe frame. He crossed to it and found the night-market saxophonist crouched there, his jacket caught on a bolt behind his shoulder. He kept pulling forward, tightening the cloth.
+
+Tín tore it free. The musician rose with his instrument case against his chest.
+
+“Came for the music,” the saxophonist said.
+
+“On the boat,” Tín told him, guiding him toward the gangway.
+
+Windows burst along the warehouse's upper floor. Burning fragments fell onto the pavilion roof. Tín felt the boards shift beneath his feet, a movement running ahead of him toward the gangway.
+
+“Go,” Tín told the musician.
+
+The man ran. One support had burned through near the waterline. The long outer platform sagged; the pavilion leaned with it, dragging the gangway's lower end sideways while people were still crossing.
+
+Tín dropped through a broken section into waist-deep water. Above him, fire made a low ceiling. He wedged his shoulder beneath the main beam and stood. The sinking platform lifted. Feet began moving again overhead.
+
+“Clear it,” Tín shouted.
+
+Hòa appeared above at the barge rail. “Almost.”
+
+Part of the pavilion roof fell onto the supported beam. Tín's feet drove deeper into mud. Water reached his chest. He pushed until the gangway rose the last inches needed for an older woman's dragging foot to clear its lip.
+
+The weight pressed breath out of his injured ribs. He could no longer see who stood above, only shoes and hands against bright smoke.
+
+“Move them,” Tín called.
+
+Last footsteps. Scraping metal. The gangway came loose from shore.
+
+“Clear,” Hòa shouted down.
+
+Tín stepped toward open water and shoved the beam away from the boat. The pavilion folded into the space he left. Burning timber struck the river, and a roof section swept past his head. He ducked, surfaced beside the barge, and pulled himself over the lowest rail.
+
+For several breaths he knelt on the deck, water running out of his clothes. Mai crouched beside him, still holding the girl's hand.
+
+“Grandpa,” Mai said.
+
+Tín looked up. “Here.”
+
+She nodded quickly, then took the child to her father. Duke shouted about the moorings from the tug. Two lines still held the River Queen to the burning pier.
+
+Tín tore the first shore fitting free and dropped the slack line onto the deck. The second ran beneath the broken gangway and dragged the stern toward the fire. He ran aft.
+
+A wet man climbed over the rear rail in front of him holding a knife. Behind him, a launch hugged the stern. Its driver watched while another man crouched beside fuel.
+
+Tín looked at the burning pier and back at the knife.
+
+“You should have stayed ashore,” Tín said.
+
+The man lunged. Tín caught his wrist, bent it outward, and drove the knife into the rail beside the man's own hand. A palm beneath the jaw put him flat on the deck.
+
+In the launch, the crouching man rose with a burning bottle. Tín tore the rear ladder loose and threw it across the smaller boat. It crushed the windshield and struck both men. The bottle broke inside. Fire spread across the seat.
+
+The driver jumped overboard. The other man caught beneath the ladder clawed at it while flames reached his jacket. Tín dropped beside him, hauled him clear, and threw him toward the barge. Wade and a volunteer caught his arms and dragged him aboard.
+
+The launch drifted away burning. Patrol turned to collect its swimming driver. Tín climbed back and gripped the remaining line. It cut his torn palm; river water and blood ran down his wrist. He pulled again. The fixing came away with a section of timber. He swung it clear of the boat and let it fall.
+
+The River Queen moved free. Duke pulled from the bow while Rosa's fishing boat pushed the stern around. They headed east away from Hollis, fire engines flashing on the shore road behind them. Patrol came alongside for the badly injured.
+
+Tín stayed at the rail until the burning pier was behind them. Then he went inside.
+
+Bích served soup to people sitting on the floor. Some hands shook too badly to hold bowls alone. Hương helped a mother feed her child. Ruth collected glass in her hatbox. The saxophonist sat by the door with his case unopened.
+
+Wade brought spoons from the galley. He counted them badly the first time, went back, and returned with more. Rosa checked the father's bandaged leg while his little girl leaned against him, exhausted now that she could stop being carried.
+
+Tín knelt beside them before accepting his own bowl. The girl looked at his wet shirt, then at the bandages on his hands.
+
+“Hot?” the girl asked.
+
+“It was hot back there,” Tín told the girl. “It’s cooler here with your father.”
+
+Her father tried to thank him. The words broke when he looked down at her. Tín touched the man's shoulder and let him stop. Mai sat on his other side and showed the girl how to hold a bowl against a folded cloth without burning her fingers.
+
+At the door, Ellis had found Ruth's hatbox full of glass. He offered to take it. Ruth made him sit and hold it on his knees instead, where his hands finally had an occupation that didn't involve returning to the pier for tools.
+
+Bích brought Tín a bowl. He took it in both hands.
+
+“You see?” Bích asked.
+
+Tín looked down at the food. “I see.”
+
+She sat with him on the edge of the stage. For several minutes he ate without speaking while the engine vibrated beneath their feet.
+
+Then Vega's voice came from the office radio.
+
+“Stay west of the bridge, Tín,” Vega warned. “Rook's men have the crane.”
+
+## Chapter 21: Three Boats and a Bad Idea
+
+Duke slowed Mercy's Cousin as soon as Vega's warning reached him. The River Queen behind it took longer to change its mind. Rosa pushed at the rear quarter while a patrol boat on the opposite side transferred injured passengers.
+
+Tín joined Duke in the broken wheelhouse. Ahead lay the bridge and its lower passage. Behind them, burning debris from Hollis drifted into the route they had just used.
+
+“Can we turn?” Tín asked.
+
+Duke studied the water. “Not here.”
+
+Rosa's voice came over the radio. “Hold straight. Give me room to get the stern around.”
+
+Before the turn began, a launch emerged dark beneath the bridge's western approach. A searchlight snapped on and swept the River Queen's windows. Behind it stood a rifleman. Patrol ordered him to lower the weapon. He fired instead.
+
+Shots struck the upper balcony. People inside dropped. Patrol moved between launch and barge and returned fire. A second launch came out behind the first.
+
+Tín picked up Bishop's black bag from the tug floor.
+
+“What's left?” Duke asked.
+
+“Flashlight,” Tín said.
+
+Duke looked at the armed launch. “Optimistic equipment.”
+
+Tín stepped onto the forward deck and threw the bag into the searchlight. The remaining flashlight struck through canvas; the lens burst. Tín jumped into the sudden darkness.
+
+He landed on the launch's bow rail and drove his shoulder into the rifleman. Both crashed through the windshield frame. Tín rose first, pulled the rifle away, and hit the driver with its stock. The driver fell sideways across the wheel.
+
+The launch turned toward patrol. Tín caught the controls, straightened the course, and pushed both men down into the footwell. The second launch came alongside. Nail stood on its bow with his injured wrist bound against his chest and a boat hook in his good hand.
+
+He jumped across. The little boat rolled beneath both men's weight. Nail thrust the hook at Tín's stomach. Tín turned; the point cut through his shirt and scraped along his ribs. He trapped the shaft under his arm and pulled Nail close enough to strike his forehead with his own.
+
+Nail twisted the hook free. Tín stepped back against the engine housing. The next thrust punched through the cover beside his hip. He drove a knee into Nail's chest, caught his neck, and slammed his face against the steel.
+
+The jaw plate rang. Nail locked his arm around Tín's waist and lifted. They went over the side together.
+
+Water shut out the engine's sharpness, leaving a heavy thudding above. Nail held him around the ribs and kicked downward. Tín planted both palms against the man's chest and pushed. The grip opened. He caught a trailing line and pulled toward the surface.
+
+Nail caught his ankle. Tín turned underwater and drove his heel against the wrist. The hand loosened. He kicked again and broke clear.
+
+He surfaced beside the launch, coughing water. Nail surfaced too and hauled himself onto the deck. Tín climbed after him. For a moment they knelt on opposite sides of the engine cover while the wounded rifleman stared at them from the bow.
+
+“Get off this boat,” Tín told the gunman, pointing to patrol as it drew close. “The officers will take you.”
+
+The man crawled toward the officers. His driver followed. A patrol officer threw a line, helped both aboard, and kept his weapon trained on Nail and Tín.
+
+Nail stood with the broken end of the hook. Blood and water ran from his jaw. Tín rose more slowly. His ribs burned where the river had entered the cut. His hands resisted closing.
+
+The broken shaft came at his throat. Tín caught it, turned it aside, and stepped across Nail's forward foot. His elbow struck the jaw. One end of the silver plate lifted free.
+
+Nail reeled. Tín hit the chest and then the temple with his palm. The man struck the rail and still tried to raise the hook. Tín took it, threw it overboard, and drove Nail backward onto the engine housing.
+
+The cover collapsed around his shoulders. Tín pulled him clear of the torn metal and turned him onto his side. Nail's eyes no longer followed him.
+
+Tín checked his neck. He waited and checked again. The river slapped the boat's side; nothing answered beneath his fingers. He lowered Nail to the deck and stood.
+
+“Hands visible,” the patrol officer ordered.
+
+Tín raised his empty hands. The officer looked at Nail, then the crowded windows of the River Queen.
+
+The two men rescued from the launch sat behind the patrol cabin. One held a dressing to his face; the other stared at the water between boats. The officer kept his weapon low enough to see Tín's whole body, high enough that the instruction remained clear.
+
+“Don't move toward me,” the officer said.
+
+Tín stayed where he was. The launch rocked beneath him, and he widened his stance rather than reach for the rail. He had spent the fight deciding where every hand and weapon went. Now he let someone else make the next decision for as long as there was time to do so.
+
+He looked once at Nail. The man's good hand lay open beside the ruined engine cover. Tín had seen that hand dent a fender, pull a chain, catch his ankle underwater. It held nothing now. He turned his face toward the officer and waited.
+
+Before he could say more, Vega's voice came through his shoulder radio. “The crane's moving. Clear the lower passage.”
+
+Work lights swung above the bridge. The gray replacement span rose from its supports. Four cables tightened beneath the crane boom. On the operator's platform stood Rook, a pistol aimed inside the cabin.
+
+Duke sounded the tug's horn. Rosa had nearly turned the River Queen, but a raft of burned timber caught its stern and kept it from swinging. The current carried its bow toward the suspended steel. Patrol could not leave while an injured passenger was halfway through transfer.
+
+Tín pointed to the tug. “Take these men. I need that boat.”
+
+The officer started to answer. Tín jumped onto patrol's forward rail, crossed its bow, and leaped to Mercy's Cousin.
+
+Duke stared through the wheelhouse opening. “You look terrible.”
+
+“Closer to the crane,” Tín said.
+
+“Terrible destination,” Duke replied.
+
+“It matches,” Tín answered.
+
+Duke turned the tug toward the repair barge. Above them, the span's shadow passed over the River Queen's windows. Tín stood at the bow and pointed at Rook. Rook saw him, stepped back inside the cabin, and lowered the boom.
+
+## Chapter 22: Forty Tonnes before Breakfast
+
+The operator's hands were above his head. Tín could see them through the crane cabin: pale fingers, fluorescent sleeves, blood running beside one ear. Rook held his pistol against the chair behind him.
+
+The span descended another foot.
+
+Below, Rosa's boat strained against the River Queen's rear quarter. Burned timber still obstructed its turn. The barge's forward windows faced the hanging steel, crowded with people who could see what was above them and had nowhere aboard to improve their position.
+
+Tín stepped onto the tug rail.
+
+“Keep clear,” Tín told Duke.
+
+“You're going there,” Duke said.
+
+“I dislike company while working,” Tín replied.
+
+He jumped onto the low repair platform, climbed an upright, and reached the first ladder. A gunman appeared above and fired down. Tín swung beneath the frame; a round struck the rung beside his hand. He kicked upward, catching the man under the chin through the ladder opening.
+
+Tín climbed after him, took the pistol, and threw it into empty water beyond the barge. He put the gunman beside coiled hoses and looped one around his chest and arms.
+
+“Stay behind this,” Tín told him.
+
+The man nodded, coughing into the hose.
+
+From the cabin, Rook watched Tín reach the upper walkway. He said something to the operator. The young man shook his head. Rook hit him with the pistol.
+
+Tín ran. The span stopped descending and swung toward the River Queen. Its broad gray side passed through a work light, revealing the heavy lower flange and the clean markings. Forty tonnes. The board Tín had seen that afternoon had been a number. This was a length of steel moving over his family.
+
+The cabin door opened. The operator fell through it.
+
+Tín caught him under the arms before he reached the walkway edge. His boots scraped grating. One knee folded when Tín tried to stand him upright.
+
+“Can you walk?” Tín asked.
+
+The operator tried and failed. Tín put him over his shoulder and turned toward the ladder. Rook fired through the doorway. A railing fragment struck Tín's side; he kept moving with the young man balanced against him.
+
+At the lower platform, Duke brought the tug close. Rosa had left an experienced deckhand at her fishing boat's controls and crossed to Mercy's Cousin. Tín lowered the operator over the edge. Duke caught his legs; Rosa took his shoulders. Together they got him aboard.
+
+The operator gripped Tín's wrist. “He's over the stop.”
+
+Tín looked back up. “Which?”
+
+The operator pointed to the turning base, then the lifting cables. “He keeps pulling. It's twisting.”
+
+One corner of the suspended span had caught against the old bridge approach. As the crane kept turning, a cable dragged sideways over a sharp edge. A metallic crack rang across the channel.
+
+The operator's grip tightened. Tín let him hold on for one breath, then freed his wrist gently.
+
+“Back away, Duke,” Tín said.
+
+He climbed again. Rook appeared above with the pistol. Tín tore a loose steel panel from the railing and held it over his head. Three shots hit it, driving hard impacts through his arms. He threw it upward. It struck the cabin door and knocked Rook back inside. The pistol skittered beneath the controls.
+
+Below, Duke reversed until the tug's bow cleared the repair platform. Rosa crouched with the operator, holding cloth against his head. Her fishing boat still pushed the River Queen's stern under the deckhand's control. Tín heard one short exchange on the tug radio, then Duke's horn as the gap between their vessels widened.
+
+The old approach lay across a short gap from the crane walkway. Its outer edge had been cut back for the replacement work, leaving a broad concrete section over the bank-side supports. Tín looked at that surface, then at the staging pad where the new steel had waited that afternoon. He had seen workers leave it. He could still see the empty space under the lamps.
+
+He didn't have a completed plan. He had the position of the people, the direction of the steel, and somewhere he might put it if he could reach it first.
+
+Tín reached the walkway as the first suspension cable snapped.
+
+The span dropped at one end. People screamed aboard the River Queen. Its stern had begun clearing the timber, but its bow remained beneath the steel's falling edge.
+
+Tín jumped from the walkway to the old approach. He kicked a service cart out of his path and stepped beneath the descending flange.
+
+His hands met it. The impact drove him to one knee. Concrete cracked beneath his sandal. He turned his shoulder under the edge as a second cable broke overhead.
+
+The steel rolled toward the river. Tín stood.
+
+A third cable tore free. The fourth dragged across the boom, ripped fittings out of line, and snapped. The whole span settled onto his shoulders and raised hands.
+
+He could no longer hear individual voices from the boat. He could hear metal shifting, the river below, and his own breath arriving too shallowly. His first step broke a patch of concrete. He placed the next foot farther back where the roadway broadened over the approach's solid support.
+
+His calf threatened to fold. He set that leg deliberately and moved the other. Blood from his palm ran along the underside of the flange.
+
+The span cleared the barge's bow.
+
+Below, Duke and Rosa brought their engines up together. The River Queen moved into the space beneath the lifted steel. Tín waited until its upper windows passed, then turned toward the staging pad across the narrow strip of water.
+
+The pad was clear except for two timber supports. Workers had run behind a barrier. Tín could see their reflective jackets beyond it. He shifted the span, bringing its near end over the empty portion of the repair barge. Men ducked behind machinery. Its far end cleared the old masonry and struck a work lamp; white sparks fell toward the water.
+
+Tín bent his knees.
+
+Rook was shouting from the cabin. Tín had no attention available for his words. He drove up and forward.
+
+The span left his shoulders. For an instant its gray length stood against the harbor lights, weight still visibly present even without anything beneath it.
+
+Then it crossed the water and hit the staging pad. Timber supports flattened. Dust burst from concrete. The span skidded into gravel, rocked once, and settled.
+
+The sound traveled along both banks and returned from the warehouses. Tín stood on the approach with his arms lowered. His hands remained half-curled around the absent flange.
+
+The River Queen passed beneath him. Faces filled its windows. Then Marcus appeared on the balcony with the microphone.
+
+“THAT'S MY FUCKING GRANDPA!” Marcus shouted.
+
+Mai's voice carried from beside him. “He's my grandpa!”
+
+“SHARING TONIGHT!” Marcus replied through the speakers.
+
+People struck the rail and cheered. The little girl from the fire waved both arms from her father's lap. At the staging pad, a worker threw his hard hat high. Another caught it and threw it again, apparently unwilling to let the first celebration be the only one.
+
+Duke stood motionless at the wheel. Rosa put two fingers under his chin and closed his mouth.
+
+“Drive,” Rosa said.
+
+On the barge's rear deck, Hòa stood beside the bollard holding the line to the obstructing timber raft. From above, Tín saw his son bend slightly, then straighten with one hand at the base of the steel. The raft stopped twisting. Hòa lifted the line free and let it drop. A deep crease remained across the bollard beneath his palm.
+
+Hòa looked up and raised one hand. Tín returned the gesture. By the time the crowd noticed where he was looking, Hòa was moving toward the people inside.
+
+Patrol followed the barge into the clear basin. One officer saluted; the other stayed at the controls with a grin visible even from the approach.
+
+Behind Tín, a ladder clattered. Rook had left the cabin with a small case and was climbing toward the upper service platform. He looked back once, saw Tín turn, and climbed faster.
+
+Tín flexed his hands. The gesture opened small cuts across both palms. His calf throbbed, his ribs hurt, and the shirt at his side was wet with more than river water now. He went to the ladder anyway.
+
+From the River Queen came the sound of the band beginning another song. Beneath the brass he could hear the organ, imperfect and stubbornly audible.
+
+Tín climbed toward Rook.
+
+## Chapter 23: The Man at the Top
+
+Rook dropped the case halfway up. It struck the grating below Tín and burst open. Cash fluttered along the walkway, caught in the rails, and drifted toward the water.
+
+“Enough for your boat,” Rook called down.
+
+Tín kept climbing. “You've misunderstood the damage.”
+
+“More?” Rook asked.
+
+“Stop moving,” Tín answered.
+
+Rook reached the upper platform and kicked the ladder outward. Its lower fittings tore away. Tín rode the swing until he could brace one foot against an upright, then jumped to the next service rail. The ladder fell onto the empty lower walkway and folded beneath its own impact.
+
+Wind pushed Tín's wet shirt against his wounds as he climbed over the upper rail. Below, the River Queen entered the clear eastern basin with patrol beside it. Beyond the warehouses, Bell Street's windows shone through drifting smoke.
+
+Rook backed toward the boom. He picked up a heavy tool beside the motor housing and held it behind his leg.
+
+“Arrangement,” Rook said. “We can still make one.”
+
+Tín walked toward him with one hand along the rail. “You arranged my son.”
+
+“He walked away,” Rook said.
+
+“He bought soap,” Tín told him.
+
+Rook frowned. “What?”
+
+“It was on the list,” Tín said.
+
+Rook swung low at the injured calf. Tín lifted his leg; the tool struck grating. He caught the wrist and punched Rook's stomach. Rook folded, then slammed his forehead into Tín's nose.
+
+Pain flashed white. Tín's grip opened just long enough for Rook to wrench free and hit his ribs with the handle. Tín struck the rail behind him. It bent outward.
+
+Rook raised the tool with both hands. Tín caught the shaft overhead and pulled him close. Blood ran over Tín's mouth. Rook tried to wrench the tool away. Tín bent the steel between their hands until Rook's fingers released it.
+
+He threw the curved tool onto the motor housing and struck Rook across the mouth. The man fell against the boom brace, caught it, and swung around the platform's outer edge. His shoes found a narrow beam beyond the broken rail.
+
+“Calvin,” Tín called, wiping his nose with his sleeve. “Your tailor's suffering.”
+
+Rook climbed onto the boom walkway and ran.
+
+Tín followed. The narrow structure extended over the lower passage like a road without a place to stop. Broken rigging hung along one side, knocking against the steel whenever wind caught it. The water below showed patrol lamps and floating bills.
+
+Halfway out, Rook turned with a knife. Tín looked from the blade to the immense crane around them.
+
+“Smaller equipment every time,” Tín said.
+
+Rook lunged. The blade cut Tín's forearm. Tín caught the knife wrist and pressed it onto the rail. Rook kicked his calf. His knee bent, and Rook drove a shoulder into him.
+
+The rail broke behind Tín's hip. Both men tipped toward open air.
+
+Tín caught an overhead brace with his cut hand. Rook hung against him, one foot hooked around the walkway's lower bar. The knife dropped into the harbor. Tín drew them upright, put Rook against the boom, and hit his chest twice. When the man folded, Tín caught his shirt and turned him onto both knees.
+
+“Enough,” Rook gasped.
+
+Tín stood over him. The word was easier to pronounce, apparently, when there was no Nail left to spend it for him.
+
+“Look down,” Tín told him.
+
+Rook gripped the grating. Tín took one ankle and lifted. The hands tore free. Rook swung upside down beyond the broken rail with his tie hanging toward the water.
+
+His shout cut through the engines below. Loose money fell from his pocket. One shoe slid halfway off; he curled his toes to keep it, suddenly attentive to a possession smaller than a waterfront.
+
+Tín held him still.
+
+“Look,” Tín said.
+
+The barge had turned in the basin. People watched through its lit windows. Farther away, ordinary kitchen lights remained on above Bell Street, where families had spent an evening waiting for someone to return.
+
+“Put me up,” Rook said.
+
+“You wanted an audience,” Tín reminded him.
+
+Rook tried to lift his head. Blood ran toward his forehead. “I'll pay.”
+
+“For what?” Tín asked.
+
+“Everything,” Rook said.
+
+Tín waited. His palm hurt around Rook's ankle. He didn't adjust his grip.
+
+“The boat,” Rook began. “The pier. All the hospital bills.”
+
+“And the shop windows,” Tín added. “The trucks. Mateo’s wedding.”
+
+“Yes,” Rook said.
+
+“Your men leave Bell Street,” Tín continued. “Your boats leave its water.”
+
+Rook agreed to each. His hands opened and closed in the air.
+
+Tín looked at the loosening shoe. “You're losing that.”
+
+Rook made a desperate little movement with his foot. Tín lifted him back over the rail and set him on the walkway. The man curled around his shoe, holding it as if he finally understood one thing he owned.
+
+Tín crouched beside him. “Payment doesn't cancel what the police want.”
+
+Rook shut his eyes. “I know.”
+
+Tín helped him upright and folded an arm behind his back. They moved slowly toward the platform. Once Rook nearly stepped through the broken rail; Tín hauled him back without comment.
+
+At the intact second ladder, the bandaged crane operator waited with an officer. He looked past Rook toward the empty cables.
+
+“The span?” the operator asked.
+
+Tín pointed to the staging pad. The operator stared, then laughed once and covered his mouth.
+
+“You put it back,” the operator said.
+
+“Near enough tonight,” Tín replied.
+
+The officer took Rook, secured his wrists, and checked the route below. Rook looked back before descending.
+
+“You could have taken fifty thousand,” Rook said.
+
+Tín wiped his chin. “I did.”
+
+The operator turned away making a sound he unsuccessfully disguised as coughing.
+
+Tín stayed until they reached the repair barge safely. The energy holding him together began leaving in unpleasant installments. His hands shook when he opened them. His calf refused the first step toward the ladder.
+
+Across the water, Marcus's microphone cracked.
+
+“Grandmaster,” Marcus announced, “your wife says get your ass down.”
+
+The officer below looked up. “Official enough for me.”
+
+Tín began descending. He had to stop once and place the reluctant foot deliberately on the next rung. At the bottom, Duke held out both hands. This time Tín accepted them.
+
+Duke guided him into the wheelhouse seat and brought water and cloth. “Sit.”
+
+Tín obeyed. “Learn that from Rosa?”
+
+“Everyone uses it on me,” Duke said. “I wanted a turn.”
+
+Duke screwed the cap off the water bottle before giving it to him. Tín had begun reaching for it with both injured hands; Duke saw and made the little task unnecessary. Tín drank, rinsed his mouth, and spat over the side.
+
+“Any more of him?” Duke asked, looking toward the crane where officers were bringing Rook down.
+
+Tín wiped his chin. “Not tonight.”
+
+Duke nodded. He didn't announce victory. He checked the line at the fender, returned to the controls, and waited while the patrol officer below signaled that they could leave.
+
+Tín rested his hands open on his knees. The tug engine vibrated through the seat into every bruise. He could have stood above a crowd receiving applause a few minutes earlier. Now he watched a man he had put onto a bowling return carry out the ordinary steps needed to get him back to his wife.
+
+Before they left, the operator came alongside in a workboat with heavy gloves and the FORTY TONNES board. He offered the gloves first.
+
+Tín showed his torn palms. “Late.”
+
+“I know,” the operator said, then handed him the board. “Crew wants you to have this.”
+
+Duke looked at it. “Where?”
+
+“Over the refrigerator,” Tín answered.
+
+Mercy's Cousin crossed to the River Queen. Bích waited at its rail with a blanket around her shoulders, the red apron beneath it, and her ladle still in hand. Tín stood when the fenders touched. Everything hurt. He crossed anyway.
+
+Bích put down her cup and held his face between both hands. She inspected the blood, the swelling, the new cuts. Then she pressed her forehead to his.
+
+“You’re late,” Bích said.
+
+“There was traffic,” Tín answered.
+
+She laughed once, very close. Then she pulled him inside. Hương had towels ready, and Hòa had found a chair broad enough to accommodate whatever remained of the morning.
+
+## Chapter 24: The Afterparty Has Stitches
+
+The emergency nurse pointed at a chair. Tín sat before the gesture was finished.
+
+Bích watched with interest. “You should visit our house.”
+
+By the early hours of Saturday, the hospital had filled with people from the harbor. Some needed treatment; some needed to see the people receiving it. A man by the desk held a bag of shoes and kept asking who belonged to them. Ruth had lost her hat but saved its silver birds in a paper cup.
+
+The nurse cut away Tín's shirt. Bích authorized the removal of every scrap before Tín could begin mourning it.
+
+“Any sentimental value?” the nurse asked, holding up a sleeve.
+
+“Already examined,” Bích replied.
+
+Tín watched it fall into the bin. His hands rested open on his knees while the nurse cleaned the torn palms. Each touch tightened his jaw. Carrying the bridge had allowed him to think about something else; now there was only a bright room, a small patch of skin, and a woman insisting on cleaning all of it.
+
+The doctor came in with a chart and a firmly clipped pen.
+
+“Seventy?” the doctor asked.
+
+“Since a week ago Monday,” Tín said.
+
+Bích looked at the dressings. “He's been celebrating excessively.”
+
+The doctor looked at his ribs, arm, calf, hands, and face. “What started this?”
+
+“We bought a refrigerator,” Bích said.
+
+The pen stopped. The doctor looked at Tín.
+
+He supplied the longer version. She examined his breathing and sent him for pictures of his ribs and leg. At the bridge span, she asked him to repeat himself. Two reflective jackets appeared in the doorway; the bridge workers nodded solemnly when she looked at them.
+
+“Harbor accident,” the doctor decided, writing.
+
+“Plural,” Bích added.
+
+They cleaned the wounds properly and stitched the deeper cuts. Tín watched the needle and asked whether smaller equipment existed. The doctor said this was the small equipment. Bích laughed into her cup.
+
+The nurse asked him to open his hand. Tín did. His fingers tried to close again when the gauze touched the deepest tear.
+
+“Keep it there,” the nurse said.
+
+Tín held the palm flat. Across the room Bích lifted her own hand, palm upward, and looked at him until he stopped trying to improve the procedure.
+
+“How much weight were you holding?” the doctor asked.
+
+“The board's outside,” Tín said.
+
+“I'd like the patient to answer,” the doctor replied.
+
+Tín looked at Bích. She made no attempt to rescue him.
+
+“Forty tonnes,” Tín answered.
+
+The doctor kept her eyes on the wound she was examining. “And you decided that was suitable work for an arm already burned and cut?”
+
+“There were people underneath,” Tín said.
+
+The doctor nodded once. “They’re here now. So are you. Let us finish our part.”
+
+Tín let his shoulders settle. Bích brought the cup to his uninjured fingers, and he drank before returning his hand to the nurse. The little room held no reason to hurry anymore. He had to learn that each time someone approached with another piece of equipment.
+
+Afterward, a gown exposed his back. He objected. The nurse gave him another to wear in reverse over the first, and Bích tied it herself.
+
+“You look handsome,” Bích told him.
+
+“You’re being cruel,” Tín answered.
+
+“I’m being married,” Bích corrected.
+
+They kept him for observation. During a permitted journey down the corridor, he found Boots in bed with his arm wrapped and his ruined shirt bagged beside him. Loretta sat near his feet, her eyes red and her expression daring anyone to mention it.
+
+“He said you were useful,” Loretta told Boots as Tín entered.
+
+Boots smiled toward the door. “My brother.”
+
+“And concerned about a sandwich,” Loretta added.
+
+Boots closed his eyes. “Brother.”
+
+Tín placed the black bag on the bedside table. The sandwich remained in its paper wrapping beneath Bishop's scarf. Boots opened an eye and looked at it.
+
+“You brought it,” Boots said.
+
+“I made a promise,” Tín told him.
+
+Loretta inspected it and set it within reach of the good hand, pending permission from a nurse. Boots caught her fingers before she withdrew them.
+
+“I'm here,” Boots said.
+
+Loretta's mouth tightened. “You keep making noise. I noticed.”
+
+She leaned down and kissed his forehead. He held her hand against his cheek. Tín stayed by the door while Duke waited beside him in Rosa's jacket.
+
+“He’ll keep the arm,” Duke said quietly. “The doctor told us.”
+
+Tín nodded twice before he trusted the first nod had happened.
+
+“Breathe,” Duke told him.
+
+Tín did. It hurt, but air came in.
+
+In Mateo's room, Denise was explaining the bridge to a husband who doubted forty tonnes until Tín appeared wearing two hospital gowns.
+
+“They didn't exaggerate the clothes,” Mateo said.
+
+Denise hugged Tín carefully between the injuries, then pointed him toward a chair. Rosa brought coffee. Bình followed, his shoulder checked and sling restored. He stood at the window holding his cup.
+
+“Nail's dead?” Bình asked.
+
+Tín looked at him. “Yes.”
+
+The room grew quiet. Bình looked across the hall toward Boots, then at Mateo's raised leg.
+
+“He never paid the other fighters,” Bình said. “Thought I'd like hearing it.”
+
+Tín waited.
+
+“Tired,” Bình said finally. “That's all.”
+
+Tín indicated the empty chair. Denise gave Bình a pillow. He sat, balanced his coffee carefully, and let the room resume around him without having to perform gratitude or anger.
+
+By morning, gifts required a cart. Arturo sent soft shoes with soles intended for ordinary walking. Vân sent groceries so the new refrigerator would not become lonely. There were replacement shirts, hats, flowers, cigars Tín didn't smoke, and a card from the father whose little girl Mai had carried through the fire.
+
+The card contained five hundred dollars. Tín read the message twice, asked Hương to return the money, and kept the card.
+
+“He'll argue,” Hương said.
+
+“Spend it on her,” Tín told Hương to tell him.
+
+Ruth arrived with Ellis, the saxophonist, and a plan for music that evening at the old excursion landing in the eastern basin. Bích already knew. Hương already had a basket. Loretta already knew who would bring chairs.
+
+Tín looked at them. “Strong committee.”
+
+The doctor returned during their discussion and studied her patient.
+
+“Party?” the doctor asked.
+
+Tín indicated the women.
+
+“Good,” the doctor said. “You can sit at it.”
+
+This time Tín listened through all her instructions. Bích noticed and let him finish without a joke.
+
+When the room emptied, Hòa remained at the window with the bridge crew's board turned against the wall. A bruise crossed his palm.
+
+“Was that the bollard?” Tín asked.
+
+Hòa glanced at the mark. “It moved.”
+
+“I saw,” Tín said.
+
+Neither spoke for a moment. Beyond the doorway, someone argued with Marcus about a hospital rehearsal. Hương joined the discussion; it ended quickly.
+
+“You’ve been keeping busy,” Tín said to his son.
+
+Hòa set down the board. “I have a family.”
+
+He straightened the blanket over his father's feet and brought the water within reach. Tín looked at his hands, then at his face.
+
+“Sleep,” Hòa told him.
+
+Tín closed his eyes. Bích sat beside the bed and held the fingers that weren't bandaged. He slept with her hand still there.
+
+## Chapter 25: Rook Signs the Receipt
+
+Iris placed a white envelope on the table in the hospital's small meeting room. Tín sat opposite her with Bích's permission: the doctor hadn't released him, so any meeting would have to involve other people doing the traveling.
+
+Sable stood by the window. Vega waited at the door. Rook's lawyer balanced a briefcase on his knees as though it provided protection.
+
+“This is an initial payment,” the lawyer said.
+
+Tín looked at the envelope. “Number aloud, please.”
+
+“Two million dollars,” the lawyer replied.
+
+From the corridor came Boots's involuntary appreciation, followed by Loretta telling him to stop listening. Vega went out and moved their wheelchairs farther down the hall. When she returned, the lawyer had adjusted his tie twice.
+
+Tín examined the check and the list of damaged property and medical expenses. Sable read everything more slowly. When she asked about the tug, the lawyer produced another document.
+
+“Duke will enjoy the extra page,” Sable said.
+
+Iris looked exhausted. Rook remained under guard elsewhere in the hospital. Tín had heard enough from Vega to know his accounts and deliveries were being examined; this money could repair things without making those questions disappear.
+
+“He wants five minutes,” Iris told Tín.
+
+Bích appeared at the doorway. “He said ten at the cinema.”
+
+Tín looked up. “That was me.”
+
+“I’m establishing a standard,” Bích replied.
+
+Vega allowed five, with witnesses. The nurse insisted on a wheelchair. Tín looked at its plain gray frame and remembered the red machine Rook sent to the garage.
+
+“Calvin bought a nicer one,” Tín told Bích.
+
+Bích pushed him faster. “Order in advance next time.”
+
+Rook sat propped in a private room with one wrist cuffed to the bed rail. A dressing covered his eyebrow. Bruises spread above his open collar. He saw the wheelchair and nearly smiled.
+
+“Don't become hopeful,” Tín said.
+
+The smile disappeared. Bích parked the chair beside the bed. Vega stayed at its foot. The lawyer found a place near the wall.
+
+“You received it,” Rook said, looking at the envelope.
+
+Tín nodded.
+
+“My daughter handles the remainder,” Rook continued.
+
+Iris spoke from the door. “Legitimate accounts. Explain the other ones yourself.”
+
+Rook looked away. Tín inspected the signature again.
+
+“Your signature’s neater sitting down,” Tín observed. “Much better than upside down.”
+
+Rook shut his eyes. “Must you?”
+
+“I’ve paid for entertainment,” Tín said. “I’d like to receive it.”
+
+Bích touched his chair. “Five minutes.”
+
+Rook opened his eyes and warned him that winning one fight didn't mean owning a waterfront. The route was worth more than the barge, he said. Other men would come.
+
+Tín put the check away. “Send them the photographs.”
+
+Vega shifted slightly. Tín continued before the meeting could become another performance.
+
+“You have businesses away from Bell Street,” Tín said. “Keep your people there. Duke works the tug. My wife works her kitchen. The people whose homes and shops you attacked decide for themselves when they're done being angry.”
+
+Rook turned toward Bích. “Mrs. Lê—”
+
+“No,” Bích said.
+
+He stopped.
+
+“Pay for what you broke,” Bích told him. “The amount doesn't buy a conversation with me.”
+
+She turned Tín's chair toward the door. He let her. Iris stepped aside as they passed and followed them back to the meeting room, leaving the lawyer with her father.
+
+Sable held up the tug paper. “Mercy's Cousin. Official.”
+
+Tín settled in his chair. “Duke works quickly when encouraged.”
+
+“Rosa encourages him loudly,” Sable replied.
+
+Iris closed the door behind her. For a moment she stood without anything to hold.
+
+“Selling the eastern office,” Iris said.
+
+Vega looked up.
+
+“After,” Iris clarified. “After your people finish. I don't want his desk and a lifetime explaining the smoke.”
+
+Sable folded the paper. “Desks exist without his name.”
+
+Iris looked at her. “You found one.”
+
+“Years learning the bad ones,” Sable said.
+
+Iris turned back to Tín. “You pulled me down when the captain fired. You knew who I was.”
+
+Tín remembered her first formal introduction, the envelope on his bar, the men choosing their positions. “You made sure I knew.”
+
+Iris smiled faintly, then stopped. “Thank you.”
+
+Tín nodded. “Tell Vega what you saw.”
+
+“I am,” Iris said.
+
+She left with the detective, carrying none of her father's documents. Bích took Tín's envelope and put it flat in her bag before he could find another audience for the check.
+
+Sable placed a smaller envelope on the table.
+
+“Wages,” Sable said. “Rook kept moving them into next month. I took this out of the chest before giving you the rest.”
+
+Bích looked directly at her. Sable met the look.
+
+“Telling you now,” Sable continued, “because I want a place where I don't have to do it again.”
+
+Tín considered the woman who knew every door Rook preferred shut. She had shown him the route, called Vega before the cannery, and helped keep the boat working. She had also kept the accounts while stolen crates passed beneath Duke's dance floor. The new envelope didn't make the old ones innocent.
+
+He asked the amount. Sable gave it without lowering her eyes. Tín pushed the envelope back.
+
+“Only wages?” Tín asked.
+
+Sable nodded. “The months I can show. The pages are in my ledger.”
+
+Bích sat opposite her. “Bring those pages. We'll keep a copy of what you say was yours.”
+
+Sable touched the envelope but didn't take it yet. “I should have told you at the pier.”
+
+“Yes,” Bích said.
+
+Sable's fingers stopped. Tín let the word remain without softening it. She had helped them, and she had withheld something they needed to know. The two facts could sit at the same table.
+
+“There was always another explanation,” Sable said. “A repair. A late customer. A delivery that mattered more than the wages. I learned to keep my own total.”
+
+“Keep it,” Tín told her. “Tell us the total before you take it next time.”
+
+Bích pulled the tug document away from the edge where Tín's water cup might reach it. Sable watched the practical movement and drew the smaller envelope toward her.
+
+“I want to know what the work is,” Sable said. “Before I agree.”
+
+Bích nodded. “Then we begin there. Boats, kitchen, staff. No mysterious boxes. If a man wants something without an invoice, he can explain himself while I finish eating.”
+
+Sable laughed once, quietly. Tín could hear the exhaustion in it more than the amusement. Bích waited until it passed before asking which day she could bring the ledger.
+
+“We agree the pay before the month begins,” Tín said.
+
+Sable turned to Bích. “I'd prefer not to have to find it in someone else's chest.”
+
+“Then come to me before you need a chest,” Bích answered.
+
+Sable released a breath and picked up the envelope.
+
+In the corridor, Bishop waited with clothes. Boots had been permitted the rescued sandwich and was eating it under Loretta's close supervision. Duke stood beside them wearing Rosa's jacket like a qualification.
+
+Bishop opened his bag: plain shirt, loose trousers, soft shoes, and a gold-colored sash. Tín lifted one corner. Bích took it away.
+
+“No,” Bích said.
+
+“Came with the crown,” Bishop explained.
+
+“Return half the kingdom,” Bích told him.
+
+Boots laughed and immediately held his wounded arm. Loretta steadied his cup and advised him to laugh on the other side.
+
+Tín looked from the rejected sash to the guarded sandwich, the new tug captain, and his wife with two million dollars flat in her bag. He smiled. Bích saw it.
+
+“What?” Bích asked.
+
+Tín took her hand on the chair handle. “Good refrigerator next time.”
+
+Bích bent close. “No next time.”
+
+She kissed his cheek, then wheeled him toward the bed he was still required to occupy.
+
+## Chapter 26: Nobody Bought Enough Chairs
+
+The festival opened before the hospital released its advertised attraction.
+
+Tín heard Marcus on a hallway radio promising food, recovered music, and a special appearance from the Grandmaster as soon as he had finished being medically admired.
+
+Bích folded the clean clothes on the bed.
+
+“Charging admission to stitches,” Tín said.
+
+“No admission,” Bích reminded him. “Agreed.”
+
+Marcus's radio voice added photographs at reasonable prices. Bích paused in her folding.
+
+“I’ll discuss reasonable with him later,” Bích said.
+
+The doctor checked Tín's dressings once more before letting him leave. Hòa drove the family sedan; Hương sat beside him with food in her lap because traveling from a hospital to a food festival apparently required provisions. Tín sat behind them with Bích, grateful for every inch of the soft shoes.
+
+Bell Street people came out as the car passed. Arturo rang a bicycle bell mounted on his red chair. Vân waved a towel. The bus driver held up Tín's transit pass, recovered after the market and entrusted to him for safekeeping.
+
+Hòa stopped. The driver passed it through the window.
+
+“Still covers refrigerators,” the bus driver told Tín.
+
+Bích leaned across. “He’s retired from delivery.”
+
+“Tell the city,” Tín added, raising his bandaged hand.
+
+At the eastern basin, the excursion landing had become a fairground. Food stalls left a broad clear path to the River Queen. Its new glass reflected afternoon light. Temporary boards covered the skylight. Mercy's Cousin waited beside it with Duke's uneven letters outlined in gold and a tiny family tree tied below them.
+
+Rosa inspected the decoration. “Making it official?”
+
+Duke offered her coffee. “The paperwork agrees with me.”
+
+Marcus saw the sedan stop and announced Tín's arrival. The applause followed him from the open door toward the gangway. People began to reach for his hands, saw the dressings, and changed their greeting into careful touches or bows. Tín returned them as far as his ribs allowed.
+
+A small boy stood near the rail with a toy crane. One wheel had come off.
+
+“Mine broke too,” the boy told Tín.
+
+Hòa took the wheel, crouched, and pressed it back onto its axle. He tested it across his palm and returned the toy.
+
+The boy stared at Hòa. “You do it too?”
+
+“Small jobs,” Hòa said.
+
+Tín watched his son stand and continue inside without looking for anyone else's reaction.
+
+The ballroom had become a place people could move through without climbing over knees. Hương's fabric concealed the damaged wall. Wedding flowers stood in jars. The organ shone beneath its polished cover while Ellis adjusted the temporary pipes.
+
+Ruth took Tín’s arm. “You look less alarming. I’m pleased.”
+
+“Threw away the shirt,” Tín said.
+
+“Excellent hospital,” Ruth replied.
+
+Ruth didn't hurry him across the ballroom. A customer rose to move his chair, then tried moving the table too, making the passage worse. Sable caught its far edge and shifted it back into line. Tín waited until the man sat, thanked him, and continued.
+
+“People have forgotten how doors work,” Ruth told him.
+
+Tín glanced at the open gangway. “I've contributed.”
+
+Ellis looked up from the console as they passed. “Try nothing. I've tuned it.”
+
+Tín kept both hands where the technician could see them. The saxophonist raised his instrument in greeting without beginning a flourish. Tín smiled at that restraint; he remembered the silent corner outside the laundry and was glad the man had chosen to play here again.
+
+Near the food counter, Hương had fastened a piece of her fabric over the scorched section of wall. It was high enough to stay clear of the serving hatch, low enough to make the room look finished. Bích inspected its lower edge, tugged once, and left it exactly where her daughter-in-law had put it.
+
+Hương saw her and raised an eyebrow.
+
+“Good,” Bích said.
+
+Hương smiled and handed her a clean apron. The exchange took less time than Tín needed to cross the last few feet to his chair, but it made the room feel settled in a way the new glass hadn't quite managed.
+
+Ruth led him to a broad chair beside the stage. Water, tea, fruit, and a cushion waited. Above it hung FORTY TONNES.
+
+“I said refrigerator,” Tín told Mai.
+
+Mai lifted her camera. “We considered traffic.”
+
+Marcus approached with the crown. Bích held up one finger. Mai matched it. Marcus put the crown on Tín, the flash went off, and Bích removed it before the applause finished.
+
+“One,” Bích said.
+
+Marcus went to adjust a microphone far from her.
+
+People came in small groups. Mr. Chen brought fine paper for Mai. The cinema manager brought the annual pass in a frame. The furniture-store owner counted chairs occupied correctly and reported an excellent morning's sales.
+
+“Buy food then,” Tín told him.
+
+The man showed three stall tickets. “Investigating competition.”
+
+The little girl from the fire arrived with her father. He had accepted his returned money and brought a paper bag instead. The girl removed a framed drawing. It showed a crowned man holding something above boats. The bridge had windows and a chimney.
+
+“You gave me a house,” Tín said, taking it carefully.
+
+The girl nodded. “Bridges need more rooms.”
+
+Tín laughed. When they left, Bích indicated the drawing.
+
+“That goes over the refrigerator,” Bích said.
+
+From the open window Tín watched Duke take short trips around the basin. Rosa accompanied the first two. For the third she stayed ashore while an experienced deckhand went aboard. Duke concentrated so hard he forgot to look impressive. He returned to the fenders just below Tín's window without scraping anything.
+
+Rosa caught the line. Duke came down from the cabin and waited for her verdict.
+
+“Arrived where you meant,” Rosa told him.
+
+“High praise,” Duke said.
+
+“Don't get greedy,” Rosa replied.
+
+Duke leaned beside her. “Have dinner with me?”
+
+Rosa looked toward the stalls. “Paying?”
+
+“I still have money,” Duke said.
+
+“After the boat?” Rosa asked.
+
+Duke straightened his cap. “Lost a barge. Acquired an education.”
+
+She smiled and took his arm. They went toward Bích's stall. Tín turned from the window to find his wife watching him.
+
+“He may survive,” Tín said.
+
+“Rosa will decide that,” Bích answered.
+
+Sable was already running the bar. When a customer tried opening a tab under Tín's name, she pointed at his chair beneath the weight board and suggested asking him. The customer chose cash. Bích gave Sable a small nod.
+
+Outside, Bishop's men cleared plates and carried tables. Wade supervised chairs under Vân's continual improvement of his technique. Bishop stood at the quay's end watching them before coming aboard.
+
+“They're good at this,” Bishop told Tín.
+
+“Tell them,” Tín said.
+
+Bishop watched Wade open a chair for an elderly woman. “They'll ask for money.”
+
+Tín smiled. “You have Rook's hundred thousand.”
+
+Bishop sighed and went back outside, perhaps to discover how much respect could be purchased by paying people for actual work.
+
+At four, the band began its first full song. It had worked through smoke, broken speakers, and a half-built organ. Now it had an afternoon and enough people to hear it.
+
+Bích sat beside Tín. For one entire song, nobody brought them a problem. They held hands beneath the table and listened.
+
+## Chapter 27: The Bride Comes Back
+
+Mateo arrived in a wheelchair flying a green Little Mercy pennant. Denise pushed him up the gangway in a new cream dress, while he told each person who looked at the chair that it was temporary.
+
+“Marriage too, if you keep announcing it,” Denise told him, then kissed the top of his head.
+
+Rosa met them halfway. Mateo said the hospital had finally given him trousers. Rosa agreed that this improved the day for everybody. Hương waited at the ballroom door to inspect the hem she had finished while supposedly resting.
+
+Hương touched the new sleeve, checking that Denise could reach comfortably around Mateo's chair. Denise lifted both arms and turned once more, obliging the inspection with exaggerated solemnity.
+
+“I'm keeping the first one,” Denise told her. “The wedding dress.”
+
+Hương looked up. “I can mend the lining.”
+
+“Please,” Denise said. “But don't make it look as though nothing happened. Somebody will claim I exaggerated.”
+
+Mateo looked down at the bandage beneath his trousers. “I can provide supporting evidence.”
+
+Denise put one hand on his shoulder. “You'll remain seated evidence.”
+
+Tín watched Hương nod. She didn't argue about what could be removed from the cloth. She asked where the folded dress was and said she would come by when Denise had time. There would be ordinary visits to the couple's home now, work discussed at a table, hems examined without a boat trying to pull them apart. Tín let himself picture that while the women finished checking the sleeves.
+
+Denise turned once more for Hương. “May I eat now?”
+
+“Carefully,” Hương said, then embraced her.
+
+Tín started to rise. Bích placed a palm against his chest and he returned to the chair.
+
+Mateo watched with satisfaction. “Even you get parked.”
+
+“We have a club now,” Tín said, indicating both chairs.
+
+“Membership fees?” Mateo asked.
+
+Marcus appeared with interest. Bích, Denise, and Rosa answered him together before he could explain the opportunity.
+
+“No,” Bích, Denise, and Rosa said together.
+ 
+
+Bích brought plates. For a while the couple ate beside Tín without speeches or announcements. Mateo closed his eyes over the first mouthful.
+
+“Should have started with this,” Mateo said.
+
+“You wanted the lighthouse,” Denise reminded him.
+
+“I made several ambitious choices,” Mateo admitted.
+
+Denise took his hand. “One married you.”
+
+He kissed her fingers beneath the table. Tín looked away just long enough to let them keep it private.
+
+Rosa brought the cake aboard with two men escorting it. It had survived every emergency in her shop refrigerator. Its icing leaned, the little bride lacked an arm, and frosting across the groom's painted face made him resemble Mateo after surgery.
+
+Denise inspected the figures. “Accurate.”
+
+Mateo nodded. “Leave them.”
+
+Frank appeared carrying his blue folder. Denise raised a finger before he opened it.
+
+“Already married,” Denise reminded him. “No reading.”
+
+“Your aunt keeps asking,” Frank said.
+
+Denise pointed to the older woman by the window. “Read to her.”
+
+Frank considered this solution, then took a chair beside the aunt. Soon Tín could hear his quiet voice while she listened with her hands folded over her bag. The unused page finally found its proper audience.
+
+Marcus offered Denise the microphone. She looked around the room, then down at Mateo.
+
+“Thank you for coming back,” Denise said.
+
+She gave the microphone away. The applause came gently. Mateo wiped his eyes and blamed the hot food. Nobody corrected him.
+
+The band began the song from the tug. Denise stood beside the wheelchair and took both her husband's hands. He rose on his good leg with her help and leaned against the table while she held him. They moved only a little, but the people nearby made room as though the whole floor belonged to them.
+
+At the door, Duke offered Rosa his arm. She examined the arm, then the floor.
+
+“No showing off,” Rosa said.
+
+“Lost my best chance at the bowling alley,” Duke told her.
+
+“You keep finding smaller ones,” Rosa replied, and let him lead her into the music.
+
+Tín turned to Bích. She shook her head before he asked.
+
+“When standing stops being an argument,” Bích told him.
+
+He leaned back. It was a discouragingly precise condition.
+
+Mai photographed the newlyweds, Rosa and Duke, and Frank reading to the aunt. Then she stopped before her grandparents. Bích leaned against Tín. He put his good arm around her and prepared a dignified expression.
+
+“No burial smile,” Mai warned.
+
+Tín laughed. The shutter clicked.
+
+Mai lowered the camera. “That one.”
+
+“How do you know?” Tín asked.
+
+“I was looking,” Mai said.
+
+She stayed a moment, checking the remaining film by the counter rather than opening the camera. Tín watched the practiced movement. A few weeks earlier she would have shown him the equipment while explaining what she hoped to do. Now she was choosing when to move, when to wait, and what belonged inside a frame.
+
+“Did you get your grandmother looking pleased?” Tín asked.
+
+Bích pressed her shoulder against his. “She can choose a different moment if you keep talking.”
+
+Mai smiled. “I got her looking at you.”
+
+Tín looked at his wife. Bích met his eyes calmly and adjusted the edge of the tablecloth where his bandaged hand had caught it. Mai took no second picture. She had already lowered the camera, and Tín liked that she could leave an instant alone after finding the one she wanted.
+
+She found Marcus explaining to a visitor how much labor it took to make an event look spontaneous. Mai stood beside him until he noticed, then took his hand.
+
+“You missed the best part,” Mai told him, and pulled him onto the dance floor. For once he followed without naming the occasion.
+
+Loretta arrived later with a note from Boots, still in hospital another night. His version of the terminal fight apparently grew with every nursing shift. Tín unfolded the paper.
+
+TELL THEM I SAVED THE SANDWICH occupied the first line. Beneath it, smaller: Glad you home, brother.
+
+Tín read the second line twice and put the note in his pocket.
+
+“We’ll take him some cake,” Tín suggested.
+
+“His nurse already said no,” Loretta answered.
+
+“Take it to you,” Tín amended.
+
+Loretta smiled. “Legal.”
+
+Ruth, Ellis, and the saxophonist came to discuss which organ parts needed a workshop and which could remain for performances. Ruth wanted music at her pier after repairs. Bích wanted enough notice to plan food. Sable wanted dates before posters appeared.
+
+Marcus heard posters across the room and lifted a hand. Mai pulled it down.
+
+Duke tried to defend three early flyers advertising royal excursions. Rosa read one over his shoulder and found a missing letter in cousin. Hòa passed with cups, stopped, and pointed to it.
+
+“Your family enjoys corrections,” Duke observed.
+
+Hòa smiled. “You provide opportunities.”
+
+Tín laughed until his ribs protested. Bích brought water and waited quietly for the pain to pass, then sat close again.
+
+Outside, children watched the river while adults stood within reach of their sleeves. The tug came and went carrying short rides. Duke returned concentrating; his passengers returned delighted, already revising their memories of him into a man who had always intended to become useful.
+
+Near sunset, Rosa packed several days of food for the newlyweds. Hương laid a blanket over Mateo's lap. Frank gave Denise the blue folder; this time she accepted it, laughing, and tucked it under her arm.
+
+At the door, Mateo turned his chair toward Tín.
+
+“Next anniversary, land,” Mateo promised. “Quiet land.”
+
+Tín glanced at Marcus, who was approaching with an idea. “Don't tell anyone here.”
+
+Denise laughed and took her husband down the gangway. Tín remained in his chair and watched until they reached the car. Nobody ran after them with a weapon. Nobody needed carrying back.
+
+## Chapter 28: Hòa Keeps His Own Hours
+
+On Monday, Duke delivered the bowling safe to Hòa's school. He had painted it blue and put the damaged red ball back in its crushed door, where it fitted far better than any ball should fit a safe.
+
+“Teaching aid,” Duke announced at the loading bay.
+
+Hòa stood with tea in his hand. “Which subject did you have in mind?”
+ 
+
+“Consequences,” Duke replied. “Every school should offer it.”
+
+Tín watched from the passenger seat. Bích had allowed one hour and required Duke to repeat the limit before giving him the soft shoes. Tín's stitches pulled when he turned quickly, so he was learning to turn slowly. He resented the improvement.
+
+At home, Duke had confidently promised to return him by lunch. Bích pointed to the clock. Duke revised his promise to an hour. Bích waited. He repeated the actual time he would come back, and only then did she move away from the doorway.
+
+“She's thorough,” Duke had said once they were in the truck.
+
+Tín settled the seat belt carefully over his side. “You're being trusted with valuable cargo.”
+
+Duke glanced in the mirror at the safe. “Both pieces complain.”
+
+Now he stepped down and gave Hòa the same promised return time without being asked. Hòa looked at the school clock and nodded, leaving Duke no opportunity to discover a more convenient one.
+
+Duke climbed into the truck bed, contemplated the safe, and asked about equipment. Tín raised both bandaged hands from the cab.
+
+“I’m on holiday,” Tín reminded him.
+
+Hòa put his cup on the loading ledge. He climbed onto the platform, reached beneath the safe, and drew it toward him. Duke stepped aside. Hòa lifted it clear, carried it down, and set it against the wall with the red ball facing away from his shirt. Then he picked up his tea.
+
+Duke watched the truck springs settle.
+
+“Should I ask?” Duke whispered to Tín.
+
+The safe had landed without a crash. Hòa's cup hadn't moved from the ledge. Duke looked between those two facts several times. Tín could see him searching for the correct arrangement of astonishment, admiration, and a business proposal.
+
+“He has classes,” Tín said.
+
+“After?” Duke asked.
+
+“He has a family,” Tín answered.
+
+Tín kept his voice mild, but Duke looked back at him and heard the end of the question. The man nodded. Hòa returned from the loading bay carrying only his tea, as though the safe had occupied exactly as much of the morning as it deserved.
+
+Duke closed his mouth. Hòa invited them inside, where there were chairs. Tín complained about everyone's constant offers of furniture.
+
+“You've been hard on theirs,” Hòa told him.
+
+The principal inspected the safe and allowed it in the courtyard if the ruined door could never close on a child's hand. Duke promised to secure it open. She asked about removing the ball.
+
+“Artistic integrity,” Duke began.
+
+The principal looked at Hòa.
+
+“I'll handle it,” Hòa said.
+
+While Duke spoke to the caretaker, Tín sat outside his son's open classroom. Students bent over arithmetic with varying degrees of personal grievance. Hòa moved between them, stopping at a boy whose attention had fixed on the corridor.
+
+“Your father?” the boy asked.
+
+“Yes,” Hòa answered.
+
+“Threw the bridge,” the boy said.
+
+“He moved part of it,” Hòa corrected. “Please finish the problem.”
+
+The boy looked at him. “Could you do that?”
+
+Hòa tapped the unfinished equation. “I can do this. So can you.”
+
+After the bell, several students left slowly. One had a notebook open to a clean page and asked for a signature for a skeptical brother. Tín signed with the pencil held carefully against his dressings.
+
+“Your dad's famous,” the boy told Hòa.
+
+“Strict teacher,” Tín said of his own past before Hòa could answer. The boy laughed and hurried after his friends.
+
+Another student remained by the door pretending to tie a shoe. Hòa glanced down; the shoe had no laces. The student looked up, caught, and asked whether the safe would really stay in the courtyard.
+
+“If nobody puts a hand where it can get trapped,” Hòa said.
+
+“Could you open it?” the student asked.
+
+Hòa pointed toward the damaged door visible through the courtyard window. “That problem seems solved.”
+
+The boy laughed. Hòa handed him the exercise book he had left on his desk. The boy tucked it under his arm and finally went to catch his friends.
+
+Tín watched Hòa erase the board. His son took time over a faint line the cloth had missed. There were perhaps a dozen questions Tín could ask about the trunk, the bollard, and the safe. Hòa gave no sign of being afraid of them. He cleaned the board for the class that would need it next.
+
+When they were alone, Hòa stacked exercise books into a canvas bag. Tín watched him fold its flap.
+
+“You stayed in the trunk after the latch broke,” Tín said.
+
+Hòa looked up. “Yes.”
+
+“You could leave,” Tín continued.
+
+“I could have,” Hòa agreed.
+
+From outside came Duke explaining the safe to the caretaker, who wanted to know whether the bowling alley still operated. Inside, the classroom clock marked several seconds.
+
+“They were shouting,” Hòa said. “I wanted to know what they'd do once they had me.”
+
+“They wanted me,” Tín replied.
+
+Hòa tightened the bag’s fastening. “They chose an indirect way to ask.”
+
+Tín glanced at the door through which the children had gone. “The students were clear by then.”
+
+“Yes,” Hòa said.
+
+“And your mother and wife were waiting for you,” Tín continued.
+
+Hòa set the bag down again. “I know. I should have found a way to call sooner.”
+
+Tín nodded. That mattered more than the explanation he had been preparing to request. Hòa didn't look away from him.
+
+“You worried them too,” Hòa added.
+
+Tín looked at his dressed hands. “Your mother made a detailed report.”
+
+His son smiled, but only briefly. He left the bag on the desk and gave his father time to finish.
+
+Tín rested his hands on his knees. “When did you start keeping so much to yourself?”
+
+Hòa considered him. “When I found work I wanted to come home from.”
+
+Tín nodded slowly. His son lifted the books.
+
+“You know where I live,” Hòa added. “Come for tea. Without a damaged vehicle.”
+
+Tín glanced toward the loading bay. “Duke brought it.”
+
+Hòa smiled. “Improvement.”
+
+Outside, Duke had written a cardboard label: DO NOT CHALLENGE THE TEACHER'S FATHER. Hòa took the marker and added PLEASE FINISH YOUR HOMEWORK. Tín laughed until he needed to hold his ribs.
+
+“Nobody on Bell Street knows normal,” Duke said.
+
+Hòa returned the marker. “You're welcome to practice.”
+
+They reached home inside the hour. Bích checked the clock, inspected Tín's shirt, and rewarded Duke with food for returning the patient in roughly the same condition.
+
+“Rosa gets half,” Bích told him.
+
+Duke inspected the container. “She'll know?”
+
+“I called her,” Bích said.
+
+He went down the steps carrying his supervised generosity.
+
+Mai sat at the kitchen table arranging new prints: the ballroom, the newlyweds, Ruth at the organ, Duke trying to look casual beside Rosa, Hòa carrying cups. She held up the picture of Tín and Bích.
+
+“Home,” Mai said. “This one's for home.”
+
+Tín took it. Bích faced the camera. His own face turned toward her. The dressings showed. Only part of the weight board remained at the top.
+
+“You didn’t get the whole sign,” Tín observed.
+
+“I got the important people,” Mai replied.
+
+She told him Mr. Chen would teach her the presses properly. Tín asked what she had answered.
+
+“Yes,” Mai said.
+
+“Good,” Tín told her.
+
+He placed the photograph on the refrigerator. Bích came to look and leaned against him just as she had in the image. Behind them the compressor hummed: an ordinary machine finally managing to be the least troublesome heavy thing in the house.
+
+## Chapter 29: The Long Way Home
+
+Three weeks later, Bích allowed Tín to walk to the river alone. She came too, because she wanted air.
+
+“You wanted air in the same direction?” Tín asked as she took his arm.
+
+“It's a small street,” Bích replied. “Try not to occupy all of it.”
+
+The stitches were out. His side had closed, though both palms remained tender and a pale line crossed his nose. Arturo's soft shoes made walking agreeable. Tín carried no crown, weapon, or object that required someone following behind to explain it.
+
+Mai called from the house steps. “Home before dinner.”
+
+“Who's making dinner?” Tín asked.
+
+“Dad is,” Mai answered. “He started before you got your shoes on.”
+
+Tín nodded. “Then we'll be punctual. We should encourage him.”
+
+Hòa appeared behind her with a towel. “I can hear the encouragement.”
+
+“Improve accordingly,” Tín called back.
+
+Bell Street's new windows looked unusually clean beside the surviving old ones. Boots's garage had fresh roof panels. The white truck no longer admitted daylight above the driver's head. Its torn steering wheel hung on the wall under ADVANCED DRIVER TRAINING.
+
+Boots sat outside with his recovering arm supported. Loretta brought Bích a cup, and the women stepped toward the salon doorway to discuss a dress and the person who had chosen it without adequate consultation.
+
+“You're walking,” Boots observed when Tín sat beside him. “No vehicle in your hands.”
+
+“I've done it before,” Tín said. “I'm recovering the technique.”
+
+Boots pointed toward the white truck. “No mechanical admiration. I know how it starts.”
+
+A customer emerged, read the steering-wheel plaque, and opened his mouth. Boots sent him to pay for the repair before receiving the story. The man laughed and went inside.
+
+Tín watched Boots shift his arm. “Still hurts?”
+
+“Some days,” Boots said. “Mostly when I forget and try to make that arm do the other one's work.”
+
+“Are you sleeping properly?” Tín asked.
+
+Boots smiled. “Loretta says everybody in the house knows when I do.”
+
+They watched traffic for a while. Then Boots asked whether Tín remembered bringing him a broken fan during the first year in Eastbridge.
+
+Tín remembered its rattle, Hương comparing it to a motorcycle in the bedroom, and Boots pointing out that his sign said auto repair.
+
+“Car with limited ambition,” Tín had called it. That description still amused him.
+
+“Two hours,” Boots recalled. “You sat telling me which screw sounded loose. Should've known.”
+
+“You kept inviting me back,” Tín said. “You can't claim you weren't warned.”
+
+“You brought food,” Boots answered. “I made a calculated decision.”
+
+From the doorway, Bích corrected ownership of the food. Boots raised his good hand and thanked the proper management. She nodded and returned to Loretta's story.
+
+When the couple left, Boots stood for a careful one-armed embrace. Neither man squeezed hard. Both treated this as a matter of excellent taste.
+
+“Tomorrow,” Boots told Tín. “Come by.”
+
+“Something broken?” Tín asked.
+
+“Probably,” Boots said. “Come anyway.”
+
+At Vân's, the birthday banner was gone. In its place hung Tín's photograph and his instruction, PLEASE REFRIGERATE AFTER OPENING, enlarged to sell cold drinks. Vân paid his requested percentage in fruit, identifying a bruised peach as tax. Bích took the bag before the negotiation developed procedures.
+
+Downhill, Pilgrim Slip had new pilings and a half-finished landing. Rook's first payment had become timber, glass, paid medical bills, and workers carrying tools instead of guns. Other claims remained. Sable dealt with the people who wanted numbers on multiple pages; Tín preferred watching those numbers become boards wide enough to stand on.
+
+Rosa and Duke waited beside the repaired gangway. Mercy's Cousin wore clean paint. Its little family tree now had varnish over it, apparently having survived Rosa's appeals to adulthood.
+
+“Around the bend,” Duke offered. “Coming?”
+
+Tín looked innocent under Bích's inspection.
+
+“I didn't arrange this,” Tín said. “You heard him offer.”
+
+“That's usually when it's worse,” Bích replied.
+
+Rosa offered her hand. “I'll supervise. He hasn't hit anything today.”
+
+Bích accepted. Duke helped her down, then waited for Tín. His captain's cap carried no crown. Tín decided maturity and Rosa's influence could share credit without an inquiry.
+
+The tug left smoothly. Rosa nodded once. Duke smiled at the river as though it had personally complimented him.
+
+They passed the River Queen at its temporary landing, open for lunch. Families and workers occupied the tables. Sable stood at the bar listening to a supplier with her pencil poised. She waved from the window.
+
+Marcus leaned from the upper balcony. “Sunday show needs a name!”
+
+Bích cupped her hand. “Lunch!”
+
+Rosa laughed. Marcus stood defeated for a breath, then turned inside to explain his new concept.
+
+The replacement span rested on proper supports again. Inspectors had spent days examining the fall, catch, and landing. Some steel needed replacing before it could enter service. Workers fitted a brace while another crew devoted considerable attention to the lifting cables.
+
+The young operator recognized Tín from beside a workboat. He raised his cap, then held his palms very far apart.
+
+Tín laughed and waved.
+
+“What?” Bích asked.
+
+“Prefers the crane next time,” Tín said.
+
+“Sensible,” Bích replied.
+
+Beyond the lower passage, the basin widened. Bell Street's noise dwindled beneath the engine. Tín offered Bích the unbruised peach. She rubbed it clean, cut it with her little fruit knife, and gave him half.
+
+They ate at the rail while Duke steered.
+
+“You could have bought an ordinary birthday present,” Bích said.
+
+“The refrigerator was ordinary,” Tín replied. “It did exactly what the salesman promised.”
+
+“Then you became involved,” Bích said. “The salesman should cover that in the warranty.”
+
+She looked back toward the barge. She liked the kitchen, she told him. She liked Hương using the upstairs room for fittings and Mai showing photographs. She even liked Duke when Rosa stood nearby.
+
+“Thank you, I think,” Duke called from the wheelhouse.
+
+Bích ignored him. “I don't want every week to be that week.”
+
+Tín studied the scars on his hand. “Neither do I.”
+
+Bích looked at him. “You mean it today. I can tell.”
+
+“Today is available,” Tín said. “Let me begin with that.”
+
+Bích leaned against his shoulder. He put his arm around her. A gull dipped toward a fishing boat's wake, missed its prize, and rose with an indignant cry.
+
+“You,” Bích said, pointing with the peach stone.
+
+“Magnificent?” Tín suggested.
+
+“Loud when hungry,” Bích told him.
+
+They returned before dinner. Duke brought the tug in without a hard touch against the fenders. Rosa secured the line and kissed his cheek as he came down from the wheelhouse. He stopped moving entirely.
+
+Tín looked at Bích. “We’ve lost the captain.”
+
+“Temporary mechanical fault,” Rosa said, taking Duke's hand and pulling him out of the way.
+
+Tín and Bích walked uphill slowly. Cooking reached the gate before they did. Mai sat on the steps with a printshop manual, marking its margins. She closed it, took the fruit bag, and inspected Tín's clean shoes.
+
+“No damage?” Mai asked.
+
+Tín lifted a foot. “Successful expedition.”
+
+Mai bowed solemnly. “Welcome home, Grandmaster.”
+
+Tín bowed as far as his ribs allowed. “You may rise.”
+
+“Already did,” Mai said.
+
+“Advanced student,” Tín replied.
+
+She kissed his cheek and went inside laughing. Hòa met them in the hall with a towel over his shoulder. He looked at the clean shoes and at his mother carrying only her purse.
+
+“Quiet trip?” Hòa asked.
+
+Tín nodded.
+
+“Did you cause that?” Hòa asked.
+
+“I'm learning,” Tín replied. “I thought I'd bring you evidence.”
+
+For a moment he remembered the trunk's twisted latch, the marked bollard, and the safe leaving the truck while his son's tea waited on a ledge. Hòa looked back as though there were time for whatever question his father chose to ask.
+
+Tín put a hand on his shoulder. “Dinner smells good.”
+
+“Sit before it gets ideas,” Hòa said.
+
+Hương brought the final dish. Mai poured tea. Bích inspected the rice and handed Hòa the serving spoon. Tín moved the photograph from the refrigerator to a shelf where they could all see it. Beside it sat the gold-plated crown with a wooden spoon through its center.
+
+Bích met his look. “Useful.”
+
+Tín smiled and sat. Outside, a boat sounded its horn. Boots's garage door rolled down. Somewhere along the street, Marcus explained Sunday lunch as if he had invented the afternoon.
+
+Hòa offered Tín a bowl. Bích touched his wrist before he lifted it.
+
+“Hot,” Bích said.
+
+He waited, blew gently across the surface, and took a mouthful. Then he began telling his family about Duke's new problem with kissing.

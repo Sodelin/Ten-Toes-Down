@@ -1,0 +1,143 @@
+## Chapter 12: Bishop Brings a Choir
+
+Bishop arrived on Wednesday at seven with eleven men, two singers, and a portable organ. Tín had eaten two bowls at six, changed into the shirt Bích selected, and received instructions about where wet shoes were to go afterward. Bishop had apparently used the same hour to arrange a soundtrack.
+
+Marcus watched the singers uncoil their cable. “He brought witnesses with harmonies.”
+
+Loretta pointed them toward the salon outlet and named the price of tripping the dryers. One singer tested the microphone. Feedback tore down Bell Street.
+
+Marcus took it away. “The mood is established. It's electrical distress.”
+
+Neighbors watched from doors, windows, and rows of borrowed chairs. Hương and Bích sat outside the house with tea. Hòa stood behind them beside Mai. Tín took his place in the cleared street opposite Bishop, who opened a bag and set down twenty thousand dollars.
+
+“You win, take it,” Bishop said. “I win, the boat moves tomorrow.”
+
+Tín shook his head. “My wife's stove isn't in your bag.”
+
+Laughter moved among the chairs. Bishop asked for terms through a tightening smile.
+
+“Hospital bill, wedding damage, and your men off Bell Street,” Tín said. He put down fifty thousand of Rook's money as his own stake.
+
+Bishop stared at it. Two of his men exchanged a look.
+
+“Rook enjoyed the last show,” Tín explained. “Didn't he tell you?”
+
+Bishop handed Wade his jacket. Tín gave his shirt to Mai. She folded it carefully, looking at the burn and bandage underneath.
+
+“Come back inside this one,” Mai told her grandfather.
+
+One singer began a low note. Bishop raised his hand.
+
+“After,” Bishop told her.
+
+He attacked before the note fully died. The first punch drove Tín half a step sideways through his guard. Tín caught the second on his elbow and struck Bishop's mouth. Blood brightened the man's lower lip. He wiped it and grinned.
+
+Bishop charged shoulder-first. Tín stepped aside. The folding chair behind him crushed against Bishop's car.
+
+“One,” Vân called, raising a finger.
+
+Tín kicked the outside of Bishop's knee, caught his wrist, and pulled him into an elbow. Bishop dropped onto a hand and swept at Tín's ankles. Tín jumped, landed behind him, and took an unexpectedly quick backward elbow across the cheek.
+
+Blood filled the edge of Tín's mouth. The crowd quieted. Bishop stood and smiled through his own blood.
+
+“Age does mean something,” Bishop said.
+
+Tín gripped his shirt and waistband, raised him overhead, and turned toward the car. For an instant Bishop's shoes hung level with the streetlights. Then Tín set him on the roof hard enough to fold it. Rear windows burst. The trunk popped, spilling a spare hat and parking notices onto the pavement.
+
+“I dislike bending,” Tín explained.
+
+Bishop climbed down, breathing hard, and took a short steel bar from the trunk. Wade moved forward; Bishop ordered him back. Tín waited until the bar descended, caught the wrist, and turned the blow into the street. Concrete chipped. He stamped on the bar, hit Bishop's chest with his palm, and took the released weapon.
+
+Tín bent it around a parking sign, leaving a useful handle. Arturo examined it from his red chair with professional interest.
+
+Bishop fell to one knee, then lunged again. Tín stepped in, caught his chin, and drove him backward onto the hood. Metal buckled beneath his shoulders. Bishop clutched Tín's wrist with both hands and pulled until he understood the difference between being held and being given an opportunity to escape.
+
+“Finished?” Tín asked.
+
+“Finished,” Bishop said.
+
+Tín let go. The singers immediately supplied a triumphant chord. Bishop looked toward them from his dented hood.
+
+“Really?” Bishop asked.
+
+The woman at the keyboard spread her hands. “You paid for a winner.”
+
+The street erupted. Tín recovered his own stake and handed Bishop's twenty thousand to Rosa. She accepted without smiling.
+
+“There'll be more,” Rosa told Bishop.
+
+Bishop nodded. “I'll pay.”
+
+The first rifle crack came from the pharmacy roof.
+
+Tín caught Bishop's collar and threw him behind the car. A second bullet punched the hood where Bishop's head had been. Tín shouted for everybody to get inside. Hòa drew the women through the house door; Mai crawled behind the porch rail with Tín's shirt. Boots overturned a table in front of the singers.
+
+Tín jumped onto the ruined car roof, crossed to the pharmacy awning, and tore its outer edge upward. The shooter turned toward him. Metal folded over the gunman's legs; the next shot went into the sky.
+
+Tín hauled himself over the roof edge and kicked the rifle away. The man drew a knife. Tín struck him in the face. His head hit the brick vent behind him, and he fell forward.
+
+Tín knelt. He checked the neck, waited, checked again. Nothing moved beneath his fingers. The fight below had been noisy and public and survivable. This man's body ended its part without an audience close enough to see the difference.
+
+Tín stood, broke the rifle, and dropped its pieces into the cleared street. Then he climbed down and went directly to the house. Mai offered his shirt. Bích nodded from behind her. Hương held Loretta against her side. Everyone in the doorway was breathing.
+
+Mai had kept the shirt folded despite crawling with it across the porch. Tín put his uninjured arm through first. She held the other sleeve open so it didn't drag over his burn. Neither spoke until the collar was in place.
+
+“You're all right?” Tín asked her.
+
+Mai nodded, then looked toward the roof. He could see the question forming. There was no reason to give her a clean lie while the police would arrive to collect an untidy truth.
+
+“He's dead,” Tín told her quietly.
+
+Her fingers loosened on the shirt. Hòa came beside her and put his hand on her shoulder. Tín buttoned the front himself, slowly, and waited until she looked at him again.
+
+“He was still reaching,” Tín said. “I hit him. It ended there.”
+
+Mai nodded once. She didn't tell him it was all right. He didn't ask her to.
+
+Across the street, the singers picked their way around the overturned table. Boots held it steady while they recovered cables. Vân called from her doorway to ask whether the people inside could come out. Hương answered that they should wait for the officers to check the roof and street. The practical work of getting everyone safely home resumed around the place where a man would not.
+
+Bishop approached from the car as Tín dressed.
+
+“That shot was for me,” Bishop said. “Rook told me the burns had finished you.”
+
+Tín touched his split lip. “He should find a better doctor.”
+
+Bishop looked back at the hood's bullet hole. Then he took off a heavy ring with a red stone and held it out.
+
+Tín shook his head. “I don't want to marry you.”
+
+“My word,” Bishop said.
+
+“Speak it,” Tín told him.
+
+Bishop closed his hand over the ring. “My people leave the street alone. Rook asks again, he gets tonight's bill.”
+
+Rosa stepped beside him. “Mateo too. Everything.”
+
+Bishop nodded. Behind him, the singers emerged from cover, one missing a shoe. Boots found it beside the keyboard and presented it with a bow.
+
+“Still paid?” the singer asked Bishop.
+
+“Yes,” Bishop said.
+
+“Hazard pay?” the singer added.
+
+Bishop looked at Tín. Tín indicated the microphone stands and broken glass.
+
+“You hired professionals,” Tín reminded him.
+
+Bishop paid. Police sirens approached while cables were collected and chairs returned to the pavement. Bích brought tea to the people sheltering in her house, then sat beside Tín on the steps.
+
+Vega arrived with officers who went to the pharmacy roof. Tín gave her his account away from the nearest chairs. She listened, asked where the knife had fallen, and wrote it down. Bishop stood near his damaged car waiting for his own interview, the ring still closed inside his fist.
+
+“You can put that back on,” Tín told him when Vega turned to an officer.
+
+Bishop looked down as though he'd forgotten it. “Wasn't much use.”
+
+“You spoke,” Tín replied. “Rosa heard you.”
+
+Bishop glanced at Rosa, who was already writing something on a piece of paper. He put the ring on and approached her. Whatever he had intended to buy when he hired singers for the evening, he now had numbers to discuss and a witness who wouldn't be impressed by his cane.
+
+“Dinner was good,” Tín told her, drinking carefully.
+
+Bích inspected his lip. “Tomorrow, soup.”

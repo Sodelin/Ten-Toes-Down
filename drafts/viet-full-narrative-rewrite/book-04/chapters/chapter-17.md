@@ -1,0 +1,189 @@
+## Chapter 17: The Car That Wouldn't Fit
+
+Thursday's Crown Wagon arrived at the depot wearing a golden crown wide enough to shade a motorcycle.
+
+Saint watched through the recovery truck's windshield. “I could improve it.”
+
+Rafa pointed at the jack between Saint's boots. “You're dressed as a mechanic. Start with knowing which end of that goes up.”
+
+The depot stood behind the old produce market. Racing victories covered its walls. Thành appeared in every mural, holding a trophy or pointing at a car somebody else had driven. On the newest he'd placed himself beneath A LEGACY OF EXCELLENCE.
+
+Tess adjusted the mirror. “Room underneath for the indictment.”
+
+Beside me in the back seat Nessa turned her notebook over. The measurements faced down; her nephew's drawing of a six-legged dog faced up. She stopped moving her fingers.
+
+“That's it,” Nessa said.
+
+Four axles, black armor, polished side skirts, and a display cabin with windows high enough to look into a second-floor bedroom. The driver climbed down in a white transfer jacket. Two guards drank coffee by the escort SUV. Another examined the rear doors. The gatehouse held the final two men we needed to control. Regular depot workers had gathered at the far end to watch an orange racer being unloaded.
+
+“You can stay here,” I told Nessa.
+
+“I know,” Nessa said, and opened her door.
+
+Eddie and Louis waited in our second truck wearing clean copies of the transfer jackets. Eddie had driven this route before Thành began storing employees in cubicles. He knew the crew stopped here for fuel vouchers.
+
+Tess drove through the open gate, pointed at the recovery company name on our door, and informed the attendant that a car blocked the lower bay. When he asked which car, she replied that it was the one we were removing. He glanced toward the orange racer and waved us on.
+
+Inside the gatehouse's cover, I stepped down beside Nessa. The thick-necked driver recognized her first.
+
+“What the hell are you doing out?” the driver demanded.
+
+“Checking my work,” Nessa said.
+
+He reached for his radio. I caught the hand, pressed it onto the SUV roof, and kept walking until his arm turned him around the car. When he opened his mouth I covered that too.
+
+“Small morning,” I told him. “Let's keep it that way.”
+
+One guard threw coffee at me. I turned. It hit my neck; the cup bounced off the driver's forehead. Before the guard cleared his gun, I drove the driver's elbow into his chest and pushed both men through the open passenger door. The SUV rocked. Feet projected from it in an arrangement nobody would describe as carpooling.
+
+Tess opened the recovery truck's door into the second guard's knees. He folded over its edge and found Rafa holding a wheel brace on the other side.
+
+“Morning,” Rafa said.
+
+The guard set his coffee carefully on the step.
+
+At the wagon's rear, the third guard drew and fired. His round hit the recovery boom with a loud clang. Every worker beside the orange racer turned.
+
+Saint leaned out and held up a snapped piece of trim. “Chain! Stay back! This nigga buys everything used!”
+
+Rafa looked betrayed. I tore the SUV's passenger door off and carried it toward the shooter. His next bullet punched through the upper skin. I kept the heavy lower section between him and my body, swung its bottom edge into his shin, and drove him back into the wagon steps.
+
+His gun arm stuck over the door. I pressed the metal across his chest, took the pistol, and looked down at him.
+
+“You made it medium,” I told the guard.
+
+Louis intercepted the attendant before his phone became useful. Eddie helped pull the two men out of the SUV. Our own crew came through the gate behind them and moved the prisoners into an empty bay. The thick-necked driver tried shouting when I uncovered his mouth. Nessa stepped in front of him.
+
+“Nobody's taking me back,” Nessa said.
+
+He looked away first.
+
+Across the yard Saint explained the mechanical catastrophe to the regular workers. He displayed the broken trim with enough sorrow to make it seem expensive. By the time he returned somebody had offered a cousin who welded.
+
+“Networking,” Saint told Rafa.
+
+Tess climbed into the Crown Wagon and adjusted the seat twice. “Who built this, a cathedral?”
+
+Nessa joined her to explain the controls. Rafa checked underneath. Eddie and Louis inspected the escort vehicles. Louis studied the missing SUV door and chose the other one.
+
+I carried the torn door into the bay. The captured gunman's leg was swelling; our medic brought ice and checked him. Everyone else was hurt enough to sit still, but breathing. The supervisor's radio demanded a departure time.
+
+Nessa held it to him. “Tell them you're delayed by a door.”
+
+He looked at the thing in my hand and gave Briar a new time without embellishment.
+
+Our men moved the prisoners into enclosed transport with water, a medic, and guards. They would stay in a secure room over a closed Circle shop until the operation ended. The regular depot staff were told the transfer company had changed crews after an equipment dispute. One asked whether the orange car still belonged in Bay Three.
+
+The transfer supervisor tried a final objection as the medic checked his wrist. “They'll know I'm missing.”
+
+Nessa stood beside him with the clipboard he'd brought from the office. “They know the delivery. They know the jacket. They asked for a time and you gave them one.”
+
+“I'm responsible for the vehicle,” the supervisor said.
+
+Nessa looked up. “I was responsible for making a door you could lock me behind. We all had jobs.”
+
+He stared at the floor. She turned the clipboard toward Eddie. Eddie read the fuel voucher, pointed to a line, and asked whether the overnight arrival still used the north service entrance. The supervisor nodded. Louis asked which guard would be at that entrance. The man supplied a name, then corrected it to a different shift.
+
+Nessa wrote both names down. Her hands were steady now. I stayed beside the door while she asked what she needed, leaving her room to be the person who knew the work. When they finished, she took the white transfer packet and walked out without looking back at him.
+
+“For your health,” Saint said, “leave it where it is.”
+
+We drove out with the Crown Wagon, the intact escort, and Rafa's recovery truck. From the road the transfer looked as planned. Thành would have objected to every person inside.
+
+Then we reached Rafa's garage.
+
+The old bus entrance had admitted buses for decades. The Crown Wagon stopped beneath it with the golden crown almost touching the lintel and most of the vehicle still outside.
+
+Tess leaned from the window. “Won't fit.”
+
+Rafa measured the opening by eye, became offended, and fetched an actual tape. “Crown comes off.”
+
+“Roof?” Tess asked.
+
+I examined the gutter under its wheels and the floor rising inside the doorway. We'd measured the ordinary opening; the approach angle had opinions of its own.
+
+Rafa turned toward me. “Don't lift my building.”
+
+“Wasn't planning to,” I said.
+
+He waited until I added first.
+
+Nessa crawled beneath the skirt with tools. The display cabin rode on a sliding lower platform; the transfer crew had left it an inch high on its travel blocks. She came out dusty, holding the removed spacer.
+
+“One inch,” Nessa said.
+
+“Need three,” Rafa answered.
+
+I crouched by the gutter and hooked my fingers beneath a paving stone. “We'll lower the street.”
+
+Saint stepped respectfully back. I lifted the first block and two neighbors. Rafa fetched a shovel. Eddie and Louis cleared grit while Tess backed up. We made shallow channels under the outer wheels, and Nessa lowered the travel frame.
+
+I climbed the front step and wrapped my arms around the crown.
+
+“Bolts,” Rafa warned.
+
+I pulled. Four bolts and a strip of black panel came with it. Saint examined the crown's newly attached hardware.
+
+“Everything unbolts eventually,” Saint observed.
+
+Tess eased forward. The tires sank into the channels. The roof slipped under the lintel with a gap too small for Rafa's invoice. Then the right rear tire climbed a buried lump of concrete. Metal touched brick.
+
+Tess stopped instantly. Rafa told everyone not to breathe. I ducked behind the wagon and found the rear axle housing. My left shoulder objected before I put weight on it. I used the right, braced my feet, and lifted the corner until Louis could hook the obstruction out.
+
+The vehicle creaked overhead. My ribs tightened. Louis held up the concrete.
+
+“Hands away,” I told him.
+
+He withdrew. I lowered the wagon into its channel. Tess rolled the last few feet inside. The garage applauded, except Rafa, who knelt beside the paving blocks like a man visiting relatives in hospital.
+
+“People brought me cars,” Rafa said.
+
+“You've grown,” I told him.
+
+The rear doors opened onto brass rails, velvet, empty pedestals, cup holders, and expensive bottled water in a refrigerator. Saint read a label and looked back toward the depot.
+
+“They kidnap people and hydrate like this,” Saint said.
+
+Nessa removed a padded panel. Behind it lay the extra locking bar Thành had made her install. It could secure the display cabin from outside, turning the glamorous room into a cell. She rested a hand on it for a moment.
+
+“They said valuables would be locked in after guests left,” Nessa told us.
+
+“Can it come out?” I asked.
+
+“It can never hold anyone again,” Nessa said.
+
+Rafa joined her. They removed it together. She carried it to the cutting bench herself and watched until the blade finished.
+
+Irene arrived with Trinh and replacement uniforms. Other entrants would visit that evening. Crowe had asked about music. Saint began to offer entertainment; Irene suggested he stand quietly and charge admission to the novelty.
+
+Nessa tested the freed cabin door. It opened inward and outward without another person's permission. She tried it again, then offered me her hand.
+
+Before we shook, a latch clicked somewhere in the garage. Nessa turned toward the sound so quickly I saw her shoulders rise. It was only Rafa closing a toolbox. He noticed, left the lid open again, and brought her a cup of water without announcing the kindness.
+
+Nessa set the cup on the display pedestal and closed the cabin door from inside. Through the glass I watched her stand still, one hand on the handle. She pressed it. The door opened.
+
+“Again?” Rafa asked quietly.
+
+She nodded. He waited while she tested it twice more. The mechanism moved freely each time. On the third she stepped outside with the cup and handed him the little retaining screw she'd kept from the bar assembly.
+
+“Use that somewhere stupid,” Nessa told Rafa.
+
+Rafa examined it. “Saint's always expanding.”
+
+Saint looked up from the gold crown on the workbench. “I heard that. I've made this beautiful.”
+
+He'd placed the crown on an oil drum with a rag inside as a cushion. It looked like a throne designed for whatever had last drained out of an engine. Nessa laughed, drank her water, and finally took my hand.
+
+“Eddie knows who's answering the four o'clock transfer call,” Nessa said. “Overnight delivery, as scheduled. I want to go with them.”
+
+“You don't owe that,” I said.
+
+“I know where the other doors stick,” Nessa replied.
+
+Tess leaned down from the cab. “Bring tools. Handles like an apartment having a medical emergency.”
+
+Nessa laughed, then looked aside as though surprised by the sound. Irene put the detached crown on Rafa's bench and remarked that at least we'd avoided another piano.
+
+Saint's phone rang. Mrs. Devlin wanted the reason for his missed lesson. He looked around the seized armored ballroom blocking the garage, considered his available explanations, and selected the shortest true one.
+
+“Traffic,” Saint said.

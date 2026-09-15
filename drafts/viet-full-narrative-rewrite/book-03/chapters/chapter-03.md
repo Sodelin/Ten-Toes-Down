@@ -1,0 +1,193 @@
+## Chapter 3: Your Grandmother Owns the Dance Floor
+
+Tuesday morning found Duke waiting at Pilgrim Slip with the River Queen behind him and a prepared speech about chandeliers. Bích arrived carrying a market bag.
+
+“Grease trap,” Bích said.
+
+Duke put away the first gesture of his speech. “Wouldn't you like the ballroom first?”
+
+“An elegant kitchen will have an elegant grease trap,” Bích replied, and went up the gangway to discover whether she had inherited a liar.
+
+Tín waited with Sable on the landing while Hương followed Bích aboard carrying a tape measure. Mai stopped on the gangway to photograph the name. Beyond the white barge, the river ran east toward the harbor bridge; a tug passed with a dog standing above three men as if inspecting their work.
+
+“No engines,” Duke told Tín. “You move her with a tug.”
+
+“Then the children won't borrow her,” Tín said.
+
+Sable opened her folder. The wager conveyed the vessel and Duke's listed fixtures, not every part of his operating business. Tín listened while she identified each page and made sure the six burners and two ovens remained present.
+
+She laid the title on the broad top of the landing post, weighting one corner with the keys against the breeze. Tín read the names rather than merely watching where she pointed.
+
+“These pages say what the boat is,” Sable told him. “This list says what stays inside it. If Duke remembers some great sentimental attachment to a cash register, you have the list.”
+
+Duke put a hand on the brass post. “I've had that register six years.”
+
+“It has two working buttons,” Sable said. “Be sentimental at a distance.”
+
+Tín turned the inventory over. “People aren't fixtures. Who works here?”
+
+Sable named the cleaners and bar staff, then the people who no longer came because their money hadn't come either. Duke looked at the passing tug. Tín waited until he looked back.
+
+“No party works itself,” Tín told Duke.
+
+“I know how to operate a nightclub,” Duke replied.
+
+From inside the galley, Bích called his name. The tone brought both Duke's hands off the brass post at once.
+
+“We'll continue your qualifications inside,” Tín said.
+
+“Chandelier?” Duke asked.
+
+Sable turned the inventory around. “All fixtures. Your handwriting.”
+
+“I was under pressure,” Duke said.
+
+“From a pencil,” Sable answered.
+
+Inside, Loretta and two women from her salon had already placed themselves in the ballroom's center, examining possible arrangements of furniture and lesser people. Boots arrived with records. Marcus came behind him carrying a speaker and enough extension cable to trip a procession.
+
+“Grandmaster's birthday cruise!” Marcus announced.
+
+“Yesterday was my birthday,” Tín said.
+
+Marcus set the speaker on the stage. “We're extending the season.”
+
+“Who invited all these people?” Duke asked.
+
+Loretta inspected the dance floor. “The new administration.”
+
+Mai photographed Duke beneath his chandelier. He straightened instinctively and only then noticed the camera.
+
+“I want that picture,” Duke told her.
+
+“Five dollars,” Mai said.
+
+“I owned this place,” Duke protested.
+
+Mai wrote something in her notebook. “Six.”
+
+Bích emerged from the galley. Duke looked at her face and briefly tried to find Sable behind him.
+
+“Filthy,” Bích said. “I need a volunteer.”
+
+Loretta's friends looked at Duke. Boots looked at Duke. Tín looked at Duke. Duke looked at the perfectly clean ceiling, as though a different volunteer might be attached to it.
+
+Ten minutes later, Duke knelt in rubber gloves while Bích sat on a stool supervising the grease trap. Music began in the ballroom. Hương measured serving space; Mai tried to explain to Marcus why the words FOOD AVAILABLE would bring people who had no interest in a SUMMER REIGN.
+
+Tín carried clean utensils to the serving hatch. Through it he could see his granddaughter hold her notebook sideways while Marcus pointed out where gold letters would go. She let him finish, then turned it upright and drew a box around the date.
+
+“They have to arrive on the correct day,” Mai explained. “Then they can appreciate your gold.”
+
+Boots tested an outlet with a little electrical tester. Its light flickered. He frowned, tried another, and frowned again.
+
+“Boat or tester?” Tín asked.
+
+Boots looked at the instrument. “Seeking a second opinion from something I didn't buy at a swap meet.”
+
+He went to borrow a better one. In his absence, Marcus moved the speaker onto the serving route. Hương asked him to imagine a pot of soup traveling through his professional equipment. He moved it again.
+
+Tín opened a window. River air replaced some of the stale beer smell. Hương found a table upstairs broad enough to lay out cloth; Loretta approved room for a band; Bích found the shelf where she wanted bowls. The boat had been a thing won through a wall. Tín watched it become a place where each person could point to some small practical future.
+
+Tín went to the windows when two black cars stopped on the pier.
+
+The woman leaving the first car wore a gray suit and carried an envelope. Two men followed her aboard. The second car idled with its windows closed.
+
+“Iris Rook,” Sable said beside him. “Calvin's daughter. He usually sends her when he'd like people to keep their teeth.”
+
+Tín watched the two men choose different positions in the room. “Whose teeth?”
+
+Marcus lifted the needle from his record.
+
+“Put that back,” Loretta told him. “She hasn't rented the air.”
+
+Music returned quietly beneath Iris's introduction. She addressed Tín formally, placed the envelope on the bar, and offered twenty-five thousand dollars to undo Duke's error.
+
+Tín glanced toward the kitchen. Duke had stopped scrubbing to listen. Bích tapped the grease trap with her spoon, and the work resumed.
+
+“My father controls this berth,” Iris said. “He has uses for it.”
+
+“We're planning food next Saturday,” Tín told her. “He can bring a dish.”
+
+“He doesn't cook,” Iris said.
+
+“Duke is learning,” Tín replied.
+
+Iris's nearer guard rested his hand on the service-door handle. Hương came out from behind the serving counter and watched him until he noticed.
+
+“Stop touching the doors,” Hương said.
+
+The man withdrew his hand. Tín noted the uneven hang of his jacket and the other guard's clear view of both stairs and gangway. He set the boat keys beside Iris's envelope.
+
+“Take your money home,” Tín told her.
+
+Iris picked it up. “We won't offer twice.”
+
+She was turning toward the exit when the man beside the service door drew a pistol.
+
+Hương slammed the serving hatch onto his wrist. The first bullet went through the partition above Tín. He caught the trapped hand, pushed the muzzle against the counter, and turned it down. A second round struck the floor. His open palm hit the guard's jaw, sending him backward into folded chairs.
+
+The other guard reached beneath his jacket. Tín took a bar stool by one leg and swung it low across the floor. It struck both knees. The man fell face-first, and his gun slid beneath a table.
+
+Through the window Tín saw the second car open.
+
+“Kitchen!” Tín shouted.
+
+Bích already had Mai behind the galley wall. Hương dragged a knife box out of their escape path. Boots shoved Marcus behind the bar. Tín ripped the nearest round table from its pedestal and raised it as the man beside the car shouldered a long gun.
+
+The burst shattered three windows. Wood kicked against Tín's chest. One bullet cut the outside of his upper arm; he felt the hot line but kept moving. He drove the tabletop through the empty window frame and jumped after it.
+
+The shield hit the gunman squarely and pinned him against the car. Tín landed on the pier, caught the rifle barrel, and bent it over the open door's edge. The man's fingers released. Tín struck his ribs once, then caught his collar before his head reached the boards.
+
+Iris stood at the gangway's foot, aiming her own small pistol at the fallen man.
+
+“I said no shooting,” Iris told him.
+
+Tín lowered the gunman beside the wheel. “Your employees are difficult.”
+
+Blood reached his wrist. He pressed the graze with his thumb and looked inside the car. Tow cable and bolt cutters lay on the back seat. He looped the cable through a front wheel and around the pier's bollard, then broke the bolt cutters' handles over the edge of the dock.
+
+“You can walk,” Tín told the driver.
+
+Iris put her pistol away. “My father didn't authorize this.”
+
+Tín looked from the bullet holes in his table to the smoking muzzle he had bent. “You can both enjoy being surprised.”
+
+Inside the ballroom, Duke guarded the two fallen men with a frying pan. One tried to lift his head. Duke showed him the new dent, and the head returned to the floor.
+
+“You brought guns into my kitchen,” Duke told the man.
+
+Bích took the pan from him. “My kitchen.”
+
+Duke looked down at the guard. “Ownership changes quickly around here. Pay attention.”
+
+Mai saw Tín's arm and pulled out a chair. “Sit down, Grandpa.”
+
+Tín obeyed after a look at her face. Her hands stayed steady while she cleaned the graze. He wanted to say something reassuring; the room contained too much broken glass for the usual easy answer.
+
+“Where did you learn that?” Tín asked instead.
+
+“At home,” Mai said, tightening the cloth. “Hold still.”
+
+Iris called another car from the bar telephone while Boots and Duke got her men onto the pier. Sable stood beside her with a pencil.
+
+“Local calls are free,” Sable told Iris. “Your father pays for the rest.”
+
+Before the replacement car arrived, Rosa Méndez came aboard carrying a cooler. She surveyed the windows, the overturned stools, Duke's rubber gloves, and Tín's bandage.
+
+“I brought shrimp,” Rosa said.
+
+Boots leaned against the bar. “Thank God. Somebody understands the business.”
+
+Bích inspected the cooler. Then she inspected the ballroom as though measuring how much violence could be repaired before seafood became wasteful.
+
+“We'll need a bigger party,” Bích decided.
+
+Tín held up his bandaged arm. “I thought we might close.”
+
+Bích looked at the shrimp. “With all this food?”
+
+At the gangway, Iris paused. Tín raised his good hand toward her.
+
+“Saturday next week,” Tín said. “Tell your father to come hungry.”
+
+Marcus put the needle back where it had been. This time the record played at its proper volume while everyone began sweeping.

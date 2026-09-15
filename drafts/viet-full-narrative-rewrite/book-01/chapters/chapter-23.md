@@ -1,0 +1,193 @@
+## Chapter 23: King Takes King
+
+King hit me before the floor leveled. I saw his shoulder move and brought my right arm across my body. His fist drove the guard into my ribs and lifted me off my heels. I landed against the bar, with broken glass crunching beneath my shoes.
+
+He followed without hurrying.
+
+I threw a metal ice bucket at his head. He knocked it aside. Ice scattered between us. I stepped in behind the bucket and punched him under the chin, then hit him again before his head came down.
+
+His lower lip opened. On the third punch he caught my wrist, pulled me close, and drove a knee into my stomach. The air went out of me in a grunt. He did it again.
+
+I hooked a heel behind his standing ankle and dropped my weight. His next knee struck my thigh. I twisted my trapped wrist toward his thumb, pulled free, and drove my forehead across the bridge of his nose. The fresh tape came loose and stuck briefly to my skin.
+
+King roared and swept both arms around me. I turned sideways through the gap, stepped on the spilled ice, and went down hard on my back. His foot struck beside my head. I rolled beneath a table as he stamped again, splitting the floorboard where my shoulder had been.
+
+I caught the table's center pedestal and shoved upward. The top hit him beneath the jaw. He gave me half a step, enough to get out on the other side. I drove the table forward into his chest.
+
+He caught its edge with both hands.
+
+We leaned toward each other over the polished wood. His arms straightened. Mine bent. The pedestal dragged across the floor toward me.
+
+I let go and jumped aside. King stumbled into the space I'd left. As the table tipped, I jumped onto it, planted one foot near the center, and kicked the side of his head with the other.
+
+He fell against the bar. I landed and reached for his collar. King caught that hand, squeezed, and twisted. Pain shot through my fingers. I drove my left fist into the ribs that had hurt him at the mall.
+
+He smiled.
+
+His left fist hit me in the chest. I flew backward across the broken table and struck the wall beside the singer's stage. A decorative mirror cracked behind my shoulders. I dropped to one knee with blood in my mouth.
+
+King drew a deep breath without guarding either side.
+
+“Better now,” he said.
+
+I spat onto the floor. “I noticed.”
+
+He picked up the heavy end of the table and threw it. I jumped aside. Wood burst through the mirror and lodged halfway into the wall. Gold trim fell around my feet.
+
+I seized a strip, whipped it across King's eyes, and moved left as his hands came up. My first punch struck his ear, the second the hinge of his jaw. I drove a knee into the outside of his thigh and pulled his head down toward the stage edge.
+
+His forehead hit the wood. A board cracked. Before I could pull him away for another blow, he caught my belt and threw me over his shoulder.
+
+I went through the singer's empty stand and struck the piano's base. The piano lurched backward on its wheels. Two keys sounded together, a bright, ridiculous complaint in the empty room.
+
+King came up the step. I rolled onto my side and kicked the piano's front leg. It broke. The instrument tilted toward him, and he put both hands against its side to hold it up.
+
+I came up against the opposite panel and drove my shoulder into it. Its weight pushed him backward until his heel caught the step. The piano fell across his thighs and slammed him onto the floor. Strings rang inside the broken case.
+
+I took two shallow breaths and went around it. King's hands appeared beneath the piano. The whole instrument rose. He shoved it aside, got his feet under him, and stood with a long strip of black wood hanging from one trouser leg.
+
+For half a second, I stared.
+
+“That's rented,” I told him.
+
+He kicked the panel free. “So are the shoes.”
+
+King charged. I jumped toward the low balcony above the stage, caught its rail, and pulled up as his shoulder hit the wall beneath me. The balcony shook. Blood made one hand slip against the metal.
+
+I swung my knees over the rail and rolled onto the narrow floor. King looked up. Across the lounge, the upper stairwell stood open. I got to my feet, stepped onto the balcony rail, and jumped toward it.
+
+For a moment, the whole ruined room lay beneath me: shattered tables, ice, glass, and my white jacket on the back of its untouched chair. Dark water moved beyond the windows.
+
+I caught the far rail with one hand. The force nearly pulled my shoulder out. I hauled myself over and landed on the upper landing while King took the stairs after me.
+
+A small service cabinet stood beside the door. I threw it down the flight. It broke across King's shoulders. He pushed through the pieces and kept climbing.
+
+At the top, I struck him with the fire door. I pulled it back and slammed it into his face again. On the third swing, he caught its edge and tore it off the closer. I stepped through before the loose door could trap me against the frame.
+
+He followed into the narrow service passage. Here he had less room to swing. I had less room to get away.
+
+King punched straight down the center. I turned my shoulders to slip past his fist and hit his stomach twice. His elbow came down on my back. My knees buckled, and I caught the wall rail before I reached the floor.
+
+He seized my collar. I let the fabric tear and ducked beneath his arm, feeling his nails scrape the back of my neck. A service trolley stood behind him. I kicked it into the backs of his knees and went past while he stumbled over it.
+
+At the passage's end, a metal staircase doubled back in two tight flights below the lounge. I went down toward the vehicle deck.
+
+Most of the loading space had become storage for the party. Cases of liquor stood beside folded tables. A black luxury car occupied the center, polished brightly enough to reflect straight white lines from the ceiling lights.
+
+Beyond it lay an open maintenance bay, a recessed space with a low metal barrier along its edge. A chain hoist hung from a beam above it. Its load chain ran over an overhead guide, leaving a hooked end and a long loose hauling side within reach of the deck.
+
+Water slapped against the hull nearby. I looked back up the stairs. King stood at the top breathing through his mouth. Blood covered one side of his face. The piano had torn his shirt open at the shoulder.
+
+“You keep finding things to hide behind,” he said, looking at the car.
+
+I rested a hand on its roof. “You keep finding them with your face.”
+
+He came down. I moved around the car, keeping it between us. He went the other way. We circled for several seconds, watching each other's feet beneath the body.
+
+Then King caught the front fender from underneath and lifted. The front wheels rose. He shoved the car toward me on its rear tires.
+
+I jumped onto the trunk, ran two steps up the rear window, and kicked off the roof. The car struck the storage racks behind me. Bottles burst, and liquor spread across the deck.
+
+I landed near the maintenance bay. My left ankle turned under me, wrenching the place I'd hurt upstairs. I caught the hanging chain before I fell. King's eyes dropped to the ankle. He came faster.
+
+I swung the hook into his shoulder. He grunted and kept coming. I swung it back across his chest, released it, and ducked as he reached for the chain. His fist hit the beam beside my head with a metallic clang.
+
+I drove both hands into his face, pushing against his brow to turn his eyes away, and forced him backward toward the spilled liquor. He caught my wrists. One shoe slid. I kicked his other ankle, and we fell together beside the wrecked car.
+
+King landed on top of me. His weight drove the air out of my lungs. He pressed a forearm across my throat and lowered himself until my shoulders were pinned to the deck. I pushed at his elbow with both hands. It didn't move enough.
+
+Above his shoulder, the lights swung slowly. The ferry was rolling. King pressed harder.
+
+I drew my right knee up between us. The car's torn bumper was close enough to reach. I planted my good foot beneath it and pushed with everything left in that leg.
+
+The wreck moved a few inches. Its broken fender caught King's hip. He shifted away from the sharp metal, opening a gap beneath his forearm. I turned my head into it, dragged in half a breath, and drove my forehead into his mouth.
+
+His lip split against his teeth. I hit him again. When he lifted his head, I brought my knee into his stomach, shoved him sideways, and rolled out.
+
+We came up on our knees. I struck first: right hand to his cheek, left to his throat, then a shorter right beside his broken mouth. King hit my ribs.
+
+Something gave under the blow. I went sideways and caught the hanging chain to keep from falling into the maintenance bay.
+
+He stood. I pulled myself up too. Every breath now had a sharp edge. Blood ran from my nose onto my shirt. My right hand was swelling. I opened and closed it once to make sure the fingers still answered.
+
+King lowered his head and came toward me.
+
+Beside my shoulder, the hook swung with the ferry's roll. It moved away as he stepped over a broken bottle. When the deck rolled back, I jumped.
+
+I caught the overhead beam and swung my legs forward. Both heels struck King's chest. He flew into the wrecked car, which slid over the spilled liquor and hit the maintenance bay's barrier.
+
+Metal buckled. The car turned diagonally, and its rear wheels dropped into the recess. The front wheels stayed on the deck. King caught the torn front corner to keep from following it down.
+
+I dropped from the beam and took the hoist's hook. King reached for my wrist as I brought it toward him. I let it pass beneath his arm and caught it under the car's torn front pillar. With my other hand, I drew the loose side of the chain across his chest below his arms, taking its free end around him as I moved onto solid deck beside the bay.
+
+The ferry rolled. The car settled farther into the recess, pulling on the hooked side. Above us, chain ran over the guide. The loop around King tightened and dragged upward across his chest.
+
+He pushed it away from his throat with both arms. I braced on my good foot and held the loose end, giving it only inches as the car dropped. Its weight kept drawing the chain upward. King's heels left the deck.
+
+He roared and forced his hands farther apart. The loop opened slightly across his chest. Near my right hand, a link stretched until I could see daylight change inside it.
+
+I held on.
+
+The link snapped. Released chain whipped past my face. King pitched forward onto solid deck, suddenly free of the weight pulling him toward the bay.
+
+I stepped into him and punched his jaw from below. His feet left the deck. I followed with a second rising punch before he landed.
+
+He hit the side of the maintenance bay shoulder-first, bounced off the rail, and fell onto his back. His head struck the deck with a sound I felt through my shoes.
+
+I stood over him, breathing in small pieces. He moved one hand. I stepped on the sleeve beside his wrist.
+
+“Stay,” I told him.
+
+His eyes found mine. For a moment I thought he'd try again. Then his fingers opened.
+
+I took my foot off the sleeve. He lay still, chest rising and falling, blood bright against the white shirt beneath his face.
+
+The car groaned in the bay. I caught the remaining length of chain still hooked beneath its pillar and looped it over a section of fixed rail that hadn't buckled. Using the rail for purchase, I hauled the front end back until the frame settled securely against the lip, then hitched the chain. I couldn't lift the wreck clear. My ribs had begun objecting to the continued existence of my lungs.
+
+King watched through one half-open eye.
+
+“Your father,” he said thickly.
+
+I looked down. “What about him?”
+
+He swallowed blood and tried to finish. I shook my head.
+
+“Meet him when you can stand,” I told him.
+
+Footsteps rang on the stairs. Hậu came down with Voss behind him. Cloth covered Hậu's split eyebrow. Voss carried rope. When he saw King on the floor, he slowed, then stopped beside him.
+
+For several seconds he said nothing. He crouched and took King's empty hand, looking at the fingers.
+
+“My sister,” Voss said.
+
+King closed his eyes. Voss held the hand a moment longer, then let it fall and began tying King's wrists.
+
+Hậu came over to me.
+
+“You look terrible,” he said.
+
+“How do you look?” I asked.
+
+“I'm standing behind you,” Hậu told me. “You don't get to review.”
+
+He touched my side. I flinched before I could stop myself.
+
+“Ribs?” Hậu asked.
+
+“Probably,” I said.
+
+“You should sit,” he told me.
+
+The ferry lurched. Lights swung hard toward the wall, and an alarm began sounding overhead. Imani's voice came through the speakers.
+
+“Everybody away from the forward rail,” she ordered. “Hold something fixed.”
+
+Hậu and I looked at each other. My phone rang, and Saint shouted when I answered.
+
+“Aiden. Sunday took the bridge,” he told me. “He's aiming us at the old terminal.”
+
+I wiped my mouth with the back of my hand and headed toward the stairs. Hậu caught my arm.
+
+“Your jacket,” he said.
+
+He'd brought it down over his shoulder. I stared at the white cloth, then let him help me put it on.

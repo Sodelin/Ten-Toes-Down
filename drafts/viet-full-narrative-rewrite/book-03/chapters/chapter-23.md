@@ -1,0 +1,165 @@
+## Chapter 23: The Man at the Top
+
+Rook dropped the case halfway up. It struck the grating below Tín and burst open. Cash fluttered along the walkway, caught in the rails, and drifted toward the water.
+
+“Enough for your boat,” Rook called down.
+
+Tín kept climbing. “You've misunderstood the damage.”
+
+“More?” Rook asked.
+
+“Stop moving,” Tín answered.
+
+Rook reached the upper platform and kicked the ladder outward. Its lower fittings tore away. Tín rode the swing until he could brace one foot against an upright, then jumped to the next service rail. The ladder fell onto the empty lower walkway and folded beneath its own impact.
+
+Wind pushed Tín's wet shirt against his wounds as he climbed over the upper rail. Below, the River Queen entered the clear eastern basin with patrol beside it. Beyond the warehouses, Bell Street's windows shone through drifting smoke.
+
+Rook backed toward the boom. He picked up a heavy tool beside the motor housing and held it behind his leg.
+
+“Arrangement,” Rook said. “We can still make one.”
+
+Tín walked toward him with one hand along the rail. “You arranged my son.”
+
+“He walked away,” Rook said.
+
+“He bought soap,” Tín told him.
+
+Rook frowned. “What?”
+
+“It was on the list,” Tín said.
+
+Rook swung low at the injured calf. Tín lifted his leg; the tool struck grating. He caught the wrist and punched Rook's stomach. Rook folded, then slammed his forehead into Tín's nose.
+
+Pain flashed white. Tín's grip opened just long enough for Rook to wrench free and hit his ribs with the handle. Tín struck the rail behind him. It bent outward.
+
+Rook raised the tool with both hands. Tín caught the shaft overhead and pulled him close. Blood ran over Tín's mouth. Rook tried to wrench the tool away. Tín bent the steel between their hands until Rook's fingers released it.
+
+He threw the curved tool onto the motor housing and struck Rook across the mouth. The man fell against the boom brace, caught it, and swung around the platform's outer edge. His shoes found a narrow beam beyond the broken rail.
+
+“Calvin,” Tín called, wiping his nose with his sleeve. “Your tailor's suffering.”
+
+Rook climbed onto the boom walkway and ran.
+
+Tín followed. The narrow structure extended over the lower passage like a road without a place to stop. Broken rigging hung along one side, knocking against the steel whenever wind caught it. The water below showed patrol lamps and floating bills.
+
+Halfway out, Rook turned with a knife. Tín looked from the blade to the immense crane around them.
+
+“Smaller equipment every time,” Tín said.
+
+Rook lunged. The blade cut Tín's forearm. Tín caught the knife wrist and pressed it onto the rail. Rook kicked his calf. His knee bent, and Rook drove a shoulder into him.
+
+The rail broke behind Tín's hip. Both men tipped toward open air.
+
+Tín caught an overhead brace with his cut hand. Rook hung against him, one foot hooked around the walkway's lower bar. The knife dropped into the harbor. Tín drew them upright, put Rook against the boom, and hit his chest twice. When the man folded, Tín caught his shirt and turned him onto both knees.
+
+“Enough,” Rook gasped.
+
+Tín stood over him. The word was easier to pronounce, apparently, when there was no Nail left to spend it for him.
+
+“Look down,” Tín told him.
+
+Rook gripped the grating. Tín took one ankle and lifted. The hands tore free. Rook swung upside down beyond the broken rail with his tie hanging toward the water.
+
+His shout cut through the engines below. Loose money fell from his pocket. One shoe slid halfway off; he curled his toes to keep it, suddenly attentive to a possession smaller than a waterfront.
+
+Tín held him still.
+
+“Look,” Tín said.
+
+The barge had turned in the basin. People watched through its lit windows. Farther away, ordinary kitchen lights remained on above Bell Street, where families had spent an evening waiting for someone to return.
+
+“Put me up,” Rook said.
+
+“You wanted an audience,” Tín reminded him.
+
+Rook tried to lift his head. Blood ran toward his forehead. “I'll pay.”
+
+“For what?” Tín asked.
+
+“Everything,” Rook said.
+
+Tín waited. His palm hurt around Rook's ankle. He didn't adjust his grip.
+
+“The boat,” Rook began. “The pier. All the hospital bills.”
+
+“And the shop windows,” Tín added. “The trucks. Mateo’s wedding.”
+
+“Yes,” Rook said.
+
+“Your men leave Bell Street,” Tín continued. “Your boats leave its water.”
+
+Rook agreed to each. His hands opened and closed in the air.
+
+Tín looked at the loosening shoe. “You're losing that.”
+
+Rook made a desperate little movement with his foot. Tín lifted him back over the rail and set him on the walkway. The man curled around his shoe, holding it as if he finally understood one thing he owned.
+
+Tín crouched beside him. “Payment doesn't cancel what the police want.”
+
+Rook shut his eyes. “I know.”
+
+Tín helped him upright and folded an arm behind his back. They moved slowly toward the platform. Once Rook nearly stepped through the broken rail; Tín hauled him back without comment.
+
+At the intact second ladder, the bandaged crane operator waited with an officer. He looked past Rook toward the empty cables.
+
+“The span?” the operator asked.
+
+Tín pointed to the staging pad. The operator stared, then laughed once and covered his mouth.
+
+“You put it back,” the operator said.
+
+“Near enough tonight,” Tín replied.
+
+The officer took Rook, secured his wrists, and checked the route below. Rook looked back before descending.
+
+“You could have taken fifty thousand,” Rook said.
+
+Tín wiped his chin. “I did.”
+
+The operator turned away making a sound he unsuccessfully disguised as coughing.
+
+Tín stayed until they reached the repair barge safely. The energy holding him together began leaving in unpleasant installments. His hands shook when he opened them. His calf refused the first step toward the ladder.
+
+Across the water, Marcus's microphone cracked.
+
+“Grandmaster,” Marcus announced, “your wife says get your ass down.”
+
+The officer below looked up. “Official enough for me.”
+
+Tín began descending. He had to stop once and place the reluctant foot deliberately on the next rung. At the bottom, Duke held out both hands. This time Tín accepted them.
+
+Duke guided him into the wheelhouse seat and brought water and cloth. “Sit.”
+
+Tín obeyed. “Learn that from Rosa?”
+
+“Everyone uses it on me,” Duke said. “I wanted a turn.”
+
+Duke screwed the cap off the water bottle before giving it to him. Tín had begun reaching for it with both injured hands; Duke saw and made the little task unnecessary. Tín drank, rinsed his mouth, and spat over the side.
+
+“Any more of him?” Duke asked, looking toward the crane where officers were bringing Rook down.
+
+Tín wiped his chin. “Not tonight.”
+
+Duke nodded. He didn't announce victory. He checked the line at the fender, returned to the controls, and waited while the patrol officer below signaled that they could leave.
+
+Tín rested his hands open on his knees. The tug engine vibrated through the seat into every bruise. He could have stood above a crowd receiving applause a few minutes earlier. Now he watched a man he had put onto a bowling return carry out the ordinary steps needed to get him back to his wife.
+
+Before they left, the operator came alongside in a workboat with heavy gloves and the FORTY TONNES board. He offered the gloves first.
+
+Tín showed his torn palms. “Late.”
+
+“I know,” the operator said, then handed him the board. “Crew wants you to have this.”
+
+Duke looked at it. “Where?”
+
+“Over the refrigerator,” Tín answered.
+
+Mercy's Cousin crossed to the River Queen. Bích waited at its rail with a blanket around her shoulders, the red apron beneath it, and her ladle still in hand. Tín stood when the fenders touched. Everything hurt. He crossed anyway.
+
+Bích put down her cup and held his face between both hands. She inspected the blood, the swelling, the new cuts. Then she pressed her forehead to his.
+
+“You’re late,” Bích said.
+
+“There was traffic,” Tín answered.
+
+She laughed once, very close. Then she pulled him inside. Hương had towels ready, and Hòa had found a chair broad enough to accommodate whatever remained of the morning.

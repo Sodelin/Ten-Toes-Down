@@ -1,0 +1,583 @@
+{
+  "status": "Local preparation complete; no external delivery",
+  "provenance": "Codex-authored under Nolan's direction; noncanonical proposal. Original source unchanged.",
+  "conversion": "Each final chapter is LF-normalized, its initial Markdown heading marker removed, and trailing whitespace replaced by two LF characters. No narrative prose changes. Book-level title and provenance remain in the manuscript, manifest and index, outside the listening body. Section filenames/titles are metadata; no new section text is inserted.",
+  "reconstruction": "Concatenate the UTF-8 section files in numeric order with no added or removed bytes. The result is exactly book-02-native.txt.",
+  "fullFile": "book-02-native.txt",
+  "words": 44191,
+  "utf16Characters": 257068,
+  "utf8Bytes": 261990,
+  "sha256": "4f1220b6b54f1e151fb63557b27cbe9af52d6f40a05b4f8e405c0d3ead1c5768",
+  "sectionCount": 24,
+  "reconstructedExactly": true,
+  "assembledMarkdownSha256": "13218ec3754ceba00c1a7e096e7f815101e3cdce24b00f696b63575323715df0",
+  "chapters": [
+    {
+      "chapter": 1,
+      "start": 0,
+      "length": 11810,
+      "source": "chapters/chapter-01.md",
+      "sourceSha256": "b6a115739d62a5d9d32b174aa69d0f420af3ac14ecf3463f17c5629079c497e0"
+    },
+    {
+      "chapter": 2,
+      "start": 11810,
+      "length": 11949,
+      "source": "chapters/chapter-02.md",
+      "sourceSha256": "91734fff2ec57c13d7aa44ac548385e75154fa5adb6c095af5e98377681cb429"
+    },
+    {
+      "chapter": 3,
+      "start": 23759,
+      "length": 9927,
+      "source": "chapters/chapter-03.md",
+      "sourceSha256": "2d1f7bf71608992e285eb54388d8beff0dbae0ce51ea6eefbb100181e692e7ca"
+    },
+    {
+      "chapter": 4,
+      "start": 33686,
+      "length": 10073,
+      "source": "chapters/chapter-04.md",
+      "sourceSha256": "bc734e71b0559306e96a4009a23e4a8a5b63bcc6242cbe6153cb564eac739744"
+    },
+    {
+      "chapter": 5,
+      "start": 43759,
+      "length": 9172,
+      "source": "chapters/chapter-05.md",
+      "sourceSha256": "a401a88e13768c6b97bb6b8e6957a64b1d745850cd6a11ab0b66bf180a39d1a5"
+    },
+    {
+      "chapter": 6,
+      "start": 52931,
+      "length": 9246,
+      "source": "chapters/chapter-06.md",
+      "sourceSha256": "cd1fd2295d54d6ec4568beb21cd45f65631404ea6f0328930548262a407406d2"
+    },
+    {
+      "chapter": 7,
+      "start": 62177,
+      "length": 9075,
+      "source": "chapters/chapter-07.md",
+      "sourceSha256": "4ca79be5ecfd64ff561669b06add3fdf1152e3cbf9ab94771d9ba841025c8d9e"
+    },
+    {
+      "chapter": 8,
+      "start": 71252,
+      "length": 9604,
+      "source": "chapters/chapter-08.md",
+      "sourceSha256": "59d3a73d2ef8483063bd20154811054203cd1ad7e0d83389f214cbb7bf7c1c73"
+    },
+    {
+      "chapter": 9,
+      "start": 80856,
+      "length": 8818,
+      "source": "chapters/chapter-09.md",
+      "sourceSha256": "3b239981bc5c88f7ab4f86b384c726754f9bb03ee4f766669866cff9925fb679"
+    },
+    {
+      "chapter": 10,
+      "start": 89674,
+      "length": 8697,
+      "source": "chapters/chapter-10.md",
+      "sourceSha256": "da23008c6425e28c39f660632248048076f9d1a7467c81777e9dd3658d36392c"
+    },
+    {
+      "chapter": 11,
+      "start": 98371,
+      "length": 8723,
+      "source": "chapters/chapter-11.md",
+      "sourceSha256": "4f63749fed591ae592259636c8d2b711053d4d556ba9e08e40a81fba67b8df1e"
+    },
+    {
+      "chapter": 12,
+      "start": 107094,
+      "length": 8176,
+      "source": "chapters/chapter-12.md",
+      "sourceSha256": "80b1407d56fb85f1922599a24b5e953d7740ef1a75a9b730e34a08cf60190021"
+    },
+    {
+      "chapter": 13,
+      "start": 115270,
+      "length": 8531,
+      "source": "chapters/chapter-13.md",
+      "sourceSha256": "a508a489a55f0768be6d48b4977d955eb45874aee9aa4b0d86042930e9c4ff71"
+    },
+    {
+      "chapter": 14,
+      "start": 123801,
+      "length": 9098,
+      "source": "chapters/chapter-14.md",
+      "sourceSha256": "9b0ef2787991b15f76604f88ab0028c1b7281b49da931582d4376100b70774c5"
+    },
+    {
+      "chapter": 15,
+      "start": 132899,
+      "length": 7189,
+      "source": "chapters/chapter-15.md",
+      "sourceSha256": "aca5baa607438a281c57036f98d408941f71ec3625e42d562fe15a48ebab8b9a"
+    },
+    {
+      "chapter": 16,
+      "start": 140088,
+      "length": 7866,
+      "source": "chapters/chapter-16.md",
+      "sourceSha256": "120bf4b17a1d1a7c741a2a5ba646452a411ad5290d4745c6b943d69530933555"
+    },
+    {
+      "chapter": 17,
+      "start": 147954,
+      "length": 7415,
+      "source": "chapters/chapter-17.md",
+      "sourceSha256": "9b2051dc7fca764da1370014a8eb7a9b363900c9b92fad496e64a9af70bb7406"
+    },
+    {
+      "chapter": 18,
+      "start": 155369,
+      "length": 6787,
+      "source": "chapters/chapter-18.md",
+      "sourceSha256": "62e9cfabdfecb3e672028a36aa4744a024447e36fd74b6021bdad44671635b9c"
+    },
+    {
+      "chapter": 19,
+      "start": 162156,
+      "length": 7837,
+      "source": "chapters/chapter-19.md",
+      "sourceSha256": "b2720bf18ae7c0f205e42ba5b87e3c13cd1295efab136aa86d87ca6eee61bfa6"
+    },
+    {
+      "chapter": 20,
+      "start": 169993,
+      "length": 7126,
+      "source": "chapters/chapter-20.md",
+      "sourceSha256": "1109e700a6149028167008b49ee9b7cf314df7ff4582376ae463b85d06117069"
+    },
+    {
+      "chapter": 21,
+      "start": 177119,
+      "length": 7575,
+      "source": "chapters/chapter-21.md",
+      "sourceSha256": "fdf67f18a8f374888b972c66c8dc36e519c65901cd9e0a2237ee4dc699723318"
+    },
+    {
+      "chapter": 22,
+      "start": 184694,
+      "length": 7225,
+      "source": "chapters/chapter-22.md",
+      "sourceSha256": "d2db717a8ef8cb6ac7ec5e6250a885d677392a766fc4f54680f951f279cc44d7"
+    },
+    {
+      "chapter": 23,
+      "start": 191919,
+      "length": 8044,
+      "source": "chapters/chapter-23.md",
+      "sourceSha256": "0da4a0a70d56593bdf2c18f451dcd72b334fd3a62a69eabdae2a796492fc950e"
+    },
+    {
+      "chapter": 24,
+      "start": 199963,
+      "length": 9255,
+      "source": "chapters/chapter-24.md",
+      "sourceSha256": "05459406b11129896deeed7f855ee6ad8be809534c1a5b57e6755489628c2596"
+    },
+    {
+      "chapter": 25,
+      "start": 209218,
+      "length": 9991,
+      "source": "chapters/chapter-25.md",
+      "sourceSha256": "3a7e181b2674f7d5de85139d8a4812ea0546775473ce0608177aa4aab0c0f222"
+    },
+    {
+      "chapter": 26,
+      "start": 219209,
+      "length": 11912,
+      "source": "chapters/chapter-26.md",
+      "sourceSha256": "a10a7d4915c86af662934e713f506a826da2ea5d3664611c7ab87c17811b1558"
+    },
+    {
+      "chapter": 27,
+      "start": 231121,
+      "length": 10621,
+      "source": "chapters/chapter-27.md",
+      "sourceSha256": "6e0c8c01ae432ddaf123845fb69ea4405700ffb03abc5f7f4a8d7508b6a514c7"
+    },
+    {
+      "chapter": 28,
+      "start": 241742,
+      "length": 15326,
+      "source": "chapters/chapter-28.md",
+      "sourceSha256": "9b0ad472d0b6fc79261fe2c89e133d3b8844147f89d5d6714964ff6ea8edaab9"
+    }
+  ],
+  "sections": [
+    {
+      "number": 1,
+      "file": "listening/section-001.txt",
+      "label": "Door Money",
+      "chapters": [
+        1
+      ],
+      "words": 2008,
+      "utf16Start": 0,
+      "utf16EndExclusive": 11810,
+      "utf8Start": 0,
+      "utf8EndExclusive": 12119,
+      "sha256": "0c36c9fb982143264c9af6a79d837fbd2e213f31ba567071b496d5d47c502538",
+      "opening": "Chapter 1: Door Money"
+    },
+    {
+      "number": 2,
+      "file": "listening/section-002.txt",
+      "label": "The Auction",
+      "chapters": [
+        2
+      ],
+      "words": 2023,
+      "utf16Start": 11810,
+      "utf16EndExclusive": 23759,
+      "utf8Start": 12119,
+      "utf8EndExclusive": 24327,
+      "sha256": "a7fd107af947c4a39505f3b08f5cf449a81f4ae66e238e65f906135f542d5bcc",
+      "opening": "Chapter 2: Open Until Midnight"
+    },
+    {
+      "number": 3,
+      "file": "listening/section-003.txt",
+      "label": "Family Lunch",
+      "chapters": [
+        3
+      ],
+      "words": 1699,
+      "utf16Start": 23759,
+      "utf16EndExclusive": 33686,
+      "utf8Start": 24327,
+      "utf8EndExclusive": 34515,
+      "sha256": "d60bf57c57eab6295f024d93dc1d6f3e419269b3def9b0c91a34eb9e9e208527",
+      "opening": "Chapter 3: The House Has Rules"
+    },
+    {
+      "number": 4,
+      "file": "listening/section-004.txt",
+      "label": "The Coronation",
+      "chapters": [
+        4
+      ],
+      "words": 1722,
+      "utf16Start": 33686,
+      "utf16EndExclusive": 43759,
+      "utf8Start": 34515,
+      "utf8EndExclusive": 44747,
+      "sha256": "73769199e1faa0da1db7989401d52c4bce75a98fe847685f0e38cca9caf44137",
+      "opening": "Chapter 4: Congratulations, You Owe Everybody"
+    },
+    {
+      "number": 5,
+      "file": "listening/section-005.txt",
+      "label": "Crown Arcade",
+      "chapters": [
+        5
+      ],
+      "words": 1578,
+      "utf16Start": 43759,
+      "utf16EndExclusive": 52931,
+      "utf8Start": 44747,
+      "utf8EndExclusive": 54114,
+      "sha256": "a0d91036d7585e47d610dcdb1e81e6eb3628f30a32e7a22aec28eb2558e6ebb5",
+      "opening": "Chapter 5: The Arcade King"
+    },
+    {
+      "number": 6,
+      "file": "listening/section-006.txt",
+      "label": "The Fitting",
+      "chapters": [
+        6
+      ],
+      "words": 1603,
+      "utf16Start": 52931,
+      "utf16EndExclusive": 62177,
+      "utf8Start": 54114,
+      "utf8EndExclusive": 63507,
+      "sha256": "ea0d1306e513137aaf516ff023a8c525d20018a27145bca7d4becb4a30930c28",
+      "opening": "Chapter 6: The Bride's Driver"
+    },
+    {
+      "number": 7,
+      "file": "listening/section-007.txt",
+      "label": "The Pawnshop and the Roof",
+      "chapters": [
+        7
+      ],
+      "words": 1565,
+      "utf16Start": 62177,
+      "utf16EndExclusive": 71252,
+      "utf8Start": 63507,
+      "utf8EndExclusive": 72735,
+      "sha256": "67dd0ccb29bcca02710131322e3448cb9efc0ba5184419ead9563b4e874a2e4f",
+      "opening": "Chapter 7: Pawnshop Royalty"
+    },
+    {
+      "number": 8,
+      "file": "listening/section-008.txt",
+      "label": "Blue Palm",
+      "chapters": [
+        8
+      ],
+      "words": 1676,
+      "utf16Start": 71252,
+      "utf16EndExclusive": 80856,
+      "utf8Start": 72735,
+      "utf8EndExclusive": 82504,
+      "sha256": "a503a9c8637501a4675fcd4768eead067ddd770ca269a45514bf196369842763",
+      "opening": "Chapter 8: Three Minutes at the Car Wash"
+    },
+    {
+      "number": 9,
+      "file": "listening/section-009.txt",
+      "label": "Rook Comes to Lunch",
+      "chapters": [
+        9
+      ],
+      "words": 1528,
+      "utf16Start": 80856,
+      "utf16EndExclusive": 89674,
+      "utf8Start": 82504,
+      "utf8EndExclusive": 91519,
+      "sha256": "c1321169429e3d89ca9b3f4728b2ed8832e443ad86dbfb9898adb6cb122daf02",
+      "opening": "Chapter 9: Lunch With the Wrong Old Man"
+    },
+    {
+      "number": 10,
+      "file": "listening/section-010.txt",
+      "label": "The Club",
+      "chapters": [
+        10
+      ],
+      "words": 1510,
+      "utf16Start": 89674,
+      "utf16EndExclusive": 98371,
+      "utf8Start": 91519,
+      "utf8EndExclusive": 100373,
+      "sha256": "68120ac67c13c50b2356bc8606a0106afa05429222bdd52e6f5df3de9540b810",
+      "opening": "Chapter 10: Very Expensive Hospitality"
+    },
+    {
+      "number": 11,
+      "file": "listening/section-011.txt",
+      "label": "The Birthday Cake and the Tractor",
+      "chapters": [
+        11,
+        12
+      ],
+      "words": 2087,
+      "utf16Start": 98371,
+      "utf16EndExclusive": 110671,
+      "utf8Start": 100373,
+      "utf8EndExclusive": 112911,
+      "sha256": "c77c1d32758277a46e0417f5a4c4f24c1110d067ad1a56baad4f51b040427b1d",
+      "opening": "Chapter 11: A Man Named on the Cake"
+    },
+    {
+      "number": 12,
+      "file": "listening/section-012.txt",
+      "label": "Carter Arrives; the Cookout",
+      "chapters": [
+        12,
+        13
+      ],
+      "words": 2290,
+      "utf16Start": 110671,
+      "utf16EndExclusive": 123801,
+      "utf8Start": 112911,
+      "utf8EndExclusive": 126339,
+      "sha256": "2495e4a2fd2a3b19a5a8de55a9794ecf0971fe855148f3fa0ffdbf7b37ce6bd8",
+      "opening": "A police car came through the gate before they could choose a test target. Carter got out, shut the door, and crossed the yard slowly. His gaze traveled over the tracks, the blade, the cannon, the gold dollar signs, then stopped on Bách."
+    },
+    {
+      "number": 13,
+      "file": "listening/section-013.txt",
+      "label": "The Convoy",
+      "chapters": [
+        14
+      ],
+      "words": 1567,
+      "utf16Start": 123801,
+      "utf16EndExclusive": 132899,
+      "utf8Start": 126339,
+      "utf8EndExclusive": 135538,
+      "sha256": "5e604d82340c40e37cb9c958d67b11435edd2621d8f37657f0c0229c3a64b915",
+      "opening": "Chapter 14: The Prize Convoy"
+    },
+    {
+      "number": 14,
+      "file": "listening/section-014.txt",
+      "label": "The New Money; Channel Six",
+      "chapters": [
+        15,
+        16
+      ],
+      "words": 1592,
+      "utf16Start": 132899,
+      "utf16EndExclusive": 142270,
+      "utf8Start": 135538,
+      "utf8EndExclusive": 145088,
+      "sha256": "26ad89f4fad3e1621bd753b27b1d0b2b36daa3f22675f08065ee4e57f05109f8",
+      "opening": "Chapter 15: Everybody Has a Cousin"
+    },
+    {
+      "number": 15,
+      "file": "listening/section-015.txt",
+      "label": "On Air; the Rooftop Trap",
+      "chapters": [
+        16,
+        17
+      ],
+      "words": 2208,
+      "utf16Start": 142270,
+      "utf16EndExclusive": 155369,
+      "utf8Start": 145088,
+      "utf8EndExclusive": 158392,
+      "sha256": "59e83b03c6e7cec964e8f4901ffea2e5270ea9f6b1d6a666c16d8d4000f48905",
+      "opening": "Joyce Dean was discussing civic responsibility when the studio door opened. Minh came in with Mai beside him, followed by Dante and Reggie. Leon remained outside conducting a dispute with a vending machine."
+    },
+    {
+      "number": 16,
+      "file": "listening/section-016.txt",
+      "label": "Preparing the Rescue; Thirty Workers",
+      "chapters": [
+        18,
+        19
+      ],
+      "words": 1953,
+      "utf16Start": 155369,
+      "utf16EndExclusive": 166859,
+      "utf8Start": 158392,
+      "utf8EndExclusive": 170142,
+      "sha256": "cb53e8721ad2508815a64958bc5e8ac6be7c38b1c75679f6957d5e24a6be1be5",
+      "opening": "Chapter 18: The Wrong Suit"
+    },
+    {
+      "number": 17,
+      "file": "listening/section-017.txt",
+      "label": "The Missing Mechanic; Back to Shore",
+      "chapters": [
+        19,
+        20
+      ],
+      "words": 1812,
+      "utf16Start": 166859,
+      "utf16EndExclusive": 177119,
+      "utf8Start": 170142,
+      "utf8EndExclusive": 180546,
+      "sha256": "c57ec613938b5108401aa38cbea201769edd95094c022715518b8041c7743e52",
+      "opening": "The guard shut the stair door behind him."
+    },
+    {
+      "number": 18,
+      "file": "listening/section-018.txt",
+      "label": "Bell Street; the Freight Terminal",
+      "chapters": [
+        21,
+        22
+      ],
+      "words": 1998,
+      "utf16Start": 177119,
+      "utf16EndExclusive": 188678,
+      "utf8Start": 180546,
+      "utf8EndExclusive": 192290,
+      "sha256": "d3753c56d1cf613bfb71bf507ae0fff8198fa1c8b592141e9e72f1730963361e",
+      "opening": "Chapter 21: A Street Full of Presents"
+    },
+    {
+      "number": 19,
+      "file": "listening/section-019.txt",
+      "label": "The Ramp",
+      "chapters": [
+        22,
+        23
+      ],
+      "words": 2004,
+      "utf16Start": 188678,
+      "utf16EndExclusive": 199963,
+      "utf8Start": 192290,
+      "utf8EndExclusive": 203718,
+      "sha256": "16aaacc921ccf81e4b69e5845c7c3b745c07e37d1b5ba1f076f939294d004fa7",
+      "opening": "The Monarch's ramp stood open, wide enough for two vehicles. A truck loaded with steel plates occupied the middle. Dense machinery had been chained beside it, fastened directly to the ramp's structure. Its outer lip rested on the pier. At the shipward end, two immense hinges and hydraulic arms held it to the bow."
+    },
+    {
+      "number": 20,
+      "file": "listening/section-020.txt",
+      "label": "Rook and the Hospital",
+      "chapters": [
+        24
+      ],
+      "words": 1544,
+      "utf16Start": 199963,
+      "utf16EndExclusive": 209218,
+      "utf8Start": 203718,
+      "utf8EndExclusive": 213174,
+      "sha256": "613cf9c1a7ae893df7fb05bf1d128ee9d862b3794a185f36a16103d23ab90b6a",
+      "opening": "Chapter 24: Keep the Receipt"
+    },
+    {
+      "number": 21,
+      "file": "listening/section-021.txt",
+      "label": "Recovery and Repairs",
+      "chapters": [
+        25
+      ],
+      "words": 1715,
+      "utf16Start": 209218,
+      "utf16EndExclusive": 219209,
+      "utf8Start": 213174,
+      "utf8EndExclusive": 223341,
+      "sha256": "2d015ba31c65275fcc5c3fbc56eedeb51b199259979c213fc65c02426ee12f01",
+      "opening": "Chapter 25: Everybody Brought Something"
+    },
+    {
+      "number": 22,
+      "file": "listening/section-022.txt",
+      "label": "The First Date",
+      "chapters": [
+        26
+      ],
+      "words": 2064,
+      "utf16Start": 219209,
+      "utf16EndExclusive": 231121,
+      "utf8Start": 223341,
+      "utf8EndExclusive": 235484,
+      "sha256": "316a9835fec91dd67bf6870d0281e238e72f3fb3e8d50dfc64163f0ff19171ce",
+      "opening": "Chapter 26: Before the Good Shoes"
+    },
+    {
+      "number": 23,
+      "file": "listening/section-023.txt",
+      "label": "Rehearsal and Wedding Morning",
+      "chapters": [
+        27,
+        28
+      ],
+      "words": 2240,
+      "utf16Start": 231121,
+      "utf16EndExclusive": 244183,
+      "utf8Start": 235484,
+      "utf8EndExclusive": 248842,
+      "sha256": "2bf19d44b732df1dfc26355ae69a9a9d143698f07628e3bd68b5e43148616b76",
+      "opening": "Chapter 27: The Practice Dinner"
+    },
+    {
+      "number": 24,
+      "file": "listening/section-024.txt",
+      "label": "The Wedding and the Way Home",
+      "chapters": [
+        28
+      ],
+      "words": 2205,
+      "utf16Start": 244183,
+      "utf16EndExclusive": 257068,
+      "utf8Start": 248842,
+      "utf8EndExclusive": 261990,
+      "sha256": "4ec44e3db0f0f4c6470f3d0c34f0fc74c3a79e6ccadb34209992478ff29d9b46",
+      "opening": "Outside Bách's hall, guests had filled the pavement before the doors opened. Polished cars stood among flower vans. A man Minh had once helped recover a stolen truck arrived carrying a roasted pig. Marisol brought an envelope and said she had deducted nothing, making Leon visibly suspicious. Veronica arrived with her husband and reported that the arcade had never earned as much as during the week people came to see the damaged pool table."
+    }
+  ]
+}

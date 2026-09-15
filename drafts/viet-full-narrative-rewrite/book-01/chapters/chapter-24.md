@@ -1,0 +1,223 @@
+## Chapter 24: The Last Fare
+
+The old terminal filled the forward windows when I reached the lounge. Part of its roof had collapsed years ago. Concrete pillars stood in the water beneath a long loading platform, their sides black with river slime. A service crane leaned over the abandoned berth.
+
+We were approaching too fast.
+
+The floor tilted. I caught a chair and waited for the roll before moving again. My left ankle had stiffened on the stairs. Each breath scraped against the broken place in my ribs.
+
+Saint waited by the deck doors with a life jacket over his suit and another in his hands.
+
+“Put this on,” he told me.
+
+“Where's Imani?” I asked.
+
+“Trying to get into the bridge,” Saint said.
+
+“The guests?” I asked.
+
+“Aft deck. Crew with them,” he told me. “Rafa's bringing the launch around.”
+
+He held the life jacket against my chest until I put my arms through it. Its strap pressed into my ribs. I swallowed the sound that tried to come out and tightened the strap anyway.
+
+Saint looked at my face. “How bad?”
+
+“Ask me when the floor stops moving,” I said.
+
+I went upstairs. Imani stood outside the locked bridge door. Beside her, a deckhand with a bleeding scalp held a ring of keys that hadn't helped.
+
+“He's inside,” Imani said. “One guard with him.”
+
+I knocked. Sunday's voice came through the door.
+
+“Where's Rhett?” he asked.
+
+“Lying down,” I told him.
+
+No answer came. I stepped back. Imani pulled the deckhand out of the way.
+
+I kicked beside the lock. The frame cracked, but the door held. Pain ran from my ankle to my knee. I shifted onto the other foot and hit it with my shoulder.
+
+The frame broke from the wall. I went through with the door falling beneath me.
+
+The guard fired. I landed on my side, and the shot passed above my head into a window behind Imani. I caught the fallen door's upper edge and shoved it upright between us.
+
+His next shot hit the wood. I drove the door forward and pinned him against the chart table. His gun hand protruded beyond its edge. I caught the wrist, bent it down, and struck the pistol against the table until he let go.
+
+Imani came past me and went directly to the controls. Sunday stood across the bridge clutching a black bag to his chest. He held a pistol in his other hand.
+
+“Nobody touches that,” Sunday said.
+
+Imani moved the controls without looking at him, then glanced through the windows and swore under her breath.
+
+Sunday raised his gun toward her. I threw the guard into him. Both men hit the wall, and Sunday's shot went through the ceiling. I caught his gun wrist before he could aim again and slammed it against the metal window frame.
+
+He cried out. The black bag fell, spilling bundles of cash between his feet. Sunday drove a knee into my injured side. My grip loosened with the pain, and he pulled free, still holding the pistol.
+
+He ran through the side door. I took a breath that didn't go far enough and followed onto the outer walkway.
+
+Wind struck my face. The terminal was closer. Below us, people shouted on the deck. Behind me, Imani spoke rapidly into the bridge radio.
+
+Sunday ran toward the forward observation platform. I caught him at the end of the narrow walkway. He turned and fired from the hip.
+
+The bullet tore through the loose side of my life jacket. I felt heat against my shirt. I struck his gun hand with both of mine and drove him against the rail. The pistol fell into the river.
+
+Sunday caught my collar and pulled me close enough to smell the champagne on his breath.
+
+“You ruined everything,” he told me.
+
+I drove my forehead into his face. His hands opened. I punched his stomach, then caught his jacket before he went over the rail.
+
+He hung backward across the metal with one shoe scraping the deck. Water rushed along the hull below.
+
+“You put them on the boat,” I said.
+
+He looked at me through the blood running from his nose.
+
+“They paid to see you,” Sunday replied.
+
+He reached into his jacket. I caught his wrist as a small knife came out. For a moment we stayed locked together at the rail, the blade between us and the terminal growing larger behind his head.
+
+The ferry struck the outer fender.
+
+The impact threw us sideways. Sunday's back hit a rail post, tearing it loose at the base. I caught the remaining rail with my free hand as the walkway lurched beneath me.
+
+Sunday slashed at my fingers. The knife cut across two knuckles. My grip slipped.
+
+I let go of his wrist, caught the front of his jacket with both hands, and lifted him clear of the broken rail. His eyes widened. I threw him away from me.
+
+He hit the concrete edge of the loading platform, folded against it, and dropped into the water between the pillars.
+
+I seized the remaining rail beyond the torn post and hauled myself back onto the walkway. For several seconds I couldn't stand. The ferry scraped along the terminal fender with a roar of tearing wood. The crane cable swung toward the windows above me. Imani shouted from inside the bridge.
+
+I got up and staggered through the side door. She held the controls. The injured deckhand stood beside her, pressing a cloth to his scalp while relaying her orders into the radio.
+
+“Can you stop it?” I asked.
+
+“I'm keeping the people end away from the concrete,” Imani told me.
+
+Another impact shook the hull. She turned toward me.
+
+“Get them off,” Imani said.
+
+I went down the stairs into a room of sliding furniture. Chairs scraped across the tilted floor. A table hit the bar and broke its last intact mirror. Sunday's open bag tumbled down the stairwell behind me, spilling more bundles before catching beneath a chair. Loose notes blew across the lounge and scattered under the tables.
+
+At the deck doors, Saint was trying to stop a man from going back for his wallet.
+
+“There are literally dollars on the floor,” Saint told him. “Choose a new wallet later.”
+
+I caught the man's sleeve and turned him toward the exit.
+
+“Go,” I said.
+
+He went. I followed him through the deck doors and down the broad aft steps to the sheltered working deck beside the vehicle-loading area. Guests crowded along its rail while crew members fitted life jackets on everyone they could reach. Rafa's launch rose and fell beside the starboard boarding point, separated from the ferry by a narrow strip of dark water.
+
+Hậu stood at the boarding point with a crew member. Behind him, Voss and another man held King upright. King was conscious, barely. His tied wrists rested in front of him.
+
+Rafa looked up from the launch.
+
+“You look like shit,” he said.
+
+“Everybody keeps getting more specific,” I told him.
+
+He brought the launch closer. A crew member secured it long enough for the first group to climb down. They moved slowly until the ferry shuddered again. Hậu lifted a woman who couldn't manage the step and passed her to the man waiting below. Then he passed down a child. An elderly man apologized for his knees.
+
+“You brought all of yourself,” Hậu told him. “That's enough.”
+
+The man squeezed Hậu's shoulder before letting go.
+
+Farther out, a harbor rescue boat approached with lights flashing over the water. Imani's calls had reached people who knew how to arrive without applause.
+
+Across the stern of that same deck, to port of the boarding point, water came beneath the vehicle-loading gate. The impact had bent the gate inside its frame, and each roll washed more water toward the aft steps. A timber brace lay split beside it.
+
+I put both hands against the steel. The next surge drove me backward six inches.
+
+I planted my good foot against the rail base and pushed the gate toward its frame. Metal grated. Water forced its way through the narrowing gaps around my hands.
+
+“Aiden,” Hậu called.
+
+“Keep moving them,” I told him.
+
+The launch pulled away with its first load. The rescue boat came in behind it. More passengers climbed down, crew members guiding them across the change in height as the two vessels rose and fell differently.
+
+I held the gate while the ferry rolled against me. Each shove hurt my ribs. River water burned in the cuts across my knuckles. I shifted my hands and put my shoulder against the steel, driving it another inch into the frame with both legs.
+
+Behind me, somebody prayed. Somebody else called my name.
+
+“Get on the boat,” I told them.
+
+Groups kept passing down to the rescuers. Deckhands escorted the disarmed guards with them; I recognized the man from the chart table and the two who'd held the lower passage. I watched their shoes between surges, counting without getting far enough before the next pressure broke my concentration. When the water eased for a moment, I looked back properly. The aft deck was nearly clear.
+
+King waited at the boarding point between Voss and a crew member. He watched me hold the gate. Our eyes met. Then he lowered his head and let them help him onto the rescue boat.
+
+Voss settled him beside a medic and stepped back onto the ferry to help the remaining crew. Saint came to the gate.
+
+“I'm not leaving you,” he told me.
+
+“Go help Hậu,” I said.
+
+“He told me to help you,” Saint replied.
+
+“Everybody's very generous tonight,” I told him.
+
+He put both hands against the steel beside mine. His shoes slid at once. He found a deck fitting to brace against and pushed again. Hậu joined him on my other side.
+
+Between them, they took enough pressure for me to move my shoulder. I drew a breath and looked toward the stairs.
+
+Imani appeared with Edwin and the last two deckhands.
+
+“Every compartment clear,” Imani called. “Below and the bridge.”
+
+Rafa brought the launch alongside again. The remaining crew climbed down. Edwin needed help, but complained the whole way, which made Hậu smile despite the strain on his face.
+
+Imani looked at the gate and then at me.
+
+“Leave it,” she said.
+
+“It'll open,” I told her.
+
+“Then let the boat have the water,” Imani replied. “We've got the people.”
+
+I nodded. Hậu and Saint moved first. I held through one more roll and waited for the pressure to ease before stepping away.
+
+The gate burst inward. Water rushed across the deck behind me.
+
+I limped toward the boarding point as the ferry listed. My left ankle gave out on the final step. Hậu caught me beneath one arm. Voss had climbed down ahead of the last group; he reached up from the launch and caught the other.
+
+They dragged me over the rail and dropped me between two benches. Pain went through my ribs so sharply that I couldn't make a sound.
+
+Hậu climbed down after me and steadied the rail as Saint landed beside us. Imani came down last, stepped over my legs, and told Rafa to move. The launch pulled away.
+
+I lay on my back beneath the ferry's lights. The Sunday Best leaned against the old terminal, its gold stripe disappearing into the dark water along one side. Above it, my enormous painted face still hung from the upper rail.
+
+Saint saw where I was looking.
+
+“We're getting that down,” he said.
+
+I tried to laugh and regretted it immediately.
+
+At the rescue quay, people waited beneath floodlights. Medics moved among the passengers. Blankets went from hand to hand. Somebody had brought bottled water and was refusing payment with the sternness of a man who understood the occasion.
+
+Hậu and Voss helped me out of the launch. The woman we'd passed down first recognized me and stood. The man with the bad knees got up beside her.
+
+They began clapping. The sound spread along the quay until even the people carrying blankets stopped for a moment to join in. I tried to wave. My arm didn't rise very far.
+
+Saint lifted it for me.
+
+“Careful,” I said.
+
+“I'm managing the image,” Saint told me.
+
+A medic pushed between us and pointed at a stretcher.
+
+“Lie down,” she said.
+
+I lay down. As they wheeled me toward the ambulance, an old man pressed a folded twenty-dollar bill into my good hand.
+
+“For getting us off,” he told me.
+
+I looked at the money, then at the ambulance.
+
+“That's probably not going to cover it,” I said.
+
+He laughed and added another twenty.

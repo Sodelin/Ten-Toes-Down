@@ -1,0 +1,135 @@
+## Chapter 20: Nobody Gets to Sink My Wife
+
+Three fires climbed the yellow warehouse at Hollis Pier. The pavilion lights still burned between them. Beneath those bulbs, people moved toward the River Queen in a stumbling line.
+
+Marcus's voice reached the tug through the smoke. “Keep moving. If it isn't a person, stop carrying it.”
+
+Hòa stood at the gangway helping an older man across. Hương held a wet cloth over a child's mouth. Tín counted what he could see, lost track in the smoke, and told Duke to come closer.
+
+Mercy's Cousin touched the barge's outer fenders. Tín jumped across, passed a stack of trays, and went into the ballroom. People sat coughing against the far wall. Ruth stood beside the organ, ordering Ellis to abandon his tools.
+
+“It survived one fire,” Ruth told the technician. “Walk.”
+
+Ellis looked at Tín. Tín pointed to the outside deck. Ellis went.
+
+Bích emerged carrying a large pot. Tín stopped in front of her.
+
+“People first,” Tín said.
+
+“Everyone from the kitchen is out,” Bích replied.
+
+He took the pot. It was full of soup. Even now, warmth rose from it into his face.
+
+“They'll be hungry,” Bích explained.
+
+Tín looked behind her into the galley. The burners were off. The last helper had set a tray down by the exit rather than carry it into the smoke. Bích had checked the room before bringing the pot; he could see it in the clear counter and the towel folded over the handle to protect her hands.
+
+“You turned everything off?” Tín asked.
+
+Bích pointed toward the cold stove with her chin. “You can look.”
+
+He had looked. He didn't argue again. At the far wall, a man coughed so hard the woman beside him had to hold his shoulders. Near them, a child cried without making much sound. Bích followed his gaze.
+
+“They need something warm after this,” Bích said.
+
+Tín tightened his grip on the pot handles. He could remove weight quickly. She had been keeping people from coming apart while they waited for him to arrive. Neither job made the other unnecessary.
+
+Tín set it on the cold stove, kissed her forehead, and sent her toward clearer air. She took the ladle.
+
+At the gangway, Tín could see the shore route cut off between warehouse and ticket booth. Those who had attempted it were returning through thickening smoke. Hòa helped a dockhand whose melted shoe dragged across the boards.
+
+“Rosa's checking the far end,” Hòa told Tín. “Mai's with her.”
+
+Tín turned toward the pavilion. His granddaughter emerged carrying a little girl. Rosa followed with the child's father, one leg bleeding. An overhead beam dropped in front of them.
+
+Tín ran down the gangway and caught the burning timber before it struck Mai. Heat hit his face. His sleeve began smoking again. He lifted the beam over his head, making an opening with his body.
+
+Mai ran beneath his arms with the girl. Rosa dragged the father after her. Tín turned and threw the beam into the river. Steam erupted below.
+
+“Nobody else,” Rosa called.
+
+Tín looked through the smoke anyway. A pale shape moved behind the organ's temporary pipe frame. He crossed to it and found the night-market saxophonist crouched there, his jacket caught on a bolt behind his shoulder. He kept pulling forward, tightening the cloth.
+
+Tín tore it free. The musician rose with his instrument case against his chest.
+
+“Came for the music,” the saxophonist said.
+
+“On the boat,” Tín told him, guiding him toward the gangway.
+
+Windows burst along the warehouse's upper floor. Burning fragments fell onto the pavilion roof. Tín felt the boards shift beneath his feet, a movement running ahead of him toward the gangway.
+
+“Go,” Tín told the musician.
+
+The man ran. One support had burned through near the waterline. The long outer platform sagged; the pavilion leaned with it, dragging the gangway's lower end sideways while people were still crossing.
+
+Tín dropped through a broken section into waist-deep water. Above him, fire made a low ceiling. He wedged his shoulder beneath the main beam and stood. The sinking platform lifted. Feet began moving again overhead.
+
+“Clear it,” Tín shouted.
+
+Hòa appeared above at the barge rail. “Almost.”
+
+Part of the pavilion roof fell onto the supported beam. Tín's feet drove deeper into mud. Water reached his chest. He pushed until the gangway rose the last inches needed for an older woman's dragging foot to clear its lip.
+
+The weight pressed breath out of his injured ribs. He could no longer see who stood above, only shoes and hands against bright smoke.
+
+“Move them,” Tín called.
+
+Last footsteps. Scraping metal. The gangway came loose from shore.
+
+“Clear,” Hòa shouted down.
+
+Tín stepped toward open water and shoved the beam away from the boat. The pavilion folded into the space he left. Burning timber struck the river, and a roof section swept past his head. He ducked, surfaced beside the barge, and pulled himself over the lowest rail.
+
+For several breaths he knelt on the deck, water running out of his clothes. Mai crouched beside him, still holding the girl's hand.
+
+“Grandpa,” Mai said.
+
+Tín looked up. “Here.”
+
+She nodded quickly, then took the child to her father. Duke shouted about the moorings from the tug. Two lines still held the River Queen to the burning pier.
+
+Tín tore the first shore fitting free and dropped the slack line onto the deck. The second ran beneath the broken gangway and dragged the stern toward the fire. He ran aft.
+
+A wet man climbed over the rear rail in front of him holding a knife. Behind him, a launch hugged the stern. Its driver watched while another man crouched beside fuel.
+
+Tín looked at the burning pier and back at the knife.
+
+“You should have stayed ashore,” Tín said.
+
+The man lunged. Tín caught his wrist, bent it outward, and drove the knife into the rail beside the man's own hand. A palm beneath the jaw put him flat on the deck.
+
+In the launch, the crouching man rose with a burning bottle. Tín tore the rear ladder loose and threw it across the smaller boat. It crushed the windshield and struck both men. The bottle broke inside. Fire spread across the seat.
+
+The driver jumped overboard. The other man caught beneath the ladder clawed at it while flames reached his jacket. Tín dropped beside him, hauled him clear, and threw him toward the barge. Wade and a volunteer caught his arms and dragged him aboard.
+
+The launch drifted away burning. Patrol turned to collect its swimming driver. Tín climbed back and gripped the remaining line. It cut his torn palm; river water and blood ran down his wrist. He pulled again. The fixing came away with a section of timber. He swung it clear of the boat and let it fall.
+
+The River Queen moved free. Duke pulled from the bow while Rosa's fishing boat pushed the stern around. They headed east away from Hollis, fire engines flashing on the shore road behind them. Patrol came alongside for the badly injured.
+
+Tín stayed at the rail until the burning pier was behind them. Then he went inside.
+
+Bích served soup to people sitting on the floor. Some hands shook too badly to hold bowls alone. Hương helped a mother feed her child. Ruth collected glass in her hatbox. The saxophonist sat by the door with his case unopened.
+
+Wade brought spoons from the galley. He counted them badly the first time, went back, and returned with more. Rosa checked the father's bandaged leg while his little girl leaned against him, exhausted now that she could stop being carried.
+
+Tín knelt beside them before accepting his own bowl. The girl looked at his wet shirt, then at the bandages on his hands.
+
+“Hot?” the girl asked.
+
+“It was hot back there,” Tín told the girl. “It’s cooler here with your father.”
+
+Her father tried to thank him. The words broke when he looked down at her. Tín touched the man's shoulder and let him stop. Mai sat on his other side and showed the girl how to hold a bowl against a folded cloth without burning her fingers.
+
+At the door, Ellis had found Ruth's hatbox full of glass. He offered to take it. Ruth made him sit and hold it on his knees instead, where his hands finally had an occupation that didn't involve returning to the pier for tools.
+
+Bích brought Tín a bowl. He took it in both hands.
+
+“You see?” Bích asked.
+
+Tín looked down at the food. “I see.”
+
+She sat with him on the edge of the stage. For several minutes he ate without speaking while the engine vibrated beneath their feet.
+
+Then Vega's voice came from the office radio.
+
+“Stay west of the bridge, Tín,” Vega warned. “Rook's men have the crane.”

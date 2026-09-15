@@ -1,0 +1,211 @@
+## Chapter 26: The King Comes Home
+
+Valerie met the moving crew at Orchard House with a list, a tape measure, and the calm of a woman who'd already survived every item on both.
+
+“Piano first,” Valerie said.
+
+Saint looked toward the breakfast room. “Mrs. Devlin says moving affects an instrument's voice.”
+
+“Perhaps it will learn to whisper,” Valerie replied.
+
+The sky piano stood under the window, stars bright along its open lid. Crowe's gold E remained on one corner. I'd left it there. Sometimes a beautiful object ought to admit which man's public mistake had paid for it.
+
+Dad examined the movers' straps. “Won't need all of those.”
+
+“We're insured,” the lead mover said, looking at Dad's shoulders.
+
+“Excellent,” Dad replied.
+
+He took the heavy end. The movers took the other. Halfway through the breakfast-room door, one looked down and discovered his strap hanging loose because Dad held almost all the weight.
+
+Dad waited. “Feet moving.”
+
+They resumed. Saint followed with the bench and narrated into his phone until Valerie extended her hand. Saint stopped recording and pocketed it himself. Valerie nodded, pleased to discover one institution still functioning.
+
+I carried a box of books, a framed photograph, and the toaster. The doctor had approved that list. Every heavier object acquired somebody else's hands before I reached it. My dressing had become a household regulation nobody trusted me to remember.
+
+The last three weeks had passed between the clinic, Trinh's room at the Pearl, and short visits here to collect clothes. Today, the morning after the rescheduled race, I was taking the rest. My own flat waited above a stationery shop two blocks from the Pearl. Saint already called it the royal annex, despite having no authority to name any building with a functioning owner.
+
+Benny's card lay beside the keys Valerie needed returned. His message said the monthly appearances continued. He'd bought a house, not amnesia. I put the card in my pocket with the obligation it represented.
+
+Shawna came downstairs while the movers carried the piano outside. Work trousers, loose white shirt, pencil holding up her hair. During my absence the house had become quieter around her. A rack stood where one of my statues had been. Fabric samples occupied the long table. Her workroom door stood open.
+
+Shawna handed me a cloth bag. “Your cuff links were in the bathroom drawer.”
+
+“Thank you,” I said.
+
+Outside somebody warned Saint away from the piano wheels. He claimed to be assessing the slope. Dad told him the slope had reached its own conclusions. Shawna smiled at the sound, then looked at the keys in my hand.
+
+“Garden key stays with Valerie,” Shawna said. “We use that door for deliveries.”
+
+I separated it and put it on the table. I asked about the showroom.
+
+“I've signed the lease,” Shawna said. “Our first store order ships next month. Marisol wants another pair of hands before she grows a second spine.”
+
+“She's probably right,” I said.
+
+“She's certainly insufferable about it,” Shawna replied, smiling a little longer this time.
+
+“I'm glad it's going well,” I told Shawna. She nodded without looking away. For once I could say a true thing without asking her to turn it into forgiveness.
+
+She gave me an envelope containing the separate household arrangements. I would read them after settling in, and we'd talk the following week. She also wanted the blue saucepan back if it appeared in my kitchen.
+
+“I didn't pack a saucepan,” I said.
+
+“You acquired a hotel yesterday,” Shawna told me. “I can't follow every object entering your life.”
+
+I laughed. She touched the cuff-link bag with one finger, then lowered her hand.
+
+“I hope you like the flat,” Shawna said.
+
+“I think I will,” I said.
+
+We hugged carefully. My shoulder made it awkward, and the reason for the hug made it more so. She held me a moment and stepped back. I didn't try to turn the pause into a promise.
+
+At the door I looked toward the space the piano had occupied.
+
+“The room looks bigger,” I said.
+
+“It always was,” Shawna answered. “You kept putting things in it.”
+
+Valerie gave me the books. Shawna returned to the workroom. I carried the box outside while Dad explained how to secure an instrument he could have held in place through the whole journey.
+
+“Trust them?” I asked him.
+
+Dad looked at me. “They have a job.”
+
+I put my books in the car and let the movers finish theirs.
+
+Bell Street greeted the truck with WELCOME HOME, KING. Someone had added PLEASE USE DESIGNATED PARKING beneath it. Trinh stood under the second line.
+
+“Mine,” Trinh said when I looked.
+
+Mrs. Farrow owned the stationery shop below the flat. She'd watched three generations of men attempt to negotiate envelope prices. She inspected the truck, then gave me twelve ballpoint pens in a packet.
+
+“You always borrow one,” Mrs. Farrow said. “Blue ink. Don't complain.”
+
+I thanked her with more care than I'd given Crowe's check.
+
+The stairs made two tight turns up to the second floor. Inside were a broad living room, small kitchen, bedroom, and study looking onto the street. Enough room to lose keys without employing someone to search a wing. Khải had inspected the building, invoiced at his ordinary rate, and received payment before I asked him to dinner. That order mattered to us both.
+
+The piano was going to be a problem.
+
+At the foot of the stairs the lead mover studied the first turn. “We measured the landing.”
+
+“The instrument's longer,” Dad observed.
+
+“We noticed,” the mover said.
+
+Saint held the bench under an arm. “Could it turn emotionally?”
+
+Nobody rewarded him.
+
+Hòa arrived with a bag of noodles. Hương followed carrying food and the expression of a woman who'd spent the morning explaining colors.
+
+“Blue packets,” Hương told me as she passed.
+
+“I see them,” I said.
+
+“He could too,” Hương said, and continued upstairs.
+
+Granddad smiled and followed. Tín came with Mom, carrying his cushion and a small paper bag. He stopped at the piano, tapped a key, and let the note fill the stairwell.
+
+“Confident furniture,” Tín said.
+
+“I won it,” I told Tín.
+
+“People say that about trouble they won't sell,” Tín said.
+
+Mom took his paper bag before he set it on the polished lid. Tín inspected the stair turn and called Hòa's name.
+
+“I've seen it,” Hòa answered from above.
+
+“Did you?” Tín asked.
+
+“Yes,” Granddad replied.
+
+Tín smiled and went up. Dad offered the movers a five-minute break. The lead mover pointed out they hadn't begun. Dad told him they would remain fresh. Saint located coffee and led them outside before anyone could insist on working.
+
+Mom asked me to carry the light bag to the kitchen. I went upstairs and opened it. Six spoons, salt, and a dish towel from her house.
+
+“Hotel owner,” Mom said, opening drawers, “and I don't trust your cutlery.”
+
+Hương took the stove. Tín occupied the best chair, which had somehow arrived ahead of the sofa. Dad came in carrying my books. I put spoons where Mom pointed.
+
+A deep wooden note sounded from the living room.
+
+I turned. The piano stood beside the window.
+
+Hòa was closing its lid. The protective blanket lay folded on the bench. A little dust marked his left sleeve. I looked at the stair door. The wall was unchanged. So was the doorway.
+
+Dad put down the books without comment.
+
+“How?” I asked.
+
+Granddad moved the blue noodle packets off the counter. “It fits there nicely.”
+
+“I can see where it fits,” I said.
+
+“Then don't block the window,” Hòa told me. “The movers will want their blanket.”
+
+Tín laughed into his cup. I looked at him. He lifted both eyebrows in sheer pleasure.
+
+“Ask Hòa,” Tín said.
+
+Hòa opened the drawer and inspected Mom's spoons as though their workmanship might explain every outstanding question. I looked down the stairs again and learned nothing new.
+
+The movers returned. Their leader stopped in the doorway, took in the piano, and looked at Dad. Dad shook his head once. The man looked at Tín. Tín lifted his cup. Hòa gave him the folded blanket and thanked him.
+
+After a long moment the mover handed me the delivery sheet. I took one of Mrs. Farrow's pens out of my pocket.
+
+“Finally,” I said. “Something I can explain.”
+
+By evening the flat contained my family, most of the crew, and more food than its kitchen had surfaces. Denise delivered a tray before going to dinner with Shawna and Marisol. She kissed Mom, inspected my healing face, and told me I looked cheaper to repair.
+
+Loan brought a good kitchen knife. Saint reached for its wrapping with his phone ready; Loan told him he'd lose a finger if he opened it for a video. He placed both objects down with unusual care.
+
+Hậu brought the old Bell Street Fight Club sign, then admitted Mara had only permitted a loan. Voss wanted it back when he returned from Fresno. Three wins, Hậu reported. Voss had developed opinions about standards.
+
+Rafa put a framed Argent photograph on my study desk. Tess had signed it under DRIVER INCLUDED NO MIRACLES REQUIRED.
+
+“For you,” Rafa said.
+
+“Recognized the affection,” I told him.
+
+Louis arrived on a crutch with Eddie and Nessa. His thigh had healed enough to let him reject every offered chair. Felix came behind with the replacement folding one and gave Louis first use. That suited him. Nessa sat nearby with Celeste's bottle, finally opened, and laughed when Felix explained the chair's contractual position.
+
+Irene came late. She examined the crowded rooms, placed a small silver bell on the kitchen counter, and told me it was for visitors who needed to leave. Saint touched it. Mom caught his wrist before it rang. He withdrew respectfully.
+
+After dinner I went into the study and called Khải. From the living room came Saint's first recognizable bars at the piano. Mrs. Devlin's prepaid persistence had achieved a melody. Tín interrupted six notes in to ask whether the instrument had been injured in transit.
+
+Khải answered laughing at something in his own room.
+
+“Inspector?” I asked.
+
+“Model shopping center,” Khải said. “Blocking three fire exits.”
+
+“Wednesday. Seven. Dinner,” I told him.
+
+He asked where. I named a small restaurant near the river, tables close enough that nobody could pretend they hadn't seen us.
+
+“I like it,” Khải said.
+
+“So do I,” I said.
+
+“Wednesday,” Khải confirmed.
+
+We ended without inventing a second destination. I stayed by the window a moment. Somebody had moved the welcome banner so it no longer hid Mrs. Farrow's shop sign. My parking structure leaked somewhere to the west with my name on it. The Ducal stood beyond the ridge. The toaster waited in my kitchen beside Mom's six spoons.
+
+Dad called me back. I put away the phone, went to him, and bowed. He rested a hand briefly at the back of my neck, then let me straighten.
+
+“Eat,” Dad said.
+
+“Again?” I asked.
+
+Tín tapped his empty plate. “Listen to this rich nigga. First day in his own place and he's rationing rice.”
+
+Mom passed the pot. Hòa held out Tín's plate, already prepared for the larger portion he'd demand. I filled it.
+
+Saint found the next piano note. It was wrong.
+
+Tín pointed his spoon across the room. “Twenty thousand dollars. Play one I recognize.”

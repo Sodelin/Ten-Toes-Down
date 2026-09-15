@@ -166,7 +166,7 @@ She was through the door before I'd put the chopsticks down. Saint left his bowl
 
 “You just got home,” Denise said.
 
-“I know, Auntie.”
+“I know, Auntie,” I told her.
 
 She pressed the lid flat. “And I used the good broth.”
 

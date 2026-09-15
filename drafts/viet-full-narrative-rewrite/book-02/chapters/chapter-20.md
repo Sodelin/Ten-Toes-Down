@@ -1,0 +1,101 @@
+## Chapter 20: The Groom's Side
+
+The six guards stopped at the foot of the stairs. Their helmets and body armor made a convincing purchase until they looked at the man waiting between them and the laundry carts.
+
+Minh rolled up his sleeves. Navarro asked if he should cover his head.
+
+“Keep the jacket clean,” Minh said.
+
+Navarro looked once more at the guards, folded the jacket smaller, and put it beneath his own shirt. “Understood.”
+
+The nearest rifle rose. Minh kicked an empty cart across the deck. It hit the man's knees and took him into the guard behind him. Both fell under a burst of clean towels. Minh lifted the second cart and threw it sideways into the next pair. It struck their waists and drove them into a baggage tractor. A helmet hit the steering column like a dropped pan.
+
+The last two fired. Minh was already down, sliding across the wet deck on one knee. He caught a rifle and pulled its owner into his companion. The weapon discharged between them. Minh stood with its stock and barrel pressed crosswise against their throats, drove them into the wall, and lifted until their boots cleared the floor.
+
+“Drop them,” Minh said.
+
+Two guns hit the deck. He lowered the men, took one by each collar, and put them in an open laundry cage. He bent its latch through the mesh handle. The first guard crawled from under the towels toward his rifle. Minh stepped on it.
+
+The guard looked up. “I would like to stop.”
+
+“Doing well,” Minh told him.
+
+The Monarch was too far out for Minh to hear the people ashore. Above the raised ramp he could still see Mai beside Carter, both at the rail. Duy and Sơn were moving toward the small dock where Moss's boat had arrived.
+
+Navarro directed Minh to a side hatch. Below it, twelve feet above the water, a narrow service platform ran along the hull. A folding ladder had been padlocked against the wall. Minh broke the lock in his fist and let the ladder down.
+
+Moss's boat came around the stern on two white wakes. Bách's larger vessel followed with its lights blazing. On the fishing boat's bow, Leon stood in a black life jacket over his sling.
+
+“Groom's side!” Leon called up to Minh.
+
+Minh told him to get closer. The bow rose beside the ladder, dropped, then rose again. Minh lowered Navarro under the arms to the service platform. The man grabbed a rung and said his ankle wouldn't hold.
+
+“It doesn't have to,” Minh said, climbing down behind him with a hand through his belt.
+
+Sơn stood beside Leon, ready. Minh waited for the next swell. As the bow came up, he swung Navarro out across the gap, guided him by the belt, and placed his weight into Sơn's arms. Leon steadied them with his good hand. The boat dropped away carrying all three.
+
+Navarro landed sitting with the gray jacket still beneath his shirt. Leon asked whether he had stolen something. Navarro said he appeared to be transporting a national treasure and handed it over.
+
+“Felicia's,” Leon said, accepting it carefully. “Correct.”
+
+Minh started down the ladder. Gunfire sparked against the hull beside his head. He pulled back through the hatch and looked up. A gunman leaned over the upper rail, aiming toward the boats.
+
+Leon had dragged Navarro behind the cabin. Sơn stood over him in the doorway while Moss shouted for the helmsman to move away. Minh tore the hatch cover from its hinges, stepped onto the service platform, and threw it up beneath the shooter. Steel struck the man from below; his gun spun into the air; he disappeared backward.
+
+Minh jumped for the upper rail and pulled himself onto the deck. A second guard came around the corner holding a compact weapon with both hands. Minh seized a stack of chairs and drove it along the deck. The chairs hit the man's knees and carried him sternward with his arms caught beneath him. Minh took the weapon and threw it into the water.
+
+The ship's horn sounded. Through the bridge window, Rook held up the million-dollar case. Then he pointed toward shore.
+
+At first Minh saw harbor lights. Then headlights appeared on the road leading inland: four vehicles, a truck, more lights behind. His phone rang.
+
+Mai said men were heading for the shop. Carter had a report of gunmen at both ends of Bell Street. She was going back with him.
+
+“Stay with Carter,” Minh told her.
+
+“He's going there too,” Mai said, and the call ended in police-radio noise.
+
+Rook smiled through the glass and tapped the case. Minh put away the phone and crossed the deck toward the bridge.
+
+Four guards came out to meet him. Minh broke a deck chair across the first man's arms, put the remaining frame over the second man's head, and shoved him into the third. The fourth fired into the collision. Minh caught his wrist, turned the muzzle skyward, and drove an elbow into his nose. The man fell against the bridge wall.
+
+Minh reached for its door. Inside, Rook turned the wheel.
+
+The Monarch heeled. Chairs slid over the wet deck. One struck Minh's ankle; his shoes went sideways. Beyond the rail, Moss's fishing boat turned sharply to escape the swinging stern. Leon and Sơn were struggling to hold Navarro behind the cabin as the smaller vessel rolled through the wake.
+
+Minh let go of the bridge door. He ran for the rail and jumped.
+
+The water between the ships opened beneath him, a gap wider than the whole roof of the parking garage he'd jumped from. He aimed for the fishing boat's bow, watching it rise. His feet hit the foredeck; he bent both knees and caught the rail before his momentum carried him through it. The bow plunged. Water came over the front and struck Leon in the chest.
+
+Leon held the cabin door and swore until the boat rose again. Moss stared through the windshield.
+
+“Could've waited,” Moss said.
+
+“For what?” Minh asked.
+
+Moss looked at the Monarch's churned wake and abandoned the suggestion. Minh took the radio beside the helm and called Bách. He told him to follow Rook's ship at a distance that would discourage target practice.
+
+“Where are you going?” Bách asked.
+
+“Home,” Minh said.
+
+Leon pushed wet hair out of his eyes. “That nigga went to everybody's house.”
+
+At the dock, Navarro tried returning the jacket. Minh took it and draped it over Leon instead. Leon had started shivering in his wet shirt. He protested that Felicia would kill him.
+
+“Say I told you,” Minh said.
+
+Leon looked at him. “She knows you.”
+
+Sơn helped Navarro ashore into a chair brought by medics. Navarro raised a hand toward Minh.
+
+“You got thirty-one,” Navarro said.
+
+Minh nodded and turned toward the hospitality vehicle. Duy waited with the engine running. Mai had taken the Rolls behind Carter. Leon climbed into the front seat. Sơn and Tú took the rear. Reggie handed a tape to an officer, then ran after them with his camera beneath his jacket.
+
+Minh looked once toward the water. The Monarch had turned toward the industrial yards beyond the freight terminal. Rook still had the diamonds, the case, and men willing to help him keep them.
+
+Minh got in beside the others and shut the door.
+
+“Bell Street,” he told Duy.
+
+The hospitality vehicle left the dock fast enough to make the bottles in its refrigerator argue all the way to the first turn.

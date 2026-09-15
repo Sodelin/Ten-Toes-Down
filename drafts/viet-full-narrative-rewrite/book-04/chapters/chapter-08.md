@@ -1,0 +1,175 @@
+## Chapter 8: A Very Private Collection
+
+Rusk's masked party began with a woman using a riding crop to direct traffic.
+
+She stood outside his Eastbridge house in a silver mask and barely enough dress to identify a front. Khải slowed his little car while she pointed us behind a hedge. Tess and Rafa waited below the hill with a transporter. Hậu and Irene's driver had gone through catering. The driver had decided two assaults entitled him to choose larger company.
+
+My mask concealed my eyebrows for perhaps fifteen seconds. The first guest we met shouted my name and asked me to turn for his wife's camera.
+
+Khải waited beside me in his white mask. “Excellent. Your nose will remain a mystery.”
+
+Inside, Saint wore purple and had pushed his gold mask onto his forehead. A feathered woman recognized him from a closed nightclub advertisement. Saint explained that the closing had been conceptual. She nodded with the practiced courtesy of somebody who'd already invested in the concept.
+
+Alistair Rusk met us at the stairs. Tall and soft, with a pointed little beard, he shook both my hands and said he'd wanted me here for years. I'd only been back two, but he assured me he planned ahead.
+
+He greeted Khải warmly despite an earlier rejected commission.
+
+“Still room for you,” Rusk told him.
+
+“Still no room for the shark tank,” Khải replied.
+
+“A small shark,” Rusk said.
+
+“A miserable shark,” Khải said, and followed him into the gallery.
+
+Rusk owned paintings, statues, antique motorcycles, a jeweled saddle without a horse, and watches arranged around a skull. I hoped the skull had signed a release. At the far end the Argent Special rested on a circular platform under three spotlights, longer and more absurd than its photograph. Its bronze radiator bird spread narrow wings over enough hood to accommodate an argument on foot.
+
+“Thành's?” I asked Rusk.
+
+“Borrowed from him,” Rusk said. “He wants it back for the final procession. Until then, I get to make the neighbors miserable.”
+
+Khải circled the platform and studied the glass wall behind it. Rusk showed him the controls: the wall slid aside, and a delivery ramp lowered toward the drive beneath the terrace. When Rusk named the designer, Khải's eyebrows moved a fraction.
+
+“He enjoys hinges,” Khải told me after our host left. “Calculations interest him less.”
+
+For half an hour we behaved like guests. A singer performed from the balcony. People danced below. A man wearing formal trousers and an extraordinary necklace carried desserts, apologizing whenever someone called him waiter. He was Rusk's dentist. Khải took two little plates and handed one to me.
+
+“The necklace?” Khải asked when he caught me looking.
+
+“Of course,” I said.
+
+His hand brushed mine when he collected the plate. Neither of us moved apart. Across the room Saint had found the auctioneer and converted the photograph I'd authorized into an afternoon of my services.
+
+I started toward him. Khải caught my sleeve.
+
+“Let him sell Thursday,” Khải said. “We can take the car tonight.”
+
+The auctioneer rang a little bell and asked Saint to specify what an afternoon included. Saint put one hand on his chest and looked toward me with the composure of a man who had never allowed ignorance to limit an offer.
+
+“Conversation, companionship, a photograph suitable for descendants,” Saint announced. “A meal can be negotiated, but don't expect this physique on a salad budget.”
+
+A woman near the dentist raised her paddle. “Can he carry a wardrobe upstairs?”
+
+“He can carry the upstairs to the wardrobe,” Saint replied.
+
+I lifted a hand. “One photograph.”
+
+“Live modesty demonstration included!” Saint called, pointing at me. The auctioneer repeated the new bid. It rose again.
+
+Khải laughed against his glass. “You're attracting practical buyers.”
+
+“I should have specified which Thursday,” I said.
+
+“You should have specified which Aiden,” Khải told me. He stood a little closer as a pair of dancers passed. My hand met his at the side of the table, hidden from the auction by our bodies. He didn't take it away.
+
+“You know everybody's looking over here,” I said.
+
+“At you,” Khải replied. “They'll have opinions about your wardrobe price.”
+
+There was time to move my hand. A waiter came between us and the dance floor; a singer held a long note overhead. I stayed where I was until Khải let go to put down his glass. The choice was small enough to pass unnoticed by anyone who hadn't made it. I felt it anyway.
+
+Hậu appeared beside us with a tray and a mask too small to survive his cheeks. He reported two guards at the ramp and one upstairs. Rafa had requested that I avoid the radiator. Hậu repeated the request with the emphasis of someone who'd heard it delivered personally.
+
+While Saint described talents I didn't possess, Khải operated the wall controls he'd watched Rusk use. Cold air entered. Several guests turned.
+
+“Fresh air,” Khải said pleasantly.
+
+The guard on the terrace reached for his radio. I stepped outside, caught his wrist, and pushed him behind a curtain. Hậu arrived from the steps with the second guard folded under one arm. We put them in an equipment cupboard and used their belts to keep their hands busy. Hậu removed the key before shutting the door, leaving them air and very little ambition.
+
+Inside, bidding had reached a level that made me consider renting myself regularly.
+
+Khải opened the Argent's passenger door. I climbed behind the huge wheel and checked Rafa's notes. The last instruction concerned drama. I set the note face down and started the engine.
+
+The entire gallery vibrated. A spoon fell from the dentist's tray into his shoe.
+
+“Transportation included!” Saint shouted over the applause.
+
+The upper guard saw what was happening before the audience did. He drew a pistol and fired into the display platform beside our front wheel. Hậu threw his tray upward. Glasses burst against the balcony rail and showered the gunman's face. He ducked. I drove off the platform, through the open wall, and onto the delivery ramp.
+
+Its left side dropped. Its right stayed attached.
+
+The front of the Argent tilted toward the terrace wall. I braked with the rear wheels still on the terrace and the front left hanging over twelve feet of air. Below us a fountain occupied the sensible route to the driveway.
+
+Khải gripped the door. “Hinges.”
+
+Rusk reached the opening behind us. “Thành will kill me!”
+
+“Tell him to call,” I said, and climbed out onto the sloping ramp.
+
+The guard fired again. A round glanced off the silver hood. I put both hands under the car's front corner and told Khải to slide over to the wheel. My shoes skidded until their heels met a seam in the deck.
+
+“Right,” I told Khải. “Wheel right.”
+
+I lifted. The suspension extended. The ramp groaned. Hậu came out behind the car and put his shoulder against its rear quarter. Together we shifted the Argent toward the intact side. Khải turned the wheel until the front tire pointed toward the drive.
+
+We needed one more foot. We got it. The entire ramp then tore away from the wall.
+
+Hậu sprang back onto the terrace. I threw myself through the open car door. We fell nose-first, struck the lower drive, bounced, and rushed toward the fountain with Khải gripping the wheel.
+
+He turned hard. The hood missed the basin. The rear didn't. Water covered the windshield, and a stone cherub departed its career through the hedge. We slid through the gate and stopped halfway down the hill.
+
+Khải bent over the wheel laughing. I looked back at the fountain's sudden vacancy and started too. For several seconds neither of us could explain anything.
+
+“I've killed an angel,” Khải managed.
+
+“It entered a vehicle dispute,” I told him.
+
+At the bottom of the hill Tess helped us load the Argent onto the transporter. Hậu and Saint arrived in a catering van. Hậu had lost the mask. Saint had acquired two auction paddles and refused to explain either.
+
+Hậu climbed down holding his left ear between two fingers where the elastic had cut it. He set the empty catering tray on the van roof and bent its rim back toward flatness with one hand.
+
+“Driver's all right?” I asked.
+
+“Irene's man took the other car,” Hậu said. “He said he's finished delivering anything personally unless it has wheels and a lock.”
+
+Saint set one paddle in the gravel while helping Rafa guide the loading ramps. Its large printed number faced upward. Rafa put his boot on it, heard the crack, and lifted his foot.
+
+“Was that expensive?” Rafa asked.
+
+“Not until somebody raises it,” Saint said, retrieving both pieces.
+
+I helped push the Argent the final few inches into position. The ramp beneath my shoe rang once. I stopped. Khải stopped beside me. For a moment we looked down at the intact steel and then at each other, our laughter from the hill returning in a much quieter, more exhausted form. Rafa told us to enjoy being alive after he had the wheels strapped.
+
+Rafa inspected the bullet scar, bent rear panel, and piece of cherub lodged under the bumper. He removed the stone fragment and handed it to me without speaking. Tess climbed into the driver's seat, adjusted herself once, and smiled.
+
+“Oh,” Tess said. “Yes.”
+
+After securing the car, we searched it. Hậu found a shallow compartment beneath the rear seat containing a leather racing glove and a little dog collar. Dried blood marked the glove's wrist. A photograph lay folded inside: a girl with Oscar's eyes.
+
+Khải's laughter stopped. He took the photograph by its edges.
+
+“Lucia,” Khải said.
+
+Irene answered immediately. When I told her what we'd found, the line went quiet. Then she asked us to send everything with her driver. We did. Rafa took the car, Hậu took Saint, and Khải drove me away in his own small car, which suddenly felt almost impossibly ordinary.
+
+His apartment was above a market. It was past two when we climbed the narrow stairs. Warm kitchen light fell across books, clean shoes by the door, and a bowl containing a lime that had apparently outlived several opportunities. Plants filled the roof terrace. His neighbor, Khải admitted, deserved most of the credit for their survival.
+
+My phone vibrated. Shawna. I stepped into the hall.
+
+“All right?” Shawna asked.
+
+“Yes,” I said. “We're at the Pearl. A back-room problem. I'll stay until morning.”
+
+“Trinh can't handle it?” Shawna asked.
+
+“She needs me,” I said.
+
+Shawna accepted it. She told me to call if things became serious. I stood in the hallway after the line went silent, my hand still against the phone.
+
+Inside, Khải had put two glasses of water on the table.
+
+“You told her?” Khải asked.
+
+“I said I was at the Pearl,” I said.
+
+Khải's face changed. “You can go.”
+
+“I know,” I said.
+
+“I want you here,” Khải said. “That doesn't make her vanish.”
+
+I set the phone where we could both see it. “It doesn't.”
+
+He came toward me slowly. I met him before he reached the table. When we kissed, he hesitated, then held me closer. I did the same. We were awake, sober, and entirely aware of the room we'd chosen.
+
+Later Khải took my hand and led me toward the bedroom. I followed. I stayed until morning.

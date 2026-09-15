@@ -1,0 +1,125 @@
+## Chapter 23: A Door Wide Enough
+
+The truck rolled downhill toward Minh. Both his hands were under the broken ramp. His feet rested on the ship's fixed threshold; beyond the load, the other end of the span still touched the pier.
+
+He raised his right knee into the bumper.
+
+The grille folded. The truck stopped a foot above his fingers. Steel plates slammed against the front of the load bed. A chain snapped and whipped across the ramp. Leon ducked. Reggie fell flat with an arm over his camera.
+
+Mai caught the back of Reggie's shirt. “Leave the camera!”
+
+“Attached!” Reggie shouted.
+
+“Bring it faster!” Mai hauled him toward the pier while Minh pushed with his knee. The truck rolled uphill six inches. A second shove took its wheels over the ruined chocks and against a twisted rail.
+
+Labels on the bundled plates gave their weights. Minh read them, added the chained machinery, and looked at the builder's plate near his hand. Ninety tonnes occupied the span.
+
+The torn edge cut into his palms. He bent lower and brought his left shoulder beneath it. His shirt caught, held, then tore. Across the ramp, Duy took Reggie's wrist from Mai and pulled him toward shore. Tú scrambled around the wounded guard's feet to make room.
+
+Sơn appeared beside Minh carrying a length of broken railing. He asked where to put it. Minh indicated the fixed deck behind the torn edge. Sơn wedged the brace between a raised support and the ramp.
+
+Minh let a little weight touch it. The bar bowed at its center. Sơn jumped back as it snapped out of place and struck the wall.
+
+Minh took the load again. “Help them walk,” he told Sơn.
+
+The fighter looked at the empty space beneath Minh's hands, then at two guards still near the truck's rear wheels. One had a wounded leg. The other gripped the rail without moving. Sơn went to them, put his good arm around the injured man's waist, and lifted.
+
+“Your employer's leaving,” Sơn said. “Mine says move.”
+
+The second guard released the rail and followed them toward the pier.
+
+The engines rose before Minh saw the water move. The Monarch pulled backward. Its movement dragged the ramp's outer lip along the pier, inch by scraping inch. Each jolt settled the truck's load closer to him.
+
+Above, Rook stood by the helm with a hand on a lever. The cash case waited at his feet.
+
+Mai saw him. She called into the radio that he was reversing the ship. Navarro answered from Carter's boat: emergency stop, lower control panel beside the service stairs.
+
+Mai turned toward the vehicle deck. Minh caught her eye and told her to stay behind the crates. She nodded and ran.
+
+A guard appeared on the service stairs and raised his pistol at her. Minh took his right hand off the ramp. The weight drove harder into his left shoulder. He reached down, caught a loose piece of hinge housing, and threw it across the deck.
+
+It hit the guard's chest and carried him back up two steps. His gun fired into the stairwell wall. He fell across the landing. Minh returned his hand to the span as Mai reached the control panel and tore its cover open.
+
+A click came from behind the wall. The engine note fell.
+
+The ship kept moving under its momentum.
+
+Leon reached the pier. Duy had Reggie by one arm. Tú helped Sơn lower the wounded guard onto a pallet while Carter's officers ran forward. Minh watched the last feet clear the ramp.
+
+Then the pier disappeared from beneath its outer lip.
+
+The whole span fell into his hands.
+
+His knees bent. His shoes slid backward until his heels struck the raised steel strip on the threshold. He held there, the Monarch's bow dipping with the transfer. The truck rolled another six inches, hit his raised knee again, and stopped.
+
+Pain ran from his palms through his shoulders. Minh lowered his head and drew one foot beneath his hip. He lifted the inner edge an inch. The far end hung above the water, and below it lay Bách's boat.
+
+The captain had brought the vessel around the pier to retrieve anyone who fell. Now the ramp covered half its foredeck. Bách stood beside the cabin staring at the truck above him, both hands empty and his mouth open without a word in it.
+
+“Move!” Minh shouted.
+
+The engines roared. The boat's bow swung toward open water and struck a timber torn from the pier. Its captain reversed, turned, tried again. Minh felt the ramp turn slightly as the ship and suspended load moved differently beneath his grip. He shifted the edge deeper against his shoulder and held it level enough that the truck stayed against his knee.
+
+Mai came back from the controls. She stopped when she saw the far end clear of the pier, then looked down at the trapped boat. Blood ran between Minh's fingers and fell from the underside of the steel. His left shoulder had gone dark.
+
+“How long?” Mai asked.
+
+“Ask him,” Minh said through his teeth.
+
+Bách's angry voice crackled from the radio. He was trying. There was a timber. The captain was attempting to reverse around it.
+
+“Try forward,” Mai told him. “Stop apologizing to the wood.”
+
+The boat drove against the obstruction. Its bow pushed the timber sideways. Water broke white between the hulls as it began clearing the ramp.
+
+Minh's right heel tore through his shoe. Beneath it, the steel strip started peeling from the deck. He moved his foot to the next welded section, kept his other leg under him, and corrected the ramp before the loaded truck could gain another inch.
+
+Mai stood close enough to touch his face. She wiped blood from the corner of his eye with one of Hòa's cloths.
+
+“Can you see?” she asked.
+
+He nodded.
+
+“Good. Look at me when I complain about this later,” Mai said.
+
+The laugh came out of him short and painful. The boat's stern moved beneath the ramp's outer corner. Bách waved both arms and shouted that they were clear.
+
+Minh looked down to check. Then he drove the broken span away from the ship.
+
+It fell flat into the harbor with the truck and machinery still chained to it. Water rose higher than the open vehicle deck. Minh turned, caught Mai around the waist, and put his back toward the wave.
+
+The impact carried them three steps inside. Rope, splintered timber, and a wheel washed past their legs. He held her against him until the water began pouring back out through the bow.
+
+Bách's boat rose on the wave and dropped behind it. Bách vanished from view, then reappeared gripping the cabin rail. On the pier, Leon was soaked again.
+
+Leon's voice came through the radio. “Running out of dry opinions, nigga.”
+
+Mai laughed once against Minh's chest. Then she stepped back and took his hands. He flexed all ten fingers for her. They moved, though the skin over his palms did not like it.
+
+“Enough?” Mai asked.
+
+Minh looked toward the bridge. “Nearly.”
+
+The remaining gunmen had begun leaving their weapons where they stood. One placed a rifle on a crate. Another left a pistol beside the stairs and raised his empty hands as Minh approached. A third came from the crew passage with his jacket open and offered information about an exit at the stern.
+
+Minh nodded toward it. The man went without waiting for a second invitation.
+
+Sơn climbed through the side hatch from Moss's boat, brace wet, trouser leg torn. He inspected the open bow and Minh's hands, then asked whether Minh wanted company.
+
+“Stay with Mai,” Minh said.
+
+Mai opened her mouth. Minh turned to her.
+
+“He needs work,” Minh said.
+
+She considered the argument and nodded. Sơn took his place beside her with the serious attention he had once given the championship belt.
+
+Mai gave Minh another clean cloth. He wrapped his left hand and tightened it with his teeth. His shirt hung open at the shoulder. One shoe no longer had a heel. He went upstairs, letting his right hand brush the rail only where it did not hurt.
+
+Rook waited outside the bridge with a pistol. The million-dollar case stood beside his foot. A smaller steel case sat on it, red velvet caught in its clasp.
+
+“You could've let it fall,” Rook told him.
+
+Minh looked at the cases, then back at the gun. “You could've let them leave.”
+
+Rook raised the pistol. Minh kept walking.

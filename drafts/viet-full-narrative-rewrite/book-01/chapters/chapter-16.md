@@ -1,0 +1,225 @@
+## Chapter 16: Trunk Full of Applause
+
+Pike chose the parking garage beneath the Eastbridge Civic Center. Upstairs, a business association was handing out awards. I learned this because three people stopped me on my way back to the elevator and tried to give me theirs.
+
+“For what you did at the cinema,” one woman said, pressing a glass triangle into my good hand.
+
+I read its inscription: OUTSTANDING CONTRIBUTION TO COMMERCIAL REFRIGERATION.
+
+“I think this belongs to you,” I told her.
+
+“We can get another engraved,” she said.
+
+She insisted on a photograph. I held the award while she stood beside me giving a thumbs-up. Her husband offered me their parking pass. Behind him, a man offered a discount on restaurant seating, the first gift in days that seemed immediately useful.
+
+By the time I reached the garage, I had a gift bag, two plaques, and a bowl of chocolates shaped like tiny hands. Their wrappers called them A ROUND OF APPLAUSE. I put everything in Dad's trunk and went to find the detective.
+
+Pike stood beside a gray unmarked sedan near the far wall. A younger officer waited by its passenger door. He had a broad face and a uniform shirt buttoned to the throat despite the heat. His nameplate read WALKER.
+
+Pike looked at the fresh bandage beneath my sleeve.
+
+“You heal slowly for a celebrity,” she said.
+
+“You call quickly for a detective,” I told her.
+
+“The mall owner called faster,” Pike replied.
+
+“Did he mention the kidnapping?” I asked.
+
+“He mentioned his doors,” she said.
+
+I stopped a few feet from her car. “Then he's going to enjoy the rest of the story.”
+
+Walker looked at me, then at Pike. She kept her eyes on my face.
+
+“Where's Hậu Phạm?” Pike asked.
+
+“Recovering,” I told her.
+
+“From what?” she asked.
+
+“Being kidnapped,” I said.
+
+“By whom?” Pike asked.
+
+“You want the name I already told you, or a new one for variety?” I replied.
+
+She held out a hand. “Your phone.”
+
+I kept it in my pocket. “Show me why.”
+
+Pike took a folded sheet from her jacket. Before she opened it, Walker cleared his throat.
+
+“Detective, dispatch asked whether we're still at the garage,” he said.
+
+“Tell them yes,” Pike replied.
+
+He touched the radio at his shoulder. She continued watching me while he answered.
+
+“You were seen taking Vinh Đào into a car Saturday night,” Pike said.
+
+“He was having trouble walking,” I told her.
+
+“You were also seen delivering him to Bảo Lâm's house,” she said.
+
+“Then you're having a good week for witnesses,” I replied.
+
+Pike held the folded paper against her jacket. “Vinh is missing.”
+
+I looked at her face. “Ask Bảo.”
+
+“I did,” Pike told me.
+
+“And?” I asked.
+
+“He says you took Vinh away again,” she said.
+
+I let the words sit between us for a moment. Her mouth moved into a slight smile.
+
+“That's inconvenient,” Pike said.
+
+Walker had stopped speaking into the radio. A crease formed above his nose as he looked between us.
+
+“There are cameras at the house,” I told Pike.
+
+“I'm told they weren't working,” she said.
+
+“They were working when his son was filming,” I replied.
+
+Pike paused. I kept looking at her.
+
+“You should ask for his phone,” I said.
+
+She folded the paper again without showing me anything on it.
+
+“Come with us,” Pike told me.
+
+“Am I under arrest?” I asked.
+
+“I'm asking you to cooperate,” she said.
+
+“Then ask a question,” I replied.
+
+She came a step closer. “You have something people want. You're making this harder than it needs to be.”
+
+Walker turned sharply toward her. Behind us, an engine started.
+
+I looked over my shoulder. A black utility vehicle rolled from behind a concrete pillar and stopped beside Dad's sedan, across the lane leading to the ramp. Two men got out. Neither wore a uniform.
+
+Pike didn't turn.
+
+“Put your hands on the car,” she told me.
+
+Walker stepped backward. “Detective?”
+
+One man opened the utility vehicle's rear cargo door, swinging it out toward the aisle. The other pointed at me. I recognized the man with the pointing finger. In Bảo's garage, he'd held the electrical cord.
+
+I looked back at Pike. “There he is. Your next witness.”
+
+She drew her pistol. Walker drew his a fraction later, but he aimed past me at the men beside the utility vehicle.
+
+“Hands!” Walker shouted.
+
+The man at the open rear door raised both hands. The other stepped behind the vehicle. Pike swung her gun toward Walker.
+
+I struck her wrist with the back of my good hand. The pistol hit the sedan's roof and fired into the concrete above us. Walker ducked behind the passenger door. I caught Pike's elbow, turned her against the hood, and took the gun from her hand.
+
+“Stay down,” I told Walker.
+
+The man behind the black vehicle fired. I dropped beside Pike's sedan as a bullet shattered its rear window. Another hit the pillar behind my head, scattering chips over my shoulder.
+
+Pike reached beneath her jacket toward her radio. I caught her at the shoulder and hip and shoved her under the side of the car. She slid across the concrete, swearing. A round struck the spot where she'd been kneeling.
+
+Walker fired twice toward the utility vehicle. The gunman ducked behind its front corner. I pushed Pike's pistol beneath the sedan's front tire, stepped onto its roof, and jumped across the gap.
+
+I landed on the black vehicle's hood. Metal folded under my feet. The gunman looked up and brought his pistol with him. I kicked his hand against the windshield frame. His gun flew across the garage.
+
+I caught his collar and drove his face into the hood beside my shoe. He crumpled beside the front wheel. At the rear, the second man dropped his raised hands and ran toward the stairwell.
+
+I stepped onto the bumper, tore the hood loose from its bent hinge, and threw it low across his path. It struck the backs of his legs. He went down hard and slid into the stairwell door.
+
+The vehicle's alarm began shrieking. Through it I could hear Walker shouting into his radio. I climbed down beside the open cargo door and looked toward Pike's car.
+
+She was crawling out from underneath it. A scrape ran along her cheek. In her hand was a second pistol, small and black.
+
+I stepped behind the open cargo door as she came toward me. She fired through it. The bullet punched past my shoulder. I caught the door edge and slammed it outward into her gun arm.
+
+She stumbled sideways against the pillar. Walker came around his sedan with his pistol steady.
+
+“Drop it!” he shouted.
+
+Pike turned toward him. “Ben—”
+
+“Drop the fucking gun!” Walker said.
+
+She let it fall. I stepped clear of the utility vehicle with both hands visible. Walker glanced at me once and returned his attention to Pike. He kept his pistol aimed at her until the first responding officers came down the ramp.
+
+They made all of us lie on the floor. I obeyed. My arm hurt enough that the concrete felt almost cool through the bandage.
+
+Beside me, the man I'd hit with the hood groaned.
+
+“You broke my leg,” he said.
+
+“You've got another one,” I told him.
+
+An officer ordered me to stop talking. I stopped.
+
+When they looked into the utility vehicle's rear compartment, voices lowered. One officer moved the gray blanket lying inside. From the floor beside the car, I could see the face beneath it.
+
+Vinh lay on his side. His shirt had a dark hole in the front. A plastic bag covered one hand, and a pistol rested beside his knee. The bruises I'd given him at Crown Billiards were still visible on his face.
+
+He was dead.
+
+I looked toward Pike. She was looking at the floor. Walker stood beside the open compartment, breathing through his mouth.
+
+The officers photographed everything. They took statements, collected Pike's guns and the pistol beside Vinh, and sent the two men from the utility vehicle away on stretchers. They put me in the back of a patrol car.
+
+I spent the next several hours in rooms designed to make a chair feel like an accusation.
+
+Shawna arrived with a lawyer whose suit looked more expensive than the clinic's whole waiting room. Estelle had sent him. He introduced himself, asked me three questions, and told everyone else to stop asking theirs until he'd finished reading what they had.
+
+I liked him immediately.
+
+Through Shawna and the lawyer, I learned who was waiting outside. Saint had come with Mom. Dad arrived after closing the shop. Great-Grandpa called three times. The first time, when Mom passed me the phone during a break, he asked whether I'd eaten. The second time he wanted to know about the police station's chairs. On the third call, I heard Mom tell him to stop offering to come down.
+
+It was after two in the morning when I left. Walker stood near the entrance, looking as though he'd spent most of the night in another chair like mine.
+
+“They're keeping Pike,” he told me.
+
+“Good,” I said.
+
+He rubbed a hand over his mouth. “I didn't know.”
+
+I looked at his face. “You aimed at the right person.”
+
+Walker nodded once and looked away.
+
+Shawna put an arm around my waist as we walked to the car. Dad had retrieved his blue sedan. Its rear window was intact. That surprised me until I remembered how much of the shooting had hit Pike's car.
+
+“Fuel?” Dad asked.
+
+I turned toward him. He opened the driver's door.
+
+“I'm making conversation,” he told me.
+
+Saint opened the trunk to put away the bag of belongings the police had returned. The awards remained exactly where I'd left them, along with the chocolates shaped like clapping hands.
+
+He picked up the glass triangle and read it under the parking light.
+
+“Commercial refrigeration?” Saint asked.
+
+“It was a long evening,” I said.
+
+He turned toward the station and raised the award.
+
+“They got the right nigga in the end,” Saint announced.
+
+Mom took it from him. “Get in the car, Darius.”
+
+As we drove away, I watched the station shrink in the rear window. My phone showed one new message. No name, no photograph. Bảo was leaving town, it said. I should ask him why before he did.
+
+I showed Shawna. She read the message, handed the phone back, and rested her head against my good shoulder.
+
+“Tomorrow,” Shawna said.
+
+I put the phone away. For once, I let tomorrow keep it.

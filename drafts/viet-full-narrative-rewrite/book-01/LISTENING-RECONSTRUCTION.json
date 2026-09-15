@@ -1,0 +1,568 @@
+{
+  "status": "Complete local narrative revision; Google full-book and remaining/corrected sections pending direct authorization.",
+  "provenance": "Codex-authored under Nolan direction, based on the complete original at 4f38948aa5fa97f294adfa74a0b7055c399b2826; separate non-canonical draft.",
+  "conversion": "Normalize chapter newlines to LF; trim chapter edges; remove only initial Markdown heading marker; append two LF characters per chapter. Full-book title and provenance are outside spoken text. Chapter 1 is split at its established paragraph boundary; other chapters remain whole.",
+  "encoding": "UTF-8 without BOM",
+  "fullFile": "book-01-native.txt",
+  "chapterCount": 28,
+  "sectionCount": 29,
+  "nativeWords": 59756,
+  "fullBytes": 346696,
+  "fullSha256": "17a216c4d37861fa7046af9698d923b8bde7576a356c36b65da9f60189739b84",
+  "reconstructedSha256": "17a216c4d37861fa7046af9698d923b8bde7576a356c36b65da9f60189739b84",
+  "exactTextMatch": true,
+  "exactOnDiskByteMatch": true,
+  "assembledMarkdownMatchesAuthoredChapters": true,
+  "openingQuotes": 2307,
+  "closingQuotes": 2307,
+  "replacementCharacters": 0,
+  "attributionNote": "Each chapter manually reviewed for spoken-turn attribution, scene continuity and source coverage. Quote counts and exact reconstruction do not by themselves establish narrative quality.",
+  "chapters": [
+    {
+      "number": 1,
+      "file": "chapters/chapter-01.md",
+      "title": "Chapter 1: Money at the Curb",
+      "nativeWords": 3260,
+      "nativeSha256": "e381d390b30141583f6aef30aa89f9171615d93bb4a3a8466eab78a021f86021"
+    },
+    {
+      "number": 2,
+      "file": "chapters/chapter-02.md",
+      "title": "Chapter 2: Shoes Off",
+      "nativeWords": 2599,
+      "nativeSha256": "d90db61e7192f244388318931e3ee76cb2bbc1bca896c415faaa5855dfdc032a"
+    },
+    {
+      "number": 3,
+      "file": "chapters/chapter-03.md",
+      "title": "Chapter 3: Spring",
+      "nativeWords": 2502,
+      "nativeSha256": "0b7d7b45367e89ddc11e34e97fc8bbc1ed9fb744c145bd3c1c19dd10617c1866"
+    },
+    {
+      "number": 4,
+      "file": "chapters/chapter-04.md",
+      "title": "Chapter 4: The King Has a Receipt",
+      "nativeWords": 2502,
+      "nativeSha256": "59174f81e6fdcfd79dd6fc1f513dcf65df6e4144a56fb0f0e0eb519e69174ba9"
+    },
+    {
+      "number": 5,
+      "file": "chapters/chapter-05.md",
+      "title": "Chapter 5: Heavy Delivery",
+      "nativeWords": 2307,
+      "nativeSha256": "3069ae4f19c21160d4af89159a2975da831ee476d5d695f905c6839dbe11d89a"
+    },
+    {
+      "number": 6,
+      "file": "chapters/chapter-06.md",
+      "title": "Chapter 6: The Woman Who Charged Full Price",
+      "nativeWords": 2252,
+      "nativeSha256": "3b5ace44c2c1a9233b5f97af5b9a4f542b39dd39fe276a0e823157dc1dac99c3"
+    },
+    {
+      "number": 7,
+      "file": "chapters/chapter-07.md",
+      "title": "Chapter 7: The Easy Problem",
+      "nativeWords": 2057,
+      "nativeSha256": "7dc525deaf6a7ed2483bbbfb958fa646f0cc87133b28f2ad9feeafd3f936a323"
+    },
+    {
+      "number": 8,
+      "file": "chapters/chapter-08.md",
+      "title": "Chapter 8: Everybody Wants a Picture",
+      "nativeWords": 2501,
+      "nativeSha256": "62f5fb16dd14ac78fe58e19bd38351096491072571756dc5bc2c91d7d89f3993"
+    },
+    {
+      "number": 9,
+      "file": "chapters/chapter-09.md",
+      "title": "Chapter 9: My Father's Day Off",
+      "nativeWords": 2372,
+      "nativeSha256": "c2e14c494d95ba8f6515f60eb50f7c2670dde0371666e55c163a43b9be7c9e48"
+    },
+    {
+      "number": 10,
+      "file": "chapters/chapter-10.md",
+      "title": "Chapter 10: Front Row",
+      "nativeWords": 2442,
+      "nativeSha256": "ce28cde74a94e81d94b347b3296c5413ae75e2f81d0cbbeb9869f41365b9a788"
+    },
+    {
+      "number": 11,
+      "file": "chapters/chapter-11.md",
+      "title": "Chapter 11: The Man Under the Table",
+      "nativeWords": 2316,
+      "nativeSha256": "0162a4c11420dc306647519d83d6153f5b2a1e71def5c6e6c365227ffb9c9cc3"
+    },
+    {
+      "number": 12,
+      "file": "chapters/chapter-12.md",
+      "title": "Chapter 12: Membership Fees",
+      "nativeWords": 2119,
+      "nativeSha256": "a024ad6c02fb4629a0df2d8eff895bfe517dd9c17ea918f4f1eb1aecb645cccb"
+    },
+    {
+      "number": 13,
+      "file": "chapters/chapter-13.md",
+      "title": "Chapter 13: Gifts for a Bastard",
+      "nativeWords": 1907,
+      "nativeSha256": "005a81d669c47adb32c0149470bb97963bacdc5818753208de60b7e2056041d3"
+    },
+    {
+      "number": 14,
+      "file": "chapters/chapter-14.md",
+      "title": "Chapter 14: Sunday Bowling",
+      "nativeWords": 1964,
+      "nativeSha256": "027d194d82cd748947728b5210c07cf64fa7b94099ed858dd59ba41ea645b33b"
+    },
+    {
+      "number": 15,
+      "file": "chapters/chapter-15.md",
+      "title": "Chapter 15: The Brother in the Van",
+      "nativeWords": 1963,
+      "nativeSha256": "e91d874e2026550943207b25197c3db5eb3156a03d4bbcbd41599f2e923b4147"
+    },
+    {
+      "number": 16,
+      "file": "chapters/chapter-16.md",
+      "title": "Chapter 16: Trunk Full of Applause",
+      "nativeWords": 1777,
+      "nativeSha256": "3b2609fd774577b681c6c8934ac662919d30c5c71834a6dbca171eeddae554a6"
+    },
+    {
+      "number": 17,
+      "file": "chapters/chapter-17.md",
+      "title": "Chapter 17: No Flash Photography",
+      "nativeWords": 1727,
+      "nativeSha256": "c861732498f2c12c23dcf76625eac54afe4e6ff12663d33075c902881bda19f0"
+    },
+    {
+      "number": 18,
+      "file": "chapters/chapter-18.md",
+      "title": "Chapter 18: Granddad's Errand",
+      "nativeWords": 1730,
+      "nativeSha256": "1e953d10c15a3a50793bdc80b1ea7d33a91ce81ee66d0f678667144a09f91258"
+    },
+    {
+      "number": 19,
+      "file": "chapters/chapter-19.md",
+      "title": "Chapter 19: The Price Goes Up",
+      "nativeWords": 1645,
+      "nativeSha256": "ef75e5ee4bf9d8b0f97b1315459aed5e7aa7f1e541b6cc4fa1f2ec4c069e7236"
+    },
+    {
+      "number": 20,
+      "file": "chapters/chapter-20.md",
+      "title": "Chapter 20: A Brother's Name",
+      "nativeWords": 1718,
+      "nativeSha256": "a60bbde7b172dd81f3010659d620321e2055972e1ae8ab785b727f39a8ce65b9"
+    },
+    {
+      "number": 21,
+      "file": "chapters/chapter-21.md",
+      "title": "Chapter 21: The Best Dressed Man at a Robbery",
+      "nativeWords": 1517,
+      "nativeSha256": "a6b3e2f18fc2158422ccae2c574199870d7891fdf5a10d8ca799ec32e5f25b56"
+    },
+    {
+      "number": 22,
+      "file": "chapters/chapter-22.md",
+      "title": "Chapter 22: No One Leaves the Party",
+      "nativeWords": 1465,
+      "nativeSha256": "a18ba994b698fe2e10d78bc828a638a23d013e3ca171e32e5e39c3bdf79eaeb8"
+    },
+    {
+      "number": 23,
+      "file": "chapters/chapter-23.md",
+      "title": "Chapter 23: King Takes King",
+      "nativeWords": 2425,
+      "nativeSha256": "8f2b5318e31d3050475976151bdb0fb0edc2d4a34e5a1d009d3c0cbf8da99e5d"
+    },
+    {
+      "number": 24,
+      "file": "chapters/chapter-24.md",
+      "title": "Chapter 24: The Last Fare",
+      "nativeWords": 2127,
+      "nativeSha256": "a17805849a036634080cc3bbb6f40c63ca533fe4355af59364b238f6c5bc39c8"
+    },
+    {
+      "number": 25,
+      "file": "chapters/chapter-25.md",
+      "title": "Chapter 25: Long Live Whoever Pays",
+      "nativeWords": 1772,
+      "nativeSha256": "6e2b7ba1837310bdc19fbb3fb030894ffaadabf4e8c6a301eca6fb7cf3057663"
+    },
+    {
+      "number": 26,
+      "file": "chapters/chapter-26.md",
+      "title": "Chapter 26: How They Spent It",
+      "nativeWords": 1904,
+      "nativeSha256": "cb32565f23fa7398e85f3e6351e31eae46c3a141e76ea1d62fdc46676acdd9b9"
+    },
+    {
+      "number": 27,
+      "file": "chapters/chapter-27.md",
+      "title": "Chapter 27: Places We Could Go",
+      "nativeWords": 2509,
+      "nativeSha256": "bb87dc736b1dfd716ea94a3c4eaeebe1d4572b71cd5416d77b1ad0c69aa64587"
+    },
+    {
+      "number": 28,
+      "file": "chapters/chapter-28.md",
+      "title": "Chapter 28: Standing at Home",
+      "nativeWords": 2377,
+      "nativeSha256": "2e11c0256a8e87af92bb4e01d54d2c083ca018bfff4bc756b748d550b17add2b"
+    }
+  ],
+  "sections": [
+    {
+      "number": 1,
+      "chapter": 1,
+      "title": "Chapter 1: Money at the Curb — Part 1",
+      "file": "listening/001.txt",
+      "words": 1803,
+      "startUtf16": 0,
+      "endUtf16Exclusive": 10307,
+      "utf8Bytes": 10561,
+      "sha256": "96534693c58c650ee235c929715e85b69a62376dd5bf93c2eeaf904568388666",
+      "lengthNote": ""
+    },
+    {
+      "number": 2,
+      "chapter": 1,
+      "title": "Chapter 1: Money at the Curb — Part 2",
+      "file": "listening/002.txt",
+      "words": 1457,
+      "startUtf16": 10307,
+      "endUtf16Exclusive": 18478,
+      "utf8Bytes": 8359,
+      "sha256": "a4226a25bbd69537bb652dbef1edf0a2d77d93e24e66cdb0b77dbae40386d5ce",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 3,
+      "chapter": 2,
+      "title": "Chapter 2: Shoes Off",
+      "file": "listening/003.txt",
+      "words": 2599,
+      "startUtf16": 18478,
+      "endUtf16Exclusive": 33344,
+      "utf8Bytes": 15420,
+      "sha256": "d90db61e7192f244388318931e3ee76cb2bbc1bca896c415faaa5855dfdc032a",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 4,
+      "chapter": 3,
+      "title": "Chapter 3: Spring",
+      "file": "listening/004.txt",
+      "words": 2502,
+      "startUtf16": 33344,
+      "endUtf16Exclusive": 47385,
+      "utf8Bytes": 14509,
+      "sha256": "0b7d7b45367e89ddc11e34e97fc8bbc1ed9fb744c145bd3c1c19dd10617c1866",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 5,
+      "chapter": 4,
+      "title": "Chapter 4: The King Has a Receipt",
+      "file": "listening/005.txt",
+      "words": 2502,
+      "startUtf16": 47385,
+      "endUtf16Exclusive": 61854,
+      "utf8Bytes": 14941,
+      "sha256": "59174f81e6fdcfd79dd6fc1f513dcf65df6e4144a56fb0f0e0eb519e69174ba9",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 6,
+      "chapter": 5,
+      "title": "Chapter 5: Heavy Delivery",
+      "file": "listening/006.txt",
+      "words": 2307,
+      "startUtf16": 61854,
+      "endUtf16Exclusive": 74857,
+      "utf8Bytes": 13387,
+      "sha256": "3069ae4f19c21160d4af89159a2975da831ee476d5d695f905c6839dbe11d89a",
+      "lengthNote": ""
+    },
+    {
+      "number": 7,
+      "chapter": 6,
+      "title": "Chapter 6: The Woman Who Charged Full Price",
+      "file": "listening/007.txt",
+      "words": 2252,
+      "startUtf16": 74857,
+      "endUtf16Exclusive": 87689,
+      "utf8Bytes": 13250,
+      "sha256": "3b5ace44c2c1a9233b5f97af5b9a4f542b39dd39fe276a0e823157dc1dac99c3",
+      "lengthNote": ""
+    },
+    {
+      "number": 8,
+      "chapter": 7,
+      "title": "Chapter 7: The Easy Problem",
+      "file": "listening/008.txt",
+      "words": 2057,
+      "startUtf16": 87689,
+      "endUtf16Exclusive": 99392,
+      "utf8Bytes": 12070,
+      "sha256": "7dc525deaf6a7ed2483bbbfb958fa646f0cc87133b28f2ad9feeafd3f936a323",
+      "lengthNote": ""
+    },
+    {
+      "number": 9,
+      "chapter": 8,
+      "title": "Chapter 8: Everybody Wants a Picture",
+      "file": "listening/009.txt",
+      "words": 2501,
+      "startUtf16": 99392,
+      "endUtf16Exclusive": 113307,
+      "utf8Bytes": 14424,
+      "sha256": "62f5fb16dd14ac78fe58e19bd38351096491072571756dc5bc2c91d7d89f3993",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 10,
+      "chapter": 9,
+      "title": "Chapter 9: My Father's Day Off",
+      "file": "listening/010.txt",
+      "words": 2372,
+      "startUtf16": 113307,
+      "endUtf16Exclusive": 126581,
+      "utf8Bytes": 13810,
+      "sha256": "c2e14c494d95ba8f6515f60eb50f7c2670dde0371666e55c163a43b9be7c9e48",
+      "lengthNote": ""
+    },
+    {
+      "number": 11,
+      "chapter": 10,
+      "title": "Chapter 10: Front Row",
+      "file": "listening/011.txt",
+      "words": 2442,
+      "startUtf16": 126581,
+      "endUtf16Exclusive": 140351,
+      "utf8Bytes": 14030,
+      "sha256": "ce28cde74a94e81d94b347b3296c5413ae75e2f81d0cbbeb9869f41365b9a788",
+      "lengthNote": ""
+    },
+    {
+      "number": 12,
+      "chapter": 11,
+      "title": "Chapter 11: The Man Under the Table",
+      "file": "listening/012.txt",
+      "words": 2316,
+      "startUtf16": 140351,
+      "endUtf16Exclusive": 152913,
+      "utf8Bytes": 13002,
+      "sha256": "0162a4c11420dc306647519d83d6153f5b2a1e71def5c6e6c365227ffb9c9cc3",
+      "lengthNote": ""
+    },
+    {
+      "number": 13,
+      "chapter": 12,
+      "title": "Chapter 12: Membership Fees",
+      "file": "listening/013.txt",
+      "words": 2119,
+      "startUtf16": 152913,
+      "endUtf16Exclusive": 164886,
+      "utf8Bytes": 12365,
+      "sha256": "a024ad6c02fb4629a0df2d8eff895bfe517dd9c17ea918f4f1eb1aecb645cccb",
+      "lengthNote": ""
+    },
+    {
+      "number": 14,
+      "chapter": 13,
+      "title": "Chapter 13: Gifts for a Bastard",
+      "file": "listening/014.txt",
+      "words": 1907,
+      "startUtf16": 164886,
+      "endUtf16Exclusive": 175938,
+      "utf8Bytes": 11520,
+      "sha256": "005a81d669c47adb32c0149470bb97963bacdc5818753208de60b7e2056041d3",
+      "lengthNote": ""
+    },
+    {
+      "number": 15,
+      "chapter": 14,
+      "title": "Chapter 14: Sunday Bowling",
+      "file": "listening/015.txt",
+      "words": 1964,
+      "startUtf16": 175938,
+      "endUtf16Exclusive": 187135,
+      "utf8Bytes": 11567,
+      "sha256": "027d194d82cd748947728b5210c07cf64fa7b94099ed858dd59ba41ea645b33b",
+      "lengthNote": ""
+    },
+    {
+      "number": 16,
+      "chapter": 15,
+      "title": "Chapter 15: The Brother in the Van",
+      "file": "listening/016.txt",
+      "words": 1963,
+      "startUtf16": 187135,
+      "endUtf16Exclusive": 197987,
+      "utf8Bytes": 11192,
+      "sha256": "e91d874e2026550943207b25197c3db5eb3156a03d4bbcbd41599f2e923b4147",
+      "lengthNote": ""
+    },
+    {
+      "number": 17,
+      "chapter": 16,
+      "title": "Chapter 16: Trunk Full of Applause",
+      "file": "listening/017.txt",
+      "words": 1777,
+      "startUtf16": 197987,
+      "endUtf16Exclusive": 208002,
+      "utf8Bytes": 10268,
+      "sha256": "3b2609fd774577b681c6c8934ac662919d30c5c71834a6dbca171eeddae554a6",
+      "lengthNote": ""
+    },
+    {
+      "number": 18,
+      "chapter": 17,
+      "title": "Chapter 17: No Flash Photography",
+      "file": "listening/018.txt",
+      "words": 1727,
+      "startUtf16": 208002,
+      "endUtf16Exclusive": 217720,
+      "utf8Bytes": 10067,
+      "sha256": "c861732498f2c12c23dcf76625eac54afe4e6ff12663d33075c902881bda19f0",
+      "lengthNote": ""
+    },
+    {
+      "number": 19,
+      "chapter": 18,
+      "title": "Chapter 18: Granddad's Errand",
+      "file": "listening/019.txt",
+      "words": 1730,
+      "startUtf16": 217720,
+      "endUtf16Exclusive": 227431,
+      "utf8Bytes": 10094,
+      "sha256": "1e953d10c15a3a50793bdc80b1ea7d33a91ce81ee66d0f678667144a09f91258",
+      "lengthNote": ""
+    },
+    {
+      "number": 20,
+      "chapter": 19,
+      "title": "Chapter 19: The Price Goes Up",
+      "file": "listening/020.txt",
+      "words": 1645,
+      "startUtf16": 227431,
+      "endUtf16Exclusive": 236648,
+      "utf8Bytes": 9560,
+      "sha256": "ef75e5ee4bf9d8b0f97b1315459aed5e7aa7f1e541b6cc4fa1f2ec4c069e7236",
+      "lengthNote": ""
+    },
+    {
+      "number": 21,
+      "chapter": 20,
+      "title": "Chapter 20: A Brother's Name",
+      "file": "listening/021.txt",
+      "words": 1718,
+      "startUtf16": 236648,
+      "endUtf16Exclusive": 246330,
+      "utf8Bytes": 10050,
+      "sha256": "a60bbde7b172dd81f3010659d620321e2055972e1ae8ab785b727f39a8ce65b9",
+      "lengthNote": ""
+    },
+    {
+      "number": 22,
+      "chapter": 21,
+      "title": "Chapter 21: The Best Dressed Man at a Robbery",
+      "file": "listening/022.txt",
+      "words": 1517,
+      "startUtf16": 246330,
+      "endUtf16Exclusive": 254896,
+      "utf8Bytes": 8842,
+      "sha256": "a6b3e2f18fc2158422ccae2c574199870d7891fdf5a10d8ca799ec32e5f25b56",
+      "lengthNote": ""
+    },
+    {
+      "number": 23,
+      "chapter": 22,
+      "title": "Chapter 22: No One Leaves the Party",
+      "file": "listening/023.txt",
+      "words": 1465,
+      "startUtf16": 254896,
+      "endUtf16Exclusive": 263003,
+      "utf8Bytes": 8309,
+      "sha256": "a18ba994b698fe2e10d78bc828a638a23d013e3ca171e32e5e39c3bdf79eaeb8",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 24,
+      "chapter": 23,
+      "title": "Chapter 23: King Takes King",
+      "file": "listening/024.txt",
+      "words": 2425,
+      "startUtf16": 263003,
+      "endUtf16Exclusive": 276140,
+      "utf8Bytes": 13243,
+      "sha256": "8f2b5318e31d3050475976151bdb0fb0edc2d4a34e5a1d009d3c0cbf8da99e5d",
+      "lengthNote": ""
+    },
+    {
+      "number": 25,
+      "chapter": 24,
+      "title": "Chapter 24: The Last Fare",
+      "file": "listening/025.txt",
+      "words": 2127,
+      "startUtf16": 276140,
+      "endUtf16Exclusive": 288016,
+      "utf8Bytes": 12080,
+      "sha256": "a17805849a036634080cc3bbb6f40c63ca533fe4355af59364b238f6c5bc39c8",
+      "lengthNote": ""
+    },
+    {
+      "number": 26,
+      "chapter": 25,
+      "title": "Chapter 25: Long Live Whoever Pays",
+      "file": "listening/026.txt",
+      "words": 1772,
+      "startUtf16": 288016,
+      "endUtf16Exclusive": 298063,
+      "utf8Bytes": 10382,
+      "sha256": "6e2b7ba1837310bdc19fbb3fb030894ffaadabf4e8c6a301eca6fb7cf3057663",
+      "lengthNote": ""
+    },
+    {
+      "number": 27,
+      "chapter": 26,
+      "title": "Chapter 26: How They Spent It",
+      "file": "listening/027.txt",
+      "words": 1904,
+      "startUtf16": 298063,
+      "endUtf16Exclusive": 308901,
+      "utf8Bytes": 11212,
+      "sha256": "cb32565f23fa7398e85f3e6351e31eae46c3a141e76ea1d62fdc46676acdd9b9",
+      "lengthNote": ""
+    },
+    {
+      "number": 28,
+      "chapter": 27,
+      "title": "Chapter 27: Places We Could Go",
+      "file": "listening/028.txt",
+      "words": 2509,
+      "startUtf16": 308901,
+      "endUtf16Exclusive": 323113,
+      "utf8Bytes": 14559,
+      "sha256": "bb87dc736b1dfd716ea94a3c4eaeebe1d4572b71cd5416d77b1ad0c69aa64587",
+      "lengthNote": "Whole scene/chapter boundary preserved; small exception to the normal 1500–2500-word target."
+    },
+    {
+      "number": 29,
+      "chapter": 28,
+      "title": "Chapter 28: Standing at Home",
+      "file": "listening/029.txt",
+      "words": 2377,
+      "startUtf16": 323113,
+      "endUtf16Exclusive": 336273,
+      "utf8Bytes": 13623,
+      "sha256": "2e11c0256a8e87af92bb4e01d54d2c083ca018bfff4bc756b748d550b17add2b",
+      "lengthNote": ""
+    }
+  ]
+}

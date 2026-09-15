@@ -1,0 +1,153 @@
+## Chapter 15: The Midnight Train Is Early
+
+Sable listened to the radio on Boots's truck for twelve seconds. Then she took Tín's coffee and put it on the roof.
+
+“Red tug,” Sable said. “Crown Ruby. Salt spur, east of the bridge. We need to go.”
+
+“My coffee isn't finished,” Tín said.
+
+Sable opened the passenger door. “Neither is his shipment.”
+
+Boots came out with his keys. Bình rose from his chair. Everyone looked at the sling. Bình sat down again and announced that he had merely intended to fetch water.
+
+“Take some to Duke,” Tín told him. “Tell him nobody he doesn't recognize boards the River Queen. Volunteers he knows. Everyone else can enjoy being ashore.”
+
+They left in the blue truck with Sable between them and the radio on her lap. At the bridge repair site, Friday afternoon work lights were coming on around a long gray span resting on supports. A floating crane waited beside it. The photograph from the cannery had concealed its scale; now men crossing its upper edge looked like figures stuck onto somebody else's machinery.
+
+Boots slowed over the tracks. Bình's little painted crown bounced on the dashboard beside the radio. Boots glanced at it and shook his head.
+
+“Told that boy no decorations,” Boots said.
+
+Tín steadied the radio. “Small one.”
+
+“That's how they start,” Boots replied. “Next month the truck has a chandelier and employees named after precious stones.”
+
+Sable looked from the crown to him. “I was named before Duke hired me.”
+
+Boots held up two fingers from the wheel in apology. “I meant the new regime. We're all learning.”
+
+She almost smiled, then turned the radio volume up as another voice mentioned the loading platform. Tín listened while the casual talk disappeared from the cab. Boots kept his eyes ahead. The truck was still somebody's livelihood; they were driving it toward another place where men had guns and something to hide.
+
+A worker carried a board marked FORTY TONNES and propped it beside the operator's cabin.
+
+Boots whistled. “Tonight?”
+
+“Main channel closes,” Sable said. “Boats use the lower passage behind the crane barge.”
+
+Tín followed the narrow curve of open water with his eyes. Beyond it lay the eastern basin and the sea.
+
+The Crown Ruby smoked at the salt dock. Two rail cars stood beside it while men moved long crates onto a loading platform. At the end of the dock, a truck waited with its doors open and a festival banner painted on its side.
+
+Tín stared at his enormous painted face. The artist had given him sunglasses again.
+
+“That's not ours,” Boots said.
+
+“It isn't my nose either,” Tín replied.
+
+Sable gripped the radio. “He's putting the cargo under your name.”
+
+Boots parked behind a shed. Tín walked toward the freight crew beside the waiting engine. Their Crown Shipping supervisor recognized him, abandoned his conversation, and ran toward the truck.
+
+“Can you hold the train?” Tín asked the crewman.
+
+The man looked after the running supervisor. “What's happening?”
+
+Tín pointed to the false banner. “Someone borrowed my face.”
+
+The truck engine roared. Tín ran, crossed in front of the freight engine, jumped onto a coupling and from there onto a rail-car roof. As the truck passed the end of the platform, he leaped onto its cargo box.
+
+The roof buckled. The driver swerved toward the fence. Tín dropped to one knee and caught the upper rim. A hatch opened behind the cab, and a pistol appeared through it. Tín stamped the hatch shut. The gun fired inside.
+
+He tore the handle free, reached through the opening, and drew the gunman up by his wrist until both shoulders jammed in the hole.
+
+“Drop it,” Tín told him.
+
+The pistol fell. Tín struck him across the face and lowered him back inside.
+
+Boots brought the tow truck across the access road. The cargo driver braked; rear tires slid into a light pole's concrete base, tilting the whole box. Tín jumped down on the low side, caught the upper rail, and pushed until all four wheels met the road again.
+
+Boots approached the cab with a wrench. “You put my friend's face on a truck and then wrinkled it.”
+
+Tín opened the rear doors. Sable climbed onto the step and lifted a loose crate lid. Wrapped weapons lay beside smaller cases marked with warning symbols. He closed it immediately.
+
+“Leave the rest,” Tín said.
+
+Sable nodded and went to the office phone for Vega. At the dock, the Crown Ruby's engine deepened. It pulled away with a cargo lighter tied alongside. Iris Rook stood on the lighter beside covered pallets, pointing toward the lower channel. An armed man waited near her.
+
+Their eyes met. Tín ran for the platform. A deckhand tried to stop him with a boat hook. Tín pulled him off balance, took the hook, and jumped from the dock.
+
+The lighter's stern dipped beneath his landing. The gunman raised his weapon. Tín threw the hook into his forearm, knocking the gun overboard. Iris stepped between them.
+
+“Don't,” Iris said.
+
+“He had the gun,” Tín pointed out.
+
+“Both of you,” Iris answered, then shouted for the captain to slow down. The engine ignored her. She took a whistle from her pocket and blew a sharp pattern. The tug slowed.
+
+“Lead with that,” Tín advised.
+
+Iris caught his sleeve when he approached the line between lighter and tug. “What do you want?”
+
+“My son spent this morning in a trunk,” Tín said.
+
+Iris's face changed. “I didn't know.”
+
+Tín looked toward the covered pallets. “Your family has remarkable gaps in its information.”
+
+He pulled back the nearest cover. Boxed ammunition and metal cases filled the pallet. Iris watched him without pretending they contained anything else.
+
+“Men paid him before you won the boat,” Iris said. “He spent their money. He can't simply hand it back.”
+
+Tín looked at the covered ammunition, then at the men working the tug beyond her. “So they get other people's homes instead?”
+
+Iris put a hand against the pallet. “I told him to take the loss on Duke. Pay you. Move the schedule.”
+
+“You came with the envelope,” Tín said. “I remember.”
+
+Iris looked back at him. “You made him lose in front of people who work for him.”
+
+“He sent them to hit Bình,” Tín replied. “Where should Bình have taken that? Somewhere private so your father could remain impressive?”
+
+Iris's hand fell from the pallet. For a moment neither spoke. The lighter rode low in the water, its cargo making a small steady creak against the lashings. Tín didn't have to open every crate to know she had helped bring them here. She didn't have to say her father's name again for him to understand whom she was still defending.
+
+“They're expecting delivery,” Iris said finally.
+
+“Then tell them it's late,” Tín answered.
+
+“Found some of it,” Tín replied.
+
+Her mouth almost moved into a smile. Then she looked at the tug's wheelhouse.
+
+“He'll take your vessel tonight,” Iris told him. “The festival gives him a name on trucks, boats, invoices. Everyone watching your music while his cargo moves beneath it.”
+
+“You should have told me before the shooting,” Tín said.
+
+“You should have sold the boat,” Iris answered, then looked away under his silence.
+
+The captain appeared at his side door carrying a rifle. Iris raised her hand and shouted. Tín seized her around the waist and pulled her behind the pallet as the shot tore through its cover where her head had been.
+
+For a moment she stared at the torn canvas. Tín released her.
+
+“The staff again,” Tín said.
+
+He took a loose steel mooring ring and threw it at the wheelhouse. It struck the rifle and carried it through the far window. The captain fell back inside. Tín crossed the narrow gap to the tug, caught the cabin door, and met the captain's knife hand as it came toward him.
+
+He forced the wrist upward, drove the man against the wall, and hit his stomach. When the captain folded, Tín lowered him to the floor and took the controls. The tug was drifting toward a channel marker. He turned slowly until its bow faced the dock.
+
+On the lighter, Iris caught a shore line. Workers hauled it against the platform while Boots returned with Sable and an approaching patrol car. Tín brought the tug alongside without making another hole in the harbor.
+
+The freight crew watched him step ashore. One offered him a clean engineer's cap. Tín accepted it and put it on.
+
+Boots looked up. “Separate closet for the kingdom. We need one.”
+
+Vega met Iris at the gate. Iris held her hands empty at her sides and turned once toward Tín.
+
+“There's another tug,” Iris said. “Black. He sent it west.”
+
+Vega stood close enough to hear. She asked Iris who had its schedule. Iris named the dispatch office, then corrected herself and gave the individual who would answer the telephone.
+
+Tín watched that correction. It was smaller than drawing a pistol, less dramatic than shouting at a captain. It gave Vega a person to find. He waited while the detective wrote it down.
+
+Before Tín answered, Duke's voice burst from the truck radio.
+
+“Tín,” Duke shouted. “Come home.”

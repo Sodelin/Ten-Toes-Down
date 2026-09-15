@@ -1,0 +1,133 @@
+## Chapter 7: Pawnshop Royalty
+
+Marisol Vega had placed a photograph of Minh in her pawnshop window and written SECURITY beneath it. In the picture he carried the newly delivered washing machine. Someone had drawn black sunglasses across his face.
+
+“I don't work here,” Minh told her when she opened the door.
+
+“Neither does the alarm,” Marisol said. “People still respect it.”
+
+Leon parked the Cadillac while Minh went inside. Tú waited at the counter with chips and a fresh copy of the same shirt. The pawnshop's glass cases held watches beside pocketknives, jewelry beside an autograph from a singer too long dead to object to its neighbors.
+
+Marisol produced a handled metal receiver bearing Rook's auction logo. Dante's man had sold it yesterday, calling it a racing-car control. She wanted five hundred dollars to reverse the transaction. Leon began to intervene; she asked after her amplifier payments. He fell silent.
+
+“How many women finance you?” Minh asked, counting out the bills.
+
+“I'm locally supported,” Leon said.
+
+After taking the money, Marisol pointed at the ceiling. “You'll want the car too.”
+
+They went into the alley. A red two-seater stood on a wooden platform on the pawnshop roof, pointed toward a banner promising winners they could drive home. Dante had hired a crane to put it up there for advertising. The crane had completed its work and left, a concept Marisol recommended to several men she knew.
+
+Minh climbed the narrow rear stairs and pushed through the roof hatch. The tar softened under his shoes. Planks beneath the rear wheels had begun splitting. LOT 11 shone gold in the windshield corner.
+
+He crouched beside the platform and pressed a thumb against one plank. The top was sun-bleached; beneath it the wood yielded damply. He could see old tire marks between the hatch and the car. Whoever had guided it after the crane lifted it had done a competent job of pointing it at the street and a terrible job of giving it somewhere to stay.
+
+“Don't drive it down the stairs!” Leon shouted from below.
+
+Minh leaned over the parapet. “Wasn't planning to.”
+
+“I like my concerns heard,” Leon called back. He moved two paces away from the hatch in the shop entrance despite the assurance.
+
+Keys hung in the ignition. Beside a pair of white gloves on the passenger seat lay a hotel napkin with a phone number. Minh pocketed it, switched on the receiver, and watched eleven numbered boxes appear. Seven and eleven shone strongly. Three pulsed near the edge of the screen.
+
+He called Leon and asked him to move the Cadillac half a block. Seven moved. The receiver's search signal produced an answering click under the red car's dashboard.
+
+Minh had a direction. By moving, he could get another bearing. He was closing the receiver when the hatch slammed behind him.
+
+Sơn stood beside it in a tracksuit, his left wrist braced. Two large men flanked him: pipe on one side, jacket draped over a gun hand on the other.
+
+“Dante wants that car,” Sơn said.
+
+Minh looked at the empty sky. “Should've brought a crane.”
+
+The pipe carrier laughed before remembering his employer. Sơn told Minh the motorcycle company had declared his machine beyond repair.
+
+“I know a mechanic,” Minh said.
+
+Sơn looked slowly at his work shirt. Before he could decide what to do with the invitation, the man carrying the jacket raised his hidden gun.
+
+Minh had backed a little toward the car, putting its engine block between the jacket and the street below. Sơn noticed the movement and mistook it long enough to begin straightening his shoulders. His brace caught the zipper of his tracksuit. He had to look down to free it.
+
+“I don't want another problem,” Sơn said.
+
+“You brought two,” Minh replied, looking past him at the men.
+
+Minh kicked the hatch upright. Its metal edge struck the gun hand. The shot went over the alley. Minh crossed the roof, caught the back of the man's neck, and put his head into the open stairwell. His shoulders lodged in the opening; his legs kicked above the tar.
+
+Marisol shouted from below, demanding to know who was in her stairs.
+
+“Ask him,” Minh called.
+
+The pipe swung. Minh caught it, pulled its owner toward the car, and drove the far end beneath the chassis between the front wheels. He bent the pipe around the axle housing until the man understood that holding on no longer made him armed. When he let go, Minh caught his collar and seated him behind the wheel.
+
+“Stay. I need weight on that side,” Minh said.
+
+Sơn raised his good hand. He explained that he had told the gunman to keep the weapon down. Minh suggested he help by removing the man's shoes before the kicking damaged more roof.
+
+The fighter bent over the hatch. From the stairs, the trapped man demanded an explanation.
+
+“Helping,” Sơn told him, pulling off the second shoe.
+
+A plank cracked under the rear wheel. Minh dragged the pipe man out of the driver's seat just before the platform collapsed. Both back wheels punched through the roof. Marisol's scream came up through the new hole.
+
+Minh caught the sinking rear fender. Wood and insulation tore away as he slid his other hand under the chassis and lifted the car free. One wheel turned beside his face. He carried it toward the parapet, leaving deep shoe marks in the tar.
+
+Leon had brought the Cadillac back beneath him. Minh ordered him to move it. Leon looked up at the red car and complied with unusual speed.
+
+At the edge, Minh checked the alley. Empty pavement, dumpster against the opposite wall, Tú far enough away to become purely an audience. He held the car across his chest and looked down once more.
+
+He shifted his grip. One palm lay beneath the front subframe, the other under the sill behind the rear wheel. The car's mass pulled toward the engine end. Minh drew that end closer and stepped onto the low parapet before the weakening roof could make another decision for him.
+
+Sơn stood by the hatch holding two expensive shoes. “You're dropping it?” he asked.
+
+“Eventually,” Minh said.
+
+He waited for Tú to move his toes behind the alley's doorway, then went down with the car held level. For the fraction of a second before impact, every loose object in its cabin hovered above the leather. The gloves lifted. The receiver case rose against its handle. Minh kept his eyes on the empty pavement and let his knees take the first contact.
+
+His feet hit first. Concrete cracked under his heels. He bent his knees, took the weight through his legs, and lowered the last three feet until all four tires touched. The suspension bounced. The receiver case slid against the steering wheel and sounded the horn.
+
+Minh stepped out of the holes in the pavement. His heels had gone through his shoes.
+
+Tú put both hands on his head. Leon came back around the corner, examined the soles, and proposed a wholesale arrangement.
+
+Marisol emerged carrying a piece of ceiling. She informed Minh that his photograph now owed rent. He offered to discuss a number; she said she would prepare one with the necessary care.
+
+She placed the piece of ceiling on the red car's hood. Minh moved it to the ground before the broken edge marked the paint. Marisol watched that small act of care with interest.
+
+“Useful standard,” Marisol said. “We'll apply it inside too.”
+
+Minh looked up at the hole. Through it he could see Sơn looking down, and beyond Sơn one of the gunman's socked feet. “Put the photographs somewhere dry,” Minh told her. “I'll look at the roof after.”
+
+“I'm looking at the bill now,” Marisol said, and went inside to prepare it.
+
+Inside, Sơn placed the gunman's shoes on the counter. Marisol valued them at thirty dollars and retained them against stair damage. The gunman, helped down by the pipe carrier, looked at his socks and decided not to negotiate.
+
+Minh showed Sơn the napkin. The fighter confirmed Dante's number and called it on speaker. Dante answered asking whether he had the car.
+
+“I'm with it,” Sơn said.
+
+Dante told him to bring it to Blue Palm through the back gate. Minh leaned toward the phone.
+
+“Duy there?” Minh asked.
+
+Silence followed, then Dante complained that Minh was becoming annoying.
+
+“You keep giving me cars,” Minh said. “Hard to discourage a customer that way.”
+
+Dante hung up. Sơn picked up his phone and asked whether Minh wanted another driver. Leon looked at his brace and observed that the first party was still attached to him.
+
+“I can drive,” Sơn repeated.
+
+Minh gave him the red car's keys. “Follow. Don't turn until we turn.”
+
+Tú asked if he could drive something too. Leon pointed at an empty dolly and suggested a gradual expansion of the business.
+
+Marisol handed Minh a receipt on his way out. Beneath the five-hundred-dollar receiver purchase she had written CEILING: DISCUSSION PENDING. He folded it carefully. Outside, the two recovered cars started up in succession, their engines making a handsome argument against leaving either behind.
+
+Minh sat beside Leon with the receiver on his lap. Three blinked closer to seven and eleven.
+
+“Blue Palm,” Minh said.
+
+“Three minutes,” Leon answered.
+
+Minh watched the pulsing square. “Duy's waited enough.”

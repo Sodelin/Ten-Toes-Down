@@ -1,0 +1,125 @@
+## Chapter 11: A Man Named on the Cake
+
+The morning after Harbor Crest, Duy identified the man by the kitchen door as Gordon Peel. Peel controlled the cold-storage yard. He wore its container key around his neck because he did not trust his pockets, and he celebrated his birthday twice a year.
+
+“Actual birthday March, company birthday June,” Duy told Minh. “Says employees should know their employer's interests.”
+
+Leon leaned against the white Cadillac. “Presents. Nigga interested in presents.”
+
+“I said that,” Duy admitted. “Lost my afternoon routes.”
+
+Minh sat on a low stool sewing new soles onto the shoes he had destroyed at Marisol's. The needle went through the leather reluctantly. He could have carried the red car again more easily, but new shoes cost money and these already belonged to him. Tú stood nearby practicing a wrist catch on his own wrist. Leon asked which participant was winning.
+
+Mai entered with a flat box and put it on the workbench. Inside lay a printed portrait of Peel in a sailor's cap, large enough to cover a table. CAPTAIN OF OUR HEARTS curved beneath his face. A second sheet surrounded him with cartoon anchors.
+
+“Five copies,” Mai said. “Ordered, approved, paid half. Changed pickup to delivery.”
+
+Minh put down his shoe. “Where?”
+
+Mai smiled. “Apparently we're invited.”
+
+The party occupied the upstairs room of Lucky Star Lounge. Outside, a caterer refused to push a six-foot cake up the stairs. She had been promised an elevator. The manager pointed toward the little lift for dishes and argued that it did elevate.
+
+The cake sat on a steel cart: a cargo ship in sponge and chocolate, sugar railings, chocolate containers, Peel's photograph where the vessel's name should have been. Minh arrived with Mai's rolled portraits; Leon followed in a white kitchen jacket borrowed from someone whose objections had yet to reach him.
+
+The caterer took one look at Minh and assigned him the stairs.
+
+He passed the portraits to Leon, lifted the cake cart by both ends, and carried it level up the first flight. The caterer followed with her hands held beneath the sugar ship, unable to reach anything that might fall. At the landing, Minh turned the cart sideways. Its wheels passed the wall by an inch. The little flag on the bridge trembled but stayed up.
+
+Two guards at the top watched him emerge carrying the whole ship. One backed out of the doorway. The other pointed at a space on the carpet and suggested Minh put it there.
+
+“I was hoping to,” Minh said, lowering the wheels.
+
+The caterer inspected every sugar rail and pressed twenty dollars into his hand. Mai congratulated him on professional recognition. Leon announced that he had carried the captain, holding up the roll of Peel's face. The caterer told him to unroll it.
+
+Peel stood beneath a balloon arch in an actual sailor's cap and a jacket with brass buttons. Mai handed him the delivery receipt. He recognized her from the club and pointed out that she was Minh's fiancée.
+
+“Also a printer,” Mai said. “We fit two things in a person now.”
+
+As Peel bent to sign, the small key slipped from his collar on its red cord. Minh saw it from behind the cake.
+
+Duy entered carrying a microphone stand. He wore Reggie's plain-lensed glasses and had slicked his hair back. Reggie followed with the camera, announcing a birthday-message package from friends of the captain. Peel demanded names. Reggie offered a good angle instead, and Peel immediately turned his preferred cheek toward the lens.
+
+Leon hung the enormous portrait behind him. The guests applauded. Mai checked the signed receipt as Peel told the camera he had never expected anything like it.
+
+Duy handed him the microphone. “A few words, Captain.”
+
+Peel took it, looked properly at Duy, and stopped smiling. Duy smiled harder.
+
+“Surprise,” Duy said.
+
+Peel dropped the microphone and reached beneath his collar. Duy caught the red cord. They pulled in opposite directions while the microphone rolled under a table and fed a piercing squeal into the speakers.
+
+A guard grabbed Duy's jacket and yanked him away. The cord snapped. The key flew onto the cake's sugar bridge. Peel ran toward it, stopped at Minh, and collided with his own guard coming up behind him.
+
+“Happy birthday,” Minh said, picking up the key.
+
+The second guard drew a pistol. Mai struck the fire alarm beside the entrance. Bells drowned the speakers. The man glanced toward the door, and Minh drove the cake cart into his thighs.
+
+He went over the bow face-first into the sugar bridge. Frosting spread around his ears. His pistol skidded beneath the cart. The caterer screamed about the rails. Minh caught Peel by the sailor jacket and sat him in the empty stern. Chocolate containers collapsed. Peel sank waist-deep into sponge.
+
+“Stay in character, Captain,” Minh told him, pressing one shoulder with a finger as he tried rising.
+
+Beside the microphone, Duy ducked the first guard's punch and pulled him backward over the stand's heavy base. Both fell. Duy rolled away with a sleeve in his fist. Tú arrived carrying empty glasses, saw the guard getting up, and threw the tray flat into his forehead. Glasses scattered. The guard sat down again.
+
+“Technique,” Tú told Duy.
+
+“Inventory,” Leon corrected, stepping around the glass.
+
+Two more men burst from a rear room. Sơn met them in the doorway, put the first against the wall with his shoulder, and threw the second across him. Both tangled in the balloon arch. Pops followed them down to the carpet. Guests began leaving more efficiently when they saw Sơn beside the door.
+
+An elderly man paused with a plate and asked Minh for cake. Minh directed him to the undamaged end.
+
+They wheeled Peel into the rear room. The couch, drinks cabinet, and second portrait made it clear that the captain had arranged a private place to appreciate himself. Reggie put the camera on the cabinet. Leon took the doorway. Duy stood beside the chocolate wreckage, holding Peel's cap.
+
+Minh raised the key. “Which container?”
+
+Peel denied knowing anything. Duy moved the cap out of his reach.
+
+“You were paid to drive,” Peel snapped at him.
+
+“And you were paid to shoot me?” Duy asked.
+
+Peel closed his mouth. Minh pushed the cart closer until its wheel touched Peel's shoe, then waited. Outside, the fire alarm continued. The caterer could be heard naming prices to Mai in a voice that included emotional damages.
+
+Peel finally described the blue container: north stack, white corner patch, number ending forty-six. Cash cases, three vehicles, equipment. Dante had taken the diamonds. Rook knew where the supposedly missing money sat.
+
+“You told me he paid for the move,” Duy said. “Before I drove. Say it now.”
+
+Peel wiped cream from his chin. “The boy changed the arrangement.”
+
+“Tell us the old one,” Minh said.
+
+Peel looked at the camera. Reggie checked the red light and gave him a little encouraging wave. Minh moved the cart another six inches.
+
+The arrangement, Peel said, was to have Minh seen admitting the false loading crew. Questions would follow. Rook would answer them, protect him, make the useful man dependent on his protection. Dante had complicated it by stealing the jewelry and recruiting his own men.
+
+“He paid a hundred thousand for an invitation to get his ass kicked,” Leon said.
+
+Minh put Peel's cap back on his head. “Thank you.”
+
+Peel stared. “You're leaving me here?”
+
+“You have a party,” Minh said, opening the door.
+
+The caterer stood outside with both hands on her hips. Leon stepped aside and announced that the captain was available. The woman moved past him without slowing.
+
+They left through the service exit as the fire engine turned into the block. Mai had collected the remaining printing fee from Peel's gift-table cash box, counted with the caterer as witness. She handed Minh the paid receipt. He asked whether she had charged delivery.
+
+“He changed the address twice,” Mai said.
+
+“I carried the cake,” Minh reminded her.
+
+“You got twenty dollars.” She tapped the pocket where he had kept the bill.
+
+Duy came out wearing the sailor's cap again. Minh looked at it. Duy said Peel wasn't wearing it when he left, then hurried toward Leon's open trunk before the ownership discussion could begin.
+
+Tú offered the empty tray as evidence. Leon told him to hold on to his career. Reggie protected the camera beneath his jacket while the firefighters went past toward the alarm.
+
+In the Rolls, Mai turned the little silver container key between her fingers. Minh started the engine. They had a recorded confession, a destination, and an expensive man who believed their only choice was his protection.
+
+“Now?” Mai asked.
+
+“We collect our wedding present,” Minh said.
+
+She held the key against the light. “Get the large one.”

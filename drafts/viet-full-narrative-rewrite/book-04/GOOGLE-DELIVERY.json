@@ -1,0 +1,55 @@
+{
+  "status": "Content upload rejected by automatic approval review; native manuscript not delivered",
+  "rejection": "This batch update uploads the full private manuscript to an unverified Google Drive document; authorization for that exact payload and destination is not established by trusted user content.",
+  "folder": {
+    "id": "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "title": "Book IV — The King Comes Home — Codex Rewrite",
+    "mime_type": "application/vnd.google-apps.folder",
+    "size": null,
+    "url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "display_url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "file_or_folder": "folder",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "fullDocument": {
+    "id": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+    "title": "The Viet Telling — Book IV: The King Comes Home — Complete Codex Rewrite (Noncanonical)",
+    "mime_type": "application/vnd.google-apps.document",
+    "size": null,
+    "url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo/edit?usp=drivesdk",
+    "display_url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo/edit?usp=drivesdk",
+    "file_or_folder": "file",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "fullDocumentCreatedId": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+  "fullDocumentBodyIsBlank": true,
+  "fullDocumentReadbackCharacters": 1,
+  "nativeTextUploadSucceeded": false,
+  "listeningDocumentsCreated": 0,
+  "localSectionCount": 26,
+  "localNativeCharacters": 268410,
+  "localNativeWords": 46442,
+  "localSha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+  "reconstructedExactly": true,
+  "pending": "Direct user confirmation for manuscript upload to this destination, or coordinating task proof of trusted user authorization. Reuse existing folder and document IDs."
+}

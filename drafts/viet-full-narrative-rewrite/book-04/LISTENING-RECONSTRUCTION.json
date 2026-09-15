@@ -1,0 +1,248 @@
+{
+  "status": "Local reconstruction verified; native delivery pending",
+  "provenance": "Codex-authored under Nolan's direction; noncanonical proposal. Original manuscripts unchanged.",
+  "conversion": "Each authored chapter is LF-normalized; initial Markdown heading marker removed; trailing whitespace replaced by two LF characters. Chapter text otherwise unchanged. The book title and provenance remain in metadata and local indexes rather than the listening body.",
+  "fullFile": "book-04-native.txt",
+  "sections": [
+    {
+      "number": 1,
+      "chapter": 1,
+      "filename": "section-001.txt",
+      "title": "The Viet Telling — Book IV — 001 — Chapter 1: A Man of Several Floors — Codex Rewrite",
+      "words": 1624,
+      "characters": 9704,
+      "sha256": "ac809802a0ab03096e5e0270d4a6110201261474386e53ced9206e3a8af18e63"
+    },
+    {
+      "number": 2,
+      "chapter": 2,
+      "filename": "section-002.txt",
+      "title": "The Viet Telling — Book IV — 002 — Chapter 2: Bring Your Own Brother — Codex Rewrite",
+      "words": 1690,
+      "characters": 9964,
+      "sha256": "a9052966373605f492b8ff50d099fd50df62ee468b4e09f202f7d6487cdfdda7"
+    },
+    {
+      "number": 3,
+      "chapter": 3,
+      "filename": "section-003.txt",
+      "title": "The Viet Telling — Book IV — 003 — Chapter 3: The Good Table — Codex Rewrite",
+      "words": 1532,
+      "characters": 8836,
+      "sha256": "80b1a34ab792f7e7b551a827ec494c97f6d4057dd59d380ab9097016a5927cf9"
+    },
+    {
+      "number": 4,
+      "chapter": 4,
+      "filename": "section-004.txt",
+      "title": "The Viet Telling — Book IV — 004 — Chapter 4: A Piano in the Pot — Codex Rewrite",
+      "words": 1744,
+      "characters": 10288,
+      "sha256": "37d222aecfecdda27701bdc2466d1a09ca37048bbbcb6a03fa23755e37690f11"
+    },
+    {
+      "number": 5,
+      "chapter": 5,
+      "filename": "section-005.txt",
+      "title": "The Viet Telling — Book IV — 005 — Chapter 5: Everything Looks Better Moving — Codex Rewrite",
+      "words": 1766,
+      "characters": 10229,
+      "sha256": "0f71fb044f5d76812c034b800427394919e5b5cebd1a7d1aa9c6a8feb06fa328"
+    },
+    {
+      "number": 6,
+      "chapter": 6,
+      "filename": "section-006.txt",
+      "title": "The Viet Telling — Book IV — 006 — Chapter 6: The Architect's Bad Idea — Codex Rewrite",
+      "words": 1629,
+      "characters": 9263,
+      "sha256": "cc7e8e202d7aab9d8025cd4adce6fff85f621fae6e2da365513146ee437225fe"
+    },
+    {
+      "number": 7,
+      "chapter": 7,
+      "filename": "section-007.txt",
+      "title": "The Viet Telling — Book IV — 007 — Chapter 7: Sunday Clothes on a Thursday — Codex Rewrite",
+      "words": 1477,
+      "characters": 8635,
+      "sha256": "378840888f587abbbd24763884c19b336757758784a7aa2ceb81454c1387724f"
+    },
+    {
+      "number": 8,
+      "chapter": 8,
+      "filename": "section-008.txt",
+      "title": "The Viet Telling — Book IV — 008 — Chapter 8: A Very Private Collection — Codex Rewrite",
+      "words": 1903,
+      "characters": 11042,
+      "sha256": "02d3ec4cb85d91f3df31fa21dde2b3310731686f74134c063cac135be4925c9e"
+    },
+    {
+      "number": 9,
+      "chapter": 9,
+      "filename": "section-009.txt",
+      "title": "The Viet Telling — Book IV — 009 — Chapter 9: The Breakfast Alibi — Codex Rewrite",
+      "words": 1551,
+      "characters": 8655,
+      "sha256": "ce396a7e13b3ba0f98988d0ead988d443a46878369eca4ab9764498a2395695a"
+    },
+    {
+      "number": 10,
+      "chapter": 10,
+      "filename": "section-010.txt",
+      "title": "The Viet Telling — Book IV — 010 — Chapter 10: Heavyweight Hospitality — Codex Rewrite",
+      "words": 1499,
+      "characters": 8459,
+      "sha256": "17ed90d1f9d87420970338e2e010246627afa260654991fcde2718339dfd882c"
+    },
+    {
+      "number": 11,
+      "chapter": 11,
+      "filename": "section-011.txt",
+      "title": "The Viet Telling — Book IV — 011 — Chapter 11: A Small Errand for Granddad — Codex Rewrite",
+      "words": 1663,
+      "characters": 9550,
+      "sha256": "2fbe46f76fb33cb5de7cbf66e3cf5005927f73136cb1a72f9760e89b2cc19704"
+    },
+    {
+      "number": 12,
+      "chapter": 12,
+      "filename": "section-012.txt",
+      "title": "The Viet Telling — Book IV — 012 — Chapter 12: Men Who Take Their Coats Off — Codex Rewrite",
+      "words": 1924,
+      "characters": 10881,
+      "sha256": "50df3487f2d76d8565d41495a5afbaefa27ca7e616d35e4ab93abb96bda378aa"
+    },
+    {
+      "number": 13,
+      "chapter": 13,
+      "filename": "section-013.txt",
+      "title": "The Viet Telling — Book IV — 013 — Chapter 13: Your Wife Has a Show — Codex Rewrite",
+      "words": 1765,
+      "characters": 10387,
+      "sha256": "53ae5983dd2645a9dc0dead4454fd83fc9b622ecce28251617b4057b44cd7040"
+    },
+    {
+      "number": 14,
+      "chapter": 14,
+      "filename": "section-014.txt",
+      "title": "The Viet Telling — Book IV — 014 — Chapter 14: A Door That Closes Properly — Codex Rewrite",
+      "words": 1571,
+      "characters": 8972,
+      "sha256": "1e156ef94bf0a2b8f6c282e02b0243c3c48c3bbcdb6a1dccd78759da4994bb60"
+    },
+    {
+      "number": 15,
+      "chapter": 15,
+      "filename": "section-015.txt",
+      "title": "The Viet Telling — Book IV — 015 — Chapter 15: Take the Side Entrance — Codex Rewrite",
+      "words": 1819,
+      "characters": 10492,
+      "sha256": "f50f5b37e3f95c6dc131b2adb30f34ea32248582c61f80653e630417102168a2"
+    },
+    {
+      "number": 16,
+      "chapter": 16,
+      "filename": "section-016.txt",
+      "title": "The Viet Telling — Book IV — 016 — Chapter 16: Mother Knows the Address — Codex Rewrite",
+      "words": 1660,
+      "characters": 9649,
+      "sha256": "fce1d4b05a84f57571b8ad379bac9cf57b68635597fccdea4a3a03de13647386"
+    },
+    {
+      "number": 17,
+      "chapter": 17,
+      "filename": "section-017.txt",
+      "title": "The Viet Telling — Book IV — 017 — Chapter 17: The Car That Wouldn't Fit — Codex Rewrite",
+      "words": 1986,
+      "characters": 11642,
+      "sha256": "da95c60d097ebafd154e8d3c4e596e06aa1c2456386d4d703b3e787a40f2b586"
+    },
+    {
+      "number": 18,
+      "chapter": 18,
+      "filename": "section-018.txt",
+      "title": "The Viet Telling — Book IV — 018 — Chapter 18: No Dancing in the Garage — Codex Rewrite",
+      "words": 1865,
+      "characters": 10995,
+      "sha256": "9b701584ff2e0bd5196373ab9a1c8f92dd27e02c5316b5a796e5ed574632c895"
+    },
+    {
+      "number": 19,
+      "chapter": 19,
+      "filename": "section-019.txt",
+      "title": "The Viet Telling — Book IV — 019 — Chapter 19: The Old Men Have Tickets — Codex Rewrite",
+      "words": 1970,
+      "characters": 11481,
+      "sha256": "a4c7408938e7ab2574718ffc96b171d1847c3208f2befad69600d0c9f297c838"
+    },
+    {
+      "number": 20,
+      "chapter": 20,
+      "filename": "section-020.txt",
+      "title": "The Viet Telling — Book IV — 020 — Chapter 20: The King's Weekend — Codex Rewrite",
+      "words": 1901,
+      "characters": 11063,
+      "sha256": "b404247e0f942372ed19f6c4763cbb0862341cc53febcf89ba8a8184c7891dcd"
+    },
+    {
+      "number": 21,
+      "chapter": 21,
+      "filename": "section-021.txt",
+      "title": "The Viet Telling — Book IV — 021 — Chapter 21: Bad Seats — Codex Rewrite",
+      "words": 1696,
+      "characters": 10018,
+      "sha256": "9e9c854f1e3b746905aac8d4c826f38c73e688e87be5f4f4fab3ba8b2f55a3a8"
+    },
+    {
+      "number": 22,
+      "chapter": 22,
+      "filename": "section-022.txt",
+      "title": "The Viet Telling — Book IV — 022 — Chapter 22: Everybody Gets a Ride — Codex Rewrite",
+      "words": 1827,
+      "characters": 10392,
+      "sha256": "f01c5d9f8dab3ba2d809281d9e1a53918fc27a1115505ebbbf1d46fab38aae16"
+    },
+    {
+      "number": 23,
+      "chapter": 23,
+      "filename": "section-023.txt",
+      "title": "The Viet Telling — Book IV — 023 — Chapter 23: The Man in the Wrong Lane — Codex Rewrite",
+      "words": 2113,
+      "characters": 11623,
+      "sha256": "999ffe4dcf0473772e9a8cf45d317df9ab8f67cc9fccb4d282c6c3a3268d9d67"
+    },
+    {
+      "number": 24,
+      "chapter": 24,
+      "filename": "section-024.txt",
+      "title": "The Viet Telling — Book IV — 024 — Chapter 24: The Last Lap Is on Foot — Codex Rewrite",
+      "words": 2055,
+      "characters": 11582,
+      "sha256": "d8805145eb59adb9be811397a5741f8ab74282c516415ea491826c471f4511db"
+    },
+    {
+      "number": 25,
+      "chapter": 25,
+      "filename": "section-025.txt",
+      "title": "The Viet Telling — Book IV — 025 — Chapter 25: A Million Dollars and a Toaster — Codex Rewrite",
+      "words": 2310,
+      "characters": 13545,
+      "sha256": "93d9e29362df20c79a41e6bb84d748ee89f07b58bfc21ebeaa02f743dcd3f3c6"
+    },
+    {
+      "number": 26,
+      "chapter": 26,
+      "filename": "section-026.txt",
+      "title": "The Viet Telling — Book IV — 026 — Chapter 26: The King Comes Home — Codex Rewrite",
+      "words": 1902,
+      "characters": 11063,
+      "sha256": "1f62c0106c8aba50cd7e7e4731721f811038492dffe704e54d7907369c6d1900"
+    }
+  ],
+  "sectionCount": 26,
+  "fullCharacters": 268410,
+  "fullWords": 46442,
+  "sha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+  "reconstructedExactly": true,
+  "nativeRequiredTerminalNewline": "Google Docs returns one structural paragraph newline after the inserted local text; readback must equal local text plus that one newline."
+}

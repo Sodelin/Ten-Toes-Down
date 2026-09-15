@@ -1,0 +1,123 @@
+## Chapter 15: Everybody Has a Cousin
+
+Leon opened the case Minh gave him, shut it, and opened it again.
+
+“Same money,” Minh said.
+
+“Making sure it likes me,” Leon answered. His good hand hovered above the first bundle. “How much?”
+
+“Two hundred and fifty thousand.” Minh stood beside him in the packaging yard while Moss supervised a car coming down from the container rack. “Buy your own limousine.”
+
+Leon covered his mouth. “I can buy the dentist.”
+
+Mai joined them with another case and told Leon to pay Veronica first. He protested that Minh had already paid her. Mai told him to pay Minh, then. Minh held out his hand.
+
+Leon counted thirty dollars from his wallet with ceremony disproportionate to the transaction. “My final debt.”
+
+“Excuse me?” Marisol called from the gate.
+
+Leon closed his eyes. Minh kept the thirty.
+
+News reached Bell Street before the cars. When Minh drove home, a line waited at the garage. People carried envelopes, photographs, proposals, a framed portrait of a muscular man beside a jeweled lion. The man in the portrait had six fingers and approximately Minh's face.
+
+“That's not my body,” Minh told its bearer.
+
+“Expanded the concept,” the artist said.
+
+Mai took the frame, asked the price, and was told it was a gift. She announced that she loved it and carried it upstairs before Minh could object to the spare finger.
+
+Next came a man with a business card and an assertion of kinship. The card named Curtis Henderson. Asked which branch connected him to Minh, Curtis said Leon.
+
+Leon arrived with his case held against his uninjured side and stopped at the man.
+
+“We went to school together,” Leon said.
+
+“Shared childhood,” Curtis replied.
+
+“You stole my bicycle,” Leon said.
+
+“Shared transportation,” Curtis told him.
+
+Minh laughed and read the card again. Curtis sold tires. Minh told him to bring prices and leave the family tree at home. Curtis departed smiling, already discussing which products might suit the garage. Leon predicted a photograph of them all on his next card.
+
+Mai and Felicia established a table across the entrance. Three signs directed customers toward REPAIRS, WEDDING, and WHATEVER THIS IS. The third line grew longest. Together they sent away two loan applicants, collected a legitimate printing deposit, and told a singer that six minutes without being interrupted did not constitute a booking.
+
+Inside, Tú tried explaining his payment to his mother over the telephone. He said he carried things. She apparently wanted details about the things. Leon went past with a plate and observed that they were paying by the thing now.
+
+Tú covered the receiver. “She asks if it's dangerous.”
+
+“Tell her yes,” Minh said.
+
+Tú hesitated, then obeyed. His mother's answer lasted long enough for Leon to finish half his plate. When Tú held the phone toward Minh, the young man's gold lettering had begun to look like evidence.
+
+Minh listened. He answered two questions and refused to promise Tú could remain safe doing unsafe work. He asked what Tú had told her. Then he looked up at the young man.
+
+“A bank?” Minh said.
+
+Tú stared at the floor. Leon suggested that proximity to money might count toward the curriculum. Minh returned the phone and told Tú his mother was coming to discuss the uniform.
+
+The basketball challenge arrived with its own audience. Stretch was not especially tall, but claimed his jump made up for it. He wore red shorts and a chain thick enough to strike his chin when he moved. Three friends brought a ball and a radio.
+
+“Five thousand,” Stretch offered. “One dunk from the free-throw line.”
+
+Minh looked up from a motorcycle. “You have it?”
+
+Stretch's friends produced envelopes, a wallet, and a folded sock. Mai prohibited sock money on her paperwork. Leon collected the wager on a clean plate while Stretch explained that people said Minh could do anything and he was offering recreation.
+
+They walked to the court behind the community center. Players moved aside when they saw the procession. Reggie filmed from the gate. Minh accepted the ball in his work trousers and repaired shoes.
+
+Stretch offered time to change. Minh asked whether Stretch wanted more time. The men beside the fence laughed. Stretch pointed insistently at the line.
+
+Minh placed a foot behind it, looked at the rim, and stepped back another pace. Mai folded her arms beside Leon and told him not to break the court.
+
+He bounced the ball once and jumped without a run.
+
+The backboard fell below his eyes. Beyond it, he saw over the community-center roof to the harbor cranes. Coming down, he put the ball through the hoop with one hand and caught the top of the backboard with the other to slow himself. The support bowed toward the court.
+
+His shoes hit beneath the basket. He kept hold of the board, put his shoulder under the bent steel, and straightened it. The ball bounced behind him while the entire fence line tried remembering what noise to make.
+
+Leon lifted the plate of money. “Healthy activity.”
+
+Shouting broke out. Stretch walked to the line, looked up at the basket, and asked Reggie for a tape. Reggie named it a separate purchase. A man held his shoes through the fence for Minh to sign. Mai inspected the support and said he had nearly broken it.
+
+“Nearly is free,” Minh told her.
+
+She laughed and took his hand for the walk home.
+
+Dante waited at the garage with Duy between him and the street. Mai had bought him clothes. The receipt remained pinned to his shirt because she had not decided whether he deserved to keep them.
+
+“She said leave it,” Dante explained when Minh looked.
+
+“Then leave it,” Minh said.
+
+Duy handed him the garage phone. Rook was waiting. His first words concerned the eight million dollars.
+
+“You found it,” Minh told him.
+
+Rook invoked their agreement. Minh looked toward Leon's sling.
+
+“You shot my cook,” Minh said.
+
+“Executive cook,” Leon supplied.
+
+Rook offered to end the misunderstanding if Minh brought the money back. Minh invited him to collect it. Rook asked where.
+
+“Bell Street,” Minh said.
+
+Silence stretched. Dante watched his face. Mai stood at the doorway with the three signs behind her. Outside, people were still disputing the height of the dunk, pulling Stretch back into conversations each time he tried collecting his radio.
+
+“You think that address protects you,” Rook said finally.
+
+Minh looked through his open door. “You have it.” He hung up.
+
+That evening, Mai directed the hanging of the lion portrait above their small dining table. Minh stood on a chair, shifting it left, then the other left, while the six-fingered man observed the work with unwarranted confidence.
+
+“You enjoy mocking your future husband,” Minh said, stepping down.
+
+“Investing in longevity,” Mai replied.
+
+She stood beside him and admired it. Minh put an arm around her waist. Downstairs, the phone rang again. Mai caught the front of his shirt and pulled him toward the table before he reached the doorway.
+
+“Dinner first,” she told him.
+
+Minh sat. The portrait looked over the meal; the phone finished ringing without being answered; Mai passed him the rice. After a morning that had made him rich enough to receive more cousins, he enjoyed being told exactly where to put his plate.

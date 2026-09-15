@@ -1,0 +1,189 @@
+## Chapter 2: Open Until Midnight
+
+The shutter tried Minh's shoe again. Its motor whined overhead; the toe stayed on the carpet.
+
+“Move that, baby,” the woman sewing his shirt told him.
+
+Minh glanced down. “It isn't bothering me.”
+
+“Your elbow,” she said, pulling the thread straight. “I'm doing useful work.”
+
+Across the doorway, the second steel panel slammed down hard enough to cut the carpet. A departing guest leaped away and emptied his champagne into the pocket of the man behind him. That man demanded an explanation while his wife bit off the thread in Minh's new button.
+
+“He still talks about that coat,” she told Minh. “Don't let anyone hit this button. It's his.”
+
+Leon returned with two loaded plates and the money under his arm. He considered the sealed entrance, looked back toward the buffet, and decided aloud that captivity might suit him for twenty minutes.
+
+Minh stood. The panel rose on his shoe until he could slide his fingers beneath it. He took the weight in one hand, lifted it past his face, and drove it into the overhead housing. Bolts dropped around his shoulders. The motor gave a noise like a large animal swallowing cutlery and stopped.
+
+Rook had reached the stage. Minh could see him arguing with Dante, whose red jacket had become very conspicuous under the lights. Neither came to help.
+
+“Anybody leaving?” Minh asked the room.
+
+Several hands went up. A woman in blue started towing her husband by the wrist. He protested that he had not bid yet; she told him to keep walking while that remained his largest regret.
+
+A guard intercepted them with a hand inside his jacket. “Everyone stays until Mr. Rook authorizes—”
+
+Minh pulled the entire panel free. The remaining bolts tore from the track in a burst. He caught its upper edge before it fell toward the guard, rotated the slab, and leaned it against the closed half of the doorway.
+
+The guard's sentence stayed unfinished.
+
+“We all been instructed, nigga,” Leon told him. “My doctor said vegetables. Look at this plate.”
+
+The guard took his hand out of his jacket. The woman in blue passed him, removed her husband's auction paddle, and dropped it in a champagne bucket. More guests followed. Minh took a napkin someone offered for the grease on his palm and stepped aside to give the line room.
+
+His seamstress carried her chair clear herself, holding it in front of her knees while two armed men failed to think of helping. Minh reached for it; she told him to keep his hands available for the door.
+
+“Your husband need that napkin?” Minh asked, indicating the wet pocket.
+
+“He needs to stop turning his pocket into the subject of the evening,” she said. Then she took the napkin anyway and carried it to him.
+
+The departing guests thanked Minh in voices that varied with how recently they had bet against him. One man offered to settle a debt Minh did not remember. A woman asked whether the lift was operating, looked at the uprooted steel beside him, and decided to take the stairs before he answered.
+
+It halted when a man behind the stage shouted that the money was gone.
+
+Leon set his briefcase between his feet. “Specify,” he called.
+
+Three men staggered out through the curtain. One carried the empty lid of a jewelry display; another had a bleeding nose. They reported empty parking spaces below, an open armored truck, missing cash cases. The prize convoy had disappeared.
+
+The woman who had sewn Minh's shirt took her husband by the sleeve before he could complain about his necklace again.
+
+“You hadn't paid,” she reminded him. “Try enjoying an advantage.”
+
+The service door behind the stage burst inward. A hotel worker came through backward and knocked two guards into the curtain. A man with a shotgun stepped over him, fired into the ceiling, and ordered everybody down.
+
+Plaster rained across the tables. A hanging light dropped into the fruit and bounced into a woman's lap. She threw it at her husband. Leon collected his second plate.
+
+“Now,” Leon said, “we leaving.”
+
+Minh was already moving. He caught an empty chair by its back, vaulted the nearest dining table with it held in front of him, and landed on the stage steps. A man beneath his flight ducked late and removed his wig in the process.
+
+The shotgun fired into the chair. Wood struck Minh's sleeves. He thrust the broken frame down over the barrel, twisted it toward the floor, and kicked the gunman backward through the curtain. The man landed inside the bass drum.
+
+Minh bent the captured barrel around the metal stair rail and dropped it. The drummer emerged carrying one stick and the expression of a man whose evening had acquired an invoice.
+
+“He hired the room,” Minh told him, pointing at Rook.
+
+“I hired music,” Rook snapped.
+
+“You got percussion,” Minh said, and turned toward the service stairs.
+
+Two more gunmen were climbing. The lower one tried aiming a pistol past his partner's shoulder. Minh pulled the service door off its hinges and shoved it sideways into the stairwell. It struck the upper man across the chest. His shotgun discharged into concrete as both men fell under the panel and skidded five steps.
+
+Minh followed. He planted a foot on the wood, waited until the guns fell from beneath it, then bent the rail across the panel to hold the men there. The lower one complained that he could not feel his partner's elbow. Minh told him that sounded like progress and took both weapons to the landing.
+
+The upper gunman had tried lifting the panel when Minh arrived. Now he stayed very still while the rail curved over it. A shoe projected from the lower edge at an angle Minh did not like. He lifted the corner enough for its owner to straighten his leg, then settled the door across their torsos again.
+
+“You can't leave us,” the upper man said.
+
+Minh placed the guns beyond reach. “You were coming up together. Enjoy the conversation.”
+
+From the ballroom, a waiter peered through the missing doorway. Minh asked him to send somebody for the men when they were finished waving guns. The waiter looked at the bent rail, then at Minh's repaired shirt, and promised that security would attend to it. His voice suggested he expected security to become a different department by the time it arrived.
+
+When he returned, Leon stood at the ruined entrance holding the jacket, the briefcase, and a plate with impressive independence.
+
+“Time?” Leon asked.
+
+Minh checked the clock. “Ten twelve. He paid till midnight.”
+
+Leon pointed to the missing shutter. “That motherfucker staying open till Christmas. Come on.”
+
+Rook followed them into the corridor with six men who maintained a careful distance from the loose steel. Dante came after him, jacket gone, sweat spreading at his collar.
+
+“My son says your people were downstairs,” Rook told Minh.
+
+Leon lifted his plate. “My people was at the butter.”
+
+“The loading crew said they came with you,” Dante said. “They knew your name.”
+
+Minh asked for theirs. Dante could offer a brown jacket and short hair. When he stepped toward Leon, Minh put one finger against his chest. Dante's forward movement stopped while the rest of him worked out why.
+
+“You gave twelve million dollars to a haircut?” Minh asked.
+
+Dante began describing the brown jacket again. Minh asked whether he had collected identification, a delivery order, a signature, anything that would distinguish the men from a stranger at a bus stop. Each answer was shorter than the question before it.
+
+“They knew you,” Dante insisted.
+
+“So do you,” Minh told him. “It's not going especially well.”
+
+Rook watched his son's face and stopped asking for details. His men shifted along the wall, making room for more auction guests who had come to discover what their security arrangements had bought.
+
+At the corridor window, he looked down into the loading court. Workers surrounded three vacant spaces. Beside the open armored truck, two guards sat with their hands tied. A dark sedan was leaving through the unguarded exit.
+
+The driver looked back.
+
+Minh knew Duy's face before the man recognized his. Duy turned forward and accelerated around the corner. Minh left his palm against the glass for a second, then brought it down before Rook joined him.
+
+“What?” Rook demanded.
+
+“You need a gate,” Minh said.
+
+Rook told him to stop joking. Minh faced him fully. He explained the contract in the same order they had made it: a door, inside, open, midnight. He had done the work. Men had tried closing the door with steel and guns. He had made their improvements unnecessary.
+
+Dante tried interrupting. Minh pointed at him without turning. “Finish breathing first.”
+
+Rook lowered his voice. “Twelve million in cash, diamonds, vehicles. I want it back.”
+
+“Then hire somebody,” Minh said.
+
+“I'm asking you.” Rook moved closer. “Two hundred thousand on recovery.”
+
+Bách Vũ arrived from the ballroom holding two auction paddles. Bell Street called him Uncle Dollar, largely because he had spent years insisting upon it. He looked from Rook to Minh and raised a paddle.
+
+“A million,” Bách announced.
+
+Rook told him the conversation was private. Half the ballroom had followed them into the corridor. Bách looked around at the audience and raised his other paddle.
+
+“A million over here too,” Bách said, raising the other paddle. “Strong demand.”
+
+The husband in the wet dinner jacket joined the bidding on behalf of his unpaid necklace. His wife corrected him, but he explained that he was participating. Laughter traveled along the corridor while Rook tried finding an exit through six of his own men.
+
+Minh enjoyed watching him fail.
+
+“A million,” Rook said finally. “When everything listed comes back.”
+
+Minh held up one hand before Bách could begin a victory auction. “Everything you listed. Vehicles, cash, jewelry. You have an inventory?”
+
+Rook nodded. The million had aged him visibly. “The office can send it.”
+
+“Send it to the garage,” Minh said. “Don't send another room full of people with it.”
+
+Bách lowered one paddle to his side and used the other to fan himself. “Look at that, Calvin. Professional service. For two hundred thousand you might have got a photograph of the money.”
+
+The husband with the wet pocket laughed first. Rook looked at him until his wife turned him gently toward the lifts.
+
+“And nobody follows Mai,” Minh added.
+
+Rook's mouth tightened. “I haven't mentioned your fiancée.”
+
+“Now you don't have to.” Minh offered his hand.
+
+Rook shook it carefully. Bách applauded with the paddles. Leon clapped the briefcase against his free palm. Minh released Rook before the man's knuckles contributed anything audible.
+
+Downstairs, the valets had polished the toolbox. Leon accepted their assistance with the solemnity due an institution that improved dirty things for free. Once the limousine cleared the harbor gates, he asked who Minh had seen.
+
+“Duy,” Minh said. “Driving out.”
+
+For a block, Leon said nothing. Shop lights moved along the limousine's white side. Then he looked into the mirror.
+
+“He see you?” Leon asked.
+
+Minh nodded. “Looked straight up at the window.”
+
+Leon shifted the case on the seat beside him at the next light. He did not open it this time. “Duy can explain things for forty minutes without making a thing clearer,” he said.
+
+“He'll call,” Minh said, taking out his phone to check it.
+
+There was no missed call. He put it back. Leon drove on, leaving the expensive hotel's reflected light behind them.
+
+“We still shopping?” Leon asked.
+
+Minh unfolded the envelope. “Large soap.”
+
+At the all-night market, Leon stayed with the briefcase while Minh took milk, scallions, and laundry soap to register two. He put a hundred-dollar bill beside them.
+
+The cashier asked for something smaller. Minh checked his wallet, looked out at Leon deliberately admiring the dashboard, and admitted defeat.
+
+The cashier pressed her intercom. “Manager to register two. Again.”
+
+Minh waited beside the groceries. After everything that had happened upstairs at the Meridian, this was the first door nobody would open for him.

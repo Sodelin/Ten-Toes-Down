@@ -1,0 +1,542 @@
+{
+  "status": "Complete local manuscript and listening files; exact reconstruction verified. Google delivery pending.",
+  "provenance": "Status: Proposal. Complete narrative revision authored by Codex under direction from Nolan; separate, non-canonical draft. Source commit: 4f38948aa5fa97f294adfa74a0b7055c399b2826. Original text preserved.",
+  "conversion": "All 29 authored chapter files in order. Normalize CRLF/CR to LF; trim chapter edges; remove only the initial Markdown heading marker (## followed by one space); append two LF characters per chapter. Chapter prose and internal paragraph spacing are preserved. Book title and provenance are supplied in the index and document titles, outside the spoken body.",
+  "encoding": "UTF-8 without BOM",
+  "fullFile": "book-03-native.txt",
+  "chapterCount": 29,
+  "sectionCount": 24,
+  "nativeWords": 41399,
+  "fullBytes": 249747,
+  "fullSha256": "abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25",
+  "reconstructedSha256": "abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25",
+  "exactTextMatch": true,
+  "exactOnDiskByteMatch": true,
+  "exactUtf8ByteHashMatch": true,
+  "assembledMarkdownMatchesAuthoredChapters": true,
+  "googleDelivery": "Pending separately authorized parent workflow; this build performs no network or Google operations.",
+  "chapters": [
+    {
+      "number": 1,
+      "filename": "chapters/chapter-01.md",
+      "title": "Chapter 1: The Refrigerator Gets a Better Offer",
+      "sourceDraftSha256": "1af31393f1101b37ba093317da6aacb59b519f9251bdb26410533afb7ba16e67",
+      "nativeWords": 1904,
+      "nativeSha256": "7b026a08be2b0fa3fb0011b6e6e9a8b1b5603534882b787cb41d1a5b1915bdfa"
+    },
+    {
+      "number": 2,
+      "filename": "chapters/chapter-02.md",
+      "title": "Chapter 2: Everybody Bet Against the Old Man",
+      "sourceDraftSha256": "efed98deceabe8146f9ca4a1ca548616a280a24f7d9a83040727494997c4be1f",
+      "nativeWords": 1512,
+      "nativeSha256": "3c6aded25e7ecbf766b3f40b8c95b2cb1a87198f656984d5d94d4aa81bf9b533"
+    },
+    {
+      "number": 3,
+      "filename": "chapters/chapter-03.md",
+      "title": "Chapter 3: Your Grandmother Owns the Dance Floor",
+      "sourceDraftSha256": "3a1439f83ba53c8f251164f97b59d2ea056df8058060493bd5b5de41998b2bb7",
+      "nativeWords": 1733,
+      "nativeSha256": "f1a33ab67bb5596ab366ec1111f80a5fc4fe03449a693fed0e163968926419ed"
+    },
+    {
+      "number": 4,
+      "filename": "chapters/chapter-04.md",
+      "title": "Chapter 4: The Man with Two Tow Trucks",
+      "sourceDraftSha256": "bca666c197a08ab89b2ca8477583626b7036fefbb7c96d9baa5ad7c0a6669816",
+      "nativeWords": 1442,
+      "nativeSha256": "9900cb44ebdf4e5301b9f98b97723b7b2adc8a7db56cc4bd07d03b7b44ba164f"
+    },
+    {
+      "number": 5,
+      "filename": "chapters/chapter-05.md",
+      "title": "Chapter 5: Nobody Ordered This Much Shrimp",
+      "sourceDraftSha256": "ffc866267cc08d94dcb61298a12ddef05c826ed65fbaae527d930da543502aa8",
+      "nativeWords": 1455,
+      "nativeSha256": "1661b933eab5a264d52df72630e6a3e0094e11df536baad1ecb77779eefa498c"
+    },
+    {
+      "number": 6,
+      "filename": "chapters/chapter-06.md",
+      "title": "Chapter 6: The House Asked for Another Table",
+      "sourceDraftSha256": "c3a69fe3e59fcc478875280f6083814a237b8139be120a7626c6370a14ed8aff",
+      "nativeWords": 1530,
+      "nativeSha256": "a209c1714083cf6fe45b0fc856ac733934c0a566c2e61e7dced70f0d286e6fae"
+    },
+    {
+      "number": 7,
+      "filename": "chapters/chapter-07.md",
+      "title": "Chapter 7: Mai Brings Her Own Camera",
+      "sourceDraftSha256": "321642e120196a72d3b7554ce67bdddae15e8385deff30e9406c022fc01bd6f7",
+      "nativeWords": 1583,
+      "nativeSha256": "2121bebfe374a06574da87ae915c47e1969287b375e10b93f5b96eb4313c8905"
+    },
+    {
+      "number": 8,
+      "filename": "chapters/chapter-08.md",
+      "title": "Chapter 8: A Very Inconvenient Wedding",
+      "sourceDraftSha256": "dc27a512b90df2427318449c2e499b1f8b02e974556dc31c51ffe918719a1b54",
+      "nativeWords": 1532,
+      "nativeSha256": "324db6ccc04b37e3208a52783472631b245ebc4775f9e70234d7d7eebf74088e"
+    },
+    {
+      "number": 9,
+      "filename": "chapters/chapter-09.md",
+      "title": "Chapter 9: Duke Gets His Shoes Wet",
+      "sourceDraftSha256": "07d89a45b5a1783b24cd13fa6e82c92bb32e6c390d2cc135d6a5725b80b0a208",
+      "nativeWords": 1418,
+      "nativeSha256": "d69331dd3956a20521a8634d8934bad698a25b559be4d828c6e85d83945ccd7b"
+    },
+    {
+      "number": 10,
+      "filename": "chapters/chapter-10.md",
+      "title": "Chapter 10: The Cannery Has Visitors",
+      "sourceDraftSha256": "b2a17c9ef408ae91a70a387d027f0144c11d2e2523230d307346323ec051d646",
+      "nativeWords": 1488,
+      "nativeSha256": "fee8326f72c56b6a8b243e6d6c7d02b49fd9fa396186a44c55d129a117858b52"
+    },
+    {
+      "number": 11,
+      "filename": "chapters/chapter-11.md",
+      "title": "Chapter 11: Auntie Sets the Price",
+      "sourceDraftSha256": "bb026256d6dea12b2d694300659f11a5b1ecefa0e3822c6ed012f519fff2f589",
+      "nativeWords": 1298,
+      "nativeSha256": "0a93079f7b214060db061c24abbf25e09d5614c72706abe22544ab00ebd62b03"
+    },
+    {
+      "number": 12,
+      "filename": "chapters/chapter-12.md",
+      "title": "Chapter 12: Bishop Brings a Choir",
+      "sourceDraftSha256": "4ece257f233b0d10d9d6406bfd1892e04c5ac6b95926e564f8c711e650e8e4a5",
+      "nativeWords": 1423,
+      "nativeSha256": "1374ed8fe93e4d9dfc68899844aa770f2370c54243a0be6b223ef6f8b16b9d9f"
+    },
+    {
+      "number": 13,
+      "filename": "chapters/chapter-13.md",
+      "title": "Chapter 13: A Night Off Costs Extra",
+      "sourceDraftSha256": "7f49d8c8c32c60ae7057cb5b245be5ba685891881767f8da0e8d530d3a13bcaf",
+      "nativeWords": 1945,
+      "nativeSha256": "b7f3c489516be3ba1f055cd876366643477ddf530191be4bedccc0e2a71e1f3e"
+    },
+    {
+      "number": 14,
+      "filename": "chapters/chapter-14.md",
+      "title": "Chapter 14: The Wrong Man in the Trunk",
+      "sourceDraftSha256": "275ca058022818baeec0d5cadf292c21ef7924142dc52fd6d57903e2c80d5f11",
+      "nativeWords": 1363,
+      "nativeSha256": "f61782146a7d43f175f5d98313cb441a6248bbb066f7b2688edc9baf3906afa6"
+    },
+    {
+      "number": 15,
+      "filename": "chapters/chapter-15.md",
+      "title": "Chapter 15: The Midnight Train Is Early",
+      "sourceDraftSha256": "d37822599954c86191c7b335e02d6d46faeb42dea79bacdd9ab2c99c9d3d0c3d",
+      "nativeWords": 1543,
+      "nativeSha256": "71b34140d59195ea3481104f21224e35ef0d7addb4ee0bc3636a30e6fbd759da"
+    },
+    {
+      "number": 16,
+      "filename": "chapters/chapter-16.md",
+      "title": "Chapter 16: The River Queen Leaves Early",
+      "sourceDraftSha256": "c9d337762b4300477ad007ec2d3beef8d5e6685126f3000d7f3f7a7ac06db01f",
+      "nativeWords": 1367,
+      "nativeSha256": "27b64abc00784956818fad92169e32e31b8131bebb0e9d969473b90c34a730bb"
+    },
+    {
+      "number": 17,
+      "filename": "chapters/chapter-17.md",
+      "title": "Chapter 17: Duke Gets a Better Job",
+      "sourceDraftSha256": "2c6ee3f4efb4604983b5ebe3530ce3fceb6035f668a40fc01f47a9908761b0cc",
+      "nativeWords": 1157,
+      "nativeSha256": "3834a46bc75d1fabf0cab4c0eb61ab933df0a28504a224389155ac0c251b8752"
+    },
+    {
+      "number": 18,
+      "filename": "chapters/chapter-18.md",
+      "title": "Chapter 18: The Band Refuses to Stop",
+      "sourceDraftSha256": "f4d37709a9469a155dcb8db22ce64a8461f02ac8cdd0534b06e86f75d498c9d4",
+      "nativeWords": 1210,
+      "nativeSha256": "fa98d102c9c977f1cf92c57ed9f481157c6f8d8e3579de7262b12f525e7d61e0"
+    },
+    {
+      "number": 19,
+      "filename": "chapters/chapter-19.md",
+      "title": "Chapter 19: Rook Cuts the Lights",
+      "sourceDraftSha256": "5a76d233a62219a0a3f0b37e08dc42a6c5c0ad524ef9ec61f3260990ef599dd6",
+      "nativeWords": 1358,
+      "nativeSha256": "9ee37649ba522e0d80f51172ee82e3c31f70c2d51d711215849584245f651a23"
+    },
+    {
+      "number": 20,
+      "filename": "chapters/chapter-20.md",
+      "title": "Chapter 20: Nobody Gets to Sink My Wife",
+      "sourceDraftSha256": "bfb36f72c379358f2f86b1ddb03a566254a5c0c4cf977d5e333eda59a85ee58d",
+      "nativeWords": 1484,
+      "nativeSha256": "f54595604c7300e1032deb5564e531b2bd555998a98be2fd44b1562e4261afab"
+    },
+    {
+      "number": 21,
+      "filename": "chapters/chapter-21.md",
+      "title": "Chapter 21: Three Boats and a Bad Idea",
+      "sourceDraftSha256": "403839c1a7299abd459666449c44441bea139a6fa385186d39fa285e1f2e49f2",
+      "nativeWords": 1094,
+      "nativeSha256": "631824d8dfbcc071ba1bdda6d55a7d0a23810db24f7e7ba74d72c7fc0a9b1bbd"
+    },
+    {
+      "number": 22,
+      "filename": "chapters/chapter-22.md",
+      "title": "Chapter 22: Forty Tonnes before Breakfast",
+      "sourceDraftSha256": "67a4422afffdaa3b4b8c2572ae8c36de190ea4aa06bacb8ba5335439367f2f94",
+      "nativeWords": 1422,
+      "nativeSha256": "c36d51995f8b918480dbd030a668eac77421340b9d06dd4379ef3e694f19b196"
+    },
+    {
+      "number": 23,
+      "filename": "chapters/chapter-23.md",
+      "title": "Chapter 23: The Man at the Top",
+      "sourceDraftSha256": "7e7479c103dbf4d44a701b11c77f2260b5f009c441dd0fda5f897f0ac4c555d2",
+      "nativeWords": 1384,
+      "nativeSha256": "9bc2437782379b8271ee2438996ede5c188da02c9dbbf6180d094d1eeab13f42"
+    },
+    {
+      "number": 24,
+      "filename": "chapters/chapter-24.md",
+      "title": "Chapter 24: The Afterparty Has Stitches",
+      "sourceDraftSha256": "0761512f88a1007190455bede84956873016d250aa11d3e7f3e6a933aca06191",
+      "nativeWords": 1206,
+      "nativeSha256": "202db9dcfd1e4053119d21c55acb1b63d0893ed6b825633d786273cb88e81ffd"
+    },
+    {
+      "number": 25,
+      "filename": "chapters/chapter-25.md",
+      "title": "Chapter 25: Rook Signs the Receipt",
+      "sourceDraftSha256": "69eae0d43144ff96d774853b23539d3cb528005def2b79858eb995cf78608b2b",
+      "nativeWords": 1286,
+      "nativeSha256": "7691ff67be02ba327fe583245c7009ff3ed4e7bc3ac05481de22d036c435f2cb"
+    },
+    {
+      "number": 26,
+      "filename": "chapters/chapter-26.md",
+      "title": "Chapter 26: Nobody Bought Enough Chairs",
+      "sourceDraftSha256": "92e2999b0f42409dd043eab95f325b29ad00724dcba38d1be7773788a1657975",
+      "nativeWords": 1209,
+      "nativeSha256": "e509dffc06e8d9f57ea9271ac286b92951d5f87f65d8b44b64407991c184f565"
+    },
+    {
+      "number": 27,
+      "filename": "chapters/chapter-27.md",
+      "title": "Chapter 27: The Bride Comes Back",
+      "sourceDraftSha256": "eed2a50c8bb66ea8e7066eb8ba5685259f2cafc8d96667a119ac5eb4ac2210e3",
+      "nativeWords": 1298,
+      "nativeSha256": "e229bee37f3fe5551995361cd44248cf240c7eb81e62ee950549b3d78f0d7f09"
+    },
+    {
+      "number": 28,
+      "filename": "chapters/chapter-28.md",
+      "title": "Chapter 28: Hòa Keeps His Own Hours",
+      "sourceDraftSha256": "eb8b4d951ab292cc44d51a356e34e4aa8da38cc63b35826299f98b96b4bbbab7",
+      "nativeWords": 1321,
+      "nativeSha256": "cabaeecf088bc51e8d9efdc03a868cd36cb472a201eef74f72b074d94e18dac6"
+    },
+    {
+      "number": 29,
+      "filename": "chapters/chapter-29.md",
+      "title": "Chapter 29: The Long Way Home",
+      "sourceDraftSha256": "86c2c609a20dfcca03270540e98d3f06853f0ea55fcf1e8172efad23181763ab",
+      "nativeWords": 1434,
+      "nativeSha256": "4dbc8f98415662ae04666a57c4e1c6b480ccfc8d39436ba293206dc4ed88e7b6"
+    }
+  ],
+  "sections": [
+    {
+      "number": 1,
+      "firstChapter": 1,
+      "lastChapter": 1,
+      "filename": "listening/section-001.txt",
+      "title": "Chapter 1: The Refrigerator Gets a Better Offer",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 001 - Chapter 1 - Codex Rewrite",
+      "words": 1904,
+      "characters": 11114,
+      "bytes": 11529,
+      "sha256": "7b026a08be2b0fa3fb0011b6e6e9a8b1b5603534882b787cb41d1a5b1915bdfa"
+    },
+    {
+      "number": 2,
+      "firstChapter": 2,
+      "lastChapter": 2,
+      "filename": "listening/section-002.txt",
+      "title": "Chapter 2: Everybody Bet Against the Old Man",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 002 - Chapter 2 - Codex Rewrite",
+      "words": 1512,
+      "characters": 8812,
+      "bytes": 9141,
+      "sha256": "3c6aded25e7ecbf766b3f40b8c95b2cb1a87198f656984d5d94d4aa81bf9b533"
+    },
+    {
+      "number": 3,
+      "firstChapter": 3,
+      "lastChapter": 3,
+      "filename": "listening/section-003.txt",
+      "title": "Chapter 3: Your Grandmother Owns the Dance Floor",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 003 - Chapter 3 - Codex Rewrite",
+      "words": 1733,
+      "characters": 10206,
+      "bytes": 10559,
+      "sha256": "f1a33ab67bb5596ab366ec1111f80a5fc4fe03449a693fed0e163968926419ed"
+    },
+    {
+      "number": 4,
+      "firstChapter": 4,
+      "lastChapter": 4,
+      "filename": "listening/section-004.txt",
+      "title": "Chapter 4: The Man with Two Tow Trucks",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 004 - Chapter 4 - Codex Rewrite",
+      "words": 1442,
+      "characters": 8403,
+      "bytes": 8678,
+      "sha256": "9900cb44ebdf4e5301b9f98b97723b7b2adc8a7db56cc4bd07d03b7b44ba164f"
+    },
+    {
+      "number": 5,
+      "firstChapter": 5,
+      "lastChapter": 5,
+      "filename": "listening/section-005.txt",
+      "title": "Chapter 5: Nobody Ordered This Much Shrimp",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 005 - Chapter 5 - Codex Rewrite",
+      "words": 1455,
+      "characters": 8520,
+      "bytes": 8761,
+      "sha256": "1661b933eab5a264d52df72630e6a3e0094e11df536baad1ecb77779eefa498c"
+    },
+    {
+      "number": 6,
+      "firstChapter": 6,
+      "lastChapter": 6,
+      "filename": "listening/section-006.txt",
+      "title": "Chapter 6: The House Asked for Another Table",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 006 - Chapter 6 - Codex Rewrite",
+      "words": 1530,
+      "characters": 8879,
+      "bytes": 9135,
+      "sha256": "a209c1714083cf6fe45b0fc856ac733934c0a566c2e61e7dced70f0d286e6fae"
+    },
+    {
+      "number": 7,
+      "firstChapter": 7,
+      "lastChapter": 7,
+      "filename": "listening/section-007.txt",
+      "title": "Chapter 7: Mai Brings Her Own Camera",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 007 - Chapter 7 - Codex Rewrite",
+      "words": 1583,
+      "characters": 9214,
+      "bytes": 9483,
+      "sha256": "2121bebfe374a06574da87ae915c47e1969287b375e10b93f5b96eb4313c8905"
+    },
+    {
+      "number": 8,
+      "firstChapter": 8,
+      "lastChapter": 8,
+      "filename": "listening/section-008.txt",
+      "title": "Chapter 8: A Very Inconvenient Wedding",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 008 - Chapter 8 - Codex Rewrite",
+      "words": 1532,
+      "characters": 9106,
+      "bytes": 9357,
+      "sha256": "324db6ccc04b37e3208a52783472631b245ebc4775f9e70234d7d7eebf74088e"
+    },
+    {
+      "number": 9,
+      "firstChapter": 9,
+      "lastChapter": 9,
+      "filename": "listening/section-009.txt",
+      "title": "Chapter 9: Duke Gets His Shoes Wet",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 009 - Chapter 9 - Codex Rewrite",
+      "words": 1418,
+      "characters": 8254,
+      "bytes": 8505,
+      "sha256": "d69331dd3956a20521a8634d8934bad698a25b559be4d828c6e85d83945ccd7b"
+    },
+    {
+      "number": 10,
+      "firstChapter": 10,
+      "lastChapter": 10,
+      "filename": "listening/section-010.txt",
+      "title": "Chapter 10: The Cannery Has Visitors",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 010 - Chapter 10 - Codex Rewrite",
+      "words": 1488,
+      "characters": 8676,
+      "bytes": 8931,
+      "sha256": "fee8326f72c56b6a8b243e6d6c7d02b49fd9fa396186a44c55d129a117858b52"
+    },
+    {
+      "number": 11,
+      "firstChapter": 11,
+      "lastChapter": 11,
+      "filename": "listening/section-011.txt",
+      "title": "Chapter 11: Auntie Sets the Price",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 011 - Chapter 11 - Codex Rewrite",
+      "words": 1298,
+      "characters": 7664,
+      "bytes": 7951,
+      "sha256": "0a93079f7b214060db061c24abbf25e09d5614c72706abe22544ab00ebd62b03"
+    },
+    {
+      "number": 12,
+      "firstChapter": 12,
+      "lastChapter": 12,
+      "filename": "listening/section-012.txt",
+      "title": "Chapter 12: Bishop Brings a Choir",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 012 - Chapter 12 - Codex Rewrite",
+      "words": 1423,
+      "characters": 8331,
+      "bytes": 8559,
+      "sha256": "1374ed8fe93e4d9dfc68899844aa770f2370c54243a0be6b223ef6f8b16b9d9f"
+    },
+    {
+      "number": 13,
+      "firstChapter": 13,
+      "lastChapter": 13,
+      "filename": "listening/section-013.txt",
+      "title": "Chapter 13: A Night Off Costs Extra",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 013 - Chapter 13 - Codex Rewrite",
+      "words": 1945,
+      "characters": 11240,
+      "bytes": 11542,
+      "sha256": "b7f3c489516be3ba1f055cd876366643477ddf530191be4bedccc0e2a71e1f3e"
+    },
+    {
+      "number": 14,
+      "firstChapter": 14,
+      "lastChapter": 14,
+      "filename": "listening/section-014.txt",
+      "title": "Chapter 14: The Wrong Man in the Trunk",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 014 - Chapter 14 - Codex Rewrite",
+      "words": 1363,
+      "characters": 7729,
+      "bytes": 8013,
+      "sha256": "f61782146a7d43f175f5d98313cb441a6248bbb066f7b2688edc9baf3906afa6"
+    },
+    {
+      "number": 15,
+      "firstChapter": 15,
+      "lastChapter": 15,
+      "filename": "listening/section-015.txt",
+      "title": "Chapter 15: The Midnight Train Is Early",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 015 - Chapter 15 - Codex Rewrite",
+      "words": 1543,
+      "characters": 8879,
+      "bytes": 9144,
+      "sha256": "71b34140d59195ea3481104f21224e35ef0d7addb4ee0bc3636a30e6fbd759da"
+    },
+    {
+      "number": 16,
+      "firstChapter": 16,
+      "lastChapter": 17,
+      "filename": "listening/section-016.txt",
+      "title": "Chapters 16-17: The River Queen Leaves Early / Duke Gets a Better Job",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 016 - Chapters 16-17 - Codex Rewrite",
+      "words": 2524,
+      "characters": 14718,
+      "bytes": 15151,
+      "sha256": "ad3e951b35d6732471c17d44763fb46343832e66648f3c5e5199ca69015a07c3"
+    },
+    {
+      "number": 17,
+      "firstChapter": 18,
+      "lastChapter": 19,
+      "filename": "listening/section-017.txt",
+      "title": "Chapters 18-19: The Band Refuses to Stop / Rook Cuts the Lights",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 017 - Chapters 18-19 - Codex Rewrite",
+      "words": 2568,
+      "characters": 15090,
+      "bytes": 15546,
+      "sha256": "3e0b2e053e553858b12bd0cb6f58a7672ebe6e4ca27de9bd52df5bafe287849c"
+    },
+    {
+      "number": 18,
+      "firstChapter": 20,
+      "lastChapter": 20,
+      "filename": "listening/section-018.txt",
+      "title": "Chapter 20: Nobody Gets to Sink My Wife",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 018 - Chapter 20 - Codex Rewrite",
+      "words": 1484,
+      "characters": 8454,
+      "bytes": 8631,
+      "sha256": "f54595604c7300e1032deb5564e531b2bd555998a98be2fd44b1562e4261afab"
+    },
+    {
+      "number": 19,
+      "firstChapter": 21,
+      "lastChapter": 22,
+      "filename": "listening/section-019.txt",
+      "title": "Chapters 21-22: Three Boats and a Bad Idea / Forty Tonnes before Breakfast",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 019 - Chapters 21-22 - Codex Rewrite",
+      "words": 2516,
+      "characters": 14648,
+      "bytes": 14837,
+      "sha256": "9b3b7aa0443f0d4651d1dde6e0a9503f01343475fd44ef432c326f5d6e6e2e0e"
+    },
+    {
+      "number": 20,
+      "firstChapter": 23,
+      "lastChapter": 23,
+      "filename": "listening/section-020.txt",
+      "title": "Chapter 23: The Man at the Top",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 020 - Chapter 23 - Codex Rewrite",
+      "words": 1384,
+      "characters": 8094,
+      "bytes": 8371,
+      "sha256": "9bc2437782379b8271ee2438996ede5c188da02c9dbbf6180d094d1eeab13f42"
+    },
+    {
+      "number": 21,
+      "firstChapter": 24,
+      "lastChapter": 25,
+      "filename": "listening/section-021.txt",
+      "title": "Chapters 24-25: The Afterparty Has Stitches / Rook Signs the Receipt",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 021 - Chapters 24-25 - Codex Rewrite",
+      "words": 2492,
+      "characters": 14744,
+      "bytes": 15365,
+      "sha256": "0f1c56ccbbeb85ef52111062e339173762348a6a1b0f7adcde665e240a600498"
+    },
+    {
+      "number": 22,
+      "firstChapter": 26,
+      "lastChapter": 27,
+      "filename": "listening/section-022.txt",
+      "title": "Chapters 26-27: Nobody Bought Enough Chairs / The Bride Comes Back",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 022 - Chapters 26-27 - Codex Rewrite",
+      "words": 2507,
+      "characters": 15027,
+      "bytes": 15501,
+      "sha256": "932440f49b5b6212728ef99dea2ae6f7936d9e21120fdbcdaf811b227322af79"
+    },
+    {
+      "number": 23,
+      "firstChapter": 28,
+      "lastChapter": 28,
+      "filename": "listening/section-023.txt",
+      "title": "Chapter 28: Hòa Keeps His Own Hours",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 023 - Chapter 28 - Codex Rewrite",
+      "words": 1321,
+      "characters": 7630,
+      "bytes": 7951,
+      "sha256": "cabaeecf088bc51e8d9efdc03a868cd36cb472a201eef74f72b074d94e18dac6"
+    },
+    {
+      "number": 24,
+      "firstChapter": 29,
+      "lastChapter": 29,
+      "filename": "listening/section-024.txt",
+      "title": "Chapter 29: The Long Way Home",
+      "nativeDocumentTitle": "The Viet Telling - Book III - 024 - Chapter 29 - Codex Rewrite",
+      "words": 1434,
+      "characters": 8729,
+      "bytes": 9106,
+      "sha256": "4dbc8f98415662ae04666a57c4e1c6b480ccfc8d39436ba293206dc4ed88e7b6"
+    }
+  ]
+}

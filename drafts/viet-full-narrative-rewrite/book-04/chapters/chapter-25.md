@@ -1,0 +1,225 @@
+## Chapter 25: A Million Dollars and a Toaster
+
+The doctor counted two cracked ribs, a badly damaged shoulder, a sprained ankle, one missing tooth, and a hand she would prefer I keep attached through active cooperation.
+
+“Strong recommendation?” I asked.
+
+The doctor looked over her glasses. “Somebody told me you were intelligent.”
+
+“Generous people,” I said.
+
+She made me stay five days. A dentist arrived to deal with what Thành and the workbench had done to my mouth. Saint attempted to improve the clinic with a barber chair, a television wider than the door, and a small living tree in a basket. The nurse rejected the chair, measured the television, and sent the tree to the courtyard. Saint negotiated visiting rights for the tree.
+
+Hậu came on the second afternoon with sandwiches. His sling had returned; mine had joined it. We sat side by side like an advertisement that had confused friendship with workplace injury.
+
+“How's Mara taking it?” I asked.
+
+“She's angry,” Hậu said.
+
+“About the bridge barrier?” I asked.
+
+“About the phrase ‘mostly my right arm,’” Hậu explained. He unwrapped my sandwich because the doctor had granted my fingers limited authority. “She doesn't think mostly is a medical term.”
+
+After a while Hậu asked about Long.
+
+“Dead,” I said.
+
+Hậu nodded and looked down at his lunch. “Good.”
+
+He didn't ask for the sequence. I was grateful. We watched a game neither of us understood well enough to criticize and argued about whether his pool required a larger sign. Hậu proposed forbidding Long specifically. I pointed out enforcement would be straightforward.
+
+On the fourth day Irene brought Lucia. Oscar's daughter carried his dog in a soft harness and held the envelope with the recovered photograph. Irene had returned the glove and spare collar to her too. Her eyes were red, but she kept her voice steady.
+
+The dog sniffed my bed, sneezed at the flowers, and settled beneath her chair. It had no interest in my reputation.
+
+“Mick said you found him,” Lucia told me.
+
+“Khải and I,” I said.
+
+“You carried him out?” Lucia asked.
+
+I nodded. She looked at my bandaged hand.
+
+“Thank you for bringing somebody back,” Lucia said.
+
+I couldn't answer quickly. Irene put a hand on her shoulder. The dog laid its chin on my shoe and sighed at the lack of sandwiches. We sat for a while without making Lucia supply another sentence. When they left, she took my unopened tissue box because Irene had forgotten hers. It was the first useful thing I'd been able to give someone all day.
+
+Shawna visited that evening with clothes, my charger, and a bag Valerie had packed. She set them beside the bed, looked at my face, and shut her eyes briefly.
+
+“Photograph was worse,” Shawna said.
+
+“Saint chose the dramatic side,” I said.
+
+“You had several,” Shawna said.
+
+She sat in Lucia's chair. We discussed the clinic, her store order, and the temporary room Trinh had prepared at the Pearl. Shawna asked practical questions and listened to the answers. When she stood, I wanted badly to ask her to stay. I looked at my hand until I could trust my mouth to do something else.
+
+She touched my uninjured cheek. “I'm glad you're alive.”
+
+“Me too,” I told her.
+
+“Keep doing that. We have things to sort,” Shawna said.
+
+Shawna kissed my forehead and left. The next day Tess took me to the Pearl. Trinh had furnished the spare room with a chair and threatened to remove its wheels if I became creative.
+
+Three weeks after Briar, Irene rang the brass bell again.
+
+Moses King's private test course occupied an old airfield outside Eastbridge. No grandstands. Spectators sat behind barriers along the pit straight. The circuit ran down a runway, around a broad return loop, and through bends between empty hangars. I could see an exit from every place I stood.
+
+Briar's northern stand remained closed. Investigators examined workshops and marked doors while staff gave accounts to people who wrote down things our circle normally preferred to remember privately. The tankers had been towed. Meridian's armed crews had left in ambulances or police vans. Duval was answering questions. Irene had kept the witnesses together long enough to make another quiet disappearance difficult.
+
+Eight cars lined up at the airfield. Nine stakes remained in her custody. Thành's crew had been removed under the revised terms he'd signed before trying to murder the people who asked him to sign. The Ducal title stayed in the prize case. Irene showed everyone his signature that morning and invited objections to the dead man's handwriting.
+
+There were none.
+
+I stood beside the Argent with a thin dressing on my hand and my left shoulder supported. Tess inspected me before opening the passenger door.
+
+“Sit still?” Tess asked.
+
+“People have studied the question,” I said.
+
+“Today, Aiden,” Tess said.
+
+“Yes,” I told her.
+
+Rafa crouched at the front wheel. The silver side still bore a long scrape from the utility truck. He'd polished around it, preserving the line like something he'd want to discuss on a future invoice.
+
+“Four laps,” Rafa said. “No jumping out. No lifting. No making the car narrower with your hands.”
+
+“Removing my whole role,” I complained.
+
+Tess pointed at the seat. “Sit and know things.”
+
+Celeste talked through Bree's window with a raised finger. June's driver waved to me and flexed the hand that had caught my sleeve on the flatcar. Hale had removed every decorative flag. Crowe's coupe had new tires and a horn Petra had forbidden him to demonstrate. Felix unfolded his replacement chair; the original had been found at Briar with a deep bend through the seat. He'd invoiced me, received payment, and framed the confirmation.
+
+Irene raised her bell. City standings carried forward: June first, Celeste second, us third. Four laps, crew token over the line. Actual property remained at stake. The men were invited to respect the women who'd had the foresight to bring gentlemen as ballast.
+
+Tess took our bent crown badge and clipped it by the dashboard flower, now dried and tied carefully in place.
+
+“Your mother approved the harness?” Tess asked.
+
+“She approved you,” I said.
+
+“Sensible woman,” Tess said.
+
+The bell rang. We moved.
+
+June's white car leaped ahead. Bree followed closely. Tess let the Argent gather speed rather than demanding a sprint from a machine with most of its engine somewhere near tomorrow. The radiator ribbon streamed backward.
+
+Crowe's coupe came up on the left. Tess let it draw halfway alongside and held her line toward the first narrow bend. His driver considered our hood, the width remaining, and his financial future. He braked. We turned in front of him with inches behind our rear bumper.
+
+“Polite,” I said.
+
+“Discovered width,” Tess replied.
+
+June led the first lap. Her driver kept the car neat through the hangars. Bree pressed close enough that their gap changed every corner. We followed. The Argent's long body couldn't copy their movements without removing architecture.
+
+Before the return loop, Bree took a little space early. June's driver seemed to relax into the inside line. Bree arrived beside her as they straightened. June held the lead, but the move forced a correction.
+
+“Again later,” I told Tess.
+
+“I hope so,” Tess said.
+
+We crossed third. Saint stood on a platform with his microphone, describing distances as if he'd recently inherited mathematics. Hậu ate beside him. Mara watched both with folded arms. Tín wore his broad hat and an unreasonable number of medals. Dad held water. Hòa sat in a chair nobody remembered moving into place.
+
+On lap two Moses's car drew beside us down the runway. Its engine climbed higher. The driver waved one finger. Tess smiled and kept steady. At the loop he went wide, rear wheels over the painted boundary, throwing dust into our windshield.
+
+The first part of the bend disappeared. Tess didn't crane forward or chase the white line. She turned by the landmarks she'd already fixed in her head. The Argent's nose met the line as it came back into view. Moses's driver corrected twice behind us and lost speed down the straight.
+
+“Excellent,” I said.
+
+“Invoice,” Tess reminded me.
+
+My ribs hurt against the harness. I changed how I breathed and left both hands in my lap. Pain was information. It wasn't a job I needed to perform for an audience.
+
+Ahead, Bree tried the move again. June expected it this time and held the inside longer. Bree stayed wide. Both lost a little speed, enough for Tess to arrive with the Argent still pulling.
+
+She took the opening they'd left on the exit. Our hood drew level with Bree's window. Bree grinned at us and kept her foot down. We ran side by side halfway along the straight. The next bend favored her shorter car. Tess let her have it and stayed near enough to keep June watching two mirrors.
+
+Third across the line again. Much closer. Saint appeared to be praying into the microphone, though I couldn't imagine which institution had accepted the call.
+
+On the third lap June entered a hangar bend slightly too fast. The correction cost her the space for the next turn. Bree took it. Tess followed through the same opening before June could close it.
+
+Second.
+
+The crowd reached us as we passed the pit straight. Celeste had both hands on her head. Trinh stood absolutely still beside Rafa, which was what she did when money moved faster than she could reach it.
+
+“One lap left,” Tess said.
+
+I looked at the bent badge. “It's your lap. Take it.”
+
+She glanced at me once. Then she drove.
+
+The Argent filled the cabin with engine noise down the runway. Tess entered the first bend wider than before. My stomach moved beneath the straps. For a moment the blue car gained ground. Then we straightened faster and took it back.
+
+At the next bend she did it again: a wider entrance, more room for the long body to settle, speed kept for the exit. I watched the pattern become a route I hadn't quite understood until she drove it. By the return loop we were beside Bree's rear quarter.
+
+Bree held the inside. Tess took the broad outside arc. Both cars turned, blue close to the center, silver sweeping across the runway. Edge markers flashed past. I knew the distances and the timings. I knew how little separated the possible endings. I kept quiet while Tess chose the one she could actually drive.
+
+The Argent straightened first. Its engine pulled us alongside. Bree looked across. Tess kept her eyes on the line.
+
+We crossed together. I couldn't tell.
+
+Then Irene's bell rang. Saint emitted a noise into the microphone beyond the reach of ordinary embarrassment. The Argent had won by the length of its radiator bird.
+
+Tess slowed and parked. Her hands remained on the wheel. She looked at them, then at me.
+
+“There,” Tess said.
+
+I laughed until my ribs made me stop. Bree parked beside us, climbed out, and walked around the absurd silver hood.
+
+“Bird is bullshit,” Bree said.
+
+“Winning bullshit,” Tess replied, and shook her hand.
+
+People reached us before I finished unfastening the harness. They slapped the roof, shouted Tess's name, took pictures, and attempted to hand gifts through my window. A woman gave me a boxed toaster for the new place. I looked at it, then at Saint. He raised both hands as though public affection could never be traced to him legally.
+
+Irene set the trophy on the hood between Tess and me. Beside it she placed the sealed prize case.
+
+“Finally,” Irene said. “A race completed by people who can lose without commissioning a massacre.”
+
+Crowe cleared his throat. Petra caught his sleeve and told him to let me hold the crown first.
+
+We had a million-dollar cash purse, the Ducal title, and the other entrants' pledged properties. Trinh paid Tess her agreed share. Rafa read his confirmation twice, as though the amount might apologize if he stared hard enough.
+
+Celeste came first about redemption. She wanted the Lantern. June wanted her restaurant building. Hale wanted his station. I gave them prices they could resent, pay, and remember. Six owners arranged to redeem their stakes for cash before sunset. Felix surrendered his parking structure instead.
+
+“Leaks,” Felix told me cheerfully.
+
+“Could've mentioned it earlier,” I said.
+
+“Could've driven slower,” Felix replied.
+
+The Ducal remained mine, along with the cash purse, the leaky structure, and a fresh collection of very personal debts. Trinh checked the totals and finally smiled.
+
+“Curtains now permitted,” Trinh said.
+
+Irene stood apart while the photographs continued. Lucia had brought Oscar's dog. It slept beneath her chair with the new collar beside its water bowl. Irene rested a hand on the now-empty trophy case and watched it breathe.
+
+“You got your race,” I said beside her.
+
+Irene looked toward Tess, who'd been handed a bottle nearly as long as her forearm. “I got a better one.”
+
+Khải waited near the gate beside his car. He'd watched without joining the crew's work. When I reached him he looked at the toaster under my arm.
+
+“Strong result,” Khải said.
+
+“It came with a hotel,” I said.
+
+Khải smiled. “And where are you taking it?”
+
+“My own flat,” I told him. “I've got the keys. I'm collecting the last of my things tomorrow.”
+
+Khải nodded slowly. “Call me when you've unpacked.”
+
+“Dinner?” I asked.
+
+“Dinner,” Khải said. “At a real place, and on one calendar. I don't want to spend the evening being rescheduled.”
+
+“I can do that,” I said.
+
+“I'd like you to.” Khải touched my good shoulder.
+
+I stood with the toaster, the hotel, and much of Long's contribution still visible beneath my clothes, trying to find something clever enough for the moment. Nothing came.
+
+“Me too,” I said.

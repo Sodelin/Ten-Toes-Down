@@ -1,0 +1,153 @@
+## Chapter 2: Bring Your Own Brother
+
+That evening the doorman at Aster House permitted Shawna through immediately, checked my name twice, and attempted to return Saint to the street.
+
+“Essential,” Saint repeated, pointing to the profession he'd supplied on the guest form.
+
+“Promoter,” Shawna translated. “He means promoter.”
+
+The doorman moved his finger down the list. Saint straightened his pale lapels, apparently restored to a legal category, and followed us beneath seven chimneys into a house that smelled of cedar, expensive perfume, and butter nobody intended to confess to eating.
+
+Irene Vũ waited beside the stairs in a white dinner jacket. One ear carried a diamond big enough to influence navigation. The other was bare.
+
+Saint leaned forward. “The asymmetry is outstanding.”
+
+“I lost the other one in a fight,” Irene said, and kissed Shawna on both cheeks. They immediately began discussing lights and garment rails. I held my invitation until Irene finally noticed my extended hand. “And you brought someone to lift things. Excellent planning.”
+
+“He comes with the marriage,” Shawna said.
+
+Irene took the card and held it over a small flame. Saint reached instinctively for the curling corner. She moved the silver bowl away before he could save it.
+
+“No souvenir invitations,” Irene told him.
+
+“Then how do people prove they got inside?” Saint asked.
+
+Irene considered him with professional sorrow. “Some survive without it.”
+
+We crossed a dining room, a conservatory, and a passage of racing photographs. A burgundy-suited man held a tiny dog above his enormous cigar. The dog sneezed directly into his face, winning the argument without releasing a statement. Irene opened a green door beyond him.
+
+The Ninth Room filled the house's rear: nine numbered booths around a sunken dance floor, bar along the garden windows, band on a platform, chandelier above the floor. The chandelier resembled a glass planet waiting to be discovered by someone's forehead.
+
+Shawna touched my sleeve. “I'm seeing the gallery. Don't agree to anything on my behalf.”
+
+“When have I—” I began.
+
+“The horse wore a ribbon,” Shawna reminded me. She went with Irene. Saint spotted a singer, corrected his posture into that of an old acquaintance, and deserted me.
+
+I was examining the chandelier when a man beside the sunken floor said, “If it falls, that's where the heavy part lands.”
+
+He wore a black suit, an open blue shirt, and a scar near his lower lip. His hair looked as though he had pushed it back to see something difficult and then forgotten it. He held water in one hand and a folded drawing in the other.
+
+I stepped closer to him. “Are you warning me or improving your odds?”
+
+“I designed the support,” the man said. “People keep telling me it feels too light. Three tons apparently ought to introduce itself more firmly.”
+
+The architect held out his hand. “Đặng Minh Khải. Khải is fine.”
+
+“Aiden,” I said, shaking it. His attention remained on my face. I became unreasonably conscious of having one.
+
+“Yes,” Khải said. “Your tiger painting is in the coatroom.”
+
+My hand stopped inside his. He smiled before I looked for the door.
+
+“A joke,” Khải explained.
+
+“You picked something that actually exists,” I said.
+
+“Then my condolences to the tiger,” Khải said.
+
+At the bar he told me about An Vân, his architecture studio, and the six years he had spent translating Irene's desires into things a building could legally bear. A steam room. Hidden doors. Better acoustics for adjacent indiscretions.
+
+“Do you ever tell her no?” I asked.
+
+“Frequently,” Khải said. “Then I send a revised estimate.”
+
+A woman behind him spilled champagne on a man's shoes. The man held up his other foot so she could finish. I asked Khải what people did here.
+
+“Discover whether their courage matches their money,” Khải said. “I mostly dance. Sometimes I make an appalling decision in an excellent room.”
+
+Irene returned before I could discover which category included me. Two brass rings lay on her tray, each engraved with a nine. She had nominated us as a pair for admission.
+
+Khải looked at the rings, then at her. “You left that off the plans.”
+
+“I own the house,” Irene said. “I can simplify paperwork.”
+
+The ritual promised discretion about each other's club business and one honest request for assistance. The club called partners brothers or sisters; the words described two unrelated adults agreeing to help each other, not adoption, blood, or anything involving my family. Irene explained that a retired judge had hated the terminology, which was why it survived every revision.
+
+“Either of you may refuse,” Irene said.
+
+Khải lifted a ring. “What sort of help?”
+
+“I won't ask you to move a piano,” I promised.
+
+“You're committing early,” Khải said, and slipped it on.
+
+I did the same. We repeated Irene's brief oath and shook hands again. His thumb brushed my knuckle when he let go. The band played a bright flourish; half the room applauded, and Saint materialized with the speed of a man hearing a cash drawer open.
+
+An opera patron offered his private box and asked whether I liked racing. Saint assured him I adored opera. When I asked for an example, Saint supplied the expensive one, which apparently matched the man's taste perfectly.
+
+Irene directed Khải to a velvet display case at the rear. Nine miniature cars stood beside property labels. One said THE PEARL. Another said THE DUCAL.
+
+I put a finger on the glass. “Mine hasn't consented to being miniature.”
+
+“Then it comes out,” Irene said. “The Crown Run. Nine crews, nine stakes. Private contests, then Briar Circuit. The winner retains his own property and takes the others.”
+
+“And losers honor that?” I asked.
+
+“So far,” Irene replied.
+
+Khải looked toward the garden. I noticed the smile leaving his face and would have asked why if the music hadn't stopped.
+
+The driver who'd brought my invitation stood in the green doorway with a pistol against his head. A bruise darkened his cheek. The man holding him had two companions, all in black. One carried a short steel baton; the other kept a hand inside his coat.
+
+“Nobody moves,” the gunman announced.
+
+The room produced forty separate interpretations of nobody. People crawled under tables, crouched behind chairs, and attempted to occupy the same booth. The cigar man put his dog inside his jacket. At the gallery entrance, Shawna caught Marisol's arm and drew her behind the stone jamb. I had a clear view of them for one instant before they vanished safely behind it.
+
+Khải caught my wrist. “Service door on the left. Keep people out of the middle.”
+
+The gunman fired upward to improve compliance. His bullet broke a side brace. The chandelier's outer ring lurched away from its center and began sweeping down toward a booth containing two motionless guests.
+
+I crossed a table in two strides and caught the ring. My shoes punched through the tabletop. Glass climbed my trouser legs; crystal rained down my shoulders. I stopped with one foot through the table and the other standing in a wine bucket, holding a portion of the ceiling while the rest tried to orbit me.
+
+“Get under my arm!” I shouted. The guests scrambled clear. One dragged his chair after him, then abandoned it when I looked at him.
+
+Khải reached a panel behind the curtain. He pulled its handle, planted a foot against the wall, and turned a maintenance wheel. The ring lifted a few inches. The gunman swung his pistol toward him.
+
+I broke off a loose crystal stem and threw it. It struck the gunman's forearm with a wet crack. His pistol fired into the floor; the driver dropped and rolled behind the doorjamb. The gunman screamed into his own sleeve.
+
+The baton man rushed Khải. Khải swung the service door open into his face, shut it far enough to acquire momentum, and opened it again. The second impact knocked the man back across the threshold. When he lunged a third time, Khải fetched a maintenance bar and struck his knee. The man sat abruptly, feet inside one room and ambitions inside another.
+
+The last intruder reached me, assessed my trapped feet and occupied hands, and punched me.
+
+I lifted the leg wearing the wine bucket and kicked him squarely in the chest. He skidded across the dance floor seated inside the momentum, hit the piano stool, and disappeared beneath the instrument. The pianist retrieved his drink before returning to cover.
+
+Khải cranked the mechanism again. The chandelier rose clear. I pulled my foot through the table, shook off the bucket, and reached the gunman as he tried to find his pistol with the hand I'd damaged. I drove him into the decorative plaster. The plaster accepted his shoulders, produced a small white cloud, and declined to release him upright.
+
+Irene appeared with two of her own men. I gave her the pistol grip-first.
+
+“I asked for the actual door,” Irene said.
+
+“They used it,” I told her.
+
+“Yes. We'll be discussing admissions,” Irene said.
+
+Shawna took my hand. Blood ran across my palm from a long cut. She turned it toward the light, moved a crystal shard with the edge of a napkin, and pressed the napkin into the wound.
+
+Khải stood beside us with the maintenance bar. Shawna glanced from it to the raised chandelier. “Your work?”
+
+“The parts still attached,” Khải said.
+
+“Good parts,” Shawna told him.
+
+He laughed. I watched his mouth. Then I remembered my wife was holding my hand.
+
+Saint climbed the intact end of the ruined table while Irene's men carried the intruders away. “Ladies and gentlemen, kindly resume enjoying yourselves! Nobody charge Aiden for the table. He brought his own service staff.”
+
+The band began uncertainly. Irene clapped in time until everybody accepted the fiction that the evening had merely changed tempo. The driver acquired a drink, an ice pack, and the tiny dog, which evidently considered him safer than the cigar.
+
+Khải looked down at our matching rings. “Quick work on the request for help.”
+
+“You still owe me a dance,” I said.
+
+Khải smiled, slower this time. “I remember.”

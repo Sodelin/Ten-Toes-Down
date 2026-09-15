@@ -1,0 +1,199 @@
+## Chapter 21: The Best Dressed Man at a Robbery
+
+Eight days after Hậu opened the gym, Sunday launched his boat with fireworks, a red carpet, and an advertisement naming me as the evening's guest of honor.
+
+At the Pearl, I stood beneath the replacement stained-glass window and watched the announcement on Saint's phone. My enormous painted jaw filled the screen above THE KING TAKES THE RIVER.
+
+“He used the tiger painting,” Saint said.
+
+“I should have drowned the painter,” I told him.
+
+“He takes criticism badly,” Saint replied.
+
+The Pearl was full. Trinh's other parties were doing well too; she kept getting calls with updated numbers. Shawna's clothes hung along the small stage, and the women who'd placed orders at the cinema came to collect them. Denise had sent food. Loan sent a bill for helping carry it. The band's music made the glasses behind the bar hum against one another.
+
+Every few minutes someone stopped to shake my hand. Some brought envelopes. Others had a story about where they'd last seen me. I heard each one out and watched Saint whenever he looked ready to convert the conversation into an invoice.
+
+At seven, Imani called. I took the phone into the little office behind the bar and closed the door against the music.
+
+“How many?” I asked her.
+
+“About a hundred and forty guests,” Imani said. “At least thirty crew and service staff. I'm still getting names. Fewer guests than Mercer expected.”
+
+“Good,” I said.
+
+“He doesn't think so,” she told me.
+
+I heard voices behind her and the sound of a door closing.
+
+“He dismissed two of my crew,” Imani said more quietly. “Brought his own people into the bridge. Ed's below, but they've locked the access from the lounge.”
+
+“Can you get off?” I asked.
+
+“I can,” she said. “The kitchen staff can't. They think they're working a normal party.”
+
+“Tell them,” I said.
+
+“I'm trying,” Imani replied.
+
+The call ended. I stared at the screen. A few seconds later, a message arrived telling me not to call back yet.
+
+I went out and found Trinh. She read the message, looked toward Shawna's stage, and lowered her voice so the guests beside us wouldn't hear.
+
+“I'll keep things here moving,” Trinh said.
+
+“You have the copies?” I asked.
+
+“The drive. The garage recording. Everything you gave me,” she replied.
+
+“If I don't call—” I began.
+
+“Don't make a speech,” Trinh told me. “Tell me what to send and whom to call.”
+
+I gave her the instructions. She wrote them down, tore the page from her notebook, and folded it into her pocket.
+
+Hậu came over before I called him. He wore the jacket Shawna had made for the gym opening. Voss stood behind him in a black shirt. Near the stairs, Rafa already held his keys.
+
+Saint looked around at us.
+
+“We're going to the boat,” he said.
+
+“You can stay here,” I told him.
+
+He looked offended. “I already explained this at the mall.”
+
+Shawna stepped off the stage carrying an empty garment bag. She stopped when she saw us together.
+
+“What happened?” she asked.
+
+I told her about the crew, the locked doors, and Imani's call. Shawna put the empty bag on a chair.
+
+“Come with me,” she said.
+
+I followed her into the small dressing room. She took a white dinner jacket from a hook and held it open.
+
+“Arms,” Shawna told me.
+
+“Shawna,” I said.
+
+“If he's put your face on every advertisement in the city, you're going to look like you chose to arrive,” she replied.
+
+I put my arms into the sleeves. The cloth settled across my shoulders without pulling at the scar. Shawna smoothed the lapels and fastened the button.
+
+“Better,” she said.
+
+I looked at us in the mirror. “You're charging me for this?”
+
+“For repairs,” Shawna told me.
+
+I turned toward her. She took my face in both hands and kissed me. Afterward, her fingers stayed at my collar for a moment.
+
+“Come home in it,” she said.
+
+“I'll try,” I told her.
+
+“Come home, Aiden,” Shawna said.
+
+I nodded. She let go and opened the door.
+
+We drove to the harbor in two cars. Rafa had arranged a small launch through a man he knew from the repair yards. When I asked how he knew him, he said favors traveled farther than tow trucks. I accepted the answer and the boat.
+
+The Sunday Best glowed beneath strings of gold lights. Music carried over the water. People gathered behind barriers on the quay to watch the guests climb the gangway. Beside the entrance, a billboard showed me in front of the ferry with one hand raised. Sunday had hung another copy along the upper-deck rail.
+
+Saint examined it through the windshield.
+
+“That's a good photograph,” he said.
+
+I looked at him.
+
+“Still unauthorized,” Saint added.
+
+The crowd recognized me before we reached the barrier. A man called my name, and phones rose around him. Applause followed. An attendant in a tuxedo hurried toward us carrying a length of velvet rope as if it had personally requested the honor of moving.
+
+“Mr. Trần,” the attendant said. “We didn't know whether—”
+
+“I'm here,” I told him.
+
+“Of course. Of course,” he said, lifting the rope.
+
+The crowd cheered as we passed. Saint walked beside me with his face arranged into professional satisfaction. Hậu watched the men by the gangway; Voss looked toward the upper deck. Rafa left us for the side pier where the launch waited.
+
+At the gangway, a woman with a clipboard offered me an envelope.
+
+“Your appearance payment,” she said.
+
+“He paid in advance?” I asked.
+
+“Half,” she told me.
+
+I accepted it and passed it to Saint. “For the boat repairs.”
+
+He put it inside his jacket. “I'm keeping the receipt.”
+
+We went aboard. The main lounge glittered with glass and brass and people trying to look as though this was how they spent every Saturday. Waiters carried trays between the tables. A singer stood on a raised platform by the windows, with dark water moving against the hull beyond her.
+
+The applause began before she finished her song. She looked toward the entrance, saw me, and held the last note until the band caught up with the change in the room.
+
+Sunday stood near the central table in a dark blue dinner jacket. He applauded with everyone else.
+
+“The king,” Sunday said when I reached him.
+
+“The man with my face,” I replied.
+
+He offered a hand. I shook it because the cameras were all pointed at us. His grip tightened. Mine tightened more. The smile stayed on his mouth, but the skin around his eyes pinched.
+
+“Let go,” Sunday said softly.
+
+“Where's Imani?” I asked.
+
+“Working,” he told me.
+
+“Where's King?” I asked.
+
+“Also working,” Sunday said.
+
+I released his hand. He lowered it carefully and turned toward the room.
+
+“Ladies and gentlemen,” Sunday announced, “our guest of honor.”
+
+The applause rose again. Saint leaned toward me.
+
+“I hate how good he is at this part,” he said.
+
+Sunday indicated the chair at the head of the nearest table. It was larger than the others, upholstered in white leather, and positioned under a spotlight that made it look ready to forgive a small country.
+
+“You people keep buying the same furniture,” I told him.
+
+Sunday smiled. “Sit. Enjoy something.”
+
+I sat. Hậu took the chair on my left, Saint the one on my right. Voss remained behind us, watching the doors. A waiter poured champagne. Another brought food. A third set a small black box in front of me and left before I could ask what it was.
+
+Inside lay the broken handle from the van that had taken Hậu. I recognized the torn mounting where it had given way in my hand. I'd thrown it into the Pearl's ruined gaming room afterward. It should have gone out with the rubble when the window was replaced. Apparently someone had found a more profitable destination for it.
+
+Sunday watched my face. Hậu saw the handle and became very still.
+
+I closed the lid. “You saved it.”
+
+“A reminder,” Sunday told me.
+
+“Of what?” I asked.
+
+“You can't hold everything,” he said.
+
+I picked up the box and carried it to the window. Nearby guests turned to watch. I opened the latch, dropped the box into the water, and closed the window again.
+
+“Neither can you,” I told Sunday.
+
+His smile disappeared. The ferry's horn sounded, and I felt the deck shift beneath my feet. Through the glass, the quay began moving slowly backward.
+
+My phone vibrated. Imani's message said she was on the lower deck. Ed was hurt. They had the crew together, and we needed to get them up.
+
+I looked toward the doors at the far end of the lounge. Two men had positioned themselves in front of them. King came down from the upper level, fastening his shirt cuffs. Both hands moved freely.
+
+He saw me and smiled through his newly straightened nose.
+
+I put the phone away.
+
+“Hậu,” I said quietly.
+
+He stood before I finished his name.

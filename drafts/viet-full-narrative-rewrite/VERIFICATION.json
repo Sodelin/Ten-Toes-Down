@@ -1,0 +1,818 @@
+{
+  "status": "Complete local books and verified listening text; external delivery pending",
+  "sourceCommit": "4f38948aa5fa97f294adfa74a0b7055c399b2826",
+  "totalChapters": 111.0,
+  "totalNativeWords": 191788.0,
+  "totalSections": 103.0,
+  "allSourcesUnchanged": true,
+  "allMarkdownAssembliesExact": true,
+  "allNativeAssembliesExact": true,
+  "allListeningByteReconstructionsExact": true,
+  "books": [
+    {
+      "book": 1,
+      "title": "Book I: The Price of Standing",
+      "chapters": 28,
+      "chapterWords": 59784,
+      "nativeWords": 59756,
+      "nativeBytes": 346696,
+      "nativeSha256": "17a216c4d37861fa7046af9698d923b8bde7576a356c36b65da9f60189739b84",
+      "markdownSha256": "917f08f2bee71083530065330a8b05a51ebaf7997ee96d5a0c2e45b3cd675223",
+      "sectionCount": 29,
+      "minSectionWords": 1457.0,
+      "maxSectionWords": 2599.0,
+      "markdownAssemblyExact": true,
+      "nativeAssemblyExact": true,
+      "onDiskSectionByteReconstructionExact": true,
+      "sourceBlobAtSuppliedCommit": "e589cd1d87ed5f3e28224a1e7f1a5bb0634b0397",
+      "sourceWorkingBlob": "e589cd1d87ed5f3e28224a1e7f1a5bb0634b0397",
+      "sourceUnchanged": true,
+      "sections": [
+        {
+          "number": 1,
+          "file": "book-01/listening/001.txt",
+          "words": 1803,
+          "bytes": 10561,
+          "sha256": "96534693c58c650ee235c929715e85b69a62376dd5bf93c2eeaf904568388666"
+        },
+        {
+          "number": 2,
+          "file": "book-01/listening/002.txt",
+          "words": 1457,
+          "bytes": 8359,
+          "sha256": "a4226a25bbd69537bb652dbef1edf0a2d77d93e24e66cdb0b77dbae40386d5ce"
+        },
+        {
+          "number": 3,
+          "file": "book-01/listening/003.txt",
+          "words": 2599,
+          "bytes": 15420,
+          "sha256": "d90db61e7192f244388318931e3ee76cb2bbc1bca896c415faaa5855dfdc032a"
+        },
+        {
+          "number": 4,
+          "file": "book-01/listening/004.txt",
+          "words": 2502,
+          "bytes": 14509,
+          "sha256": "0b7d7b45367e89ddc11e34e97fc8bbc1ed9fb744c145bd3c1c19dd10617c1866"
+        },
+        {
+          "number": 5,
+          "file": "book-01/listening/005.txt",
+          "words": 2502,
+          "bytes": 14941,
+          "sha256": "59174f81e6fdcfd79dd6fc1f513dcf65df6e4144a56fb0f0e0eb519e69174ba9"
+        },
+        {
+          "number": 6,
+          "file": "book-01/listening/006.txt",
+          "words": 2307,
+          "bytes": 13387,
+          "sha256": "3069ae4f19c21160d4af89159a2975da831ee476d5d695f905c6839dbe11d89a"
+        },
+        {
+          "number": 7,
+          "file": "book-01/listening/007.txt",
+          "words": 2252,
+          "bytes": 13250,
+          "sha256": "3b5ace44c2c1a9233b5f97af5b9a4f542b39dd39fe276a0e823157dc1dac99c3"
+        },
+        {
+          "number": 8,
+          "file": "book-01/listening/008.txt",
+          "words": 2057,
+          "bytes": 12070,
+          "sha256": "7dc525deaf6a7ed2483bbbfb958fa646f0cc87133b28f2ad9feeafd3f936a323"
+        },
+        {
+          "number": 9,
+          "file": "book-01/listening/009.txt",
+          "words": 2501,
+          "bytes": 14424,
+          "sha256": "62f5fb16dd14ac78fe58e19bd38351096491072571756dc5bc2c91d7d89f3993"
+        },
+        {
+          "number": 10,
+          "file": "book-01/listening/010.txt",
+          "words": 2372,
+          "bytes": 13810,
+          "sha256": "c2e14c494d95ba8f6515f60eb50f7c2670dde0371666e55c163a43b9be7c9e48"
+        },
+        {
+          "number": 11,
+          "file": "book-01/listening/011.txt",
+          "words": 2442,
+          "bytes": 14030,
+          "sha256": "ce28cde74a94e81d94b347b3296c5413ae75e2f81d0cbbeb9869f41365b9a788"
+        },
+        {
+          "number": 12,
+          "file": "book-01/listening/012.txt",
+          "words": 2316,
+          "bytes": 13002,
+          "sha256": "0162a4c11420dc306647519d83d6153f5b2a1e71def5c6e6c365227ffb9c9cc3"
+        },
+        {
+          "number": 13,
+          "file": "book-01/listening/013.txt",
+          "words": 2119,
+          "bytes": 12365,
+          "sha256": "a024ad6c02fb4629a0df2d8eff895bfe517dd9c17ea918f4f1eb1aecb645cccb"
+        },
+        {
+          "number": 14,
+          "file": "book-01/listening/014.txt",
+          "words": 1907,
+          "bytes": 11520,
+          "sha256": "005a81d669c47adb32c0149470bb97963bacdc5818753208de60b7e2056041d3"
+        },
+        {
+          "number": 15,
+          "file": "book-01/listening/015.txt",
+          "words": 1964,
+          "bytes": 11567,
+          "sha256": "027d194d82cd748947728b5210c07cf64fa7b94099ed858dd59ba41ea645b33b"
+        },
+        {
+          "number": 16,
+          "file": "book-01/listening/016.txt",
+          "words": 1963,
+          "bytes": 11192,
+          "sha256": "e91d874e2026550943207b25197c3db5eb3156a03d4bbcbd41599f2e923b4147"
+        },
+        {
+          "number": 17,
+          "file": "book-01/listening/017.txt",
+          "words": 1777,
+          "bytes": 10268,
+          "sha256": "3b2609fd774577b681c6c8934ac662919d30c5c71834a6dbca171eeddae554a6"
+        },
+        {
+          "number": 18,
+          "file": "book-01/listening/018.txt",
+          "words": 1727,
+          "bytes": 10067,
+          "sha256": "c861732498f2c12c23dcf76625eac54afe4e6ff12663d33075c902881bda19f0"
+        },
+        {
+          "number": 19,
+          "file": "book-01/listening/019.txt",
+          "words": 1730,
+          "bytes": 10094,
+          "sha256": "1e953d10c15a3a50793bdc80b1ea7d33a91ce81ee66d0f678667144a09f91258"
+        },
+        {
+          "number": 20,
+          "file": "book-01/listening/020.txt",
+          "words": 1645,
+          "bytes": 9560,
+          "sha256": "ef75e5ee4bf9d8b0f97b1315459aed5e7aa7f1e541b6cc4fa1f2ec4c069e7236"
+        },
+        {
+          "number": 21,
+          "file": "book-01/listening/021.txt",
+          "words": 1718,
+          "bytes": 10050,
+          "sha256": "a60bbde7b172dd81f3010659d620321e2055972e1ae8ab785b727f39a8ce65b9"
+        },
+        {
+          "number": 22,
+          "file": "book-01/listening/022.txt",
+          "words": 1517,
+          "bytes": 8842,
+          "sha256": "a6b3e2f18fc2158422ccae2c574199870d7891fdf5a10d8ca799ec32e5f25b56"
+        },
+        {
+          "number": 23,
+          "file": "book-01/listening/023.txt",
+          "words": 1465,
+          "bytes": 8309,
+          "sha256": "a18ba994b698fe2e10d78bc828a638a23d013e3ca171e32e5e39c3bdf79eaeb8"
+        },
+        {
+          "number": 24,
+          "file": "book-01/listening/024.txt",
+          "words": 2425,
+          "bytes": 13243,
+          "sha256": "8f2b5318e31d3050475976151bdb0fb0edc2d4a34e5a1d009d3c0cbf8da99e5d"
+        },
+        {
+          "number": 25,
+          "file": "book-01/listening/025.txt",
+          "words": 2127,
+          "bytes": 12080,
+          "sha256": "a17805849a036634080cc3bbb6f40c63ca533fe4355af59364b238f6c5bc39c8"
+        },
+        {
+          "number": 26,
+          "file": "book-01/listening/026.txt",
+          "words": 1772,
+          "bytes": 10382,
+          "sha256": "6e2b7ba1837310bdc19fbb3fb030894ffaadabf4e8c6a301eca6fb7cf3057663"
+        },
+        {
+          "number": 27,
+          "file": "book-01/listening/027.txt",
+          "words": 1904,
+          "bytes": 11212,
+          "sha256": "cb32565f23fa7398e85f3e6351e31eae46c3a141e76ea1d62fdc46676acdd9b9"
+        },
+        {
+          "number": 28,
+          "file": "book-01/listening/028.txt",
+          "words": 2509,
+          "bytes": 14559,
+          "sha256": "bb87dc736b1dfd716ea94a3c4eaeebe1d4572b71cd5416d77b1ad0c69aa64587"
+        },
+        {
+          "number": 29,
+          "file": "book-01/listening/029.txt",
+          "words": 2377,
+          "bytes": 13623,
+          "sha256": "2e11c0256a8e87af92bb4e01d54d2c083ca018bfff4bc756b748d550b17add2b"
+        }
+      ]
+    },
+    {
+      "book": 2,
+      "title": "Book II: The Man at the Door",
+      "chapters": 28,
+      "chapterWords": 44219,
+      "nativeWords": 44191,
+      "nativeBytes": 261990,
+      "nativeSha256": "4f1220b6b54f1e151fb63557b27cbe9af52d6f40a05b4f8e405c0d3ead1c5768",
+      "markdownSha256": "13218ec3754ceba00c1a7e096e7f815101e3cdce24b00f696b63575323715df0",
+      "sectionCount": 24,
+      "minSectionWords": 1510.0,
+      "maxSectionWords": 2290.0,
+      "markdownAssemblyExact": true,
+      "nativeAssemblyExact": true,
+      "onDiskSectionByteReconstructionExact": true,
+      "sourceBlobAtSuppliedCommit": "f4037455c4b5a089dd6f2d01834d1ec3fea8dd20",
+      "sourceWorkingBlob": "f4037455c4b5a089dd6f2d01834d1ec3fea8dd20",
+      "sourceUnchanged": true,
+      "sections": [
+        {
+          "number": 1,
+          "file": "book-02/listening/section-001.txt",
+          "words": 2008,
+          "bytes": 12119,
+          "sha256": "0c36c9fb982143264c9af6a79d837fbd2e213f31ba567071b496d5d47c502538"
+        },
+        {
+          "number": 2,
+          "file": "book-02/listening/section-002.txt",
+          "words": 2023,
+          "bytes": 12208,
+          "sha256": "a7fd107af947c4a39505f3b08f5cf449a81f4ae66e238e65f906135f542d5bcc"
+        },
+        {
+          "number": 3,
+          "file": "book-02/listening/section-003.txt",
+          "words": 1699,
+          "bytes": 10188,
+          "sha256": "d60bf57c57eab6295f024d93dc1d6f3e419269b3def9b0c91a34eb9e9e208527"
+        },
+        {
+          "number": 4,
+          "file": "book-02/listening/section-004.txt",
+          "words": 1722,
+          "bytes": 10232,
+          "sha256": "73769199e1faa0da1db7989401d52c4bce75a98fe847685f0e38cca9caf44137"
+        },
+        {
+          "number": 5,
+          "file": "book-02/listening/section-005.txt",
+          "words": 1578,
+          "bytes": 9367,
+          "sha256": "a0d91036d7585e47d610dcdb1e81e6eb3628f30a32e7a22aec28eb2558e6ebb5"
+        },
+        {
+          "number": 6,
+          "file": "book-02/listening/section-006.txt",
+          "words": 1603,
+          "bytes": 9393,
+          "sha256": "ea0d1306e513137aaf516ff023a8c525d20018a27145bca7d4becb4a30930c28"
+        },
+        {
+          "number": 7,
+          "file": "book-02/listening/section-007.txt",
+          "words": 1565,
+          "bytes": 9228,
+          "sha256": "67dd0ccb29bcca02710131322e3448cb9efc0ba5184419ead9563b4e874a2e4f"
+        },
+        {
+          "number": 8,
+          "file": "book-02/listening/section-008.txt",
+          "words": 1676,
+          "bytes": 9769,
+          "sha256": "a503a9c8637501a4675fcd4768eead067ddd770ca269a45514bf196369842763"
+        },
+        {
+          "number": 9,
+          "file": "book-02/listening/section-009.txt",
+          "words": 1528,
+          "bytes": 9015,
+          "sha256": "c1321169429e3d89ca9b3f4728b2ed8832e443ad86dbfb9898adb6cb122daf02"
+        },
+        {
+          "number": 10,
+          "file": "book-02/listening/section-010.txt",
+          "words": 1510,
+          "bytes": 8854,
+          "sha256": "68120ac67c13c50b2356bc8606a0106afa05429222bdd52e6f5df3de9540b810"
+        },
+        {
+          "number": 11,
+          "file": "book-02/listening/section-011.txt",
+          "words": 2087,
+          "bytes": 12538,
+          "sha256": "c77c1d32758277a46e0417f5a4c4f24c1110d067ad1a56baad4f51b040427b1d"
+        },
+        {
+          "number": 12,
+          "file": "book-02/listening/section-012.txt",
+          "words": 2290,
+          "bytes": 13428,
+          "sha256": "2495e4a2fd2a3b19a5a8de55a9794ecf0971fe855148f3fa0ffdbf7b37ce6bd8"
+        },
+        {
+          "number": 13,
+          "file": "book-02/listening/section-013.txt",
+          "words": 1567,
+          "bytes": 9199,
+          "sha256": "5e604d82340c40e37cb9c958d67b11435edd2621d8f37657f0c0229c3a64b915"
+        },
+        {
+          "number": 14,
+          "file": "book-02/listening/section-014.txt",
+          "words": 1592,
+          "bytes": 9550,
+          "sha256": "26ad89f4fad3e1621bd753b27b1d0b2b36daa3f22675f08065ee4e57f05109f8"
+        },
+        {
+          "number": 15,
+          "file": "book-02/listening/section-015.txt",
+          "words": 2208,
+          "bytes": 13304,
+          "sha256": "59e83b03c6e7cec964e8f4901ffea2e5270ea9f6b1d6a666c16d8d4000f48905"
+        },
+        {
+          "number": 16,
+          "file": "book-02/listening/section-016.txt",
+          "words": 1953,
+          "bytes": 11750,
+          "sha256": "cb53e8721ad2508815a64958bc5e8ac6be7c38b1c75679f6957d5e24a6be1be5"
+        },
+        {
+          "number": 17,
+          "file": "book-02/listening/section-017.txt",
+          "words": 1812,
+          "bytes": 10404,
+          "sha256": "c57ec613938b5108401aa38cbea201769edd95094c022715518b8041c7743e52"
+        },
+        {
+          "number": 18,
+          "file": "book-02/listening/section-018.txt",
+          "words": 1998,
+          "bytes": 11744,
+          "sha256": "d3753c56d1cf613bfb71bf507ae0fff8198fa1c8b592141e9e72f1730963361e"
+        },
+        {
+          "number": 19,
+          "file": "book-02/listening/section-019.txt",
+          "words": 2004,
+          "bytes": 11428,
+          "sha256": "16aaacc921ccf81e4b69e5845c7c3b745c07e37d1b5ba1f076f939294d004fa7"
+        },
+        {
+          "number": 20,
+          "file": "book-02/listening/section-020.txt",
+          "words": 1544,
+          "bytes": 9456,
+          "sha256": "613cf9c1a7ae893df7fb05bf1d128ee9d862b3794a185f36a16103d23ab90b6a"
+        },
+        {
+          "number": 21,
+          "file": "book-02/listening/section-021.txt",
+          "words": 1715,
+          "bytes": 10167,
+          "sha256": "2d015ba31c65275fcc5c3fbc56eedeb51b199259979c213fc65c02426ee12f01"
+        },
+        {
+          "number": 22,
+          "file": "book-02/listening/section-022.txt",
+          "words": 2064,
+          "bytes": 12143,
+          "sha256": "316a9835fec91dd67bf6870d0281e238e72f3fb3e8d50dfc64163f0ff19171ce"
+        },
+        {
+          "number": 23,
+          "file": "book-02/listening/section-023.txt",
+          "words": 2240,
+          "bytes": 13358,
+          "sha256": "2bf19d44b732df1dfc26355ae69a9a9d143698f07628e3bd68b5e43148616b76"
+        },
+        {
+          "number": 24,
+          "file": "book-02/listening/section-024.txt",
+          "words": 2205,
+          "bytes": 13148,
+          "sha256": "4ec44e3db0f0f4c6470f3d0c34f0fc74c3a79e6ccadb34209992478ff29d9b46"
+        }
+      ]
+    },
+    {
+      "book": 3,
+      "title": "Book III: The River’s Weight",
+      "chapters": 29,
+      "chapterWords": 41428,
+      "nativeWords": 41399,
+      "nativeBytes": 249747,
+      "nativeSha256": "abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25",
+      "markdownSha256": "525f15ab88d83ee510ee4ffe7d8587996f4ec48e978e79b225b74b447f66e2a0",
+      "sectionCount": 24,
+      "minSectionWords": 1298.0,
+      "maxSectionWords": 2568.0,
+      "markdownAssemblyExact": true,
+      "nativeAssemblyExact": true,
+      "onDiskSectionByteReconstructionExact": true,
+      "sourceBlobAtSuppliedCommit": "fbf30156df8e80f644fbb7398716d6b305c7b6c3",
+      "sourceWorkingBlob": "fbf30156df8e80f644fbb7398716d6b305c7b6c3",
+      "sourceUnchanged": true,
+      "sections": [
+        {
+          "number": 1,
+          "file": "book-03/listening/section-001.txt",
+          "words": 1904,
+          "bytes": 11529,
+          "sha256": "7b026a08be2b0fa3fb0011b6e6e9a8b1b5603534882b787cb41d1a5b1915bdfa"
+        },
+        {
+          "number": 2,
+          "file": "book-03/listening/section-002.txt",
+          "words": 1512,
+          "bytes": 9141,
+          "sha256": "3c6aded25e7ecbf766b3f40b8c95b2cb1a87198f656984d5d94d4aa81bf9b533"
+        },
+        {
+          "number": 3,
+          "file": "book-03/listening/section-003.txt",
+          "words": 1733,
+          "bytes": 10559,
+          "sha256": "f1a33ab67bb5596ab366ec1111f80a5fc4fe03449a693fed0e163968926419ed"
+        },
+        {
+          "number": 4,
+          "file": "book-03/listening/section-004.txt",
+          "words": 1442,
+          "bytes": 8678,
+          "sha256": "9900cb44ebdf4e5301b9f98b97723b7b2adc8a7db56cc4bd07d03b7b44ba164f"
+        },
+        {
+          "number": 5,
+          "file": "book-03/listening/section-005.txt",
+          "words": 1455,
+          "bytes": 8761,
+          "sha256": "1661b933eab5a264d52df72630e6a3e0094e11df536baad1ecb77779eefa498c"
+        },
+        {
+          "number": 6,
+          "file": "book-03/listening/section-006.txt",
+          "words": 1530,
+          "bytes": 9135,
+          "sha256": "a209c1714083cf6fe45b0fc856ac733934c0a566c2e61e7dced70f0d286e6fae"
+        },
+        {
+          "number": 7,
+          "file": "book-03/listening/section-007.txt",
+          "words": 1583,
+          "bytes": 9483,
+          "sha256": "2121bebfe374a06574da87ae915c47e1969287b375e10b93f5b96eb4313c8905"
+        },
+        {
+          "number": 8,
+          "file": "book-03/listening/section-008.txt",
+          "words": 1532,
+          "bytes": 9357,
+          "sha256": "324db6ccc04b37e3208a52783472631b245ebc4775f9e70234d7d7eebf74088e"
+        },
+        {
+          "number": 9,
+          "file": "book-03/listening/section-009.txt",
+          "words": 1418,
+          "bytes": 8505,
+          "sha256": "d69331dd3956a20521a8634d8934bad698a25b559be4d828c6e85d83945ccd7b"
+        },
+        {
+          "number": 10,
+          "file": "book-03/listening/section-010.txt",
+          "words": 1488,
+          "bytes": 8931,
+          "sha256": "fee8326f72c56b6a8b243e6d6c7d02b49fd9fa396186a44c55d129a117858b52"
+        },
+        {
+          "number": 11,
+          "file": "book-03/listening/section-011.txt",
+          "words": 1298,
+          "bytes": 7951,
+          "sha256": "0a93079f7b214060db061c24abbf25e09d5614c72706abe22544ab00ebd62b03"
+        },
+        {
+          "number": 12,
+          "file": "book-03/listening/section-012.txt",
+          "words": 1423,
+          "bytes": 8559,
+          "sha256": "1374ed8fe93e4d9dfc68899844aa770f2370c54243a0be6b223ef6f8b16b9d9f"
+        },
+        {
+          "number": 13,
+          "file": "book-03/listening/section-013.txt",
+          "words": 1945,
+          "bytes": 11542,
+          "sha256": "b7f3c489516be3ba1f055cd876366643477ddf530191be4bedccc0e2a71e1f3e"
+        },
+        {
+          "number": 14,
+          "file": "book-03/listening/section-014.txt",
+          "words": 1363,
+          "bytes": 8013,
+          "sha256": "f61782146a7d43f175f5d98313cb441a6248bbb066f7b2688edc9baf3906afa6"
+        },
+        {
+          "number": 15,
+          "file": "book-03/listening/section-015.txt",
+          "words": 1543,
+          "bytes": 9144,
+          "sha256": "71b34140d59195ea3481104f21224e35ef0d7addb4ee0bc3636a30e6fbd759da"
+        },
+        {
+          "number": 16,
+          "file": "book-03/listening/section-016.txt",
+          "words": 2524,
+          "bytes": 15151,
+          "sha256": "ad3e951b35d6732471c17d44763fb46343832e66648f3c5e5199ca69015a07c3"
+        },
+        {
+          "number": 17,
+          "file": "book-03/listening/section-017.txt",
+          "words": 2568,
+          "bytes": 15546,
+          "sha256": "3e0b2e053e553858b12bd0cb6f58a7672ebe6e4ca27de9bd52df5bafe287849c"
+        },
+        {
+          "number": 18,
+          "file": "book-03/listening/section-018.txt",
+          "words": 1484,
+          "bytes": 8631,
+          "sha256": "f54595604c7300e1032deb5564e531b2bd555998a98be2fd44b1562e4261afab"
+        },
+        {
+          "number": 19,
+          "file": "book-03/listening/section-019.txt",
+          "words": 2516,
+          "bytes": 14837,
+          "sha256": "9b3b7aa0443f0d4651d1dde6e0a9503f01343475fd44ef432c326f5d6e6e2e0e"
+        },
+        {
+          "number": 20,
+          "file": "book-03/listening/section-020.txt",
+          "words": 1384,
+          "bytes": 8371,
+          "sha256": "9bc2437782379b8271ee2438996ede5c188da02c9dbbf6180d094d1eeab13f42"
+        },
+        {
+          "number": 21,
+          "file": "book-03/listening/section-021.txt",
+          "words": 2492,
+          "bytes": 15365,
+          "sha256": "0f1c56ccbbeb85ef52111062e339173762348a6a1b0f7adcde665e240a600498"
+        },
+        {
+          "number": 22,
+          "file": "book-03/listening/section-022.txt",
+          "words": 2507,
+          "bytes": 15501,
+          "sha256": "932440f49b5b6212728ef99dea2ae6f7936d9e21120fdbcdaf811b227322af79"
+        },
+        {
+          "number": 23,
+          "file": "book-03/listening/section-023.txt",
+          "words": 1321,
+          "bytes": 7951,
+          "sha256": "cabaeecf088bc51e8d9efdc03a868cd36cb472a201eef74f72b074d94e18dac6"
+        },
+        {
+          "number": 24,
+          "file": "book-03/listening/section-024.txt",
+          "words": 1434,
+          "bytes": 9106,
+          "sha256": "4dbc8f98415662ae04666a57c4e1c6b480ccfc8d39436ba293206dc4ed88e7b6"
+        }
+      ]
+    },
+    {
+      "book": 4,
+      "title": "Book IV: The King Comes Home",
+      "chapters": 26,
+      "chapterWords": 46468,
+      "nativeWords": 46442,
+      "nativeBytes": 275090,
+      "nativeSha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+      "markdownSha256": "8257aaa493689c12d19ff8f72bbd75e310474eeef56b0efef655761dcb433a9a",
+      "sectionCount": 26,
+      "minSectionWords": 1477.0,
+      "maxSectionWords": 2310.0,
+      "markdownAssemblyExact": true,
+      "nativeAssemblyExact": true,
+      "onDiskSectionByteReconstructionExact": true,
+      "sourceBlobAtSuppliedCommit": "d5909cf6ea6bb23d1869b3eac4f9ff8aca2eda55",
+      "sourceWorkingBlob": "d5909cf6ea6bb23d1869b3eac4f9ff8aca2eda55",
+      "sourceUnchanged": true,
+      "sections": [
+        {
+          "number": 1,
+          "file": "book-04/listening/section-001.txt",
+          "words": 1624,
+          "bytes": 9959,
+          "sha256": "ac809802a0ab03096e5e0270d4a6110201261474386e53ced9206e3a8af18e63"
+        },
+        {
+          "number": 2,
+          "file": "book-04/listening/section-002.txt",
+          "words": 1690,
+          "bytes": 10233,
+          "sha256": "a9052966373605f492b8ff50d099fd50df62ee468b4e09f202f7d6487cdfdda7"
+        },
+        {
+          "number": 3,
+          "file": "book-04/listening/section-003.txt",
+          "words": 1532,
+          "bytes": 9121,
+          "sha256": "80b1a34ab792f7e7b551a827ec494c97f6d4057dd59d380ab9097016a5927cf9"
+        },
+        {
+          "number": 4,
+          "file": "book-04/listening/section-004.txt",
+          "words": 1744,
+          "bytes": 10581,
+          "sha256": "37d222aecfecdda27701bdc2466d1a09ca37048bbbcb6a03fa23755e37690f11"
+        },
+        {
+          "number": 5,
+          "file": "book-04/listening/section-005.txt",
+          "words": 1766,
+          "bytes": 10447,
+          "sha256": "0f71fb044f5d76812c034b800427394919e5b5cebd1a7d1aa9c6a8feb06fa328"
+        },
+        {
+          "number": 6,
+          "file": "book-04/listening/section-006.txt",
+          "words": 1629,
+          "bytes": 9491,
+          "sha256": "cc7e8e202d7aab9d8025cd4adce6fff85f621fae6e2da365513146ee437225fe"
+        },
+        {
+          "number": 7,
+          "file": "book-04/listening/section-007.txt",
+          "words": 1477,
+          "bytes": 8843,
+          "sha256": "378840888f587abbbd24763884c19b336757758784a7aa2ceb81454c1387724f"
+        },
+        {
+          "number": 8,
+          "file": "book-04/listening/section-008.txt",
+          "words": 1903,
+          "bytes": 11364,
+          "sha256": "02d3ec4cb85d91f3df31fa21dde2b3310731686f74134c063cac135be4925c9e"
+        },
+        {
+          "number": 9,
+          "file": "book-04/listening/section-009.txt",
+          "words": 1551,
+          "bytes": 8911,
+          "sha256": "ce396a7e13b3ba0f98988d0ead988d443a46878369eca4ab9764498a2395695a"
+        },
+        {
+          "number": 10,
+          "file": "book-04/listening/section-010.txt",
+          "words": 1499,
+          "bytes": 8626,
+          "sha256": "17ed90d1f9d87420970338e2e010246627afa260654991fcde2718339dfd882c"
+        },
+        {
+          "number": 11,
+          "file": "book-04/listening/section-011.txt",
+          "words": 1663,
+          "bytes": 9832,
+          "sha256": "2fbe46f76fb33cb5de7cbf66e3cf5005927f73136cb1a72f9760e89b2cc19704"
+        },
+        {
+          "number": 12,
+          "file": "book-04/listening/section-012.txt",
+          "words": 1924,
+          "bytes": 11140,
+          "sha256": "50df3487f2d76d8565d41495a5afbaefa27ca7e616d35e4ab93abb96bda378aa"
+        },
+        {
+          "number": 13,
+          "file": "book-04/listening/section-013.txt",
+          "words": 1765,
+          "bytes": 10587,
+          "sha256": "53ae5983dd2645a9dc0dead4454fd83fc9b622ecce28251617b4057b44cd7040"
+        },
+        {
+          "number": 14,
+          "file": "book-04/listening/section-014.txt",
+          "words": 1571,
+          "bytes": 9408,
+          "sha256": "1e156ef94bf0a2b8f6c282e02b0243c3c48c3bbcdb6a1dccd78759da4994bb60"
+        },
+        {
+          "number": 15,
+          "file": "book-04/listening/section-015.txt",
+          "words": 1819,
+          "bytes": 10753,
+          "sha256": "f50f5b37e3f95c6dc131b2adb30f34ea32248582c61f80653e630417102168a2"
+        },
+        {
+          "number": 16,
+          "file": "book-04/listening/section-016.txt",
+          "words": 1660,
+          "bytes": 10027,
+          "sha256": "fce1d4b05a84f57571b8ad379bac9cf57b68635597fccdea4a3a03de13647386"
+        },
+        {
+          "number": 17,
+          "file": "book-04/listening/section-017.txt",
+          "words": 1986,
+          "bytes": 11846,
+          "sha256": "da95c60d097ebafd154e8d3c4e596e06aa1c2456386d4d703b3e787a40f2b586"
+        },
+        {
+          "number": 18,
+          "file": "book-04/listening/section-018.txt",
+          "words": 1865,
+          "bytes": 11372,
+          "sha256": "9b701584ff2e0bd5196373ab9a1c8f92dd27e02c5316b5a796e5ed574632c895"
+        },
+        {
+          "number": 19,
+          "file": "book-04/listening/section-019.txt",
+          "words": 1970,
+          "bytes": 11827,
+          "sha256": "a4c7408938e7ab2574718ffc96b171d1847c3208f2befad69600d0c9f297c838"
+        },
+        {
+          "number": 20,
+          "file": "book-04/listening/section-020.txt",
+          "words": 1901,
+          "bytes": 11248,
+          "sha256": "b404247e0f942372ed19f6c4763cbb0862341cc53febcf89ba8a8184c7891dcd"
+        },
+        {
+          "number": 21,
+          "file": "book-04/listening/section-021.txt",
+          "words": 1696,
+          "bytes": 10210,
+          "sha256": "9e9c854f1e3b746905aac8d4c826f38c73e688e87be5f4f4fab3ba8b2f55a3a8"
+        },
+        {
+          "number": 22,
+          "file": "book-04/listening/section-022.txt",
+          "words": 1827,
+          "bytes": 10575,
+          "sha256": "f01c5d9f8dab3ba2d809281d9e1a53918fc27a1115505ebbbf1d46fab38aae16"
+        },
+        {
+          "number": 23,
+          "file": "book-04/listening/section-023.txt",
+          "words": 2113,
+          "bytes": 11716,
+          "sha256": "999ffe4dcf0473772e9a8cf45d317df9ab8f67cc9fccb4d282c6c3a3268d9d67"
+        },
+        {
+          "number": 24,
+          "file": "book-04/listening/section-024.txt",
+          "words": 2055,
+          "bytes": 11772,
+          "sha256": "d8805145eb59adb9be811397a5741f8ab74282c516415ea491826c471f4511db"
+        },
+        {
+          "number": 25,
+          "file": "book-04/listening/section-025.txt",
+          "words": 2310,
+          "bytes": 13829,
+          "sha256": "93d9e29362df20c79a41e6bb84d748ee89f07b58bfc21ebeaa02f743dcd3f3c6"
+        },
+        {
+          "number": 26,
+          "file": "book-04/listening/section-026.txt",
+          "words": 1902,
+          "bytes": 11372,
+          "sha256": "1f62c0106c8aba50cd7e7e4731721f811038492dffe704e54d7907369c6d1900"
+        }
+      ]
+    }
+  ]
+}
