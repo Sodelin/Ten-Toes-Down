@@ -1,6 +1,6 @@
 # Version B — Close third person through Aiden
 
-Chapters 1–7 of 17 are released.
+Chapters 1–9 of 17 are released.
 
 [Google listening folder](https://drive.google.com/drive/folders/1KoQClGkRHyOfgyKyazhPXJIAVl6OR0U-).
 
@@ -13,3 +13,5 @@ Chapters 1–7 of 17 are released.
 | [5. Flowers for the Man I Killed](chapters/chapter-05.md) | [Part 1](https://docs.google.com/document/d/1dCyxKGFOfhMcK4K8tSentMNXGC-XhwmIuqhQ2a33xYk/edit) · [Part 2](https://docs.google.com/document/d/14oGb50-7ij5Hr-M2eDHftnqYC1a7F5rd9GkJuw-naN4/edit) | 3,775 |
 | [6. Forty Million Reasons to Die](chapters/chapter-06.md) | [Part 1](https://docs.google.com/document/d/16rEurKpsSd_s9GSudsp03Yf1P2buSCiCPWbPLVuCrDo/edit) · [Part 2](https://docs.google.com/document/d/1kIv4GAwWprohhWiLDlr3Pbb_4dV9GqZiWtYJLo-sddc/edit) | 3,429 |
 | [7. The Man Who Cut the Heart Out of a Mountain](chapters/chapter-07.md) | [Part 1](https://docs.google.com/document/d/14YNvlukay2rVv4_dEqqba1LOQIrlBIdz2nrci_YEYZY/edit) · [Part 2](https://docs.google.com/document/d/1XeQDTstAZYJBiBd9B44psZ_e15OFBtIHhV1wX7F9bXA/edit) | 3,576 |
+| [8. Let Him Think You Love Him](chapters/chapter-08.md) | [Part 1](https://docs.google.com/document/d/17kGV-QQ9ypV7AcNGhz6XU-yEuzkEdKAzjm6uWACQ96U/edit) · [Part 2](https://docs.google.com/document/d/1A2BVWP7Y2psDFulEUXHCao6uy4wTpiS1jaio6BxWRhw/edit) | 3,768 |
+| [9. Our Valedictorian Has a Gun](chapters/chapter-09.md) | [Part 1](https://docs.google.com/document/d/1dlWNOrHUwrK02tBsXGMnHWTbTqON1juJ4rynfCcwupw/edit) · [Part 2](https://docs.google.com/document/d/1-15H7fLn048PwR7PvlHq__OJSPwgQRSxdf1IRhpYSGw/edit) | 3,432 |

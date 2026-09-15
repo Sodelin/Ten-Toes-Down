@@ -1,6 +1,6 @@
 # Version C — Objective third person
 
-Chapters 1–7 of 17 are released.
+Chapters 1–9 of 17 are released.
 
 [Google listening folder](https://drive.google.com/drive/folders/1Fka9lM6wxeJ1JoOnLXsS6G9EIGPBaDH9).
 
@@ -13,3 +13,5 @@ Chapters 1–7 of 17 are released.
 | [5. Flowers for the Man I Killed](chapters/chapter-05.md) | [Part 1](https://docs.google.com/document/d/17T4IbH_kqY1IYoU0vNx_EP9AvWnMesndxoSfOyrexAo/edit) · [Part 2](https://docs.google.com/document/d/1HS6v4oWSTcQ7eEmxqoiQSK663zIH-G5Oy8NM7CORqK8/edit) | 4,751 |
 | [6. Forty Million Reasons to Die](chapters/chapter-06.md) | [Part 1](https://docs.google.com/document/d/18rcXxe7FPitivU_olVKAmBR_Y5EfGlY92ZZJLJPvjPM/edit) · [Part 2](https://docs.google.com/document/d/1YrTxW4tMOIw_kr6GB8etKgfEC4LFouZs-wkQz5p82jE/edit) | 4,227 |
 | [7. The Man Who Cut the Heart Out of a Mountain](chapters/chapter-07.md) | [Part 1](https://docs.google.com/document/d/1MtWRXeQ4cSce9RYXjIl6iY5Mj8khGYSlcv8-PaSEyvU/edit) · [Part 2](https://docs.google.com/document/d/15LQ_ovialhAC7YJySw1dh5h55mNBiEN7RUfR_oc3Ch4/edit) | 4,498 |
+| [8. Let Him Think You Love Him](chapters/chapter-08.md) | [Part 1](https://docs.google.com/document/d/1tkjxYdAxImHDqEIeJnchVEHDbPycpu4ctPe9gvGf2P8/edit) · [Part 2](https://docs.google.com/document/d/1VpbPuVbHykbT5tbXWprT7rpritSZIxeSaJTDHYzyV4A/edit) | 4,668 |
+| [9. Our Valedictorian Has a Gun](chapters/chapter-09.md) | [Part 1](https://docs.google.com/document/d/1LyDaJpRpMKU2-Y10JxyGmWv3h8QoSXnHWhkKa1FPuVo/edit) · [Part 2](https://docs.google.com/document/d/1fAdV0zw27DLJoBirxOjfQ4oa1UXLOXBJqSUQoWXvbbY/edit) | 4,157 |
