@@ -1,0 +1,25 @@
+{
+  "variant": "d",
+  "chapter": 16,
+  "completeChapter": true,
+  "reconstructionMatch": true,
+  "source": "C:\\Users\\nolan\\Documents\\Codex\\2026-09-14\\hello\\work\\pov-comparison\\version-d\\chapter-16.md",
+  "words": 3260,
+  "sha256": "b3026e128fcc064a6cc4b0c93c4282e7e51eb543197696d18faf79ff023e295f",
+  "parts": [
+    {
+      "part": 1,
+      "words": 2032,
+      "source": "C:\\Users\\nolan\\Documents\\Codex\\2026-09-14\\hello\\outputs\\pov-comparison\\version-d\\listening\\16-01.md",
+      "stage": "C:\\Users\\nolan\\Documents\\Codex\\2026-09-14\\hello\\work\\docs-stage\\pov-d-c16-p1.json",
+      "sha256": "b9eaed59d6a0d11fca0931e0628aa8bc7caa912a9058567226e41c14def18d9a"
+    },
+    {
+      "part": 2,
+      "words": 1228,
+      "source": "C:\\Users\\nolan\\Documents\\Codex\\2026-09-14\\hello\\outputs\\pov-comparison\\version-d\\listening\\16-02.md",
+      "stage": "C:\\Users\\nolan\\Documents\\Codex\\2026-09-14\\hello\\work\\docs-stage\\pov-d-c16-p2.json",
+      "sha256": "2b69337a1b052a8d4c82357e5b6dadefa86b0b4dbbe13c8d603e48fe67d3f6b6"
+    }
+  ]
+}

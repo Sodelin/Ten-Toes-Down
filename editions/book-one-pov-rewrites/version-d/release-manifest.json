@@ -1,0 +1,635 @@
+{
+  "version": "d",
+  "mainRevision": true,
+  "completeBookVerified": true,
+  "receiptVerification": "Saved publisher text/MIME/folder readback receipts; no new remote calls.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "1. The Funeral Had a Two-Drink Minimum",
+      "words": 4414,
+      "sha256": "f57ae203ae04e1650fd3458a5c7c09c3f3fc7c7c97b3bfa362b5906c6273c398",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c01-p1",
+          "words": 2316,
+          "sha256": "c838047a296670892448c989ffbcc22b5b9178e8a00ac1ed8e9b354d06b1da5f",
+          "path": "listening/01-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1UgFSLfOeO_M_7pY26Mol6h5207Mh9MKUSqRlEzdQao4/edit",
+          "id": "1UgFSLfOeO_M_7pY26Mol6h5207Mh9MKUSqRlEzdQao4",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c01-p2",
+          "words": 2098,
+          "sha256": "bb0096d4ef13f7108e67a524c501ef1091f0708faef5fe315d15f6f82c658f03",
+          "path": "listening/01-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1lwGhQ3nOk1K2G1A9sydvMJZMtB6M4hLCN-b1DxIW9Rw/edit",
+          "id": "1lwGhQ3nOk1K2G1A9sydvMJZMtB6M4hLCN-b1DxIW9Rw",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "2. First Night in Vegas",
+      "words": 7702,
+      "sha256": "57f1d9f26ba2f2d6dcb1306ef3be8182484fff2fb8d7444b51bb525496e59cbc",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c02-p1",
+          "words": 1958,
+          "sha256": "cdada10e683fe873960b09d6bb67ec6bc554b7b697f3f6f1e6b59aa53122e76b",
+          "path": "listening/02-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1v4rxB2lKd8p9YffFX-tbxQQIIDk-460Be5obcc7XhDY/edit",
+          "id": "1v4rxB2lKd8p9YffFX-tbxQQIIDk-460Be5obcc7XhDY",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c02-p2",
+          "words": 2252,
+          "sha256": "1532b3020077054cc69578688079fa78f7f475658b6f2ed6a40195e04041f6ef",
+          "path": "listening/02-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1zawd8bZ5if8LD5WdjBWHl5a968YAytz7vjnieL_waM0/edit",
+          "id": "1zawd8bZ5if8LD5WdjBWHl5a968YAytz7vjnieL_waM0",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c02-p3",
+          "words": 1986,
+          "sha256": "57a04d21da303905132103eb20e3ffa95ba08158427a6e6d0ebb37724d5fb3c3",
+          "path": "listening/02-03.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1hsNoMH0cj2Lga4qTqoUPyrTtDPbxC1prC-U_2frqo_Y/edit",
+          "id": "1hsNoMH0cj2Lga4qTqoUPyrTtDPbxC1prC-U_2frqo_Y",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c02-p4",
+          "words": 1506,
+          "sha256": "7f63fd0da7b9c277b2bf3f524366772061b59af621d1635c969874f2f5d2f649",
+          "path": "listening/02-04.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1MoxRk9ND-5rGRNE9yR1l6dgyytz80UwVJp52L-mdYD4/edit",
+          "id": "1MoxRk9ND-5rGRNE9yR1l6dgyytz80UwVJp52L-mdYD4",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "3. A King with a Hole in Him",
+      "words": 5572,
+      "sha256": "bf61ba444d51c5880b4a7eba68ea1042cceb301d7ad3644e23e093b6dd87dcb5",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c03-p1",
+          "words": 2887,
+          "sha256": "5b72683a4de4af4679eba4198f7f490c980cb932a52de40bcb557cd1121d227a",
+          "path": "listening/03-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1LawObp2G5r2hMjdUlu0K1TxhHM6GXPWuvqbauxuZJL8/edit",
+          "id": "1LawObp2G5r2hMjdUlu0K1TxhHM6GXPWuvqbauxuZJL8",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c03-p2",
+          "words": 2685,
+          "sha256": "9172ca316c929f85652a68b8e1828864f387220a07ad900ee805b09ab690862d",
+          "path": "listening/03-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1oWl8FifbT4DjkEGistlaypDYFEItQQ85u3swwKTQd8k/edit",
+          "id": "1oWl8FifbT4DjkEGistlaypDYFEItQQ85u3swwKTQd8k",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "4. The Palace of the Woman I Just Met",
+      "words": 6180,
+      "sha256": "6bdd4738791420d4b5580aa75c005c8350561c775b476e6521f78f37ec9fed09",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c04-p1",
+          "words": 1975,
+          "sha256": "0a7f79308c5d99a84bdb3202821056e2c9ac41332cc228669e329aed70857acc",
+          "path": "listening/04-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1vv8lYmQniaeJ5N76cOfBsnagrYD_jddW1mUFgXiPyD4/edit",
+          "id": "1vv8lYmQniaeJ5N76cOfBsnagrYD_jddW1mUFgXiPyD4",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c04-p2",
+          "words": 1826,
+          "sha256": "2bc1914a0e332fa6b5018585e64091442598b0bd1a9ce24f4e11dbcb7c4076d2",
+          "path": "listening/04-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1t6yTbxv-38NQuWINbgMwx2rp-Y4geD__MfZe32YqV04/edit",
+          "id": "1t6yTbxv-38NQuWINbgMwx2rp-Y4geD__MfZe32YqV04",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c04-p3",
+          "words": 2379,
+          "sha256": "323472462a443eceacc181d6a0785fcbb2ecd119ac14c3094c47015df8f85dee",
+          "path": "listening/04-03.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/11s5NfSpnIkfZ8QWml2Do8LOhUb2V75gVdXqFw8ekF40/edit",
+          "id": "11s5NfSpnIkfZ8QWml2Do8LOhUb2V75gVdXqFw8ekF40",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "5. Flowers for the Man I Killed",
+      "words": 5710,
+      "sha256": "33b93c6805fdcca5c9cf6153d7c467507342832f2e35130e09e261d5e2d30cfa",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c05-p1",
+          "words": 2205,
+          "sha256": "1c182fc920a588df135e387455767583f721a124d0f59ab6c125d9d4fae88952",
+          "path": "listening/05-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/18EgeYdP0Xz0jvHVSayKsBnfKG_12l9AxrJCxh9wjO4U/edit",
+          "id": "18EgeYdP0Xz0jvHVSayKsBnfKG_12l9AxrJCxh9wjO4U",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c05-p2",
+          "words": 1958,
+          "sha256": "871c0691e37f598000f84cbcee34b4c7861282a47791c2e445f76063146a5a4a",
+          "path": "listening/05-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1DsfVWhAQ_E7bGyDDepmUs2nscBjofhZJ6RpO6pQzeRQ/edit",
+          "id": "1DsfVWhAQ_E7bGyDDepmUs2nscBjofhZJ6RpO6pQzeRQ",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c05-p3",
+          "words": 1547,
+          "sha256": "2240be7e5bf1cf3a81c3587524cfb0b9e1d455de9a8e58a71497e1ec1983b131",
+          "path": "listening/05-03.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1sjNcCI6dEG9NJTUTRSroVlefBiyxmNaAIpb_GHfNdjo/edit",
+          "id": "1sjNcCI6dEG9NJTUTRSroVlefBiyxmNaAIpb_GHfNdjo",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "6. Forty Million Reasons to Die",
+      "words": 4954,
+      "sha256": "b37aeaedcb0f4b1ff8a622e47ad29bf70603fad30df91eb5d90652aec1ed36df",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c06-p1",
+          "words": 2575,
+          "sha256": "ce09fa453600fecf2c94784e6393a3a1cd129dbc1ef339aaea91e8aedb394f6c",
+          "path": "listening/06-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1YBI55c4irNhJXOgPxVLD0H35-vwyRsSn2jBdxFSP1N0/edit",
+          "id": "1YBI55c4irNhJXOgPxVLD0H35-vwyRsSn2jBdxFSP1N0",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c06-p2",
+          "words": 2379,
+          "sha256": "9c967e4e5b2b174207680277d159a0ba23c57f0eb14d08ee35c3a5e1c899b63c",
+          "path": "listening/06-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1lvmxZ18E94KvKWPc4D-PzihVv500uZFwNqBebmzsj-Q/edit",
+          "id": "1lvmxZ18E94KvKWPc4D-PzihVv500uZFwNqBebmzsj-Q",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "7. The Man Who Cut the Heart Out of a Mountain",
+      "words": 4957,
+      "sha256": "07db8091710a7125279660c00ba589a33fb0913d541c8db4a51bd21d7215540d",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c07-p1",
+          "words": 2737,
+          "sha256": "9fedc5336e92d6c1e072263d8234318e906b8af2d31707d5405a61006a72e810",
+          "path": "listening/07-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1mPvgXrU4qDseSaETOvWJcneAsiVo2g0j3RgkIQONQFY/edit",
+          "id": "1mPvgXrU4qDseSaETOvWJcneAsiVo2g0j3RgkIQONQFY",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c07-p2",
+          "words": 2220,
+          "sha256": "37ad0b5321ef3a4ebaa0f7e6e17163355021dc3697b4d4455fab3fab35c4d434",
+          "path": "listening/07-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1-8wctAFlvINtKIjMDW2jVOsnXcazGk3PBVYNcSPHDoY/edit",
+          "id": "1-8wctAFlvINtKIjMDW2jVOsnXcazGk3PBVYNcSPHDoY",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "8. Let Him Think You Love Him",
+      "words": 5137,
+      "sha256": "1f9d53f6e732d14576493cac42bacc5a8f822a879ddb1fd05283d5ddb9e8d595",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c08-p1",
+          "words": 2295,
+          "sha256": "532fbca553da503416e0bc0f16efa0ec8426b2c4eaa3bff47168704cae1a8eec",
+          "path": "listening/08-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1oaxIccs31LXWWE1KeLWBYYqd4eBFsZ7p9HA0E5s9VRo/edit",
+          "id": "1oaxIccs31LXWWE1KeLWBYYqd4eBFsZ7p9HA0E5s9VRo",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c08-p2",
+          "words": 2842,
+          "sha256": "e0305767b77fb073342af81fc52ed82d075b865a915332e69b6d3acd6374ed4c",
+          "path": "listening/08-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1a4EpVFh_q3h6dLOosk8WXyjPxhhFQ6ZkL3RE9TaHWQ4/edit",
+          "id": "1a4EpVFh_q3h6dLOosk8WXyjPxhhFQ6ZkL3RE9TaHWQ4",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "9. Our Valedictorian Has a Gun",
+      "words": 4958,
+      "sha256": "e413133a62ab9e85496d6b6844feeffed874ad81fdf572181e8c7ee1df83a569",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c09-p1",
+          "words": 2474,
+          "sha256": "a484784523a99dfa168127e7bc5e682f2887d7640d570502cd53c9df4aaff2d3",
+          "path": "listening/09-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1RYIkP7qwlWdlAKUHjpR6JPFdkuYbHhaXgxuf0RUiseM/edit",
+          "id": "1RYIkP7qwlWdlAKUHjpR6JPFdkuYbHhaXgxuf0RUiseM",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c09-p2",
+          "words": 2484,
+          "sha256": "6b19738308605d7655bd8584f6b3415fdab4354cc290915cae41b9fc9a6c8f8f",
+          "path": "listening/09-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1Fjp0MiJXFdAeBX30_M_j7sIYyp80tCMxse8KmVae4rI/edit",
+          "id": "1Fjp0MiJXFdAeBX30_M_j7sIYyp80tCMxse8KmVae4rI",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "10. Forty Million and One Woman",
+      "words": 4267,
+      "sha256": "aadd81c094bea8bae1900125a0d2882eb13957afd3786c01d9479410478d5f8b",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c10-p1",
+          "words": 2367,
+          "sha256": "b496dba37d35578f36cffded3f9286b7f7f621b9f1b9009d8b59880ad17ac256",
+          "path": "listening/10-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/17Fe0oaBp5rsgrC5UYiyC4oNxNZlVKtxuzFxCHhqrVJQ/edit",
+          "id": "17Fe0oaBp5rsgrC5UYiyC4oNxNZlVKtxuzFxCHhqrVJQ",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c10-p2",
+          "words": 1900,
+          "sha256": "9203a1a5349f9f6e2b6a54c9baea8bfeb7ca62c590d4eb233eb34a45b3c765e5",
+          "path": "listening/10-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1mMEfI6qLa7973gZ6hKPIQSAf4iPTZx2dXTr9qaL6_9c/edit",
+          "id": "1mMEfI6qLa7973gZ6hKPIQSAf4iPTZx2dXTr9qaL6_9c",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "11. Blue Mercy",
+      "words": 4021,
+      "sha256": "2c961c7321da4a25a6cc6ac9c2b91ceb297c47315b60072335a8fe6fc8ce8fc0",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c11-p1",
+          "words": 1823,
+          "sha256": "22f1e422fc94ac3973bd7bcd65f3ae6ff62faabe01c13982a6b81df943073c4f",
+          "path": "listening/11-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1HxH2tYwoQSHIdNYKDG5osUmJ0ClffDDaiH4hEbjGYk4/edit",
+          "id": "1HxH2tYwoQSHIdNYKDG5osUmJ0ClffDDaiH4hEbjGYk4",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c11-p2",
+          "words": 2198,
+          "sha256": "10722d2700ef04b0a6bd898d0c139d10d6b803d10262f907b3ddd3565e98462e",
+          "path": "listening/11-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1aFUmMPCNxYh0p7I0DWb13edrwDat1d0Lq0FdpKu_C8w/edit",
+          "id": "1aFUmMPCNxYh0p7I0DWb13edrwDat1d0Lq0FdpKu_C8w",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "12. The Money at the Bottom",
+      "words": 4835,
+      "sha256": "14923ad8acef4958ae378aa96b7ab49cd2d2dec6fb295f5cb29999a746aa94d8",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c12-p1",
+          "words": 2514,
+          "sha256": "a905e9542ee801ad32a425771f10ca69ff213030991857ac526251865f2f6651",
+          "path": "listening/12-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1wLxop4K8mQ0U6bjOCZhULbq_NSWDPsc6zISw7-UmlCU/edit",
+          "id": "1wLxop4K8mQ0U6bjOCZhULbq_NSWDPsc6zISw7-UmlCU",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c12-p2",
+          "words": 2321,
+          "sha256": "38917fd23ac2dd464b9b1ffe6f9813566ac7aad2a35a7c45762c3aeaad419714",
+          "path": "listening/12-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/19LB2122yIh46F61yxcBHp8ROwsOp4nu2FdsfScqxBiw/edit",
+          "id": "19LB2122yIh46F61yxcBHp8ROwsOp4nu2FdsfScqxBiw",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "13. Everybody Bring Your Heart",
+      "words": 2811,
+      "sha256": "2ce9be4f68b43e1094d3e521a3d9cff2a96b8eb9ad8e6263bfca75c5509a7c01",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c13-p1",
+          "words": 1941,
+          "sha256": "623527d38239e30a57ec486da0c2c8a21dbcd1c7c5f863cc426a496ec02d09b1",
+          "path": "listening/13-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1RD7q7t3t0o-9aqI2zwyEinPJK4iMW4gn_3TfFpKU458/edit",
+          "id": "1RD7q7t3t0o-9aqI2zwyEinPJK4iMW4gn_3TfFpKU458",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c13-p2",
+          "words": 870,
+          "sha256": "0bf5087d28fc278b9a72955d0159229d8c97352039e517115c2735b34535be2a",
+          "path": "listening/13-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1cP9RdVXN1h-RdaAdnoMsxkQsKDfpzv23z3tZXUg_ROQ/edit",
+          "id": "1cP9RdVXN1h-RdaAdnoMsxkQsKDfpzv23z3tZXUg_ROQ",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "14. What She Told Me After",
+      "words": 3230,
+      "sha256": "908454b3110318b0ab335bba8fc827520a6e427aac61a20817934c20ce4dd5b7",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c14-p1",
+          "words": 2057,
+          "sha256": "b1b6037ff9790a8fd3697ffe772612993633e8dacb1e6aa07b3dd3b421bf7c1a",
+          "path": "listening/14-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1Vj7ensA4QsIvgLMqbFzAm62hI1BmnueWroqmw0iOFJ8/edit",
+          "id": "1Vj7ensA4QsIvgLMqbFzAm62hI1BmnueWroqmw0iOFJ8",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c14-p2",
+          "words": 1173,
+          "sha256": "b48ed268bfb1df79c82933759d0ebea509534a46961e07c13ef007f3820aca2e",
+          "path": "listening/14-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/15pMif1MgbEyuEDtcDsYFaFAxCA8jDQUHxGeioZw-co0/edit",
+          "id": "15pMif1MgbEyuEDtcDsYFaFAxCA8jDQUHxGeioZw-co0",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "15. Ten Toes, Thirty Engines",
+      "words": 2999,
+      "sha256": "c17b259e71661b84a2cd28471d24a17b11ef5ae40065085d8d86af00015932c1",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c15-p1",
+          "words": 1908,
+          "sha256": "e88088e92426d72368c1a0deb9f08f815b590c7438a060c791d4ed228cf56f8c",
+          "path": "listening/15-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1QgJUzREnCjmY7SAsfOB9uFzGYR1ff-Wj4UAzXmtkyWQ/edit",
+          "id": "1QgJUzREnCjmY7SAsfOB9uFzGYR1ff-Wj4UAzXmtkyWQ",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c15-p2",
+          "words": 1091,
+          "sha256": "1ca7c9f118a29243f4ff564d8248979d754e959ad0d692c4b827ecbb6ce4bb51",
+          "path": "listening/15-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1jWbl9kki1bihvveHObCYmYkIkiz2QMVoD_qMYw9WTio/edit",
+          "id": "1jWbl9kki1bihvveHObCYmYkIkiz2QMVoD_qMYw9WTio",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "16. The Last King of Vegas",
+      "words": 3260,
+      "sha256": "b3026e128fcc064a6cc4b0c93c4282e7e51eb543197696d18faf79ff023e295f",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c16-p1",
+          "words": 2032,
+          "sha256": "b9eaed59d6a0d11fca0931e0628aa8bc7caa912a9058567226e41c14def18d9a",
+          "path": "listening/16-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1NWqDqVHBvLu0daTTwPUPKj0PM5p0gBxzjX8kl5kl058/edit",
+          "id": "1NWqDqVHBvLu0daTTwPUPKj0PM5p0gBxzjX8kl5kl058",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c16-p2",
+          "words": 1228,
+          "sha256": "2b69337a1b052a8d4c82357e5b6dadefa86b0b4dbbe13c8d603e48fe67d3f6b6",
+          "path": "listening/16-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1toEIKidci1xj4FY780GG91Zg91NUXqfPpy3NtdhdEMo/edit",
+          "id": "1toEIKidci1xj4FY780GG91Zg91NUXqfPpy3NtdhdEMo",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "17. Ten Toes Down Forever",
+      "words": 3429,
+      "sha256": "40535a35ba1213abaac50179ee8ed11e9c5756fc90e0ca164fac036f92f251ab",
+      "workingMatch": true,
+      "reconstructionMatch": true,
+      "sections": [
+        {
+          "key": "pov-d-c17-p1",
+          "words": 1833,
+          "sha256": "f8b9450749602f7c2f94fc541a6ec32ff50a10023164a7805a03245753b039fb",
+          "path": "listening/17-01.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1dl1_o9TfX-GjMHodI3wEZNIBs-VFiNKfezTLOXa8X_c/edit",
+          "id": "1dl1_o9TfX-GjMHodI3wEZNIBs-VFiNKfezTLOXa8X_c",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        },
+        {
+          "key": "pov-d-c17-p2",
+          "words": 1596,
+          "sha256": "1598110b2a0e1e4376d3d3ced49907ec20c29907a67b22231188574023c20ecc",
+          "path": "listening/17-02.md",
+          "nativeStageMatch": true,
+          "receiptVerified": true,
+          "url": "https://docs.google.com/document/d/1ncBZGgpFxfnVXnmY87c10gSdFiqK1ldU_4egOi-WDUo/edit",
+          "id": "1ncBZGgpFxfnVXnmY87c10gSdFiqK1ldU_4egOi-WDUo",
+          "expectedFolderId": "12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm"
+        }
+      ]
+    }
+  ],
+  "missingReceipts": [],
+  "frozenExplorations": {
+    "a": 12,
+    "b": 16,
+    "c": 11
+  },
+  "preparedChapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "words": 78436,
+  "listeningParts": 38,
+  "verifiedNativeReceipts": 38,
+  "fullBook": {
+    "assemblyVerified": true,
+    "receiptVerified": true,
+    "sha256": "b0ac6c40669e9beb69e1f18016ea0188549fec4aeecc441f66c41940ad3c938e",
+    "path": "book-01.md",
+    "url": "https://docs.google.com/document/d/1ck40hK1gIgcybQumxp1XqjfrEwxSVhYNGcTPIlii7l4/edit",
+    "id": "1ck40hK1gIgcybQumxp1XqjfrEwxSVhYNGcTPIlii7l4",
+    "expectedFolderId": "1KMzzGAdtEbD6t0mkOVdKndjdhJnCQ6dd"
+  },
+  "status": "full_book_verified",
+  "allPreparedListeningPublished": true
+}

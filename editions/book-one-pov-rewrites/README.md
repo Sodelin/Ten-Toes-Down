@@ -1,33 +1,27 @@
-# Book I — Three Points of View
+# Blood Money and Blue Diamonds — Book I revisions
 
-**Blood Money and Blue Diamonds**, the first book of the original Tellings.
+## Read Version D — the main revision
 
-Chapters **1–9 of 17** are rewritten, reviewed, and released in all three viewpoints. The remaining chapters are in progress.
+[Start here: full book and numbered listening order](https://docs.google.com/document/d/1zG8GEQsJMNs28sMMUdQXyd5CnNlmVUHPCBYS__UoZHE/edit)
 
-## Read and listen
+[Version D: chapters and listening links](version-d/README.md) · [Google release folder](https://drive.google.com/drive/folders/1KMzzGAdtEbD6t0mkOVdKndjdhJnCQ6dd) · [Google listening folder](https://drive.google.com/drive/folders/12KJ2MZ7pYzyZJTVD0Rfydqd9PkyEynsm).
 
-| Version | Complete chapters and listening links | Google folder |
+[Read the full book in Google Docs](https://docs.google.com/document/d/1ck40hK1gIgcybQumxp1XqjfrEwxSVhYNGcTPIlii7l4/edit) · [Local full manuscript](version-d/book-01.md).
+
+Version D is the requested editorial synthesis: Aiden's retrospective first-person story, with visible action, clear dialogue for one reader, scene comedy and the original plot. See the [editorial note](version-d/EDITORIAL-NOTE.md) for the actual review scope.
+
+## Frozen viewpoint explorations
+
+The author asked to stop extending these experiments and use their strengths in Version D. They remain incomplete at their saved stopping points; none is presented as a complete novel.
+
+| Preserved experiment | Saved coverage | Review scope |
 | --- | --- | --- |
-| A — Aiden's first-person recollection | [Read version A](version-a/README.md) | [Listening sections](https://drive.google.com/drive/folders/19LMCqk8--V0TGPVya1rhHSp5qd6XgyzK) |
-| B — Close third person through Aiden | [Read version B](version-b/README.md) | [Listening sections](https://drive.google.com/drive/folders/1KoQClGkRHyOfgyKyazhPXJIAVl6OR0U-) |
-| C — Objective third person | [Read version C](version-c/README.md) | [Listening sections](https://drive.google.com/drive/folders/1Fka9lM6wxeJ1JoOnLXsS6G9EIGPBaDH9) |
+| [A — First person](version-a/README.md) | Chapters 1–12 of 17 | Writer read 1–12; coordinating editor independently read 1–11. |
+| [B — Close third person](version-b/README.md) | Chapters 1–16 of 17 | Writer and coordinating editor independently read 1–16. |
+| [C — Objective third person](version-c/README.md) | Chapters 1–11 of 17 | Writer read 1–11; coordinating editor independently read 1–10. |
 
-[Google opening comparison guide](https://docs.google.com/document/d/1SBsrTTi4I0nzShR5dX4xJRoGBaTf1MbYjRngRHEuZGM/edit) · [All three listening folders](https://drive.google.com/drive/folders/16E4QXwEiZy10JGVt1dg0BPkWsauD5Py4).
+Version B deferred the private accounts from XI and XIV to a planned XVII that was never written; those accounts are absent from B. Version D includes them in XI and XIV. Earlier style experiments are preserved separately. No recorded audiobook or audio-performance test is claimed.
 
-These are listening manuscripts. Recorded audiobook files have not been generated for these versions.
+## Source
 
-## Three consistent narrators
-
-**A — First person.** Aiden says "I" and recalls what he experienced. Other people's private experiences reach him through observed behavior or clearly attributed accounts. Later understanding belongs to his remembering voice.
-
-**B — Close third person.** The narrator says "Aiden" and "he," stays with his perceptions and thoughts at that moment, and keeps other people's thoughts hidden. Discoveries arrive with him.
-
-**C — Objective third person.** The narrator shows observable action and audible speech. Feelings emerge through behavior; plans and personal histories have an identifiable source. The narrator does not report private thoughts directly.
-
-All three retain the source story, cast, main events, and major comic payoffs. Description makes the setting and physical action followable. Dialogue identifies speakers for a single reader while keeping natural exchanges and the parody's absurd energy. Serious moments have room without making the whole book solemn.
-
-## Provenance and verification
-
-Source: `editions/niggatorial-tellings/books/book-01.md` at repository commit `4f38948aa5fa97f294adfa74a0b7055c399b2826`. New prose is authored by Codex under Nolan's direction using Nolan's existing story and characters. Original manuscripts and the earlier two-style comparison remain preserved separately.
-
-Every released chapter received a full narrative, viewpoint, dialogue, and continuity read. Consecutive listening sections reconstruct each complete chapter without omitted or repeated prose. Native Google Docs were read back and matched against the prepared text; file types and destination folders were verified. The opening guide's native document links were also verified.
+This revision uses the original Book I manuscript at `editions/niggatorial-tellings/books/book-01.md`, source commit `4f38948aa5fa97f294adfa74a0b7055c399b2826`. New prose was written by Codex under Nolan's editorial direction.
