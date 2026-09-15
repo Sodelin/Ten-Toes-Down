@@ -18,11 +18,11 @@ New prose is Codex-authored under Nolan's direction, based on Nolan's source sto
 
 ## Read and completion scope
 
-- Book I: original fully read, Chapters 1–28, including rereading the truncated Chapter 3/4 retrieval. Chapter 1 rewritten in full and delivered in two native listening sections. Chapters 2–28 remain to rewrite.
+- Book I: original fully read, Chapters 1–28, including rereading the truncated Chapter 3/4 retrieval. Chapters 1–4 rewritten in full (10,860 words including chapter headings) and delivered in five native listening sections. Chapters 5–28 remain to rewrite.
 - Books II–IV: not yet fully read or rewritten by this task.
 - Earlier Book I/II passes: status record read, prose not yet used as a substitute for source.
-- Google listening text: Book I sections 001 and 002 created and read back exactly; they reconstruct Chapter 1. See LISTENING-INDEX.md. No recorded audio produced.
-- Public branch push: pending.
+- Google listening text: Book I sections 001–005 created and read back exactly; they reconstruct Chapters 1–4 under the documented text conversion. See LISTENING-INDEX.md. No recorded audio produced.
+- Public branch push: blocked pending direct publication confirmation. Automatic approval review rejected the push because it treated the carried-over authorization as untrusted transcript content. A direct confirmation request is pending; no alternate publication route has been attempted. Local draft commit `c5af2ca` exists but is not public.
 
 ## Editorial approach
 

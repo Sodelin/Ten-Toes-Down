@@ -1,0 +1,295 @@
+## Chapter 3: Spring
+
+The address on Bảo's invitation belonged to a boxing gym called Honest Work. Two men guarded its door beneath a yellow light. Through the high windows came music, the clink of glasses, and none of the sounds I'd generally associated with honest work.
+
+Saint parked across the street. He'd changed into a black suit and replaced his diamond stud with a larger one. A second microphone lay between our seats. He caught me looking at it and slid it into his inside pocket.
+
+“You're staying in the car,” I told him.
+
+“Nigga, I've been waiting twenty years to say we're on the list.” Saint checked his reflection in the dark side window.
+
+“Different kind of list,” I said.
+
+“They all are when you haven't been on them.” He got out when I did.
+
+I looked across the roof. “My mother will kill you.”
+
+“Your mother likes initiative,” Saint said, straightening his cuffs.
+
+“She gave you recycling,” I reminded him.
+
+“And trusted me to complete it.” He locked the car before I could suggest another useful task.
+
+The older guard recognized me and opened the gym door. His younger colleague put a hand on Saint's chest.
+
+“Just Mr. Trần,” the younger man said.
+
+Saint began pointing at me. “I'm his—”
+
+“Publicist,” I supplied.
+
+Saint paused just long enough to appreciate the promotion. “Publicist. Thank you.”
+
+The younger guard looked at the older one. The older one shrugged, and we went inside.
+
+“You invented my job,” Saint whispered.
+
+“Keep it for ten minutes,” I told him.
+
+The gym smelled of leather and bleach, with a sweeter smell from the drinks being carried between tables. A boxing ring occupied the center. Exercise machines had been pushed against the walls to make room for men in suits. Above them, photographs showed fighters holding belts. An upstairs balcony overlooked the ring from one side, with more guests leaning over its rail and plates balanced in their hands.
+
+Conversations thinned as we passed. People looked at me, then leaned close to their neighbors. Saint responded as though this were the reception he'd personally arranged, greeting a man he didn't know and accepting a glass from a waiter who'd been trying to pass him.
+
+The woman in the green suit met us before we reached the ring.
+
+“Trinh Lê,” she said, offering her hand. “We didn't get to introductions earlier.”
+
+“You were putting a check in my lunch,” I said.
+
+“You were putting lunch on the check.” Trinh shook my hand and turned us toward the far end of the room.
+
+Bảo Lâm sat in a red barber chair beyond the ring. A white towel covered his shoulders. Behind him, a woman was trimming the hair around his ears while he selected peeled grapes from a bowl on the armrest.
+
+He put down a grape and offered me his hand. Four rings had been arranged to keep their stones out of the handshake.
+
+“Aiden. My apologies for today,” Bảo said.
+
+“Put them in writing next time,” I told him. “Keeps the van intact.”
+
+His mouth twitched. The woman behind him hid a smile by checking her scissors.
+
+Bảo indicated an empty chair. I remained standing. Saint began to sit, saw that I hadn't, and used the movement to adjust his trousers.
+
+“You wanted to see me,” I said.
+
+“I did.” Bảo looked toward Trinh, who laid a slim folder on the table beside him.
+
+“I'm here,” I said, resting my fingers on the back of the unused chair.
+
+Bảo took another grape. “You know what the Circle does.”
+
+“Takes money from delivery drivers,” I answered.
+
+“A misunderstanding.” He rolled the grape between his fingers before eating it.
+
+“Popular business lately,” I said.
+
+Bảo watched me chew over nothing while he finished. Then he described clubs, games, private events, disputes settled before they became public. He made it sound like a hospitality business with an unusually thorough complaints department.
+
+“Naturally we have enemies,” he said. “Occasionally we meet somebody we'd rather invite than inconvenience. You have a remarkable family.”
+
+“They're busy tonight,” I told him.
+
+The scissors stopped behind his ear. Bảo looked up at me, and then he laughed.
+
+“Your father said something like that once,” he said.
+
+“How much did it cost you?” I asked.
+
+Bảo set the bowl aside. “Would you like to make money, Aiden?”
+
+I tapped the pocket holding his check. “I'm having a good day already.”
+
+Trinh opened the folder to a photograph of green felt tables, a small stage, and a stained-glass window above a bar.
+
+“Upstairs at the Pearl,” she said. “Games three nights a week. Staff in place. Twenty percent of the house.”
+
+I pulled the photograph closer. “Forty.”
+
+Saint took a long, silent drink.
+
+“Confident,” Bảo said.
+
+“You keep paying me for conversations.” I turned the photograph to see the room's entrance.
+
+“Everyone here went through an introduction,” Bảo said.
+
+I looked over my shoulder at the ring. The nearest table had become very quiet.
+
+“There it is,” I said.
+
+Bảo lifted one shoulder beneath his towel. “A little entertainment. People have heard stories. They'd like to meet the man.”
+
+Saint put his empty glass on the table. “The man brought a publicist. Appearances are separate.”
+
+Trinh regarded him with new interest. “What does he charge?”
+
+“Depends what he has to take off,” Saint said.
+
+I slid the photograph back toward her. “Forty percent. If I win, those four men leave my wife's deliveries alone. All her deliveries. All the drivers. Every imaginary fee.”
+
+Bảo's smile narrowed. I kept my fingers on the photograph until he nodded.
+
+Trinh took out a pen and changed the agreement. I read the page. Saint read over my shoulder, moving his lips at the numbers.
+
+“You can read,” I reminded him.
+
+“I like hearing good news twice,” Saint whispered.
+
+Word traveled across the room faster than the waiter collecting glasses. Chairs turned toward the ring. Cash appeared on the tables. A man in a sleeveless black shirt climbed between the ropes and began rolling his shoulders. His scalp was shaved, both eyebrows ridged with scar tissue. His hands were wrapped but bare of gloves.
+
+“Milo Voss,” Trinh said when she saw me watching him.
+
+“What does he do?” I asked.
+
+Voss leaned out through the ropes toward a hanging heavy bag and drove a short right hand into it. The top link of its chain broke. The bag hit the floor flat, jolting a nearby table hard enough to jump the drinks.
+
+“This,” Trinh said.
+
+At the betting sheet, a man discreetly drew his cash back toward his chest.
+
+Saint inspected the broken chain from where we stood. “Old equipment, probably.”
+
+A broad man beside the ring snorted. He held bottled water on a tray, with a hot dog balanced among them. “Put it up yesterday.”
+
+“You work here, nigga?” Saint asked him.
+
+“Sometimes,” the man said.
+
+“Show a little customer service,” Saint suggested.
+
+The man offered me a bottle. “Hậu Phạm.”
+
+“Aiden.” I shook his free hand.
+
+“I know.” Hậu leaned closer as I took the water. “Watch his left elbow. Broke a man's jaw with it last month. Said he slipped.”
+
+“Did he?” I asked.
+
+“Afterward,” Hậu said. “Blood everywhere.”
+
+I passed Saint my jacket and the unopened bottle, stepped through the ropes, and tested the canvas beneath my shoes. This time I was wearing actual shoes. Voss noticed too. He stood in the far corner with his hands loose and his chin lowered.
+
+“No slippers?” Voss asked.
+
+“My mother saw the video,” I said.
+
+He grinned, showing a gold tooth near the back and a gap beside it. “Ever fought somebody who can hit back?”
+
+“My wife plays tennis,” I told him.
+
+The bell rang while he was still deciding what to do with that.
+
+Voss crossed the ring in three steps and sent his right fist at my head. I leaned left. His knuckles brushed my ear. He turned with the miss, bringing the left elbow around toward my jaw exactly as Hậu had warned.
+
+I ducked beneath it and put two punches into his ribs. His body tightened against my fists. He grunted, shoved me back with his forearm, and drove a knee up the middle.
+
+I caught it on both palms. My feet slid across the canvas.
+
+He smiled at the distance he'd moved me. I kicked the inside of his standing ankle. That removed the smile long enough for him to put his other foot down. He recovered and came after me with both hands.
+
+I slipped the first punch. The second struck my forearm with the weight of a thrown brick. Pain ran to my elbow. He followed me toward the ropes, keeping his shoulders between me and the center of the ring.
+
+Beyond him, Bảo had stopped eating.
+
+Voss stepped onto my right shoe and hit my cheek with his left fist. My head snapped sideways. I tasted blood. Saint shouted something about the referee, which would have been useful if anyone had bothered to become one.
+
+Voss drew back his right hand. I bent my left knee and jumped to get my trapped foot out.
+
+I overdid it.
+
+The rope dropped below my hips. Voss's fist went beneath my ankle. I rose past the gym clock and found myself looking at a man on the balcony with a shrimp halfway to his mouth.
+
+“Excuse me,” I told him.
+
+Then gravity recovered its interest.
+
+I landed behind Voss, knees bent, and felt a board crack under the canvas. Before he could turn, I caught the back of his shirt, pulled him toward me, and drove my knee between his shoulder blades. He hit the mat on his hands and knees.
+
+The room came apart in noise. Someone shouted about a wire. The man on the balcony dropped his shrimp. It landed near Voss's hand, and for an instant the two of us stared at it.
+
+Voss got up before I could enjoy the moment. He caught me around the waist and drove me into the corner. The turnbuckle struck my spine. Then my feet left the mat again, this time because he was lifting me against his chest and trying to fold me over the top rope.
+
+I hooked my right foot behind the corner post. The rope bit into my lower back. He pushed. The post leaned toward a table outside the ring, and its occupants scrambled away with their money pressed against their shirts.
+
+I caught the back of his head with both hands and pulled his face into my forehead.
+
+His nose broke against it. His arms loosened. I dropped low, drove my shoulder beneath his ribs, and sent him sideways into the tilting post. Metal rang against his back.
+
+He swung blindly as I stepped out. I took his left wrist and pulled him away from the corner. He turned to follow the pull, bringing his feet across each other.
+
+I let him finish turning.
+
+Then I hit his jaw.
+
+Both feet left the canvas. His back struck the middle rope and carried it outward toward the abandoned table. The rope sprang him forward again. He landed on his knees, blinking, mouth open.
+
+“Stay there,” I told Voss.
+
+He reached for my leg. I hit him once more. His hand fell away and he lay down.
+
+Hậu came through the ropes with a towel. He knelt, checked Voss, and rolled him onto his side. I backed into a corner, breathing through my mouth. My cheek had begun swelling. The people who'd bet against me were having loud disagreements about what they'd actually meant when they handed over the money.
+
+Saint climbed onto the apron holding my jacket. “We need to discuss the flying.”
+
+I took the towel when Hậu offered it and spat blood into the cloth. “Spring,” I said.
+
+Saint looked up toward the clock. “What?”
+
+“Bent my knee. Used the spring.” I wiped my mouth and gave Hậu back the towel.
+
+“Nigga,” Saint said, “knees aren't supposed to come with a second floor.”
+
+Before I could get out of the ring, a man in a white dinner jacket pressed cash into my hand. Another added a watch. A third wanted to know whether I could attend his daughter's graduation.
+
+“Is she graduating from a casino?” Shawna asked from Saint's phone.
+
+I turned toward him. He held the screen out from behind my jacket.
+
+“She called,” Saint explained. “Couldn't ignore family.”
+
+Shawna leaned toward her camera. “You got hit.”
+
+“A little,” I said.
+
+“Move the camera,” she told Saint.
+
+He turned it toward Voss. Two men were helping him onto a stool. Voss pressed the towel against his face and waved off a third man trying to explain the fight to him.
+
+Shawna considered the view. “Fine. Ice before you come home. And don't let anybody give you livestock.”
+
+Bảo waited beside the ring, clapping slowly. His towel was gone and his hair lay smooth against his head. Trinh stood next to him with the amended agreement.
+
+“Welcome to the Wharf Circle,” Bảo said.
+
+I took the pen. My hands had stopped shaking enough to sign, though I kept the paper flat with my other palm. Forty percent. The deliveries protected. I signed and returned the pen to Trinh.
+
+Across the room a lean man in maroon wasn't applauding. His arms were folded. Beside him sat the clipboard man from the afternoon, holding ice against his face.
+
+“Who's the unhappy one?” I asked Bảo.
+
+“Vinh,” Bảo said. “Collections.”
+
+“He should collect better employees,” I told him.
+
+Bảo smiled without showing his teeth. Vinh unfolded his arms and came toward us, eyes on the agreement in Trinh's hand. He stopped close enough for the peppermint on his breath to reach me.
+
+“You made a mess of my van,” Vinh said.
+
+“Your van made a mess of my afternoon,” I replied.
+
+He looked once more at the paper. “Enjoy your room.”
+
+“I intend to.” I moved my shoulder out of his path as he leaned closer.
+
+“Things catch fire in this neighborhood,” Vinh said softly.
+
+I took the new watch and slipped it into his shirt pocket. He froze rather than let the room see him flinch.
+
+“There,” I said. “Now you can tell me what time.”
+
+The man who'd given me the watch applauded again. I kept smiling at Vinh until he stepped away. The watch dragged one side of his shirt down as he walked.
+
+Behind me, Hậu emerged from the ring. He picked up the hot dog he'd left among the water bottles and examined it. The napkin had absorbed most of what had once made it appetizing.
+
+“Hungry?” I asked him.
+
+“Always.” Hậu looked between the food and the bin.
+
+“Come with us,” I said.
+
+He glanced at Bảo. I opened my jacket and showed him the agreement I'd just been handed back.
+
+“Forty percent of upstairs,” I told him. “Should cover fries.”
+
+Hậu dropped the hot dog into the trash and followed us out.
