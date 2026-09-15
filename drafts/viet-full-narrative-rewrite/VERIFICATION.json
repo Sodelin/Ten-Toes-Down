@@ -1,5 +1,5 @@
 {
-  "status": "Complete local books and verified native Google delivery",
+  "status": "Complete local manuscripts, exact native Google delivery, and verified separate public draft publication",
   "sourceCommit": "4f38948aa5fa97f294adfa74a0b7055c399b2826",
   "totalChapters": 111.0,
   "totalNativeWords": 191788.0,
@@ -815,5 +815,6 @@
       ]
     }
   ],
-  "googleLibraryVerification": "GOOGLE-LIBRARY.json"
+  "googleLibraryVerification": "GOOGLE-LIBRARY.json",
+  "publicDraftBranch": "https://github.com/Sodelin/Ten-Toes-Down/tree/codex/viet-full-narrative-rewrite/drafts/viet-full-narrative-rewrite"
 }

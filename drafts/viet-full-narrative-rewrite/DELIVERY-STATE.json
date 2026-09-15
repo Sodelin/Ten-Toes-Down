@@ -1,5 +1,5 @@
 {
-  "status": "Google delivery complete; public branch authorized and prepared",
+  "status": "Complete: local manuscripts, native Google library, and separate public draft branch",
   "localBooksComplete": 4,
   "nativeGoogleBooksComplete": 4,
   "localListeningSectionsComplete": 103,
@@ -25,5 +25,7 @@
   "googleDeliveryDirectlyApproved": true,
   "publicPublicationDirectlyApproved": true,
   "originalsUnchanged": true,
-  "sharingPermissionsChanged": false
+  "sharingPermissionsChanged": false,
+  "publicPushSucceeded": true,
+  "publicBranchVerified": true
 }
