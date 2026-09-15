@@ -1,0 +1,29 @@
+{
+  "number": 6,
+  "status": "verified",
+  "created": {
+    "fileId": "1arOxFzodyOUo6fUBDXNNrshYHP0uSxuQxFe2sczYrr4",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 006 — Chapter 6: The Architect's Bad Idea — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1arOxFzodyOUo6fUBDXNNrshYHP0uSxuQxFe2sczYrr4/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQntL5zYHkq5b9X6njTYHFWi9mrq-1kWQDcRer4-hyUR0Kz9vL3F1haowO1wxKV4drPOppXmYr8Fte1RMXisKvGhHrGj7gRb4A_GQmk",
+  "id": "1arOxFzodyOUo6fUBDXNNrshYHP0uSxuQxFe2sczYrr4",
+  "url": "https://docs.google.com/document/d/1arOxFzodyOUo6fUBDXNNrshYHP0uSxuQxFe2sczYrr4/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 006 — Chapter 6: The Architect's Bad Idea — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQntL5zYHkq5b9X6njTYHFWi9mrq-1kWQDcRer4-hyUR0Kz9vL3F1haowO1wxKV4drPOppXmYr8Fte1RMXisKvGhHrGj7gRb4A_GQmk",
+  "tabId": "t.0",
+  "expectedCharacters": 9263,
+  "nativeCharacters": 9264,
+  "expectedWords": 1629,
+  "sha256": "cc7e8e202d7aab9d8025cd4adce6fff85f621fae6e2da365513146ee437225fe",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

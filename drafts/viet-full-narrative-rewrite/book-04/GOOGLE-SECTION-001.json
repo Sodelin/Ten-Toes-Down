@@ -1,0 +1,29 @@
+{
+  "number": 1,
+  "status": "verified",
+  "created": {
+    "fileId": "13_iVOb7kIvOwzs1X8D2Nh1V1_XdWjmoX4SAYeWCkYQc",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 001 — Chapter 1: A Man of Several Floors — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/13_iVOb7kIvOwzs1X8D2Nh1V1_XdWjmoX4SAYeWCkYQc/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnl2uwGd5HUCWBauNpBu2CpeyiZQGTidxCuIcirGlPv9UhK3G3k2KwJvsZHo6x-jsoliQgkar7rr-Mveem4Qx9oVsN87amgSjLBjow",
+  "id": "13_iVOb7kIvOwzs1X8D2Nh1V1_XdWjmoX4SAYeWCkYQc",
+  "url": "https://docs.google.com/document/d/13_iVOb7kIvOwzs1X8D2Nh1V1_XdWjmoX4SAYeWCkYQc/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 001 — Chapter 1: A Man of Several Floors — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnl2uwGd5HUCWBauNpBu2CpeyiZQGTidxCuIcirGlPv9UhK3G3k2KwJvsZHo6x-jsoliQgkar7rr-Mveem4Qx9oVsN87amgSjLBjow",
+  "tabId": "t.0",
+  "expectedCharacters": 9704,
+  "nativeCharacters": 9705,
+  "expectedWords": 1624,
+  "sha256": "ac809802a0ab03096e5e0270d4a6110201261474386e53ced9206e3a8af18e63",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

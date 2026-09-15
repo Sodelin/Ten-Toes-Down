@@ -1,0 +1,20 @@
+{
+  "status": "verified",
+  "id": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+  "url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV: The King Comes Home — Complete Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQlmP2-x-leTlib2fRPY0CeQLeXBR1LeGx8h4yhyqFtKACcgfYAjfAtlccJevNgzAU0LzXjjNgRpdDbAw1fye_T3Dzk7HJQLDNTLHic",
+  "tabId": "t.0",
+  "nativeCharacters": 268411,
+  "expectedCharacters": 268410,
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 26,
+  "localSha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+  "ownerMatchesConnectedAccount": true,
+  "sharingChanged": false
+}

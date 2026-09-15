@@ -1,0 +1,29 @@
+{
+  "number": 19,
+  "status": "verified",
+  "created": {
+    "fileId": "1g-VncbS2qCwLnb5kwiJBX99ha6N2Afqi0RNyNIIvryw",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 019 — Chapter 19: The Old Men Have Tickets — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1g-VncbS2qCwLnb5kwiJBX99ha6N2Afqi0RNyNIIvryw/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnfvwrQbtXEZRqjjk2PV7LVZSI_Ony3B9wNilC_7mqjLOnZsgwv8pdDLOwRnrL-K7-7EAeyhZJMr7VRoOv4Hb4yu-Uoa4nIX9dTj6U",
+  "id": "1g-VncbS2qCwLnb5kwiJBX99ha6N2Afqi0RNyNIIvryw",
+  "url": "https://docs.google.com/document/d/1g-VncbS2qCwLnb5kwiJBX99ha6N2Afqi0RNyNIIvryw/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 019 — Chapter 19: The Old Men Have Tickets — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnfvwrQbtXEZRqjjk2PV7LVZSI_Ony3B9wNilC_7mqjLOnZsgwv8pdDLOwRnrL-K7-7EAeyhZJMr7VRoOv4Hb4yu-Uoa4nIX9dTj6U",
+  "tabId": "t.0",
+  "expectedCharacters": 11481,
+  "nativeCharacters": 11482,
+  "expectedWords": 1970,
+  "sha256": "a4c7408938e7ab2574718ffc96b171d1847c3208f2befad69600d0c9f297c838",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

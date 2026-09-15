@@ -1,0 +1,29 @@
+{
+  "number": 4,
+  "status": "verified",
+  "created": {
+    "fileId": "1VclvZFikgCeKaQOZRRnViMt8iYqnCXaFOulgQoFxq5U",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 004 — Chapter 4: A Piano in the Pot — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1VclvZFikgCeKaQOZRRnViMt8iYqnCXaFOulgQoFxq5U/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkhRSJc1_aV8_LJPGyV-M3OaP0iWGaL4zWXBPXuwg0wmxvTZk-cyly-bMfiuhJsZxopIOUfQnQVmZvmzju9Uymz2U6aCcdzf10Lqc8",
+  "id": "1VclvZFikgCeKaQOZRRnViMt8iYqnCXaFOulgQoFxq5U",
+  "url": "https://docs.google.com/document/d/1VclvZFikgCeKaQOZRRnViMt8iYqnCXaFOulgQoFxq5U/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 004 — Chapter 4: A Piano in the Pot — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkhRSJc1_aV8_LJPGyV-M3OaP0iWGaL4zWXBPXuwg0wmxvTZk-cyly-bMfiuhJsZxopIOUfQnQVmZvmzju9Uymz2U6aCcdzf10Lqc8",
+  "tabId": "t.0",
+  "expectedCharacters": 10288,
+  "nativeCharacters": 10289,
+  "expectedWords": 1744,
+  "sha256": "37d222aecfecdda27701bdc2466d1a09ca37048bbbcb6a03fa23755e37690f11",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

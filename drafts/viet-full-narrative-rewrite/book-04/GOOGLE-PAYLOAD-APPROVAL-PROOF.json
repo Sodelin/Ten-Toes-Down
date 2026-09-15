@@ -1,0 +1,175 @@
+{
+  "basis": "Root reported that the directly approved preceding delivery question linked this exact ZIP and rewrite-root folder, explicitly describing all four completed novels and listening sections.",
+  "approvedZipSha256": "a4a26172bbf2cb504d5a8e907032a01d45ed62ad41f25cf2b4763aa5b1916385",
+  "entries": [
+    {
+      "entry": "book-04/book-04-native.txt",
+      "bytes": 275090,
+      "sha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-001.txt",
+      "bytes": 9959,
+      "sha256": "ac809802a0ab03096e5e0270d4a6110201261474386e53ced9206e3a8af18e63",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-002.txt",
+      "bytes": 10233,
+      "sha256": "a9052966373605f492b8ff50d099fd50df62ee468b4e09f202f7d6487cdfdda7",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-003.txt",
+      "bytes": 9121,
+      "sha256": "80b1a34ab792f7e7b551a827ec494c97f6d4057dd59d380ab9097016a5927cf9",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-004.txt",
+      "bytes": 10581,
+      "sha256": "37d222aecfecdda27701bdc2466d1a09ca37048bbbcb6a03fa23755e37690f11",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-005.txt",
+      "bytes": 10447,
+      "sha256": "0f71fb044f5d76812c034b800427394919e5b5cebd1a7d1aa9c6a8feb06fa328",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-006.txt",
+      "bytes": 9491,
+      "sha256": "cc7e8e202d7aab9d8025cd4adce6fff85f621fae6e2da365513146ee437225fe",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-007.txt",
+      "bytes": 8843,
+      "sha256": "378840888f587abbbd24763884c19b336757758784a7aa2ceb81454c1387724f",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-008.txt",
+      "bytes": 11364,
+      "sha256": "02d3ec4cb85d91f3df31fa21dde2b3310731686f74134c063cac135be4925c9e",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-009.txt",
+      "bytes": 8911,
+      "sha256": "ce396a7e13b3ba0f98988d0ead988d443a46878369eca4ab9764498a2395695a",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-010.txt",
+      "bytes": 8626,
+      "sha256": "17ed90d1f9d87420970338e2e010246627afa260654991fcde2718339dfd882c",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-011.txt",
+      "bytes": 9832,
+      "sha256": "2fbe46f76fb33cb5de7cbf66e3cf5005927f73136cb1a72f9760e89b2cc19704",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-012.txt",
+      "bytes": 11140,
+      "sha256": "50df3487f2d76d8565d41495a5afbaefa27ca7e616d35e4ab93abb96bda378aa",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-013.txt",
+      "bytes": 10587,
+      "sha256": "53ae5983dd2645a9dc0dead4454fd83fc9b622ecce28251617b4057b44cd7040",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-014.txt",
+      "bytes": 9408,
+      "sha256": "1e156ef94bf0a2b8f6c282e02b0243c3c48c3bbcdb6a1dccd78759da4994bb60",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-015.txt",
+      "bytes": 10753,
+      "sha256": "f50f5b37e3f95c6dc131b2adb30f34ea32248582c61f80653e630417102168a2",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-016.txt",
+      "bytes": 10027,
+      "sha256": "fce1d4b05a84f57571b8ad379bac9cf57b68635597fccdea4a3a03de13647386",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-017.txt",
+      "bytes": 11846,
+      "sha256": "da95c60d097ebafd154e8d3c4e596e06aa1c2456386d4d703b3e787a40f2b586",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-018.txt",
+      "bytes": 11372,
+      "sha256": "9b701584ff2e0bd5196373ab9a1c8f92dd27e02c5316b5a796e5ed574632c895",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-019.txt",
+      "bytes": 11827,
+      "sha256": "a4c7408938e7ab2574718ffc96b171d1847c3208f2befad69600d0c9f297c838",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-020.txt",
+      "bytes": 11248,
+      "sha256": "b404247e0f942372ed19f6c4763cbb0862341cc53febcf89ba8a8184c7891dcd",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-021.txt",
+      "bytes": 10210,
+      "sha256": "9e9c854f1e3b746905aac8d4c826f38c73e688e87be5f4f4fab3ba8b2f55a3a8",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-022.txt",
+      "bytes": 10575,
+      "sha256": "f01c5d9f8dab3ba2d809281d9e1a53918fc27a1115505ebbbf1d46fab38aae16",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-023.txt",
+      "bytes": 11716,
+      "sha256": "999ffe4dcf0473772e9a8cf45d317df9ab8f67cc9fccb4d282c6c3a3268d9d67",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-024.txt",
+      "bytes": 11772,
+      "sha256": "d8805145eb59adb9be811397a5741f8ab74282c516415ea491826c471f4511db",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-025.txt",
+      "bytes": 13829,
+      "sha256": "93d9e29362df20c79a41e6bb84d748ee89f07b58bfc21ebeaa02f743dcd3f3c6",
+      "localMatchesApprovedEntry": true
+    },
+    {
+      "entry": "book-04/listening/section-026.txt",
+      "bytes": 11372,
+      "sha256": "1f62c0106c8aba50cd7e7e4731721f811038492dffe704e54d7907369c6d1900",
+      "localMatchesApprovedEntry": true
+    }
+  ],
+  "approvedRewriteRoot": "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx",
+  "bookFolder": "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+  "fullDocumentId": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+  "connectedAccountMatchesOwner": true,
+  "fullDocumentParentMatchesBookFolder": true,
+  "bookFolderParentMatchesApprovedRoot": true,
+  "sharingChanges": false
+}

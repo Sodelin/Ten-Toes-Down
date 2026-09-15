@@ -1,0 +1,704 @@
+{
+  "status": "Complete: full Google manuscript and all 24 listening sections verified",
+  "authorization": "Direct user approval relayed by parent task on 2026-09-15 for Google delivery and separate public draft publication; this worker owns Google delivery only.",
+  "parentFolderId": "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx",
+  "sourceFullFile": "book-03-native.txt",
+  "sourceSha256": "abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25",
+  "localWords": 41399,
+  "sectionCount": 24,
+  "folder": {
+    "success": true,
+    "id": "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS",
+    "url": "https://drive.google.com/drive/folders/1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS",
+    "title": "Book III — The River's Weight — Codex Rewrite",
+    "parent_id": "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx",
+    "parentVerified": true
+  },
+  "documents": [
+    {
+      "kind": "full",
+      "localFile": "book-03-native.txt",
+      "created": {
+        "fileId": "1ZHg8rqnLExhjITAvLiTH8YjELtuIaJwnSA-RvQC_V9g",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling — Book III: The River's Weight — Complete Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1ZHg8rqnLExhjITAvLiTH8YjELtuIaJwnSA-RvQC_V9g/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "documentId": "1ZHg8rqnLExhjITAvLiTH8YjELtuIaJwnSA-RvQC_V9g",
+      "url": "https://docs.google.com/document/d/1ZHg8rqnLExhjITAvLiTH8YjELtuIaJwnSA-RvQC_V9g",
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQlNrIfda4xTyJOlnQ_UHbXBAnam6qCm_dB-CGyLQ7wRawMrZ7DhFdMKJojkYPu2CQdwktNjTRBAmx2bi2VQJXOaEmRsyoxRpOxMv1U",
+      "rejection": "This action was rejected due to unacceptable risk.\nReason: This batch update exports the full private Book III manuscript to Google Docs; although Google delivery was approved in general, the specific destination/account is unverified and the policy requires authorization for that payload to that destination.\nDo not bypass this rejection through a workaround or indirect execution. Continue with a safer alternative, or carry out checks to prove that the action is authorized or low risk before trying again. Complete unaffected work without asking for confirmation. Report anything that remains blocked, clarify why it was blocked by auto-review, inform the user of the risk and ask for approval.",
+      "parentVerified": true,
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "readbackRevision": "ANLCKQmtxVK5U8LTjk4pEIWzlIRydqK3MA01eD5aYKNToFL8TzyPJCmQDw1uy_eCeKLhHkre1xD5CsWqavIMCGDBnwUA9oIo-XjWTrooETQ",
+      "characters": 242161,
+      "words": 41399,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "sha256": "abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25",
+      "headingCount": 29,
+      "rejectionResolved": true,
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 1,
+      "localFile": "listening/section-001.txt",
+      "documentId": "16mwUOCgLmgVC-1Np3OLBlFqmPsw3Z0Fi15ntg-0E2xI",
+      "created": {
+        "fileId": "16mwUOCgLmgVC-1Np3OLBlFqmPsw3Z0Fi15ntg-0E2xI",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 001 - Chapter 1 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/16mwUOCgLmgVC-1Np3OLBlFqmPsw3Z0Fi15ntg-0E2xI/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQlCtT-hakUbFysKnRfrieNtHHPZH2F7rbYOG3b6Sa9T8XT13hUUFB7WSWXsjfnZM7_fz2yKr7NmIKmpnFPcL5sOvXdlwV7azSJ_fAo",
+      "url": "https://docs.google.com/document/d/16mwUOCgLmgVC-1Np3OLBlFqmPsw3Z0Fi15ntg-0E2xI",
+      "readbackRevision": "ANLCKQnVIpuH_5kw6hH3Yk_wKR_U-q94aKB43mFBfyEp8oFQiB10bjJI4qIfDo7LaQ6mxXoRE_LAE5BGKvWMF9Ny6FoTVQjnnz4BM6cQLMw",
+      "characters": 11114,
+      "words": 1904,
+      "sha256": "7b026a08be2b0fa3fb0011b6e6e9a8b1b5603534882b787cb41d1a5b1915bdfa",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 2,
+      "localFile": "listening/section-002.txt",
+      "documentId": "1fRMM7PWTrs3EPHuOKZIjypsvFbNYeCxOYRGbrq57FJg",
+      "created": {
+        "fileId": "1fRMM7PWTrs3EPHuOKZIjypsvFbNYeCxOYRGbrq57FJg",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 002 - Chapter 2 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1fRMM7PWTrs3EPHuOKZIjypsvFbNYeCxOYRGbrq57FJg/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQnHB5WkZH9xsjX0bHB7_Y5akXJMNKtgLg8nYy-nOJajXGcLLe39evF2mbM1VyH5cwcCJXEWctFjF-uJFXFhiq9NdMVqn0IAGgSJFm8",
+      "url": "https://docs.google.com/document/d/1fRMM7PWTrs3EPHuOKZIjypsvFbNYeCxOYRGbrq57FJg",
+      "readbackRevision": "ANLCKQlYUKzuSZ1iqolFRJ2y_7SfQukRybFl0Y-0s8233HLGLF8kuiKgTCTyYWhdFAG0O0yFRVBwQWxuQcIpfgfIpV_nhLjjqumgpkGXhMA",
+      "characters": 8812,
+      "words": 1512,
+      "sha256": "3c6aded25e7ecbf766b3f40b8c95b2cb1a87198f656984d5d94d4aa81bf9b533",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 3,
+      "localFile": "listening/section-003.txt",
+      "documentId": "17Tp2Vj2LzFy1o6JWugpxyVijRnV1DQ0YiUtvDGfXwys",
+      "created": {
+        "fileId": "17Tp2Vj2LzFy1o6JWugpxyVijRnV1DQ0YiUtvDGfXwys",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 003 - Chapter 3 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/17Tp2Vj2LzFy1o6JWugpxyVijRnV1DQ0YiUtvDGfXwys/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQkxKWqhLkXjBGuIEyXorVIQNbaptf3bl_4d7GQe2SReM_j_lB7-GTw3gcqhgM9ucJug-BEivx-bKPicfKipM8aABrtjPl3AVAqfrFw",
+      "url": "https://docs.google.com/document/d/17Tp2Vj2LzFy1o6JWugpxyVijRnV1DQ0YiUtvDGfXwys",
+      "readbackRevision": "ANLCKQmPYso-1eGDxyKdSoLHQk0De1CvQuho8QgdAV-sZqmlP9-b7JmlFFxgFcQnoapfBV2tQjEu-HYudq6J9_ai7WmLxSNlJB7PwtVuljU",
+      "characters": 10206,
+      "words": 1733,
+      "sha256": "f1a33ab67bb5596ab366ec1111f80a5fc4fe03449a693fed0e163968926419ed",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 4,
+      "localFile": "listening/section-004.txt",
+      "documentId": "1bR0saMDdAdp4ZgZFa7ggESRs55BbqjwjpFqxN_t0nPs",
+      "created": {
+        "fileId": "1bR0saMDdAdp4ZgZFa7ggESRs55BbqjwjpFqxN_t0nPs",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 004 - Chapter 4 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1bR0saMDdAdp4ZgZFa7ggESRs55BbqjwjpFqxN_t0nPs/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQks8LNqAWYkzEXDsG9eMDXY7ECM5lp2lNtEl3DdbQixnEdBS6Gv6DZel60J2GorEviR5_nI6gnS9wGKUeHTI-OJAsNGIfpowv5cFCQ",
+      "url": "https://docs.google.com/document/d/1bR0saMDdAdp4ZgZFa7ggESRs55BbqjwjpFqxN_t0nPs",
+      "readbackRevision": "ANLCKQlV_MVZcUC_zKAG66Ud5M0TYgxccAyDLye1YThhzCrtNTEb-UVmiCeLVBz-HEyXmD8HrujcKYU1gyVqENtTIZ8YIVFXw3q0NE3We68",
+      "characters": 8403,
+      "words": 1442,
+      "sha256": "9900cb44ebdf4e5301b9f98b97723b7b2adc8a7db56cc4bd07d03b7b44ba164f",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 5,
+      "localFile": "listening/section-005.txt",
+      "documentId": "1fdF6axW6a1hT_hdpEp47Mp_HkUbq_AHKy1HGOquRDf0",
+      "created": {
+        "fileId": "1fdF6axW6a1hT_hdpEp47Mp_HkUbq_AHKy1HGOquRDf0",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 005 - Chapter 5 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1fdF6axW6a1hT_hdpEp47Mp_HkUbq_AHKy1HGOquRDf0/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQn8f4mZ6fGTx1b730rFt2tmkaDbboowkJwJVw_hednIr7RFAlZkqhiDnexSVJR0oK4OYan28lpFhNJxzKlH7KqJ64JQ_549fxN97LU",
+      "url": "https://docs.google.com/document/d/1fdF6axW6a1hT_hdpEp47Mp_HkUbq_AHKy1HGOquRDf0",
+      "readbackRevision": "ANLCKQkuPKNQAyTs6LCV98hX4BoxlQIHv7cwTMP_KxokslikG-jkc7DOPeAYmRlSe83qPkBXjdItQ88OmWetLjISjgeE30GljM2U9ZZedu0",
+      "characters": 8520,
+      "words": 1455,
+      "sha256": "1661b933eab5a264d52df72630e6a3e0094e11df536baad1ecb77779eefa498c",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 6,
+      "localFile": "listening/section-006.txt",
+      "documentId": "1Qch4EBlwmQZ5e3xRPmbV62L1nKY44GHv9WIaYAxEMNU",
+      "created": {
+        "fileId": "1Qch4EBlwmQZ5e3xRPmbV62L1nKY44GHv9WIaYAxEMNU",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 006 - Chapter 6 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1Qch4EBlwmQZ5e3xRPmbV62L1nKY44GHv9WIaYAxEMNU/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQlThjhj90VqRQcfQ-byAZQWpvy-thMTGU4oQmXQo4W7cD1u9-Yt_hG-aVDjAfekzV1HRA6J650xLBsqLSGqd77iWyOSI3jrwAdbFWY",
+      "url": "https://docs.google.com/document/d/1Qch4EBlwmQZ5e3xRPmbV62L1nKY44GHv9WIaYAxEMNU",
+      "readbackRevision": "ANLCKQlbVWjBatzvKAztjrghAzpaVrnKvVnlo2QkFxgFRPzwN2us7vHssIkslhpMq4E6wTKI5aF_vphecFJvQP4G-vY-WwXSTXCoIw8Dok8",
+      "characters": 8879,
+      "words": 1530,
+      "sha256": "a209c1714083cf6fe45b0fc856ac733934c0a566c2e61e7dced70f0d286e6fae",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 7,
+      "localFile": "listening/section-007.txt",
+      "documentId": "1g_MQ-HK9oBQZuXB8OiyYzSjDX75yQRuS4Kqrs5L7aZ4",
+      "created": {
+        "fileId": "1g_MQ-HK9oBQZuXB8OiyYzSjDX75yQRuS4Kqrs5L7aZ4",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 007 - Chapter 7 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1g_MQ-HK9oBQZuXB8OiyYzSjDX75yQRuS4Kqrs5L7aZ4/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQn4PLWcTUnE2a7fsAZfVvBvga9U-DatjTl-nRaPei_jO0vvJJAQTJglz0C_n7m9ZX0-Zkyix9VdgSdioRdpq9s7asy15QK-THnoH_o",
+      "url": "https://docs.google.com/document/d/1g_MQ-HK9oBQZuXB8OiyYzSjDX75yQRuS4Kqrs5L7aZ4",
+      "readbackRevision": "ANLCKQnMRroiJNv1tMWUVvwjSuMHK-n8uJ7JVhaSXMRAbNpX2I7tagHZxbBysE9mbx7lPMKflyTimHY4KO8QYTOpJOLsF5bJq5uyDyp5lCg",
+      "characters": 9214,
+      "words": 1583,
+      "sha256": "2121bebfe374a06574da87ae915c47e1969287b375e10b93f5b96eb4313c8905",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 8,
+      "localFile": "listening/section-008.txt",
+      "documentId": "1WT2JKX9FpoLPDFV_LwHywX7U-Xfko1x9iqAl1n8olTM",
+      "created": {
+        "fileId": "1WT2JKX9FpoLPDFV_LwHywX7U-Xfko1x9iqAl1n8olTM",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 008 - Chapter 8 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1WT2JKX9FpoLPDFV_LwHywX7U-Xfko1x9iqAl1n8olTM/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQkVnAUX-ZzlWQ7umF6JT2KT5edn0US4VnygOJ1xzg5x96l9fptRapo5peIQLhXOXVCMR9NBEqHulJx2evWzQQ8yLOtX3XCwxcjAbCs",
+      "url": "https://docs.google.com/document/d/1WT2JKX9FpoLPDFV_LwHywX7U-Xfko1x9iqAl1n8olTM",
+      "readbackRevision": "ANLCKQlhuI-onYjvkx2ToUnNq35AAfXcJ2k10WqcpXHZgg_DMQounUVW8CUg-UpsHkQm4FJs72b6X-bxN-_fR247YuusVsI3oXP2SNFfYPw",
+      "characters": 9106,
+      "words": 1532,
+      "sha256": "324db6ccc04b37e3208a52783472631b245ebc4775f9e70234d7d7eebf74088e",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 9,
+      "localFile": "listening/section-009.txt",
+      "documentId": "13n_JWckQlzEAf2aUrAXoZUxczr8bvvklG1sKxMqIOzI",
+      "created": {
+        "fileId": "13n_JWckQlzEAf2aUrAXoZUxczr8bvvklG1sKxMqIOzI",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 009 - Chapter 9 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/13n_JWckQlzEAf2aUrAXoZUxczr8bvvklG1sKxMqIOzI/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQm7fZEHYItGPjJeylL9_RhiglSlG13t5FxASsMNmHPobFocZLoH__exgLqu9YdGgemYoo-d9O9t8_XvuhpOP7fKW7F98kCUHmSihU8",
+      "url": "https://docs.google.com/document/d/13n_JWckQlzEAf2aUrAXoZUxczr8bvvklG1sKxMqIOzI",
+      "readbackRevision": "ANLCKQl1izt1Xx1Guq_4Zpx4NzxZpswhdz_ac7oAlXzex84rfl6mft0tLnorTFW0DukLCBTpztfmuyeWUrzGDdvTH_QOaDzKIeOqTYKbNeQ",
+      "characters": 8254,
+      "words": 1418,
+      "sha256": "d69331dd3956a20521a8634d8934bad698a25b559be4d828c6e85d83945ccd7b",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 10,
+      "localFile": "listening/section-010.txt",
+      "documentId": "1UIItdA4vuaHSJzhchP9Ypg691-dhdiRrBzehmFRNFUk",
+      "created": {
+        "fileId": "1UIItdA4vuaHSJzhchP9Ypg691-dhdiRrBzehmFRNFUk",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 010 - Chapter 10 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1UIItdA4vuaHSJzhchP9Ypg691-dhdiRrBzehmFRNFUk/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQl78BcrucsQXwDbHi6REzQi2sVB7lxVC8GDFH2kslVve-DDcWIPp1eHmKQ4_TPigpwFm5c0orgFY0KjOwcQLD_GdreyvTg6MXQkQdg",
+      "url": "https://docs.google.com/document/d/1UIItdA4vuaHSJzhchP9Ypg691-dhdiRrBzehmFRNFUk",
+      "readbackRevision": "ANLCKQlp27yWxY2iSFtDPGksawXA3lD89SNivlt3ZI7jzqrX7nRmOtM6jMF0mHrwbYCeEMtyaE3HoNyTUycnd1ZTQZg5-1Uufp0H2vu4Nws",
+      "characters": 8676,
+      "words": 1488,
+      "sha256": "fee8326f72c56b6a8b243e6d6c7d02b49fd9fa396186a44c55d129a117858b52",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 11,
+      "localFile": "listening/section-011.txt",
+      "documentId": "1GoRfjaIPkMnnwEpX9iwriuBmBSSAP3IRxEyd1fZnYzs",
+      "created": {
+        "fileId": "1GoRfjaIPkMnnwEpX9iwriuBmBSSAP3IRxEyd1fZnYzs",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 011 - Chapter 11 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1GoRfjaIPkMnnwEpX9iwriuBmBSSAP3IRxEyd1fZnYzs/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQltfYERGSwYYXvubG8zmQ1e8Sn9Hf2GFMNCfHTnNIK3Cg4w9BzEmkXAPvekzWGd3LgWCxVZmKj0aqPUxS6MdeimmZD_8tfLHvbPP6I",
+      "url": "https://docs.google.com/document/d/1GoRfjaIPkMnnwEpX9iwriuBmBSSAP3IRxEyd1fZnYzs",
+      "readbackRevision": "ANLCKQkm_3oVnqj87C4xN2cT6ObTtVZLYCIW7Zen4dc-6ttY9MDsA6qdlPnpITrzRSg3D5syFEyPZ_lpwaK01cCmAk-yRT49TzyEy8vaoqI",
+      "characters": 7664,
+      "words": 1298,
+      "sha256": "0a93079f7b214060db061c24abbf25e09d5614c72706abe22544ab00ebd62b03",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 12,
+      "localFile": "listening/section-012.txt",
+      "documentId": "1GCKXT2-P4eoy2P0pR5T5247IRMkvkgLfeY3b1hbLtH8",
+      "created": {
+        "fileId": "1GCKXT2-P4eoy2P0pR5T5247IRMkvkgLfeY3b1hbLtH8",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 012 - Chapter 12 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1GCKXT2-P4eoy2P0pR5T5247IRMkvkgLfeY3b1hbLtH8/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQmmRqVgHsz5i_R-fm02eaHHUMsPDsAgOgo0Lmd1DKpFYhSpBNY-4DUMVHxLEx1rrS4alVHXNqJKyJFVXE8WzPzIsi89vK3pPzEcf5k",
+      "url": "https://docs.google.com/document/d/1GCKXT2-P4eoy2P0pR5T5247IRMkvkgLfeY3b1hbLtH8",
+      "readbackRevision": "ANLCKQksoHCC1Uk59z57fng2XO9OYKkobTPkPuwuZ6qW-F3YLC3f91su49s9VnK4ssb8alYMTY2XChMGZtlAXzAsqbbfumSWN3YMx7eU9rE",
+      "characters": 8331,
+      "words": 1423,
+      "sha256": "1374ed8fe93e4d9dfc68899844aa770f2370c54243a0be6b223ef6f8b16b9d9f",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 13,
+      "localFile": "listening/section-013.txt",
+      "documentId": "1_Kg5o7YoayTcPugFvenRT00PPRNUGBqUuRYmq_t6hUo",
+      "created": {
+        "fileId": "1_Kg5o7YoayTcPugFvenRT00PPRNUGBqUuRYmq_t6hUo",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 013 - Chapter 13 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1_Kg5o7YoayTcPugFvenRT00PPRNUGBqUuRYmq_t6hUo/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQmRL1fpnBSCYLvgJ-wzmRNIG79PzlXFV6Y5NgdjY60D9h8Zz4sYusUabCsweKibIviSFszWKlBfuqHh-lNo5FVKob1b-r0-Inseyw0",
+      "url": "https://docs.google.com/document/d/1_Kg5o7YoayTcPugFvenRT00PPRNUGBqUuRYmq_t6hUo",
+      "readbackRevision": "ANLCKQkULl-X-OZ8MrrPeK9WTtrpIBtWeCM0uU5iw2CQTa3NqvKOvPiQePxJSi4T-tYLxX0gi33GtJjKZkcOLwiel2IOuKJtLDyYW3hI460",
+      "characters": 11240,
+      "words": 1945,
+      "sha256": "b7f3c489516be3ba1f055cd876366643477ddf530191be4bedccc0e2a71e1f3e",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 14,
+      "localFile": "listening/section-014.txt",
+      "documentId": "1FD3cvdlhTE3kbieZ1bdWI4A0KqhjadOfMI5mUq64g9Y",
+      "created": {
+        "fileId": "1FD3cvdlhTE3kbieZ1bdWI4A0KqhjadOfMI5mUq64g9Y",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 014 - Chapter 14 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1FD3cvdlhTE3kbieZ1bdWI4A0KqhjadOfMI5mUq64g9Y/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQleXQsdXjwNiveflgKiRhBHwzAL3EHH-7xdMao_SDa0OSyBd-9sscbdjFmmDdFAPWfyGgqMN-RJZI51cGKGi2LBSSdN-osyraYGNqM",
+      "url": "https://docs.google.com/document/d/1FD3cvdlhTE3kbieZ1bdWI4A0KqhjadOfMI5mUq64g9Y",
+      "readbackRevision": "ANLCKQnZR1CEQUSS5gCm9w-I9Okv141dsfhwQs0_U_Uc5sQQWYaR8SVaCsjf0j9tWziqf53Q26p9e0ReCxCwaNNuJNJNifxYn4t9dXF5aMg",
+      "characters": 7729,
+      "words": 1363,
+      "sha256": "f61782146a7d43f175f5d98313cb441a6248bbb066f7b2688edc9baf3906afa6",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 15,
+      "localFile": "listening/section-015.txt",
+      "documentId": "1_0SAHX9dUDj5QKIBwNM6WO7Vz3Lj81ux6efQDHlhae8",
+      "created": {
+        "fileId": "1_0SAHX9dUDj5QKIBwNM6WO7Vz3Lj81ux6efQDHlhae8",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 015 - Chapter 15 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1_0SAHX9dUDj5QKIBwNM6WO7Vz3Lj81ux6efQDHlhae8/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQm6PiQV8vyimSDSbLyeWd1LVirWdtup5LJFT32QEqDOWTORb6qbl1xfo0zh3xAfDV9ISip9WK6weoOehJePQMPziUDPHWtJBbBY9B8",
+      "url": "https://docs.google.com/document/d/1_0SAHX9dUDj5QKIBwNM6WO7Vz3Lj81ux6efQDHlhae8",
+      "readbackRevision": "ANLCKQmlRNwI4gAJtvZSJx3vQqQbhVJ5Hu-iOOP_PTkksWQB4w8oHhp0wc804uz36SEVEei_76SXBYJuhwrZdCcY14hW4yuu5wXnte6CQlM",
+      "characters": 8879,
+      "words": 1543,
+      "sha256": "71b34140d59195ea3481104f21224e35ef0d7addb4ee0bc3636a30e6fbd759da",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 16,
+      "localFile": "listening/section-016.txt",
+      "documentId": "1wlCrHyr0TOuJ7-spBGf11P2ntCg0ffpYtusMWcHcRfg",
+      "created": {
+        "fileId": "1wlCrHyr0TOuJ7-spBGf11P2ntCg0ffpYtusMWcHcRfg",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 016 - Chapters 16-17 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1wlCrHyr0TOuJ7-spBGf11P2ntCg0ffpYtusMWcHcRfg/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQlJs_h5lHovIS50YJTmLY8zFg-U2JBG9o1i8NY7okODyfE7sbd4ua7fxUxQcsHiF7OSVLpI4-NCrEpdLu3WldPr-BFsunuGeW-h-xE",
+      "url": "https://docs.google.com/document/d/1wlCrHyr0TOuJ7-spBGf11P2ntCg0ffpYtusMWcHcRfg",
+      "readbackRevision": "ANLCKQlUwZhmNILy8p0WpnVThU3Ah9BVrV6_CdV5JD9fdHYjx3_8U5Qf3misH7QsMu02pjYcW8oJk1sFv03oiWqxJ5aRmPkgm5b6GyuIOsg",
+      "characters": 14718,
+      "words": 2524,
+      "sha256": "ad3e951b35d6732471c17d44763fb46343832e66648f3c5e5199ca69015a07c3",
+      "headingCount": 2,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 17,
+      "localFile": "listening/section-017.txt",
+      "documentId": "1CJgawj2Oszqy77BzKIGLj1VvcqU7CZyWab_DiB3m6qs",
+      "created": {
+        "fileId": "1CJgawj2Oszqy77BzKIGLj1VvcqU7CZyWab_DiB3m6qs",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 017 - Chapters 18-19 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1CJgawj2Oszqy77BzKIGLj1VvcqU7CZyWab_DiB3m6qs/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQmSLfFiXTdKQ0pQMOFotoWv1xnU0KrC__mtFOCW6wrC9p43L9uBkSWYGJ6iN9qAmTCzfvd-mUzb1Tmw24VX7PPXid67LMyMDQS7JNA",
+      "url": "https://docs.google.com/document/d/1CJgawj2Oszqy77BzKIGLj1VvcqU7CZyWab_DiB3m6qs",
+      "readbackRevision": "ANLCKQl68PEou8dU5Hz5LtK3Pl3C-x8UhTIs3zNs3-romJBm9YCgrhwZat5j5Kz37XYU8pbi5q4iAg4NCY1rAJ_6TejgJLJcRh9J4j0S_do",
+      "characters": 15090,
+      "words": 2568,
+      "sha256": "3e0b2e053e553858b12bd0cb6f58a7672ebe6e4ca27de9bd52df5bafe287849c",
+      "headingCount": 2,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 18,
+      "localFile": "listening/section-018.txt",
+      "documentId": "1kXBM_mc1uAC-BJbi3-72zxLbFP1UXutCbRiSLO3fbuI",
+      "created": {
+        "fileId": "1kXBM_mc1uAC-BJbi3-72zxLbFP1UXutCbRiSLO3fbuI",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 018 - Chapter 20 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1kXBM_mc1uAC-BJbi3-72zxLbFP1UXutCbRiSLO3fbuI/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQlpMaswJyMhggx1vov2fELL9Bi4NrB7zi9tU5TKfV-enq9CSxESHlZu0ziBmcSn__iVs3IyUjg2vQAmbQdTcg4EEJ4hopqTyjIGN78",
+      "url": "https://docs.google.com/document/d/1kXBM_mc1uAC-BJbi3-72zxLbFP1UXutCbRiSLO3fbuI",
+      "readbackRevision": "ANLCKQmCvYKRL288CE0KpUSBDbiM2ps8LEKIUTzldQ6jpBsRkkZFlJ8NqpEuEHAiD97req2xVTpNQm9XyCpKOpCuYepJkHyx5VkVrFy4AGo",
+      "characters": 8454,
+      "words": 1484,
+      "sha256": "f54595604c7300e1032deb5564e531b2bd555998a98be2fd44b1562e4261afab",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 19,
+      "localFile": "listening/section-019.txt",
+      "documentId": "1n7D4uPnU7EB1NGdw2yXwX5Gy9RrWcFr3AG954wEIqrg",
+      "created": {
+        "fileId": "1n7D4uPnU7EB1NGdw2yXwX5Gy9RrWcFr3AG954wEIqrg",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 019 - Chapters 21-22 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1n7D4uPnU7EB1NGdw2yXwX5Gy9RrWcFr3AG954wEIqrg/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQliKYRyBXupGfQR5-fKZaOkhPCnAnB4CioZ65GppU9rLDT8LP3E8eMlPbbpI13-zfaIIn4J5uZ9z8n6M3YHkUApgU1tIgGhmLWIoyo",
+      "url": "https://docs.google.com/document/d/1n7D4uPnU7EB1NGdw2yXwX5Gy9RrWcFr3AG954wEIqrg",
+      "readbackRevision": "ANLCKQnv51hOuAnT8CIijp7NjyNYQHh_X9yG3rbIQfQ8E7Nr3mOegHtZBYz_NetVb6YToKzuxTfeCLvP7ePdfJ1AF1szDhoISrPOUqXkkd8",
+      "characters": 14648,
+      "words": 2516,
+      "sha256": "9b3b7aa0443f0d4651d1dde6e0a9503f01343475fd44ef432c326f5d6e6e2e0e",
+      "headingCount": 2,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 20,
+      "localFile": "listening/section-020.txt",
+      "documentId": "1wNoVssT82pC2cwJPJs06ioLeTqZWhtc08DM0TfYXH14",
+      "created": {
+        "fileId": "1wNoVssT82pC2cwJPJs06ioLeTqZWhtc08DM0TfYXH14",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 020 - Chapter 23 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1wNoVssT82pC2cwJPJs06ioLeTqZWhtc08DM0TfYXH14/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQn6fRIXKEYdVH9qqZY-2m_EQgXm4aI6ZDqFsCvnGY0EMgp5oV-MW813uoQ-xK-gJSzkwdLNSs8wMQivmp3kmC3hog7lDQB4agmpT4w",
+      "url": "https://docs.google.com/document/d/1wNoVssT82pC2cwJPJs06ioLeTqZWhtc08DM0TfYXH14",
+      "readbackRevision": "ANLCKQkGLBGmNpOTwrYf3WruJpE_X8jxMUc8RhDi8ZK7qo5rt37j9C2_KEm79ClNSBz8SHfXYqpShpfDDmw0LVPY0aUOf9DML8wqERN4AMo",
+      "characters": 8094,
+      "words": 1384,
+      "sha256": "9bc2437782379b8271ee2438996ede5c188da02c9dbbf6180d094d1eeab13f42",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 21,
+      "localFile": "listening/section-021.txt",
+      "documentId": "1f-x4zebgHVDLaeR3LS-MjtVAhOSk-55NkcGk9DM7k-E",
+      "created": {
+        "fileId": "1f-x4zebgHVDLaeR3LS-MjtVAhOSk-55NkcGk9DM7k-E",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 021 - Chapters 24-25 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1f-x4zebgHVDLaeR3LS-MjtVAhOSk-55NkcGk9DM7k-E/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQmLSELRoVbTViKO9bj67gz7mk5yW5nFWn7uIYhVZzcaZRyAeTHAzdP68YwA5hlAxhG2ihq58ubflEpUB3Q3CT4XHyrYHqUUVT3mEfw",
+      "url": "https://docs.google.com/document/d/1f-x4zebgHVDLaeR3LS-MjtVAhOSk-55NkcGk9DM7k-E",
+      "readbackRevision": "ANLCKQnGKEcVry--DmHn-OLzQ9H7elnF0O5Mtbxes74VjPvp5fK0uXhkChnz1iYP6TiC83N9h55AK11X_5BXtMJoeujRvX6odOPIS3CsU9g",
+      "characters": 14744,
+      "words": 2492,
+      "sha256": "0f1c56ccbbeb85ef52111062e339173762348a6a1b0f7adcde665e240a600498",
+      "headingCount": 2,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 22,
+      "localFile": "listening/section-022.txt",
+      "documentId": "1LoV6NavRS9mDz2fVpUMyO6ly8YSynsXiTw2291z2JKY",
+      "created": {
+        "fileId": "1LoV6NavRS9mDz2fVpUMyO6ly8YSynsXiTw2291z2JKY",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 022 - Chapters 26-27 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1LoV6NavRS9mDz2fVpUMyO6ly8YSynsXiTw2291z2JKY/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQnW7hNo_1jL_j2-PYzEwk9qHgX99yLncLlwOHySBQfjPPtFRjAwHjzL2rH4UUe1NAzZkRpZO5HDqGxfajDpzZj2U_nTyv9qFNByV90",
+      "url": "https://docs.google.com/document/d/1LoV6NavRS9mDz2fVpUMyO6ly8YSynsXiTw2291z2JKY",
+      "readbackRevision": "ANLCKQlTxG7GHRM9BoWFP5HsMWCM0kT6SWZn1AFw1bADC45J2KUNSYXMZF2bTXUchQ6e0z-kmaHPVR7CpIk7GDlhx977zRqlSaURpYreDTg",
+      "characters": 15027,
+      "words": 2507,
+      "sha256": "932440f49b5b6212728ef99dea2ae6f7936d9e21120fdbcdaf811b227322af79",
+      "headingCount": 2,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 23,
+      "localFile": "listening/section-023.txt",
+      "documentId": "1teSDnYqrmeVlOyRX2UFSxhQMCEcAOJswvGYchd8eDCM",
+      "created": {
+        "fileId": "1teSDnYqrmeVlOyRX2UFSxhQMCEcAOJswvGYchd8eDCM",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 023 - Chapter 28 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/1teSDnYqrmeVlOyRX2UFSxhQMCEcAOJswvGYchd8eDCM/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQkTEuywuTi921R2Awigz06S-BmNEUvh2C-K0Lwnl8M6Se8I5Cnkj5qdy4MI_XRulSiEE-UUX8ARadEDhNpZRYzciwHe5ywugFqpJ2U",
+      "url": "https://docs.google.com/document/d/1teSDnYqrmeVlOyRX2UFSxhQMCEcAOJswvGYchd8eDCM",
+      "readbackRevision": "ANLCKQmkjUyMx6RKsHVnYSVxgJbsE3e5iK9_9ULzk0WpfaJxFAeLW3zrg_Vq_By4Xmw4sM6BruVextq2jpeCbeoYNt4PfQ94cb9F7GvToE8",
+      "characters": 7630,
+      "words": 1321,
+      "sha256": "cabaeecf088bc51e8d9efdc03a868cd36cb472a201eef74f72b074d94e18dac6",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    },
+    {
+      "kind": "listening",
+      "section": 24,
+      "localFile": "listening/section-024.txt",
+      "documentId": "16UjZxfSrPIAVbczvw8wT6nCxqUAqlpmlTSxdIlBLUkA",
+      "created": {
+        "fileId": "16UjZxfSrPIAVbczvw8wT6nCxqUAqlpmlTSxdIlBLUkA",
+        "mimeType": "application/vnd.google-apps.document",
+        "title": "The Viet Telling - Book III - 024 - Chapter 29 - Codex Rewrite (Noncanonical Proposal)",
+        "url": "https://docs.google.com/document/d/16UjZxfSrPIAVbczvw8wT6nCxqUAqlpmlTSxdIlBLUkA/edit?usp=drivesdk"
+      },
+      "state": "verified complete",
+      "parentIds": [
+        "1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS"
+      ],
+      "parentVerified": true,
+      "tabId": "t.0",
+      "beforeRevision": "ANLCKQmFGySMx6D5w67WrLQN1Gb64Fcr2SkCMV-yirbz4zhzX6eD-TF3ilIa4QMw4Yq_Z4wX4SuXcFCrAPxFRzuulXyCCxyTkcPymVVsByk",
+      "url": "https://docs.google.com/document/d/16UjZxfSrPIAVbczvw8wT6nCxqUAqlpmlTSxdIlBLUkA",
+      "readbackRevision": "ANLCKQkn45qIj3viizLb4XCNv8b-OimwEg1Tmku9Warf-IwcD-_HuaL6lOMdZwTD4u19NbcXK6ypmQQdFeG_6kB5x67JIVG0sioKMklBi8Q",
+      "characters": 8729,
+      "words": 1434,
+      "sha256": "4dbc8f98415662ae04666a57c4e1c6b480ccfc8d39436ba293206dc4ed88e7b6",
+      "headingCount": 1,
+      "readbackComparison": "Exact local body plus Docs mandatory final paragraph newline",
+      "ownerMatchesConnectedAccount": true
+    }
+  ],
+  "sharingChanged": false,
+  "destinationAccountVerified": true,
+  "destinationOwnerMatchesConnectedAccount": true,
+  "verifiedDocumentCount": 25,
+  "verifiedListeningSectionCount": 24,
+  "finalFolderInventoryVerified": true,
+  "ownerMatchesConnectedAccount": true,
+  "sharedPermissionsChanged": false,
+  "verification": "Complete body readback for every document matched its exact local text plus only Google Docs' mandatory final paragraph newline; all chapter headings and parent folders verified."
+}

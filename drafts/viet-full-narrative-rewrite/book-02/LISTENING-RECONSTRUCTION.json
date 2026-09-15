@@ -1,5 +1,5 @@
 {
-  "status": "Local preparation complete; no external delivery",
+  "status": "Local preparation and Google delivery complete; full book and all 24 sections verified by exact native readback",
   "provenance": "Codex-authored under Nolan's direction; noncanonical proposal. Original source unchanged.",
   "conversion": "Each final chapter is LF-normalized, its initial Markdown heading marker removed, and trailing whitespace replaced by two LF characters. No narrative prose changes. Book-level title and provenance remain in the manuscript, manifest and index, outside the listening body. Section filenames/titles are metadata; no new section text is inserted.",
   "reconstruction": "Concatenate the UTF-8 section files in numeric order with no added or removed bytes. The result is exactly book-02-native.txt.",
@@ -579,5 +579,6 @@
       "sha256": "4ec44e3db0f0f4c6470f3d0c34f0fc74c3a79e6ccadb34209992478ff29d9b46",
       "opening": "Outside Bách's hall, guests had filled the pavement before the doors opened. Polished cars stood among flower vans. A man Minh had once helped recover a stolen truck arrived carrying a roasted pig. Marisol brought an envelope and said she had deducted nothing, making Leon visibly suspicious. Veronica arrived with her husband and reported that the arcade had never earned as much as during the week people came to see the damaged pool table."
     }
-  ]
+  ],
+  "googleDeliveryRecord": "GOOGLE-DELIVERY.json"
 }

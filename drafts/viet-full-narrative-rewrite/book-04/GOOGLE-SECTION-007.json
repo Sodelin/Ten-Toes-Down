@@ -1,0 +1,29 @@
+{
+  "number": 7,
+  "status": "verified",
+  "created": {
+    "fileId": "1KUQfe2eztK0KHGwUiwMimWip5Cxzti9WpeX99QpgJe4",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 007 — Chapter 7: Sunday Clothes on a Thursday — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1KUQfe2eztK0KHGwUiwMimWip5Cxzti9WpeX99QpgJe4/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmrt6mbcHIqRuyWnQ-6QmzCVH_Z_ccUfxyY67mfvILEUjLHurwSxEYCFElD1ftYrhy27U6XVbZ5EgCRZkN0IWaboDoio7rPpcPLyu0",
+  "id": "1KUQfe2eztK0KHGwUiwMimWip5Cxzti9WpeX99QpgJe4",
+  "url": "https://docs.google.com/document/d/1KUQfe2eztK0KHGwUiwMimWip5Cxzti9WpeX99QpgJe4/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 007 — Chapter 7: Sunday Clothes on a Thursday — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmrt6mbcHIqRuyWnQ-6QmzCVH_Z_ccUfxyY67mfvILEUjLHurwSxEYCFElD1ftYrhy27U6XVbZ5EgCRZkN0IWaboDoio7rPpcPLyu0",
+  "tabId": "t.0",
+  "expectedCharacters": 8635,
+  "nativeCharacters": 8636,
+  "expectedWords": 1477,
+  "sha256": "378840888f587abbbd24763884c19b336757758784a7aa2ceb81454c1387724f",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

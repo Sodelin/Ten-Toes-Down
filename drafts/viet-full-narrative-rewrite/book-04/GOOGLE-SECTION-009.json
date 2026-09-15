@@ -1,0 +1,29 @@
+{
+  "number": 9,
+  "status": "verified",
+  "created": {
+    "fileId": "1eQHA0-A2Frt8dms-1LMiagDUsZ0iKoGd5fiUk-T8RG8",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 009 — Chapter 9: The Breakfast Alibi — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1eQHA0-A2Frt8dms-1LMiagDUsZ0iKoGd5fiUk-T8RG8/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmy007U50g_nCG8P8IIiqO-kbO9we5Ux5B4OdZUBWyx3WzX74ktl7UHDzncpapDFWLXxhVj54kj-nj5Ycp2rZK7sMcovsP8tT4L2NA",
+  "id": "1eQHA0-A2Frt8dms-1LMiagDUsZ0iKoGd5fiUk-T8RG8",
+  "url": "https://docs.google.com/document/d/1eQHA0-A2Frt8dms-1LMiagDUsZ0iKoGd5fiUk-T8RG8/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 009 — Chapter 9: The Breakfast Alibi — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmy007U50g_nCG8P8IIiqO-kbO9we5Ux5B4OdZUBWyx3WzX74ktl7UHDzncpapDFWLXxhVj54kj-nj5Ycp2rZK7sMcovsP8tT4L2NA",
+  "tabId": "t.0",
+  "expectedCharacters": 8655,
+  "nativeCharacters": 8656,
+  "expectedWords": 1551,
+  "sha256": "ce396a7e13b3ba0f98988d0ead988d443a46878369eca4ab9764498a2395695a",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

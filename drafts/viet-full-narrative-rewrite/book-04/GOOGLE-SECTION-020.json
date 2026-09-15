@@ -1,0 +1,29 @@
+{
+  "number": 20,
+  "status": "verified",
+  "created": {
+    "fileId": "1m-Y2qesZRlzxKkP0g0Lw0qhkaSW8TzU7SoB4btkpcf0",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 020 — Chapter 20: The King's Weekend — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1m-Y2qesZRlzxKkP0g0Lw0qhkaSW8TzU7SoB4btkpcf0/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnqK_67TRcVeI1irRJS8I6WVd4FuSsphjJquOzpPAo_Pnk3q7v5sYLNrKZRwAcOLaVg1XEc0JKm53HcQ7suVOskbsvBEqoniOMX3J4",
+  "id": "1m-Y2qesZRlzxKkP0g0Lw0qhkaSW8TzU7SoB4btkpcf0",
+  "url": "https://docs.google.com/document/d/1m-Y2qesZRlzxKkP0g0Lw0qhkaSW8TzU7SoB4btkpcf0/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 020 — Chapter 20: The King's Weekend — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnqK_67TRcVeI1irRJS8I6WVd4FuSsphjJquOzpPAo_Pnk3q7v5sYLNrKZRwAcOLaVg1XEc0JKm53HcQ7suVOskbsvBEqoniOMX3J4",
+  "tabId": "t.0",
+  "expectedCharacters": 11063,
+  "nativeCharacters": 11064,
+  "expectedWords": 1901,
+  "sha256": "b404247e0f942372ed19f6c4763cbb0862341cc53febcf89ba8a8184c7891dcd",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

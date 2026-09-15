@@ -1,0 +1,29 @@
+{
+  "number": 22,
+  "status": "verified",
+  "created": {
+    "fileId": "1r8g4LYI2lNHGU35DfnTP4T94_DeP43nofOWg_flr0k4",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 022 — Chapter 22: Everybody Gets a Ride — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1r8g4LYI2lNHGU35DfnTP4T94_DeP43nofOWg_flr0k4/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQls-xLWtB5Qks5VgYfN13Yeu-cJokezyPrBexQyhxE7tciy_Xm2Hfg7ox6yu3EE3kqBkgmCBdl9p5_QCn3F3clF4hqfWmuOqtx3D-s",
+  "id": "1r8g4LYI2lNHGU35DfnTP4T94_DeP43nofOWg_flr0k4",
+  "url": "https://docs.google.com/document/d/1r8g4LYI2lNHGU35DfnTP4T94_DeP43nofOWg_flr0k4/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 022 — Chapter 22: Everybody Gets a Ride — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQls-xLWtB5Qks5VgYfN13Yeu-cJokezyPrBexQyhxE7tciy_Xm2Hfg7ox6yu3EE3kqBkgmCBdl9p5_QCn3F3clF4hqfWmuOqtx3D-s",
+  "tabId": "t.0",
+  "expectedCharacters": 10392,
+  "nativeCharacters": 10393,
+  "expectedWords": 1827,
+  "sha256": "f01c5d9f8dab3ba2d809281d9e1a53918fc27a1115505ebbbf1d46fab38aae16",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

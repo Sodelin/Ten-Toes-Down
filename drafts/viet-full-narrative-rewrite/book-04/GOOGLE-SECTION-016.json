@@ -1,0 +1,29 @@
+{
+  "number": 16,
+  "status": "verified",
+  "created": {
+    "fileId": "1qDv_0enp2TIxnh-d9BcEvF6_dJd89C4-T3pnxfbCzzs",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 016 — Chapter 16: Mother Knows the Address — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1qDv_0enp2TIxnh-d9BcEvF6_dJd89C4-T3pnxfbCzzs/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmVAMEttMwpDiZ5dRW12dXq-226NUuF8vNeG623V5WlAD41QW8mDfwetSCWs17wSbSqElqRaaQ50V90kbRGPw-4M2X6wYyCIqulAh0",
+  "id": "1qDv_0enp2TIxnh-d9BcEvF6_dJd89C4-T3pnxfbCzzs",
+  "url": "https://docs.google.com/document/d/1qDv_0enp2TIxnh-d9BcEvF6_dJd89C4-T3pnxfbCzzs/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 016 — Chapter 16: Mother Knows the Address — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmVAMEttMwpDiZ5dRW12dXq-226NUuF8vNeG623V5WlAD41QW8mDfwetSCWs17wSbSqElqRaaQ50V90kbRGPw-4M2X6wYyCIqulAh0",
+  "tabId": "t.0",
+  "expectedCharacters": 9649,
+  "nativeCharacters": 9650,
+  "expectedWords": 1660,
+  "sha256": "fce1d4b05a84f57571b8ad379bac9cf57b68635597fccdea4a3a03de13647386",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

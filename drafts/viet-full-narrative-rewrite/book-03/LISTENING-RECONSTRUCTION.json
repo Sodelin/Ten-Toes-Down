@@ -1,5 +1,5 @@
 {
-  "status": "Complete local manuscript and listening files; exact reconstruction verified. Google delivery pending.",
+  "status": "Complete local manuscript and listening files; exact local reconstruction and Google delivery verified.",
   "provenance": "Status: Proposal. Complete narrative revision authored by Codex under direction from Nolan; separate, non-canonical draft. Source commit: 4f38948aa5fa97f294adfa74a0b7055c399b2826. Original text preserved.",
   "conversion": "All 29 authored chapter files in order. Normalize CRLF/CR to LF; trim chapter edges; remove only the initial Markdown heading marker (## followed by one space); append two LF characters per chapter. Chapter prose and internal paragraph spacing are preserved. Book title and provenance are supplied in the index and document titles, outside the spoken body.",
   "encoding": "UTF-8 without BOM",
@@ -14,7 +14,7 @@
   "exactOnDiskByteMatch": true,
   "exactUtf8ByteHashMatch": true,
   "assembledMarkdownMatchesAuthoredChapters": true,
-  "googleDelivery": "Pending separately authorized parent workflow; this build performs no network or Google operations.",
+  "googleDelivery": "Complete: full native manuscript and all 24 listening sections verified by full connector readback; only Docs mandatory final paragraph newline differs.",
   "chapters": [
     {
       "number": 1,
@@ -538,5 +538,8 @@
       "bytes": 9106,
       "sha256": "4dbc8f98415662ae04666a57c4e1c6b480ccfc8d39436ba293206dc4ed88e7b6"
     }
-  ]
+  ],
+  "googleFolderUrl": "https://drive.google.com/drive/folders/1tnvU6Y2yUM60EBL0RraV1FyZVcEX_WiS",
+  "googleFullBookUrl": "https://docs.google.com/document/d/1ZHg8rqnLExhjITAvLiTH8YjELtuIaJwnSA-RvQC_V9g",
+  "googleDeliveryManifest": "GOOGLE-DELIVERY.json"
 }

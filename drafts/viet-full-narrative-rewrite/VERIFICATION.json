@@ -1,5 +1,5 @@
 {
-  "status": "Complete local books and verified listening text; external delivery pending",
+  "status": "Complete local books and verified native Google delivery",
   "sourceCommit": "4f38948aa5fa97f294adfa74a0b7055c399b2826",
   "totalChapters": 111.0,
   "totalNativeWords": 191788.0,
@@ -814,5 +814,6 @@
         }
       ]
     }
-  ]
+  ],
+  "googleLibraryVerification": "GOOGLE-LIBRARY.json"
 }

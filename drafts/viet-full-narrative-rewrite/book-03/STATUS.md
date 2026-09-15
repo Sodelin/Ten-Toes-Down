@@ -14,12 +14,12 @@ Verification: all 29 source titles and numbered chapter files match; 1,236 parag
 
 Local listening preparation: complete. The native body contains 41,399 words after removing the 29 Markdown heading markers. Twenty-four consecutive sections preserve complete chapter boundaries and range from 1,298 to 2,568 words. Reading and concatenating their on-disk UTF-8 bytes exactly reproduces the native full text. SHA-256: `abf32fdbb9b457d6816d1f503d5f012a6c165e26504998f9ce89d8ae8c567c25`.
 
-Google delivery: pending separately in the parent task. Local manuscript completion does not imply external delivery.
+Google delivery: complete and verified. The full manuscript and all 24 listening sections are native Google Docs in the dedicated Book III folder. Every complete body matches its local text, allowing only Docs' mandatory final paragraph newline; heading counts and the exact 25-document folder inventory passed. See [Google delivery index](GOOGLE-INDEX.md). Sharing permissions were not changed.
 
 Source integrity: SHA-256 `A15369C6D6D72E7992347818CD489FE7A85F46686A853AB46A7052728F5ACE23`; Git blob `fbf30156df8e80f644fbb7398716d6b305c7b6c3` matches the source path at commit `4f38948aa5fa97f294adfa74a0b7055c399b2826`.
 
 Approach: coherent close third around Tín; every spoken turn attributes its speaker within the same paragraph; chronological scene transitions; retain principal events, family relationships, good source-specific jokes, criminal motives and consequences. The story is explicitly set in summer 1992, earlier than Mai's adult marriage in Book II.
 
-Not publication approval. No source replacement, Google write or public upload is performed by this worker.
+The manuscript remains a separate noncanonical proposal. No source replacement or public repository write was performed by this worker. Google delivery was completed following the user's explicit approval.
 
-Nolan retains the decision to adopt or further revise this proposal. Parent task handles compilation, delivery and any separately authorized publication.
+Nolan retains the decision to adopt or further revise this proposal. Parent task handles series compilation and separately approved public draft publication.

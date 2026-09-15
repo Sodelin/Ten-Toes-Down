@@ -1,0 +1,29 @@
+{
+  "number": 13,
+  "status": "verified",
+  "created": {
+    "fileId": "1B6OFoxqOJy4GfrgIipMM3iq5O8bxSwYyyVcbn3a4hSg",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 013 — Chapter 13: Your Wife Has a Show — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1B6OFoxqOJy4GfrgIipMM3iq5O8bxSwYyyVcbn3a4hSg/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQlUKe92hd2jdVYg-vH_oD_kGiejWyIWeNKg4Aj3wmjARGEGJR4hEYbWPtyC2CNWDivZ0Gr1eX5BUBerGME9TXuzjSfxlQomgJTtqNk",
+  "id": "1B6OFoxqOJy4GfrgIipMM3iq5O8bxSwYyyVcbn3a4hSg",
+  "url": "https://docs.google.com/document/d/1B6OFoxqOJy4GfrgIipMM3iq5O8bxSwYyyVcbn3a4hSg/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 013 — Chapter 13: Your Wife Has a Show — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQlUKe92hd2jdVYg-vH_oD_kGiejWyIWeNKg4Aj3wmjARGEGJR4hEYbWPtyC2CNWDivZ0Gr1eX5BUBerGME9TXuzjSfxlQomgJTtqNk",
+  "tabId": "t.0",
+  "expectedCharacters": 10387,
+  "nativeCharacters": 10388,
+  "expectedWords": 1765,
+  "sha256": "53ae5983dd2645a9dc0dead4454fd83fc9b622ecce28251617b4057b44cd7040",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

@@ -1,0 +1,29 @@
+{
+  "number": 23,
+  "status": "verified",
+  "created": {
+    "fileId": "1ywfBH-laWOlO395ORKIycJVUEnAgXvbaFsHcJ_16QMk",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 023 — Chapter 23: The Man in the Wrong Lane — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1ywfBH-laWOlO395ORKIycJVUEnAgXvbaFsHcJ_16QMk/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmIOBFvaLx9IZeKEign6B0Rji7pxcSWtdIDpIxb-GbaaiuhIVYj790E1FsAopW7L6LsId7E56JCGdFs7RymPvGgRAHiYISzdM93m04",
+  "id": "1ywfBH-laWOlO395ORKIycJVUEnAgXvbaFsHcJ_16QMk",
+  "url": "https://docs.google.com/document/d/1ywfBH-laWOlO395ORKIycJVUEnAgXvbaFsHcJ_16QMk/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 023 — Chapter 23: The Man in the Wrong Lane — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmIOBFvaLx9IZeKEign6B0Rji7pxcSWtdIDpIxb-GbaaiuhIVYj790E1FsAopW7L6LsId7E56JCGdFs7RymPvGgRAHiYISzdM93m04",
+  "tabId": "t.0",
+  "expectedCharacters": 11623,
+  "nativeCharacters": 11624,
+  "expectedWords": 2113,
+  "sha256": "999ffe4dcf0473772e9a8cf45d317df9ab8f67cc9fccb4d282c6c3a3268d9d67",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

@@ -1,0 +1,29 @@
+{
+  "number": 12,
+  "status": "verified",
+  "created": {
+    "fileId": "10EhFBKNZ4_EX6KdnFMn_Jo7I4FvJd5Q1GEL020Sfq9w",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 012 — Chapter 12: Men Who Take Their Coats Off — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/10EhFBKNZ4_EX6KdnFMn_Jo7I4FvJd5Q1GEL020Sfq9w/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkD48V02ibBY1O6U7y55HeE3--GOGtW4sy03jgyatTtZ7nPoX9YOqIFmf2BToiBbGnxgXhmh253fdgRRhVqUEdHU70fI_qSUimlLhM",
+  "id": "10EhFBKNZ4_EX6KdnFMn_Jo7I4FvJd5Q1GEL020Sfq9w",
+  "url": "https://docs.google.com/document/d/10EhFBKNZ4_EX6KdnFMn_Jo7I4FvJd5Q1GEL020Sfq9w/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 012 — Chapter 12: Men Who Take Their Coats Off — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkD48V02ibBY1O6U7y55HeE3--GOGtW4sy03jgyatTtZ7nPoX9YOqIFmf2BToiBbGnxgXhmh253fdgRRhVqUEdHU70fI_qSUimlLhM",
+  "tabId": "t.0",
+  "expectedCharacters": 10881,
+  "nativeCharacters": 10882,
+  "expectedWords": 1924,
+  "sha256": "50df3487f2d76d8565d41495a5afbaefa27ca7e616d35e4ab93abb96bda378aa",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

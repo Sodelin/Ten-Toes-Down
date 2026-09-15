@@ -1,0 +1,29 @@
+{
+  "number": 3,
+  "status": "verified",
+  "created": {
+    "fileId": "1b_rhuPA4-kPE6xJAejQJuqLbOynbx-JhFZkNu6UpYkg",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 003 — Chapter 3: The Good Table — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1b_rhuPA4-kPE6xJAejQJuqLbOynbx-JhFZkNu6UpYkg/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnI8CMrNDEkidVe4erpYaxDi5B0mcD3nsEahBGlWMLD_kOW2A5t9g-Sam5hE5d6sbKOKw-pVv1vqxsCJQ_D_JY03pyePwdHtPX-m-8",
+  "id": "1b_rhuPA4-kPE6xJAejQJuqLbOynbx-JhFZkNu6UpYkg",
+  "url": "https://docs.google.com/document/d/1b_rhuPA4-kPE6xJAejQJuqLbOynbx-JhFZkNu6UpYkg/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 003 — Chapter 3: The Good Table — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnI8CMrNDEkidVe4erpYaxDi5B0mcD3nsEahBGlWMLD_kOW2A5t9g-Sam5hE5d6sbKOKw-pVv1vqxsCJQ_D_JY03pyePwdHtPX-m-8",
+  "tabId": "t.0",
+  "expectedCharacters": 8836,
+  "nativeCharacters": 8837,
+  "expectedWords": 1532,
+  "sha256": "80b1a34ab792f7e7b551a827ec494c97f6d4057dd59d380ab9097016a5927cf9",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

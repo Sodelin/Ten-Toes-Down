@@ -1,0 +1,29 @@
+{
+  "number": 2,
+  "status": "verified",
+  "created": {
+    "fileId": "1h7dYzmbdxg0RuAdto4n40Ymtq_GHx7kTY3wN-J14MbU",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 002 — Chapter 2: Bring Your Own Brother — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1h7dYzmbdxg0RuAdto4n40Ymtq_GHx7kTY3wN-J14MbU/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkoQ_o3aG1Z7-9b6LD8e8S3RRHEHIT-hPd2-cjf1-EMGL9zFE2ckhx4Bx8liJBPRP5lt_bAW0A9O1ORmUEIfCFgVSdy5sZJ2ClZENM",
+  "id": "1h7dYzmbdxg0RuAdto4n40Ymtq_GHx7kTY3wN-J14MbU",
+  "url": "https://docs.google.com/document/d/1h7dYzmbdxg0RuAdto4n40Ymtq_GHx7kTY3wN-J14MbU/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 002 — Chapter 2: Bring Your Own Brother — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkoQ_o3aG1Z7-9b6LD8e8S3RRHEHIT-hPd2-cjf1-EMGL9zFE2ckhx4Bx8liJBPRP5lt_bAW0A9O1ORmUEIfCFgVSdy5sZJ2ClZENM",
+  "tabId": "t.0",
+  "expectedCharacters": 9964,
+  "nativeCharacters": 9965,
+  "expectedWords": 1690,
+  "sha256": "a9052966373605f492b8ff50d099fd50df62ee468b4e09f202f7d6487cdfdda7",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

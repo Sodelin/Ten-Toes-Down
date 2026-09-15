@@ -1,0 +1,29 @@
+{
+  "number": 10,
+  "status": "verified",
+  "created": {
+    "fileId": "1568ux-zdtk21I9maYnqFEwRH52tnIyx5-_J554XhVLw",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 010 — Chapter 10: Heavyweight Hospitality — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1568ux-zdtk21I9maYnqFEwRH52tnIyx5-_J554XhVLw/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkDywsb3KzlbwzP0DDmM2U3nd3mY1zU3vLObbSWw0bMuLb90XactrdXDTlS_vWclkfirJm6hyncgHgWswn3B44fX2ioLL0b0kHYizs",
+  "id": "1568ux-zdtk21I9maYnqFEwRH52tnIyx5-_J554XhVLw",
+  "url": "https://docs.google.com/document/d/1568ux-zdtk21I9maYnqFEwRH52tnIyx5-_J554XhVLw/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 010 — Chapter 10: Heavyweight Hospitality — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkDywsb3KzlbwzP0DDmM2U3nd3mY1zU3vLObbSWw0bMuLb90XactrdXDTlS_vWclkfirJm6hyncgHgWswn3B44fX2ioLL0b0kHYizs",
+  "tabId": "t.0",
+  "expectedCharacters": 8459,
+  "nativeCharacters": 8460,
+  "expectedWords": 1499,
+  "sha256": "17ed90d1f9d87420970338e2e010246627afa260654991fcde2718339dfd882c",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

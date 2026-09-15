@@ -1,0 +1,29 @@
+{
+  "number": 5,
+  "status": "verified",
+  "created": {
+    "fileId": "1RzdJBOQ8aRe7Gb-Q-3e5DdyDIlKSGRecFAO5iqPqxCk",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 005 — Chapter 5: Everything Looks Better Moving — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1RzdJBOQ8aRe7Gb-Q-3e5DdyDIlKSGRecFAO5iqPqxCk/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQk-3XVcN6F2j1yCr3Gs_79QWXSUYj3_5yny7S6Oq6en-_kTQXKkjHmPeBNlwFDBjiqOG2t0TjZJNv0OUY6vRBxcZxDQ1s3NbyLa6aI",
+  "id": "1RzdJBOQ8aRe7Gb-Q-3e5DdyDIlKSGRecFAO5iqPqxCk",
+  "url": "https://docs.google.com/document/d/1RzdJBOQ8aRe7Gb-Q-3e5DdyDIlKSGRecFAO5iqPqxCk/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 005 — Chapter 5: Everything Looks Better Moving — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQk-3XVcN6F2j1yCr3Gs_79QWXSUYj3_5yny7S6Oq6en-_kTQXKkjHmPeBNlwFDBjiqOG2t0TjZJNv0OUY6vRBxcZxDQ1s3NbyLa6aI",
+  "tabId": "t.0",
+  "expectedCharacters": 10229,
+  "nativeCharacters": 10230,
+  "expectedWords": 1766,
+  "sha256": "0f71fb044f5d76812c034b800427394919e5b5cebd1a7d1aa9c6a8feb06fa328",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

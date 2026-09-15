@@ -1,0 +1,29 @@
+{
+  "number": 8,
+  "status": "verified",
+  "created": {
+    "fileId": "10pHg9OF9d_3o-8phZbEY1tNC_-Cv4vqBne5nIYEDzek",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 008 — Chapter 8: A Very Private Collection — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/10pHg9OF9d_3o-8phZbEY1tNC_-Cv4vqBne5nIYEDzek/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmLWdosWdDIhFcUViYOujVlaCUWiSmyG5ksXoDiye1nn5LP6i9eopukCcIuxYsQ68V523D7ZG8x686X5tEnjwzAmfcIEM7-f6TlqdY",
+  "id": "10pHg9OF9d_3o-8phZbEY1tNC_-Cv4vqBne5nIYEDzek",
+  "url": "https://docs.google.com/document/d/10pHg9OF9d_3o-8phZbEY1tNC_-Cv4vqBne5nIYEDzek/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 008 — Chapter 8: A Very Private Collection — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmLWdosWdDIhFcUViYOujVlaCUWiSmyG5ksXoDiye1nn5LP6i9eopukCcIuxYsQ68V523D7ZG8x686X5tEnjwzAmfcIEM7-f6TlqdY",
+  "tabId": "t.0",
+  "expectedCharacters": 11042,
+  "nativeCharacters": 11043,
+  "expectedWords": 1903,
+  "sha256": "02d3ec4cb85d91f3df31fa21dde2b3310731686f74134c063cac135be4925c9e",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

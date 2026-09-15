@@ -39,6 +39,14 @@ The rewrite tests continuous physical choreography, named audiobook turns, ridic
 
 Closeness: story sequence, motives, relationships, family jokes, the sky piano, giving culture, mathematical talent, criminal business, and the complete series ending remain recognizable. Distance: sentence construction, scene blocking, much of the dialogue, comic business, and some injury detail are newly authored. Individual rewritten chapters have different lengths; the counts below diagnose breadth and do not prove scene fidelity. Nolan retains the decision whether to adopt any generated language as canonical.
 
+## Native Google delivery verification
+
+The full book and all 26 consecutively numbered listening sections are complete native Google Docs in the verified Book IV folder. All 27 bodies received exact readback checks against the approved local text; the only permitted difference was one mandatory Google Docs final structural newline. After removal of exactly that newline per section, the 26 native section bodies concatenate exactly to both the local native file and the full Google manuscript. Native MIME types, parent placement, and all 52 chapter-heading instances were checked: 26 in the full book and one in each section. Connected-account ownership was verified before insertion, every insertion required its freshly observed revision, every created ID was persisted before subsequent operations, and no sharing settings changed.
+
+Native totals: 46,442 whitespace-delimited words, 268,410 UTF-16 characters, SHA-256 `85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043`. The initial Markdown heading marker accounts for the one-word-per-chapter difference from the manuscript comparison. Delivery did not change narrative prose. See `GOOGLE-DELIVERY.json`, `GOOGLE-INDEX.md`, and `LISTENING-RECONSTRUCTION.json`.
+
+Earlier automatic approval rejections remain recorded as resolved history. The final same-document retry succeeded after read-only verification connected the exact approved ZIP payload to the user's owned document and folder chain. This delivery verification is separate from the bounded literary peer review described above and does not expand that review's scope.
+
 ## Word comparison
 
 Whitespace-delimited words, including each chapter heading, excluding the assembled manuscript's provenance front matter. The source book title adds seven words outside this table. Counts are provided transparently; there was no shorter-novel target.

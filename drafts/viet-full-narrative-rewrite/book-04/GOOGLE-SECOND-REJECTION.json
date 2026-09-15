@@ -1,0 +1,145 @@
+{
+  "status": "Full content upload rejected again after explicit general Google-delivery approval; native manuscript not delivered",
+  "rejection": "This uploads a private 268,410-character manuscript to an unverified Google Drive destination; the broad approval for “Google delivery” does not specifically authorize this payload to this destination.",
+  "folder": {
+    "id": "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "title": "Book IV — The King Comes Home — Codex Rewrite",
+    "mime_type": "application/vnd.google-apps.folder",
+    "size": null,
+    "url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "display_url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "file_or_folder": "folder",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "fullDocument": {
+    "id": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+    "title": "The Viet Telling — Book IV: The King Comes Home — Complete Codex Rewrite (Noncanonical)",
+    "mime_type": "application/vnd.google-apps.document",
+    "size": null,
+    "url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo/edit?usp=drivesdk",
+    "display_url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo/edit?usp=drivesdk",
+    "file_or_folder": "file",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "fullDocumentCreatedId": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+  "fullDocumentBodyIsBlank": true,
+  "fullDocumentReadbackCharacters": 1,
+  "nativeTextUploadSucceeded": false,
+  "listeningDocumentsCreated": 0,
+  "localSectionCount": 26,
+  "localNativeCharacters": 268410,
+  "localNativeWords": 46442,
+  "localSha256": "85543b5f997c760dd9c49572d008744f96d0fa39bd28b28728a858a76a0a3043",
+  "reconstructedExactly": true,
+  "pending": "Automatic approval review requires trusted approval naming this exact Book IV payload and native Google destination. Root informed; do not retry content writes until resolved. Reuse existing folder/document IDs.",
+  "priorRejectionRecord": "GOOGLE-INITIAL-REJECTION.json",
+  "resumedAuthorization": "Root reported direct user approval: You have approval for Google delivery, and you have approval to publish a separate public draft branch ... publish these new things and get them all done.",
+  "resumedAction": "One direct native batch update attempted against the freshly read blank existing document with requiredRevisionId; rejected by automatic approval review. No other content route or listening-document creation attempted.",
+  "freshFolderMetadata": {
+    "id": "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "title": "Book IV — The King Comes Home — Codex Rewrite",
+    "mime_type": "application/vnd.google-apps.folder",
+    "size": null,
+    "url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "display_url": "https://drive.google.com/drive/folders/1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno",
+    "file_or_folder": "folder",
+    "created_time": null,
+    "modified_time": null,
+    "parent_ids": [
+      "1vsNkwfCNts8K4tgXn9naTTHYA0otKgcx"
+    ],
+    "drive_id": null,
+    "current_user_can_share": null,
+    "has_augmented_permissions": null,
+    "shared": null,
+    "permissions": null,
+    "source_visibility_status": "access_not_verified"
+  },
+  "postRejectionRevisionId": "ANLCKQmbbqFkwBKNbZlPYA6lpOrMbVVX57HpuHioAOwXQnuqPvrHI2ZoQ27dIAKvLxuO1RV40RZd0L5GXWQ-lcQCHVXFQ7yrjfAH3sI6yJQ",
+  "postRejectionRawDocument": {
+    "documentId": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+    "title": null,
+    "revisionId": "ANLCKQmbbqFkwBKNbZlPYA6lpOrMbVVX57HpuHioAOwXQnuqPvrHI2ZoQ27dIAKvLxuO1RV40RZd0L5GXWQ-lcQCHVXFQ7yrjfAH3sI6yJQ",
+    "suggestionsViewMode": null,
+    "url": null,
+    "body": null,
+    "tabs": [
+      {
+        "tabId": "t.0",
+        "title": "Tab 1",
+        "parentTabId": null,
+        "index": 0,
+        "nestingLevel": null,
+        "iconEmoji": null,
+        "body": {
+          "content": [
+            {
+              "endIndex": 1,
+              "sectionBreak": {
+                "sectionStyle": {
+                  "columnSeparatorStyle": "NONE",
+                  "contentDirection": "LEFT_TO_RIGHT",
+                  "sectionType": "CONTINUOUS"
+                }
+              }
+            },
+            {
+              "startIndex": 1,
+              "endIndex": 2,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1,
+                    "endIndex": 2,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            }
+          ]
+        },
+        "headers": null,
+        "footers": null,
+        "footnotes": null,
+        "documentStyle": null,
+        "suggestedDocumentStyleChanges": null,
+        "namedStyles": null,
+        "suggestedNamedStylesChanges": null,
+        "lists": null,
+        "namedRanges": null,
+        "inlineObjects": null,
+        "positionedObjects": null,
+        "documentId": "1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo",
+        "document_url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo"
+      }
+    ],
+    "document_url": "https://docs.google.com/document/d/1djDly79HBVkDAK0OH97sXLxzgu0lQ5NoL7ZoGIrZvbo"
+  }
+}

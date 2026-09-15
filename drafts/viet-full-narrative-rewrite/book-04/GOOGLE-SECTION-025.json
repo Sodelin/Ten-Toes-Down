@@ -1,0 +1,29 @@
+{
+  "number": 25,
+  "status": "verified",
+  "created": {
+    "fileId": "1q5DOQQqBz0jHLBYjeLlaJEWI0_NI_zVEPUeyyEDfKKM",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 025 — Chapter 25: A Million Dollars and a Toaster — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1q5DOQQqBz0jHLBYjeLlaJEWI0_NI_zVEPUeyyEDfKKM/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmTjkA1MzhzQ_CUKwwblixhbi90vzZzDkmVSz4VpcG7UsWJgipXT9cDYRusaoN-LpF85fogSKumJ0i1gHm8-MzpSdSlYzItEi_twH4",
+  "id": "1q5DOQQqBz0jHLBYjeLlaJEWI0_NI_zVEPUeyyEDfKKM",
+  "url": "https://docs.google.com/document/d/1q5DOQQqBz0jHLBYjeLlaJEWI0_NI_zVEPUeyyEDfKKM/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 025 — Chapter 25: A Million Dollars and a Toaster — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmTjkA1MzhzQ_CUKwwblixhbi90vzZzDkmVSz4VpcG7UsWJgipXT9cDYRusaoN-LpF85fogSKumJ0i1gHm8-MzpSdSlYzItEi_twH4",
+  "tabId": "t.0",
+  "expectedCharacters": 13545,
+  "nativeCharacters": 13546,
+  "expectedWords": 2310,
+  "sha256": "93d9e29362df20c79a41e6bb84d748ee89f07b58bfc21ebeaa02f743dcd3f3c6",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

@@ -1,5 +1,5 @@
 {
-  "status": "Complete local narrative revision; Google full-book and remaining/corrected sections pending direct authorization.",
+  "status": "Complete local and Google delivery: full native book and all 29 sections match final local text exactly, allowing only Google's mandatory final paragraph newline.",
   "provenance": "Codex-authored under Nolan direction, based on the complete original at 4f38948aa5fa97f294adfa74a0b7055c399b2826; separate non-canonical draft.",
   "conversion": "Normalize chapter newlines to LF; trim chapter edges; remove only initial Markdown heading marker; append two LF characters per chapter. Full-book title and provenance are outside spoken text. Chapter 1 is split at its established paragraph boundary; other chapters remain whole.",
   "encoding": "UTF-8 without BOM",

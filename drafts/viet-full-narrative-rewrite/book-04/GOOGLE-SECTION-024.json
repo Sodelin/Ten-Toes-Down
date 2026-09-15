@@ -1,0 +1,29 @@
+{
+  "number": 24,
+  "status": "verified",
+  "created": {
+    "fileId": "12cdUX8vzA1lwNgKFx9hB_2MMof0S0c7dgT5VAtW97ZA",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 024 — Chapter 24: The Last Lap Is on Foot — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/12cdUX8vzA1lwNgKFx9hB_2MMof0S0c7dgT5VAtW97ZA/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkYRHxqE-8Pn6R_dDgePjmFbK0xbrhsHufVZYhrX9RrhbuIM9ZG0UH1pCnUPZO3wOyae6snjNB20N9JuaSUKA08FTZvOmd_T8N_bPY",
+  "id": "12cdUX8vzA1lwNgKFx9hB_2MMof0S0c7dgT5VAtW97ZA",
+  "url": "https://docs.google.com/document/d/12cdUX8vzA1lwNgKFx9hB_2MMof0S0c7dgT5VAtW97ZA/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 024 — Chapter 24: The Last Lap Is on Foot — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkYRHxqE-8Pn6R_dDgePjmFbK0xbrhsHufVZYhrX9RrhbuIM9ZG0UH1pCnUPZO3wOyae6snjNB20N9JuaSUKA08FTZvOmd_T8N_bPY",
+  "tabId": "t.0",
+  "expectedCharacters": 11582,
+  "nativeCharacters": 11583,
+  "expectedWords": 2055,
+  "sha256": "d8805145eb59adb9be811397a5741f8ab74282c516415ea491826c471f4511db",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

@@ -1,0 +1,29 @@
+{
+  "number": 14,
+  "status": "verified",
+  "created": {
+    "fileId": "1qcj_5BblgpZkF5NqAtl8VUJb3_03IraXfeD4UEDeQ8E",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 014 — Chapter 14: A Door That Closes Properly — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1qcj_5BblgpZkF5NqAtl8VUJb3_03IraXfeD4UEDeQ8E/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQlVEDQgnvL0cUhG9F_-7LMTTID7TLT8Si1fcKx0ZFH9uzpw9mMxf_6yldeA3qGO6qG1Eo8P7fS4Lex0qyiHY8tjcZwB2OoHgBEC728",
+  "id": "1qcj_5BblgpZkF5NqAtl8VUJb3_03IraXfeD4UEDeQ8E",
+  "url": "https://docs.google.com/document/d/1qcj_5BblgpZkF5NqAtl8VUJb3_03IraXfeD4UEDeQ8E/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 014 — Chapter 14: A Door That Closes Properly — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQlVEDQgnvL0cUhG9F_-7LMTTID7TLT8Si1fcKx0ZFH9uzpw9mMxf_6yldeA3qGO6qG1Eo8P7fS4Lex0qyiHY8tjcZwB2OoHgBEC728",
+  "tabId": "t.0",
+  "expectedCharacters": 8972,
+  "nativeCharacters": 8973,
+  "expectedWords": 1571,
+  "sha256": "1e156ef94bf0a2b8f6c282e02b0243c3c48c3bbcdb6a1dccd78759da4994bb60",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

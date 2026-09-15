@@ -1,0 +1,29 @@
+{
+  "number": 11,
+  "status": "verified",
+  "created": {
+    "fileId": "16PCYqRHxMfBHj9K1dnW-MSqZBZ01TY8E1595dFg77lM",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 011 — Chapter 11: A Small Errand for Granddad — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/16PCYqRHxMfBHj9K1dnW-MSqZBZ01TY8E1595dFg77lM/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQkoZoqSpg2FmhLNYzH83Z6P57Hul8wHK1I2nd4jkPnXwO6dRgTduuZQQRKx2BFHl2SzqxSd8yK-1rZh7azQWpXOw7XtjcWrI-ghVlE",
+  "id": "16PCYqRHxMfBHj9K1dnW-MSqZBZ01TY8E1595dFg77lM",
+  "url": "https://docs.google.com/document/d/16PCYqRHxMfBHj9K1dnW-MSqZBZ01TY8E1595dFg77lM/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 011 — Chapter 11: A Small Errand for Granddad — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQkoZoqSpg2FmhLNYzH83Z6P57Hul8wHK1I2nd4jkPnXwO6dRgTduuZQQRKx2BFHl2SzqxSd8yK-1rZh7azQWpXOw7XtjcWrI-ghVlE",
+  "tabId": "t.0",
+  "expectedCharacters": 9550,
+  "nativeCharacters": 9551,
+  "expectedWords": 1663,
+  "sha256": "2fbe46f76fb33cb5de7cbf66e3cf5005927f73136cb1a72f9760e89b2cc19704",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

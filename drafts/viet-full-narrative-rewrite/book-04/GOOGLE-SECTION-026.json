@@ -1,0 +1,29 @@
+{
+  "number": 26,
+  "status": "verified",
+  "created": {
+    "fileId": "1A0o4HbBDVFup6jPytZQ477vT0HVuYXAKjSxjef56yFs",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 026 — Chapter 26: The King Comes Home — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1A0o4HbBDVFup6jPytZQ477vT0HVuYXAKjSxjef56yFs/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnhcHDxa-Yz26W495QRFS3QLtYL6kjWhdfzdiacOE7Dw9r--943KZIJ44gi2sRgsRAmmy4uCwFa0pdJCCIFzBdaWU6PTycX5VYtsFU",
+  "id": "1A0o4HbBDVFup6jPytZQ477vT0HVuYXAKjSxjef56yFs",
+  "url": "https://docs.google.com/document/d/1A0o4HbBDVFup6jPytZQ477vT0HVuYXAKjSxjef56yFs/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 026 — Chapter 26: The King Comes Home — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnhcHDxa-Yz26W495QRFS3QLtYL6kjWhdfzdiacOE7Dw9r--943KZIJ44gi2sRgsRAmmy4uCwFa0pdJCCIFzBdaWU6PTycX5VYtsFU",
+  "tabId": "t.0",
+  "expectedCharacters": 11063,
+  "nativeCharacters": 11064,
+  "expectedWords": 1902,
+  "sha256": "1f62c0106c8aba50cd7e7e4731721f811038492dffe704e54d7907369c6d1900",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

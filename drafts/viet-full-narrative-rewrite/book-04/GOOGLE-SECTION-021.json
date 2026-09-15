@@ -1,0 +1,29 @@
+{
+  "number": 21,
+  "status": "verified",
+  "created": {
+    "fileId": "1GwwR_r_Yys0B1HOniCwatMNeZurPpFzSR8yK_ZpAECI",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 021 — Chapter 21: Bad Seats — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1GwwR_r_Yys0B1HOniCwatMNeZurPpFzSR8yK_ZpAECI/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQmHCZNoixXHgTdZuo7oXv63pn4M81tTFqYHaalNDSg0c6J9SgKKAU7zPTiRI_BN6nMpxQKWhgP8haflOZxgjogoRzZjjZiaAoPEIN4",
+  "id": "1GwwR_r_Yys0B1HOniCwatMNeZurPpFzSR8yK_ZpAECI",
+  "url": "https://docs.google.com/document/d/1GwwR_r_Yys0B1HOniCwatMNeZurPpFzSR8yK_ZpAECI/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 021 — Chapter 21: Bad Seats — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQmHCZNoixXHgTdZuo7oXv63pn4M81tTFqYHaalNDSg0c6J9SgKKAU7zPTiRI_BN6nMpxQKWhgP8haflOZxgjogoRzZjjZiaAoPEIN4",
+  "tabId": "t.0",
+  "expectedCharacters": 10018,
+  "nativeCharacters": 10019,
+  "expectedWords": 1696,
+  "sha256": "9e9c854f1e3b746905aac8d4c826f38c73e688e87be5f4f4fab3ba8b2f55a3a8",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

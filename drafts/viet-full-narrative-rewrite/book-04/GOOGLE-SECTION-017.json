@@ -1,0 +1,29 @@
+{
+  "number": 17,
+  "status": "verified",
+  "created": {
+    "fileId": "19EiKHwboP4hxISizWNzCZvog8fqYErKU_aXOqye_qmw",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 017 — Chapter 17: The Car That Wouldn't Fit — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/19EiKHwboP4hxISizWNzCZvog8fqYErKU_aXOqye_qmw/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQk5ywvsIRrFW4_PUmTRnDS9LAt2pw1wRlz11xRDipXrUnyAYHngrvydqeDAKjmb3p-9_AJEzSlHlwtrTGZluKkawEzb4QDLSCVQJhM",
+  "id": "19EiKHwboP4hxISizWNzCZvog8fqYErKU_aXOqye_qmw",
+  "url": "https://docs.google.com/document/d/19EiKHwboP4hxISizWNzCZvog8fqYErKU_aXOqye_qmw/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 017 — Chapter 17: The Car That Wouldn't Fit — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQk5ywvsIRrFW4_PUmTRnDS9LAt2pw1wRlz11xRDipXrUnyAYHngrvydqeDAKjmb3p-9_AJEzSlHlwtrTGZluKkawEzb4QDLSCVQJhM",
+  "tabId": "t.0",
+  "expectedCharacters": 11642,
+  "nativeCharacters": 11643,
+  "expectedWords": 1986,
+  "sha256": "da95c60d097ebafd154e8d3c4e596e06aa1c2456386d4d703b3e787a40f2b586",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

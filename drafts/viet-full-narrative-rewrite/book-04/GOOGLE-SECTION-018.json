@@ -1,0 +1,29 @@
+{
+  "number": 18,
+  "status": "verified",
+  "created": {
+    "fileId": "1PzcR2vXgte0BXMmIEk5SLYQ-b09RBZu1C17EhgTddxo",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 018 — Chapter 18: No Dancing in the Garage — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1PzcR2vXgte0BXMmIEk5SLYQ-b09RBZu1C17EhgTddxo/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQnuiKdvpqQ__W64koYLhTbKNd1Kt28VEbdi4txM8a2pGgEvd38qUSx4q_wgoJNfCHWOcZVJzoCU0xLQyAdlb8GrpGfbbm_xBrFZCLc",
+  "id": "1PzcR2vXgte0BXMmIEk5SLYQ-b09RBZu1C17EhgTddxo",
+  "url": "https://docs.google.com/document/d/1PzcR2vXgte0BXMmIEk5SLYQ-b09RBZu1C17EhgTddxo/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 018 — Chapter 18: No Dancing in the Garage — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQnuiKdvpqQ__W64koYLhTbKNd1Kt28VEbdi4txM8a2pGgEvd38qUSx4q_wgoJNfCHWOcZVJzoCU0xLQyAdlb8GrpGfbbm_xBrFZCLc",
+  "tabId": "t.0",
+  "expectedCharacters": 10995,
+  "nativeCharacters": 10996,
+  "expectedWords": 1865,
+  "sha256": "9b701584ff2e0bd5196373ab9a1c8f92dd27e02c5316b5a796e5ed574632c895",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}

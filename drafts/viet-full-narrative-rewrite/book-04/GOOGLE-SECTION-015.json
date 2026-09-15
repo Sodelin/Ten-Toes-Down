@@ -1,0 +1,29 @@
+{
+  "number": 15,
+  "status": "verified",
+  "created": {
+    "fileId": "1hQ7_zMorkRbFim_oj0qHWjfx-gFIU17Fn8YEpHrxFRE",
+    "mimeType": "application/vnd.google-apps.document",
+    "title": "The Viet Telling — Book IV — 015 — Chapter 15: Take the Side Entrance — Codex Rewrite (Noncanonical)",
+    "url": "https://docs.google.com/document/d/1hQ7_zMorkRbFim_oj0qHWjfx-gFIU17Fn8YEpHrxFRE/edit?usp=drivesdk"
+  },
+  "writeRevision": "ANLCKQlj8K12_w4_fl_1-Debw7mreh9DnHMwZFhH9LmSnNmxs1F13YXLitD_R0fc2HcoQO89nymZToRPpyVJsbgHYCAZVwmp3lVoKB6JobQ",
+  "id": "1hQ7_zMorkRbFim_oj0qHWjfx-gFIU17Fn8YEpHrxFRE",
+  "url": "https://docs.google.com/document/d/1hQ7_zMorkRbFim_oj0qHWjfx-gFIU17Fn8YEpHrxFRE/edit?usp=drivesdk",
+  "title": "The Viet Telling — Book IV — 015 — Chapter 15: Take the Side Entrance — Codex Rewrite (Noncanonical)",
+  "mime_type": "application/vnd.google-apps.document",
+  "parent_ids": [
+    "1o3hbDxxSvjH9FJ7rx5y3i1EjLr0NNAno"
+  ],
+  "revisionId": "ANLCKQlj8K12_w4_fl_1-Debw7mreh9DnHMwZFhH9LmSnNmxs1F13YXLitD_R0fc2HcoQO89nymZToRPpyVJsbgHYCAZVwmp3lVoKB6JobQ",
+  "tabId": "t.0",
+  "expectedCharacters": 10492,
+  "nativeCharacters": 10493,
+  "expectedWords": 1819,
+  "sha256": "f50f5b37e3f95c6dc131b2adb30f34ea32248582c61f80653e630417102168a2",
+  "exactTextReadback": true,
+  "allowedDifference": "Exactly one mandatory structural final paragraph newline",
+  "headingsVerified": 1,
+  "ownerVerifiedBeforeInsert": true,
+  "sharingChanged": false
+}
