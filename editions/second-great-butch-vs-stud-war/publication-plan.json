@@ -1,0 +1,228 @@
+{
+  "github": {
+    "repository": "Sodelin/Ten-Toes-Down",
+    "path": "editions/second-great-butch-vs-stud-war",
+    "visibility": "public"
+  },
+  "drive": {
+    "edition_folder_id": "1iOtKUF8XO9GiPITyVtiKF2CIChrXC0Yr",
+    "sharing_change": false
+  },
+  "files": [
+    {
+      "name": "build-report.json",
+      "sha256": "a9714573f19157421d4666a106c23892523b77469527202fd6511f7d80c82674",
+      "bytes": 3053
+    },
+    {
+      "name": "creative-brief.md",
+      "sha256": "7170d8ebb9b2c8ae2213d21bbaaaafb273d45f2bd5f32b9d2fc4a23da6ca61bd",
+      "bytes": 5679
+    },
+    {
+      "name": "credits.md",
+      "sha256": "0cc082fce37a44490ff6ab13d6a5bf94985a3ca5f6a042ae5618bd52f85ca3fa",
+      "bytes": 2774
+    },
+    {
+      "name": "cultural-dialogue-audit.md",
+      "sha256": "ca08bb5c34a6b9293994af0f10cd62c556168c0f7ca7e1c5905b12913f549a3c",
+      "bytes": 13900
+    },
+    {
+      "name": "Cultural-Reading-Notes.md",
+      "sha256": "11c4790ae6bfba2853916857cfd997f25a1b3abb37688470f2374630063779a1",
+      "bytes": 4683
+    },
+    {
+      "name": "cultural-references.csl.json",
+      "sha256": "6186aff7cfebe6aaa49a35138b35e97504f4ae63db8ad3be7f4e08dbd797b6f6",
+      "bytes": 3665
+    },
+    {
+      "name": "cultural-references.ris",
+      "sha256": "00184dc1819881fe7960d20dd1798dde4775bbb29cfce64e353a4410fcdac24d",
+      "bytes": 2561
+    },
+    {
+      "name": "cultural-source-ledger.json",
+      "sha256": "bbfa93709197354566b0d33194e8663f8cc4a816c051219dc7e2ec6f95ef4932",
+      "bytes": 5693
+    },
+    {
+      "name": "discussion-index.json",
+      "sha256": "3ace36c35d3e09e1c5a26b2fc5aed48f233f0d64bfdc64cd813d800931d7f94e",
+      "bytes": 60075
+    },
+    {
+      "name": "editorial-record.md",
+      "sha256": "acfb2f66290098fa542aae51b7a72b301cdddf16412e4b094e89986d761a8d87",
+      "bytes": 24716
+    },
+    {
+      "name": "evidence-ledger.json",
+      "sha256": "e9a4c0f709ee3c11425730d8cea4f72e150d125db3a497ccad786438db7d376b",
+      "bytes": 253740
+    },
+    {
+      "name": "game-corpus.json",
+      "sha256": "2a736c80ad265985934dd6f33df618a3f22b58f2727d0327ee2f75528a02832b",
+      "bytes": 838502
+    },
+    {
+      "name": "game-index.csv",
+      "sha256": "28b2373ce6d9393648528c2393154e9faab970dca4faca414e2a7e9eb5df1942",
+      "bytes": 30751
+    },
+    {
+      "name": "history-corpus.json",
+      "sha256": "18b210c0858975ffe26809b3fd471a34a306cfc071f3d28aa41ea159c6461436",
+      "bytes": 58983
+    },
+    {
+      "name": "history-editorial-audit.md",
+      "sha256": "65a424420e4ddc14d824fed9a836c0f156258e1c6d266d0a6ac63288e7b19922",
+      "bytes": 10115
+    },
+    {
+      "name": "history-index.json",
+      "sha256": "bb1e469975844bb058e64031122a7a94a3389b4c28ae2226fdb902667bab4b4d",
+      "bytes": 4197
+    },
+    {
+      "name": "history-references.csl.json",
+      "sha256": "43769eb78d4ce6092bf46574be8dd5792fcac8e6163d8222f9c9af7d3e5497f4",
+      "bytes": 10353
+    },
+    {
+      "name": "history-references.ris",
+      "sha256": "aac19bc4428e59f1b2bed4373b32d3b30849be6773368fc592dbc898cf98dee9",
+      "bytes": 8874
+    },
+    {
+      "name": "history-source-ledger.json",
+      "sha256": "1ae782282df2b95db6ad1ecda35b2144b9291e16a5bd60a3f043e3dc655cc188",
+      "bytes": 9509
+    },
+    {
+      "name": "introspective-brief.md",
+      "sha256": "c4c72c3bce6b6b140c0a66fb59b51c1f23cb0257770f6bb37dedec11ae72715c",
+      "bytes": 9902
+    },
+    {
+      "name": "Lesbian-History-Field-Guide.md",
+      "sha256": "e9faf30a1b04d9b665aa92450187a51fd3c2acdce247eaf8e1d79dea2b3b1022",
+      "bytes": 50922
+    },
+    {
+      "name": "Manuscript.md",
+      "sha256": "72b1b5fec645b6f623eaf516922ccdb8b7b16a4f6486a5d7734cb1eb7ac8befa",
+      "bytes": 1110945
+    },
+    {
+      "name": "page-index.json",
+      "sha256": "097c0afc296fda8cef51f888fae3878be67a32cf44069d2bfc39ca2ef652444f",
+      "bytes": 12717
+    },
+    {
+      "name": "Panorama-Complete-Omnibus.pdf",
+      "sha256": "c8cba8c7739cbf298ae871551129b495649425a3f2584951d27b80a61a1d1fe3",
+      "bytes": 2662136
+    },
+    {
+      "name": "Panorama-Reader-Bundle.zip",
+      "sha256": "889eb8a8731c431e7e3249c2c2390976076e1a16b635a2d59e9f70417d74f29e",
+      "bytes": 5505200
+    },
+    {
+      "name": "Panorama-Volume-01.pdf",
+      "sha256": "2c29469798ca80f206b7fdef9f9285cf914416331c864a32caaf054b415c50a7",
+      "bytes": 548146
+    },
+    {
+      "name": "Panorama-Volume-02.pdf",
+      "sha256": "5426de9d306a0a9d1417a656738f79a872f82cc1ab064ccabafee718f8c5a543",
+      "bytes": 421297
+    },
+    {
+      "name": "Panorama-Volume-03.pdf",
+      "sha256": "145d14d538c30612d66ed9afe3676c3d30a608a81ed17085b8d69a1aa7e1c56a",
+      "bytes": 417279
+    },
+    {
+      "name": "Panorama-Volume-04.pdf",
+      "sha256": "2a06921a01d60625fd2af06632bd6f6a4c427f6c7834366692e197df59db4b32",
+      "bytes": 419127
+    },
+    {
+      "name": "Panorama-Volume-05.pdf",
+      "sha256": "74b2a217aa0eb79483ef5b87e271aaa20259d1f5d3a631054a58d0d45e893dbc",
+      "bytes": 413989
+    },
+    {
+      "name": "Panorama-Volume-06.pdf",
+      "sha256": "b6fcde4fb208b1c377817bf0d573ff97989f5f39a98ed9fe3c208e659f81c4df",
+      "bytes": 416092
+    },
+    {
+      "name": "reader-review.md",
+      "sha256": "b2c16a2df98ecac92092e294b0e42ccdb4527d4ea6f0479144f0c828caefccfb",
+      "bytes": 1598
+    },
+    {
+      "name": "README.md",
+      "sha256": "790296c510ab3f831cc68f3fc9c06b7c79dfdbf92a554ee68153c9b0c223ce82",
+      "bytes": 9098
+    },
+    {
+      "name": "references.csl.json",
+      "sha256": "4546ff6a7779bc03ab5f1b31e50273431e9d9451fe1398f1cf9847180cb57a5a",
+      "bytes": 112498
+    },
+    {
+      "name": "references.ris",
+      "sha256": "8773b19120c05da1ca96109fdbf6c5483ff778d04a6389047ce32d74a1dc76fe",
+      "bytes": 58539
+    },
+    {
+      "name": "revision-check.json",
+      "sha256": "b92de3a6df41bfb9e641631631c467411c5eb6b1d770b0076653e5a6652e6621",
+      "bytes": 1864
+    },
+    {
+      "name": "routing-rules.json",
+      "sha256": "663dccaf871c46dbfedb941ce298886fd0f30e7e8755857c7aab37790a8348cd",
+      "bytes": 19835
+    },
+    {
+      "name": "Source-Notes.md",
+      "sha256": "026fe4db8c4b5ebf1a90066f68d9bb53271121727eb102948e68841ba226de25",
+      "bytes": 80080
+    },
+    {
+      "name": "Start-Here.html",
+      "sha256": "8ca124ffe68ac8eacb0b8e4b9005339f6cac9eafb619577bc420a74142c289a2",
+      "bytes": 1150951
+    },
+    {
+      "name": "Ten-Toes-Down-Panorama.epub",
+      "sha256": "0dbcdc0944ef74f18354bd125902e9e0ea1771d7c4af5573b0dfcc6913640416",
+      "bytes": 1324342
+    },
+    {
+      "name": "validation-report.json",
+      "sha256": "699b377075016fc89f0ed0280d74da7704cf71779a3647253fb435115a77c4c0",
+      "bytes": 4942
+    },
+    {
+      "name": "visual-review-volumes-01-03.md",
+      "sha256": "76d5d257356777971ca898fb95efc31f305539103bd4a6fb7e71974117cb76f9",
+      "bytes": 6966
+    },
+    {
+      "name": "visual-review-volumes-04-06.md",
+      "sha256": "ccba0862e8da0853485059dc8fde88cadd74eade522a79e73085260a0ad67f24",
+      "bytes": 3357
+    }
+  ]
+}

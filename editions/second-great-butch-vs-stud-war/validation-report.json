@@ -1,0 +1,97 @@
+{
+  "games": 240,
+  "cards_checked": 240,
+  "paragraphs_checked": 4565,
+  "pdf_pages": {
+    "Panorama-Volume-01.pdf": 132,
+    "Panorama-Volume-02.pdf": 93,
+    "Panorama-Volume-03.pdf": 95,
+    "Panorama-Volume-04.pdf": 95,
+    "Panorama-Volume-05.pdf": 93,
+    "Panorama-Volume-06.pdf": 93
+  },
+  "duplicate_long_paragraphs": [],
+  "short_spill_pages": [],
+  "notes": [
+    "Rasterization checks renderability; contact sheets and selected full-resolution pages require separate visual inspection.",
+    "No full game playthrough is claimed. All game fit tiers are editorial suggestions."
+  ],
+  "historical_dossiers_checked": 22,
+  "omnibus_page_sequence_matches_volumes": true,
+  "omnibus_links_preserved": {
+    "all_annotations": 620,
+    "internal_targets": 293,
+    "external_source_links": 327
+  },
+  "epub_xml_manifest_spine_links": "passed",
+  "pdf_unique_pages_rendered": 601,
+  "page_chorus_quota": {
+    "Panorama-Volume-01.pdf": {
+      "pages": 132,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 17,
+      "every_page_at_least_15": true
+    },
+    "Panorama-Volume-02.pdf": {
+      "pages": 93,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 16,
+      "every_page_at_least_15": true
+    },
+    "Panorama-Volume-03.pdf": {
+      "pages": 95,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 15,
+      "every_page_at_least_15": true
+    },
+    "Panorama-Volume-04.pdf": {
+      "pages": 95,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 15,
+      "every_page_at_least_15": true
+    },
+    "Panorama-Volume-05.pdf": {
+      "pages": 93,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 15,
+      "every_page_at_least_15": true
+    },
+    "Panorama-Volume-06.pdf": {
+      "pages": 93,
+      "minimum_exact_plural_occurrences": 15,
+      "maximum_exact_plural_occurrences": 15,
+      "every_page_at_least_15": true
+    }
+  },
+  "omnibus_every_page_at_least_15": true,
+  "publication_files_sha256": {
+    "build-report.json": "a9714573f19157421d4666a106c23892523b77469527202fd6511f7d80c82674",
+    "Cultural-Reading-Notes.md": "11c4790ae6bfba2853916857cfd997f25a1b3abb37688470f2374630063779a1",
+    "cultural-references.csl.json": "6186aff7cfebe6aaa49a35138b35e97504f4ae63db8ad3be7f4e08dbd797b6f6",
+    "cultural-references.ris": "00184dc1819881fe7960d20dd1798dde4775bbb29cfce64e353a4410fcdac24d",
+    "cultural-source-ledger.json": "bbfa93709197354566b0d33194e8663f8cc4a816c051219dc7e2ec6f95ef4932",
+    "discussion-index.json": "3ace36c35d3e09e1c5a26b2fc5aed48f233f0d64bfdc64cd813d800931d7f94e",
+    "evidence-ledger.json": "e9a4c0f709ee3c11425730d8cea4f72e150d125db3a497ccad786438db7d376b",
+    "game-corpus.json": "2a736c80ad265985934dd6f33df618a3f22b58f2727d0327ee2f75528a02832b",
+    "game-index.csv": "28b2373ce6d9393648528c2393154e9faab970dca4faca414e2a7e9eb5df1942",
+    "history-corpus.json": "18b210c0858975ffe26809b3fd471a34a306cfc071f3d28aa41ea159c6461436",
+    "history-index.json": "bb1e469975844bb058e64031122a7a94a3389b4c28ae2226fdb902667bab4b4d",
+    "history-references.csl.json": "43769eb78d4ce6092bf46574be8dd5792fcac8e6163d8222f9c9af7d3e5497f4",
+    "history-references.ris": "aac19bc4428e59f1b2bed4373b32d3b30849be6773368fc592dbc898cf98dee9",
+    "history-source-ledger.json": "1ae782282df2b95db6ad1ecda35b2144b9291e16a5bd60a3f043e3dc655cc188",
+    "Lesbian-History-Field-Guide.md": "e9faf30a1b04d9b665aa92450187a51fd3c2acdce247eaf8e1d79dea2b3b1022",
+    "Manuscript.md": "72b1b5fec645b6f623eaf516922ccdb8b7b16a4f6486a5d7734cb1eb7ac8befa",
+    "page-index.json": "097c0afc296fda8cef51f888fae3878be67a32cf44069d2bfc39ca2ef652444f",
+    "Panorama-Complete-Omnibus.pdf": "c8cba8c7739cbf298ae871551129b495649425a3f2584951d27b80a61a1d1fe3",
+    "Panorama-Volume-01.pdf": "2c29469798ca80f206b7fdef9f9285cf914416331c864a32caaf054b415c50a7",
+    "Panorama-Volume-02.pdf": "5426de9d306a0a9d1417a656738f79a872f82cc1ab064ccabafee718f8c5a543",
+    "Panorama-Volume-03.pdf": "145d14d538c30612d66ed9afe3676c3d30a608a81ed17085b8d69a1aa7e1c56a",
+    "Panorama-Volume-04.pdf": "2a06921a01d60625fd2af06632bd6f6a4c427f6c7834366692e197df59db4b32",
+    "Panorama-Volume-05.pdf": "74b2a217aa0eb79483ef5b87e271aaa20259d1f5d3a631054a58d0d45e893dbc",
+    "Panorama-Volume-06.pdf": "b6fcde4fb208b1c377817bf0d573ff97989f5f39a98ed9fe3c208e659f81c4df",
+    "routing-rules.json": "663dccaf871c46dbfedb941ce298886fd0f30e7e8755857c7aab37790a8348cd",
+    "Source-Notes.md": "026fe4db8c4b5ebf1a90066f68d9bb53271121727eb102948e68841ba226de25",
+    "Start-Here.html": "8ca124ffe68ac8eacb0b8e4b9005339f6cac9eafb619577bc420a74142c289a2",
+    "Ten-Toes-Down-Panorama.epub": "0dbcdc0944ef74f18354bd125902e9e0ea1771d7c4af5573b0dfcc6913640416"
+  }
+}

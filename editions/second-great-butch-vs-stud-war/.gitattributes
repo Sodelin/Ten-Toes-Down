@@ -1,0 +1,5 @@
+* -text
+*.pdf binary
+*.epub binary
+*.zip binary
+*.ris whitespace=-blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

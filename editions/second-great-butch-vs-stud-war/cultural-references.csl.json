@@ -1,0 +1,120 @@
+[
+  {
+    "id": "C1",
+    "type": "article-journal",
+    "title": "Black lesbian gender and sexual culture: celebration and resistance",
+    "author": [
+      {
+        "literal": "Bianca D. M. Wilson"
+      }
+    ],
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/19296308/",
+    "note": "Abstract only; full article not inspected for this revision.",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.1080/13691050802676876"
+  },
+  {
+    "id": "C2",
+    "type": "webpage",
+    "title": "Brown Boi Project — About Us",
+    "author": [
+      {
+        "literal": "Brown Boi Project"
+      }
+    ],
+    "URL": "https://www.brownboiproject.org/about-us.html",
+    "note": "Organizational self-description and participant testimony on the About Us page."
+  },
+  {
+    "id": "C3",
+    "type": "webpage",
+    "title": "The Combahee River Collective Statement",
+    "author": [
+      {
+        "literal": "Combahee River Collective"
+      }
+    ],
+    "URL": "https://lgbtqhistory.org/wp-content/uploads/2019/04/Combahee_River_Collective_Statement.pdf",
+    "note": "Selected sections of the primary statement, especially pages 1–4 of this reproduction.",
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    }
+  },
+  {
+    "id": "C4",
+    "type": "webpage",
+    "title": "Stone Butch Blues — selected author notes",
+    "author": [
+      {
+        "literal": "Leslie Feinberg"
+      }
+    ],
+    "URL": "https://www.lesliefeinberg.net/wp-content/uploads/2015/08/Stone-Butch-Blues-by-Leslie-Feinberg.pdf",
+    "note": "Selected author notes, printed pages 333–335 / PDF pages 350–352. No fresh full reading of the novel is claimed."
+  },
+  {
+    "id": "C5",
+    "type": "webpage",
+    "title": "What Is a Stud? The History of Black Lesbian Masculinity",
+    "author": [
+      {
+        "literal": "Them"
+      }
+    ],
+    "URL": "https://www.them.us/story/what-is-a-stud-the-history-of-black-lesbian-masculinity",
+    "note": "Brief use of first-person interviews with Cortney Matthewis and $leazy EZ; no interview quotations reused."
+  },
+  {
+    "id": "C6",
+    "type": "webpage",
+    "title": "The Gender of Desire: Joan Nestle’s Last Interview — Our Dyke Histories",
+    "author": [
+      {
+        "literal": "Joan Nestle; interviewer Jack Gieseking"
+      }
+    ],
+    "URL": "https://www.queergeographies.com/the-gender-of-desire-joan-nestles-last-interview/",
+    "note": "Selected written interview/transcript passages; audio not auditioned."
+  },
+  {
+    "id": "C7",
+    "type": "webpage",
+    "title": "Mabel Hampton Oral History Project — Reflections on Lesbian Fashion",
+    "author": [
+      {
+        "literal": "Lesbian Herstory Archives / Pratt curated exhibit"
+      }
+    ],
+    "URL": "https://herstories.prattinfoschool.nyc/omeka/exhibits/show/reflections-on-lesbian-fashion/mabel-hampton-oral-history-pro",
+    "note": "Curatorial descriptions inspected; recordings not auditioned and no new transcript made."
+  },
+  {
+    "id": "C8",
+    "type": "webpage",
+    "title": "Sylvia Rivera’s 1973 speech — transcript in Document Set 3",
+    "author": [
+      {
+        "literal": "Sylvia Rivera; reproduction by TeachRock"
+      }
+    ],
+    "URL": "https://teachrock.org/wp-content/uploads/Document-Set-3-Sylvia-Rivera.pdf",
+    "note": "Speech transcript on PDF page 2. The packet’s Stonewall biographical claim is not relied upon.",
+    "issued": {
+      "date-parts": [
+        [
+          1973
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "P041",
+  "status": "matched",
+  "title": "Sid Meier’s Civilization® VI",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/289070/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "In-App Purchases",
+    "Steam Turn Notifications",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

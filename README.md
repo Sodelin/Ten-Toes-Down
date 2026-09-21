@@ -1,5 +1,13 @@
 # Ten Toes Down
 
+## The Second Great Butch vs. Stud War
+
+**240 games, six volumes, 601 pages.** The Coalition Edition brings a fictional 1967 feud, drag performances and a lesbian/trans coalition signing to the Panorama. Practical game information stays first. Adult comedy and an intentionally excessive reclaimed-language crew chorus.
+
+Includes six sustained conversations about race, work, public space, drag, desire and coalition, plus a 22-dossier lesbian-history field guide with 32 linked historical sources and explicitly separate fictional commentary.
+
+[Open the Coalition Edition](editions/second-great-butch-vs-stud-war/) | [Complete PDF](editions/second-great-butch-vs-stud-war/Panorama-Complete-Omnibus.pdf) | [EPUB](editions/second-great-butch-vs-stud-war/Ten-Toes-Down-Panorama.epub) | [Offline reader bundle](editions/second-great-butch-vs-stud-war/Panorama-Reader-Bundle.zip)
+
 ## The Panorama - The Tellings Cut
 
 **240 games · six books · 364 pages.** The adult Tellings voice returns through all-new game-night scenes. Clear pitches, play actions, main catches and first tries now lead every card. Includes reclaimed in-group language, cocaine references, sexual innuendo and strong profanity.

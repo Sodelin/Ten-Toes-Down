@@ -1,0 +1,97 @@
+{
+  "title": "Ten Toes Down: The Second Great Butch vs. Stud War - The Panorama of Games for Lillian",
+  "games": 240,
+  "volumes": 6,
+  "unique_manuscript_word_count": 161683,
+  "word_count_method": "Regex word tokens in single combined Markdown; excludes duplicate PDF introductions, offline app and raw source cache",
+  "epub_chapters": 301,
+  "pdf_pages": {
+    "Panorama-Volume-01.pdf": 132,
+    "Panorama-Volume-02.pdf": 93,
+    "Panorama-Volume-03.pdf": 95,
+    "Panorama-Volume-04.pdf": 95,
+    "Panorama-Volume-05.pdf": 93,
+    "Panorama-Volume-06.pdf": 93,
+    "Panorama-Complete-Omnibus.pdf": 601
+  },
+  "tier_counts": {
+    "promising": 33,
+    "conditional": 188,
+    "detour": 19
+  },
+  "primary_declaration_records": 190,
+  "all_games_have_source_notes": true,
+  "full_playthroughs": 0,
+  "original_comic_and_catalog_prose_word_count": 112501,
+  "sustained_dialogues": [
+    {
+      "id": "D01",
+      "volume": 1,
+      "page": 40,
+      "title": "The First War Had a Jacket and the Second Had a Default Setting",
+      "topic": "Names, race and who gets treated as the default",
+      "words": 1578,
+      "epub_file": "v1-inter9.xhtml",
+      "omnibus_page": 40
+    },
+    {
+      "id": "D02",
+      "volume": 2,
+      "page": 27,
+      "title": "Both Sides of the Paper and Who Gets Paid to Hold It",
+      "topic": "Money, labor and respectability",
+      "words": 1673,
+      "epub_file": "v2-inter9.xhtml",
+      "omnibus_page": 159
+    },
+    {
+      "id": "D03",
+      "volume": 3,
+      "page": 27,
+      "title": "The Same Door Did Not Look the Same from Every Chair",
+      "topic": "Public space and being read by strangers",
+      "words": 1485,
+      "epub_file": "v3-inter9.xhtml",
+      "omnibus_page": 252
+    },
+    {
+      "id": "D04",
+      "volume": 4,
+      "page": 48,
+      "title": "The Camera Did Not Get to Name Everybody",
+      "topic": "Drag, identity and the audience",
+      "words": 1494,
+      "epub_file": "v4-inter19.xhtml",
+      "omnibus_page": 368
+    },
+    {
+      "id": "D05",
+      "volume": 5,
+      "page": 27,
+      "title": "The Dance Was Not a Reward for Being Useful",
+      "topic": "Desire, femmes and the work of care",
+      "words": 1481,
+      "epub_file": "v5-inter9.xhtml",
+      "omnibus_page": 442
+    },
+    {
+      "id": "D06",
+      "volume": 6,
+      "page": 27,
+      "title": "Peace Could Not Be Purchased with My Portrait Budget",
+      "topic": "Coalition, resources and accountability",
+      "words": 1630,
+      "epub_file": "v6-inter9.xhtml",
+      "omnibus_page": 535
+    }
+  ],
+  "cultural_sources": 8,
+  "historical_dossiers": 22,
+  "history_field_guide_start_page": 106,
+  "history_source_records": 32,
+  "historical_field_guide_words": 6546,
+  "history_source_prose_words": 3159,
+  "repeated_chorus_uses_per_pdf_page": 15,
+  "epub_chorus_scope": "15 uses at each chapter boundary; screen pages are reflowable",
+  "repeated_chorus_in_manuscript_word_count": true
+}

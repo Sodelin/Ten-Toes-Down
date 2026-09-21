@@ -1,0 +1,26 @@
+{
+  "id": "P003",
+  "status": "matched",
+  "title": "Phoenix Wright: Ace Attorney Trilogy",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/787480/",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Touch Only Option",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

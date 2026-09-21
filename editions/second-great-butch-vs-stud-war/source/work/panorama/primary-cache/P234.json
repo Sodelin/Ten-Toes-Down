@@ -1,0 +1,30 @@
+{
+  "id": "P234",
+  "status": "matched",
+  "title": "Trine Enchanted Edition",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/35700/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Includes level editor",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

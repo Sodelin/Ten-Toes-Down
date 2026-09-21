@@ -1,0 +1,256 @@
+{
+  "departments": [
+    {
+      "number": 1,
+      "title": "The Missing Treaty and the War over Entrance Music"
+    },
+    {
+      "number": 2,
+      "title": "The Treasury Has Survived the Second Great War"
+    },
+    {
+      "number": 3,
+      "title": "Nigga, Your Empire Is Blocking the Door"
+    },
+    {
+      "number": 4,
+      "title": "Nigga, the Peace Table Has to Stand Up"
+    },
+    {
+      "number": 5,
+      "title": "The Witnesses Disagreed About the Jacket"
+    },
+    {
+      "number": 6,
+      "title": "Peace, Shared Songs and My Unpaid Portrait"
+    }
+  ],
+  "moods": [
+    "Quietly curious",
+    "Ready for conversation",
+    "Willing to inspect a thing",
+    "Here for the atmosphere",
+    "Open to a wildcard"
+  ],
+  "emblems": [
+    "Envelope",
+    "Key",
+    "Plant",
+    "Map",
+    "Teacup",
+    "Spare chair",
+    "Gold stamp",
+    "Clock"
+  ],
+  "aspects": [
+    [
+      "Two Detectives, One Petty Rivalry",
+      "Choose mysteries you want to discuss. Conversation beside a single-player game is not native co-op."
+    ],
+    [
+      "The Coalition Can Bring the Map Here",
+      "Prefer a desk, static scene or fixed framing; check the actual movement and camera."
+    ],
+    [
+      "Velvet Has Questions for the Ghost",
+      "Supernatural stories may appeal; horror and bereavement still deserve a look."
+    ],
+    [
+      "Three Caucuses, One Comfortable Chair",
+      "An intimate setting can contain a rich story. A small world does not guarantee simple decisions."
+    ],
+    [
+      "My Turn Is Not a Diplomatic Emergency",
+      "Turn-based candidates can wait between choices while still having complicated menus."
+    ],
+    [
+      "You Have the Controller; I Have a Theory",
+      "Agree whether you want co-op, shared discussion or passing the controls."
+    ],
+    [
+      "The Plant Has Refused to Sign",
+      "Observation and occult mysteries; check the reference-book and clue-tracking work."
+    ],
+    [
+      "Rae Fixed the Treaty Table",
+      "Building can be absorbing. Confirm the desired mode and its control demands."
+    ],
+    [
+      "Nia Came for the Story and Stayed for Rae",
+      "Character interest can motivate a game; reading load and choice pressure remain separate questions."
+    ],
+    [
+      "Mika Reopened the Side Door",
+      "Explore because the place interests you; test movement and looking around before a longer journey."
+    ],
+    [
+      "The Puzzle Can Wait for the Encore",
+      "Use evidence about untimed play. A funny trait cannot establish a feature."
+    ],
+    [
+      "Aiden Has No Veto Over My Evening",
+      "Choose directly, stop or change your mind without spending a token."
+    ]
+  ],
+  "incidents": [
+    [
+      "The rival lecterns form a table",
+      "Rae and Kit cooperate before Aiden can photograph the rivalry. Choose a row; repairing the furniture does not change a game feature."
+    ],
+    [
+      "Three badges, one delegate",
+      "Nia sits with both caucuses. Aiden orders another badge and receives another bill. Choose a row; no identity adds or subtracts points."
+    ],
+    [
+      "The drag programme has a rider",
+      "Velvet finds an unpaid rehearsal in the schedule. Mika finds a pen. Choose a row while the performance gets its own agreement."
+    ],
+    [
+      "King Receipts enters twice",
+      "Remy wants the cash-register fanfare to land properly. The second entrance is worse and he enjoys it more. Choose a row; no encore roll."
+    ],
+    [
+      "The cocaine is not a centrepiece",
+      "Darnell misunderstands the hospitality plan. Rosa clears the game table and Dre puts down dinner. Choose a row; no fictional drug affects the route."
+    ],
+    [
+      "The karaoke caucus expands",
+      "Kit starts a song and discovers Rae knows the harmony. Aiden loses his scheduled welcome slot. Choose a row."
+    ],
+    [
+      "The trans delegation has the actual key",
+      "Mika opens the side room everyone has been debating. It contains chairs. Choose a row; you do not have to hold a meeting to sit down."
+    ],
+    [
+      "A dance enters the minutes",
+      "Nia asks Rae directly. Rae says yes. Aiden tries to record a historic development and is told to find his own wife. Choose a row."
+    ],
+    [
+      "The blue controller has no foreign policy",
+      "Dre calls dibs, then offers to swap when somebody wants that seat. Aiden abandons his theory about international colours. Choose a row."
+    ],
+    [
+      "The treaty pen is a eyeliner pencil",
+      "Velvet retrieves her property. Kit lends an ordinary pen. Choose a row while the summit discovers affordable stationery."
+    ],
+    [
+      "Private negotiations upstairs",
+      "Shawna and Aiden leave their own agenda out of the public record. Tank can say choose a row without a ceremonial sash. Choose one whenever wanted."
+    ],
+    [
+      "The portrait receives no reimbursement",
+      "All caucuses agree the giant picture of Aiden was his own decision. Choose a row; unanimity is occasionally very inexpensive."
+    ]
+  ],
+  "rules": [
+    [
+      "Article 1. Enter through any door you like",
+      [
+        "Choose a department by what you want to do. Book I investigates suspicious people. Book II lets a turn wait for you. Book III looks around. Book IV moves ideas and objects into place. Book V listens to characters. Book VI brings company. A game belongs to one shelf in this Panorama so the count stays honest; its pleasures can overlap several shelves.",
+        "For the practical route, choose two titles from a shelf, read the catch, and try the more appealing opening. For the ceremonial route, continue below. The ceremony does not know better than you do.",
+        "Kit said the mystery room needed a better name. Rae suggested \"the room with the mysteries.\" Velvet proposed \"Evidence, Darling.\" I offered \"The Aiden Memorial Institute of Suspicion.\" \"You're alive,\" Nia said. \"And still talking,\" Rae added. Mika printed MYSTERIES on a sheet of paper and taped it to the door. The room became easier to find. My niggas had negotiated a sign by declining to negotiate with me."
+      ]
+    ],
+    [
+      "Article 2. Name what the evening needs",
+      [
+        "Write or say up to three actual preferences: no required rush; no separate camera steering; avoid held input; few menus; light reading; little clue tracking; or native co-op. Add any theme you do not want. You can choose fewer than three or add your own.",
+        "These are boundaries for the selection, not traits assigned to a person. They can change next time. The record should read “tonight, no camera wrestling,” not an assessment of somebody’s capabilities. One is useful information. The other is a stranger wearing a clipboard.",
+        "A source gap is not permission to promise a feature. If we have not established how a game handles a requirement, its card is a question to check or a reason to choose another game. The optional web finder treats strict feature filters conservatively. The printed cards put the concrete catch beside the temptation.",
+        "Rae wanted no sudden rush and a place to put her drink. Kit wanted a story with somebody worth arguing about. Nia wanted to sit beside Rae. I began assigning each wish a ministry. \"Nigga, hers needs a chair,\" Tank said. Nia pulled one over herself. The coalition resolved its first territorial question by moving furniture six inches."
+      ]
+    ],
+    [
+      "Article 3. Choose a row, because the binder demands coordinates",
+      [
+        "Each department has forty cases. Pick one of five rows: 1, Quietly Curious; 2, Ready for a Conversation; 3, Willing to Inspect a Thing; 4, Here for the Atmosphere; 5, Open to a Wildcard. These are ceremonial mood names. They do not certify that every game on a row meets that mood; the actual card and preferences decide that.",
+        "Choose a row freely. If you want dice, roll one ordinary six-sided die. Results 1–5 select that row. On a 6, visit the Incident Desk once and then choose a row yourself. There is no recursive reroll trap. The Incident Desk has had its authority to extend the evening revoked.",
+        "I called the mood rows a psychological instrument. Mika asked who had calibrated it. I said I liked the typeface. Velvet selected Here for the Atmosphere while adjusting an earring large enough to alter it. \"My niggas, an instrument,\" Tank said, \"is what Mercedes is trying to play while you explain the fucking menu.\" I left the mood rows to their modest work."
+      ]
+    ],
+    [
+      "Article 4. Select the object whose paperwork you distrust",
+      [
+        "Choose an emblem, or roll an eight-sided die: 1 Envelope, 2 Key, 3 Plant, 4 Map, 5 Teacup, 6 Spare Chair, 7 Gold Stamp, 8 Clock. Read the corresponding column of the department’s five-by-eight route grid.",
+        "The grid gives a case number. For example, department 1, row 2, emblem 3 gives local case 11, P011. Department 6 at those same coordinates gives P211. The same coordinates in different departments lead to different games. This is either a filing system or a multiverse, depending on whether you are speaking to Shawna or me.",
+        "Remy chose the Gold Stamp because it matched his jacket. Kit chose the Key because hers were missing. Rae selected the Spare Chair and immediately sat in it. I tried to explain that it was symbolic. \"Then symbolically get another one,\" she said. Nia moved her bag. We had a perfectly good emblem and an actual seat, and I was the only person dissatisfied."
+      ]
+    ],
+    [
+      "Article 5. Optional: give the evening an outrageously specific title",
+      [
+        "Write one short session trait. Examples: “Two Detectives, One Sandwich”; “The Map Can Come to Me”; “I Want to Know What She Meant by That”; “A House with Excellent Stopping Places”; “The Plant Is Lying”; “My Friend Has the Other Controller.” A trait describes a taste or a situation, not a diagnosis.",
+        "Whenever it helps explain why a title sounds interesting, point to it. That explanation is already useful. You do not need a numeric bonus to care about a haunted town or a witness with a suspicious alibi.",
+        "If you enjoy the machinery, begin with three imaginary Stamp Tokens. Spend one to add two to the paperwork total OR reroll all four paperwork dice once. At most one token per selection. Refusing costs nothing; tokens never buy exceptions to preferences.",
+        "Velvet named her trait Paid Before the Encore. Remy chose Entrance Music Longer Than the Entrance. I wrote Historically Indispensable Host. Shawna put a line through indispensable. \"Keep the rest,\" she said. \"You did book the room.\" My niggas had discovered the cheapest possible way to reduce a national monument."
+      ]
+    ],
+    [
+      "Article 6. Four dice that cannot be cashed at the bar",
+      [
+        "Roll four ordinary six-sided dice. Each 1 or 2 means minus one, each 3 or 4 means zero, and each 5 or 6 means plus one. Add the four values. Your paperwork total is between minus four and plus four. This optional layer draws on Fate’s familiar signed-dice idea; the surrounding selection rules are original Panorama rules.",
+        "If you spend a Stamp Token, either add two or reroll all four dice once and use the new total. You cannot buy a second modification on this selection. Reset to three tokens whenever you begin a new browsing session; no ledger needs to survive dinner.",
+        "The dice can produce a total from minus four to plus four. A +2 stamp can raise that part to plus six; the separate refreshment adjustment can add another zero, one or two.",
+        "Kit rolled and began calculating. Rae watched her pencil. \"You always look this serious?\" \"Only when somebody's pretending numbers are fate.\" Nia smiled into her glass. Velvet asked whether a plus two could extend her set. Mika said the arithmetic selected a game. \"Fine. My contract selects the encore.\" Two systems, both suddenly clearer than mine."
+      ]
+    ],
+    [
+      "Article 7. Optional: the snack amendment",
+      [
+        "Record a separate snack adjustment: one if somebody has already brought the drink they wanted, plus one if wanted snacks are within reach and no one is expected to fetch them. The maximum snack adjustment is two. Keep it separate from the dice-and-stamp paperwork total; Article 8 adds it exactly once. If these conditions are irrelevant, use zero. This arithmetic is a joke about hospitality; nobody needs to eat or drink anything to participate.",
+        "Do not delay choosing a game to qualify for this amendment. Do not make a snack score into a task for somebody else. The best possible snack state is people having what they actually want.",
+        "Rae negotiated for better crisps. Kit supported her motion immediately, which spoiled my photograph of historic rivalry. Dre set down the casserole and Tank became the first delegate to support the amendment with both hands. \"My niggas,\" I said, \"let the record show—\" Rosa gave me a plate. For once the record benefited from silence."
+      ]
+    ],
+    [
+      "Article 8. The entirely unnecessary formula",
+      [
+        "First find the local case from the grid: eight times (row minus one), plus emblem. Add the paperwork total and the snack adjustment, if you used them. If the result exceeds forty, subtract forty until it is 1–40. If it is below one, add forty until it is 1–40. Otherwise keep it. The final local case number is always between 1 and 40.",
+        "Then add forty times (department minus one) to get the complete P-number. Department 3, row 1, emblem 2 starts at local case 2. A paperwork total of minus three and a snack adjustment of one gives zero. Wrap zero to forty. In department 3, local case forty is P120.",
+        "This is a shelf address. It is not a probability of enjoyment, a cognitive score, a ranking, or an instruction to buy something. It chooses a page to consider. Read that page’s ordinary fields before treating it as a candidate.",
+        "If arithmetic gets in the way, use the offline finder or choose directly.",
+        "Mika checked the formula. Nia checked the example. Rae checked whether Kit was using the back of the menu as scrap paper. I asked who was checking the atmosphere. Velvet looked over her shoulder. \"I invoiced you for that, darling.\" The shelf address survived the inspection. My claim to be essential did not."
+      ]
+    ],
+    [
+      "Article 9. Read the game first; Aiden can wait",
+      [
+        "Read the short pitch, what you do, main catch and first try before the longer comic scene. The full appeal and catch give the detail behind those summaries. Aiden’s scene and verdict are fiction; a funny reason is not evidence for a game feature.",
+        "Check the exact edition and platform. A remake can change movement, menus and saves. A touch port can differ from a desktop pointer. A Steam store date may be the port’s date rather than the original release. Local co-op, online co-op and two people discussing a single-player game are not interchangeable.",
+        "If the card conflicts with a real preference, reject the candidate. If it is promising but has an unresolved operation, check that specific operation before investing in it. “Can we select this inventory object comfortably?” is more useful than “Is this an easy game?”",
+        "The screen showed a beautiful landscape. I declared it perfect for everybody. Kit asked about the camera. Rae asked about holding buttons. Nia asked which edition I was looking at. \"My niggas,\" Tank said, \"you can't answer a control question with a sunset.\" I turned the card over and read the part I should have read first."
+      ]
+    ],
+    [
+      "Article 10. The appeals court",
+      [
+        "You may make one ceremonial appeal or skip the ceremony entirely. To appeal, choose a neighbor: the previous local case, the next local case, or the same local case in another department. Wrap case 1 backward to 40 and case 40 forward to 1. Check the new card as usual.",
+        "After that one appeal, stop calculating. Choose either candidate, browse the direct index or close the book. Every route ends with a human decision; there is no compulsory loop, escalating fee or penalty for declining both.",
+        "If you would rather talk, talk. If you would rather stop, stop.",
+        "I appealed the seating chart because I was no longer in the middle. Nia asked whether I wanted to be near Shawna or near the photographer. I said both. Shawna held out her hand. The photographer moved to the buffet. My niggas, a constitutional crisis ended with one entirely reasonable choice, and I did not require a second hearing."
+      ]
+    ],
+    [
+      "Article 11. A genuinely useful first session",
+      [
+        "Load the chosen edition before introducing its controls. Show one meaningful action. Keep a reminder if wanted. Find pause, save or exit so leaving feels ordinary. Do not turn a trial into a lesson with a hidden passing grade.",
+        "For a mystery, that might mean one conversation or one clue. For an exploration game, a nearby path and a place to stop. For a turn-based game, one decision with the menus already explained. For co-op, agree who wants which role and whether the roles have equal kinds of action.",
+        "Stop, change games or take a break whenever wanted. A day off makes room for leisure; it does not require a whole day of screen time. The useful note afterward is a sentence about what was enjoyable and where to resume.",
+        "Rae tried one clue. Kit had a theory. Nia listened and then offered a different one. Nobody asked me to introduce the game. I stood there with the microphone until Mika took it gently out of my hand. \"There,\" they said. \"Your first useful action.\" I went to find Shawna, who had saved me a seat without establishing a department for it."
+      ]
+    ],
+    [
+      "Article 12. What these departments are allowed to claim",
+      [
+        "This is a researched, source-linked candidate catalogue with original comic writing. Game descriptions were checked against publisher, developer, platform or identified supporting sources. Control classifications and first-trial suggestions are editorial judgments unless tied to an explicit declaration. No card claims a complete-path playtest.",
+        "The catalogue deliberately contains different levels of complexity. Turn-based strategy and elaborate deduction belong here only for readers who want those specific demands. The direct index and catches let you pass them by. “There are two hundred and forty games” does not mean “all two hundred and forty will suit the same evening.”",
+        "The offline finder uses the same case IDs as the books. It makes no network requests and does not inspect your library. Marking a title interesting does not install or buy it. Its strict feature filters require stated evidence; an unknown is not silently accepted.",
+        "I announced that the catalogue proved universal happiness was possible. Velvet asked whether I had tried every game. \"Not personally.\" \"Then put that on the same fucking poster.\" Nia uncapped the thick pen. My niggas, an honest limitation arrived with better handwriting than my slogan, which was impressive because Nia's handwriting was terrible."
+      ]
+    ]
+  ],
+  "stamp_tokens": 3,
+  "max_modification_actions_per_selection": 1,
+  "max_appeals_per_selection": 1,
+  "veto_is_free": true
+}

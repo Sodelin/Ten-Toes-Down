@@ -1,0 +1,60 @@
+{
+  "source_revision": "0e3fd666e7e1a0907e1e4dcd8ed3213cfee79a04",
+  "games_checked": 240,
+  "game_scenes_rewritten": 240,
+  "game_rulings_rewritten": 240,
+  "all_nonfiction_game_fields_preserved": true,
+  "plain_summaries_preserved": 720,
+  "source_cache_unchanged": true,
+  "previous_editions_manifest_files_preserved": {
+    "ten-toes-down-panorama": 24,
+    "ten-toes-down-panorama-tellings": 25
+  },
+  "source_novels_edited": false,
+  "volumes": [
+    {
+      "volume": 1,
+      "title": "The Missing Treaty and the War over Entrance Music",
+      "fiction_words": 10562,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 1
+    },
+    {
+      "volume": 2,
+      "title": "The Treasury Has Survived the Second Great War",
+      "fiction_words": 10996,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 2
+    },
+    {
+      "volume": 3,
+      "title": "Nigga, Your Empire Is Blocking the Door",
+      "fiction_words": 10829,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 0
+    },
+    {
+      "volume": 4,
+      "title": "Nigga, the Peace Table Has to Stand Up",
+      "fiction_words": 10793,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 0
+    },
+    {
+      "volume": 5,
+      "title": "The Witnesses Disagreed About the Jacket",
+      "fiction_words": 10334,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 0
+    },
+    {
+      "volume": 6,
+      "title": "Peace, Shared Songs and My Unpaid Portrait",
+      "fiction_words": 10691,
+      "new_scenes": 40,
+      "natural_dialogue_plural_uses": 0
+    }
+  ],
+  "fictional_history": "1967 Blue Comet Social Club feud is invented lore; not a claim about actual LGBTQ history",
+  "page_chorus_quota": "Verified separately against every final PDF page; EPUB uses chapter boundaries"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "P204",
+  "status": "matched",
+  "title": "Stardew Valley",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/413150/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}
