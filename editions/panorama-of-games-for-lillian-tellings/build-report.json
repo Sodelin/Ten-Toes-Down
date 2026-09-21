@@ -1,0 +1,26 @@
+{
+  "title": "The Ten Toes Down Panorama of Games for Lillian - The Tellings Cut",
+  "games": 240,
+  "volumes": 6,
+  "unique_manuscript_word_count": 128554,
+  "word_count_method": "Regex word tokens in single combined Markdown; excludes duplicate PDF introductions, offline app and raw source cache",
+  "epub_chapters": 275,
+  "pdf_pages": {
+    "Panorama-Volume-01.pdf": 63,
+    "Panorama-Volume-02.pdf": 54,
+    "Panorama-Volume-03.pdf": 55,
+    "Panorama-Volume-04.pdf": 76,
+    "Panorama-Volume-05.pdf": 56,
+    "Panorama-Volume-06.pdf": 60,
+    "Panorama-Complete-Omnibus.pdf": 364
+  },
+  "tier_counts": {
+    "promising": 33,
+    "conditional": 188,
+    "detour": 19
+  },
+  "primary_declaration_records": 190,
+  "all_games_have_source_notes": true,
+  "full_playthroughs": 0,
+  "original_comic_and_catalog_prose_word_count": 102512
+}

@@ -1,0 +1,4498 @@
+[
+  {
+    "id": "panorama-source-001",
+    "type": "webpage",
+    "title": "The Blackwell Legacy - source record",
+    "URL": "https://store.steampowered.com/app/80330/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P001. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-002",
+    "type": "webpage",
+    "title": "The Blackwell Legacy - source record",
+    "URL": "https://steamcommunity.com/app/80330/allnews/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P001. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-003",
+    "type": "webpage",
+    "title": "The Blackwell Legacy - source record",
+    "URL": "https://www.keengamer.com/articles/reviews/the-blackwell-legacy-review/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P001. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-004",
+    "type": "webpage",
+    "title": "The Darkside Detective - source record",
+    "URL": "https://store.steampowered.com/api/appdetails?appids=368390&l=english",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P002. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-005",
+    "type": "webpage",
+    "title": "The Darkside Detective - source record",
+    "URL": "https://www.bigbossbattle.com/review-the-darkside-detective/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P002. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-006",
+    "type": "webpage",
+    "title": "Phoenix Wright: Ace Attorney Trilogy - source record",
+    "URL": "https://store.steampowered.com/app/787480/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P003. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-007",
+    "type": "webpage",
+    "title": "Phoenix Wright: Ace Attorney Trilogy - source record",
+    "URL": "https://steamcommunity.com/app/787480/announcements/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P003. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-008",
+    "type": "webpage",
+    "title": "Strange Horticulture - source record",
+    "URL": "https://store.steampowered.com/app/1574580/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P004. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-009",
+    "type": "webpage",
+    "title": "Strange Horticulture - source record",
+    "URL": "https://steamdb.info/patchnotes/8300183/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P004. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-010",
+    "type": "webpage",
+    "title": "Strange Horticulture - source record",
+    "URL": "https://www.gamesradar.com/have-you-tried-strange-horticulture/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P004. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-011",
+    "type": "webpage",
+    "title": "The Case of the Golden Idol - source record",
+    "URL": "https://store.steampowered.com/app/1677770/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P005. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-012",
+    "type": "webpage",
+    "title": "The Case of the Golden Idol - source record",
+    "URL": "https://steamcommunity.com/app/1677770/allnews/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P005. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-013",
+    "type": "webpage",
+    "title": "Syberia - source record",
+    "URL": "https://store.steampowered.com/app/46500/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P006. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-014",
+    "type": "webpage",
+    "title": "Syberia - source record",
+    "URL": "https://support.microids.com/fr/support/solutions/articles/23000009217-solutions-syberia-1-et-2",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P006. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-015",
+    "type": "webpage",
+    "title": "Unavowed - source record",
+    "URL": "https://store.steampowered.com/app/336140/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P007. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-016",
+    "type": "webpage",
+    "title": "Unavowed - source record",
+    "URL": "https://gamecritics.com/gc-staff/unavowed-review/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P007. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-017",
+    "type": "webpage",
+    "title": "Her Story - source record",
+    "URL": "https://store.steampowered.com/app/368370/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P008. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-018",
+    "type": "webpage",
+    "title": "Her Story - source record",
+    "URL": "https://steamcommunity.com/app/368370/discussions/0/530645446312998268/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P008. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-019",
+    "type": "webpage",
+    "title": "The Excavation of Hob's Barrow - source record",
+    "URL": "https://store.steampowered.com/app/1182310/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P009. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-020",
+    "type": "webpage",
+    "title": "The Excavation of Hob's Barrow - source record",
+    "URL": "https://www.nintendolife.com/reviews/switch-eshop/the-excavation-of-hobs-barrow",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P009. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-021",
+    "type": "webpage",
+    "title": "The Excavation of Hob's Barrow - source record",
+    "URL": "https://as.com/meristation/2022/09/28/analisis/1664375021_208084.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P009. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-022",
+    "type": "webpage",
+    "title": "Pentiment - source record",
+    "URL": "https://pentiment.obsidian.net/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P010. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-023",
+    "type": "webpage",
+    "title": "Pentiment - source record",
+    "URL": "https://www.mmorpg.com/interviews/the-rpg-files-building-obsidians-pentiment-interview-with-game-director-josh-sawyer-2000126821",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P010. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-024",
+    "type": "webpage",
+    "title": "Old Skies - source record",
+    "URL": "https://store.steampowered.com/app/1346360/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P011. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-025",
+    "type": "webpage",
+    "title": "Primordia - source record",
+    "URL": "https://store.steampowered.com/app/227000/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P012. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-026",
+    "type": "webpage",
+    "title": "Strangeland - source record",
+    "URL": "https://store.steampowered.com/app/1369520/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P013. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-027",
+    "type": "webpage",
+    "title": "Shardlight - source record",
+    "URL": "https://store.steampowered.com/app/336130/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P014. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-028",
+    "type": "webpage",
+    "title": "Technobabylon - source record",
+    "URL": "https://store.steampowered.com/app/307580/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P015. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-029",
+    "type": "webpage",
+    "title": "Blackwell Unbound - source record",
+    "URL": "https://store.steampowered.com/app/80340/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P016. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-030",
+    "type": "webpage",
+    "title": "Blackwell Convergence - source record",
+    "URL": "https://store.steampowered.com/app/80350/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P017. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-031",
+    "type": "webpage",
+    "title": "Blackwell Deception - source record",
+    "URL": "https://store.steampowered.com/app/80360/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P018. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-032",
+    "type": "webpage",
+    "title": "Blackwell Epiphany - source record",
+    "URL": "https://store.steampowered.com/app/236930/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P019. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-033",
+    "type": "webpage",
+    "title": "The Shivah: Kosher Edition - source record",
+    "URL": "https://wadjeteyegames.com/games/the-shivah/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P020. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-034",
+    "type": "webpage",
+    "title": "Resonance - source record",
+    "URL": "https://wadjeteyegames.com/games/resonance/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P021. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-035",
+    "type": "webpage",
+    "title": "Gemini Rue - source record",
+    "URL": "https://store.steampowered.com/app/80310/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P022. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-036",
+    "type": "webpage",
+    "title": "Gemini Rue - source record",
+    "URL": "https://wadjeteyegames.com/2013/04/11/gemini-rue-now-on-the-app-store/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P022. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-037",
+    "type": "webpage",
+    "title": "Emerald City Confidential - source record",
+    "URL": "https://store.steampowered.com/app/37260/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P023. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-038",
+    "type": "webpage",
+    "title": "Emerald City Confidential - source record",
+    "URL": "https://wadjeteyegames.com/games/emerald-city-confidential/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P023. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-039",
+    "type": "webpage",
+    "title": "The Mermaid Mask - source record",
+    "URL": "https://store.steampowered.com/app/1696770/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P024. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-040",
+    "type": "webpage",
+    "title": "The Mermaid Mask - source record",
+    "URL": "https://www.sfbgames.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P024. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-041",
+    "type": "webpage",
+    "title": "Broken Sword - Shadow of the Templars: Reforged - source record",
+    "URL": "https://revolution.co.uk/games_catalog/broken-sword-1/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P025. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-042",
+    "type": "webpage",
+    "title": "Broken Sword 2 - the Smoking Mirror: Remastered - source record",
+    "URL": "https://revolution.co.uk/games_catalog/broken-sword-2/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P026. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-043",
+    "type": "webpage",
+    "title": "Broken Sword 5 - the Serpent's Curse - source record",
+    "URL": "https://revolution.co.uk/games_catalog/broken-sword-5/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P027. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-044",
+    "type": "webpage",
+    "title": "Beneath a Steel Sky - source record",
+    "URL": "https://revolution.co.uk/games_catalog/beneath-a-steel-sky/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P028. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-045",
+    "type": "webpage",
+    "title": "Kathy Rain: Director's Cut - source record",
+    "URL": "https://store.steampowered.com/app/1395030/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P029. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-046",
+    "type": "webpage",
+    "title": "Whispers of a Machine - source record",
+    "URL": "https://store.steampowered.com/app/631570/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P030. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-047",
+    "type": "webpage",
+    "title": "Kathy Rain 2: Soothsayer - source record",
+    "URL": "https://store.steampowered.com/app/1466390/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P031. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-048",
+    "type": "webpage",
+    "title": "Tangle Tower - source record",
+    "URL": "https://store.steampowered.com/app/359510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P032. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-049",
+    "type": "webpage",
+    "title": "Detective Grimoire - source record",
+    "URL": "https://store.steampowered.com/app/272600/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P033. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-050",
+    "type": "webpage",
+    "title": "The Roottrees are Dead - source record",
+    "URL": "https://store.steampowered.com/app/2754380/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P034. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-051",
+    "type": "webpage",
+    "title": "The Rise of the Golden Idol - source record",
+    "URL": "https://store.steampowered.com/app/2716400/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P035. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-052",
+    "type": "webpage",
+    "title": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition - source record",
+    "URL": "https://store.steampowered.com/app/262000/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P036. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-053",
+    "type": "webpage",
+    "title": "Still Life - source record",
+    "URL": "https://store.steampowered.com/app/46480/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P037. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-054",
+    "type": "webpage",
+    "title": "Still Life - source record",
+    "URL": "https://www.gameboomers.com/reviews/Ss/Stilllifebynickie.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P037. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-055",
+    "type": "webpage",
+    "title": "Grim Fandango Remastered - source record",
+    "URL": "https://store.steampowered.com/app/316790/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P038. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-056",
+    "type": "webpage",
+    "title": "Grim Fandango Remastered - source record",
+    "URL": "https://www.doublefine.com/news/grim-fandango-remastered-pre-orders-now-available",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P038. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-057",
+    "type": "webpage",
+    "title": "Thimbleweed Park - source record",
+    "URL": "https://store.steampowered.com/app/569860/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P039. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-058",
+    "type": "webpage",
+    "title": "Full Throttle Remastered - source record",
+    "URL": "https://www.doublefine.com/games/full-throttle-remastered",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P040. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-059",
+    "type": "webpage",
+    "title": "Full Throttle Remastered - source record",
+    "URL": "https://blog.playstation.com/archive/2017/01/13/how-double-fine-is-tuning-up-full-throttle-remastered-for-ps4/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P040. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-060",
+    "type": "webpage",
+    "title": "Sid Meier's Civilization VI - source record",
+    "URL": "https://store.steampowered.com/app/289070/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P041. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-061",
+    "type": "webpage",
+    "title": "Old World - source record",
+    "URL": "https://store.steampowered.com/app/597180/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P042. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-062",
+    "type": "webpage",
+    "title": "HUMANKIND - source record",
+    "URL": "https://store.steampowered.com/app/1124300/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P043. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-063",
+    "type": "webpage",
+    "title": "Into the Breach - source record",
+    "URL": "https://store.steampowered.com/app/590380/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P044. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-064",
+    "type": "webpage",
+    "title": "Wargroove - source record",
+    "URL": "https://store.steampowered.com/app/607050/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P045. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-065",
+    "type": "webpage",
+    "title": "Wargroove 2 - source record",
+    "URL": "https://store.steampowered.com/app/1346020/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P046. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-066",
+    "type": "webpage",
+    "title": "Advance Wars 1+2: Re-Boot Camp - source record",
+    "URL": "https://www.nintendo.com/us/store/products/advance-wars-1-plus-2-re-boot-camp-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P047. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-067",
+    "type": "webpage",
+    "title": "Fire Emblem: Three Houses - source record",
+    "URL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Three-Houses-1175482.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P048. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-068",
+    "type": "webpage",
+    "title": "Fire Emblem Engage - source record",
+    "URL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Engage-2267157.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P049. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-069",
+    "type": "webpage",
+    "title": "Mario + Rabbids Kingdom Battle - source record",
+    "URL": "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P050. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-070",
+    "type": "webpage",
+    "title": "Mario + Rabbids Kingdom Battle - source record",
+    "URL": "https://play.nintendo.com/news-tips/game-releases/mario-rabbids-kingdom-battle-release-date/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P050. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-071",
+    "type": "webpage",
+    "title": "Mario + Rabbids Sparks of Hope - source record",
+    "URL": "https://news.ubisoft.com/en-gb/article/3geL8IbYETmgHk6W017HpS/mario-rabbids-sparks-of-hope-accessibility-spotlight",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P051. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-072",
+    "type": "webpage",
+    "title": "Mario + Rabbids Sparks of Hope - source record",
+    "URL": "https://news.ubisoft.com/en-us/article/65J7B5ga4HkMpxtYWQ7QX5",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P051. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-073",
+    "type": "webpage",
+    "title": "XCOM: Enemy Unknown - source record",
+    "URL": "https://store.steampowered.com/app/200510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P052. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-074",
+    "type": "webpage",
+    "title": "XCOM 2 - source record",
+    "URL": "https://store.steampowered.com/app/268500/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P053. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-075",
+    "type": "webpage",
+    "title": "XCOM 2 - source record",
+    "URL": "https://www.feralinteractive.com/en/manuals/xcom2/latest/steam/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P053. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-076",
+    "type": "webpage",
+    "title": "Invisible, Inc. - source record",
+    "URL": "https://store.steampowered.com/app/243970/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P054. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-077",
+    "type": "webpage",
+    "title": "Invisible, Inc. - source record",
+    "URL": "https://www.gamedeveloper.com/design/game-design-deep-dive-alarm-systems-in-klei-s-i-invisible-inc-i-",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P054. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-078",
+    "type": "webpage",
+    "title": "Shadowrun Returns - source record",
+    "URL": "https://store.steampowered.com/app/234650/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P055. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-079",
+    "type": "webpage",
+    "title": "Shadowrun: Dragonfall - Director's Cut - source record",
+    "URL": "https://store.steampowered.com/app/300550/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P056. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-080",
+    "type": "webpage",
+    "title": "Shadowrun: Hong Kong - Extended Edition - source record",
+    "URL": "https://store.steampowered.com/app/346940/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P057. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-081",
+    "type": "webpage",
+    "title": "Shadowrun: Hong Kong - Extended Edition - source record",
+    "URL": "https://shadowrun-series.fandom.com/wiki/Matrix",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P057. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-082",
+    "type": "webpage",
+    "title": "Wildermyth - source record",
+    "URL": "https://store.steampowered.com/app/763890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P058. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-083",
+    "type": "webpage",
+    "title": "Wartales - source record",
+    "URL": "https://store.steampowered.com/app/1527950/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P059. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-084",
+    "type": "webpage",
+    "title": "Wartales - source record",
+    "URL": "https://www.gamepressure.com/newsroom/professions-in-wartales-explained-list-and-description/zd543a",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P059. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-085",
+    "type": "webpage",
+    "title": "Battle Brothers - source record",
+    "URL": "https://store.steampowered.com/app/365360/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P060. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-086",
+    "type": "webpage",
+    "title": "BATTLETECH - source record",
+    "URL": "https://store.steampowered.com/app/637090/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P061. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-087",
+    "type": "webpage",
+    "title": "TRIANGLE STRATEGY - source record",
+    "URL": "https://store.steampowered.com/app/1850510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P062. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-088",
+    "type": "webpage",
+    "title": "Tactics Ogre: Reborn - source record",
+    "URL": "https://store.steampowered.com/app/1451090/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P063. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-089",
+    "type": "webpage",
+    "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles - source record",
+    "URL": "https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P064. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-090",
+    "type": "webpage",
+    "title": "Disgaea 5 Complete - source record",
+    "URL": "https://store.steampowered.com/app/803600/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P065. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-091",
+    "type": "webpage",
+    "title": "Disgaea 7: Vows of the Virtueless - source record",
+    "URL": "https://store.steampowered.com/app/2250600/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P066. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-092",
+    "type": "webpage",
+    "title": "Chained Echoes - source record",
+    "URL": "https://store.steampowered.com/app/1229240/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P067. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-093",
+    "type": "webpage",
+    "title": "Sea of Stars - source record",
+    "URL": "https://sabotagestudio.com/press-release/sabotage-studio-announces-free-sea-of-stars-update-dawn-of-equinox-bringing-top-fan-requested-additions-to-pc-and-consoles-gains-november-release-date/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P068. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-094",
+    "type": "webpage",
+    "title": "OCTOPATH TRAVELER II - source record",
+    "URL": "https://store.steampowered.com/app/1971650/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P069. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-095",
+    "type": "webpage",
+    "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition - source record",
+    "URL": "https://store.steampowered.com/app/1295510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P070. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-096",
+    "type": "webpage",
+    "title": "Persona 5 Royal - source record",
+    "URL": "https://store.steampowered.com/app/1687950/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P071. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-097",
+    "type": "webpage",
+    "title": "Persona 5 Royal - source record",
+    "URL": "https://gamefaqs.gamespot.com/ps4/260936-persona-5-royal/faqs/78256/week-24-october-1st-october-9th-okumuras-palace",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P071. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-098",
+    "type": "webpage",
+    "title": "Persona 5 Royal - source record",
+    "URL": "https://www.neoseeker.com/persona-5-royal/Okumura%27s_Space_Station",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P071. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-099",
+    "type": "webpage",
+    "title": "BRAVELY DEFAULT II - source record",
+    "URL": "https://store.steampowered.com/app/1446650/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P072. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-100",
+    "type": "webpage",
+    "title": "Slay the Spire - source record",
+    "URL": "https://store.steampowered.com/app/646570/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P073. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-101",
+    "type": "webpage",
+    "title": "Monster Train - source record",
+    "URL": "https://store.steampowered.com/app/1102190/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P074. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-102",
+    "type": "webpage",
+    "title": "Griftlands - source record",
+    "URL": "https://store.steampowered.com/app/601840/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P075. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-103",
+    "type": "webpage",
+    "title": "Dicey Dungeons - source record",
+    "URL": "https://store.steampowered.com/app/861540/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P076. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-104",
+    "type": "webpage",
+    "title": "Dicey Dungeons - source record",
+    "URL": "https://wiki.diceydungeons.com/doku.php?id=dicey_dungeons",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P076. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-105",
+    "type": "webpage",
+    "title": "Balatro - source record",
+    "URL": "https://store.steampowered.com/app/2379780/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P077. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-106",
+    "type": "webpage",
+    "title": "Cobalt Core - source record",
+    "URL": "https://store.steampowered.com/app/2179850/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P078. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-107",
+    "type": "webpage",
+    "title": "Wildfrost - source record",
+    "URL": "https://store.steampowered.com/app/1811990/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P079. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-108",
+    "type": "webpage",
+    "title": "Clubhouse Games: 51 Worldwide Classics - source record",
+    "URL": "https://www.nintendo.com/us/store/products/clubhouse-games-51-worldwide-classics-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P080. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-109",
+    "type": "webpage",
+    "title": "Unpacking - source record",
+    "URL": "https://store.steampowered.com/app/1135690/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P081. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-110",
+    "type": "webpage",
+    "title": "Unpacking - source record",
+    "URL": "https://www.unpackinggame.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P081. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-111",
+    "type": "webpage",
+    "title": "Townscaper - source record",
+    "URL": "https://store.steampowered.com/app/1291340/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P082. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-112",
+    "type": "webpage",
+    "title": "Dorfromantik - source record",
+    "URL": "https://store.steampowered.com/app/1455840/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P083. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-113",
+    "type": "webpage",
+    "title": "Hidden Folks - source record",
+    "URL": "https://store.steampowered.com/app/435400/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P084. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-114",
+    "type": "webpage",
+    "title": "A Short Hike - source record",
+    "URL": "https://store.steampowered.com/app/1055540/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P085. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-115",
+    "type": "webpage",
+    "title": "A Short Hike - source record",
+    "URL": "https://saveorquit.com/2021/01/16/review-a-short-hike/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P085. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-116",
+    "type": "webpage",
+    "title": "Yonder: The Cloud Catcher Chronicles - source record",
+    "URL": "https://store.steampowered.com/app/580200/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P086. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-117",
+    "type": "webpage",
+    "title": "Eastshade - source record",
+    "URL": "https://store.steampowered.com/app/715560/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P087. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-118",
+    "type": "webpage",
+    "title": "Eastshade - source record",
+    "URL": "https://eastshade.com/without-combat/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P087. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-119",
+    "type": "webpage",
+    "title": "Alba: A Wildlife Adventure - source record",
+    "URL": "https://store.steampowered.com/app/1337010/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P088. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-120",
+    "type": "webpage",
+    "title": "TOEM - source record",
+    "URL": "https://store.steampowered.com/app/1307580/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P089. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-121",
+    "type": "webpage",
+    "title": "Lil Gator Game - source record",
+    "URL": "https://store.steampowered.com/app/1586800/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P090. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-122",
+    "type": "webpage",
+    "title": "Smushi Come Home - source record",
+    "URL": "https://store.steampowered.com/app/1740300/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P091. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-123",
+    "type": "webpage",
+    "title": "Haven Park - source record",
+    "URL": "https://store.steampowered.com/app/1549550/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P092. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-124",
+    "type": "webpage",
+    "title": "Mail Time - source record",
+    "URL": "https://store.steampowered.com/app/1607240/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P093. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-125",
+    "type": "webpage",
+    "title": "Lake - source record",
+    "URL": "https://store.steampowered.com/app/1118240/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P094. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-126",
+    "type": "webpage",
+    "title": "SEASON: A letter to the future - source record",
+    "URL": "https://store.steampowered.com/app/695330/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P095. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-127",
+    "type": "webpage",
+    "title": "Sable - source record",
+    "URL": "https://store.steampowered.com/app/757310/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P096. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-128",
+    "type": "webpage",
+    "title": "ABZU - source record",
+    "URL": "https://store.steampowered.com/app/384190/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P097. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-129",
+    "type": "webpage",
+    "title": "Journey - source record",
+    "URL": "https://store.steampowered.com/app/638230/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P098. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-130",
+    "type": "webpage",
+    "title": "The Pathless - source record",
+    "URL": "https://store.steampowered.com/app/1492680/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P099. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-131",
+    "type": "webpage",
+    "title": "Feather - source record",
+    "URL": "https://store.steampowered.com/app/545040/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P100. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-132",
+    "type": "webpage",
+    "title": "AER Memories of Old - source record",
+    "URL": "https://store.steampowered.com/app/331870/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P101. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-133",
+    "type": "webpage",
+    "title": "Proteus - source record",
+    "URL": "https://store.steampowered.com/app/219680/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P102. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-134",
+    "type": "webpage",
+    "title": "Dear Esther: Landmark Edition - source record",
+    "URL": "https://store.steampowered.com/app/520720/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P103. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-135",
+    "type": "webpage",
+    "title": "Everybody's Gone to the Rapture - source record",
+    "URL": "https://store.steampowered.com/app/417880/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P104. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-136",
+    "type": "webpage",
+    "title": "What Remains of Edith Finch - source record",
+    "URL": "https://store.steampowered.com/app/501300/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P105. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-137",
+    "type": "webpage",
+    "title": "Gone Home - source record",
+    "URL": "https://store.steampowered.com/app/232430/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P106. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-138",
+    "type": "webpage",
+    "title": "Firewatch - source record",
+    "URL": "https://store.steampowered.com/app/383870/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P107. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-139",
+    "type": "webpage",
+    "title": "The Stanley Parable: Ultra Deluxe - source record",
+    "URL": "https://store.steampowered.com/app/1703340/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P108. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-140",
+    "type": "webpage",
+    "title": "The Beginner's Guide - source record",
+    "URL": "https://store.steampowered.com/app/303210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P109. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-141",
+    "type": "webpage",
+    "title": "The Vanishing of Ethan Carter Redux - source record",
+    "URL": "https://store.steampowered.com/app/400430/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P110. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-142",
+    "type": "webpage",
+    "title": "The Vanishing of Ethan Carter Redux - source record",
+    "URL": "https://store.steampowered.com/app/258520/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P110. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-143",
+    "type": "webpage",
+    "title": "INFRA - source record",
+    "URL": "https://store.steampowered.com/app/251110/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P111. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-144",
+    "type": "webpage",
+    "title": "Obduction - source record",
+    "URL": "https://store.steampowered.com/app/306760/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P112. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-145",
+    "type": "webpage",
+    "title": "Myst - source record",
+    "URL": "https://store.steampowered.com/app/1255560/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P113. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-146",
+    "type": "webpage",
+    "title": "Riven - source record",
+    "URL": "https://store.steampowered.com/app/1712350/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P114. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-147",
+    "type": "webpage",
+    "title": "Firmament - source record",
+    "URL": "https://store.steampowered.com/app/754890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P115. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-148",
+    "type": "webpage",
+    "title": "The Witness - source record",
+    "URL": "https://store.steampowered.com/app/210970/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P116. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-149",
+    "type": "webpage",
+    "title": "The Talos Principle - source record",
+    "URL": "https://store.steampowered.com/app/257510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P117. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-150",
+    "type": "webpage",
+    "title": "The Talos Principle 2 - source record",
+    "URL": "https://store.steampowered.com/app/835960/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P118. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-151",
+    "type": "webpage",
+    "title": "The Looker - source record",
+    "URL": "https://store.steampowered.com/app/1985690/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P119. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-152",
+    "type": "webpage",
+    "title": "Outer Wilds - source record",
+    "URL": "https://store.steampowered.com/app/753640/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P120. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-153",
+    "type": "webpage",
+    "title": "Baba Is You - source record",
+    "URL": "https://store.steampowered.com/app/736260/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P121. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-154",
+    "type": "webpage",
+    "title": "Patrick's Parabox - source record",
+    "URL": "https://store.steampowered.com/app/1260520/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P122. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-155",
+    "type": "webpage",
+    "title": "Stephen's Sausage Roll - source record",
+    "URL": "https://store.steampowered.com/app/353540/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P123. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-156",
+    "type": "webpage",
+    "title": "Snakebird - source record",
+    "URL": "https://store.steampowered.com/app/357300/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P124. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-157",
+    "type": "webpage",
+    "title": "Snakebird Primer - source record",
+    "URL": "https://store.steampowered.com/app/1014140/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P125. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-158",
+    "type": "webpage",
+    "title": "A Good Snowman Is Hard To Build - source record",
+    "URL": "https://store.steampowered.com/app/316610/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P126. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-159",
+    "type": "webpage",
+    "title": "Cosmic Express - source record",
+    "URL": "https://store.steampowered.com/app/583270/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P127. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-160",
+    "type": "webpage",
+    "title": "A Monster's Expedition - source record",
+    "URL": "https://store.steampowered.com/app/1052990/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P128. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-161",
+    "type": "webpage",
+    "title": "Bonfire Peaks - source record",
+    "URL": "https://store.steampowered.com/app/1147890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P129. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-162",
+    "type": "webpage",
+    "title": "Can of Wormholes - source record",
+    "URL": "https://store.steampowered.com/app/1295320/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P130. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-163",
+    "type": "webpage",
+    "title": "Braid, Anniversary Edition - source record",
+    "URL": "https://store.steampowered.com/app/499180/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P131. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-164",
+    "type": "webpage",
+    "title": "World of Goo - source record",
+    "URL": "https://store.steampowered.com/app/22000/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P132. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-165",
+    "type": "webpage",
+    "title": "World of Goo 2 - source record",
+    "URL": "https://store.steampowered.com/app/3385670/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P133. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-166",
+    "type": "webpage",
+    "title": "HUMANITY - source record",
+    "URL": "https://store.steampowered.com/app/1581480/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P134. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-167",
+    "type": "webpage",
+    "title": "COCOON - source record",
+    "URL": "https://store.steampowered.com/app/1497440/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P135. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-168",
+    "type": "webpage",
+    "title": "Gorogoa - source record",
+    "URL": "https://store.steampowered.com/app/557600/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P136. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-169",
+    "type": "webpage",
+    "title": "Monument Valley: Panoramic Edition - source record",
+    "URL": "https://store.steampowered.com/app/1927720/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P137. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-170",
+    "type": "webpage",
+    "title": "Monument Valley 2: Panoramic Edition - source record",
+    "URL": "https://store.steampowered.com/app/1927740/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P138. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-171",
+    "type": "webpage",
+    "title": "The Room - source record",
+    "URL": "https://store.steampowered.com/app/288160/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P139. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-172",
+    "type": "webpage",
+    "title": "The Room Two - source record",
+    "URL": "https://store.steampowered.com/app/425580/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P140. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-173",
+    "type": "webpage",
+    "title": "The Room Three - source record",
+    "URL": "https://store.steampowered.com/app/456750/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P141. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-174",
+    "type": "webpage",
+    "title": "The Room 4: Old Sins - source record",
+    "URL": "https://store.steampowered.com/app/1361320/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P142. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-175",
+    "type": "webpage",
+    "title": "The House of Da Vinci - source record",
+    "URL": "https://store.steampowered.com/app/522470/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P143. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-176",
+    "type": "webpage",
+    "title": "The House of Da Vinci 2 - source record",
+    "URL": "https://store.steampowered.com/app/1259840/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P144. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-177",
+    "type": "webpage",
+    "title": "The House of Da Vinci 3 - source record",
+    "URL": "https://store.steampowered.com/app/1603640/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P145. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-178",
+    "type": "webpage",
+    "title": "Carto - source record",
+    "URL": "https://store.steampowered.com/app/1172450/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P146. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-179",
+    "type": "webpage",
+    "title": "Chants of Sennaar - source record",
+    "URL": "https://store.steampowered.com/app/1931770/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P147. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-180",
+    "type": "webpage",
+    "title": "Chants of Sennaar - source record",
+    "URL": "https://steamcommunity.com/app/1931770/discussions/0/4040354734349221032/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P147. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-181",
+    "type": "webpage",
+    "title": "Heaven's Vault - source record",
+    "URL": "https://store.steampowered.com/app/774201/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P148. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-182",
+    "type": "webpage",
+    "title": "Return of the Obra Dinn - source record",
+    "URL": "https://store.steampowered.com/app/653530/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P149. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-183",
+    "type": "webpage",
+    "title": "Opus Magnum - source record",
+    "URL": "https://store.steampowered.com/app/558990/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P150. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-184",
+    "type": "webpage",
+    "title": "Sokobond - source record",
+    "URL": "https://store.steampowered.com/app/290260/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P151. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-185",
+    "type": "webpage",
+    "title": "Hexcells - source record",
+    "URL": "https://store.steampowered.com/app/265890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P152. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-186",
+    "type": "webpage",
+    "title": "Tametsi - source record",
+    "URL": "https://store.steampowered.com/app/709920/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P153. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-187",
+    "type": "webpage",
+    "title": "Mario Paint - source record",
+    "URL": "https://www.nintendo.com/us/whatsnew/mario-paint-scribbles-into-the-super-nes-collection/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P154. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-188",
+    "type": "webpage",
+    "title": "Mario Paint - source record",
+    "URL": "https://manualzz.com/doc/26101036/nintendo-mario-paint-family-user-manual",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P154. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-189",
+    "type": "webpage",
+    "title": "Color a Dinosaur - source record",
+    "URL": "https://www.digitpress.com/library/manuals/nes/Color%20a%20Dinosaur.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P155. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-190",
+    "type": "webpage",
+    "title": "The Incredible Machine 3 - source record",
+    "URL": "https://www.sierragamers.com/tim-3/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P156. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-191",
+    "type": "webpage",
+    "title": "The Incredible Machine 3 - source record",
+    "URL": "https://www.sierragamers.com/wp-content/uploads/2019/12/TIM_3_Manual.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P156. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-192",
+    "type": "webpage",
+    "title": "SimCity 2000 Special Edition - source record",
+    "URL": "https://www.gog.com/en/game/simcity_2000_special_edition",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P157. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-193",
+    "type": "webpage",
+    "title": "SimCity 2000 Special Edition - source record",
+    "URL": "https://www.ea.com/games/simcity/simcity-2000",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P157. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-194",
+    "type": "webpage",
+    "title": "RollerCoaster Tycoon Deluxe - source record",
+    "URL": "https://store.steampowered.com/app/285310/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P158. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-195",
+    "type": "webpage",
+    "title": "Theme Hospital - source record",
+    "URL": "https://www.ea.com/games/theme/theme-hospital",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P159. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-196",
+    "type": "webpage",
+    "title": "Zoombinis - source record",
+    "URL": "https://store.steampowered.com/app/397430/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P160. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-197",
+    "type": "webpage",
+    "title": "Coffee Talk - source record",
+    "URL": "https://store.steampowered.com/app/914800/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P161. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-198",
+    "type": "webpage",
+    "title": "Coffee Talk - source record",
+    "URL": "https://www.trueachievements.com/game/Coffee-Talk/walkthrough",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P161. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-199",
+    "type": "webpage",
+    "title": "Coffee Talk Episode 2: Hibiscus & Butterfly - source record",
+    "URL": "https://store.steampowered.com/app/1663220/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P162. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-200",
+    "type": "webpage",
+    "title": "VA-11 Hall-A: Cyberpunk Bartender Action - source record",
+    "URL": "https://store.steampowered.com/app/447530/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P163. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-201",
+    "type": "webpage",
+    "title": "The Red Strings Club - source record",
+    "URL": "https://store.steampowered.com/app/589780/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P164. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-202",
+    "type": "webpage",
+    "title": "Neo Cab - source record",
+    "URL": "https://store.steampowered.com/app/794540/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P165. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-203",
+    "type": "webpage",
+    "title": "Eliza - source record",
+    "URL": "https://store.steampowered.com/app/716500/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P166. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-204",
+    "type": "webpage",
+    "title": "Citizen Sleeper - source record",
+    "URL": "https://store.steampowered.com/app/1578650/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P167. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-205",
+    "type": "webpage",
+    "title": "Citizen Sleeper 2: Starward Vector - source record",
+    "URL": "https://store.steampowered.com/app/2442460/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P168. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-206",
+    "type": "webpage",
+    "title": "Disco Elysium - The Final Cut - source record",
+    "URL": "https://store.steampowered.com/app/632470/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P169. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-207",
+    "type": "webpage",
+    "title": "NORCO - source record",
+    "URL": "https://store.steampowered.com/app/1221250/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P170. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-208",
+    "type": "webpage",
+    "title": "Kentucky Route Zero - source record",
+    "URL": "https://store.steampowered.com/app/231200/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P171. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-209",
+    "type": "webpage",
+    "title": "Night in the Woods - source record",
+    "URL": "https://store.steampowered.com/app/481510/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P172. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-210",
+    "type": "webpage",
+    "title": "Beacon Pines - source record",
+    "URL": "https://store.steampowered.com/app/1269640/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P173. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-211",
+    "type": "webpage",
+    "title": "Mutazione - source record",
+    "URL": "https://store.steampowered.com/app/1080750/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P174. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-212",
+    "type": "webpage",
+    "title": "Wytchwood - source record",
+    "URL": "https://store.steampowered.com/app/729000/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P175. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-213",
+    "type": "webpage",
+    "title": "Wandersong - source record",
+    "URL": "https://store.steampowered.com/app/530320/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P176. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-214",
+    "type": "webpage",
+    "title": "Chicory: A Colorful Tale - source record",
+    "URL": "https://store.steampowered.com/app/1123450/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P177. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-215",
+    "type": "webpage",
+    "title": "Rakuen - source record",
+    "URL": "https://store.steampowered.com/app/559210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P178. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-216",
+    "type": "webpage",
+    "title": "To the Moon - source record",
+    "URL": "https://store.steampowered.com/app/206440/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P179. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-217",
+    "type": "webpage",
+    "title": "Finding Paradise - source record",
+    "URL": "https://store.steampowered.com/app/337340/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P180. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-218",
+    "type": "webpage",
+    "title": "Impostor Factory - source record",
+    "URL": "https://store.steampowered.com/app/1182620/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P181. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-219",
+    "type": "webpage",
+    "title": "A Bird Story - source record",
+    "URL": "https://store.steampowered.com/app/327410/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P182. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-220",
+    "type": "webpage",
+    "title": "OPUS: Rocket of Whispers - source record",
+    "URL": "https://store.steampowered.com/app/742250/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P183. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-221",
+    "type": "webpage",
+    "title": "OPUS: Echo of Starsong - Full Bloom Edition - source record",
+    "URL": "https://store.steampowered.com/app/1504500/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P184. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-222",
+    "type": "webpage",
+    "title": "I Was a Teenage Exocolonist - source record",
+    "URL": "https://store.steampowered.com/app/1148760/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P185. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-223",
+    "type": "webpage",
+    "title": "Growing Up - source record",
+    "URL": "https://store.steampowered.com/app/1191120/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P186. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-224",
+    "type": "webpage",
+    "title": "Volcano Princess - source record",
+    "URL": "https://store.steampowered.com/app/1669980/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P187. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-225",
+    "type": "webpage",
+    "title": "Long Live The Queen - source record",
+    "URL": "https://store.steampowered.com/app/251990/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P188. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-226",
+    "type": "webpage",
+    "title": "Roadwarden - source record",
+    "URL": "https://store.steampowered.com/app/1155970/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P189. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-227",
+    "type": "webpage",
+    "title": "The Life and Suffering of Sir Brante - source record",
+    "URL": "https://store.steampowered.com/app/1272160/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P190. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-228",
+    "type": "webpage",
+    "title": "Suzerain - source record",
+    "URL": "https://store.steampowered.com/app/1207650/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P191. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-229",
+    "type": "webpage",
+    "title": "Yes, Your Grace - source record",
+    "URL": "https://store.steampowered.com/app/1115690/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P192. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-230",
+    "type": "webpage",
+    "title": "Orwell: Keeping an Eye On You - source record",
+    "URL": "https://store.steampowered.com/app/491950/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P193. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-231",
+    "type": "webpage",
+    "title": "Orwell: Ignorance is Strength - source record",
+    "URL": "https://store.steampowered.com/app/633060/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P194. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-232",
+    "type": "webpage",
+    "title": "Emily is Away - source record",
+    "URL": "https://store.steampowered.com/app/417860/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P195. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-233",
+    "type": "webpage",
+    "title": "We Know the Devil - source record",
+    "URL": "https://store.steampowered.com/app/435300/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P196. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-234",
+    "type": "webpage",
+    "title": "A Normal Lost Phone - source record",
+    "URL": "https://store.steampowered.com/app/523210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P197. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-235",
+    "type": "webpage",
+    "title": "Another Lost Phone: Laura's Story - source record",
+    "URL": "https://anotherlostphone.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P198. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-236",
+    "type": "webpage",
+    "title": "Another Lost Phone: Laura's Story - source record",
+    "URL": "https://www.gamehouse.com/games/another-lost-phone-lauras-story",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P198. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-237",
+    "type": "webpage",
+    "title": "Slay the Princess - The Pristine Cut - source record",
+    "URL": "https://store.steampowered.com/app/1989270/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P199. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-238",
+    "type": "webpage",
+    "title": "Scarlet Hollow - source record",
+    "URL": "https://store.steampowered.com/app/1609230/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P200. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-239",
+    "type": "webpage",
+    "title": "Secret of Mana - source record",
+    "URL": "https://www.nintendo.com/en-ca/store/products/collection-of-mana-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P201. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-240",
+    "type": "webpage",
+    "title": "Secret of Mana - source record",
+    "URL": "https://www.world-of-nintendo.com/manuals/super_nes/secret_of_mana.shtml",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P201. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-241",
+    "type": "webpage",
+    "title": "Spiritfarer: Farewell Edition - source record",
+    "URL": "https://store.steampowered.com/app/972660/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P202. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-242",
+    "type": "webpage",
+    "title": "Spiritfarer: Farewell Edition - source record",
+    "URL": "https://guidestrats.com/spiritfarer-elena-guide/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P202. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-243",
+    "type": "webpage",
+    "title": "Pode - source record",
+    "URL": "https://www.nintendo.com/us/store/products/pode-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P203. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-244",
+    "type": "webpage",
+    "title": "Stardew Valley - source record",
+    "URL": "https://store.steampowered.com/app/413150/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P204. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-245",
+    "type": "webpage",
+    "title": "Minecraft - source record",
+    "URL": "https://www.minecraft.net/en-us/about-minecraft",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P205. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-246",
+    "type": "webpage",
+    "title": "Animal Crossing: New Horizons - source record",
+    "URL": "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P206. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-247",
+    "type": "webpage",
+    "title": "Portal 2 - source record",
+    "URL": "https://store.steampowered.com/app/620/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P207. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-248",
+    "type": "webpage",
+    "title": "Untitled Goose Game - source record",
+    "URL": "https://store.steampowered.com/app/837470/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P208. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-249",
+    "type": "webpage",
+    "title": "Unravel Two - source record",
+    "URL": "https://store.steampowered.com/app/1225570/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P209. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-250",
+    "type": "webpage",
+    "title": "80 Days - source record",
+    "URL": "https://store.steampowered.com/app/381780/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P210. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-251",
+    "type": "webpage",
+    "title": "The Past Within - source record",
+    "URL": "https://store.steampowered.com/app/1515210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P211. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-252",
+    "type": "webpage",
+    "title": "Kirby and the Forgotten Land - source record",
+    "URL": "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P212. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-253",
+    "type": "webpage",
+    "title": "Kirby's Return to Dream Land Deluxe - source record",
+    "URL": "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P213. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-254",
+    "type": "webpage",
+    "title": "Super Mario Bros. Wonder - source record",
+    "URL": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P214. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-255",
+    "type": "webpage",
+    "title": "Tick Tock: A Tale for Two - source record",
+    "URL": "https://store.steampowered.com/app/790740/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P215. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-256",
+    "type": "webpage",
+    "title": "Captain Toad: Treasure Tracker - source record",
+    "URL": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P216. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-257",
+    "type": "webpage",
+    "title": "Yoshi's Crafted World - source record",
+    "URL": "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P217. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-258",
+    "type": "webpage",
+    "title": "Snipperclips - Cut it out, together! - source record",
+    "URL": "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P218. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-259",
+    "type": "webpage",
+    "title": "Blanc - source record",
+    "URL": "https://store.steampowered.com/app/1982340/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P219. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-260",
+    "type": "webpage",
+    "title": "Hidden Through Time - source record",
+    "URL": "https://store.steampowered.com/app/524910/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P220. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-261",
+    "type": "webpage",
+    "title": "Tiny Lands - source record",
+    "URL": "https://store.steampowered.com/app/1354910/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P221. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-262",
+    "type": "webpage",
+    "title": "PHOGS! - source record",
+    "URL": "https://store.steampowered.com/app/850320/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P222. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-263",
+    "type": "webpage",
+    "title": "Pikuniku - source record",
+    "URL": "https://store.steampowered.com/app/572890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P223. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-264",
+    "type": "webpage",
+    "title": "Overboard! - source record",
+    "URL": "https://store.steampowered.com/app/1546920/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P224. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-265",
+    "type": "webpage",
+    "title": "Expelled! - source record",
+    "URL": "https://store.steampowered.com/app/2963890/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P225. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-266",
+    "type": "webpage",
+    "title": "Machinarium - source record",
+    "URL": "https://store.steampowered.com/app/40700/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P226. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-267",
+    "type": "webpage",
+    "title": "Botanicula - source record",
+    "URL": "https://store.steampowered.com/app/207690/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P227. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-268",
+    "type": "webpage",
+    "title": "Samorost 3 - source record",
+    "URL": "https://store.steampowered.com/app/421120/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P228. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-269",
+    "type": "webpage",
+    "title": "LEGO City Undercover - source record",
+    "URL": "https://store.steampowered.com/app/578330/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P229. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-270",
+    "type": "webpage",
+    "title": "LEGO Star Wars: The Skywalker Saga - source record",
+    "URL": "https://store.steampowered.com/app/920210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P230. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-271",
+    "type": "webpage",
+    "title": "LEGO Builder's Journey - source record",
+    "URL": "https://store.steampowered.com/app/1544360/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P231. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-272",
+    "type": "webpage",
+    "title": "The Gardens Between - source record",
+    "URL": "https://store.steampowered.com/app/600990/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P232. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-273",
+    "type": "webpage",
+    "title": "Day of the Tentacle Remastered - source record",
+    "URL": "https://store.steampowered.com/app/388210/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P233. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-274",
+    "type": "webpage",
+    "title": "Trine Enchanted Edition - source record",
+    "URL": "https://store.steampowered.com/app/35700/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P234. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-275",
+    "type": "webpage",
+    "title": "Pilgrims - source record",
+    "URL": "https://store.steampowered.com/app/1049280/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P235. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-276",
+    "type": "webpage",
+    "title": "The Longest Journey - source record",
+    "URL": "https://store.steampowered.com/app/6310/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P236. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-277",
+    "type": "webpage",
+    "title": "Broken Age - source record",
+    "URL": "https://www.doublefine.com/games/broken-age",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P237. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-278",
+    "type": "webpage",
+    "title": "Dinkum - source record",
+    "URL": "https://store.steampowered.com/app/1062520/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P238. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-279",
+    "type": "webpage",
+    "title": "Dinkum - source record",
+    "URL": "https://store.steampowered.com/news/posts/?appids=1062520&enddate=1745490680&feed=steam_community_announcements",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P238. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-280",
+    "type": "webpage",
+    "title": "Farm Together - source record",
+    "URL": "https://store.steampowered.com/app/673950/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P239. See Source-Notes.md for supported claims and limitations."
+  },
+  {
+    "id": "panorama-source-281",
+    "type": "webpage",
+    "title": "Staxel - source record",
+    "URL": "https://store.steampowered.com/app/405710/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "Used for P240. See Source-Notes.md for supported claims and limitations."
+  }
+]

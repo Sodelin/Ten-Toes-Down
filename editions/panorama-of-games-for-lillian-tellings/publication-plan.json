@@ -1,0 +1,139 @@
+{
+  "github": {
+    "repository": "Sodelin/Ten-Toes-Down",
+    "path": "editions/panorama-of-games-for-lillian-tellings",
+    "visibility": "public"
+  },
+  "drive": {
+    "parent_folder_id": "16erFNKQT47gd-pIdZMJ8eicavFkgBM8v",
+    "edition_folder_id": "1QyRPw81es93orADHoDTdaEklC0EgDjr8",
+    "sharing_change": false
+  },
+  "files": [
+    {
+      "name": "build-report.json",
+      "sha256": "0d0568f338ef017e81839909733abeaa5001818f5bf1da7b29744ebb1cb7abed",
+      "bytes": 865
+    },
+    {
+      "name": "credits.md",
+      "sha256": "5bd2dab3bf1c7a69876e138b0df06b56e237c3584a8b266fcd0fb50436a08215",
+      "bytes": 2301
+    },
+    {
+      "name": "editorial-record.md",
+      "sha256": "545a15590dd52585b7a71e5edea81de919f68ee915dd8f1f3b6a8db2f6c8b119",
+      "bytes": 20659
+    },
+    {
+      "name": "evidence-ledger.json",
+      "sha256": "e9a4c0f709ee3c11425730d8cea4f72e150d125db3a497ccad786438db7d376b",
+      "bytes": 253740
+    },
+    {
+      "name": "game-corpus.json",
+      "sha256": "9fd6a7763138514bb575794a3640c72dee583a2ee2ca4c91881208806d83a350",
+      "bytes": 819208
+    },
+    {
+      "name": "game-index.csv",
+      "sha256": "de594093dba129d61fb95db75aa55b0fe690635a7081723e70754f56f63d3bc8",
+      "bytes": 30744
+    },
+    {
+      "name": "Manuscript.md",
+      "sha256": "8dd69427f97af395e1a6ce6aaad33b1c8d6861c0cc6fb27553cfd93f520f8b4f",
+      "bytes": 869025
+    },
+    {
+      "name": "page-index.json",
+      "sha256": "707c09ffe8a934d15a90e690f8f4182a48eba95b3d823c35fdc6d187282fbdeb",
+      "bytes": 12710
+    },
+    {
+      "name": "Panorama-Complete-Omnibus.pdf",
+      "sha256": "999f072990294ceb5fb0a44a6d34614367ce22c7ed4ba2dc85e96f313a07aff0",
+      "bytes": 2113168
+    },
+    {
+      "name": "Panorama-Reader-Bundle.zip",
+      "sha256": "998dcb3ca5b54cc5218f95796a5c07e079583d9a9e6b0b95065610c38015530d",
+      "bytes": 4492707
+    },
+    {
+      "name": "Panorama-Volume-01.pdf",
+      "sha256": "c49cd12baa6b369413ec6cb43c5acb60b72865132246a3c5f1627b696fa2192d",
+      "bytes": 363420
+    },
+    {
+      "name": "Panorama-Volume-02.pdf",
+      "sha256": "b749aaf7a067fba43550c8e3d937ecd364f691eed71cdf848625abcf7f670c78",
+      "bytes": 341478
+    },
+    {
+      "name": "Panorama-Volume-03.pdf",
+      "sha256": "f5974f15a54c5564fd19022517b774058073bdfb567410753648e23a32ddcbff",
+      "bytes": 338053
+    },
+    {
+      "name": "Panorama-Volume-04.pdf",
+      "sha256": "f0b36ea69df6a99b20c7073657f87913392f53112fe7d7ac032671310c8d4d56",
+      "bytes": 361689
+    },
+    {
+      "name": "Panorama-Volume-05.pdf",
+      "sha256": "f8f81693ca44a6edd758729dc183f7ec19d9674e5e4ed836a0c92f9a83bb798e",
+      "bytes": 340793
+    },
+    {
+      "name": "Panorama-Volume-06.pdf",
+      "sha256": "56082cfda3665d7c9c3607f21ea5e960e045342d42feaf866d25b0bbefd57761",
+      "bytes": 345207
+    },
+    {
+      "name": "README.md",
+      "sha256": "82ac357e47e15e6ec7538eb6fd2f429be70c86c1e76a9aebe57bcb7e3916e177",
+      "bytes": 5659
+    },
+    {
+      "name": "references.csl.json",
+      "sha256": "4546ff6a7779bc03ab5f1b31e50273431e9d9451fe1398f1cf9847180cb57a5a",
+      "bytes": 112498
+    },
+    {
+      "name": "references.ris",
+      "sha256": "8773b19120c05da1ca96109fdbf6c5483ff778d04a6389047ce32d74a1dc76fe",
+      "bytes": 58539
+    },
+    {
+      "name": "revision-check.json",
+      "sha256": "3fd658dfd3fe1eec43e9ebf356e87143157a7b6e657f4bce1cb263225821e9e1",
+      "bytes": 2122
+    },
+    {
+      "name": "routing-rules.json",
+      "sha256": "b12ad7baf62a71c53d788f2e6767b4a93aca90bde04b0c198ff145e1f1bf86af",
+      "bytes": 18669
+    },
+    {
+      "name": "Source-Notes.md",
+      "sha256": "026fe4db8c4b5ebf1a90066f68d9bb53271121727eb102948e68841ba226de25",
+      "bytes": 80080
+    },
+    {
+      "name": "Start-Here.html",
+      "sha256": "6c724e622d14ee5243424b400bfd9b191ec12e732a387f482ea1961847e9df3c",
+      "bytes": 1007959
+    },
+    {
+      "name": "Ten-Toes-Down-Panorama.epub",
+      "sha256": "3bebe1b289e437101437e2cc84b2f949b25e00b3e36089b422b068fcb9170e3e",
+      "bytes": 1055863
+    },
+    {
+      "name": "validation-report.json",
+      "sha256": "fced86334df43c6f0cc2ae34bd457a33822795b88e19cd85e0a0973bf06d1c58",
+      "bytes": 5203
+    }
+  ]
+}

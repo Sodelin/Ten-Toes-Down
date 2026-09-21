@@ -1,0 +1,118 @@
+{
+  "games": 240,
+  "cards_checked": 240,
+  "paragraphs_checked": 3939,
+  "pdf_pages": {
+    "Panorama-Volume-01.pdf": 63,
+    "Panorama-Volume-02.pdf": 54,
+    "Panorama-Volume-03.pdf": 55,
+    "Panorama-Volume-04.pdf": 76,
+    "Panorama-Volume-05.pdf": 56,
+    "Panorama-Volume-06.pdf": 60
+  },
+  "duplicate_long_paragraphs": [],
+  "short_spill_pages": [],
+  "notes": [
+    "All unique PDF pages were rasterized and visually inspected in contact sheets; selected final pages were also inspected at full size.",
+    "No full game playthrough is claimed. All game fit tiers are editorial suggestions."
+  ],
+  "omnibus_page_sequence_matches_volumes": true,
+  "omnibus_links_preserved": {
+    "all_annotations": 536,
+    "internal_targets": 250,
+    "external_source_links": 286
+  },
+  "epub_xml_manifest_spine_links": "passed",
+  "pdf_unique_pages_rendered": 364,
+  "publication_files_sha256": {
+    "build-report.json": "0d0568f338ef017e81839909733abeaa5001818f5bf1da7b29744ebb1cb7abed",
+    "evidence-ledger.json": "e9a4c0f709ee3c11425730d8cea4f72e150d125db3a497ccad786438db7d376b",
+    "game-corpus.json": "9fd6a7763138514bb575794a3640c72dee583a2ee2ca4c91881208806d83a350",
+    "game-index.csv": "de594093dba129d61fb95db75aa55b0fe690635a7081723e70754f56f63d3bc8",
+    "Manuscript.md": "8dd69427f97af395e1a6ce6aaad33b1c8d6861c0cc6fb27553cfd93f520f8b4f",
+    "page-index.json": "707c09ffe8a934d15a90e690f8f4182a48eba95b3d823c35fdc6d187282fbdeb",
+    "Panorama-Complete-Omnibus.pdf": "999f072990294ceb5fb0a44a6d34614367ce22c7ed4ba2dc85e96f313a07aff0",
+    "Panorama-Volume-01.pdf": "c49cd12baa6b369413ec6cb43c5acb60b72865132246a3c5f1627b696fa2192d",
+    "Panorama-Volume-02.pdf": "b749aaf7a067fba43550c8e3d937ecd364f691eed71cdf848625abcf7f670c78",
+    "Panorama-Volume-03.pdf": "f5974f15a54c5564fd19022517b774058073bdfb567410753648e23a32ddcbff",
+    "Panorama-Volume-04.pdf": "f0b36ea69df6a99b20c7073657f87913392f53112fe7d7ac032671310c8d4d56",
+    "Panorama-Volume-05.pdf": "f8f81693ca44a6edd758729dc183f7ec19d9674e5e4ed836a0c92f9a83bb798e",
+    "Panorama-Volume-06.pdf": "56082cfda3665d7c9c3607f21ea5e960e045342d42feaf866d25b0bbefd57761",
+    "routing-rules.json": "b12ad7baf62a71c53d788f2e6767b4a93aca90bde04b0c198ff145e1f1bf86af",
+    "Source-Notes.md": "026fe4db8c4b5ebf1a90066f68d9bb53271121727eb102948e68841ba226de25",
+    "Start-Here.html": "6c724e622d14ee5243424b400bfd9b191ec12e732a387f482ea1961847e9df3c",
+    "Ten-Toes-Down-Panorama.epub": "3bebe1b289e437101437e2cc84b2f949b25e00b3e36089b422b068fcb9170e3e"
+  },
+  "manual_visual_review": {
+    "contact_sheets": "All 364 unique pages across all six final volumes visually inspected",
+    "full_size_samples": {
+      "volume_1": [
+        3
+      ],
+      "volume_2": [
+        20,
+        21
+      ],
+      "volume_3": [
+        3,
+        31,
+        32
+      ],
+      "volume_4": [
+        3,
+        30,
+        31,
+        65,
+        66
+      ],
+      "volume_5": [
+        3,
+        46
+      ],
+      "volume_6": [
+        1,
+        52,
+        53
+      ]
+    },
+    "reviewers": "Independent review of volumes 1-2 and 3-4; root review of volumes 5-6",
+    "result": "No observed clipping, overlap, missing glyphs, unintended blank pages or source-only spill pages",
+    "scope_limit": "Contact sheets inspect overall layout; selected full-size pages inspect dense text, indexes and deliberate two-page entries. No physical print tested."
+  },
+  "plain_summary_review": {
+    "games_checked": 240,
+    "fields_per_game": [
+      "quick_pitch",
+      "what_you_do",
+      "watch_for"
+    ],
+    "method": "Independent cross-review against the preserved factual cards and recorded evidence; accepted corrections recorded in editorial notes",
+    "scope_limit": "No fresh playthrough or complete accessibility audit"
+  },
+  "offline_reader_ui_checks": {
+    "passed": [
+      "Initial 240-card count and practical information before comedy",
+      "Genre 6 selects 40 entries; Secret of Mana search selects its exact edition",
+      "Practical notes, adult scene and source disclosures expand independently",
+      "Clear filters resets genre and search",
+      "Genre 1 plus explicit no-timed-input and no-camera evidence produces Phoenix Wright and Tangle Tower",
+      "Generated route respects active filters and shows exclusion without waiving requirements",
+      "One appeal works; further appeal is disabled; free veto preserves three stamps",
+      "Final rebuilt page displays Myst 2021 remake and free movement/camera caveat",
+      "Final browser screenshot shows clear title, pitch, action, main catch and first try"
+    ],
+    "known_behavior": "Text search searches descriptive game text, not case identifiers",
+    "device_scope": "Codex in-app desktop browser on localhost; no specific EPUB reader device tested"
+  },
+  "routing_logic_checks": {
+    "status": "passed",
+    "games_reachable": 240,
+    "modifier_addresses_checked": 12960,
+    "additional_checks": [
+      "bad input rejected",
+      "unknown evidence excluded",
+      "nested appeal rejected",
+      "printed P120 example"
+    ]
+  }
+}

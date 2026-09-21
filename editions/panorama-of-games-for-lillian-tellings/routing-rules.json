@@ -1,0 +1,261 @@
+{
+  "departments": [
+    {
+      "number": 1,
+      "title": "Forty Mysteries and a Hotel That Knows My Name"
+    },
+    {
+      "number": 2,
+      "title": "The Emperor Has Lost His Security Deposit"
+    },
+    {
+      "number": 3,
+      "title": "My Nigga, the View Costs Extra"
+    },
+    {
+      "number": 4,
+      "title": "The Casino Locked My Champagne in a Puzzle"
+    },
+    {
+      "number": 5,
+      "title": "The Penthouse Where Everybody Had a Story"
+    },
+    {
+      "number": 6,
+      "title": "Two Controllers and a Suite We Couldn't Leave Quietly"
+    }
+  ],
+  "moods": [
+    "Quietly curious",
+    "Ready for conversation",
+    "Willing to inspect a thing",
+    "Here for the atmosphere",
+    "Open to a wildcard"
+  ],
+  "emblems": [
+    "Envelope",
+    "Key",
+    "Plant",
+    "Map",
+    "Teacup",
+    "Spare chair",
+    "Gold stamp",
+    "Clock"
+  ],
+  "aspects": [
+    [
+      "Two Detectives, One Suspicious Motherfucker",
+      "Mysteries to discuss together. Shared theorizing is useful company; it is not native co-op."
+    ],
+    [
+      "Nigga, Bring the Map Over Here",
+      "Prefer a desk, static scenes or fixed framing; inspect the actual navigation demands."
+    ],
+    [
+      "The Ghost Still Owes Me Money",
+      "Supernatural investigations; check horror and emotional tone as well as controls."
+    ],
+    [
+      "Penthouse Problems, One-Room Budget",
+      "A compact place can offer interesting people. Small worlds and simple decisions are different claims."
+    ],
+    [
+      "My Turn Is None of Your Fucking Business",
+      "Turn-based candidates may wait while you think. Check the menus and planning demands separately."
+    ],
+    [
+      "You Drive. I Have Opinions.",
+      "Agree on the kind of company wanted: native co-op, passing the controller or talking through a single-player game."
+    ],
+    [
+      "That Plant Knows Too Much",
+      "Observation and occult mysteries; check the cross-referencing burden."
+    ],
+    [
+      "I Bought the House. Where Does This Wall Go?",
+      "Creative modes and construction; confirm that a quiet mode exists in the exact edition."
+    ],
+    [
+      "I Came for the Gossip",
+      "Character stories over equipment management. Reading load and choice pressure still matter."
+    ],
+    [
+      "A Whole City and No Appointment",
+      "Exploration with a strong sense of place; camera and navigation need their own check."
+    ],
+    [
+      "The Puzzle Can Wait. I Look Good.",
+      "Look for stated untimed behavior. A flattering title cannot establish a feature."
+    ],
+    [
+      "Aiden Can Kiss My Entire Agenda",
+      "Choose directly. This trait defeats every arbitrary rule in this book without rolling anything."
+    ]
+  ],
+  "incidents": [
+    [
+      "Cocaine on the wrong paperwork",
+      "Darnell mistakes the evening for an afterparty again. Rosa clears the game table. No fictional drug changes your roll; choose a row while Aiden negotiates the cleaning bill."
+    ],
+    [
+      "The blue controller has been claimed",
+      "Dre calls dibs. Aiden tries to make a speech about Crip diplomacy. “Nigga, I called dibs,” Dre says. Choose a row; no controller color changes a game feature."
+    ],
+    [
+      "The bedroom is a different department",
+      "Shawna takes Aiden by the collar. Tank is appointed to say “choose a row” while the chairman discovers a shorter agenda."
+    ],
+    [
+      "The champagne tower has opinions",
+      "Porsche moves one glass. Aiden moves six people. Nothing falls, but everybody learns how high his voice goes. Choose your row."
+    ],
+    [
+      "Mercedes has heard about the yacht",
+      "Darnell begins the story again. “Nigga, I hope that boat finds somebody,” she says. Choose a row before the measurements start."
+    ],
+    [
+      "Tank thought the chips were edible",
+      "He knew they were tokens. He wanted everybody to remember they had not ordered fries. Choose your row; the kitchen argument grants no bonus."
+    ],
+    [
+      "Aiden appears in the wrong trailer",
+      "The projector shows his karaoke rehearsal instead of the game. Shawna keeps the remote. Choose a row while he attempts copyright enforcement."
+    ],
+    [
+      "The hotel sends the bill",
+      "The employee puts down a second page. Aiden turns it over. There is a third. Choose your row while wealth has a private moment."
+    ],
+    [
+      "Somebody finds the missing heel",
+      "It is beside the subwoofer. Three adults deny knowing why. Nobody asks a follow-up because the game has finally loaded. Choose your row."
+    ],
+    [
+      "Rosa has already won",
+      "She has her payment, a plate and the good seat. “Nigga, that’s strategy,” Tank says. Choose a row; her success does not certify any game as easy."
+    ],
+    [
+      "A very expensive entrance",
+      "Aiden enters through the wrong door and comes back holding a mop. Everybody claps. Choose your row while he explains the symbolism."
+    ],
+    [
+      "The game is better than the speech",
+      "Porsche turns the microphone off. Aiden hears everybody laugh at something on the screen. Choose a row, or join them. Nobody owes him an encore."
+    ]
+  ],
+  "rules": [
+    [
+      "Article 1. Enter through any door you like",
+      [
+        "Choose a department by what you want to do. Book I investigates suspicious people. Book II lets a turn wait for you. Book III looks around. Book IV moves ideas and objects into place. Book V listens to characters. Book VI brings company. A game belongs to one shelf in this Panorama so the count stays honest; its pleasures can overlap several shelves.",
+        "I wanted a seventh room just for introductions. “Nigga, introduce yourself to this invoice,” Shawna said. The casino charged by the room. I discovered the artistic power of six.",
+        "For the practical route, choose two titles from a shelf, read the catch, and try the more appealing opening. For the ceremonial route, continue below. The ceremony does not know better than you do."
+      ]
+    ],
+    [
+      "Article 2. Name what the evening needs",
+      [
+        "Write or say up to three actual preferences: no required rush; no separate camera steering; avoid held input; few menus; light reading; little clue tracking; or native co-op. Add any theme you do not want. You can choose fewer than three or add your own.",
+        "These are boundaries for the selection, not traits assigned to a person. They can change next time. The record should read “tonight, no camera wrestling,” not an assessment of somebody’s capabilities. One is useful information. The other is a stranger wearing a clipboard.",
+        "A source gap is not permission to promise a feature. If we have not established how a game handles a requirement, its card is a question to check or a reason to choose another game. The optional web finder treats strict feature filters conservatively. The printed cards put the concrete catch beside the temptation.",
+        "“What if I already paid for it?” I asked.",
+        "“Then you own something she doesn’t want to play,” Shawna said.",
+        "“Nigga, that’s brutal.”",
+        "“That’s shopping.”"
+      ]
+    ],
+    [
+      "Article 3. Choose a row, because the binder demands coordinates",
+      [
+        "Each department has forty cases. Pick one of five rows: 1, Quietly Curious; 2, Ready for a Conversation; 3, Willing to Inspect a Thing; 4, Here for the Atmosphere; 5, Open to a Wildcard. These are ceremonial mood names. They do not certify that every game on a row meets that mood; the actual card and preferences decide that.",
+        "Choose a row freely. If you want dice, roll one ordinary six-sided die. Results 1–5 select that row. On a 6, visit the Incident Desk once and then choose a row yourself. There is no recursive reroll trap. The Incident Desk has had its authority to extend the evening revoked.",
+        "I picked Ready for Conversation. Mercedes said, “With who?” “The room.” “The room’s trying to have sex, Aiden. Pick Quietly Curious and mind your business.” I picked Here for the Atmosphere. She let me have that."
+      ]
+    ],
+    [
+      "Article 4. Select the object whose paperwork you distrust",
+      [
+        "Choose an emblem, or roll an eight-sided die: 1 Envelope, 2 Key, 3 Plant, 4 Map, 5 Teacup, 6 Spare Chair, 7 Gold Stamp, 8 Clock. Read the corresponding column of the department’s five-by-eight route grid.",
+        "The grid gives a case number. For example, department 1, row 2, emblem 3 gives local case 11, P011. Department 6 at those same coordinates gives P211. The same coordinates in different departments lead to different games. This is either a filing system or a multiverse, depending on whether you are speaking to Shawna or me.",
+        "The forty cases stay in catalogue order, not easiest-to-hardest order. The emblem just chooses where to look. “Why the fuck would a teacup know my future?” Tank asked. “You asked that casserole for directions ten minutes ago,” Rosa said. “And I’m happy with where I ended up.”"
+      ]
+    ],
+    [
+      "Article 5. Optional: give the evening an outrageously specific title",
+      [
+        "Write one short session trait. Examples: “Two Detectives, One Sandwich”; “The Map Can Come to Me”; “I Want to Know What She Meant by That”; “A House with Excellent Stopping Places”; “The Plant Is Lying”; “My Friend Has the Other Controller.” A trait describes a taste or a situation, not a diagnosis.",
+        "Whenever it helps explain why a title sounds interesting, point to it. That explanation is already useful. You do not need a numeric bonus to care about a haunted town or a witness with a suspicious alibi.",
+        "If you enjoy the machinery, begin with three imaginary Stamp Tokens. Spend one to add two to the paperwork total OR reroll all four paperwork dice once. At most one token per selection. Refusing costs nothing; tokens never buy exceptions to preferences. “Are these casino chips?” Tank asked. “No money attached.” “Nigga, you finally invented something affordable.”"
+      ]
+    ],
+    [
+      "Article 6. Four dice that cannot be cashed at the bar",
+      [
+        "Roll four ordinary six-sided dice. Each 1 or 2 means minus one, each 3 or 4 means zero, and each 5 or 6 means plus one. Add the four values. Your paperwork total is between minus four and plus four. This optional layer draws on Fate’s familiar signed-dice idea; the surrounding selection rules are original Panorama rules.",
+        "A negative result moves backward around the forty-case shelf; a positive result moves forward. Zero keeps the same case. “Nigga, I rolled four dice to stay here?” Tank asked. “You were happy here.” “I was happy before the fucking dice.”",
+        "If you spend a Stamp Token, either add two or reroll all four dice once and use the new total. You cannot buy a second modification on this selection. Reset to three tokens whenever you begin a new browsing session; no ledger needs to survive dinner.",
+        "The dice can produce a total from minus four to plus four. A +2 stamp can raise that part to plus six; the separate refreshment adjustment can add another zero, one or two. “Why four dice?” Shawna asked. I said it gave the evening texture. “So does carpet, nigga. You don’t roll the fucking carpet.”"
+      ]
+    ],
+    [
+      "Article 7. Optional: the snack amendment",
+      [
+        "Record a separate snack adjustment: one if somebody has already brought the drink they wanted, plus one if wanted snacks are within reach and no one is expected to fetch them. The maximum snack adjustment is two. Keep it separate from the dice-and-stamp paperwork total; Article 8 adds it exactly once. If these conditions are irrelevant, use zero. This arithmetic is a joke about hospitality; nobody needs to eat or drink anything to participate.",
+        "Tank asked whether Dre’s casserole counted twice. Rosa said no. “Nigga, it got layers.” She put a fork in his hand. His appeal ended when he remembered what forks did.",
+        "Do not delay choosing a game to qualify for this amendment. Do not make a snack score into a task for somebody else. The best possible snack state is people having what they actually want."
+      ]
+    ],
+    [
+      "Article 8. The entirely unnecessary formula",
+      [
+        "First find the local case from the grid: eight times (row minus one), plus emblem. Add the paperwork total and the snack adjustment, if you used them. If the result exceeds forty, subtract forty until it is 1–40. If it is below one, add forty until it is 1–40. Otherwise keep it. The final local case number is always between 1 and 40.",
+        "Then add forty times (department minus one) to get the complete P-number. Department 3, row 1, emblem 2 starts at local case 2. A paperwork total of minus three and a snack adjustment of one gives zero. Wrap zero to forty. In department 3, local case forty is P120.",
+        "This is a shelf address. It is not a probability of enjoyment, a cognitive score, a ranking, or an instruction to buy something. It chooses a page to consider. Read that page’s ordinary fields before treating it as a candidate.",
+        "If arithmetic gets in the way, use the offline finder or choose directly. “I’m not doing long division to sit with my wife,” Tank said. Rosa slid over. The system had encountered a man with better navigation."
+      ]
+    ],
+    [
+      "Article 9. Read the game first; Aiden can wait",
+      [
+        "Read the short pitch, what you do, main catch and first try before the longer comic scene. The full appeal and catch give the detail behind those summaries. Aiden’s scene and verdict are fiction; a funny reason is not evidence for a game feature.",
+        "Check the exact edition and platform. A remake can change movement, menus and saves. A touch port can differ from a desktop pointer. A Steam store date may be the port’s date rather than the original release. Local co-op, online co-op and two people discussing a single-player game are not interchangeable.",
+        "If the card conflicts with a real preference, reject the candidate. If it is promising but has an unresolved operation, check that specific operation before investing in it. “Can we select this inventory object comfortably?” is more useful than “Is this an easy game?”",
+        "I called the result destiny. Shawna asked why destiny needed my credit card. “For incidentals.” “Nigga, you’re the incidental.” She went back to the game. I tried to make the stamp hit the page quietly."
+      ]
+    ],
+    [
+      "Article 10. The appeals court",
+      [
+        "You may make one ceremonial appeal or skip the ceremony entirely. To appeal, choose a neighbor: the previous local case, the next local case, or the same local case in another department. Wrap case 1 backward to 40 and case 40 forward to 1. Check the new card as usual.",
+        "After that one appeal, stop calculating. Choose either candidate, browse the direct index or close the book. Every route ends with a human decision; there is no compulsory loop, escalating fee or penalty for declining both.",
+        "“I appeal,” I said. “On what grounds?” Rosa asked. “Everybody’s having fun without my explanation.” “Denied, nigga.” She didn’t even look away from the screen. The court had excellent instincts.",
+        "If you would rather talk, talk. If you would rather stop, stop. “What if we want to go upstairs?” Shawna asked. I put down the stamp. Nigga, some appeals deserve immediate personal attention."
+      ]
+    ],
+    [
+      "Article 11. A genuinely useful first session",
+      [
+        "Load the chosen edition before introducing its controls. Show one meaningful action. Keep a reminder if wanted. Find pause, save or exit so leaving feels ordinary. Do not turn a trial into a lesson with a hidden passing grade.",
+        "For a mystery, that might mean one conversation or one clue. For an exploration game, a nearby path and a place to stop. For a turn-based game, one decision with the menus already explained. For co-op, agree who wants which role and whether the roles have equal kinds of action.",
+        "Stop, change games or take a break whenever wanted. A day off makes room for leisure; it does not require a whole day of screen time. The useful note afterward is a sentence about what was enjoyable and where to resume.",
+        "“How will we know it worked?” I asked.",
+        "Mercedes pointed at the couch. Two people were arguing cheerfully about a clue. Neither had looked at me for ten minutes.",
+        "“That,” she said.",
+        "“Nigga, I could have stayed home.”",
+        "“We would have missed the deposit.”"
+      ]
+    ],
+    [
+      "Article 12. What these departments are allowed to claim",
+      [
+        "This is a researched, source-linked candidate catalogue with original comic writing. Game descriptions were checked against publisher, developer, platform or identified supporting sources. Control classifications and first-trial suggestions are editorial judgments unless tied to an explicit declaration. No card claims a complete-path playtest.",
+        "The catalogue deliberately contains different levels of complexity. Turn-based strategy and elaborate deduction belong here only for readers who want those specific demands. The direct index and catches let you pass them by. “There are two hundred and forty games” does not mean “all two hundred and forty will suit the same evening.”",
+        "The offline finder uses the same case IDs as the books. It makes no network requests and does not inspect your library. Marking a title interesting does not install or buy it. Its strict feature filters require stated evidence; an unknown is not silently accepted.",
+        "The final authority is the person playing. I told Tank I could make any game irresistible. “Then make me want this fishing minigame, nigga.” I offered him a hundred dollars. He held out his hand without picking up the controller. That was the end of my theory."
+      ]
+    ]
+  ],
+  "stamp_tokens": 3,
+  "max_modification_actions_per_selection": 1,
+  "max_appeals_per_selection": 1,
+  "veto_is_free": true
+}

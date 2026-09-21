@@ -1,0 +1,25 @@
+{
+  "id": "P208",
+  "status": "matched",
+  "title": "Untitled Goose Game",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/837470/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

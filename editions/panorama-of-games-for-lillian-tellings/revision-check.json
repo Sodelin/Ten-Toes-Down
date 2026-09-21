@@ -1,0 +1,62 @@
+{
+  "source_revision": "4cd0f7a6e36977ff0ac705a59ebe65407d1f2bee",
+  "games_checked": 240,
+  "game_scenes_rewritten": 240,
+  "game_rulings_rewritten": 240,
+  "plain_summaries": 720,
+  "volumes": [
+    {
+      "number": 1,
+      "title": "Forty Mysteries and a Hotel That Knows My Name",
+      "fiction_words": 9012,
+      "reclaimed_in_group_term_count": 66,
+      "cocaine_mentions": 3
+    },
+    {
+      "number": 2,
+      "title": "The Emperor Has Lost His Security Deposit",
+      "fiction_words": 9398,
+      "reclaimed_in_group_term_count": 75,
+      "cocaine_mentions": 2
+    },
+    {
+      "number": 3,
+      "title": "My Nigga, the View Costs Extra",
+      "fiction_words": 9024,
+      "reclaimed_in_group_term_count": 82,
+      "cocaine_mentions": 5
+    },
+    {
+      "number": 4,
+      "title": "The Casino Locked My Champagne in a Puzzle",
+      "fiction_words": 9081,
+      "reclaimed_in_group_term_count": 92,
+      "cocaine_mentions": 5
+    },
+    {
+      "number": 5,
+      "title": "The Penthouse Where Everybody Had a Story",
+      "fiction_words": 9547,
+      "reclaimed_in_group_term_count": 94,
+      "cocaine_mentions": 4
+    },
+    {
+      "number": 6,
+      "title": "Two Controllers and a Suite We Couldn't Leave Quietly",
+      "fiction_words": 9492,
+      "reclaimed_in_group_term_count": 89,
+      "cocaine_mentions": 1
+    }
+  ],
+  "factual_fields_preserved": true,
+  "source_novels_edited": false,
+  "prior_reading_edition_byte_preservation": "24 manifest files unchanged",
+  "measurement_limits": "Term counts describe the new fictional passages only; they do not establish voice fidelity or humor. Summaries use existing researched cards; no new playthrough is claimed.",
+  "reader_design_changes": [
+    "Plain pitch, play action and main catch added to all240 cards",
+    "Practical information precedes comedy in PDF and EPUB",
+    "Alphabetical game index moved to front of each volume",
+    "HTML has a direct genre selector",
+    "Longer notes and adult scenes expand independently; comedy is collapsed by default"
+  ]
+}

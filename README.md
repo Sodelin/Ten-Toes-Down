@@ -1,5 +1,11 @@
 # Ten Toes Down
 
+## The Panorama - The Tellings Cut
+
+**240 games · six books · 364 pages.** The adult Tellings voice returns through all-new game-night scenes. Clear pitches, play actions, main catches and first tries now lead every card. Includes reclaimed in-group language, cocaine references, sexual innuendo and strong profanity.
+
+[Open the Tellings Cut](editions/panorama-of-games-for-lillian-tellings/) · [Complete PDF](editions/panorama-of-games-for-lillian-tellings/Panorama-Complete-Omnibus.pdf) · [EPUB](editions/panorama-of-games-for-lillian-tellings/Ten-Toes-Down-Panorama.epub) · [Offline reader bundle](editions/panorama-of-games-for-lillian-tellings/Panorama-Reader-Bundle.zip)
+
 ## The Panorama of Games for Lillian
 
 **240 real games · six comic catalogue volumes · 310 reading pages.** Aiden creates an extravagantly unnecessary game-selection administration, complete with dice, imaginary stamps, a snack amendment and an appeals court. Lillian can ignore all of it and choose directly.

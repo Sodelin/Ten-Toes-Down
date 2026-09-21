@@ -1,0 +1,241 @@
+﻿id,title,volume,page,input,pace,memory,native_coop,fit_tier,source_urls
+P001,The Blackwell Legacy,1,18,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/80330/ | https://steamcommunity.com/app/80330/allnews/ | https://www.keengamer.com/articles/reviews/the-blackwell-legacy-review/
+P002,The Darkside Detective,1,19,pointer,waits,moderate,no,conditional,https://store.steampowered.com/api/appdetails?appids=368390&l=english | https://www.bigbossbattle.com/review-the-darkside-detective/
+P003,Phoenix Wright: Ace Attorney Trilogy,1,20,pointer,waits,heavy,no,promising,https://store.steampowered.com/app/787480/ | https://steamcommunity.com/app/787480/announcements/
+P004,Strange Horticulture,1,21,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/1574580/ | https://steamdb.info/patchnotes/8300183/ | https://www.gamesradar.com/have-you-tried-strange-horticulture/
+P005,The Case of the Golden Idol,1,22,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/1677770/ | https://steamcommunity.com/app/1677770/allnews/
+P006,Syberia,1,23,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/46500/ | https://support.microids.com/fr/support/solutions/articles/23000009217-solutions-syberia-1-et-2
+P007,Unavowed,1,24,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/336140/ | https://gamecritics.com/gc-staff/unavowed-review/
+P008,Her Story,1,25,text,mixed,heavy,no,conditional,https://store.steampowered.com/app/368370/ | https://steamcommunity.com/app/368370/discussions/0/530645446312998268/
+P009,The Excavation of Hob's Barrow,1,26,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1182310/ | https://www.nintendolife.com/reviews/switch-eshop/the-excavation-of-hobs-barrow | https://as.com/meristation/2022/09/28/analisis/1664375021_208084.html
+P010,Pentiment,1,27,mixed,mixed,heavy,no,conditional,https://pentiment.obsidian.net/ | https://www.mmorpg.com/interviews/the-rpg-files-building-obsidians-pentiment-interview-with-game-director-josh-sawyer-2000126821
+P011,Old Skies,1,29,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/1346360/
+P012,Primordia,1,30,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/227000/
+P013,Strangeland,1,31,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/1369520/
+P014,Shardlight,1,32,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/336130/
+P015,Technobabylon,1,33,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/307580/
+P016,Blackwell Unbound,1,34,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/80340/
+P017,Blackwell Convergence,1,35,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/80350/
+P018,Blackwell Deception,1,36,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/80360/
+P019,Blackwell Epiphany,1,37,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/236930/
+P020,The Shivah: Kosher Edition,1,38,pointer,unknown,moderate,no,conditional,https://wadjeteyegames.com/games/the-shivah/
+P021,Resonance,1,39,pointer,unknown,heavy,no,conditional,https://wadjeteyegames.com/games/resonance/
+P022,Gemini Rue,1,40,mixed,mixed,moderate,no,detour,https://store.steampowered.com/app/80310/ | https://wadjeteyegames.com/2013/04/11/gemini-rue-now-on-the-app-store/
+P023,Emerald City Confidential,1,41,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/37260/ | https://wadjeteyegames.com/games/emerald-city-confidential/
+P024,The Mermaid Mask,1,42,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/1696770/ | https://www.sfbgames.com/
+P025,Broken Sword - Shadow of the Templars: Reforged,1,43,pointer,unknown,moderate,no,conditional,https://revolution.co.uk/games_catalog/broken-sword-1/
+P026,Broken Sword 2 - the Smoking Mirror: Remastered,1,45,pointer,unknown,moderate,no,conditional,https://revolution.co.uk/games_catalog/broken-sword-2/
+P027,Broken Sword 5 - the Serpent's Curse,1,47,pointer,unknown,moderate,no,conditional,https://revolution.co.uk/games_catalog/broken-sword-5/
+P028,Beneath a Steel Sky,1,48,pointer,unknown,moderate,no,conditional,https://revolution.co.uk/games_catalog/beneath-a-steel-sky/
+P029,Kathy Rain: Director's Cut,1,49,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1395030/
+P030,Whispers of a Machine,1,50,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/631570/
+P031,Kathy Rain 2: Soothsayer,1,51,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/1466390/
+P032,Tangle Tower,1,52,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/359510/
+P033,Detective Grimoire,1,53,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/272600/
+P034,The Roottrees are Dead,1,54,text,unknown,heavy,no,conditional,https://store.steampowered.com/app/2754380/
+P035,The Rise of the Golden Idol,1,55,pointer,waits,heavy,no,promising,https://store.steampowered.com/app/2716400/
+P036,Gabriel Knight: Sins of the Fathers 20th Anniversary Edition,1,56,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/262000/
+P037,Still Life,1,57,mixed,mixed,heavy,no,detour,https://store.steampowered.com/app/46480/ | https://www.gameboomers.com/reviews/Ss/Stilllifebynickie.htm
+P038,Grim Fandango Remastered,1,58,mixed,unknown,heavy,no,conditional,https://store.steampowered.com/app/316790/ | https://www.doublefine.com/news/grim-fandango-remastered-pre-orders-now-available
+P039,Thimbleweed Park,1,59,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/569860/
+P040,Full Throttle Remastered,1,60,mixed,mixed,moderate,no,detour,https://www.doublefine.com/games/full-throttle-remastered | https://blog.playstation.com/archive/2017/01/13/how-double-fine-is-tuning-up-full-throttle-remastered-for-ps4/
+P041,Sid Meier's Civilization VI,2,7,pointer,waits,heavy,unknown,conditional,https://store.steampowered.com/app/289070/
+P042,Old World,2,8,pointer,waits,heavy,yes,conditional,https://store.steampowered.com/app/597180/
+P043,HUMANKIND,2,9,pointer,waits,heavy,unknown,conditional,https://store.steampowered.com/app/1124300/
+P044,Into the Breach,2,10,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/590380/
+P045,Wargroove,2,11,mixed,waits,heavy,yes,conditional,https://store.steampowered.com/app/607050/
+P046,Wargroove 2,2,12,mixed,waits,heavy,yes,conditional,https://store.steampowered.com/app/1346020/
+P047,Advance Wars 1+2: Re-Boot Camp,2,13,directional,waits,heavy,unknown,conditional,https://www.nintendo.com/us/store/products/advance-wars-1-plus-2-re-boot-camp-switch/
+P048,Fire Emblem: Three Houses,2,14,mixed,mixed,heavy,no,conditional,https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Three-Houses-1175482.html
+P049,Fire Emblem Engage,2,15,mixed,mixed,heavy,unknown,conditional,https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Engage-2267157.html
+P050,Mario + Rabbids Kingdom Battle,2,16,mixed,mixed,heavy,yes,conditional,https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-switch/ | https://play.nintendo.com/news-tips/game-releases/mario-rabbids-kingdom-battle-release-date/
+P051,Mario + Rabbids Sparks of Hope,2,18,mixed,mixed,heavy,no,conditional,https://news.ubisoft.com/en-gb/article/3geL8IbYETmgHk6W017HpS/mario-rabbids-sparks-of-hope-accessibility-spotlight | https://news.ubisoft.com/en-us/article/65J7B5ga4HkMpxtYWQ7QX5
+P052,XCOM: Enemy Unknown,2,19,mixed,mixed,heavy,no,conditional,https://store.steampowered.com/app/200510/
+P053,XCOM 2,2,20,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/268500/ | https://www.feralinteractive.com/en/manuals/xcom2/latest/steam/
+P054,"Invisible, Inc.",2,22,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/243970/ | https://www.gamedeveloper.com/design/game-design-deep-dive-alarm-systems-in-klei-s-i-invisible-inc-i-
+P055,Shadowrun Returns,2,23,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/234650/
+P056,Shadowrun: Dragonfall - Director's Cut,2,24,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/300550/
+P057,Shadowrun: Hong Kong - Extended Edition,2,25,mixed,mixed,heavy,no,detour,https://store.steampowered.com/app/346940/ | https://shadowrun-series.fandom.com/wiki/Matrix
+P058,Wildermyth,2,27,mixed,waits,heavy,yes,promising,https://store.steampowered.com/app/763890/
+P059,Wartales,2,28,mixed,mixed,heavy,yes,detour,https://store.steampowered.com/app/1527950/ | https://www.gamepressure.com/newsroom/professions-in-wartales-explained-list-and-description/zd543a
+P060,Battle Brothers,2,29,mixed,mixed,heavy,no,conditional,https://store.steampowered.com/app/365360/
+P061,BATTLETECH,2,30,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/637090/
+P062,TRIANGLE STRATEGY,2,31,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/1850510/
+P063,Tactics Ogre: Reborn,2,32,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/1451090/
+P064,FINAL FANTASY TACTICS - The Ivalice Chronicles,2,33,mixed,waits,heavy,no,conditional,https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us
+P065,Disgaea 5 Complete,2,34,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/803600/
+P066,Disgaea 7: Vows of the Virtueless,2,35,mixed,waits,heavy,no,conditional,https://store.steampowered.com/app/2250600/
+P067,Chained Echoes,2,36,directional,mixed,heavy,no,conditional,https://store.steampowered.com/app/1229240/
+P068,Sea of Stars,2,37,mixed,mixed,heavy,yes,detour,https://sabotagestudio.com/press-release/sabotage-studio-announces-free-sea-of-stars-update-dawn-of-equinox-bringing-top-fan-requested-additions-to-pc-and-consoles-gains-november-release-date/
+P069,OCTOPATH TRAVELER II,2,38,directional,mixed,heavy,no,conditional,https://store.steampowered.com/app/1971650/
+P070,DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,2,39,mixed,mixed,heavy,no,conditional,https://store.steampowered.com/app/1295510/
+P071,Persona 5 Royal,2,41,mixed,mixed,heavy,no,detour,https://store.steampowered.com/app/1687950/ | https://gamefaqs.gamespot.com/ps4/260936-persona-5-royal/faqs/78256/week-24-october-1st-october-9th-okumuras-palace | https://www.neoseeker.com/persona-5-royal/Okumura%27s_Space_Station
+P072,BRAVELY DEFAULT II,2,43,directional,mixed,heavy,no,conditional,https://store.steampowered.com/app/1446650/
+P073,Slay the Spire,2,44,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/646570/
+P074,Monster Train,2,45,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/1102190/
+P075,Griftlands,2,46,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/601840/
+P076,Dicey Dungeons,2,47,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/861540/ | https://wiki.diceydungeons.com/doku.php?id=dicey_dungeons
+P077,Balatro,2,48,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/2379780/
+P078,Cobalt Core,2,49,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/2179850/
+P079,Wildfrost,2,50,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/1811990/
+P080,Clubhouse Games: 51 Worldwide Classics,2,51,mixed,mixed,moderate,unknown,promising,https://www.nintendo.com/us/store/products/clubhouse-games-51-worldwide-classics-switch/
+P081,Unpacking,3,6,pointer,waits,light,no,promising,https://store.steampowered.com/app/1135690/ | https://www.unpackinggame.com/
+P082,Townscaper,3,7,pointer,waits,light,no,promising,https://store.steampowered.com/app/1291340/
+P083,Dorfromantik,3,8,pointer,waits,moderate,no,promising,https://store.steampowered.com/app/1455840/
+P084,Hidden Folks,3,9,pointer,unknown,light,no,promising,https://store.steampowered.com/app/435400/
+P085,A Short Hike,3,10,directional,mixed,moderate,no,conditional,https://store.steampowered.com/app/1055540/ | https://saveorquit.com/2021/01/16/review-a-short-hike/
+P086,Yonder: The Cloud Catcher Chronicles,3,11,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/580200/
+P087,Eastshade,3,12,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/715560/ | https://eastshade.com/without-combat/
+P088,Alba: A Wildlife Adventure,3,13,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1337010/
+P089,TOEM,3,14,mixed,unknown,moderate,no,promising,https://store.steampowered.com/app/1307580/
+P090,Lil Gator Game,3,15,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1586800/
+P091,Smushi Come Home,3,17,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1740300/
+P092,Haven Park,3,18,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1549550/
+P093,Mail Time,3,19,camera,mixed,moderate,no,conditional,https://store.steampowered.com/app/1607240/
+P094,Lake,3,20,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1118240/
+P095,SEASON: A letter to the future,3,21,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/695330/
+P096,Sable,3,22,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/757310/
+P097,ABZU,3,23,camera,mixed,moderate,no,conditional,https://store.steampowered.com/app/384190/
+P098,Journey,3,24,camera,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/638230/
+P099,The Pathless,3,25,camera,real_time,moderate,no,detour,https://store.steampowered.com/app/1492680/
+P100,Feather,3,26,camera,mixed,light,yes,conditional,https://store.steampowered.com/app/545040/
+P101,AER Memories of Old,3,28,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/331870/
+P102,Proteus,3,29,camera,unknown,light,no,conditional,https://store.steampowered.com/app/219680/
+P103,Dear Esther: Landmark Edition,3,30,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/520720/
+P104,Everybody's Gone to the Rapture,3,31,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/417880/
+P105,What Remains of Edith Finch,3,33,mixed,mixed,moderate,no,conditional,https://store.steampowered.com/app/501300/
+P106,Gone Home,3,34,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/232430/
+P107,Firewatch,3,36,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/383870/
+P108,The Stanley Parable: Ultra Deluxe,3,37,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/1703340/
+P109,The Beginner's Guide,3,38,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/303210/
+P110,The Vanishing of Ethan Carter Redux,3,39,camera,unknown,moderate,no,conditional,https://store.steampowered.com/app/400430/ | https://store.steampowered.com/app/258520/
+P111,INFRA,3,41,camera,mixed,heavy,no,detour,https://store.steampowered.com/app/251110/
+P112,Obduction,3,43,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/306760/
+P113,Myst,3,44,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/1255560/
+P114,Riven,3,45,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/1712350/
+P115,Firmament,3,46,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/754890/
+P116,The Witness,3,47,mixed,unknown,heavy,no,conditional,https://store.steampowered.com/app/210970/
+P117,The Talos Principle,3,49,camera,mixed,heavy,no,conditional,https://store.steampowered.com/app/257510/
+P118,The Talos Principle 2,3,50,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/835960/
+P119,The Looker,3,51,mixed,unknown,moderate,no,conditional,https://store.steampowered.com/app/1985690/
+P120,Outer Wilds,3,53,camera,real_time,heavy,no,detour,https://store.steampowered.com/app/753640/
+P121,Baba Is You,4,6,directional,unknown,heavy,no,conditional,https://store.steampowered.com/app/736260/
+P122,Patrick's Parabox,4,7,directional,waits,heavy,no,conditional,https://store.steampowered.com/app/1260520/
+P123,Stephen's Sausage Roll,4,8,directional,unknown,heavy,no,conditional,https://store.steampowered.com/app/353540/
+P124,Snakebird,4,10,directional,unknown,heavy,no,conditional,https://store.steampowered.com/app/357300/
+P125,Snakebird Primer,4,11,directional,unknown,moderate,no,promising,https://store.steampowered.com/app/1014140/
+P126,A Good Snowman Is Hard To Build,4,12,directional,waits,moderate,no,promising,https://store.steampowered.com/app/316610/
+P127,Cosmic Express,4,14,pointer,waits,heavy,no,conditional,https://store.steampowered.com/app/583270/
+P128,A Monster's Expedition,4,15,directional,unknown,moderate,no,promising,https://store.steampowered.com/app/1052990/
+P129,Bonfire Peaks,4,16,directional,unknown,heavy,no,conditional,https://store.steampowered.com/app/1147890/
+P130,Can of Wormholes,4,17,directional,waits,moderate,no,promising,https://store.steampowered.com/app/1295320/
+P131,"Braid, Anniversary Edition",4,20,directional,real_time,heavy,no,detour,https://store.steampowered.com/app/499180/
+P132,World of Goo,4,22,pointer,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/22000/
+P133,World of Goo 2,4,23,pointer,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/3385670/
+P134,HUMANITY,4,25,mixed,real_time,heavy,no,detour,https://store.steampowered.com/app/1581480/
+P135,COCOON,4,26,directional,mixed,moderate,no,detour,https://store.steampowered.com/app/1497440/
+P136,Gorogoa,4,28,pointer,unknown,moderate,no,promising,https://store.steampowered.com/app/557600/
+P137,Monument Valley: Panoramic Edition,4,29,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1927720/
+P138,Monument Valley 2: Panoramic Edition,4,30,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1927740/
+P139,The Room,4,32,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/288160/
+P140,The Room Two,4,34,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/425580/
+P141,The Room Three,4,36,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/456750/
+P142,The Room 4: Old Sins,4,38,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1361320/
+P143,The House of Da Vinci,4,39,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/522470/
+P144,The House of Da Vinci 2,4,41,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1259840/
+P145,The House of Da Vinci 3,4,43,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/1603640/
+P146,Carto,4,45,mixed,unknown,moderate,no,promising,https://store.steampowered.com/app/1172450/
+P147,Chants of Sennaar,4,47,pointer,mixed,heavy,no,detour,https://store.steampowered.com/app/1931770/ | https://steamcommunity.com/app/1931770/discussions/0/4040354734349221032/
+P148,Heaven's Vault,4,49,mixed,mixed,heavy,no,conditional,https://store.steampowered.com/app/774201/
+P149,Return of the Obra Dinn,4,51,camera,unknown,heavy,no,conditional,https://store.steampowered.com/app/653530/
+P150,Opus Magnum,4,53,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/558990/
+P151,Sokobond,4,56,directional,waits,moderate,no,promising,https://store.steampowered.com/app/290260/
+P152,Hexcells,4,58,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/265890/
+P153,Tametsi,4,60,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/709920/
+P154,Mario Paint,4,62,pointer,mixed,moderate,no,conditional,https://www.nintendo.com/us/whatsnew/mario-paint-scribbles-into-the-super-nes-collection/ | https://manualzz.com/doc/26101036/nintendo-mario-paint-family-user-manual
+P155,Color a Dinosaur,4,64,directional,unknown,light,no,detour,https://www.digitpress.com/library/manuals/nes/Color%20a%20Dinosaur.pdf
+P156,The Incredible Machine 3,4,65,pointer,unknown,moderate,unknown,conditional,https://www.sierragamers.com/tim-3/ | https://www.sierragamers.com/wp-content/uploads/2019/12/TIM_3_Manual.pdf
+P157,SimCity 2000 Special Edition,4,67,pointer,mixed,heavy,no,conditional,https://www.gog.com/en/game/simcity_2000_special_edition | https://www.ea.com/games/simcity/simcity-2000
+P158,RollerCoaster Tycoon Deluxe,4,69,pointer,mixed,heavy,no,conditional,https://store.steampowered.com/app/285310/
+P159,Theme Hospital,4,71,pointer,mixed,heavy,no,conditional,https://www.ea.com/games/theme/theme-hospital
+P160,Zoombinis,4,73,pointer,unknown,moderate,no,conditional,https://store.steampowered.com/app/397430/
+P161,Coffee Talk,5,7,pointer,unknown,moderate,unknown,promising,https://store.steampowered.com/app/914800/ | https://www.trueachievements.com/game/Coffee-Talk/walkthrough
+P162,Coffee Talk Episode 2: Hibiscus & Butterfly,5,8,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/1663220/
+P163,VA-11 Hall-A: Cyberpunk Bartender Action,5,10,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/447530/
+P164,The Red Strings Club,5,11,mixed,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/589780/
+P165,Neo Cab,5,12,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/794540/
+P166,Eliza,5,13,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/716500/
+P167,Citizen Sleeper,5,14,pointer,waits,heavy,unknown,conditional,https://store.steampowered.com/app/1578650/
+P168,Citizen Sleeper 2: Starward Vector,5,15,pointer,waits,heavy,unknown,conditional,https://store.steampowered.com/app/2442460/
+P169,Disco Elysium - The Final Cut,5,16,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/632470/
+P170,NORCO,5,17,pointer,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/1221250/
+P171,Kentucky Route Zero,5,21,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/231200/
+P172,Night in the Woods,5,22,directional,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/481510/
+P173,Beacon Pines,5,23,directional,waits,moderate,unknown,promising,https://store.steampowered.com/app/1269640/
+P174,Mutazione,5,24,pointer,waits,moderate,unknown,promising,https://store.steampowered.com/app/1080750/
+P175,Wytchwood,5,25,directional,mixed,heavy,unknown,conditional,https://store.steampowered.com/app/729000/
+P176,Wandersong,5,26,mixed,real_time,moderate,unknown,detour,https://store.steampowered.com/app/530320/
+P177,Chicory: A Colorful Tale,5,27,mixed,mixed,moderate,yes,conditional,https://store.steampowered.com/app/1123450/
+P178,Rakuen,5,28,directional,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/559210/
+P179,To the Moon,5,29,directional,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/206440/
+P180,Finding Paradise,5,30,directional,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/337340/
+P181,Impostor Factory,5,31,directional,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/1182620/
+P182,A Bird Story,5,32,directional,unknown,light,unknown,conditional,https://store.steampowered.com/app/327410/
+P183,OPUS: Rocket of Whispers,5,33,directional,unknown,moderate,no,conditional,https://store.steampowered.com/app/742250/
+P184,OPUS: Echo of Starsong - Full Bloom Edition,5,34,mixed,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/1504500/
+P185,I Was a Teenage Exocolonist,5,36,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/1148760/
+P186,Growing Up,5,37,pointer,mixed,heavy,unknown,conditional,https://store.steampowered.com/app/1191120/
+P187,Volcano Princess,5,38,pointer,mixed,heavy,unknown,conditional,https://store.steampowered.com/app/1669980/
+P188,Long Live The Queen,5,39,pointer,unknown,heavy,unknown,detour,https://store.steampowered.com/app/251990/
+P189,Roadwarden,5,40,text,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/1155970/
+P190,The Life and Suffering of Sir Brante,5,41,text,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/1272160/
+P191,Suzerain,5,42,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/1207650/
+P192,"Yes, Your Grace",5,43,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/1115690/
+P193,Orwell: Keeping an Eye On You,5,44,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/491950/
+P194,Orwell: Ignorance is Strength,5,46,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/633060/
+P195,Emily is Away,5,47,text,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/417860/
+P196,We Know the Devil,5,48,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/435300/
+P197,A Normal Lost Phone,5,49,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/523210/
+P198,Another Lost Phone: Laura's Story,5,50,pointer,unknown,moderate,unknown,conditional,https://anotherlostphone.com/ | https://www.gamehouse.com/games/another-lost-phone-lauras-story
+P199,Slay the Princess - The Pristine Cut,5,52,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/1989270/
+P200,Scarlet Hollow,5,53,pointer,waits,moderate,unknown,conditional,https://store.steampowered.com/app/1609230/
+P201,Secret of Mana,6,7,directional,real_time,heavy,yes,conditional,https://www.nintendo.com/en-ca/store/products/collection-of-mana-switch/ | https://www.world-of-nintendo.com/manuals/super_nes/secret_of_mana.shtml
+P202,Spiritfarer: Farewell Edition,6,8,directional,mixed,heavy,yes,conditional,https://store.steampowered.com/app/972660/ | https://guidestrats.com/spiritfarer-elena-guide/
+P203,Pode,6,9,directional,unknown,moderate,yes,conditional,https://www.nintendo.com/us/store/products/pode-switch/
+P204,Stardew Valley,6,10,directional,real_time,heavy,yes,conditional,https://store.steampowered.com/app/413150/
+P205,Minecraft,6,11,camera,real_time,moderate,yes,conditional,https://www.minecraft.net/en-us/about-minecraft
+P206,Animal Crossing: New Horizons,6,12,directional,mixed,moderate,yes,conditional,https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/
+P207,Portal 2,6,13,camera,mixed,heavy,yes,conditional,https://store.steampowered.com/app/620/
+P208,Untitled Goose Game,6,14,directional,real_time,moderate,yes,conditional,https://store.steampowered.com/app/837470/
+P209,Unravel Two,6,15,directional,real_time,moderate,yes,detour,https://store.steampowered.com/app/1225570/
+P210,80 Days,6,16,pointer,mixed,heavy,no,conditional,https://store.steampowered.com/app/381780/
+P211,The Past Within,6,19,pointer,unknown,moderate,yes,conditional,https://store.steampowered.com/app/1515210/
+P212,Kirby and the Forgotten Land,6,21,directional,real_time,moderate,yes,conditional,https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/
+P213,Kirby's Return to Dream Land Deluxe,6,22,directional,real_time,moderate,yes,conditional,https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/
+P214,Super Mario Bros. Wonder,6,23,directional,real_time,moderate,yes,conditional,https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/
+P215,Tick Tock: A Tale for Two,6,25,pointer,unknown,moderate,yes,conditional,https://store.steampowered.com/app/790740/
+P216,Captain Toad: Treasure Tracker,6,26,camera,mixed,moderate,yes,conditional,https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/
+P217,Yoshi's Crafted World,6,27,directional,real_time,moderate,yes,conditional,https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/
+P218,"Snipperclips - Cut it out, together!",6,29,directional,mixed,moderate,yes,conditional,https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/
+P219,Blanc,6,30,directional,mixed,moderate,yes,conditional,https://store.steampowered.com/app/1982340/
+P220,Hidden Through Time,6,31,pointer,unknown,moderate,unknown,promising,https://store.steampowered.com/app/524910/
+P221,Tiny Lands,6,32,camera,waits,light,unknown,promising,https://store.steampowered.com/app/1354910/
+P222,PHOGS!,6,34,directional,real_time,moderate,yes,conditional,https://store.steampowered.com/app/850320/
+P223,Pikuniku,6,35,directional,real_time,moderate,yes,conditional,https://store.steampowered.com/app/572890/
+P224,Overboard!,6,37,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/1546920/
+P225,Expelled!,6,39,pointer,unknown,heavy,no,conditional,https://store.steampowered.com/app/2963890/
+P226,Machinarium,6,40,pointer,mixed,moderate,unknown,conditional,https://store.steampowered.com/app/40700/
+P227,Botanicula,6,41,pointer,unknown,moderate,unknown,promising,https://store.steampowered.com/app/207690/
+P228,Samorost 3,6,42,pointer,unknown,moderate,unknown,conditional,https://store.steampowered.com/app/421120/
+P229,LEGO City Undercover,6,43,camera,real_time,heavy,yes,conditional,https://store.steampowered.com/app/578330/
+P230,LEGO Star Wars: The Skywalker Saga,6,44,camera,real_time,heavy,yes,conditional,https://store.steampowered.com/app/920210/
+P231,LEGO Builder's Journey,6,45,mixed,unknown,moderate,unknown,promising,https://store.steampowered.com/app/1544360/
+P232,The Gardens Between,6,46,directional,waits,moderate,no,promising,https://store.steampowered.com/app/600990/
+P233,Day of the Tentacle Remastered,6,47,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/388210/
+P234,Trine Enchanted Edition,6,48,mixed,real_time,moderate,yes,detour,https://store.steampowered.com/app/35700/
+P235,Pilgrims,6,49,pointer,unknown,moderate,unknown,promising,https://store.steampowered.com/app/1049280/
+P236,The Longest Journey,6,51,pointer,unknown,heavy,unknown,conditional,https://store.steampowered.com/app/6310/
+P237,Broken Age,6,52,pointer,unknown,heavy,unknown,conditional,https://www.doublefine.com/games/broken-age
+P238,Dinkum,6,54,camera,real_time,heavy,yes,conditional,https://store.steampowered.com/app/1062520/ | https://store.steampowered.com/news/posts/?appids=1062520&enddate=1745490680&feed=steam_community_announcements
+P239,Farm Together,6,56,camera,mixed,moderate,yes,conditional,https://store.steampowered.com/app/673950/
+P240,Staxel,6,57,camera,mixed,heavy,yes,conditional,https://store.steampowered.com/app/405710/

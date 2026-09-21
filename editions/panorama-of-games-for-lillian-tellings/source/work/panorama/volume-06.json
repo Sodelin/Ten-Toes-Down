@@ -1,0 +1,1531 @@
+{
+  "number": 6,
+  "title": "Two Controllers and a Suite We Couldn't Leave Quietly",
+  "subtitle": "Native cooperative games, shared puzzles and stories for an optional companion",
+  "opening": [
+    {
+      "title": "Player Two Had Already Stolen My Chair",
+      "paragraphs": [
+        "I had the hotel bring the second controller in a glass case. Black velvet underneath. Little spotlight above. Nigga, if friendship was going to arrive, it could arrive properly.",
+        "Tank looked through the glass. 'Where's the charger?' 'In the drawer.' 'Then why the fuck is the useful part hiding?'",
+        "I told him presentation mattered. He opened the drawer, connected the charger and sat in the chair I had chosen for myself. Friendship had arrived and immediately taken liberties.",
+        "The casino had given us a different suite because the first one now contained a piano the lift could not carry. I asked whose idea the piano had been. Shawna showed me the text. It was mine, in capitals, followed by three fire symbols.",
+        "'That was enthusiasm,' I said. 'It weighs eight hundred pounds,' my wife replied.",
+        "She had changed into a dress that made me forget how lifts worked. I put a hand at her waist. She kissed me before I could make a public statement about the dress. Then she handed me a bag of cables.",
+        "'Untangle those, baby.' 'You always know how to keep me interested.' 'I know how to give your hands a job.'",
+        "Across the room, Rosa wanted the table pulled away from the wall. She and Tank were playing together, and the hotel had arranged one comfortable seat and one chair that looked like it had been hired for an interrogation.",
+        "Tank picked up the bad chair. He did not threaten it. The chair simply appeared to recognise that its remaining career would be elsewhere.",
+        "Mercedes wanted the sound low enough to talk over. Porsche wanted a screen she could see without sitting behind somebody's shoulder. These were modest requests. I had spent more arranging the controller's lighting than meeting either one.",
+        "Dre came through the door carrying a casserole. Grown man, blue shirt, smile that suggested he had already seen the parking charge and decided to stay cheerful out of spite.",
+        "'Which controller's blue?' he asked.",
+        "I pointed at the glass case. He set down the casserole and opened it.",
+        "'Nigga, that's the display.' 'Now it's the controller.'",
+        "Dre was a Crip. He had brought food and wanted a particular colour of plastic. I had brought no food and wanted my arrival televised. Tank said one of us was contributing more to peace.",
+        "I offered Dre the gold controller instead. He looked at it. 'You keep that motherfucker. It matches whatever you about to say.'",
+        "Rosa took the casserole to the table. The party improved before anyone turned on a game.",
+        "Darnell arrived next with sunglasses on and the same yacht story I had heard before we changed suites. He set a little case on the bar and said tonight could become legendary. Porsche looked at the case, looked at his restless speech and asked whether he had brought the cocaine or the boat.",
+        "'Both are investments,' he said.",
+        "'Then take your portfolio back downstairs. Mercedes wants to hear the game.'",
+        "He tried to tell Tank what a man of his size could do on a yacht. Rosa called Tank over to taste the casserole. My brother left Darnell holding his own introduction. Nigga had been defeated by dinner without anybody raising a fist.",
+        "The hotel host collected Darnell and his case. There would be another bar somewhere for his endless performance. This room had other plans.",
+        "I finally got the cable untangled and held it up like a captured serpent. Shawna plugged it in. The controller lit.",
+        "'We did that together,' I said. 'Yes, baby. Eventually.'",
+        "The games did not all mean the same thing by together. Some wanted two characters moving through one place. Some put different clues on different screens. Some let a second person help with only part of the work. Others belonged to one player, with room beside them for somebody who liked a story.",
+        "Tank gave me a controller. 'What do I do?' he asked.",
+        "I nearly said Trust me.",
+        "Shawna was watching. Mercedes was watching. Dre had a fork halfway to his mouth, waiting to see whether I would fuck up a question that short.",
+        "I looked at the screen and told Tank what his character could do. Then I asked which job he wanted.",
+        "'Look at that,' Rosa said. 'He can be trained.'",
+        "My wife smiled. 'Depends what you're offering.'",
+        "Nigga, I stayed interested.",
+        "We put both chairs where the screen was clear. No spotlight on either player. No announcement about which one mattered. Dre passed the casserole, Porsche turned the music down and the room became a place where somebody could try something without my voice getting there first.",
+        "I sat beside my brother. He handed me the smaller controller.",
+        "'Why I get this one?'",
+        "'Matches the amount of advice I'm requesting.'"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "P201",
+      "case_title": "The Sword Does Not Care How Much My Suit Cost",
+      "scene": [
+        "I held the controller like a sword and promised Tank I would protect him. He looked at the screen. 'Nigga, protect yourself. That thing's already biting you.'",
+        "Secret of Mana had put us together in a world where my introduction did not stop the fighting. I tried to explain my strategy. Shawna reached across and opened the ring menu.",
+        "Silence. A little breathing room. My brother looked over. 'Now tell me all the shit you meant to do.'",
+        "I shortened the strategy considerably.",
+        "Dre wanted the blue controller back when we finished. Rosa wanted Tank beside her after one more area. Everybody had a future that depended on me moving my character instead of narrating it.",
+        "We tried again. This time I followed Tank through the opening and actually helped.",
+        "'There,' he said. 'Two niggas in the same fight.' I grinned. Shawna kissed my shoulder. 'Much better than one hero and a witness.'"
+      ],
+      "pleasure": "The original 1993 adventure offers a colourful party journey with native cooperative fighting once companions join. Its overhead view removes free-camera steering, while towns, equipment, magic and connected areas give the journey continuity.",
+      "burden": "Combat runs in real time. Original manual instructions include held dashing and charged attacks, plus Y opening the paused ring menu. Original SNES two-player play needs two controllers; a third needs a multiplayer adapter. Collection of Mana supports up to three. The 2018 remake is excluded.",
+      "first": "Enjoy the solo opening together or use an existing shared save after an ally joins. Try moving, opening the ring and one familiar encounter. The second player should choose their own role rather than automatically receiving every difficult job.",
+      "ruling": "Try the old adventure if both players actually want its fighting and menus. My suit receives no armour bonus, despite the tailoring and deeply persuasive receipt.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "fantasy",
+        "adventure"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/en-ca/store/products/collection-of-mana-switch/",
+        "https://www.world-of-nintendo.com/manuals/super_nes/secret_of_mana.shtml"
+      ],
+      "title": "Secret of Mana",
+      "source_note": "Nintendo Collection of Mana page confirms original Secret of Mana supports 1–3 players. Original manual text inspected through archival transcription establishes ring pause, held actions and SNES controller/adapter rules. Ally-gated joining follows party availability. No 2018 PC remake metadata is used.",
+      "quick_pitch": "Explore a colourful retro adventure together once companions join, with towns, magic and party equipment giving the shared journey a continuing sense of purpose.",
+      "what_you_do": "Move through connected areas, fight enemies in real time and use ring menus to manage the party's items, equipment and magic.",
+      "watch_for": "Real-time combat and held actions remain; original SNES three-player play needs an adapter, and cooperation begins after allies join."
+    },
+    {
+      "id": "P202",
+      "case_title": "The Ferry Has Asked Me to Remove the Jacuzzi",
+      "scene": [
+        "I designed our ferry with a private deck for romantic evenings. Rosa asked where the passengers would sleep. I pointed beneath the stairs. Shawna put down the pencil.",
+        "'Nigga, it's a boat for them.'",
+        "Spiritfarer made the people aboard matter more than my floor plan. Tank chose the cat and immediately looked more relaxed than I had all night. Mercedes wanted to hear what a passenger needed.",
+        "I promised to handle everything. The game showed me several things needing handling. Porsche watched my face. 'Your mouth hired your hands again.'",
+        "We cooked something. Built a little. Stopped to listen. I deleted the jacuzzi from the drawing.",
+        "Shawna leaned against me when the conversation turned toward goodbye. I did not try to make it cheerful.",
+        "Tank's cat moved across the screen. Rosa smiled at it, then at him. 'You make a good passenger.' 'Nigga, I'm staff.' She kissed his cheek. 'Then ask for a break.'"
+      ],
+      "pleasure": "Build and travel on a ferry, care for spirits, gather materials and eventually say goodbye. The Farewell Edition includes the expanded character stories. Native local cooperation pairs Stella with Daffodil, giving two people a shared place to inhabit.",
+      "burden": "Movement includes jumping and gliding; chores, recipes and resources accumulate. The cat's role differs from Stella's. A previously inspected secondary walkthrough identifies Elena's later timed Gold Dragon challenge, so the gentle presentation is not a no-rush guarantee. Bereavement is the central theme.",
+      "first": "Meet a passenger, walk around the boat and try one chore in each role. Check whether both people enjoy what their character can do. Leave the larger building plan alone until the small shared activity feels worthwhile.",
+      "ruling": "Come aboard when caring for people and sharing chores sounds welcome, including the grief. My jacuzzi has been removed so an actual passenger can unpack.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "care",
+        "bereavement",
+        "exploration"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://store.steampowered.com/app/972660/",
+        "https://guidestrats.com/spiritfarer-elena-guide/"
+      ],
+      "title": "Spiritfarer: Farewell Edition",
+      "source_note": "Steam publisher description confirms Farewell Edition activities and local Daffodil cooperation. Prior inspected GuideStrats walkthrough supplies the secondary-source warning about Elena and the timed Gold Dragon; not represented as a developer access statement.",
+      "quick_pitch": "Build and travel on a ferry while caring for spirits, sharing everyday chores and eventually saying goodbye to people whose stories become familiar.",
+      "what_you_do": "Explore islands, gather resources, cook and craft, build the boat, and try Stella's or Daffodil's role in local cooperation.",
+      "watch_for": "Chores and resources accumulate, roles differ, and later timed challenges remain alongside jumping, gliding and bereavement."
+    },
+    {
+      "id": "P203",
+      "case_title": "The Star Needs the Rock to Stop Laughing",
+      "scene": [
+        "I chose the star before Tank finished asking which character I wanted. Nigga, some decisions arrive already wearing my name.",
+        "He chose the rock. Shawna looked at us. 'At least one of you knows how to stay grounded.'",
+        "Pode wanted the two little travellers to use their different abilities. I wanted Tank to appreciate my glow. He moved to the useful place and waited while I demonstrated it.",
+        "'Brother, you coming?' 'I'm establishing the mood.' 'The door don't care.'",
+        "Mercedes laughed. Rosa told Tank to give me a moment. He gave me exactly the moment I needed to realise I was the delay.",
+        "I moved beside him. Something in the room changed. The way ahead appeared because the two characters were finally doing something together.",
+        "Shawna brushed my sleeve. 'There you are.' I glanced at her. 'You like me shining?' 'Baby, I like you where the other person asked you to stand.'"
+      ],
+      "pleasure": "A rock and a fallen star explore Norwegian-inspired caverns, using different abilities to bring an ancient environment to life and solve spatial puzzles. The Switch edition supports one or two players on one system.",
+      "burden": "You still move characters through three-dimensional spaces and coordinate their positions and abilities. The store's cooperative and gentle-looking presentation does not prove no held movement, no tricky jumps or no timed sections throughout. The assigned edition is Switch; PC controller requirements are not imported here.",
+      "first": "Try the first shared room and let each person explain what their character appears able to change. Check movement, positioning and the viewpoint before tackling a long puzzle. Switch roles only if both people would like to.",
+      "ruling": "Choose the mountain when complementary abilities sound enjoyable to explore together. The star may shine as brightly as it likes after it reaches the correct fucking spot.",
+      "input": "directional",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "gentle",
+        "puzzles",
+        "exploration"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/pode-switch/"
+      ],
+      "title": "Pode",
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Guide a rock and fallen star through beautiful caverns, combining their different abilities to solve spatial puzzles and bring the environment to life together.",
+      "what_you_do": "Move the two characters, explore cave rooms and coordinate their positions and special abilities to open ways forward.",
+      "watch_for": "Spatial positioning and movement still need checking; gentle art does not establish no held actions, tricky jumps or timed sections."
+    },
+    {
+      "id": "P204",
+      "case_title": "My Farm Has Opened with a Champagne Debt",
+      "scene": [
+        "I announced that the farm would pay for itself. Tank looked at the champagne I had ordered to celebrate it. 'Nigga, the farm hasn't met you yet.'",
+        "Stardew Valley gave Rosa a small patch she wanted to plant. I proposed expanding before the first seed touched soil. Shawna asked whether growth was the only word in my vocabulary.",
+        "'There's pleasure.' 'Then let Rosa have some.'",
+        "My wife leaned close enough that I briefly forgot agriculture. On the screen, time kept moving. Tank pointed. 'Your romantic speech got opening hours, my nigga.'",
+        "We settled on a little work and a walk. Mercedes wanted to meet someone in town. Porsche wanted to see what the house could become.",
+        "I put away the imaginary expansion plan. A plant doing one ordinary thing became more interesting than the empire I had promised.",
+        "Rosa looked over. 'You enjoying your farm?' 'Yes.' 'Good. Stop calling it an empire. The carrots don't owe you a salute.'"
+      ],
+      "pleasure": "Farming, friendships, seasons, crafting and exploration create a place that can grow alongside a group. The current inspected PC listing advertises online cooperation and shared-screen support, allowing genuine joint work rather than only discussion beside one controller.",
+      "burden": "An active day, energy, inventories, travel, fishing and combat create different demands. Multiplayer pause behavior must be checked; a partner does not automatically stop the clock. Many recipes and social schedules can turn leisure into planning. Record the actual installed version before comparing features.",
+      "first": "Plant a small patch or take one walk together. Inspect movement, item selection and what happens to time when a menu opens. Avoid choosing a mining or fishing challenge as the sole measure of whether village life appeals.",
+      "ruling": "Plant a small evening here if the routine and relationships appeal. My champagne debt belongs to the host, and no carrot is obliged to finance it.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "community",
+        "farming",
+        "exploration"
+      ],
+      "native_coop": "yes",
+      "title": "Stardew Valley",
+      "source_urls": [
+        "https://store.steampowered.com/app/413150/"
+      ],
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Grow a farm and become familiar with a community, sharing work and exploration while seasons, friendships and personal projects give the place continuity.",
+      "what_you_do": "Plant crops, manage tools and resources, visit neighbours and explore activities together in the chosen cooperative PC setup.",
+      "watch_for": "The active day, inventories and multiple activities add pressure; verify multiplayer pause behavior before expecting menus to stop time."
+    },
+    {
+      "id": "P205",
+      "case_title": "The Cathedral Has a Bedroom but No Front Door",
+      "scene": [
+        "I built the bedroom first. Shawna inspected the Minecraft structure. 'How do we get in?' 'Baby, romance finds a way.' Tank pointed at the wall. 'This nigga expects romance to bring a pickaxe.'",
+        "Creative mode had given me resources and I had spent them on a ceiling that looked impressive from a room nobody could enter.",
+        "Dre added a doorway. Rosa made a little window. Mercedes chose a colour that did not announce my ownership to the horizon.",
+        "I called it collaboration. Porsche called it six adults repairing a man's approach to shelter.",
+        "Shawna walked her character inside and looked around. The place finally had a view. I tried the camera and found that building the dream still required knowing where I was looking.",
+        "'You like it?' I asked. 'I like the window.' 'That wasn't mine.'",
+        "She smiled. 'I know, baby.' Nigga, the cathedral survived because several people loved something about it more than they loved my explanation."
+      ],
+      "pleasure": "Creative mode supplies unlimited resources, damage immunity and flight for shared building. Java and Bedrock both support multiplayer, but they have different compatibility and input profiles. A modest construction can give two people an enjoyable shared purpose.",
+      "burden": "Moving while steering a three-dimensional view and precisely placing blocks can be substantial work. Creative mode changes survival pressure, not those demands. Official comparison lists controller support for Bedrock, not Java, and split-screen only on consoles; do not plan PC couch split-screen.",
+      "first": "Choose the exact edition and arrange compatible separate-device play if sharing online or locally. In Creative mode, try looking around and placing a few blocks before planning anything large. A wall with one window is an adequate architectural brief.",
+      "ruling": "Build together if the camera and placing blocks feel good. Our cathedral now admits visitors through a door, ending a deeply impractical phase of romantic architecture.",
+      "input": "camera",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "building",
+        "exploration"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.minecraft.net/en-us/about-minecraft"
+      ],
+      "title": "Minecraft",
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Create a shared place from blocks in Creative mode, using unlimited resources to focus on a modest build instead of surviving the world's dangers.",
+      "what_you_do": "Look around, move through the world and place or remove blocks while coordinating a building project on compatible editions and devices.",
+      "watch_for": "Camera movement and precise placement remain; Java and Bedrock differ, and PC versions do not provide console-style split-screen."
+    },
+    {
+      "id": "P206",
+      "case_title": "The Island Has Voted Against My Statue",
+      "scene": [
+        "I picked a place for my statue before choosing where anybody would sleep. Rosa stood behind me with a plate. 'Nigga, eat something. You're founding a problem.'",
+        "Animal Crossing offered a beach, neighbours and things to make. Shawna wanted a quiet corner near the water. I offered to name it after her.",
+        "'You could let me choose it.' 'Baby, I'm honouring you.' 'Then hear the sentence.'",
+        "Tank found a place for a bench. Dre suggested the statue could face the sea so nobody on the island had to look at me.",
+        "Mercedes laughed and started arranging something smaller. I watched the little place become personal without every object receiving a dedication.",
+        "Porsche asked how our shared mode worked before taking a controller. We checked instead of making promises.",
+        "The bench looked good. Shawna sat beside me in the real room. I left the statue unfinished. Nigga, some islands acquire beauty through a cancellation."
+      ],
+      "pleasure": "Collect materials, meet animal neighbours and gradually arrange an island home. The current Switch page supports up to four people sharing one system and larger visits with separate systems, though these are different ways of playing together.",
+      "burden": "Crafting, tool selection, storage and repeated dialogue can create menu work. Same-system roles and restrictions deserve a practical check before assuming everyone has identical freedom. The page reflects current updates, so check the installed version; this card does not certify every activity as untimed.",
+      "first": "Walk around, talk to one neighbour and try placing or collecting an object. If playing together, test the specific visiting or shared-system mode and let both people describe what they can actually do. An unproductive beach stroll is a valid result.",
+      "ruling": "Visit the island if collecting, neighbours and decorating sound pleasant. My statue remains offshore in theory, allowing the bench to provide the evening's actual monument.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "community",
+        "decorating",
+        "gentle"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-switch/"
+      ],
+      "title": "Animal Crossing: New Horizons",
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Make an island home through collecting, crafting, decorating and meeting animal neighbours, with different ways to spend time alongside other players on Switch.",
+      "what_you_do": "Walk around the island, speak with residents, gather materials and place objects while trying the specific shared-system or visiting mode.",
+      "watch_for": "Storage, tools and repeated menus add work; shared-system roles and installed-version restrictions need checking before assuming equal freedom."
+    },
+    {
+      "id": "P207",
+      "case_title": "The Portal Opens Directly into My Bad Idea",
+      "scene": [
+        "I said Portal 2 would reward two men with excellent spatial judgement. Tank looked at the suite door I had tried to push while it said PULL.",
+        "'Nigga, which two?'",
+        "The chamber gave us places to look and a reason to explain them clearly. I described one panel as the place that obviously wanted a portal. Shawna asked whether obvious was a location.",
+        "Mercedes sat behind Tank, waiting to see our plan. Porsche sat behind me, waiting for the hotel to invoice it.",
+        "I aimed at the wrong wall. My brother said nothing. That was worse than laughter. Dre laughed for him.",
+        "We stopped. I described the actual panel. Tank told me what he needed. The next attempt worked well enough to make us both grin.",
+        "I reached for a grand conclusion. Shawna kissed my cheek first. 'Good job, baby.' Nigga, I accepted the smaller celebration and avoided building another wrong door out of words."
+      ],
+      "pleasure": "The dedicated two-player campaign has its own robots, story and chambers designed around joint portal solutions. Humour and mechanical discoveries make it attractive to companions who like discussing how a space works.",
+      "burden": "First-person movement, aiming, spatial transformations and coordinating actions remain substantial catches. Steam declares play without timed input, but that declaration is not a tested guarantee that every cooperative manoeuvre avoids urgency or awkward timing. Both camera comfort and joint execution need direct trials.",
+      "first": "Enter the cooperative introduction and test looking, walking and placing a portal before pursuing a complex solution. Describe a location without pointing at the other person's screen. Stop if the camera or required coordination outweighs the pleasure of solving.",
+      "ruling": "Enter the chambers if camera movement and shared spatial reasoning sound enjoyable. My theory of obvious walls has been withdrawn after consultation with an actual door.",
+      "input": "camera",
+      "pace": "mixed",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "puzzles",
+        "science fiction"
+      ],
+      "native_coop": "yes",
+      "title": "Portal 2",
+      "source_urls": [
+        "https://store.steampowered.com/app/620/"
+      ],
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Solve a dedicated two-player puzzle campaign together, using portals and complementary perspectives to discover how unusual test chambers can be crossed or rearranged.",
+      "what_you_do": "Walk and look around in first person, aim portals and coordinate actions with the other player to solve chambers.",
+      "watch_for": "First-person aiming and coordinated manoeuvres remain substantial catches; the timed-input declaration is not a complete cooperative-play audit."
+    },
+    {
+      "id": "P208",
+      "case_title": "The Goose Has Taken My Wife's Shoe",
+      "scene": [
+        "I described our goose partnership as a precision operation. Tank honked before I finished. Nigga, some collaborators establish their own tone.",
+        "Untitled Goose Game gave us a village full of people trying to get on with life. I respected the goose's ambition and disliked how closely everybody said it resembled me.",
+        "Shawna's shoe lay beside the sofa. I lifted it to demonstrate a theft. She held out her hand.",
+        "'You want to carry that, baby?' 'I'm illustrating the premise.' 'Then illustrate returning it.'",
+        "On the screen, Tank caused a distraction while I tried to move the object. Mercedes laughed at the result. The plan had gone wrong in a way better than my plan.",
+        "Porsche wanted a turn. I passed the controller instead of explaining what she should do with it.",
+        "Shawna took her shoe and settled beside me. Tank honked again. 'That one was for the shoe.' Nigga, the village had acquired standards my party was still learning."
+      ],
+      "pleasure": "The updated PC game lets two people play the whole village prank campaign together. Watching people react, coordinating distractions and creating ridiculous little situations can be as entertaining as completing the written objectives.",
+      "burden": "Stealth, pursuit, object handling and positioning operate in real time. Some tasks require observing routines and acting at a useful moment; held inputs and later time challenges need checking. A charming goose is still capable of making a control scheme demanding.",
+      "first": "Explore the first garden together and try moving, honking and handling one object before attempting an elaborate prank. Agree whether either person wants hints. Enjoy an accidental comic moment without turning every task into a performance target.",
+      "ruling": "Try shared mischief when watching a plan fail can be part of the fun. My wife's shoe has been returned before the goose acquired legal counsel.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "mischief"
+      ],
+      "native_coop": "yes",
+      "title": "Untitled Goose Game",
+      "source_urls": [
+        "https://store.steampowered.com/app/837470/"
+      ],
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Cause slapstick trouble together in a village, coordinating distractions and stealing objects while watching the inhabitants react to two very determined geese and their pranks.",
+      "what_you_do": "Move around the village, honk, handle objects and work together to distract people or complete comic tasks.",
+      "watch_for": "Pursuit and useful timing occur in real time; object handling and later time challenges need checking despite the charming premise."
+    },
+    {
+      "id": "P209",
+      "case_title": "The Yarn Is Around My Belt and the Romance Is Over",
+      "scene": [
+        "I tied two pieces of decorative yarn together to explain Unravel Two. Shawna asked why one end was around my belt. I said love required commitment.",
+        "Tank caught the other end on a chair. My shirt pulled sideways. Nigga, the demonstration had become a wardrobe negotiation.",
+        "The game connected its little partners for a reason. Ours were connected because I had mistaken flirtation for equipment setup.",
+        "'You want me to untie it?' Shawna asked. 'Depends where this goes.' 'Toward a usable chair.'",
+        "Mercedes picked up a controller and wanted to try the actual movement. Porsche joined her. They negotiated a route without involving anybody's trousers.",
+        "Rosa freed the chair while Tank tried very hard not to laugh. He failed. I accepted this as a contribution to morale.",
+        "I sat beside my wife, with both feet on the floor and my belt serving one job. 'Still committed,' I told her. She kissed me. 'Much easier to reach now.'"
+      ],
+      "pleasure": "Two Yarnys work through natural and built environments, helping one another across obstacles. Native local cooperation makes the physical connection between characters a direct shared puzzle, with an emotional story running through the journey.",
+      "burden": "This is an active platforming game: jumping, swinging, running and reaction demands are explicit. Coordination can amplify frustration when one person wants a slower pace. Its warmth does not establish an easy route through every chase or challenge; check any assistance options in the actual build.",
+      "first": "In an early safe area, each person should try movement and one simple shared traversal. Ask whether being physically linked feels funny and satisfying or restrictive. Do not make completing a chase the admission test for an enjoyable evening.",
+      "ruling": "Take the linked adventure if its movement sounds fun for both people. All demonstrations involving my belt have ended so the chairs can resume normal service.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "detour",
+      "tone": [
+        "adventure",
+        "partnership"
+      ],
+      "native_coop": "yes",
+      "title": "Unravel Two",
+      "source_urls": [
+        "https://store.steampowered.com/app/1225570/"
+      ],
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Help two connected Yarnys through beautiful environments, using their physical link to turn movement and obstacles into a shared puzzle with an emotional story.",
+      "what_you_do": "Run, jump, swing and help the other Yarny cross obstacles while exploring the route together in local cooperative play.",
+      "watch_for": "Active platforming and chases remain; being linked can add coordination pressure when the two players want different paces."
+    },
+    {
+      "id": "P210",
+      "case_title": "The Suitcase Contains Three Hats and No Practical Husband",
+      "scene": [
+        "I packed for 80 Days as if every city had requested a formal photograph. Shawna opened the suitcase and found three hats, two jackets and no room for hers.",
+        "'Nigga, are you travelling or touring yourself?'",
+        "The game gave us routes, money, luggage and somebody else's needs. Tank asked what I would leave behind to catch the connection. I pointed at his bag.",
+        "He closed my suitcase on the largest hat. Rosa laughed before she could stop herself.",
+        "Mercedes wanted to follow an interesting encounter. Porsche wanted to compare the route. They had more useful things to say about the journey than I had managed with six pieces of tailoring.",
+        "Shawna took out two hats and fitted in her clothes. I tried to object. She held up the dress she planned to wear.",
+        "Nigga, my priorities became flexible immediately.",
+        "We chose one direction together. The remaining hat sat on my knee, reduced from an international strategy to an accessory with reasonable luggage requirements."
+      ],
+      "pleasure": "As Passepartout, choose routes and encounters across an alternate-history world while managing Fogg's wellbeing, money and travel. This is single-player storytelling that can be discussed beside the screen; its shared appeal does not make it native cooperative play.",
+      "burden": "The premise includes a travel deadline, schedules and an in-game clock. The inspected store language stresses continuous time, so do not assume a fully untimed experience or confuse the multiplayer journey feed with joint control. Reading, inventory and route planning are significant.",
+      "first": "Inspect the opening route choices and how time behaves in each screen before committing to a journey. Let the person operating choose whether advice is welcome. One interesting encounter is enough to assess the prose and decision rhythm.",
+      "ruling": "Travel by story if routes and compromises sound appealing. My spare hats will remain at the hotel, where they can pursue their international careers without us.",
+      "input": "pointer",
+      "pace": "mixed",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "travel",
+        "adventure"
+      ],
+      "native_coop": "no",
+      "title": "80 Days",
+      "source_urls": [
+        "https://store.steampowered.com/app/381780/"
+      ],
+      "source_note": "Inspected publisher or platform product description supports the premise and stated multiplayer features. Movement burden and editorial fit are inferences, not a full control audit. Exact edition limits and unknowns appear in the card; sources checked September 20, 2026.",
+      "quick_pitch": "Plan an alternate-history journey around the world, balancing routes and resources while conversations and unexpected encounters give each trip its own character and possibilities.",
+      "what_you_do": "Choose destinations and transport, read encounters, manage luggage and money, and consider Fogg's wellbeing along the route.",
+      "watch_for": "Travel deadlines and schedules add pressure; inspect clock behavior, and remember shared discussion is not native cooperative control."
+    },
+    {
+      "id": "P211",
+      "case_title": "My Future Self Has Already Lost the Room Key",
+      "scene": [
+        "I chose the future in The Past Within because I expected it to appreciate me. Tank chose the past and asked whether he could prevent the evening's piano order.",
+        "Our screens showed different information. I described a symbol as bold, commanding and suggestive of greatness. Shawna put down her glass.",
+        "'Nigga, what shape?' 'Triangle.' 'Start there.'",
+        "Mercedes tried not to laugh. Porsche did not try. Dre passed the casserole while my brother compared the actual marks with the ones on his screen.",
+        "I told him where another detail sat. He told me what he needed. We made a connection without the future once being required to admire my jacket.",
+        "Then I reached for our room key and found an empty pocket.",
+        "Tank held it up. 'Past saw you leave this by the ice.'",
+        "Nigga, the past was annoyingly well informed. Shawna took the key from him and said the future could stay with her until I improved my record."
+      ],
+      "pleasure": "Two players occupy different times and exchange information to solve a Rusty Lake mystery. Separate perspectives make describing, listening and comparing observations the actual cooperative activity rather than a decorative addition to a solo puzzle.",
+      "burden": "This is co-op only: each player needs their own copy, a device and a way to communicate. Eerie imagery and puzzling symbols may be unwelcome. Reading, remembering descriptions and manipulating the interface still need checking; the premise does not establish a complete absence of timed or held actions.",
+      "first": "Set up both perspectives and exchange one precise observation before pursuing a solution. Try any unfamiliar interaction separately. Decide whether the pleasure comes from explaining what you see, and whether either person wants brief written notes.",
+      "ruling": "Try the two perspectives if precise descriptions and shared discoveries sound satisfying. My future may retain its ambitions, but the room key is travelling with somebody competent.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "mystery",
+        "unease"
+      ],
+      "native_coop": "yes",
+      "title": "The Past Within",
+      "source_urls": [
+        "https://store.steampowered.com/app/1515210/"
+      ],
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Exchange clues across two separate perspectives in a Rusty Lake mystery, making describing what you see the central cooperative activity rather than sharing one controller.",
+      "what_you_do": "Use separate devices to inspect scenes, describe symbols and objects, and combine information from the past and future to solve puzzles.",
+      "watch_for": "Both players need copies, devices and communication; eerie imagery and remembering described clues add demands, while exact input behavior remains unchecked."
+    },
+    {
+      "id": "P212",
+      "case_title": "Kirby Has Inhaled My Grand Entrance",
+      "scene": [
+        "I said Kirby understood appetite. Shawna looked at the plate I had balanced on my knee. 'Baby, Kirby finishes what he starts.'",
+        "The Forgotten Land gave one of us Kirby and the other Bandana Waddle Dee. I selected the star without discussion. Tank put his controller down.",
+        "'Nigga, we trying roles or appointing royalty?'",
+        "Mercedes wanted to see the overgrown place. Porsche wanted to know how her character moved. They had managed to ask practical questions before I had finished celebrating my selection.",
+        "I offered Tank a turn as Kirby. He smiled like a man accepting a overdue payment.",
+        "We tried a little movement. Some actions worked differently. Shawna pointed at the screen rather than at me, which let the information arrive without becoming a verdict on my greatness.",
+        "At the buffet, the waiter removed my unfinished plate. I protested.",
+        "Rosa looked at the empty space. 'Mouthful mode.' Nigga, the entire room understood the joke before I found a defence."
+      ],
+      "pleasure": "Explore three-dimensional stages, rescue Waddle Dees and develop a town between adventures. Original Switch local cooperation adds Bandana Waddle Dee beside Kirby. Nintendo's Spring-Breeze mode gives more health and easier enemies.",
+      "burden": "This remains platforming and combat. Nintendo explicitly describes timed Treasure Road challenges and abilities involving held buttons, such as charging a hammer or aiming a bomb. The second role differs. The 2022 Switch original is assessed here, not the Switch 2 expansion or upgrade.",
+      "first": "Try the opening area in Spring-Breeze mode if desired, testing movement and each character's basic actions. Check whether both people like their role before pursuing a boss or time challenge. The official page lists a demo, whose current availability can be checked on the console.",
+      "ruling": "Visit the bright adventure if its active roles sound enjoyable to try. My buffet plate has entered a new mode in which somebody else clears it.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "adventure",
+        "playful"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-switch/"
+      ],
+      "title": "Kirby and the Forgotten Land",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Explore colourful three-dimensional stages and rescue Waddle Dees, with a second player joining as Bandana Waddle Dee and a town developing between adventures.",
+      "what_you_do": "Move through stages, use character abilities, fight enemies and explore together, trying the distinct Kirby and Bandana Waddle Dee roles.",
+      "watch_for": "Platforming and combat remain; timed Treasure Road challenges and held abilities are explicit, and the cooperative roles differ."
+    },
+    {
+      "id": "P213",
+      "case_title": "Four Kirbys and One Nigga Still Wants Top Billing",
+      "scene": [
+        "I liked the possibility of several Kirbys until Mercedes selected one before me. Then I suddenly developed an interest in preserving artistic distinction.",
+        "Tank watched my face. 'Nigga, it's a colour. You're not losing the album cover.'",
+        "Return to Dream Land Deluxe let us choose a party instead of making everybody attend my personal adventure. Rosa wanted a character she liked. Dre wanted to see what his could do.",
+        "Shawna told me to choose while the room still had an evening left. I chose. Nobody applauded the colour.",
+        "We tried the first little stretch together. I began announcing every useful thing I did. Porsche announced the next useful thing somebody else did. The room became pleasantly crowded with competence.",
+        "'You keeping score?' I asked. 'Nigga, you started the broadcast.'",
+        "I stopped announcing. A helper appeared where it mattered, and the party moved on. Tank grinned at me. 'Look at that. Four heroes, no opening act.'"
+      ],
+      "pleasure": "The Deluxe Switch platform adventure supports up to four local players, including different Kirbys and familiar companions. Repairing Magolor's ship gives the group a shared journey, while character abilities and separate subgames provide variety.",
+      "burden": "Floating, fighting, jumps and different move sets remain active demands. Nintendo confirms Helper Magolor for the main adventure, but that does not erase every challenge. The later Magolor Epilogue must be unlocked and has its own action; do not treat all modes as equivalent.",
+      "first": "Use an early main-adventure section to test movement and a character's basic ability. Examine Helper Magolor if helpful. Leave competitive subgames and coordinated team attacks for later, and keep the first shared session free from a completion target.",
+      "ruling": "Gather a party if colourful platforming sounds welcome to everyone. My application for permanent top billing has been rejected on the grounds that the others also have controllers.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "adventure",
+        "playful"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/kirbys-return-to-dream-land-deluxe-switch/"
+      ],
+      "title": "Kirby's Return to Dream Land Deluxe",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Share a colourful platform adventure with several character choices, helping rebuild a ship while abilities and a helper option offer different ways to participate together.",
+      "what_you_do": "Choose characters, move through stages, float, jump and fight together while trying the main adventure's available assistance.",
+      "watch_for": "Active moves and platforming remain despite Helper Magolor; later modes and subgames have different demands from the opening adventure."
+    },
+    {
+      "id": "P214",
+      "case_title": "The Talking Flower Has Asked Me to Keep It Down",
+      "scene": [
+        "I told the room that no flower could outtalk me. Mercedes said this sounded like a promise the hotel ought to insure against.",
+        "Wonder turned the landscape strange while I tried to claim I had expected it. Tank looked over. 'Nigga, your face didn't.'",
+        "Shawna chose her character. Dre asked what the protected characters gave up in exchange. I appreciated that he wanted information before being persuaded, although I would have preferred a less public demonstration.",
+        "The first surprising thing happened. Rosa laughed. I missed half of it explaining the beginning.",
+        "My wife touched my arm. 'Baby, watch.'",
+        "I watched. The game did something else. This time I laughed before I found the explanation.",
+        "Porsche pointed at the talking flower. 'That's your competition.' I said the flower lacked my stage presence. Tank said it had the advantage of leaving gaps between remarks.",
+        "Nigga, the room was taking botany's side. I put down the microphone and let the next surprise get here first."
+      ],
+      "pleasure": "Side-scrolling courses change in imaginative ways when Wonder effects appear. Up to four local players can tackle them together. Nabbit and Yoshis avoid damage from enemies, and Yoshis can carry other players.",
+      "burden": "Running, jumping, gaps, moving hazards and coordination remain part of an action game. Enemy-damage protection does not certify an effortless or no-hold path through every course. Character restrictions also matter: Nintendo says Nabbit and Yoshis do not transform with power-ups.",
+      "first": "Pick characters for their actual appeal and try one early course without collecting every optional item. Check movement and jump controls before introducing extra badges. A companion should match the agreed pace rather than racing ahead to demonstrate expertise.",
+      "ruling": "Choose the courses when movement and surprise sound like fun. The talking flower gets equal speaking time, and nobody owes my commentary an encore between jumps.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "playful",
+        "adventure"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/"
+      ],
+      "title": "Super Mario Bros. Wonder",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Discover playful changes in side-scrolling courses, with local multiplayer and character choices that can reduce enemy-damage concerns while keeping the platforming adventure active and surprising.",
+      "what_you_do": "Run and jump through courses, try power-ups or character abilities, and help other players as unexpected Wonder effects change the surroundings.",
+      "watch_for": "Jumps, gaps and moving hazards remain; enemy-damage protection does not establish an easy, no-hold route through every course."
+    },
+    {
+      "id": "P215",
+      "case_title": "The Clockmaker Has Never Heard My Description of a Clock",
+      "scene": [
+        "I told Tank there was a clock on my screen. He asked what it showed. I said craftsmanship, age and a certain sadness. Nigga put his controller in his lap.",
+        "Tick Tock needed information, not my audition for an antique programme. Shawna waited until I looked at her.",
+        "'Numbers, baby.'",
+        "I gave him the numbers. He gave me something from his screen. The room stopped being an audience and became a place where two people could actually compare clues.",
+        "Dre kept time on the microwave while his casserole warmed. I accused him of adding atmosphere. He said food had needs entirely unrelated to my mystery.",
+        "Mercedes asked whether we wanted a note of the symbols. I said yes. No speech about outsourcing memory. She wrote them where we could both see.",
+        "Tank found the connection. I grinned at him. 'We good together.' 'Nigga, we better when you describe the fucking clock.'"
+      ],
+      "pleasure": "Separate screens hold pieces of an eerie clockwork mystery, and two people combine what they see to escape. The developer describes cross-platform play, so communication rather than a shared physical controller is the central partnership.",
+      "burden": "It requires two players and separate devices; check the exact copies and setup needed on the chosen platforms. Describing symbols and retaining another person's clues can be demanding. The clock imagery and promotional urgency do not establish the actual timer behavior; inspect it directly.",
+      "first": "Choose the two perspectives and compare one visible clue. Try describing shape, location and order before proposing a theory. Establish that asking for a repeat is ordinary cooperation, then see whether the eerie atmosphere adds pleasure or merely pressure.",
+      "ruling": "Try it when exchanging separate clues sounds pleasurable rather than tiring. My antique commentary is available later, after the actual numbers have safely reached the other player.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "mystery",
+        "unease"
+      ],
+      "native_coop": "yes",
+      "title": "Tick Tock: A Tale for Two",
+      "source_urls": [
+        "https://store.steampowered.com/app/790740/"
+      ],
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Solve an eerie clockwork mystery through two separate screens, combining what each person can see and turning clear description into the main shared pleasure together.",
+      "what_you_do": "Inspect your own scenes, describe clues and symbols, and use information from the other player's screen to solve linked puzzles.",
+      "watch_for": "Two players need separate devices and setup; clue communication can be demanding, and the clock imagery does not establish actual timer behavior."
+    },
+    {
+      "id": "P216",
+      "case_title": "The Treasure Is Behind the Bag I Brought to Find It",
+      "scene": [
+        "I packed a telescope, evening shoes and a little flask for Captain Toad's expedition. Rosa asked whether I intended to look for treasure or attend its wedding.",
+        "Tank moved my bag off the coffee table. Underneath was the controller I'd spent five minutes requesting from everybody else.",
+        "'Nigga, we found the first one.'",
+        "Captain Toad's little world wanted looking from different angles. I rotated our model and discovered a passage I had confidently described as impossible.",
+        "Shawna smiled. 'You want to revise that?' 'I was testing the architecture.' 'The architecture passed.'",
+        "Porsche checked the second-player job before handing Mercedes another controller. The distinction mattered. Two people in a picture did not automatically mean the same evening for both.",
+        "I put the telescope away and looked at the screen.",
+        "Tank took the flask. 'Expedition supplies?' 'Private reserve.' He returned it unopened. 'Keep it. You need something that still believes in your equipment choices.'"
+      ],
+      "pleasure": "Compact three-dimensional courses invite you to inspect routes, hidden items and mechanisms from different angles. The Switch release includes two-player support, making it a possible shared puzzle expedition once the actual roles and update level are clear.",
+      "burden": "Camera rotation, hazards, aiming and some moving challenges remain relevant. Nintendo's current product text describes second-player turnip assistance and newer features separately; verify the installed version's cooperative roles rather than assuming identical control. This card excludes VR and separately sold extra stages.",
+      "first": "Explore an early course and rotate the view deliberately before moving near a hazard. Try the second-player role on the actual console. Ask whether discovering a route together feels satisfying and whether the camera is comfortable.",
+      "ruling": "Inspect the little worlds if changing the view sounds satisfying. My expedition bag must remain under the table so the treasure can stop being the controller itself.",
+      "input": "camera",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "puzzles",
+        "adventure"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/"
+      ],
+      "title": "Captain Toad: Treasure Tracker",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Explore compact three-dimensional puzzle courses, turning the view to discover hidden routes, treasures and mechanisms, with Switch two-player support depending on the installed setup.",
+      "what_you_do": "Move through small courses, rotate the view, inspect paths and treasures, and try the actual second-player role on the console.",
+      "watch_for": "Camera rotation, hazards and aiming remain; check the installed version's cooperative roles instead of assuming both players control identical characters."
+    },
+    {
+      "id": "P217",
+      "case_title": "The Cardboard City Has Refused My Gold Trim",
+      "scene": [
+        "I asked the waiter whether we could have the empty champagne carton. He brought it. I announced a new building project. Tank moved his drink out of range.",
+        "Yoshi's Crafted World had made ordinary scraps look inventive. Rosa cut a little doorway in our carton while I considered whether the hotel sold gold ribbon.",
+        "'Nigga,' Mercedes said, 'let a box be impressive without being rich.'",
+        "Shawna tried the game's movement. Porsche asked what the wings changed. Dre watched the aiming instead of assuming every soft-looking thing would be easy.",
+        "I put my name across the carton roof. Rosa turned the roof around. The blank side looked surprisingly elegant.",
+        "Tank added a bottle-cap window. Mercedes chose a colour. The tiny house became something I liked and could no longer plausibly claim alone.",
+        "My wife set it beside the screen. 'You keeping it?' 'Of course.' 'Good. Then help carry it.' Nigga, ownership had developed a physical requirement."
+      ],
+      "pleasure": "Everyday craft materials become a playful landscape for two local Yoshis. Collecting objects and seeing stages from the reverse side can turn a familiar route into a fresh observation game. Mellow mode gives Yoshi wings.",
+      "burden": "Jumping, aiming, enemies and movement still exist, and searching for every collectible can add repeated travel. Wings change part of the challenge; they do not prove every input is comfortable or every sequence untimed. Both players should test their controls rather than relying on the handmade appearance.",
+      "first": "Try an opening section, with Mellow mode if desired, and practise one jump and one aimed action. Enjoy the scenery without making complete collection a requirement. Let either player decide that looking together is more pleasant than controlling a character.",
+      "ruling": "Visit the craft world if its movement and handmade scenery appeal. Our champagne-carton house remains unsigned, with all gold trim currently unavailable for perfectly excellent reasons.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "playful",
+        "crafts"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/yoshis-crafted-world-switch/"
+      ],
+      "title": "Yoshi's Crafted World",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Explore a playful world made from everyday craft materials, sharing two-player movement and discovering new details when familiar stages are viewed from their reverse side.",
+      "what_you_do": "Move and jump through stages, aim at objects, collect items and explore with another Yoshi, trying Mellow mode if desired.",
+      "watch_for": "Jumping, aiming and enemies remain despite Mellow wings; collecting everything can also add repeated travel and extra tasks."
+    },
+    {
+      "id": "P218",
+      "case_title": "She Cut My Crown into Something Useful",
+      "scene": [
+        "I cut a paper crown for myself. Mercedes took one look and asked whether the scissors were still available. Nigga, success attracts collaborators.",
+        "Snipperclips gave reshaping a practical purpose. Two little characters could change what the other was able to do. I offered to improve Shawna's shape without asking.",
+        "She caught my wrist. 'Try that sentence again.'",
+        "I asked. She said she wanted a different cut. We lined it up together and tried it.",
+        "Tank lifted my actual paper crown. 'What you want this to be?' 'Regal.' Rosa took it and made a stand for the little snack sign.",
+        "The stand held. My crown had found honest work.",
+        "On the screen, our first shape was wrong. We changed it and laughed. Shawna leaned against me while I adjusted. Nigga, being useful to my wife was turning out more enjoyable than deciding what she should become. The scissors stayed on her side of the table."
+      ],
+      "pleasure": "Partners reshape paper characters to interact with objects and solve physical puzzles. The Switch base game includes cooperative play; its competitive Blitz activities and larger Party challenges are distinct choices, not one uniform experience.",
+      "burden": "Precise overlap, rotation, movement and manipulating unstable objects can take repeated attempts. Some modes are action-focused. The cheerful visual style does not establish no holds or no urgency, and the Plus expansion should not be assumed to be part of the base release.",
+      "first": "Begin with an ordinary cooperative puzzle, test how cutting and restoring a shape work, and agree before cutting the other character. See whether the shared experimentation is funny even when it fails. Leave competitive activities out of the initial trial.",
+      "ruling": "Try reshaping together if negotiating a funny practical solution sounds appealing. My crown has become a snack stand and finally supports somebody besides the nigga wearing it.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "puzzles"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/snipperclips-cut-it-out-together-switch/"
+      ],
+      "title": "Snipperclips - Cut it out, together!",
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Reshape paper characters together to interact with objects and solve inventive physical puzzles, finding humour in experiments that do something different from what you expected.",
+      "what_you_do": "Move and rotate the characters, overlap their shapes, cut deliberately and work together to manipulate objects in cooperative puzzles.",
+      "watch_for": "Precise overlap, rotation and unstable objects can require repeated attempts; competitive and action-focused modes have different demands."
+    },
+    {
+      "id": "P219",
+      "case_title": "The Snow Has Covered My Excellent Footwork",
+      "scene": [
+        "I said I could track anything through snow. Tank pointed at the shoe I'd misplaced beside the sofa. 'Nigga, start indoors.'",
+        "Blanc put a wolf cub and a fawn into a much more important search. Rosa wanted the two little animals to find their families. Dre wanted to try the fawn.",
+        "I volunteered to lead. Shawna asked whether leading meant watching what the other character needed. I said naturally. She waited until I actually did it.",
+        "The black-and-white scene made the room's gold lamps look loud. Mercedes dimmed one. We could see the tracks better without my idea of flattering light.",
+        "The animals moved differently. We tried each action instead of making the button count a promise.",
+        "Tank found my shoe underneath the table and slid it back with his foot.",
+        "'Great tracker,' he said. I put it on. 'Nigga, I was preserving the evidence.' Rosa smiled at the screen and let the animals keep their own story."
+      ],
+      "pleasure": "A wolf cub and a fawn travel through a hand-drawn black-and-white landscape, following their families' traces and using complementary abilities. The PC release supports local and online cooperation, with text-free storytelling.",
+      "burden": "The developer describes two buttons plus movement, but a small button count does not settle coordination, precision, repetition or held movement. Navigation and obstacles still need both players. Separation and harsh weather give the gentle artwork an emotional edge.",
+      "first": "Move each animal through the opening space and try its first useful action. Check whether the viewpoint and character positions are easy to read together. Agree that either person can request a pause or a repeated explanation without apologising.",
+      "ruling": "Follow the snowy pair if their complementary actions feel enjoyable. My tracking credentials remain suspended until both shoes can be located without assistance from the rest of the room.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "partnership",
+        "nature"
+      ],
+      "native_coop": "yes",
+      "title": "Blanc",
+      "source_urls": [
+        "https://store.steampowered.com/app/1982340/"
+      ],
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Help a wolf cub and fawn find their families through a hand-drawn snowy landscape, using their different strengths in a wordless cooperative journey together.",
+      "what_you_do": "Guide the two animals through the environment, follow tracks and use their complementary abilities to get past shared obstacles.",
+      "watch_for": "Two buttons still involve positioning and coordination; separation, harsh weather and movement demands need checking despite the gentle artwork."
+    },
+    {
+      "id": "P220",
+      "case_title": "History Has Hidden My Watch on My Wrist",
+      "scene": [
+        "I offered a reward for finding my watch. Shawna looked at my wrist and then at Tank. My brother stood, touched the watch and held out his hand.",
+        "'Nigga, that's not finding.' 'Then why you paying?'",
+        "Hidden Through Time presented a better search: busy little scenes with objects tucked into all the things happening around them. Mercedes leaned forward. Porsche had already spotted something and was waiting to be asked.",
+        "I began dividing the picture into zones. Rosa found an object before I finished the first sentence. Dre found another.",
+        "The room laughed at my face. I put down the invisible map of my method and actually looked.",
+        "There was one. Small, funny, hidden in an ordinary detail. I pointed without grabbing the mouse.",
+        "Shawna selected it and smiled. 'You want the reward?' 'Baby, recognition is enough.'",
+        "Tank pocketed my promised cash. 'Good. Nigga's growing.' The watch kept time through the whole ugly transaction."
+      ],
+      "pleasure": "Search colourful scenes for hidden objects across historical settings, using hints and visual detail. The PC game also offers a map editor and community creations, though the initial appeal can simply be one busy picture enjoyed together.",
+      "burden": "Dense scenes, small objects and repeated scanning may be the main burden. Zooming, panning and clicking deserve direct checks; a hidden-object premise does not establish a complete no-timer or no-hold path. The inspected product lists single-player: shared looking is not verified native co-op.",
+      "first": "Open one ordinary scene and inspect a clue, a small object and the available view controls. Search without a race or a requirement to clear the whole picture. Ask whether the artwork makes looking pleasant before adding community maps.",
+      "ruling": "Look together if the crowded pictures make searching pleasant. My watch has been recovered at considerable personal expense, and future rewards require a wrist inspection first.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "promising",
+      "tone": [
+        "observation",
+        "playful"
+      ],
+      "native_coop": "unknown",
+      "title": "Hidden Through Time",
+      "source_urls": [
+        "https://store.steampowered.com/app/524910/"
+      ],
+      "source_note": "Inspected official Nintendo platform page or matched Steam publisher description supports the stated premise, mode and edition. Control demands are editorial observations or explicit checks, not a complete accessibility certification. Sources checked September 20, 2026.",
+      "quick_pitch": "Search lively illustrated scenes for hidden objects, using clues and small visual jokes to make patient shared observation feel like a succession of discoveries together.",
+      "what_you_do": "Inspect hints, scan each scene, adjust the view and select hidden objects, with others welcome to look beside the player.",
+      "watch_for": "Dense scenes and small targets can be tiring; test zooming, panning and clicking, and do not assume native co-op."
+    },
+    {
+      "id": "P221",
+      "case_title": "The Difference Is That One Aiden Looks Employed",
+      "scene": [
+        "I put two pictures of myself side by side and asked the room to find the difference. Tank pointed. 'That nigga knows where his keys are. This one called me.'",
+        "Tiny Lands offered better subjects and fewer witnesses. Little scenes turned beneath our view, each angle making another detail possible.",
+        "Shawna found something while I was explaining how carefully I intended to look. Mercedes found something else. Porsche said nothing, which made me suspect she had found three.",
+        "'Nobody timing this?' Dre asked. We checked the stated rule. No time limit. He settled back with his plate.",
+        "I tried a wrong answer. The world did not punish me for it. Nigga, an arrangement several hotel managers ought to investigate.",
+        "Rosa asked me to turn the view slightly. I did. There was the detail she'd noticed.",
+        "Tank looked at my photographs again. 'Still different.' 'How?' 'One of these niggas just followed directions.' My wife laughed before I could deny the improvement."
+      ],
+      "pleasure": "Rotate and compare miniature three-dimensional scenes to find their differences. The publisher explicitly states that there is no time limit and no penalty for mistakes, making patient shared observation a plausible way to enjoy it.",
+      "burden": "The scenes still require visual discrimination, zooming and rotation. Check whether the actual camera manipulation uses uncomfortable holds or drags. The inspected description presents a single-player comparison game; shared looking is an informal arrangement, even though Remote Play Together appears among store features.",
+      "first": "Compare one pair of scenes at whatever pace feels pleasant. Rotate once, zoom once and make an uncertain selection to understand the feedback. Nobody needs to find every difference before deciding whether the artwork and observation suit the mood.",
+      "ruling": "Take the small scenes when unhurried looking sounds welcome. My two portraits remain a separate puzzle, with the solution apparently involving whether I listened before the photograph.",
+      "input": "camera",
+      "pace": "waits",
+      "memory": "light",
+      "fit_tier": "promising",
+      "tone": [
+        "observation",
+        "gentle"
+      ],
+      "native_coop": "unknown",
+      "title": "Tiny Lands",
+      "source_urls": [
+        "https://store.steampowered.com/app/1354910/"
+      ],
+      "source_note": "Matched Tiny Lands Steam publisher description explicitly states no time limit and no punishment for mistakes, and describes adjustable angle and zoom. Single-player comparison is explicit; Remote Play Together is not treated as proof of native cooperative roles. Held/dragged camera input remains to check.",
+      "quick_pitch": "Compare miniature three-dimensional scenes without a time limit or mistake penalty, enjoying small visual discoveries while turning the view to inspect another angle together.",
+      "what_you_do": "Rotate and zoom the scenes, compare details and select differences, taking as much time as the ordinary search needs.",
+      "watch_for": "Small visual differences and camera manipulation still need checking; the no-time-limit promise does not establish hold-free or drag-free input."
+    },
+    {
+      "id": "P222",
+      "case_title": "My End of the Dog Has Different Dinner Plans",
+      "scene": [
+        "I claimed the red end of the dog. Dre claimed blue before I finished. Tank looked at the screen. 'Nigga, at least the Crip brought his own half.'",
+        "PHOGS! connected us through the middle. I wanted to inspect something impressive. Dre wanted food. The body between us expressed the disagreement with excellent clarity.",
+        "Rosa watched us pull in opposite directions. 'You two could speak.'",
+        "I told Dre where I wanted to go. He told me what he wanted to grab. We found a way to do both without treating the other head as faulty equipment.",
+        "Shawna leaned over my shoulder. 'You learn that, we might finish a holiday together.' 'Baby, I always take you somewhere nice.' 'Eventually. After your scenic argument.'",
+        "The dog stretched. Tank laughed at my expression. Mercedes wanted a turn.",
+        "I handed over my end. Nigga, I had never surrendered half a dog before, but the evening was expanding everybody's experience."
+      ],
+      "pleasure": "Red and Blue stretch, grab and bounce through physics puzzles in food, sleep and play worlds. The PC release explicitly supports local and online co-op as well as single-player and shared-controller arrangements.",
+      "burden": "Two connected heads create funny movement but also coordination demands. Grabbing, stretching, positioning and repeated physical attempts can matter more than the cheerful setting suggests. Check the chosen controller arrangement and any holds directly; shared-controller play is a separate configuration, not automatically the easiest one.",
+      "first": "Try moving toward one object together and agree which head will act first. Test grabbing and releasing before pursuing a larger challenge. Judge whether accidental entanglement feels playful or irritating, and adjust the partnership rather than blaming either person.",
+      "ruling": "Try the two-headed dog if funny physical compromise sounds enjoyable. My half must explain its travel plans before dragging the other half toward another scenic argument.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "puzzles"
+      ],
+      "native_coop": "yes",
+      "title": "PHOGS!",
+      "source_urls": [
+        "https://store.steampowered.com/app/850320/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Guide two connected dog heads through playful physics puzzles, with stretching and grabbing turning different intentions into comic shared problem-solving across food, sleep and play worlds.",
+      "what_you_do": "Move the two heads, grab objects, stretch and coordinate their actions to cross obstacles in the chosen cooperative setup.",
+      "watch_for": "Connected movement and grabbing can require precision or holds; test the controller arrangement before assuming shared-controller play is easiest."
+    },
+    {
+      "id": "P223",
+      "case_title": "The Revolution Has Kicked Over My Champagne",
+      "scene": [
+        "I stood to announce the revolution and knocked my champagne over with the chair. Tank lifted the controller away from the spill. 'Nigga, the regime has suffered its first loss.'",
+        "Pikuniku made strange legs and cheerful colours look capable of hiding a serious problem. I appreciated that. My own evening clothes had hidden several.",
+        "Mercedes asked whether we wanted the story or the separate cooperative levels. Porsche said she wanted to kick something fictional. Rosa said the glass had already supplied enough real-world physics.",
+        "I helped clean the spill before volunteering to lead anybody anywhere. Shawna watched me return the towel.",
+        "'Look at that,' she said. 'A revolutionary with follow-through.'",
+        "We tried moving the little characters. The first attempt was ridiculous. The second was better and somehow funnier.",
+        "I started composing a slogan. Tank honked a laugh before any words came out. 'My nigga, let the legs talk.' For once, the legs had a more convincing programme than I did."
+      ],
+      "pleasure": "A deliberately silly puzzle-exploration adventure pairs peculiar characters with a story about a deceptively cheerful dystopia. The separate local cooperative levels offer a different way to enjoy its physical comedy with another player.",
+      "burden": "The story campaign is not the same as the dedicated co-op challenges. Movement, jumping, kicking and physical timing can require active coordination. Do not infer an untimed or hold-free experience from the simple drawings or the description's invitation to explore at your own pace.",
+      "first": "First decide whether the goal is shared story viewing or actual two-player puzzles. Try one short movement section in that mode and see whether the comic physics are enjoyable. Leave progress targets aside while testing the basic legwork.",
+      "ruling": "Enter the absurd movement if it sounds funny rather than frustrating. The revolution may continue after I finish paying for the champagne it liberated onto the carpet.",
+      "input": "directional",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "satire"
+      ],
+      "native_coop": "yes",
+      "title": "Pikuniku",
+      "source_urls": [
+        "https://store.steampowered.com/app/572890/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Explore an absurdly cheerful world with a darker story underneath, or choose separate local cooperative levels for a shared dose of comic physical puzzles instead.",
+      "what_you_do": "Move, jump and kick through the story's situations or work with another player in the distinct cooperative challenge levels.",
+      "watch_for": "The solo campaign and co-op levels are different modes, and simple drawings do not remove active movement or timing demands."
+    },
+    {
+      "id": "P224",
+      "case_title": "My Alibi Has Been Corrected by the Woman in It",
+      "scene": [
+        "I said I could get away with anything if Shawna supplied the alibi. My wife looked up slowly. Tank put his plate down. Nigga, the room recognised an impending donation to comedy.",
+        "Overboard! made the culprit's story part of the game. I told everybody I had been upstairs being an exceptionally attentive husband.",
+        "'At what time?' Shawna asked. I gave her one.",
+        "'Baby, you were downstairs explaining your watch to the bartender.'",
+        "Mercedes laughed. Porsche asked whether my witness wanted to amend the statement. My witness wanted another drink and the truth about where I had left her shawl.",
+        "On the screen, somebody remembered something inconvenient. I felt an immediate connection to the material.",
+        "I retrieved the shawl and put it around my wife's shoulders. 'How about now?' I asked.",
+        "She caught my hand. 'Now you're doing better.' Tank grinned. 'Nigga found an alibi he can actually produce.' The fictional murder remained beyond our marriage's available services."
+      ],
+      "pleasure": "You play the culprit on a 1930s liner and try to escape justice through conversations, lies and manipulation. Characters remember events and move independently, making a replayed situation reveal new possibilities. A companion can discuss schemes beside the single-player screen.",
+      "burden": "The story gives you eight in-game hours, with schedules and missed opportunities creating pressure. The inspected description does not resolve every real-time or pause detail, so test how the clock advances. Reading, remembering movements and replaying failed plans are central burdens.",
+      "first": "Inspect the first choices and clock behavior before pursuing an elaborate cover story. Discuss one possible explanation only if the player wants advice. Decide whether mischievous replay and moral inversion feel entertaining rather than exhausting.",
+      "ruling": "Try the fictional cover-up when lies and remembered details sound entertaining. My wife will provide company, but all alibis must survive her recollection of the evening.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "mystery",
+        "dark comedy"
+      ],
+      "native_coop": "no",
+      "title": "Overboard!",
+      "source_urls": [
+        "https://store.steampowered.com/app/1546920/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Play the culprit in a replayable shipboard mystery, using conversations and manipulation to change what other characters believe before the journey reaches its destination.",
+      "what_you_do": "Choose where to go, question or mislead characters, and track what people have seen as you construct a possible cover story.",
+      "watch_for": "The eight-hour story schedule creates pressure; reading, character movements and replay matter, while exact real-time clock behavior needs checking."
+    },
+    {
+      "id": "P225",
+      "case_title": "The Headmistress Has Put My Name on the Wrong List",
+      "scene": [
+        "I told the casino host I had once been considered exceptionally promising. Shawna asked by whom. I said history. Tank said history had declined to provide a reference.",
+        "Expelled! had a sharper problem: get through one school day without the accusation deciding everything. Mercedes wanted to hear the next conversation before judging anybody.",
+        "I offered a strategy based on charm. Porsche pointed at the host still waiting for my room number. 'Nigga, your charm hasn't secured the towels.'",
+        "The game gave us gossip, secrets and people remembering what they had seen. Rosa asked what we actually knew. I looked back at the text.",
+        "Shawna smiled. 'Don't write your own reference this time.'",
+        "I stopped trying to win the whole room and chose one question. It produced more than my introduction had.",
+        "The host returned with the towels. 'For Mr Aiden?' 'Captain,' I began. Tank took them. 'Nigga, accept the delivery before they expel you from your own suite.'"
+      ],
+      "pleasure": "Verity Amersham navigates a 1922 boarding school after being accused of attempted murder. Conversations, secrets and manipulation reshape the day, offering a replayable narrative puzzle that can invite lively discussion from an optional companion.",
+      "burden": "One school day limits the investigation, and characters act on what they witness. The official description's ticking-clock language establishes schedule pressure, not a verified rule for every paused screen. Expect reading, route memory and potentially unpleasant choices; it remains a single-player game.",
+      "first": "Inspect the opening accusation and the timetable or clock as presented. Try one conversation and observe the consequence of an action before designing a perfect route. Let curiosity about the characters decide whether another run sounds worthwhile.",
+      "ruling": "Choose the school mystery if scheming through a consequential day sounds appealing. My reference letter remains unsigned, and the towels have wisely arrived without endorsing it.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "mystery",
+        "dark comedy"
+      ],
+      "native_coop": "no",
+      "title": "Expelled!",
+      "source_urls": [
+        "https://store.steampowered.com/app/2963890/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Navigate a devious boarding-school mystery through gossip and remembered actions, trying to change the outcome of an accusation before the school day is over.",
+      "what_you_do": "Talk to characters, investigate secrets, choose where to go and use information to alter how the accusation develops.",
+      "watch_for": "One school day limits opportunities, and replay needs route memory; the official clock language does not establish every paused-screen behavior."
+    },
+    {
+      "id": "P226",
+      "case_title": "The Robot Has Repaired Everything I Claimed Was Decorative",
+      "scene": [
+        "I told the hotel staff the crooked lamp was intentional. Tank straightened it. 'Nigga, now it's intentionally useful.'",
+        "Machinarium put a small robot into a world full of things that needed understanding. Mercedes watched a gesture on the screen and smiled. No grand explanation. She had seen what mattered.",
+        "I brought over a diagram I had drawn on a napkin. Porsche turned it upside down and said it made the same amount of sense.",
+        "Shawna wanted to try the object herself. I moved the mouse toward her and kept my commentary in my mouth, where it had less opportunity to damage the evening.",
+        "The little robot found a way through. Tank nodded at the screen. 'That nigga works.'",
+        "Rosa gave me a loose button from my jacket. 'Since we're repairing things.'",
+        "I looked at my wife. She held out her hand, smiling. 'Sit close.' Nigga, suddenly I was delighted to own something broken and small enough to fix together."
+      ],
+      "pleasure": "Guide a small robot through a hand-drawn mechanical city, solving logical puzzles and helping people he cares about. Animated thought bubbles replace long spoken conversations, giving a companion plenty to observe without requiring two playable characters.",
+      "burden": "Inventory logic, small targets, brain teasers and minigames can become demanding. Wordless presentation does not mean obvious solutions or zero timing. Check the chosen PC interface and any puzzle assistance directly; the inspected source does not certify a fully untimed completion path.",
+      "first": "Explore the opening scene and try one object interaction. Ask whether the drawings and character gestures are appealing even before solving anything. Share a single suggestion only when requested, allowing the player to keep the satisfying discovery.",
+      "ruling": "Meet the little robot when mechanical puzzles and expressive gestures sound appealing. The lamp is repaired, and my jacket has developed an excellent reason to sit closer.",
+      "input": "pointer",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "puzzles",
+        "whimsical"
+      ],
+      "native_coop": "unknown",
+      "title": "Machinarium",
+      "source_urls": [
+        "https://store.steampowered.com/app/40700/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Help a small robot through a hand-drawn mechanical city, reading gestures and solving puzzles as he works toward people he cares about along the way.",
+      "what_you_do": "Inspect scenes, interact with objects, solve logical puzzles and use visual thought bubbles to understand the robot's problems.",
+      "watch_for": "Small targets, inventory logic and minigames can be demanding; wordless storytelling does not establish obvious solutions or entirely untimed play."
+    },
+    {
+      "id": "P227",
+      "case_title": "The Last Seed Does Not Want My Investment Advice",
+      "scene": [
+        "I called the little seed an asset. Rosa took it out of my hand. 'Nigga, it's trying to grow. Leave it alone.'",
+        "Botanicula gave five strange friends a reason to go into a world I could not have improved by naming its departments. Mercedes clicked something because it looked curious. It answered in a way that made her laugh.",
+        "I began suggesting a strategy. Porsche held up one finger and tried another thing. More laughter. Apparently the room had discovered play without waiting for my instructions.",
+        "Tank arranged five little objects beside the screen. My cufflink volunteered as one character. I objected on financial grounds.",
+        "'Nigga, it can afford an adventure.'",
+        "Shawna watched the creatures move. I watched her smiling at them. The seed's value became a considerably less interesting question than what might happen next.",
+        "Rosa returned my cufflink when we stopped. Nothing had happened to it. My attempt to assign it a heroic backstory met immediate and justified resistance."
+      ],
+      "pleasure": "Five tree creatures travel to protect the last seed of their home from parasites. The attraction is discovery: peculiar inhabitants, playful animations and inventive sound turn looking and clicking into a sequence of small surprises.",
+      "burden": "Minimal text shifts the work toward interpreting visual behaviour, finding hotspots and inferring unusual puzzle rules. Some tasks may need precision or repeated attempts; the publisher's broad relaxed-play language is not a whole-game input audit. Shared observation remains distinct from native cooperative control.",
+      "first": "Explore a small area and interact with several visible creatures without trying to clear everything. Check the pointing demands and whether the nonverbal clues feel inviting. A companion can enjoy the reactions without supplying a running solution commentary.",
+      "ruling": "Explore if odd creatures and surprising reactions make you curious. The seed is exempt from my investment vocabulary, and the cufflink has returned without requesting a medal.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "promising",
+      "tone": [
+        "nature",
+        "whimsical"
+      ],
+      "native_coop": "unknown",
+      "title": "Botanicula",
+      "source_urls": [
+        "https://store.steampowered.com/app/207690/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Follow five little tree creatures through a world of peculiar inhabitants, music and playful reactions as they try to protect the last seed of their home.",
+      "what_you_do": "Explore scenes, click on creatures and objects, interpret their reactions and try unusual combinations to solve the group's problems.",
+      "watch_for": "Minimal text shifts work toward visual interpretation and hotspots; some tasks may need precision or repeated attempts despite relaxed marketing."
+    },
+    {
+      "id": "P228",
+      "case_title": "The Space Gnome Has Put My Flute on Mute",
+      "scene": [
+        "I found a little flute among the hotel's decorative instruments and said the cosmos had been waiting for my sound. Tank closed his eyes. 'Nigga, the cosmos can wait longer.'",
+        "Samorost 3 had music and creatures that made sense on their own strange terms. Mercedes wanted to listen. I wanted to demonstrate that I understood the theme.",
+        "Shawna took the flute before I could test my understanding against the room's eardrums.",
+        "'Later,' she said. 'In private?' 'In a different building.'",
+        "Porsche laughed into her drink. Dre moved closer to the screen, interested in an odd little movement nobody had explained yet.",
+        "We tried an interaction. The response made us look at another part of the scene. I liked not knowing exactly what kind of place we had reached.",
+        "The flute stayed on the table. My wife put her hand over mine when I reached for it. Nigga, apparently the universe had a volume control and she knew where it was."
+      ],
+      "pleasure": "A space gnome follows the mystery of a magical flute through alien worlds full of creatures, images and music. The pleasure can lie in interpreting an unfamiliar place together, with one person operating the adventure and another noticing details.",
+      "burden": "Sound and visual patterns matter to the experience, and some puzzle logic is deliberately strange. Check any audio-dependent clue, hotspot size and object manipulation directly. The inspected description supports exploration and puzzles, not a guarantee of no timers, no dragging or easy completion.",
+      "first": "Visit the opening area, listen at a comfortable volume and try a few visible interactions. Decide whether uncertainty feels intriguing or obstructive. Invite a companion to describe one noticed detail without immediately searching for an external solution.",
+      "ruling": "Visit the strange worlds if sound and observation invite curiosity. My flute remains decorative, allowing the space gnome's music to reach the people who actually requested it.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "exploration",
+        "whimsical"
+      ],
+      "native_coop": "unknown",
+      "title": "Samorost 3",
+      "source_urls": [
+        "https://store.steampowered.com/app/421120/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Explore alien worlds through a space gnome's curiosity, with a magical flute, unusual creatures and music making unfamiliar places inviting to investigate and understand.",
+      "what_you_do": "Inspect scenes, listen to sounds, try object interactions and follow visual or musical patterns through the exploration puzzles.",
+      "watch_for": "Unusual puzzle logic, audio information and small hotspots need checking; the exploration premise does not certify no timers or dragging."
+    },
+    {
+      "id": "P229",
+      "case_title": "The Undercover Officer Has Put His Name on the Car",
+      "scene": [
+        "I chose an undercover outfit in the same colour as my usual jacket. Then I added sunglasses. Tank looked me over. 'Nigga, you're hiding as yourself with weather.'",
+        "LEGO City Undercover offered a city, disguises and jobs I could change when one became inconvenient. I liked the flexibility. Shawna asked whether responsibility changed with the hat.",
+        "Mercedes wanted to drive somewhere. Porsche wanted to explore on foot. We checked the version and the shared view before promising both could do exactly what they imagined.",
+        "I announced our first objective in a detective voice. Rosa asked why the detective sounded like he was selling a nightclub.",
+        "Dre pointed at the screen. 'Your car.'",
+        "I had left it at an angle that suggested the driver had departed during an argument with geometry. Tank laughed and took his turn.",
+        "The city continued without being impressed. Nigga, it had seen enough costumes to recognise that a good disguise still needed somebody who could park."
+      ],
+      "pleasure": "Chase McCain pursues a criminal through a large LEGO city, using disguises, vehicles and comic situations. The 2017 PC release explicitly supports two-player cooperation, so companions can participate in the city rather than only watch its story.",
+      "burden": "Open-world navigation, camera control, driving, fights, jumping and collecting create a broad action workload. A familiar toy aesthetic does not simplify every task. Check split-screen legibility and each controller setup before assuming the shared view works comfortably.",
+      "first": "Try walking, looking around and one simple objective together before driving fast or chasing collectibles. Agree on a meeting place and whether exploration or story is the purpose. Stop when the city's activity becomes more busy than amusing.",
+      "ruling": "Roam the comic city if both players welcome driving and action. My disguise may remain in service after the car demonstrates an ordinary relationship with the curb.",
+      "input": "camera",
+      "pace": "real_time",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "adventure"
+      ],
+      "native_coop": "yes",
+      "title": "LEGO City Undercover",
+      "source_urls": [
+        "https://store.steampowered.com/app/578330/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Explore a large comic LEGO city together in the 2017 PC release, using disguises, vehicles and story missions to turn different neighbourhoods into shared adventures.",
+      "what_you_do": "Walk and drive around the city, change roles, investigate objectives, fight and explore collectibles with another player.",
+      "watch_for": "Camera control, driving and action create broad demands; check split-screen legibility and controller setup before committing to the city."
+    },
+    {
+      "id": "P230",
+      "case_title": "The Jedi Has Caught His Cape in the Mini Fridge",
+      "scene": [
+        "I said the Force would guide us. Then my cape caught in the minibar door and stopped me taking a second step. Tank pointed at the fridge. 'Nigga, strong with this one.'",
+        "The Skywalker Saga offered enough places and characters for me to promise an entire galaxy before dinner. Rosa looked at the cooling food. The galaxy received a smaller booking.",
+        "Shawna freed the cape and kissed my cheek. 'One scene, baby.' 'You doubt my stamina?' 'I know your attention span.'",
+        "Mercedes picked a character she actually liked. Porsche joined her. Neither required my explanation of where every vehicle came from.",
+        "I sat down and tried the controls instead of treating familiarity as competence. Dre watched the aiming. Tank watched my cape, which was still within reach of another door.",
+        "The first joke landed. We laughed together.",
+        "Nigga, I had finally brought balance to the evening by reducing my proposed universe to something that fit between a meal and my wife's next good idea."
+      ],
+      "pleasure": "The nine Skywalker films become a large comic action adventure with local cooperative play. Familiar scenes, many characters and places to explore can make a lively shared journey for people who already enjoy the setting.",
+      "burden": "Combat includes aiming and attack combinations, and the game adds vehicles, camera movement, character abilities and extensive menus. The large scope can overwhelm a simple evening plan. Split-screen comfort and both players' controls need checking; brand familiarity does not remove those demands.",
+      "first": "Choose one starting trilogy and test a small opening section together. Try looking, moving, attacking and selecting a character without pursuing every collectible. Decide whether the shared jokes justify the action load before treating the whole saga as a commitment.",
+      "ruling": "Try a small galactic outing if familiar jokes justify the action load. My cape has been released from refrigeration and will observe all future adventures from a hanger.",
+      "input": "camera",
+      "pace": "real_time",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "adventure"
+      ],
+      "native_coop": "yes",
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "source_urls": [
+        "https://store.steampowered.com/app/920210/"
+      ],
+      "source_note": "Matched Steam publisher description inspected for exact title, premise and explicit mode claims. Control burden and preference routing are editorial judgments; unknown timing and held-input demands remain visible. No full-playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Share familiar film adventures through LEGO humour, with many characters and places to explore across a large local cooperative action game covering the Skywalker films.",
+      "what_you_do": "Move and aim through story scenes, fight, use vehicles and switch character abilities while exploring together in local cooperative play.",
+      "watch_for": "Combat, camera movement, vehicles and character menus add work; the large scope and split-screen controls need a modest first trial."
+    },
+    {
+      "id": "P231",
+      "case_title": "The Monument Is Smaller Than the Receipt",
+      "scene": [
+        "I proposed a LEGO monument big enough to dominate the view. Mercedes put six bricks in front of me. 'Nigga, dominate these first.'",
+        "Builder's Journey made a small piece matter because of where it went. I kept trying to turn the little scene into a portrait of my ambition. Tank kept asking how anybody was supposed to cross it.",
+        "Shawna moved one brick. The route worked.",
+        "'That was in my plan,' I said. 'Baby, your plan was a statue.'",
+        "Rosa wanted to try making something of her own. We looked at the separate Creative Mode rather than insisting the evening remain a puzzle.",
+        "Dre made a little bridge. Porsche changed its colour. I added one piece that actually helped, then waited for somebody to notice.",
+        "Mercedes did. 'That fits.'",
+        "Nigga, two words nearly made me unbearable. Shawna caught the beginning of my speech and kissed it shut. The monument remained small, the bridge remained useful, and everybody's view improved."
+      ],
+      "pleasure": "Small geometric LEGO puzzles tell an atmospheric story through placed pieces and changing situations. The PC release separately includes Creative Mode for free construction and photographs, offering another route when arranging objects is more appealing than solving the narrative.",
+      "burden": "Selecting, rotating, positioning and viewing small pieces may require precision. A quiet presentation does not prove every placement avoids holds or dragging. This is single-player; discussing designs beside someone is optional shared activity, not verified native cooperative control.",
+      "first": "Try one simple placement and rotate the view before choosing a longer puzzle. Alternatively, inspect Creative Mode and make a tiny scene. Let the person's interest in solving or building determine the mode instead of insisting on story progress.",
+      "ruling": "Build or solve if small arrangements feel satisfying. My monument has become a bridge, and its opening ceremony will last no longer than crossing the actual thing.",
+      "input": "mixed",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "promising",
+      "tone": [
+        "building",
+        "puzzles",
+        "gentle"
+      ],
+      "native_coop": "unknown",
+      "title": "LEGO Builder's Journey",
+      "source_urls": [
+        "https://store.steampowered.com/app/1544360/"
+      ],
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Arrange small LEGO scenes through atmospheric geometric puzzles, or explore the separate Creative Mode when making a little construction is more appealing than following the narrative.",
+      "what_you_do": "Select, rotate and place pieces, adjust the view, and either solve a small scene or build a model in Creative Mode.",
+      "watch_for": "Precise placement and camera control may involve holds or drags; shared design discussion does not establish native cooperative play."
+    },
+    {
+      "id": "P232",
+      "case_title": "I Rewound the Evening and Still Ordered the Piano",
+      "scene": [
+        "I wanted to reverse the moment I had ordered the piano. Tank said I should go further back and stop myself discovering capital letters.",
+        "The Gardens Between let time become something to move through a small world. I watched a scene change and immediately imagined correcting every bad entrance I had made tonight.",
+        "Shawna leaned close. 'You'd make a different one.' 'Baby, that is cruelly accurate.'",
+        "Mercedes noticed an object that mattered when the sequence shifted. Porsche asked to see it again. We moved back, looked, moved forward. No one demanded a faster answer.",
+        "Rosa rested against Tank. The little friendship on the screen made him put an arm around her without a joke.",
+        "I tried to explain the emotional significance. My wife pressed one finger to my lips.",
+        "Nigga, she had found the only rewind I actually needed. The next moment arrived quieter. We watched it together, and I left the piano where it was instead of ordering a replacement mistake."
+      ],
+      "pleasure": "Manipulate time through dreamlike island scenes built from two friends' memories. The publisher explicitly describes a single-player game with no text, speech or time pressure, giving shared observation room to focus on images and sequences.",
+      "burden": "You control the flow of time rather than simply steering each friend independently. Understanding cause and sequence can still be demanding, and sustained input to move time needs a direct check. Simple controls do not automatically mean no holds. This is shared thinking beside one player, not native co-op.",
+      "first": "Move time forward and back in the opening scene, noticing one object that changes or interacts differently. Check how the input feels before pursuing a long sequence. Decide whether the visual friendship story gives the puzzle enough emotional interest.",
+      "ruling": "Move through the memories if watching a sequence change sounds inviting. My piano cannot be rewound, but the next unnecessary purchase remains beautifully preventable tonight.",
+      "input": "directional",
+      "pace": "waits",
+      "memory": "moderate",
+      "fit_tier": "promising",
+      "tone": [
+        "friendship",
+        "puzzles",
+        "gentle"
+      ],
+      "native_coop": "no",
+      "title": "The Gardens Between",
+      "source_urls": [
+        "https://store.steampowered.com/app/600990/"
+      ],
+      "source_note": "Publisher description explicitly calls The Gardens Between single-player and states no text, speech, time pressure or complex UI. Time manipulation, friendship and island puzzles are supported. The card retains uncertainty about sustained input and does not equate simple controls with no holds.",
+      "quick_pitch": "Manipulate time through dreamlike islands built from two friends' memories, discovering how familiar objects connect without text, speech or pressure to finish quickly.",
+      "what_you_do": "Move time forward and backward, watch how objects interact and adjust the sequence to help the friends progress through each island.",
+      "watch_for": "Sequence puzzles still need attention, and moving time may require sustained input; simple controls do not establish no holds."
+    },
+    {
+      "id": "P233",
+      "case_title": "The Tentacle Wants Power but Hasn't Seen the Hotel Bill",
+      "scene": [
+        "I respected the purple tentacle's ambition until Tank asked whether its world takeover included paying for my suite. Nigga, suddenly I had questions about leadership.",
+        "Day of the Tentacle sent three friends into different times. I saw a chance to prevent several fashion decisions. Shawna said the future would be grateful if I started with the jacket I was wearing.",
+        "Mercedes wanted to try an object in another era. Porsche remembered something we had seen earlier. Their conversation had a direction. Mine had tailoring.",
+        "I put the jacket over a chair and actually read the inventory.",
+        "The connection was ridiculous in a way that made sense once it happened. Tank laughed. Rosa wanted to see what else the past could change.",
+        "I suggested sending my room bill backwards. Dre asked whether history had done anything to deserve it.",
+        "Nigga, the tentacle could keep the conquest. I was busy learning that moving one ordinary thing might accomplish more than announcing possession of the whole world."
+      ],
+      "pleasure": "A cartoon adventure links three protagonists across time, turning changes in one era into possibilities in another. The Remastered edition offers revised art and audio alongside classic presentation options, with comedy built into the puzzle logic.",
+      "burden": "Inventories, character switching and consequences across different periods create a real memory burden. Cartoon logic may feel inventive or arbitrary. The source does not establish every timing or hold demand; preview the interface and selected presentation rather than assuming a classic adventure is automatically easy.",
+      "first": "Explore an early room and identify one useful object or conversation. Try switching the presentation if you prefer, then decide whether the humour and inventory handling appeal. A companion can keep one current question visible without delivering the whole solution.",
+      "ruling": "Travel through the joke if strange object connections sound delightful. The hotel bill is forbidden from entering history until I identify a century that actually owes me money.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "puzzles"
+      ],
+      "native_coop": "unknown",
+      "title": "Day of the Tentacle Remastered",
+      "source_urls": [
+        "https://store.steampowered.com/app/388210/"
+      ],
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Solve a comic adventure across three time periods, using changes in one era to create possibilities for another while following three unlikely friends and a tentacle's ambition.",
+      "what_you_do": "Explore rooms, collect and use objects, switch characters and connect consequences between the different periods of the story.",
+      "watch_for": "Character switching, inventories and cross-era consequences create heavy tracking, and cartoon logic may feel inventive or frustrating."
+    },
+    {
+      "id": "P234",
+      "case_title": "The Wizard Has Put a Box in Front of My Seduction",
+      "scene": [
+        "I chose the wizard because I liked making things appear. Shawna asked whether that included the shoes I had promised to find. Tank chose the knight before I answered.",
+        "Trine gave us different abilities. I created a box and placed it exactly where my brother needed to walk.",
+        "'Nigga, your magic got a traffic problem.'",
+        "Mercedes wanted to try the thief. Porsche watched the route. Rosa asked whether anybody had actually said what help they wanted before I started delivering furniture.",
+        "I moved the box. Tank crossed. One useful result, achieved after my initial obstacle had been removed.",
+        "Shawna found her shoes beneath the real chair I had moved earlier. She held them up.",
+        "'Baby, you create problems in several dimensions.' 'I also create opportunities.'",
+        "She leaned close enough to make me forget the answer I was composing. Then she handed me a controller. 'Here's one. Ask your brother where he wants the next fucking box.' Nigga, desire can sharpen a man's listening."
+      ],
+      "pleasure": "Wizard, knight and thief combine different abilities in a fantasy world of physical puzzles and combat. Enchanted Edition supports up to three players locally or online, and the original 2009 release is also included as a separate launcher choice.",
+      "burden": "Platforming, fighting, aiming and grappling remain active demands, with different burdens by character. The inspected description declares saving options and the store lists adjustable difficulty, but neither establishes a no-reflex or no-hold path. Choose Enchanted Edition deliberately rather than mixing its features with the original.",
+      "first": "In an early section, try each preferred character's movement and one ability. Discuss whether roles feel satisfying before combining them under pressure. A companion should not become the compulsory combat department unless that is genuinely the role they want.",
+      "ruling": "Try the fantasy action if different jobs and physical puzzles appeal. My wizard may summon another box after somebody confirms it will not obstruct a person or a marriage.",
+      "input": "mixed",
+      "pace": "real_time",
+      "memory": "moderate",
+      "fit_tier": "detour",
+      "tone": [
+        "fantasy",
+        "puzzles"
+      ],
+      "native_coop": "yes",
+      "title": "Trine Enchanted Edition",
+      "source_urls": [
+        "https://store.steampowered.com/app/35700/"
+      ],
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Combine a wizard, knight and thief's different abilities in a fantasy adventure, using physical puzzles and cooperative action to find more than one way forward.",
+      "what_you_do": "Move through stages, create or manipulate objects, fight and use character-specific abilities while coordinating with local or online partners.",
+      "watch_for": "Platforming, aiming and combat remain; character roles differ, and difficulty or saving features do not establish a no-reflex route."
+    },
+    {
+      "id": "P235",
+      "case_title": "The Traveller Has Refused the Plan I Made for Him",
+      "scene": [
+        "I told the little traveller where his journey ought to go. Mercedes tried a different item. The response made her laugh. Nigga, insubordination had immediate rewards.",
+        "Pilgrims seemed comfortable with an experiment that did not match my preferred solution. I found this generous and slightly threatening.",
+        "Tank offered to write my plan down. I said yes. He wrote TRY SOMETHING on the hotel coaster and passed it back.",
+        "'That's not a plan.' 'Then you won't mind changing it.'",
+        "Shawna tried another combination. Rosa wanted to see what the odd character would do. Dre laughed at a reaction before anybody decided whether it counted as progress.",
+        "I stopped asking whether we had used the right thing. The room was enjoying what happened. That seemed an inconveniently complete answer.",
+        "Porsche pushed the controller toward me. I tried something because it looked funny.",
+        "It was. Nigga, I looked around for somebody to appreciate my discovery of play. My wife smiled and let me have the moment without naming it."
+      ],
+      "pleasure": "A playful illustrated adventure encourages trying items and characters in different situations, with multiple solutions rather than one fixed route through every task. Its brief, expressive reactions can be enjoyable to discover with someone watching beside you.",
+      "burden": "Interpreting unusual responses and managing available objects still requires attention. Test how cards or items are selected and moved; do not assume that a playful interface avoids dragging or held actions. The inspected publisher description presents single-player experimentation, not verified native cooperative control.",
+      "first": "Try a couple of early combinations and watch what happens without demanding immediate progress. Check whether manipulating the items feels comfortable. A companion can suggest an experiment, but the person playing gets to choose which curiosity to follow.",
+      "ruling": "Experiment here if amusing reactions feel worthwhile on their own. My comprehensive travel plan has been condensed to a coaster, improving both its accuracy and its luggage requirements.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "fit_tier": "promising",
+      "tone": [
+        "comedy",
+        "whimsical"
+      ],
+      "native_coop": "unknown",
+      "title": "Pilgrims",
+      "source_urls": [
+        "https://store.steampowered.com/app/1049280/"
+      ],
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Experiment with characters and objects in an illustrated adventure that welcomes different solutions, turning unexpected reactions and short comic situations into much of the pleasure.",
+      "what_you_do": "Explore situations, choose items or characters to try, and watch how their combinations change a small story or solve a task.",
+      "watch_for": "Unusual responses still need interpretation, and item or card manipulation may involve dragging or holds that should be checked."
+    },
+    {
+      "id": "P236",
+      "case_title": "Both Universes Have Declined My Late Checkout",
+      "scene": [
+        "I told the concierge I needed a room in a parallel universe. He said he would check availability after I settled the one in this universe. Nigga had powerful grounding in reality.",
+        "The Longest Journey offered April Ryan two worlds to discover. Mercedes wanted to hear the people. Porsche wanted to know where the next clue might lead.",
+        "I began drawing a map around my own photograph. Shawna turned the paper over. 'Baby, this journey got a protagonist already.'",
+        "Tank moved the chair so we could see the older interface clearly. Rosa asked whether the text was comfortable before getting attached to the story.",
+        "We followed one conversation. It led to another question. My appetite for the world grew without my having to own the middle of it.",
+        "The concierge called back. No parallel suite. I told him to keep looking.",
+        "Shawna took the phone. 'He's staying here.' Then she put her hand on my chest. Nigga, this universe retained a persuasive advantage."
+      ],
+      "pleasure": "April Ryan moves between parallel universes in a substantial original PC adventure filled with conversations, places and puzzles. Its appeal is spending time with a large imaginative world; another person can share the story and discuss clues beside the player.",
+      "burden": "This older PC release needs a compatibility and readability check on the actual machine. Long dialogue, inventory puzzles, repeated travel and remembering multiple locations add work. Do not infer no timers, no holds or modern interface options from its age or genre.",
+      "first": "Launch the exact original release, inspect text and save behavior, then hear an opening conversation and try an object interaction. Decide whether the people and world justify the interface effort before treating the title as a promise to finish a very long journey.",
+      "ruling": "Visit the older adventure if its people justify the interface effort. My parallel accommodation remains unavailable, leaving the current universe with the difficult responsibility of my continued presence.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "fantasy",
+        "science fiction",
+        "adventure"
+      ],
+      "native_coop": "unknown",
+      "source_urls": [
+        "https://store.steampowered.com/app/6310/"
+      ],
+      "title": "The Longest Journey",
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Spend time with April Ryan's journey between parallel universes, following conversations and puzzles through a large imaginative world that can be shared as a story.",
+      "what_you_do": "Explore locations, speak with people, examine objects and solve inventory puzzles while following April's changing understanding of the two worlds.",
+      "watch_for": "The older PC release needs readability and compatibility checks; long conversations, repeated travel and inventory puzzles add substantial work."
+    },
+    {
+      "id": "P237",
+      "case_title": "The Talking Spoon Does Not Want to Be My Assistant",
+      "scene": [
+        "I picked up a spoon and announced that it had been promoted. Rosa took it back. 'Nigga, it's serving dessert. Let it finish the job it likes.'",
+        "Broken Age gave two people reasons to question the lives arranged for them. Mercedes looked at me when that became clear. I pretended to study the artwork.",
+        "Shawna chose which story to follow first. I said I would have chosen the same one. She smiled. 'Good. Then we don't need your permission.'",
+        "Tank settled beside Rosa with his dessert. Porsche wanted to try an object before hearing another theory. Both requests were granted faster than my spoon's imaginary appointment.",
+        "The painted world did something strange. I laughed and leaned closer.",
+        "Rosa handed me a clean spoon. 'This one's yours.' 'Can it have a title?' 'If it helps you find your mouth.'",
+        "Nigga, the room had reduced my authority to a practical route. The dessert was excellent, and for once I had no reason to improve the arrangement."
+      ],
+      "pleasure": "Vella and Shay navigate very different worlds while trying to take control of their lives. The complete two-act point-and-click adventure combines hand-drawn scenes, voice performances, odd characters and puzzles, with switching between the protagonists part of the structure.",
+      "burden": "Two story threads and inventory reasoning can require remembering details across scenes. Later puzzle complexity should not be inferred from an approachable opening. The developer page supports the premise and point-and-click form, not a full no-timer or no-hold certification. This is shared viewing of a single-player adventure.",
+      "first": "Hear an opening conversation, try one interaction and look at the character-switching interface. Choose which story to follow by interest. A companion can remember an earlier clue without taking over every decision or explaining a solution before it is wanted.",
+      "ruling": "Follow the two stories when unusual characters resisting their assigned lives sounds appealing. My spoon has returned to dessert service and declined all further executive responsibility for breakfast.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "comedy",
+        "fantasy",
+        "coming of age"
+      ],
+      "native_coop": "unknown",
+      "source_urls": [
+        "https://www.doublefine.com/games/broken-age"
+      ],
+      "title": "Broken Age",
+      "source_note": "Inspected matched Steam publisher description or manually verified official product page supports the named game, premise and explicit mode features. Unknown controls remain visible; fit and burden are editorial suggestions, not a complete playthrough audit. Checked September 20, 2026.",
+      "quick_pitch": "Follow two teenagers in very different worlds as they question the lives arranged for them, with expressive characters, voice performances and puzzles linking the adventure.",
+      "what_you_do": "Switch between the protagonists, explore their scenes, speak with characters and use objects to solve the developing puzzles.",
+      "watch_for": "Two threads and later inventory reasoning add heavy tracking; an approachable opening does not establish simple puzzles throughout."
+    },
+    {
+      "id": "P238",
+      "case_title": "The Crocodile Has Rejected Our Welcome Drink",
+      "scene": [
+        "I proposed greeting the wildlife with a complimentary cocktail. Tank looked at the crocodile on the screen. 'Nigga, that's not a hotel guest.'",
+        "Dinkum had building and community wrapped around a world that could bite back. Rosa wanted a pleasant little town. Mercedes wanted to know which parts we actually wanted to play.",
+        "Shawna asked whether my plan involved somebody else doing every dangerous job while I chose the furniture. I said leadership required taste.",
+        "'So does dinner,' Dre said. 'You ain't cooked that either.'",
+        "We checked the creative option before pretending the default adventure had no teeth. Porsche wanted to understand what a visitor could change. I finally had a useful reason to read a menu.",
+        "The town began as one modest task. No grand opening. No invitations mailed to reptiles.",
+        "Tank passed me the controller. 'You doing this one?'",
+        "I did. Nigga, it was harder to maintain my title as visionary while actually working, but the little place improved considerably."
+      ],
+      "pleasure": "Explore, gather, farm and build a settlement in an Australian-inspired landscape, meeting residents and inviting friends online. The full PC release combines town creation with survival and also includes a separate Creative Mode, offering a different focus for building.",
+      "burden": "Default play includes wild animals, tools, combat, gathering, crafting and a three-dimensional view. Creative Mode changes building options, not the need to check camera comfort. Official launch notes leave some town quests to the host. Record the installed version rather than relying on old Early Access advice.",
+      "first": "Try walking, looking around and one modest town task before entering dangerous terrain. Inspect Creative Mode if building is the attraction, then check the chosen multiplayer permissions. Ask whether both players enjoy their available tasks rather than assigning one all the work.",
+      "ruling": "Build here if the chosen mode and visitor roles suit both people. The crocodile receives no welcome drink, no invitation and absolutely no authority over the furniture.",
+      "input": "camera",
+      "pace": "real_time",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "building",
+        "survival",
+        "community"
+      ],
+      "native_coop": "yes",
+      "title": "Dinkum",
+      "source_urls": [
+        "https://store.steampowered.com/app/1062520/",
+        "https://store.steampowered.com/news/posts/?appids=1062520&enddate=1745490680&feed=steam_community_announcements"
+      ],
+      "source_note": "Matched PC Steam description supports Australian-inspired survival, farming and online cooperation. Official launch announcements explicitly confirm the April 23, 2025 UTC exit from Early Access, Creative Mode and revised multiplayer permissions. Some town/building quests remain host-only in those launch notes. Current build behavior still needs checking; observed September 20, 2026.",
+      "quick_pitch": "Build a town and explore an Australian-inspired landscape with friends, choosing whether default survival or the separate Creative Mode better suits the appeal of making a place.",
+      "what_you_do": "Gather resources, farm, build and meet residents, or inspect Creative Mode before deciding which shared town activities to pursue.",
+      "watch_for": "Default play includes wildlife and combat; camera comfort, visitor permissions and some host-only town tasks still need checking."
+    },
+    {
+      "id": "P239",
+      "case_title": "The Carrots Have Grown Without My Personal Approval",
+      "scene": [
+        "I returned to the farm and announced that production had continued under my leadership. Tank looked at me. 'Nigga, you were upstairs looking for your cufflink.'",
+        "Farm Together let time pass while we were away. Rosa liked the idea of coming back to something. I liked the idea of claiming credit for it.",
+        "Mercedes wanted a path leading somewhere pretty. Porsche wanted to choose what to plant. Dre asked which permissions a visitor had before he accidentally redesigned the whole place.",
+        "I began proposing a schedule. Shawna put her hand over the phone I was reaching for.",
+        "'No alarms, baby. We're talking about a game.'",
+        "I left the phone down. We tried one little area and decided that would do for now.",
+        "Tank asked whether I had found the cufflink. I said yes. Rosa lifted it from beside his plate and handed it over.",
+        "Nigga, several systems had progressed without me. The carrots were merely the most polite about explaining it."
+      ],
+      "pleasure": "Grow crops, keep animals, decorate a farm and invite other players to cultivate it together. The first Farm Together explicitly lets time progress while you are offline, creating a place that can be revisited rather than requiring continuous attendance.",
+      "burden": "Repeated tending, expansion, currencies, waiting and item menus can become a workload. Movement and camera handling need a direct check. Online farm permissions matter when sharing; the source does not establish every activity as untimed or hold-free. This card covers the first game, not its sequel.",
+      "first": "Plant or tend one small area and inspect how a friend joins and what they may change. Try camera movement and a basic interaction. Decide whether returning to growing things feels pleasant without agreeing to an attendance schedule.",
+      "ruling": "Return to the farm if its persistent little jobs feel pleasant. My cufflink and the carrots may continue their independent lives without receiving an attendance schedule from me.",
+      "input": "camera",
+      "pace": "mixed",
+      "memory": "moderate",
+      "fit_tier": "conditional",
+      "tone": [
+        "farming",
+        "building"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://store.steampowered.com/app/673950/"
+      ],
+      "title": "Farm Together",
+      "source_note": "Manually verified Steam app 673950 is the first Farm Together, published by Milkstone Studios. Product description explicitly supports shared farming, permissions and time advancing offline. These claims are not imported from Farm Together 2; exact control comfort remains untested.",
+      "quick_pitch": "Grow and decorate a shared farm that keeps moving while you are offline, making return visits part of the pleasure without requiring continuous attendance from players.",
+      "what_you_do": "Plant and tend crops, care for animals, arrange the farm and set permissions for friends helping with the ongoing work.",
+      "watch_for": "Repeated tending and expansion can become a workload; check camera controls, menus and permissions, and remember this is the first game."
+    },
+    {
+      "id": "P240",
+      "case_title": "The House Got Better When I Put Down the Floor Plan",
+      "scene": [
+        "I promised the next house would have a sensible entrance. Shawna looked at the blank patch in Staxel. 'Start there, baby. Before the honeymoon balcony.'",
+        "Tank wanted a workshop. Rosa wanted a place to sit. Mercedes wanted the colour to remain undecided until she saw the walls. Dre wanted to make sure his casserole dish came home with him.",
+        "Everyone had an ordinary request. I had a drawing with two fountains.",
+        "Porsche folded the drawing and put it beneath my glass. 'There. It holds something.'",
+        "We tried the movement, placed a little piece and discussed where another might go. The house became less like my announcement and more like somewhere people could actually want to be.",
+        "Shawna moved her chair beside mine. I asked what she wanted next.",
+        "'A window.' I made room for one.",
+        "Nigga, sunlight entered without a dedication. Tank found a place for Rosa's chair. Mercedes picked a colour. I looked at the little house and stopped trying to make my name fit above the door."
+      ],
+      "pleasure": "Restore a farm, meet villagers and alter a voxel world through building and cultivation. The PC game explicitly supports online cooperation, allowing friends to share a farm or become neighbours while making their own projects.",
+      "burden": "First-person movement, camera steering, selecting materials, crafting and placing blocks can create substantial coordination and menu demands. Farming tasks add routine work. The publisher's creative premise does not certify no holds, no timed activities or a frictionless multiplayer setup.",
+      "first": "Try looking around, moving through a doorway and placing or interacting with a simple object. If sharing online, establish who owns the session and how both people join. Choose one small project only after the controls feel worth using.",
+      "ruling": "Make a place together if the camera and building controls feel worthwhile. My fountains have been postponed so the house can accommodate the people who actually want to visit.",
+      "input": "camera",
+      "pace": "mixed",
+      "memory": "heavy",
+      "fit_tier": "conditional",
+      "tone": [
+        "building",
+        "farming",
+        "community"
+      ],
+      "native_coop": "yes",
+      "source_urls": [
+        "https://store.steampowered.com/app/405710/"
+      ],
+      "title": "Staxel",
+      "source_note": "Manually verified Steam app 405710 is Staxel, with explicit online co-op and shared-farm or neighbour play in the publisher description. Voxel building, village life and crops are supported. Camera workload and first trial are editorial checks, not access certification.",
+      "quick_pitch": "Restore a farm and shape a blocky village with friends online, sharing one place or becoming neighbours while building projects give the world personal character.",
+      "what_you_do": "Move around the world, place building materials, grow crops and help villagers, coordinating a small farm or construction project with friends.",
+      "watch_for": "First-person camera movement, crafting and precise block placement add demands; establish the session setup and check sustained inputs before building."
+    }
+  ],
+  "interludes": [
+    {
+      "title": "The Nigga Giving Directions Was Looking at the Wrong Screen",
+      "paragraphs": [
+        "'Left,' I told Tank. He moved left.",
+        "'Other left.'",
+        "He stopped moving. Rosa reached for her drink. Mercedes closed her eyes with the patience of a woman waiting for a chorus she knew would be bad.",
+        "'My nigga,' Tank said, 'how many lefts you brought?'",
+        "I leaned closer to his screen. The object I had been describing was on mine. This was an important distinction in a game designed around people seeing different things, and a terrible distinction for a man who had already given directions confidently.",
+        "Shawna pulled my chair back six inches. 'Start over.'",
+        "'He understood the spirit.'",
+        "'He walked into the fucking wall.'",
+        "Dre laughed into his casserole. Nigga had brought enough food to witness several of my corrections without leaving for supplies.",
+        "I tried again. I described a mark, where it was and what sat beside it. Tank told me what he saw. We found the connection. Something on the screen opened.",
+        "I grinned. 'Teamwork.'",
+        "'Information,' my brother said. 'Try it again sometime.'",
+        "That should have been the end of my helpfulness. Unfortunately, success is where I usually begin adding accessories.",
+        "I reached toward his controller to show him a move. His hand stayed where it was. Mine hovered in the air between us, a little monument to poor timing.",
+        "'Ask,' he said.",
+        "I lowered it. 'You want me to show you?'",
+        "'No. Tell me what you noticed.'",
+        "I told him. He tried it his way. It worked.",
+        "Mercedes looked at Porsche. 'You remember the studio?'",
+        "Porsche nodded. She had once touched a control while Mercedes was listening to a take. The argument had been short, expensive and educational. They did not retell it for us. Porsche simply moved her own hand away from Mercedes's screen.",
+        "Two corrections in one room. Nigga, the hotel ought to have charged tuition.",
+        "Shawna's phone buzzed. The pianist wanted to know whether he could practise in our bedroom while the other room was being moved. My wife turned the screen toward me.",
+        "'You want to answer this?'",
+        "I considered a joke involving practice, stamina and the room's intended acoustics. Shawna waited, smiling like she knew every bad sentence lined up behind my teeth.",
+        "I typed No, thank you. Then I put the phone down.",
+        "'Damn,' Tank said. 'He used a whole sentence and nobody needs a lawyer.'",
+        "Rosa stood to get water. Tank started to stand too. She touched his shoulder. 'I got it. You finish your turn.'",
+        "He stayed. She brought two glasses. Nobody had to perform dependence or heroism to make a simple kindness count.",
+        "On the other sofa, Dre and Mercedes traded controllers because each wanted to try the other role. Porsche watched and offered nothing until asked. The silence did not make her less involved. She was the first one to laugh when the plan went wrong.",
+        "I looked at the party I had nearly drowned in instructions. People wanted different things from the same screen. They were managing this without a microphone.",
+        "Shawna slipped her hand behind my neck. 'You having fun?'",
+        "'Nigga, don't tell anybody.'",
+        "'I could post it.'",
+        "'Use the good angle.'",
+        "She kissed my cheek instead. I forgot which screen I had been watching.",
+        "Tank caught me looking away. 'Now stay out of my left.'"
+      ]
+    }
+  ],
+  "ending": [
+    {
+      "title": "The Last Controller Did Not Need an Owner",
+      "paragraphs": [
+        "At some point, the night stopped trying to impress the hotel.",
+        "The champagne fountain was off. The little spotlight had been turned toward the floor so Rosa could find her earring. The glass controller case held half a casserole, which Dre said was finally a sensible use of expensive glass.",
+        "I had my shoes off. Shawna had her feet in my lap. There were several things I might once have called beneath my station. None of them had prepared me for how pleased I was to be sitting still.",
+        "Tank and Rosa finished a small puzzle. They looked at each other before they looked at the screen. My brother raised his hand; she met it with hers.",
+        "'That's us,' he said.",
+        "'That's the puzzle,' she replied.",
+        "'Let me be romantic, woman.'",
+        "She kissed him. 'Now that's us.'",
+        "Dre asked whether somebody wanted the blue controller. Nobody did at that moment. He put it on the table within reach. No speech about team loyalty. No obligation to keep playing because the thing was already warm.",
+        "Mercedes was listening to the recording from the other night. Porsche sat close enough to hear but did not touch the phone. At the little catch in the last line, Mercedes smiled.",
+        "'Keep that,' she said.",
+        "'Kept it,' Porsche answered.",
+        "I wanted to tell them I had always known the recording mattered. Instead, I let the two words be enough.",
+        "The hotel host appeared in the doorway with a question about the empty glass case. I explained that it was now a food service installation. He looked at the casserole and decided to charge us nothing further for language.",
+        "'And your friend downstairs?' he asked.",
+        "Darnell had apparently told the bar that I was investing in his yacht. I had done no such thing. I had asked whether the nigga had eaten.",
+        "Shawna lifted her head. 'Did you sign anything?'",
+        "'Baby, I signed for ice.'",
+        "'With him, that's seed capital.'",
+        "Tank started laughing. Rosa told the host that any boat with my money in it needed my wife on the call. The host wrote nothing down. A talented man. He knew which questions should remain sentences rather than become forms.",
+        "I called Darnell and told him no. No yacht, no meeting, no introduction to somebody richer. He tried to tell me about the view.",
+        "'Nigga, I got a view.'",
+        "Shawna looked up at me and smiled.",
+        "I ended the call.",
+        "The game on the screen offered another stage. Nobody moved toward it immediately. This was allowed. There was still music in the room, and a good story could wait while somebody finished laughing.",
+        "I had spent the week making a very large answer to a very small invitation. Some of that largeness had been fun. Some had been me purchasing objects to avoid asking what anybody actually wanted.",
+        "Tonight they had told me.",
+        "Rosa wanted to eat before the food went cold. Tank wanted to sit with her. Mercedes wanted her work heard without losing the rest of her evening. Porsche wanted to help without taking over. Dre wanted the blue controller and a plate returned clean.",
+        "Shawna wanted me.",
+        "Nigga, it took a little effort to say that without making it sound like a conquest. She wanted me here, paying attention, available for the joke, the touch, the next ordinary thing. She had never needed the hotel to announce it.",
+        "I looked down at her. 'You ready?'",
+        "'For what?'",
+        "I considered the grand answer. The city, the night, a promise involving sunrise and the kind of expensive breakfast I always ordered too much of.",
+        "'Whatever you want next,' I said.",
+        "She held out her hand.",
+        "Tank made a noise behind his glass. Rosa elbowed him. Dre opened the case and began wrapping the remaining food. Mercedes took her phone. Porsche found her shoes without requiring a search party.",
+        "We got everyone to the lift. No final speech. I hugged my brother, thanked Dre for the casserole and told Mercedes I wanted to hear the new song when she wanted to share it.",
+        "'Ask me then,' she said.",
+        "'I will.'",
+        "The doors closed. The hotel went on being expensive around us.",
+        "Shawna took the second controller from my hand and put it beside the first. Both could wait.",
+        "'Come here, baby.'",
+        "I did.",
+        "The light by the bed went out before I found anything else to announce."
+      ]
+    }
+  ]
+}
