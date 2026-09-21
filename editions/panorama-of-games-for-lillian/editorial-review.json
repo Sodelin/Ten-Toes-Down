@@ -1,0 +1,49 @@
+{
+  "status": "Accepted six bounded copy edits after exact source-hash and field checks",
+  "scope": "Front matter/rules and a spot read of P001, P081 and P201; only P001 and P081 receive case edits. This is not an audit of all 240 games.",
+  "changes": [
+    {
+      "id": "E01",
+      "case": null,
+      "before": "find something you want another turn with.",
+      "after": "find a game you want to return to.",
+      "reason": "The original 'turn with' construction is awkward. The shorter invitation also fits games that do not use turns."
+    },
+    {
+      "id": "E02",
+      "case": null,
+      "before": "Article 2. Record three things the evening does not need",
+      "after": "Article 2. Name what the evening needs",
+      "reason": "Match the body, which permits fewer than three preferences and includes positive wishes such as native co-op."
+    },
+    {
+      "id": "E03",
+      "case": null,
+      "before": "One purchase per selection is the limit.",
+      "after": "Spend at most one token per selection.",
+      "reason": "Identify the fictional token explicitly; 'purchase' could otherwise be read as referring to a game purchase."
+    },
+    {
+      "id": "E04",
+      "case": null,
+      "before": "A local case number never becomes zero.",
+      "after": "The final local case number is always between 1 and 40.",
+      "reason": "The next worked example intentionally reaches zero before wrapping. Distinguish that intermediate result from the final valid case number without changing the arithmetic."
+    },
+    {
+      "id": "E05",
+      "case": "P001",
+      "before": "Have a helper set manual advance if wanted.",
+      "after": "Set manual speech advance if you want it, with help if useful.",
+      "reason": "Address the reader directly and make assistance optional. The documented speech setting and the rest of the trial remain intact."
+    },
+    {
+      "id": "E06",
+      "case": "P081",
+      "before": "Open one box in the first room and place three objects.",
+      "after": "Open one box in the first room and place an object.",
+      "reason": "One placement is enough to introduce the action. Remove an arbitrary three-object target while retaining the visibility and click-control checks."
+    }
+  ],
+  "facts_controls_classifications_sources_changed": false
+}

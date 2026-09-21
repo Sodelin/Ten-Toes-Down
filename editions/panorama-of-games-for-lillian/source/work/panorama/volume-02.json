@@ -1,0 +1,1173 @@
+{
+  "number": 2,
+  "title": "The Committee for Taking One's Turn",
+  "subtitle": "Turn-based strategy, cards and role-playing",
+  "opening": [
+    {
+      "title": "The Inauguration of the Turn",
+      "paragraphs": [
+        "The second great reform of the Bureau began when I discovered that people had been taking turns without an official object to indicate whose turn it was. Centuries of informal practice. Civilizations rising and falling on the strength of somebody saying, 'After you.' It was a scandal, and I was exactly the man to commission a solution with unnecessarily expensive lettering. By nine the next morning, a polished wooden rolling pin stood on my desk beneath a card reading THE SOVEREIGN INSTRUMENT OF DELIBERATION. The baker who sold it had called it a rolling pin, but he lacked the institutional imagination to appreciate its future.",
+        "Shawna picked it up. 'What does it do?' I explained that whoever held the instrument would have the floor. 'Then I'm going to put it down,' she said, 'because I'm using the floor to stand on.' Mercedes arrived during this constitutional disagreement and immediately requested asylum from the institution conducting it. Tank wanted to know whether the instrument had been charged to refreshments. Rosa wanted to know why a perfectly good kitchen object was wearing a velvet ribbon. I had anticipated resistance to reform, but I had expected it to require a less accurate set of questions.",
+        "The plan was elegant. Nobody would be hurried. A person could consider a move, read a card, compare a possibility, or simply look at the room. Then, when ready, that person would act. Unfortunately, I had illustrated this elegant plan with a nineteen-step chart. Step eleven referred people back to step four if their readiness had not been countersigned. Mercedes traced the arrow with one finger. 'You've invented waiting for permission to wait.' I informed her that this was an unfair description of the Optional Preliminary Readiness Reconfirmation. Shawna removed the chart from the wall with the calm of a woman preventing a minor traffic disaster.",
+        "Rosa put the rolling pin on the table and asked what we were actually trying to learn. There were games in this volume where the decision itself waited: maps, cards, party commands, battles divided into turns. That could be valuable. There were also dozens of menus, complicated rosters, equipment systems and long stories asking to be remembered. Taking the clock away from a decision did not automatically make the decision pleasant. I looked at the nineteen-step chart in Shawna's hand. Evidence, when allowed to move freely through a room, can become extremely disloyal to the man who ordered the stationery.",
+        "Tank laid out three ordinary cards. On the first he wrote TIME TO THINK. On the second, THINGS TO KEEP TRACK OF. On the third, WHAT YOUR HANDS ACTUALLY DO. I suggested laminating them. 'Later,' he said, with the confidence of a man who had learned to intercept me before a useful idea developed a purchasing department. A battle could wait and still contain ten abilities whose differences mattered. A game could have straightforward turns and movement elsewhere that felt awkward. A small-looking card might carry a paragraph of rules. None of these facts insulted the game. They simply belonged in its description.",
+        "Mercedes added a fourth card: DO I WANT THIS? I told her the wording lacked bureaucratic distinction. She said that was its principal qualification. Someone might enjoy comparing armor or planning a city's districts; someone else might prefer one conversation and a strange house. Tonight's answer could differ from next week's. The Bureau had no authority to convert interest into homework. I objected that authority was the main reason I had bought the rolling pin. Rosa took the ribbon off it. Without the ribbon it remained an excellent object, which was more than I could say for my nineteen-step chart.",
+        "We opened the files. I kept the wooden instrument close enough to suggest leadership but far enough from the ink pad to avoid another incident. The plan was now almost embarrassingly workable: name what was appealing, name what could get in the way, choose a small first trial, and let the person playing decide. A failed trial was information, not a personal defeat. A successful trial did not require a campaign completed before dinner. I would have preferred to announce these principles from a balcony. We did not own a balcony. Tank offered the serving trolley, and Rosa said absolutely not."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "P041",
+      "case_title": "The Empire That Could Not Afford Its Own Welcome Sign",
+      "scene": [
+        "I founded Aidenia on the conference table and declared its first golden age before lunch. Our territory consisted of a coaster, two paperclips and a district reserved for a monumental likeness of the founder. Shawna asked where the food would come from. I pointed at the portrait district. 'Tourism.' She moved the biscuit plate beyond our border.",
+        "Civilization VI gave cities room to spread across the map. I gave mine room to spread across everyone else's paperwork. Mercedes recognized this as imperial expansion and requested immediate negotiations. I offered a mutual admiration pact. She proposed that I return her notebook.",
+        "Tank arrived with the treasury report: no treasury, no report. Rosa offered a practical founding principle. Build something useful before commissioning a wonder about how useful you are. I returned the notebook, restored access to the biscuits and renamed the golden age the Promising Administrative Morning."
+      ],
+      "pleasure": "Build a civilization across a large sweep of history, choosing how cities grow, what people research and how to deal with neighboring powers. The appeal is seeing many small decisions create a society with a recognizable direction rather than following one prescribed storyline.",
+      "burden": "District placement, research, policies, diplomacy and multiple units produce heavy menu and planning demands. Single-player turns permit deliberation, but this is emphatically not cognitively simple because it is turn-based. Avoid assuming online turn settings match solo play; held map gestures and interface readability still need a trial.",
+      "first": "Use the guided opening or a modest single-player start to found one city and make one production choice. Judge whether the explanations make that decision interesting before opening an empire's worth of additional responsibilities.",
+      "ruling": "Admit when building and planning are the pleasure themselves. Aidenia's unpaid ministerial vacancies should not be mistaken for a relaxing evening with a low-menu game or a functioning national economy.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "historical strategy",
+        "empire building"
+      ],
+      "native_coop": "unknown",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/289070/"
+      ],
+      "source_note": "Exact base-game PC listing supports districts, research, policies and diplomacy. Waits refers to single-player turn decisions; complete input comfort and multiplayer timer/co-op configurations are not verified.",
+      "title": "Sid Meier's Civilization VI"
+    },
+    {
+      "id": "P042",
+      "case_title": "The Dynasty Has Denied My Hereditary Desk Claim",
+      "scene": [
+        "Old World encouraged thinking in generations, so I bequeathed the Bureau's largest chair to my future descendants. Mercedes informed me that the chair belonged to Rosa. I revised the will to bequeath my continuing interest in sitting there. Shawna said this was not how inheritance worked, even for a dynasty with unusually aggressive upholstery ambitions.",
+        "The game mixed statecraft with families, personalities and succession. I convened a royal household by giving Tank a paper crown. He immediately demanded a better lunch allowance. Rosa supported his claim. Within thirty seconds, my carefully constructed monarchy had developed a powerful opposition united around sandwiches.",
+        "I tried diplomacy, offering to name a future library after the sandwich. Mercedes explained that noble families might care about resources rather than compliments. We reached a settlement: ordinary chairs, shared food, no hereditary claims on anyone else's furniture. History would remember my restraint, assuming I wrote the history myself."
+      ],
+      "pleasure": "Old World combines historical strategy with a living dynasty: rulers age, families compete, children grow and personal events affect the state. People and relationships can give empire management a more intimate story than a map of anonymous production totals.",
+      "burden": "The developer declares play without timed input, a mouse-only option and saving at any time. That is encouraging for pacing, while court relationships, cities, resources and character roles still make this a dense strategy game. Declared co-op exists, but its setup and shared responsibilities require a separate check.",
+      "first": "Follow the introductory guidance until one ruler faces one clear decision. Read the affected person's name and consequence, then decide whether that personal layer makes the surrounding management enjoyable or merely adds another spreadsheet to remember.",
+      "ruling": "Consider if you want your strategy to include difficult relatives as well as difficult borders. The Bureau's monarchy has been suspended until I return the chair to its actual owner.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "historical strategy",
+        "dynastic drama"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/597180/"
+      ],
+      "source_note": "Exact listing supports dynasties/families and declares no timed input, Mouse Only Option, Save Anytime and co-op. Those declarations do not establish low menu load or a personally comfortable multiplayer arrangement.",
+      "title": "Old World"
+    },
+    {
+      "id": "P043",
+      "case_title": "One Civilization, Six Wardrobe Changes",
+      "scene": [
+        "I interpreted HUMANKIND's changing cultures as permission to reinvent the Bureau every time a policy became embarrassing. By breakfast we were a maritime republic. At eleven, a scholarly federation. By lunch, Mercedes called us an unpaid restaurant review club and asked who had authorized my ceremonial sash.",
+        "The game's civilization could develop through different historical cultures, accumulating a distinctive path. Mine developed through different excuses for keeping the largest chair. Shawna put the actual file in front of me and asked whether I could explain a meaningful choice without dressing it in a flag.",
+        "I said that choosing the next culture changed what a civilization could do and what sort of history it might build. 'Good,' Rosa said. 'That sounds interesting.' Tank removed the sash while I was distracted by this rare moment of educational success. He folded it into a perfectly serviceable napkin, establishing our most useful cultural advance of the day."
+      ],
+      "pleasure": "Shape a civilization by combining cultures across eras rather than staying with a single identity throughout history. City growth, fame and tactical conflicts turn the map into an account of accumulated decisions, including choices about what kind of achievements matter.",
+      "burden": "Empire management and battlefield decisions sit on top of one another. Culture transitions add systems to learn, while resources, diplomacy and competing goals make the memory load high. Turn-based battles do not establish a universally simple control scheme or relaxed multiplayer timer settings; begin with solo play and inspect menus.",
+      "first": "Follow the early guidance through one development choice and read what it changes. Stop to decide whether comparing those possibilities feels engaging before treating the next historical era as an obligation to keep playing.",
+      "ruling": "Admit when the fantasy is shaping a long history and changing direction along the way. Reject my attempt to explain a missing snack budget as an inevitable transition between political cultures.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "historical strategy",
+        "civilization building"
+      ],
+      "native_coop": "unknown",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1124300/"
+      ],
+      "source_note": "Publisher listing supports combining cultures, fame and turn-based tactical battles. Pacing label applies to solo strategic decisions; complete holds, map controls and multiplayer configurations remain unchecked.",
+      "title": "HUMANKIND"
+    },
+    {
+      "id": "P044",
+      "case_title": "The Monster Has Submitted Its Intended Damage in Writing",
+      "scene": [
+        "Into the Breach's enemies announced what they were about to attack. I considered this an admirable professional courtesy and issued the Bureau a form titled NOTICE OF IMPENDING NONSENSE. Mercedes filled it in before I finished speaking. Under Expected Impact she wrote EVERYWHERE, THEN filed it in my pocket.",
+        "The small battlefield appealed to my taste for manageable grandeur. A few mechs, visible threats, buildings worth protecting. I demonstrated with salt shakers and crackers. Tank objected when I sacrificed his lunch to illustrate collateral damage. I explained that strategy required difficult choices. He chose to take the crackers away.",
+        "Shawna moved one salt shaker and showed how changing a position could alter the whole problem. It was elegant, which offended me because she had used no speeches. Rosa restored the crackers to civilian status. I amended my form to require consultation before any tactical deployment of someone else's cheese."
+      ],
+      "pleasure": "Small mech battles become visible tactical puzzles because enemy attacks are telegraphed before the next turn. The pleasure is finding an unexpected move that changes several threats at once, often by shifting positions rather than simply choosing the strongest attack.",
+      "burden": "A compact board can still ask for demanding spatial reasoning. Protecting buildings, understanding attack direction and managing limited actions are central, and failure changes a run. The turn structure supports thought before acting; it does not prove every menu or selection gesture suits the player. Advanced Edition adds more systems.",
+      "first": "Try the opening guidance and inspect one announced enemy attack before choosing a move. Say which square is threatened and what one action changes; there is no need to solve the entire campaign to test that central pleasure.",
+      "ruling": "A promising tactical experiment for someone who enjoys a bounded puzzle more than a sprawling inventory. Civilian crackers remain protected under the Bureau's first treaty that anybody actually intends to obey.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "science fiction",
+        "tactical puzzle"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/590380/"
+      ],
+      "source_note": "Publisher describes minimalistic turn-based combat with telegraphed attacks; current PC includes Advanced Edition content. Waits reflects tactical decision structure, not a complete no-hold/comfort certification.",
+      "title": "Into the Breach"
+    },
+    {
+      "id": "P045",
+      "case_title": "The Commander Has Mistaken the Dog for a Deputy",
+      "scene": [
+        "I wanted a commander whose authority required no explanation. Tank suggested the office dog, should we ever acquire one, because at least a dog would bring something back when asked. Wargroove's colorful commanders made the proposal dangerously plausible. I ordered a smaller hat for myself before this became a succession crisis.",
+        "The map offered towns to capture and units with different uses. I offered Mercedes a squadron of paperclips to secure the biscuit tin. She captured my pen while I was describing the operation. Shawna said this demonstrated the value of knowing what everyone could do before committing to an elaborate plan.",
+        "Rosa made a better plan: learn one unit, then another, and leave the map editor alone until somebody actually wanted to build a map. I withdrew my seventy-page campaign about the liberation of my parking space. The paperclips returned to civilian service, where their tactical effectiveness was frankly much higher."
+      ],
+      "pleasure": "Wargroove gives turn-based army battles a bright fantasy cast and a campaign about a displaced queen seeking allies. Commanders have distinctive special abilities, while different units and terrain make each map a problem about positioning and resource choices.",
+      "burden": "Managing an army, its funds and its unit matchups is more involved than moving one character. The editor and multiplayer add separate layers rather than simplifying the campaign. Co-op is listed, but exact campaign coverage and setup should be checked; no untimed or hold-free claim applies automatically to every configuration.",
+      "first": "Start with the campaign's opening instruction and command one unit through one explained action. Test the map selection interface and the clarity of the unit information before recruiting a large army or opening the editor.",
+      "ruling": "Consider when a colorful tactical campaign sounds fun in its own right. My parking-space epic is withheld until the author demonstrates competence with one paperclip and a clearly stated objective.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "tactical",
+        "colorful"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/607050/"
+      ],
+      "source_note": "Exact PC listing supports turn-based campaign, commander Grooves and native co-op categories. Co-op mode scope is not assumed to cover the whole main campaign; complete input demands are unchecked.",
+      "title": "Wargroove"
+    },
+    {
+      "id": "P046",
+      "case_title": "The Scholarly Expedition Has Brought Siege Equipment",
+      "scene": [
+        "Wargroove 2's scholarly mouse-folk arrived with technology and ambitious research interests. I understood them completely. My own scholarly expedition had brought a folding podium, a portable printer and no useful questions. Mercedes said that discovering questions after shipping the equipment was how our budget got this way.",
+        "Three intertwined campaigns sounded like enough material to justify an expanded headquarters. Shawna pointed out that this was content to play, not a lease application. I tried to demonstrate a supercharged commander ability by ringing the reception bell twice. Tank answered both times with the same message: lunch was still not ready.",
+        "Rosa proposed that an expedition might begin by looking at the land in front of it. I reluctantly studied one battle rather than announcing a research empire. The bell stayed silent. Without it, everybody could hear the actual explanation, an unexpected technological breakthrough we agreed to investigate further immediately."
+      ],
+      "pleasure": "The sequel builds a new conflict around forbidden technology and several connected campaigns, with new commanders and a revised Groove system. Its attraction is returning to colorful map tactics with fresh factions, tactical possibilities and a continuing fantasy world.",
+      "burden": "New commander abilities and linked campaigns add knowledge to the familiar army-management demands. The separate Conquest mode and editing tools are optional avenues, not recommended first steps here. Native co-op is listed, but campaign coverage, timing settings and comfortable selection controls need their own verification.",
+      "first": "Take the initial campaign instruction one action at a time and read one commander's ability carefully. Compare that single mechanic with ordinary movement before exploring extra modes or designing an ambitious custom scenario for everyone else.",
+      "ruling": "Admit if the first Wargroove's kind of planning appeals and more of that planning sounds welcome. Deny any claim that ringing the bell twice counts as a funded scientific expedition or an upgraded command system.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "tactical",
+        "ensemble"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1346020/"
+      ],
+      "source_note": "Current publisher listing supports three campaigns, revised Grooves, Conquest and native co-op. Waits refers to turn-based tactics, not an all-modes or hold-free guarantee.",
+      "title": "Wargroove 2"
+    },
+    {
+      "id": "P047",
+      "case_title": "The Toy-Sized Army Has Requested Full-Sized Instructions",
+      "scene": [
+        "I spread a bright map across the table and declared that its cheerful appearance made me a natural commander. Shawna asked how the naval unit would cross the land. I said morale could overcome many obstacles. Tank moved the little boat back to the water before morale damaged the furniture.",
+        "Advance Wars looked approachable in the way a well-arranged board can look approachable: the pieces are visible, the landscape readable, the problem waiting to be understood. Mercedes warned me that recognizable pieces still had different rules. I agreed, then attempted to promote a supply truck on grounds of excellent posture.",
+        "Rosa removed my ceremonial baton and handed me the ordinary controller. Learn what one unit does, she said. Then learn why the terrain matters. My appointment as Supreme Commander lasted just long enough to become Trainee Who Can Find the Confirm Button, a post with smaller privileges and far clearer public benefit."
+      ],
+      "pleasure": "This Switch collection rebuilds the first two Advance Wars campaigns around colorful land, sea and air battles. Commanding officers bring personalities and special powers, while terrain, capture decisions and different unit roles provide a board-game-like tactical focus.",
+      "burden": "Bright presentation does not remove the need to compare ranges, terrain, funds and matchups. It is turn-based, but particular mission conditions can still create strategic urgency. Nintendo's listed multiplayer includes versus play; do not assume a shared campaign. Hold behavior and readability require a check on the actual display.",
+      "first": "Follow the early training and move one unit using its displayed information. Check whether the explanation makes its purpose clear before progressing to a larger force with several different roles to remember at once.",
+      "ruling": "Consider for a clear, colorful battlefield when learning unit rules sounds enjoyable. The Bureau's navy must remain in water until I produce better evidence than a motivational speech and a very optimistic arrow.",
+      "input": "directional",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "tactical",
+        "colorful",
+        "military fiction"
+      ],
+      "native_coop": "unknown",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/advance-wars-1-plus-2-re-boot-camp-switch/"
+      ],
+      "source_note": "Nintendo identifies the Switch remake collection and turn-based land/sea/air tactics, terrain and CO powers. Versus multiplayer is confirmed; native campaign co-op is not established. No complete no-hold guarantee.",
+      "title": "Advance Wars 1+2: Re-Boot Camp"
+    },
+    {
+      "id": "P048",
+      "case_title": "The Professor Has Been Assigned Remedial Listening",
+      "scene": [
+        "I appointed myself professor before checking whether the Bureau had students. Mercedes said that receiving one unsolicited lecture a day already qualified everyone present. Fire Emblem: Three Houses combined teaching, relationships and battlefield decisions, which I mistook for confirmation that my proposed Aiden Academy had educational value.",
+        "Shawna examined my syllabus. Monday: entrances. Tuesday: advanced entrances. Wednesday: respectful appreciation of the instructor. She replaced the schedule with a single question: what does each student actually need? I said the question lacked dramatic ambition. Rosa said it sounded like the beginning of teaching.",
+        "Tank supplied three house banners made from dish towels. My attempt to choose a house by which towel best complemented my jacket was denied. We considered the characters instead. A story full of loyalties and friendships deserved more attention than my branding scheme, though I retained one towel for a genuinely useful job at the sink."
+      ],
+      "pleasure": "A teacher's relationship with students develops alongside tactical battles and a continent's political crisis. Choosing a house gives the long story a particular group to know, making friendships, loyalties and changing circumstances a substantial part of the experience.",
+      "burden": "Normal difficulty with Casual mode revives fallen allies after battles, but it does not remove lessons, schedules, equipment or tactical menus. Monastery exploration adds three-dimensional movement and camera considerations. This is a rich character game with heavy management demands, not a simple visual novel because conversations are prominent.",
+      "first": "Choose Normal and Casual for the first trial, then assess one introductory battle explanation and one conversation. Test monastery movement separately when available; comfort with selecting a battle square does not answer the camera question.",
+      "ruling": "Admit when getting to know a large cast justifies managing their daily and military lives. The Bureau's teaching credential remains provisional until its founder learns to distinguish a lesson plan from an applause schedule.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "character drama",
+        "fantasy war",
+        "relationships"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Three-Houses-1175482.html"
+      ],
+      "source_note": "Nintendo confirms turn-based battles, academy exploration/calendar and Normal/Casual options. Casual removes permanent allied losses in battle, not other complexity. Whole-path hold/camera comfort remains untested.",
+      "title": "Fire Emblem: Three Houses"
+    },
+    {
+      "id": "P049",
+      "case_title": "The Legendary Ring Has Rejected My Finger",
+      "scene": [
+        "I put on a large ring and announced that a legendary hero would soon answer my call. Tank said the ring was a curtain fitting. I told him ancient artifacts often passed through ordinary hands. Mercedes asked whether the legendary hero would at least help put the curtains back up.",
+        "Fire Emblem Engage let fighters borrow strength from heroic Emblems. My plan was to borrow strength from everybody else while retaining full credit for the result. Shawna identified the flaw immediately: the game gave the partnership actual abilities, whereas my proposal gave her more work.",
+        "Rosa held the ladder while I restored the fitting. From that elevation I delivered a brief speech about teamwork. 'Use both hands for the curtain,' she said. I did. The room became less drafty, the speech ended early, and our first successful combination attack was recorded against an entirely civilian window covering."
+      ],
+      "pleasure": "Engage emphasizes colorful tactical battles and the abilities gained by pairing characters with legendary Emblems. The appeal is experimenting with a cast's different strengths and seeing how a chosen pairing changes the possibilities on a grid-based battlefield.",
+      "burden": "Weapon relationships, rings, skills and party development create many interlocking rules. Nintendo confirms Normal difficulty, Casual mode and Auto-Battle, plus a limited rewind system. Those aids change punishment or decision support; they do not prove low menu load or comfortable movement around the hub.",
+      "first": "Use Normal and Casual, read one unit's weapon matchup, and try its basic action before exploring every ring combination. Examine Auto-Battle as an optional tool only after seeing what it controls, keeping the choice to participate or delegate yours.",
+      "ruling": "Consider when tactical combinations themselves are attractive. Any ring found in Bureau property must pass the curtain test before being classified as a source of legendary power or a legitimate personal accessory.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "tactical",
+        "colorful"
+      ],
+      "native_coop": "unknown",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Engage-2267157.html"
+      ],
+      "source_note": "Nintendo supports grid tactics, Emblem pairings, Normal/Casual, Auto-Battle and limited rewind. No full-path hold/camera assurance or shared campaign is inferred; multiplayer scope remains unverified here.",
+      "title": "Fire Emblem Engage"
+    },
+    {
+      "id": "P050",
+      "case_title": "The Rabbids Have Applied for Senior Management",
+      "scene": [
+        "I watched the Rabbids' approach to organized activity and recognized several of my leadership principles. Mercedes said that explained a great deal. Kingdom Battle combined their chaos with Mario's world, giving me hope that an institution could survive somebody taking a selfie while everyone else solved the problem.",
+        "I proposed a tactical photograph of myself beside the printer. Shawna asked what tactical advantage it produced. 'Morale.' Tank asked whose. While I prepared an answer, Rosa organized the actual comparison: turn-based battles, character abilities, exploration and separate cooperative challenges. Four useful facts, achieved without a portrait session.",
+        "I tried to recruit Rabbid Peach as deputy communications director in absentia. Mercedes pointed out that fictional hiring did not reduce the real inbox. We left the Rabbids in their game, where their nonsense had been properly designed, and reduced mine to one permitted photograph with absolutely no commemorative banner behind it."
+      ],
+      "pleasure": "Mario characters and Rabbids join forces in colorful tactical battles, with each hero contributing a different role. The mismatch between earnest adventure and Rabbid behavior offers a comic frame for learning positioning, cover and coordinated attacks.",
+      "burden": "Combat takes turns, but exploration, equipment and abilities still require learning and navigation. Nintendo describes local co-op as additional challenges, not the entire story campaign. Do not infer the sequel's hold toggles or other accommodations for this first game; exact gesture and camera comfort need checking.",
+      "first": "Follow an early solo battle explanation and compare one movement option with one attack. If playing together is the main attraction, inspect the separate co-op challenges and their requirements rather than promising shared control of the whole campaign.",
+      "ruling": "Consider when bright tactical comedy appeals, with the mode boundary clearly marked. The Rabbids may consult on office morale after I demonstrate that the printer can function without being included in a publicity shoot.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "comic",
+        "colorful",
+        "tactical"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/mario-plus-rabbids-kingdom-battle-switch/",
+        "https://play.nintendo.com/news-tips/game-releases/mario-rabbids-kingdom-battle-release-date/"
+      ],
+      "source_note": "Nintendo confirms turn-based combat and separate local co-op challenges. Co-op flag is restricted to those challenges; no whole-campaign co-op or Sparks of Hope control options are transferred.",
+      "title": "Mario + Rabbids Kingdom Battle"
+    },
+    {
+      "id": "P051",
+      "case_title": "The Cosmic Adventure Has a Surprisingly Useful Options Menu",
+      "scene": [
+        "I built a cardboard spaceship for the Bureau's trip through Sparks of Hope. Tank climbed halfway in and discovered that I had allocated the entire interior to the captain's chair. 'Where does the crew sit?' I indicated a motivational poster. Mercedes asked whether its inspirational value included structural support.",
+        "The game had real options worth discussing: hold actions could become toggles, repeated presses could become a single press, and difficulty could be adjusted. Shawna read these aloud while I tried to solve the spacecraft's seating crisis by promoting everyone to standing officers. Rosa rejected the promotion and fetched ordinary chairs.",
+        "For once the technical menu was doing the generous thing my grand design had failed to do: offering choices. We still needed to check movement and camera comfort. I reduced the spaceship to a decorative dashboard and let everybody sit where they wanted. Our mission immediately became less heroic and considerably more habitable."
+      ],
+      "pleasure": "Mario and the Rabbids travel between imaginative planets, meeting odd characters and combining heroes with helpful Sparks. Tactical battles sit inside a larger exploratory adventure, with the cast's antics providing a light comic reason to see what the next place contains.",
+      "burden": "Ubisoft documents specific hold toggles, single-press alternatives, camera adjustments, automatic skill management and invulnerability. These are real options, not proof of a wholly no-rush path: direct movement, camera handling and airborne or traversal actions need checking. The first game's co-op challenges do not establish co-op here.",
+      "first": "Inspect those control options before play, then test ordinary movement and a first battle at the preferred difficulty. Check how a team jump or other moving action feels when introduced; stop there if the practical demands outweigh the appeal.",
+      "ruling": "Consider conditionally because useful accommodations deserve a fair trial, with remaining movement questions visible. The Bureau's spaceship is certified only for sitting indoors and making engine noises voluntarily at a sensible volume.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "comic",
+        "space fantasy",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://news.ubisoft.com/en-gb/article/3geL8IbYETmgHk6W017HpS/mario-rabbids-sparks-of-hope-accessibility-spotlight",
+        "https://news.ubisoft.com/en-us/article/65J7B5ga4HkMpxtYWQ7QX5"
+      ],
+      "source_note": "Developer UX interview documents listed options and time to think during turns; publisher article confirms direct real-time movement. These do not verify every traversal sequence. Single-player sequel assessed separately from Kingdom Battle.",
+      "title": "Mario + Rabbids Sparks of Hope"
+    },
+    {
+      "id": "P052",
+      "case_title": "Humanity Has Placed Me on Probation",
+      "scene": [
+        "When aliens threatened Earth, I offered to command its defense from the Bureau. Shawna asked what relevant experience I possessed. I gestured toward a stapler I had successfully unjammed last Thursday. Mercedes said humanity might wish to review other applicants before the invasion became irreversible.",
+        "XCOM combined squad tactics with research and base management. I combined a flashlight with a colander to produce a command helmet. Tank saluted the helmet and asked whether its ventilation represented an exposed weakness. I explained that advanced leadership required airflow.",
+        "Rosa read the actual duties: people, equipment, missions, money. This was substantial management beneath the exciting alien story. I removed the helmet and admitted that a player might love those responsibilities or reasonably prefer fewer of them. Mercedes recorded the admission as Earth's first successful contact with an unfamiliar form of intelligent life inside the Bureau, then returned the colander to the kitchen."
+      ],
+      "pleasure": "Lead a defense organization against an alien invasion, growing attached to soldiers while choosing research, equipment and battlefield tactics. The appeal is the connection between a strategic headquarters and the small, consequential decisions made by a squad on the ground.",
+      "burden": "Turn-based ground combat still involves cover, ranges, hit chances and multiple soldiers. Research, budgets and base decisions add another layer, while casualties and global threats create pressure. This card is Enemy Unknown without assuming Enemy Within additions; complete interception, timing and held-input behavior has not been audited.",
+      "first": "Use the opening tutorial and focus on one soldier's move into cover and one explained action. Assess whether the battlefield information feels interesting before treating the larger base-management system as part of an evening's commitment.",
+      "ruling": "Consider only when commanding a complicated defense effort is the desired fantasy. The colander offers no reduction in menu demands and has been removed from the Bureau's official procurement recommendations for planetary emergencies.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "military strategy",
+        "tension"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/200510/"
+      ],
+      "source_note": "Base-game listing supports turn-based squad combat, base/research management and interceptions. Pacing is mixed because the full strategic/interception loop is not certified wholly untimed. No expansion feature is assumed.",
+      "title": "XCOM: Enemy Unknown"
+    },
+    {
+      "id": "P053",
+      "case_title": "The Resistance Has Refused My Opening Parade",
+      "scene": [
+        "A resistance movement operating from a mobile headquarters sounded exactly like the Bureau after our landlord discovered the cardboard spaceship. I proposed a liberation parade. Shawna reminded me that concealment was useful. I reduced the parade to a single banner. Mercedes reduced it to no banner, a plan whose tactical elegance I found personally inconvenient.",
+        "XCOM 2 asked a squad to act within limited resources and sometimes limited turns. I held up a kitchen timer to demonstrate urgency. Tank removed the batteries. 'Turns. We are explaining turns.' I put the timer down and drew several boxes instead, feeling the loss of dramatic ticking quite deeply.",
+        "Rosa made the important distinction: you can have time to think about a move and still dislike a mission demanding efficient moves. Both reactions count. I accepted this, then submitted my parade for a different game. The resistance maintained concealment by declining to tell me which drawer it used."
+      ],
+      "pleasure": "The sequel turns Earth's defenders into an insurgent force, building a mobile organization and conducting tactical missions under alien occupation. Ambushes, soldier development and the changing campaign give each squad's successes and losses a continuing personal history.",
+      "burden": "Turn limits create strategic urgency without requiring a fast mouse click. The manual also describes many action controls, camera operations and a held Control-key gesture for waypoint paths. Base management, skill trees and permanent casualties add weight. This is the base game; expansion options for changing timers are not assumed.",
+      "first": "Leave the tutorial enabled and inspect one soldier's movement boundary and cover information. Read a turn-limited objective literally when it appears, then decide whether pressure measured in decisions is acceptable even when the decision itself can be considered.",
+      "ruling": "A conditional choice for deliberate tactical tension, not a relaxed default. All resistance parades remain postponed until I can explain the difference between a countdown clock and a row of turn boxes without props.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "resistance",
+        "tension"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/268500/",
+        "https://www.feralinteractive.com/en/manuals/xcom2/latest/steam/"
+      ],
+      "source_note": "Publisher supports base-game premise; official port manual documents turn-based actions, turn timers, casualties and held Control for waypoint movement. Waits concerns tactical decisions, not absence of turn pressure. No War of the Chosen options transferred.",
+      "title": "XCOM 2"
+    },
+    {
+      "id": "P054",
+      "case_title": "The Alarm Rises Every Time I Finish Talking",
+      "scene": [
+        "I volunteered to infiltrate a hostile corporation wearing a visitor badge the size of a dinner plate. Mercedes said the word INVISIBLE had apparently failed to reach the costume department. I turned the badge sideways, achieving a narrower profile and no improvement whatsoever in subtlety.",
+        "Invisible, Inc. raised its alarm as turns passed. I attempted to improve our odds by describing every move at length. Shawna explained that thought itself did not spend a turn, but eventually we would have to make choices. Tank suggested we begin by leaving my badge at home, freeing enough space for an actual operative.",
+        "Rosa liked the distinction between tension and speed. You could consider a move carefully while the situation still tightened with each committed action. I called this elegant design. Mercedes called it a warning that my one-hour speech could be physically unhurried and spiritually exhausting at precisely the same time. The badge was retired."
+      ],
+      "pleasure": "Corporate espionage becomes a tactical puzzle about agents, security systems and getting out with something valuable. Different operatives and equipment combinations let a plan feel clever when a small, well-chosen action opens an unexpected route through trouble.",
+      "burden": "The designer describes an alarm that rises at the end of each turn. Thinking time is available, but escalating consequences can still feel urgent. Agent abilities, hacking resources, sight lines and extraction plans create heavy demands. Custom modes exist, yet a specific no-pressure configuration has not been established here.",
+      "first": "Try the introductory mission and inspect a guard's attention and one available agent action. Watch what changes when the turn ends, then judge the alarm's emotional effect rather than deciding solely from the absence of a seconds countdown.",
+      "ruling": "Admit for someone who wants careful stealth under mounting strategic pressure. The Bureau will not issue its dinner-plate visitor badge to any operative expected to remain undetected in a reasonably well-lit building.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "espionage",
+        "tactical",
+        "tense"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/243970/",
+        "https://www.gamedeveloper.com/design/game-design-deep-dive-alarm-systems-in-klei-s-i-invisible-inc-i-"
+      ],
+      "source_note": "Publisher supports stealth systems/custom modes; first-person designer article explains alarm advancement per turn. No particular alarm-removal setting or full input accommodation is inferred.",
+      "title": "Invisible, Inc."
+    },
+    {
+      "id": "P055",
+      "case_title": "The Wizard Has Joined the Corporate Complaint Department",
+      "scene": [
+        "Shadowrun offered a world where magic and ruthless corporations coexisted. I immediately drafted a complaint asking whether a dragon could process our printer warranty. Shawna said dragons were not necessarily customer-service specialists. I said neither was the last customer-service specialist, but at least a dragon might get the department's attention.",
+        "Seattle's investigation mixed a killer, mercenary work and people living in the shadows of enormous institutions. I suggested a Bureau character combining every available specialty. Mercedes called this the same management error as appointing me head of both finance and publicity, only now with fireballs.",
+        "Tank recommended learning one role before adding another. Rosa recommended reading the conversations because the people were the reason to be there. I created a modest plan: one character, one useful ability, one current lead. The dragon complaint remained unsent, pending evidence that it would not void the warranty or incinerate its attached proof of purchase."
+      ],
+      "pleasure": "A murder investigation moves through a Seattle where cybernetics, magic and corporate power collide. The story offers an adult genre mixture, while turn-based team combat lets different kinds of characters contribute practical abilities to the same job.",
+      "burden": "Character creation, attributes, equipment, spells and tactical positioning are substantial systems. The game also relies on considerable reading, so a mystery-led premise does not make it a simple detective interface. Turn-based fights allow consideration, but the complete mission path and every held gesture have not been independently tested.",
+      "first": "Pick one clear starting archetype and follow the first conversation before studying every possible build. In the first instructed battle, learn one basic action and one support option rather than trying to master magic, drones and hacking together.",
+      "ruling": "Consider if cyberpunk people and mysteries make a tactical role-playing system worth learning. Printer complaints should remain in ordinary language until the Bureau verifies which supernatural departments actually accept consumer correspondence by email.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "cyberpunk",
+        "fantasy",
+        "mystery"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/234650/"
+      ],
+      "source_note": "Publisher describes Seattle murder investigation, classless development and single-player turn-based tactical RPG. Waits refers to combat decisions; no complete no-hold or low-complexity certification.",
+      "title": "Shadowrun Returns"
+    },
+    {
+      "id": "P056",
+      "case_title": "The Dragon's File Is Larger Than the Office",
+      "scene": [
+        "I requested a dragon-sized filing cabinet for the Dragonfall case. Tank asked whether the file was large or whether I simply enjoyed saying dragon-sized. I told him both could be true. Mercedes examined the proposed delivery route and found that the cabinet would permanently seal the entrance, turning our Bureau into a very small secret society.",
+        "Berlin's shadowrunning crew offered personalities, loyalties and a job that grew more dangerous than expected. Shawna suggested we pay attention to the crew instead of measuring the door. I assigned myself Team Visionary. Everyone else assigned me Person Who Cancels the Cabinet Order.",
+        "Rosa made coffee while I completed that unexpectedly difficult mission. Then we considered what actually distinguished this edition: a standalone campaign, revised systems and expanded character material. The office remained accessible to visitors, and the dragon stayed in the story, where its relationship to the available square footage was somebody else's thoroughly interesting problem."
+      ],
+      "pleasure": "Dragonfall brings Shadowrun's magic-and-technology world to Berlin and centers a crew with distinct personalities and histories. The Director's Cut expands the campaign and team material, making relationships and difficult loyalties a substantial reward for learning its tactical systems.",
+      "burden": "This remains a reading-heavy tactical RPG with character builds, equipment and team abilities. Its redesigned interface is not evidence that menus are few or self-explanatory. The standalone Director's Cut differs from the earlier expansion; complete timing, held gestures and late mission demands have not been verified here.",
+      "first": "Meet the initial team and try a small portion of its first job, focusing on one character's role. Decide whether the conversations make you want to know these people before planning an optimized build or committing to every side mission.",
+      "ruling": "Consider when a complicated crew is the attraction and learning a tactical system feels worthwhile. Deny dragon-sized storage unless the applicant can demonstrate both a real need and a remaining way out of the room.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "cyberpunk",
+        "character drama",
+        "dark"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/300550/"
+      ],
+      "source_note": "Inspected exact Director's Cut page confirms standalone identity, Berlin, expanded missions/team material and revised combat/interface. No all-path timing/hold guarantee; mature themes include explicit violence and difficult backstories.",
+      "title": "Shadowrun: Dragonfall - Director's Cut"
+    },
+    {
+      "id": "P057",
+      "case_title": "The Hacker Has Asked Me to Stop Guessing the Password",
+      "scene": [
+        "I claimed I could hack any corporate system by projecting confidence into the keyboard. Mercedes offered the office Wi-Fi as a preliminary examination. I entered MAGNIFICENCE. It failed. I entered MAGNIFICENCE with an exclamation mark. Shawna said the problem was not punctuation.",
+        "Hong Kong's Shadowrun story promised a dangerous city and a crew with its own troubles, but its Matrix systems required separate attention. I wanted to wave them through because the conversations sounded excellent. Rosa asked whether a good conversation could turn a timed minigame into an untimed one. I had to concede that even mine had never demonstrated that power.",
+        "Tank supplied the Wi-Fi password, printed on the router where it had always been. I called his method unsporting. Mercedes called it reading. We kept the game as a marked detour, with its attractive story and awkward mechanical questions on the same page. The network survived my intervention without filing a formal complaint."
+      ],
+      "pleasure": "The third standalone Shadowrun adventure offers a dense urban fantasy setting, a developed crew and corporate intrigue in Hong Kong. Its Extended Edition includes the later bonus campaign, giving players who enjoy the characters more story beyond the original ending.",
+      "burden": "Do not treat the whole game as unhurried because combat takes turns. Its Matrix has stealth and timed code/symbol-matching elements reported in gameplay documentation. A comfortable way through all required instances has not been verified. Text, character builds and inventory management are also heavy; this is a deliberate story-focused detour.",
+      "first": "Assess an early crew conversation and the character interface, then investigate the Matrix requirements before committing to the campaign. If someone offers help, agree which operations they would handle instead of quietly assuming every later obstacle will disappear.",
+      "ruling": "Keep only with the Matrix caveat firmly visible and a consciously chosen plan. The Bureau cannot authenticate a no-rush claim by typing MAGNIFICENCE more loudly or increasing the number of exclamation marks.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "cyberpunk",
+        "urban fantasy",
+        "dark"
+      ],
+      "native_coop": "no",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://store.steampowered.com/app/346940/",
+        "https://shadowrun-series.fandom.com/wiki/Matrix"
+      ],
+      "source_note": "Exact Extended Edition publisher page confirms revised Matrix and bonus campaign. Community gameplay documentation describes timed Matrix minigames; full-path alternatives are unverified, so no untimed completion is promised.",
+      "title": "Shadowrun: Hong Kong - Extended Edition"
+    },
+    {
+      "id": "P058",
+      "case_title": "My Legendary Origin Was Apparently Washing Dishes",
+      "scene": [
+        "Wildermyth could turn ordinary people into legends, so I submitted my life for immediate adaptation. Rosa asked which ordinary beginning I wanted recorded. I suggested a prophetic storm. She suggested the afternoon I learned where the clean tea towels lived. Mercedes said the second version had a stronger character arc.",
+        "The game's heroes could age, change, disagree and develop relationships over adventures. I proposed that my fictional self remain permanently magnificent and never suffer an embarrassing consequence. Shawna observed that I was requesting a brochure, not a life. Tank added a small stain to the proposed portrait for narrative credibility.",
+        "We made room for the possibility that an interesting character might be changed by the story. This was easy to endorse in principle and harder when Mercedes named my heroic chapter THE MAN WHO FINALLY RINSED HIS CUP. Still, everybody wanted to hear what happened next, which was more than my prophetic-storm pitch had accomplished."
+      ],
+      "pleasure": "A band of initially ordinary heroes develops through tactical adventures, personal events and relationships. Characters can transform and carry their histories forward, giving the player a story that feels partly discovered through consequences rather than entirely delivered by a fixed cast.",
+      "burden": "Tactical positioning, abilities, event choices and evolving characters all require attention. Injury, sacrifice and aging are part of the story. Native cooperative play can divide hero control, but setup and shared decisions still need agreement; it is not automatic simplification. Every input and late sequence has not been audited.",
+      "first": "Begin an introductory campaign and meet the first heroes before judging their long-term builds. Try one event choice and one battle action. If sharing play, agree who controls which hero and whether advice is invited.",
+      "ruling": "A promising character-led possibility when making a group's story sounds better than merely optimizing damage. The Bureau accepts humble origins, including dishwashing, provided I stop requesting a commemorative statue before the cup is dry.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "character growth",
+        "bittersweet"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/763890/"
+      ],
+      "source_note": "Publisher supports evolving heroes, tactical battles, difficulty choices and cooperative campaign play with separately controlled heroes. Memory rating is editorial; co-op does not guarantee reduced burden or complete input comfort.",
+      "title": "Wildermyth"
+    },
+    {
+      "id": "P059",
+      "case_title": "The Mercenaries Have Discovered Payroll",
+      "scene": [
+        "I founded a mercenary company with three vacancies and a magnificent crest. Tank asked what we paid. I said opportunity. He crossed his name off the application. Rosa asked what the company ate. I pointed at the crest's decorative wheat. She crossed my name off the catering plan.",
+        "Wartales made a band of hired fighters responsible for its own survival, equipment and camp. Mercedes explained that this was almost exactly the organization I had been pretending the Bureau did not require. My first expedition reached the kitchen, where it stalled over unpaid biscuits and an inadequate understanding of inventory.",
+        "Shawna checked the professions as well as the battles. Timing-based activities could lurk outside the turn-based combat label. I tried to solve this with a grand speech about fellowship. Tank said fellowship could begin with an honest warning and a sandwich. We supplied both, an unusually sound foundation for my revised mercenary business model."
+      ],
+      "pleasure": "Lead a band through a harsh medieval world, choosing contracts and gradually shaping its camp, skills and equipment. The appeal is the practical, emergent story of a company surviving together rather than fulfilling a single hero's destiny; native co-op can share that company.",
+      "burden": "Food, money, gear, professions and tactical battles create extensive management. Some profession activities use timing-based minigames, so turn-based combat does not mean a completely untimed game. A whole-route way around those activities is unverified. Exploration and party maintenance add further demands; this is a marked detour.",
+      "first": "Inspect an opening party and camp menu before pursuing contracts. Check the specific profession interactions a chosen plan would need, and only then consider a short shared outing with clear agreement about who handles each operation.",
+      "ruling": "Retain for someone deliberately attracted to mercenary logistics, with the timing caveat up front. A crest featuring wheat is not food, and a recruitment speech is not payroll, however richly embossed either one becomes.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "medieval",
+        "mercenary survival",
+        "gritty"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://store.steampowered.com/app/1527950/",
+        "https://www.gamepressure.com/newsroom/professions-in-wartales-explained-list-and-description/zd543a"
+      ],
+      "source_note": "Publisher confirms open-world company management, turn-based combat and up-to-four-player co-op. Gamepressure's profession guide describes timing minigames. Their complete avoidability has not been established.",
+      "title": "Wartales"
+    },
+    {
+      "id": "P060",
+      "case_title": "The Contract Contains an Unhelpful Amount of Consequences",
+      "scene": [
+        "I accepted a mercenary contract before reading it because the seal looked expensive. Mercedes asked what we had agreed to do. I said the details were surely conventional. Shawna turned the paper over. 'Deliver the meeting chairs downstairs.' I announced that our company specialized in strategic transport, then immediately delegated command to Tank.",
+        "Battle Brothers offered contracts whose risk could exceed a commander's optimism. I thought about my chairs. Equipment, wages, injury and uncertain opponents gave the fantasy teeth. Rosa asked whether the reader wanted those teeth tonight, an excellent question that my glossy recruitment poster had somehow omitted.",
+        "We carried the chairs together after negotiating a fee of shared lunch. I learned that a clear, modest contract could be more satisfying than a glorious one with hidden costs. Mercedes amended our company motto from FORTUNE FAVORS AIDEN to READ THE DAMN PAPER. The lettering was smaller, but the advice traveled considerably better."
+      ],
+      "pleasure": "A mercenary company develops its own history through recruits, contracts, equipment and battles in a changing world. The appeal is a tough, unscripted campaign where decisions leave marks and a modest success can feel earned because failure remains possible.",
+      "burden": "The publisher explicitly separates real-time world travel from turn-based battles. Roster management, wages, equipment, injuries and risk assessment are substantial. Harsh consequences can produce pressure even when battle decisions wait. Pause behavior during travel and every held-input requirement need checking; this is not a low-management fantasy adventure.",
+      "first": "Inspect a starting company's people and equipment, then read one contract's terms before accepting anything. Test travel controls and pausing deliberately. If the administrative burden already dominates the fun, another entry deserves the evening instead.",
+      "ruling": "Consider conditionally when difficult company management is the point of the outing. The Bureau recommends reading contracts before admiring their seals, especially if the chairs turn out heavier than the commander's promotional promises suggested.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "gritty",
+        "mercenary strategy",
+        "consequences"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/365360/"
+      ],
+      "source_note": "Publisher describes real-time travel, turn-based combat and mercenary contract/equipment management. Travel pause/hold details are not established here; strategic pressure is an editorial warning, not a seconds-timer claim.",
+      "title": "Battle Brothers"
+    },
+    {
+      "id": "P061",
+      "case_title": "The Giant Robot Has Failed Its Annual Service",
+      "scene": [
+        "I acquired an imaginary BattleMech and announced that the Bureau's parking problem was solved. Tank asked how. 'No one parks beside a giant robot.' Shawna asked about maintenance. I said the machine would be sustained by prestige. Mercedes opened a repair estimate long enough to reach the floor and suggested we test that theory with the printer first.",
+        "BATTLETECH's mercenary outfit had to keep its machines and people functioning between tactical battles. I considered this a cruel intrusion of invoices into an otherwise excellent giant-robot fantasy. Rosa said caring for the crew was part of the fantasy, unless I planned to travel alone in a monument to my own exhaust emissions.",
+        "We replaced the proposed mech purchase with one small desk model. It required no fuel, endangered no parking spaces and let Tank demonstrate how positioning mattered. My empire of steel had become educational and affordable, a double blow from which I expected to recover after tea."
+      ],
+      "pleasure": "Command enormous combat machines while managing the mercenary company behind them. The attraction is the connection between personalities, damaged equipment and tactical decisions: a battle's outcome follows the crew back to a traveling base rather than vanishing at a results screen.",
+      "burden": "Weapon loadouts, heat, armor, positioning, repairs and contracts create substantial technical and menu demands. Battles take turns, yet long engagements and economic consequences can still feel taxing. The publisher lists competitive multiplayer and solo skirmishes; do not infer cooperative campaign play from sharing a screen or discussing tactics.",
+      "first": "Try the opening instruction or a solo skirmish and inspect one machine's movement and weapon choices. Before accepting a company-wide campaign, decide whether reading its equipment information is an enjoyable part of the experience or simply too much administration.",
+      "ruling": "Consider when giant robots plus maintenance logistics sounds more appealing than giant robots alone. The Bureau's prestige-powered engine remains theoretical, and no vehicle may be purchased on the strength of its nonexistent fuel economy.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "mercenary drama",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/637090/"
+      ],
+      "source_note": "Publisher supports turn-based mech combat, contracts, repairs, company management and solo skirmish/PvP modes. Complete held/camera interactions are not tested; no native co-op inferred.",
+      "title": "BATTLETECH"
+    },
+    {
+      "id": "P062",
+      "case_title": "The Vote Did Not Go the Way My Speech Expected",
+      "scene": [
+        "I introduced the Scales of Bureau Conviction: one tray for my proposals, another for objections. Tank placed my proposal to buy a throne on the first tray. Mercedes placed the actual price on the second. The scales hit the table with enough force to settle the debate without further constitutional guidance.",
+        "Triangle Strategy made important decisions a matter of persuading allies and accepting a vote. I admired the idea until Shawna said the allies might disagree. 'Even after the speech?' 'Possibly because of it.' I revised my speech into three sentences and experienced a distressing increase in its persuasive power.",
+        "Rosa asked everyone what they actually wanted from the evening. The answers differed, yet somehow nobody needed to be conquered. I recorded this as a successful trial of democratic procedure and attempted to name it after myself. The motion failed four to one, with the one vote carefully documented in gold ink."
+      ],
+      "pleasure": "Political conflict, scarce resources and competing principles shape a story in which allies can vote on major choices. Tactical battles and conversations both matter, making the central attraction the tension between personal conviction, persuasion and the needs of a group.",
+      "burden": "The PC listing declares play without timed input, adjustable difficulty and saving at any time. Those features help pacing but do not shrink the dialogue, political names, unit abilities or positional tactics. Expect a heavy reading and menu load; the story's moral weight may itself feel demanding.",
+      "first": "Choose a comfortable difficulty and follow an early conversation before testing one explained battle action. Pay attention to whether the political questions interest you enough to learn the surrounding systems; no vote of the Bureau can supply that interest.",
+      "ruling": "Consider when persuading an ensemble through difficult choices is part of the desired drama. My throne proposal may return only after the price decreases or the laws of basic arithmetic are legitimately amended.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "political drama",
+        "fantasy",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1850510/"
+      ],
+      "source_note": "Publisher supports conviction/voting and tactical systems; current PC metadata declares no timed input, adjustable difficulty and Save Anytime. These are declarations, not independent full-path control validation.",
+      "title": "TRIANGLE STRATEGY"
+    },
+    {
+      "id": "P063",
+      "case_title": "The Civil War Has More Factions Than My Label Maker",
+      "scene": [
+        "I bought colored labels to keep a political epic organized. By the time I finished labeling the labels, Mercedes had founded a rival administration dedicated to getting something done. Tactics Ogre's divided kingdom looked suddenly familiar, although its disputes had rather more at stake than ownership of the large marker.",
+        "I offered to mediate with a speech titled EVERYONE HAS A POINT, ESPECIALLY ME. Shawna replaced it with a list of people, allegiances and the immediate decision. The list was much less impressive from across the room and much more useful from the chair where somebody was actually trying to understand events.",
+        "Rosa suggested that a game could be rich precisely because its choices were complicated, while still being a poor choice for a night when nobody wanted another complicated thing. I removed the admission oath from the door. Tank used the colored labels to mark tea tins, securing the first uncontested territorial settlement of the afternoon."
+      ],
+      "pleasure": "Denam's decisions unfold amid factional conflict in a kingdom shaped by past rule and renewed war. Branching story choices and tactical battles make the appeal a sustained political fantasy in which personal loyalties and public consequences rarely stay neatly separate.",
+      "burden": "The current Reborn PC listing declares no timed input, mouse-only and keyboard-only options, and saving at any time. Even so, a large roster, equipment, classes, battle rules and political names demand substantial learning. Reborn's revised systems differ from earlier releases; comfortable selection and camera use still need testing.",
+      "first": "Read the opening situation and try one unit's basic turn without planning an entire army. Keep a small character note if useful, then decide whether the political intrigue makes the menus feel worthwhile rather than automatically accepting them as a toll.",
+      "ruling": "Admit for deliberate, layered tactical drama. The Bureau's label maker may assist with names but cannot resolve a civil war, determine which faction deserves trust or explain why I ordered the metallic refill pack.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "political fantasy",
+        "war",
+        "moral choices"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1451090/"
+      ],
+      "source_note": "Exact Reborn listing supports branching story, revised tactical systems and developer-declared no timed input/Mouse Only/Keyboard Only/Save Anytime. Complexity assessment is editorial, not a clinical rating.",
+      "title": "Tactics Ogre: Reborn"
+    },
+    {
+      "id": "P064",
+      "case_title": "The Squire Has Been Given a Better Job Description",
+      "scene": [
+        "I arrived in Ivalice wearing a sash that said TACTICIAN, which I had printed before understanding the difficulty choices. Shawna turned it over and wrote START BY READING. I objected that this title lacked martial authority. Mercedes said martial authority had become considerably less important after I deployed the stapler facing my own sleeve.",
+        "The Ivalice Chronicles offered an Enhanced version with a Squire difficulty, making this a more specific proposal than vaguely recommending an old tactical classic. I accepted the distinction and requested a ceremonial squire's stool. Tank supplied the ordinary chair I had been avoiding because it lacked a crest.",
+        "Ramza and Delita's story had enough class, loyalty and political trouble without my adding a furniture hierarchy. Rosa said the reader could choose the gentler setting and still take the story seriously. I sat down. The chair supported this argument with excellent practical evidence and no need for a commemorative plaque."
+      ],
+      "pleasure": "Ramza and Delita are drawn through a struggle over power, class and competing loyalties in Ivalice. This edition's Enhanced version adds fully voiced dialogue and refinements, offering a specific modern route into a substantial tactical story rather than an unspecified nostalgic recommendation.",
+      "burden": "Use Enhanced with Squire difficulty for the proposed trial. That lowers a barrier but does not remove job systems, equipment, positioning or a large cast of names. The Classic version has different features. Complete held-input and camera comfort remain unverified, and a gentler setting does not make every battle simple.",
+      "first": "Select Enhanced and Squire, then follow the opening explanation through one character's movement and action. Read only the abilities immediately available before considering future job combinations; the first question is whether this turn feels understandable and interesting.",
+      "ruling": "Consider when a serious political story can justify learning tactical menus, with the named version kept attached. My TACTICIAN sash is unavailable until its owner can operate the office stapler without friendly fire incidents.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "political fantasy",
+        "class conflict",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us"
+      ],
+      "source_note": "Square Enix's current official page confirms exact title, Enhanced/Classic distinction, voiced Enhanced dialogue and Squire difficulty. Job/ability complexity is documented; complete no-hold/camera comfort is not.",
+      "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+    },
+    {
+      "id": "P065",
+      "case_title": "The Dark Assembly Has Approved My Worst Idea",
+      "scene": [
+        "Disgaea let a person visit a Dark Assembly and argue about the rules. I felt professionally recognized. At last, a game understood that an unreasonable plan could improve if it acquired enough official procedure. Mercedes said this explained the enthusiasm but not the wisdom of giving me access to a fictional legislature.",
+        "I submitted a motion declaring every snack an item of legendary power. Tank supported the motion until he discovered it required a quest before opening the biscuits. Shawna defeated the proposal by asking what practical benefit it produced. I cited dramatic scale, a metric she refused to include in the budget.",
+        "The game's absurd quantities and systems were part of its deliberate comedy. Mine were mostly a procurement problem. Rosa separated those facts kindly but firmly. We could enjoy a wildly excessive strategy game without importing its entire scale into the kitchen, particularly when the kitchen had no upgrade path beyond finding the clean plates."
+      ],
+      "pleasure": "Disgaea 5 turns tactical role-playing into an extravagant comic machine of demons, rebellion, huge numbers and unusual combinations. Its appeal is enjoying systems that become increasingly ridiculous, with a cast and world equally happy to push beyond ordinary fantasy restraint.",
+      "burden": "The Complete edition contains extensive added material and many deep systems: jobs, items, special battle mechanics and customization. That is a major menu and memory burden, not a promise of more effortless entertainment. Turn-based decisions help pacing, but the publisher's abundance is exactly the catch for someone wanting few systems.",
+      "first": "Try only the opening explanation and a basic battle action. Leave bonus scenarios and long-term optimization alone until the fundamental move-and-act loop feels enjoyable; there is no requirement to consume everything included in the word Complete.",
+      "ruling": "Consider when magnificent mechanical excess is itself funny and attractive. The Dark Assembly's jurisdiction ends at the kitchen door, where biscuits may be eaten without first achieving legendary rank or completing a procedural hearing.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "comic fantasy",
+        "absurd",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/803600/"
+      ],
+      "source_note": "Exact Complete listing documents included scenarios, jobs, customization and multiple strategic systems. Waits is tactical decision pacing; no full-path no-hold or low-menu claim is made.",
+      "title": "Disgaea 5 Complete"
+    },
+    {
+      "id": "P066",
+      "case_title": "The Fine Print Has Achieved Jumbification",
+      "scene": [
+        "Fuji's arrangement with Pirilika convinced me that every ambitious partnership needed a contract. I printed ours in letters large enough to be read from the parking lot. Mercedes unfolded it across three chairs and said the fine print had apparently undergone the game's Jumbification process before the rest of the office.",
+        "Disgaea 7 promised another outrageous collection of systems. I promised that this time our absurdity would be managed efficiently. Shawna asked why clause one gave me sole rights to all applause. I said intellectual property deserved protection. Rosa crossed it out and added a provision for everyone to leave the meeting whenever they wished.",
+        "Tank read the actual auto-battle condition: stages had to be completed before the feature unlocked for them. I had been ready to wave the phrase around like a universal escape hatch. We corrected the file. My enormous contract became wrapping paper for a much smaller and more useful set of straightforward instructions."
+      ],
+      "pleasure": "A reluctant fighter and an enthusiastic client anchor a demonic tactical adventure with exaggerated powers and comic excess. New systems such as oversized combat transformations fit a series whose appeal includes seeing a seemingly sensible strategy become gloriously unreasonable.",
+      "burden": "The PC publisher specifically supports keyboard/mouse menu and target selection, but the many classes, items and mechanics remain dense. Auto-battle unlocks after successfully completing each stage; it is not a verified first-pass story bypass. Turn-based structure does not settle every held-input requirement or make the management light.",
+      "first": "Learn the first battle's ordinary movement and attack before opening every customization possibility. Test whether the PC menu and target controls feel clear, and judge the cast's humor separately from the attraction of increasingly elaborate numerical combinations.",
+      "ruling": "Admit if you want the comedy of excessive systems and are happy learning those systems. No employee must sign my oversized contract merely because the text has become large enough to count as office furniture.",
+      "input": "mixed",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "comic fantasy",
+        "absurd",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/2250600/"
+      ],
+      "source_note": "Base PC listing supports Fuji/Pirilika, Jumbification, keyboard/mouse menu controls and auto-battle unlocked by completed stages. No complete-edition extras, unconditional autoplay or hold-free guarantee is inferred.",
+      "title": "Disgaea 7: Vows of the Virtueless"
+    },
+    {
+      "id": "P067",
+      "case_title": "The Airship Has Developed a Second Maintenance Department",
+      "scene": [
+        "Chained Echoes offered swords, dragons and piloted machines in the same adventure. I declared this the proper level of generosity for a fantasy world. Mercedes asked whether I could maintain a sword before requesting a mech. I pointed out that maintenance was Tank's department. Tank created a department of Refusing That Arrangement.",
+        "I drew an airship shaped like my initials. Shawna said the shape made the boarding ramp inaccessible and the wings politically embarrassing. Rosa suggested choosing companions for their personalities rather than for how well they fit into my proposed cabin assignments. This improved both the conversation and the imaginary emergency exits.",
+        "The attraction was a big journey with an ensemble and places worth discovering. The catch was that a rich journey also carried combat systems and equipment. I put both facts in the brochure. For once the brochure described the actual trip instead of a monument that happened to possess several passenger seats."
+      ],
+      "pleasure": "An ensemble crosses a war-torn continent in a fantasy world that mixes dragons and machines with a deliberate older-RPG visual style. The appeal is a long journey through varied places, with character stories and political trouble giving the travels a continuing purpose.",
+      "burden": "The publisher explicitly describes a complex skill and equipment system. Turn-based battles permit choosing actions, while exploration still requires directional movement and may involve sustained inputs. Visible enemies replace random encounters, but that does not eliminate combat, navigation demands or every potential timing question across the whole story.",
+      "first": "Follow the opening until you can test one movement segment and one explained battle choice. Read the currently useful skill information, then decide whether the cast and world make further systems learning attractive rather than assuming retro-looking graphics mean retro-sized complexity.",
+      "ruling": "Consider for an expansive ensemble adventure when learning equipment and combat is acceptable. The Bureau's airship will not be built in the shape of my initials until somebody demonstrates where the passengers could safely get off.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "ensemble",
+        "war"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1229240/"
+      ],
+      "source_note": "Publisher supports story-driven ensemble journey, visible enemies, turn-based battles and complex equipment/skills. Held movement and complete path comfort are unverified; no all-game no-timer claim.",
+      "title": "Chained Echoes"
+    },
+    {
+      "id": "P068",
+      "case_title": "The Solstice Committee Cannot Vote the Sun into Waiting",
+      "scene": [
+        "I appointed myself Minister of Celestial Scheduling for Sea of Stars. Shawna asked what powers the office possessed. I said the sun would rise at a dignified hour after my briefing. Mercedes opened the blinds before I finished, delivering a devastating natural-world rebuttal through the entire east-facing window.",
+        "The adventure's beautiful fantasy world was tempting, and a later update had added cooperative play. I nearly stamped the file on that basis alone. Tank stopped my hand. Timed hits were still part of the combat description. Rosa added that a friend joining the journey did not magically erase the journey's operations.",
+        "I revised the recommendation into an honest detour: attractive characters and places, but actual movement and timing questions to settle first. The sun continued without consulting me. I considered filing a complaint, then accepted its useful contribution to the room's lighting and reassigned my ministry to the much smaller problem of closing one curtain."
+      ],
+      "pleasure": "A colorful, classically inspired role-playing journey follows Solstice Warriors through a world of sun-and-moon magic. The combination of scenery, companions and adventure is the attraction; the Dawn of Equinox update also makes the story available in local cooperative play.",
+      "burden": "Timed hits are a real combat mechanic, including in co-op. The developer documents difficulty presets and relic adjustments, but this research does not establish a complete path avoiding every timed or held action. Movement and traversal require separate checks. Treat it as a deliberate detour rather than assuming turn-based means entirely unrushed.",
+      "first": "Inspect the installed version's difficulty and relic explanations, then test movement and one early battle with no expectation of perfect timing. If the required operations already conflict with preferences, enjoy the premise and choose another route without a mastery assignment.",
+      "ruling": "Retain for a consciously chosen shared or assisted adventure after checking the mechanics. The Bureau's celestial office cannot authorize the sun to pause, and it has even less authority over an undocumented accessibility promise.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "adventure",
+        "companionship"
+      ],
+      "native_coop": "yes",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://sabotagestudio.com/press-release/sabotage-studio-announces-free-sea-of-stars-update-dawn-of-equinox-bringing-top-fan-requested-additions-to-pc-and-consoles-gains-november-release-date/"
+      ],
+      "source_note": "Developer describes original story with Dawn of Equinox's up-to-three-player local co-op, timed hits and difficulty presets. This assesses that updated base adventure, not the OST or unverified Sunset Edition changes. Complete no-timed/hold path unknown.",
+      "title": "Sea of Stars"
+    },
+    {
+      "id": "P069",
+      "case_title": "Eight Travelers Have Declined My Group Itinerary",
+      "scene": [
+        "Eight travelers sounded like exactly enough people for my deluxe guided tour. I prepared a schedule beginning with forty minutes of admiring the guide. Mercedes asked whether any traveler had requested this. I said leadership anticipated needs. Shawna said the travelers appeared to have their own reasons for leaving home, none of which involved my commemorative lanyard.",
+        "Octopath Traveler II gave each person a different beginning and useful talents. I tried to choose a lead by whose outfit best matched the Bureau's stationery. Rosa redirected me toward whose story sounded interesting. A modest correction, yet somehow the whole expedition improved before it moved an inch.",
+        "Tank divided my itinerary into eight neat strips and used them as bookmarks. I protested until he explained that this allowed each person's story to remain identifiable. The brochure had finally developed a practical function. I kept one lanyard as a reminder that organizing an ensemble and making everyone follow me were very different ambitions."
+      ],
+      "pleasure": "Eight protagonists bring separate motivations and talents to a shared world, with stories that can be approached through different beginnings. The attraction is choosing a person who catches your interest, then discovering how an expanding cast and their journeys relate.",
+      "burden": "The PC listing declares play without timed input, but battles still use several interacting systems and the wider journey includes movement, jobs, equipment and distinct character abilities. Remembering eight stories can become substantial. Directional hold comfort remains a separate question even when battle selections wait.",
+      "first": "Choose one traveler because the premise appeals, read that opening, and learn one ordinary battle action. Keep the next step attached to that character before treating the whole ensemble as a single large list of unfinished obligations.",
+      "ruling": "Consider for a long character-led journey when turn-based systems and reading feel welcome. The Bureau's lanyard is optional, and no traveler must attend my introductory lecture to prove a legitimate interest in the wider world.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "ensemble",
+        "personal journeys"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1971650/"
+      ],
+      "source_note": "Exact PC listing supports eight travelers, Path Actions, jobs and Break/Boost; developer declares no timed input. Mixed label reflects active exploration alongside waiting battle decisions, not a contradicted timer claim. Hold comfort unverified.",
+      "title": "OCTOPATH TRAVELER II"
+    },
+    {
+      "id": "P070",
+      "case_title": "The Luminary Has Requested a Less Complicated Name Badge",
+      "scene": [
+        "The Dragon Quest title required so much space that my first name badge unfolded like a road map. Mercedes asked whether the hero needed a second companion just to carry the subtitle. I explained that grandeur sometimes required hyphenation. Shawna pointed out that our purpose was to identify the edition, not to build a suspension bridge from typography.",
+        "The story gave a young hero a disputed identity and a growing group of companions. I sympathized with being misunderstood by authority until Rosa reminded me that I was usually the authority causing the misunderstanding. Tank folded the badge into something that fit a pocket.",
+        "This Definitive Edition offered a two-dimensional presentation as well as the three-dimensional one. That was a concrete choice worth discussing instead of simply announcing that all colorful fantasy was easy. I left room for the player to test it. My own badge now said AIDEN, a bold reduction in both paperwork and wind resistance."
+      ],
+      "pleasure": "A young hero accused of being a threat gathers companions and searches for the truth of his identity. The appeal is a substantial, colorful adventure with personal backstories and a traditional turn-based battle structure; this edition also includes a two-dimensional presentation option.",
+      "burden": "Party equipment, abilities, navigation and a long story create a meaningful memory load. The 3D presentation brings camera demands; trying 2D may change that burden but is not a universal solution or instant switch at every moment. Directional holds and optional minigame timing remain separate checks.",
+      "first": "Inspect the Definitive Edition's presentation choices and begin without extra Draconian challenge settings. Try ordinary movement and one early turn-based battle, judging both the immediate controls and whether the companions' tone makes a long adventure sound inviting.",
+      "ruling": "Consider conditionally for a traditional, characterful fantasy journey with a useful presentation choice. No applicant is required to memorize the complete subtitle, which the Bureau has finally agreed to print on ordinary paper at a reasonable size.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "companionship",
+        "adventure"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1295510/"
+      ],
+      "source_note": "Inspected exact XI S Definitive page confirms 2D/3D modes, companions, turn-based combat and optional Draconian challenges. Mode-switch limits and full input/timing comfort are not fully verified; no original-XI assumptions.",
+      "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition"
+    },
+    {
+      "id": "P071",
+      "case_title": "The Phantom Thief Has Stolen His Own Appointment Book",
+      "scene": [
+        "I announced my secret identity as a Phantom Administrator while wearing a mask over my ordinary name badge. Mercedes said secrecy had suffered a paperwork breach. Persona 5 Royal offered a double life full of friendships and supernatural rebellion. I offered a double-booked afternoon and an unusually dramatic explanation for missing the budget meeting.",
+        "Shawna found the later timing caveat before I could stamp the file. A turn-based game could still contain an actual countdown in a required encounter. I wanted the excellent-looking cast to overrule this inconvenient fact. Rosa said the cast was welcome to be excellent while the fact remained inconvenient.",
+        "Tank returned my appointment book, which I had hidden under the mask to symbolize freedom from schedules. Every appointment was still there. I accepted that a game about managing a double life might be a rich story and a substantial demand at once. My secret identity was downgraded to Man Who Can Be Found Beside the Printer."
+      ],
+      "pleasure": "A stylish ensemble of students balances daily relationships with a supernatural campaign against abusive power. Royal offers an extensive character story with striking music and presentation, making the desire to spend time with its cast entirely understandable even when its systems are demanding.",
+      "burden": "This is a detour for a strict no-rush preference. Royal walkthroughs document a required later boss with a thirty-minute countdown, alongside timed traversal elsewhere. Ordinary turn-based combat does not erase those exceptions. Calendar choices, relationship planning, combat menus, dungeon movement and camera handling create additional complexity.",
+      "first": "Judge the opening conversations and presentation, but keep the late countdown warning in the decision from the start. Establish a deliberate shared-viewing or help arrangement before investing in a long campaign if those required operations are unacceptable alone.",
+      "ruling": "Retain for the cast and story only with an honest plan for the documented conflicts. A stylish mask cannot conceal a countdown, and the Bureau is forbidden to rename one as an unusually enthusiastic calendar notification.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "urban fantasy",
+        "relationships",
+        "dark themes"
+      ],
+      "native_coop": "no",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://store.steampowered.com/app/1687950/",
+        "https://gamefaqs.gamespot.com/ps4/260936-persona-5-royal/faqs/78256/week-24-october-1st-october-9th-okumuras-palace",
+        "https://www.neoseeker.com/persona-5-royal/Okumura%27s_Space_Station"
+      ],
+      "source_note": "Exact Royal PC listing supports premise. Royal-specific walkthroughs corroborate required Okumura time limits; no PC option removing them was verified. Story interest is separated from full-route suitability.",
+      "title": "Persona 5 Royal"
+    },
+    {
+      "id": "P072",
+      "case_title": "I Have Borrowed Four Turns Against Next Tuesday",
+      "scene": [
+        "BRAVELY DEFAULT II allowed characters to store actions or spend several together. I attempted the same system with the Bureau's meetings, announcing that I would deliver four closing speeches now and owe silence next Tuesday. Mercedes accepted the silence and rejected the speeches, creating an unfavorable exchange rate for my initiative.",
+        "The game's Brave and Default choices were a real tactical system; my scheme was merely an overdraft against everybody's patience. Shawna demonstrated the distinction with a handful of counters. Save an opportunity, spend it thoughtfully, understand the consequences. I tried to purchase applause with two counters. Tank said applause was not an eligible action.",
+        "Rosa liked that the game explained a distinctive rule around a traditional party adventure. Whether managing that rule would be fun was the actual question. I returned the counters and honored a small portion of my silence debt immediately. The room's response suggested that my creditors might finally receive a satisfactory settlement."
+      ],
+      "pleasure": "Four heroes undertake a crystal-centered fantasy journey with jobs and abilities that can be combined in different ways. The signature battle idea is deciding when to store action capacity and when to spend it, creating a recognizable rhythm of preparation and commitment.",
+      "burden": "The PC publisher declares play without timed input and adjustable difficulty. That helps pace, while Brave Points, primary and secondary jobs, equipment and enemy behavior still create a heavy tactical load. Exploration requires directional control; a no-timed-input declaration does not establish that movement is comfortable without holds.",
+      "first": "Choose a comfortable difficulty and learn one ordinary attack and one Default action in the early guidance. Observe what changes on the next turn before planning elaborate job combinations or trying to bank an entire party's future at once.",
+      "ruling": "Consider if a clear central battle rule sounds enjoyable inside a long fantasy story. The Bureau will not accept speculative future silence as payment for four unwanted speeches delivered immediately with ceremonial enthusiasm.",
+      "input": "directional",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "party adventure",
+        "tactical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1446650/"
+      ],
+      "source_note": "Exact PC listing explains Brave/Default, jobs and four heroes; developer declares no timed input and adjustable difficulty. Mixed pace distinguishes exploration from waiting decisions, not a claim of required timers. Holds untested.",
+      "title": "BRAVELY DEFAULT II"
+    },
+    {
+      "id": "P073",
+      "case_title": "The Tower Has Refused My Membership Card",
+      "scene": [
+        "I approached the Spire with a deck containing my business card, a loyalty card for coffee and a photograph of the Bureau's ribbon-cutting. Mercedes asked which one blocked damage. I said my reputation had discouraged critics for years. Shawna said the enemy intended to bite rather than publish a review, making our defensive position somewhat less secure.",
+        "Slay the Spire asked for cards that worked together. I asked whether merely expensive-looking cards counted. Tank put an ordinary defend card beside an ordinary attack card and explained the immediate choice. It lacked the glamour of my opening hand and possessed the advantage of actually doing something.",
+        "Rosa suggested trying one fight before planning the perfect deck. The tower did not need to be conquered tonight for that fight to be worthwhile. I retired the ribbon photograph from active service. The coffee card remained useful, but only in the separate and less lethal campaign conducted around the kitchen counter."
+      ],
+      "pleasure": "Build a deck while climbing a changing sequence of encounters, choosing cards and relics that make the next fight play differently. The appeal is recognizing a useful combination and gradually shaping a plan from imperfect, limited choices rather than executing a fixed routine.",
+      "burden": "The developer declares play without timed input, mouse-only play and saving at any time. Card text, energy, status effects and deck interactions still demand reading and planning. Test card selection and targeting for drag or hold comfort; losing a run is part of the structure, not evidence that the trial was wasted.",
+      "first": "Begin with the first available character and examine one attack card and one defensive card before playing either. Try one encounter and judge whether the tradeoff is satisfying without aiming to finish the entire climb on the first visit.",
+      "ruling": "A promising card-game trial when visible choices and patient planning appeal. The Bureau's business card offers no block value, regardless of paper thickness, embossed lettering or how prominently my qualifications appear on the reverse.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "dark fantasy",
+        "tactical cards"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/646570/"
+      ],
+      "source_note": "Original PC game listing supports deckbuilding/roguelike structure and declares Mouse Only, no timed input and Save Anytime. Card manipulation comfort and full-path suitability are not independently verified.",
+      "title": "Slay the Spire"
+    },
+    {
+      "id": "P074",
+      "case_title": "The Train to Hell Has Three Seating Classes and One Fire",
+      "scene": [
+        "I accepted responsibility for a train carrying the last infernal flame and immediately installed a first-class carriage. Tank asked whether the flame could afford the supplement. I said premium service should be available to every sufficiently important combustion event. Mercedes began drafting the complaint on its behalf.",
+        "Monster Train placed the tactical problem on several levels, which I admired as an efficient use of vertical real estate. Shawna pointed out that units needed useful positions, not seats assigned by social prestige. Rosa refused to serve tea until I stopped calling the lower floor economy damnation.",
+        "Then we found the mode distinction: ordinary solo deckbuilding and a separate Hell Rush competition with a ticking clock. I removed Hell Rush from the proposed route before my marketing instincts could call it invigorating. The flame received an ordinary seat, the passengers kept their own pace, and my premium-service empire collapsed before its first scheduled departure."
+      ],
+      "pleasure": "Defend a train across stacked battle spaces by combining units, spells and upgrades into a developing deck. The vertical layout changes the familiar card-battle question: where a creature stands can matter as much as which card is played next.",
+      "burden": "Use an ordinary solo run for this proposal. The publisher explicitly describes Hell Rush multiplayer as a real-time, clock-driven competition, so exclude it from a no-rush trial. Multiple floors, unit placement, card upgrades and interacting effects still create a substantial mental load; dragging and held-input behavior require checking.",
+      "first": "Open a solo run and inspect one unit's placement and one spell before advancing the fight. Keep attention on the immediate floor arrangement; there is no need to plan a perfect deck or enter any competitive challenge to understand the attraction.",
+      "ruling": "Consider for layered card tactics with the solo-mode boundary attached. The Bureau's first-class surcharge has been abolished, and the infernal flame may travel without listening to my five-part presentation on premium opportunities for controlled combustion.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "darkly comic",
+        "fantasy",
+        "tactical cards"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1102190/"
+      ],
+      "source_note": "Original-game publisher page supports three vertical fields/deckbuilding and explicitly identifies Hell Rush as timed real-time multiplayer. Waits applies to the proposed ordinary solo mode, not all modes; holds remain unchecked.",
+      "title": "Monster Train"
+    },
+    {
+      "id": "P075",
+      "case_title": "My Argument Deck Contains Too Many Compliments About Me",
+      "scene": [
+        "Griftlands used cards for negotiation as well as combat. I laid out my best arguments: VISIONARY, WELL-DRESSED and YOU WILL THANK ME LATER. Mercedes countered with WHERE IS THE RECEIPT. The encounter ended faster than expected, although technically I still possessed considerable unused confidence.",
+        "A separate negotiation deck sounded like a fine way to expose the machinery of a conversation. Shawna asked whether I understood that other people had interests independent of my preferred outcome. I said I was prepared to consider this as an advanced rule. Rosa informed me it was part of the tutorial.",
+        "Tank offered me a straightforward deal: carry the mugs and receive a biscuit. I accepted without invoking my prestige modifier. The transaction succeeded, nobody developed a lasting grudge, and the kitchen remained unbroken. Mercedes suggested I keep that card. For once, an improvement to my build was both cheap and visible from the doorway."
+      ],
+      "pleasure": "Three separate protagonists navigate a rough science-fiction world through fights, negotiations and relationships. Maintaining different decks for talking and combat makes social encounters mechanically substantial, while choices about allies and enemies can follow the character into later situations.",
+      "burden": "Two decks, relationship effects, faction loyalties and run-based consequences make this more demanding than a small casual card game. Considerable text explains abilities and social stakes. Turn-based card decisions support deliberation, but no full-path guarantee about every gesture or timing exception has been independently established.",
+      "first": "Start the opening character's story and read one negotiation card in context before building a grand strategy. Try one exchange, observing both what the card does and why the other person cares, then decide whether managing conversation this way is enjoyable.",
+      "ruling": "Admit when arguments treated as playable tactics sound intriguing. The Bureau's deck may include confidence, but at least one card must answer the question actually asked by the person standing across the table from its founder.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "social intrigue",
+        "dark humor"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/601840/"
+      ],
+      "source_note": "Publisher supports three campaigns, separate negotiation/combat decks and persistent social consequences. Waits describes core card decisions; held gestures and complete-path exceptions have not been tested.",
+      "title": "Griftlands"
+    },
+    {
+      "id": "P076",
+      "case_title": "The Dice Have Become Staff and Immediately Requested Benefits",
+      "scene": [
+        "I welcomed six walking dice to the Bureau and assigned each a department. Tank asked why every favorable number had been placed in Public Relations. I said the allocation reflected organizational strengths. Mercedes rolled the personnel chart onto the floor and demonstrated that chance had declined to recognize my reporting structure.",
+        "Dicey Dungeons made random rolls into decisions about equipment. I tried to negotiate a better result by complimenting the die. Shawna said the point was to use the roll received. Rosa said this was also useful advice about an afternoon that had already included two imaginary empires and a failed infernal railway upgrade.",
+        "I placed a small number where it could still help instead of complaining that it was not a large number. The committee observed this unfamiliar behavior with interest. Tank offered a biscuit for continued progress. I accepted without rolling for prestige, narrowly avoiding another dispute about whether snacks should require performance-related numerical evidence."
+      ],
+      "pleasure": "Walking dice face a peculiar dungeon game show, turning rolled numbers into attacks and other equipment effects. Different characters change the rules enough to make a familiar-looking die produce very different little tactical problems, with lively art and music supporting the absurdity.",
+      "burden": "Equipment conditions, arithmetic and random outcomes require thought; later characters change the rules substantially. Turn-based play is the core, but placing dice may involve dragging or other gestures worth testing. Begin with the initial character rather than treating every class or bonus episode as equally simple.",
+      "first": "Use the first available character and try assigning one die to one piece of equipment. Read the requirement, observe the result, and judge the placement gesture before considering a whole dungeon or a different character with an entirely new rule system.",
+      "ruling": "A promising short tactical experiment when adapting a small handful of numbers sounds fun. The Bureau cannot promise favorable rolls, but it can stop asking the dice to attend departmental meetings in matching ties.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "comic",
+        "colorful",
+        "tactical dice"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/861540/",
+        "https://wiki.diceydungeons.com/doku.php?id=dicey_dungeons"
+      ],
+      "source_note": "Developer store supports characters/equipment; official project wiki describes turn-based dice allocation. Drag/hold alternatives and every episode are not verified; recommendation targets the initial character's basic loop.",
+      "title": "Dicey Dungeons"
+    },
+    {
+      "id": "P077",
+      "case_title": "The Joker Has Taken Over Accounts",
+      "scene": [
+        "I appointed a Joker to improve the Bureau's finances because its expression suggested a healthy disregard for conventional accounting. Shawna asked what it actually did. I said the number would become larger. Mercedes said that explanation sounded uncomfortably similar to our last budget meeting and would require more specific supporting arithmetic.",
+        "Balatro rewarded combinations between familiar-looking hands and unusual modifiers. I placed two ordinary cards beside a glittering business card and claimed a pair of opportunities. Tank ruled the hand invalid. Rosa said the interesting part was learning the game's real interactions, not proving I could rename anything until it sounded profitable.",
+        "We examined one hand and one Joker. The result was understandable without convening a financial summit. I was relieved and mildly offended. My proposed summit had included excellent place cards. Mercedes put those cards away, leaving the actual game enough room to explain why a small choice could change the entire shape of a run."
+      ],
+      "pleasure": "Poker-like hands become ingredients in a single-player score-building puzzle, transformed by Jokers and other modifiers. The attraction is watching a modest combination become unexpectedly powerful and deciding how each new card changes the plan for the next target.",
+      "burden": "The developer declares play without timed input and mouse-only play. Hand recognition, scoring modifiers, changing boss rules and reading several effects at once still take attention. Card rearrangement and selection need a gesture check; a familiar deck does not mean all the surrounding rules are familiar or memory-light.",
+      "first": "Try the opening explanation and build one clearly recognized hand. Read one Joker's effect in plain language before buying or arranging a complicated combination, then decide whether discovering the score interaction feels satisfying rather than like unwanted arithmetic homework.",
+      "ruling": "A promising possibility when combinations and growing numbers are the entertainment. The Bureau forbids its founder from calling an invalid hand an opportunity merely because the phrase looks more optimistic on a quarterly presentation slide.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "abstract",
+        "tactical cards",
+        "playful"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/2379780/"
+      ],
+      "source_note": "Exact base listing supports poker-inspired deckbuilding, Jokers and developer-declared no timed input/Mouse Only. No real-money gambling claim or guaranteed hold-free card manipulation is made.",
+      "title": "Balatro"
+    },
+    {
+      "id": "P078",
+      "case_title": "The Spaceship Only Moves Sideways, Unlike My Excuses",
+      "scene": [
+        "A spaceship duel arranged along one axis seemed ideal for the Bureau. At last, a navigation system could accommodate my tendency to move sideways whenever the budget question arose. Mercedes said this was not a piloting qualification. Tank asked whether my ship would dodge the invoice or simply present a different part of itself for impact.",
+        "Cobalt Core gave cards practical orders: protect the ship, shift position, exploit a weakness. I gave my crew cards reading ADMIRE CAPTAIN and ADMIRE CAPTAIN AGAIN. Shawna replaced them with MOVE and THINK. The vessel's prospects improved immediately, though my personal satisfaction took a temporary hit.",
+        "Rosa liked the crew's individual stories and the mystery behind repeated loops. I liked that the fiction could support an actual relationship with the mechanics. We tried one imagined sideways move. The invoice followed. Some threats, it appeared, belonged to a more sophisticated combat system than the Bureau was currently prepared to evade."
+      ],
+      "pleasure": "A small crew's personalities and a time-loop mystery sit inside spaceship card battles. Moving along a single line makes positioning part of the card choice: avoiding a shot or lining up a weapon can matter as much as adding more damage.",
+      "burden": "Crew decks, ship layout, incoming fire and upgrades create interacting information to track. The publisher invites play at one's own pace, but gesture comfort and the complete sequence of encounters are not independently tested. This is a card-driven tactical game, not a reflex flying game, yet it still requires attentive planning.",
+      "first": "Inspect one incoming attack and one movement card during the opening guidance. See what shifting the ship changes before building a multi-card sequence, then decide whether the crew's banter gives you a reason to explore another encounter.",
+      "ruling": "Consider when a modest spatial puzzle and a characterful crew sound appealing together. The Bureau acknowledges that moving sideways is a legitimate spaceship tactic and an ineffective response to an ordinary request for the missing receipt.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "science fiction",
+        "comic",
+        "tactical cards"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/2179850/"
+      ],
+      "source_note": "Publisher supports card-driven single-axis combat, crew stories and playing at one's pace. No continuous-action flight claim; complete hold/gesture comfort remains unverified.",
+      "title": "Cobalt Core"
+    },
+    {
+      "id": "P079",
+      "case_title": "The Snowman Is Waiting Three Turns to Ruin My Presentation",
+      "scene": [
+        "I planned a winter conference with a snowman as keynote speaker. Mercedes asked what expertise it possessed. I said it had excellent seasonal relevance. Tank asked whether the room's heating would shorten the address. I called this a natural safeguard against overlong speeches and received several meaningful looks from the staff.",
+        "Wildfrost's cards had counters showing when they would act. I misunderstood and began speaking faster. Shawna stopped me. The counters tracked turns, not seconds. Rosa let the distinction sit on the table until I quit trying to improve it with a stopwatch and a decorative scarf.",
+        "Once I understood the order of actions, the little battlefield became more interesting. A delay could be useful; a companion's position could matter. I cancelled the keynote and used the scarf to keep my own neck warm. The snowman retained the more appropriate role of hypothetical opponent, where its professional credentials were much less important than its next displayed move."
+      ],
+      "pleasure": "Build a traveling group of companion cards in a frozen world, arranging their effects and attacks to work together. The distinctive pleasure is planning around visible action counters, so that a carefully chosen move changes what happens several turns later.",
+      "burden": "The counters measure turns until actions, not a requirement to click within seconds. Even so, attack order, positioning, status effects and companion survival can be demanding, and a cute appearance does not predict an easy run. Card placement gestures and all-path input comfort remain checks rather than verified assurances.",
+      "first": "Read one friendly counter and one enemy counter, then use the opening guidance to observe what advances them. Try predicting only the next action before attempting a long chain of effects or comparing every possible leader and deck.",
+      "ruling": "Consider when planning a visible sequence sounds satisfying and setbacks are acceptable. The Bureau's snowman has no obligation to speak before melting, and I have no authority to turn a move counter into a personal deadline.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "fantasy",
+        "wintry",
+        "tactical cards"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1811990/"
+      ],
+      "source_note": "Publisher explicitly explains turn-based battles and counters measured in turns. This distinguishes counters from real-time deadlines; no low-difficulty or hold-free promise is inferred from visual style.",
+      "title": "Wildfrost"
+    },
+    {
+      "id": "P080",
+      "case_title": "Fifty-One Games and One Chairman Who Must Stop Choosing All of Them",
+      "scene": [
+        "I received a collection of fifty-one games and declared a fifty-one-event Bureau championship. Rosa asked whether anybody had requested a championship. I said the trophy had already been drawn. Mercedes said a pencil sketch created no binding athletic obligation and, judging by its shape, might actually be a gravy boat.",
+        "Clubhouse Games offered enough variety to make a smaller decision possible: one board, one set of rules, one pleasant conversation while taking turns. I attempted to replace this with a seeded tournament bracket. Shawna folded the bracket into a stand for the controller, improving the plan without changing any actual game rules.",
+        "Tank chose a quiet board-game option to inspect. No one entered Toy Boxing by accident, and no one had to treat every item in the collection as equally suitable. I placed the gravy-boat trophy in storage. For the first time, the evening had a respectable chance of ending with a game played rather than a championship permanently under construction."
+      ],
+      "pleasure": "The collection offers many small, distinct games with in-game explanations, from familiar boards to cards and more active diversions. Its useful promise is variety within one package: it may be possible to find one pleasing little ritual without adopting a long campaign.",
+      "burden": "Assess individual games, not the collection as one control profile. Nintendo explicitly distinguishes strategic choices such as Four-in-a-row from reflex games such as Slot Cars and Toy Boxing. Multiplayer, motion, touch and undo availability vary by game. Shared competitive play is not automatically cooperative play.",
+      "first": "Open Four-in-a-row and read its own instructions, then test selecting and placing a piece in a local or solo arrangement without an added household timer. Check that game's controls and player setup before trying a second title.",
+      "ruling": "A promising route when the desired outcome is one modest game and room to talk. The Bureau's fifty-one-event championship is cancelled by unanimous agreement, including a reluctant but legally valid vote from the man who designed its gravy boat.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "moderate",
+      "tone": [
+        "tabletop",
+        "social",
+        "varied"
+      ],
+      "native_coop": "unknown",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://www.nintendo.com/us/store/products/clubhouse-games-51-worldwide-classics-switch/"
+      ],
+      "source_note": "Nintendo confirms collection/tutorials and explicitly separates strategic/reflex games; proposed trial is Four-in-a-row only. Collection-level mixed pace/input must not certify every included game. Native co-op scope and game-specific holds are unverified.",
+      "title": "Clubhouse Games: 51 Worldwide Classics"
+    }
+  ],
+  "interludes": [
+    {
+      "title": "The Coup of the Biscuit Tin",
+      "paragraphs": [
+        "By the midpoint of our proceedings, I had decided the real problem with the rolling pin was portability. A leader could not circulate with a substantial constitutional object in one hand and a cup in the other without sacrificing the possibility of a dramatic gesture. I solved this by placing the instrument on the serving trolley, thereby creating the world's first mobile ministry of turn-taking. Tank watched me wheel it across the room. 'You've put waiting on wheels.' I said that sounded like an excellent slogan. Mercedes said it sounded like something a witness would tell an insurance investigator.",
+        "The trolley immediately developed a territorial dispute with the biscuit tin. I needed its top shelf for official documents. Rosa needed the top shelf for the food it had been designed to carry. I proposed a mixed-use arrangement in which visitors could access refreshments after acknowledging the agenda. Rosa moved the papers onto my desk and served everybody. The transfer of power was bloodless, decisive and accompanied by shortbread. I retained the title of Founder, but the department controlling the useful object had fallen to someone with a clearer understanding of why people had come into the room.",
+        "To rebuild my position, I arranged a demonstration of strategic urgency. I gave Tank three counters and asked him to deliver a biscuit from one end of the table to the other in three moves. He thought, moved, thought again, and finished. Then I produced a timer and asked him to do it before the bell. 'Those are different,' Shawna said. 'Exactly,' I announced, relieved that my demonstration had accidentally reached its intended point. A limit on moves can let someone consider each move carefully. A limit on seconds creates a different physical demand. Both can still feel pressuring, and nobody owed either one an apology for declining.",
+        "Mercedes took the timer before I could add a dramatic sound effect. 'You know what else creates pressure? Four people watching somebody learn and saying things like obviously.' I denied having said obviously that morning. She opened her notebook. I withdrew the denial on narrow procedural grounds. We agreed that a shared game could involve quiet company, invited advice, or somebody handling an awkward operation if asked. It did not require an audience grading every decision. The person with the controls could also ask everyone else to shut up for a moment. This motion passed so quickly that I suspected prior organization.",
+        "Shawna brought out the co-op files. Some games let people control their own characters through a campaign. Some offered separate challenges. Some merely allowed two people to compete. Passing a controller around was a possible household arrangement, but it did not create a feature inside the software. I suggested that the Bureau's spirit of togetherness could bridge these distinctions. 'Your spirit can carry the mugs,' Rosa said. I carried them. From the kitchen I could hear the much more useful discussion continuing without me, which was both a logistical success and a deeply unsettling observation about the efficiency of our governance model.",
+        "When I returned, Tank had found a card game in which placement mattered and asked how moving a card actually worked. Was it a click? A held drag? Something else on a controller? I started to answer from the picture. Shawna tapped the words ACTUALLY WORKED on his note. The picture was attractive. The source described the premise. Neither told us everything a hand would need to do. We left the question visible instead of filling it with confidence. This made the file slightly less triumphant and much more trustworthy. I was learning to endure that trade, although I preferred it served with a biscuit.",
+        "The rolling pin rolled off its velvet cushion and settled against the binder, preventing the massive thing from sliding into someone's lap. Tank observed that the instrument had finally found a legitimate office. I considered arguing, then noticed how well it performed this office without a single speech. We appointed it Keeper of the Binder. The job required no crown, no agenda and no user training. Mercedes wrote the appointment on a sticky note. I permitted this modest ceremony because the trolley had been liberated, the biscuits were available, and the room had somehow become a place where choosing something could be enjoyable again."
+      ]
+    }
+  ],
+  "ending": [
+    {
+      "title": "One More Turn, If You Want One",
+      "paragraphs": [
+        "At the end of the forty files, I prepared an official ranking. It began with the title that best supported my theory of leadership and continued through a complex formula involving chairs, dramatic potential and the likelihood that a protagonist would appreciate a gold stamp. Mercedes looked at it for several seconds. Then she asked where the reader's preferences appeared. I pointed to an appendix. Shawna closed the binder very gently, the way somebody might close a cupboard after finding a raccoon inside it. We had already settled this. My entertainment could accompany the choice; it could not commandeer it by hiding the important question behind an equation.",
+        "Rosa set three empty saucers on the table. One was for things that sounded interesting. One was for things needing a practical check. One was for things we could leave alone. I immediately asked whether the saucers needed labels. 'Only if they help,' she said. This was a maddening standard because it required looking at the effect of an idea rather than admiring its appearance in my head. A title could move between saucers. A game with an awkward camera could remain a lovely story to watch together. A game with excellent pacing could still be uninteresting. None of the saucers was a verdict on anybody's worth.",
+        "Tank chose one small, ordinary action to illustrate a first trial. Inspect a card. Read what it says. Select it once. Notice what happens. The experiment did not demand winning the run, mastering the class system or promising a hundred hours to a glowing review. If a tutorial explained itself well, that was useful information. If the first menu already felt like a wall of obligations, that was useful too. I offered to record the result in the official ledger. Mercedes handed me a scrap of paper. 'One sentence will do.' The ledger was disappointed, but the scrap handled the assignment admirably.",
+        "We also left room for a more ambitious answer. Maybe someone would love a huge tactical drama, learn its menus gradually, and spend weeks discussing the characters. Depth was welcome. Nobody had to choose a smaller game merely because the Bureau had learned the word burden. The distinction was between a demand willingly enjoyed and one endured because somebody else insisted a good story justified everything. Shawna said this was obvious. Mercedes raised an eyebrow at the word. Shawna laughed and corrected herself: it was easy to forget when enthusiasm got loud. I looked around the room. Apparently this lesson had more than one authorized recipient.",
+        "The printer woke up and produced my ranking anyway. I had queued it earlier under the filename FINAL_FINAL_ACTUALLY_FINAL_WITH_PERSONAL_AUTHORITY. Tank read the name from the screen, slowly, with the devastating restraint of a man who knows the document has already written the joke for him. I said the filename reflected robust version control. Mercedes said it reflected a hostage negotiation with a spreadsheet. Rosa turned the pages over and gave them to us for notes. The ranking's blank sides became useful at once. I considered this a successful reuse of public resources and wisely declined to give it an award.",
+        "Someone chose a game. The room did not erupt in a victory ceremony. There was a little reading, a question about a control, an answer from the instructions, and enough quiet to try it. I remained beside the table with the gold stamp in my hand, waiting for a role large enough to justify my posture. Rosa asked me to move a cup out of the way. I did. This was not the heroic conclusion I had rehearsed, but it improved the view of the screen. For a man who had spent two volumes obstructing straightforward decisions with magnificence, it represented a respectable practical advance.",
+        "The wooden instrument held the binder steady. The trolley carried snacks. The printer was silent because Tank had turned it off at my request, a detail I insisted be preserved in the official history. I settled into an ordinary chair and let the next turn belong to whoever wanted it. Another move, a different game, a conversation, or stopping altogether: all valid. Mercedes caught me reaching for the stamp and slid a coaster under my hand. I stamped the coaster. APPROVED BY AIDEN. Nobody needed the approval, but the ink stayed off the table, and for that small mercy the household was prepared to recognize my administration."
+      ]
+    }
+  ]
+}

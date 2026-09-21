@@ -1,0 +1,26 @@
+{
+  "id": "P223",
+  "status": "matched",
+  "title": "Pikuniku",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/572890/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

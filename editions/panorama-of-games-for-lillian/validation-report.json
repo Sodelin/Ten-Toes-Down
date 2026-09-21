@@ -1,0 +1,97 @@
+{
+  "games": 240,
+  "cards_checked": 240,
+  "paragraphs_checked": 2213,
+  "pdf_pages": {
+    "Panorama-Volume-01.pdf": 58,
+    "Panorama-Volume-02.pdf": 51,
+    "Panorama-Volume-03.pdf": 51,
+    "Panorama-Volume-04.pdf": 50,
+    "Panorama-Volume-05.pdf": 50,
+    "Panorama-Volume-06.pdf": 50
+  },
+  "duplicate_long_paragraphs": [],
+  "short_spill_pages": [],
+  "notes": [
+    "Rasterization checks renderability; contact sheets and selected full-resolution pages require separate visual inspection.",
+    "No full game playthrough is claimed. All game fit tiers are editorial suggestions."
+  ],
+  "omnibus_page_sequence_matches_volumes": true,
+  "omnibus_links_preserved": {
+    "all_annotations": 536,
+    "internal_targets": 250,
+    "external_source_links": 286
+  },
+  "epub_xml_manifest_spine_links": "passed",
+  "pdf_unique_pages_rendered": 310,
+  "visual_review": {
+    "scope": "All 310 unique volume pages inspected at contact-sheet scale by root and two independent reviewers. No clipping, overflow, missing glyphs, unintentional blank pages or index defects found. Sparse narrative continuation pages are intentional.",
+    "detailed_pages": {
+      "volume1": [
+        12,
+        51,
+        57
+      ],
+      "volume2": [
+        24,
+        37,
+        50
+      ],
+      "volume3": [
+        37,
+        50
+      ],
+      "volume4": [
+        23,
+        42,
+        49
+      ],
+      "volume5": [
+        30,
+        44,
+        49
+      ],
+      "volume6": [
+        36,
+        44,
+        49
+      ]
+    },
+    "final_editorial_pass": "Six bounded copy edits accepted after exact source-hash checks. Rebuilt all outputs, reran complete content/link/EPUB checks, and visually reinspected affected V1 pages3,5,6,7,15 and V3 page6. Page counts and case locations unchanged.",
+    "limitations": "All pages reviewed at thumbnail scale; only listed selected pages reviewed at detailed scale. This is not individual full-resolution review of every page."
+  },
+  "browser_checks": {
+    "surface": "Codex in-app browser on localhost preview of standalone HTML",
+    "passed": [
+      "240-case initial catalogue",
+      "Exact Secret of Mana search and original-edition field",
+      "Twelve-case next/previous pagination",
+      "P001 to P002 adjacent appeal; second appeal disabled",
+      "Free refusal preserves remaining stamps",
+      "Drink+1 and stamp+2 selects P004 from base1",
+      "Cross-department appeal selects P084; further appeal and modifier disabled",
+      "Original candidate retained after appeal",
+      "No-timed-input plus camera-comfort filters produce20 explicitly declared records",
+      "Desktop visual opening checked"
+    ],
+    "not_claimed": [
+      "Specific EPUB-reader compatibility",
+      "Physical printing",
+      "Every game played"
+    ]
+  },
+  "routing_tests": {
+    "base_cases_reachable": 240,
+    "modifier_addresses_checked": 12960,
+    "invalid_input_rejection": "passed",
+    "nested_appeal_rejection": "passed",
+    "unknown_evidence_filters": "excluded",
+    "printed_example_P120": "passed"
+  },
+  "independent_editorial_audits": [
+    "All ten initially promising V1/V5 cards checked for label and catch consistency; Coffee Talk main-story restriction restored, Darkside and A Bird Story downgraded to conditional.",
+    "Printed rules versus routing implementation reviewed; snack accounting, cross-department appeal, retained original, exact edition field, nested appeal limit, veto wording and full prose search corrected.",
+    "Six additional bounded copy edits accepted from the phone task; no game facts or source URLs changed."
+  ],
+  "artifact_integrity_manifest": "SHA256SUMS, generated after final packaging; publication-plan.json records the exact upload set."
+}

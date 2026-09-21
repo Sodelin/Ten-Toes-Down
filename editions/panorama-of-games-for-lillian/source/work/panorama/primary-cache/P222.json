@@ -1,0 +1,22 @@
+{
+  "id": "P222",
+  "status": "matched",
+  "title": "PHOGS!",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/850320/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

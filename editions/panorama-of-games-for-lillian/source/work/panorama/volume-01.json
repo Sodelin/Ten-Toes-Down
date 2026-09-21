@@ -1,0 +1,1185 @@
+{
+  "number": 1,
+  "title": "The Bureau of Suspiciously Interesting People",
+  "subtitle": "Mystery, investigation and classic adventures",
+  "opening": [
+    {
+      "title": "A Small Question Requires a Building",
+      "paragraphs": [
+        "The trouble began when somebody asked what would be fun to play. An ordinary man might have named a game. I ordered a table. Not just any table: twelve feet of dark wood, brass corners, and enough gravitas to make a sandwich explain where it had been. By the time it arrived, I had founded the Bureau of Suspiciously Interesting People, appointed myself director, and requisitioned a gold stamp. The stamp said APPROVED BY AIDEN. I believed this covered the important questions.",
+        "Shawna read the delivery sheet. ‘You ordered a conference table for a question.’ ‘A serious question.’ ‘You put next-day air.’ ‘Curiosity shouldn't sit in a warehouse.’ Tank stood in the doorway holding the small red stapler that had come free with the stationery order. He clicked it once. ‘This little bastard works. Which end of the table answers questions?’ I told him logistics was not permitted to interrupt strategy. He clicked the stapler again. The sound had already acquired an opinion.",
+        "We placed forty game files on the table. They were mysteries, investigations, strange journeys, and adventures full of people who clearly needed either help or better locks. The plan was straightforward. Lillian could find something interesting, try the actual controls, and keep going only if she wanted. Unfortunately I had also commissioned a seal, a visitor register, and a ceremonial pencil too thick for the sharpener. Mercedes picked up the pencil. ‘Did the question ask to borrow a fence post?’ ‘That is executive equipment.’ ‘It's a branch with ambition.’",
+        "Rosa arrived with coffee and asked where the visitors were supposed to sit. I pointed to the far end of the table, beneath a framed chart titled THE CORRECT SEQUENCE OF ENJOYMENT. She moved the chart onto my chair. ‘They sit wherever they like.’ ‘The chart provides structure.’ ‘So does a roof. You don't make people read the roof before lunch.’ This was a strong argument, delivered by a woman carrying the lunch. I revised the seating policy immediately.",
+        "There was one sensible rule, and Shawna wrote it on the first page before I could improve it: interest comes first, actual comfort gets the final say. A game could contain an excellent murder and still require an awkward drag. A conversation could sound urgent while allowing unlimited thought. A beautiful story could arrive inside menus that made the evening feel like unpaid office work. We would keep those distinctions visible. No stamp would turn an unknown control into a verified feature. I asked whether we could stamp that rule. She took the stamp.",
+        "Tank had brought a magnifying glass. He began investigating the pastry box. ‘Half these have disappeared.’ ‘You ate them.’ ‘Allegedly.’ He inspected a crumb on his sleeve. ‘Somebody planted this.’ I admired the professionalism. Here was a man who could turn breakfast into a procedural drama without even standing up. He asked whether any of the games involved doing that. I slid the first folder across. The folder knocked over my gold nameplate. This was our first useful result.",
+        "These forty possibilities are not an order to finish forty games. Nobody owes the Bureau a complete case, a perfect answer, or another chance after something has stopped being enjoyable. Pick the title, the atmosphere, or the particular bit of nonsense that catches your attention. Read the plain account beneath my testimony. That account is where the real controls, burdens, and uncertainties live. My testimony is where an expensive man finds increasingly elaborate ways to be corrected by his friends.",
+        "I opened the binder. Its rings sprang apart with a noise like a small gate losing a legal dispute. Papers slid toward Rosa's coffee. Tank caught the coffee. Mercedes caught the source notes. Shawna caught my hand before I could bring the stamp down on a napkin. ‘We can begin,’ she said. I looked over the assembled department, the evidence, the remaining pastries, and the table that had cost more than several perfectly respectable vehicles. ‘Good,’ I said. ‘I have made this effortless.’ Tank stapled the receipt to my sleeve."
+      ]
+    }
+  ],
+  "games": [
+    {
+      "id": "P001",
+      "case_title": "The Ghost Who Refused a Visitor Badge",
+      "scene": [
+        "I introduced Joey Mallone to the Bureau's visitor policy. In my imagined demonstration he walked through the turnstile, which was unfair because I had paid extra for the turnstile. Tank asked whether a dead man counted toward the fire limit. Shawna said we were discussing The Blackwell Legacy, not opening a haunted convention center. I had already ordered lanyards.",
+        "What interested me was Rosa: somebody handed a peculiar responsibility while still dealing with an ordinary, difficult life. I offered to become her supernatural consultant. Mercedes asked what qualified me. 'Presence.' She looked at the empty chair I had reserved for Joey. 'He's got you there.' The chair received better reviews than my presentation.",
+        "We left the chair empty and opened the first file. Nobody needed to prove anything to the ghost, the notebook, or me. Rosa could discover one lead while I discovered that a visitor badge cannot improve every relationship."
+      ],
+      "pleasure": "A compact New York supernatural mystery joins a reluctant medium to a sardonic spirit guide. Conversations and notebook connections make discovery feel personal; the developing partnership offers more reason to continue than simply clearing another puzzle.",
+      "burden": "Notebook combinations, returning to locations, and remembering names remain real work. Suicide and bereavement are central. Reviews report no timed or dexterity challenges, but this is not a complete-path playtest. Current desktop patches offer manual speech advance through a Ctrl+P toggle; verify it waits.",
+      "first": "Set manual speech advance if you want it, with help if useful. Try one conversation and one notebook lead, then decide whether these two people are company worth keeping.",
+      "ruling": "Admitted because a ghost with opinions may be entertaining, and the Bureau badly needs someone who can ignore its turnstile.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "supernatural",
+        "bereavement"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/80330/",
+        "https://steamcommunity.com/app/80330/allnews/",
+        "https://www.keengamer.com/articles/reviews/the-blackwell-legacy-review/"
+      ],
+      "source_note": "Inspected publisher premise and developer Ctrl+P patch notice; timing description is a secondary review, not current complete-path testing. PC original only.",
+      "title": "The Blackwell Legacy"
+    },
+    {
+      "id": "P002",
+      "case_title": "A Department Smaller Than My Expense Account",
+      "scene": [
+        "I had sympathy for Detective McQueen's underfunded paranormal department. A man should not have to investigate a tentacle while worrying about toner. I proposed donating our surplus equipment. 'What surplus?' Shawna asked. I indicated the ceremonial pencil. 'They investigate crimes,' she said. 'They don't need another weapon.'",
+        "Tank volunteered to inventory the Bureau's supernatural incidents. He listed the printer's ability to demand cyan while printing black text, my recurring claim that the table was an investment, and a sandwich that vanished during questioning. The final suspect looked remarkably like him. He crossed that entry out on procedural grounds.",
+        "The Darkside Detective's small cases suited this department better than my grand inquiry. A few rooms, a strange problem, two people with something funny to say: enough room for an evening without requiring an empire. I lowered our proposed donation to a stapler. Tank quietly put his hand over it."
+      ],
+      "pleasure": "Comic paranormal investigations offer a recurring detective partnership and short case boundaries. Static scenes let attention settle on objects, dialogue, and absurd situations rather than keeping an avatar and camera moving together.",
+      "burden": "Current Steam metadata declares play without timed input. That does not mean hold-free: PC reviews describe dragging inventory items onto objects or other items. Pipe and tile puzzles also appear. Text reading and small hotspots deserve an actual check before treating this as comfortable.",
+      "first": "Begin the first case, inspect one object, and test one inventory drag. Check that text advance and the save/exit route feel understandable before continuing.",
+      "ruling": "Approved for anyone who suspects the printer is possessed and would enjoy watching professionals make equally questionable deductions.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "comedy",
+        "supernatural"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/api/appdetails?appids=368390&l=english",
+        "https://www.bigbossbattle.com/review-the-darkside-detective/"
+      ],
+      "source_note": "Primary Steam accessibility declarations inspected. Inventory dragging is documented by a PC review; no hold-free alternative was verified.",
+      "title": "The Darkside Detective"
+    },
+    {
+      "id": "P003",
+      "case_title": "Objection to the Sandwich Witness",
+      "scene": [
+        "I called Tank to testify about the missing sandwich. He said he had last seen it in a position consistent with lunch. I presented the plate. He objected to the plate's character. Mercedes asked whether either of us had read the file. I had underlined my own name seven times, which I considered preparation.",
+        "Phoenix Wright made my courtroom ambitions look inexpensive and poorly rehearsed. Here the pleasure was finding the statement that failed to match the evidence, not delivering an impressive noise at a man holding mayonnaise. Shawna arranged three actual facts in front of me. My argument collapsed between facts two and three.",
+        "I attempted to invoke Story Mode on the hearing. 'That's a game feature,' she said. 'You still have to explain the receipt.' I admired a system that could move a story past a roadblock. My own proceedings remained tragically manual, with no option to skip the cross-examination of the catering budget."
+      ],
+      "pleasure": "The original trilogy supplies memorable witnesses, recurring friendships, and theatrical courtroom mysteries. Comparing testimony with a piece of evidence can deliver a satisfying click of understanding; the story has room for comedy and emotional stakes.",
+      "burden": "Reading and Court Record menus are central, and wrong evidence can incur penalties. Dramatic music may feel urgent even when the interface waits. The November 2025 update adds Story Mode and Auto-play; automatic text progression may itself feel rushed. Later evidence interactions still need checking.",
+      "first": "Use the updated 2019 compilation. Start The First Turnabout with manual text advance, compare one statement, and use Story Mode whenever enjoying the next scene matters more than solving it.",
+      "ruling": "Selected because an objection should sometimes be supported by evidence, a principle the Bureau is introducing on a trial basis.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "comedy",
+        "courtroom"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/787480/",
+        "https://steamcommunity.com/app/787480/announcements/"
+      ],
+      "source_note": "Current Steam declares play without timed input; Capcom November 2025 notice confirms Story Mode for this 2019 trilogy. No hands-on audit of all cases or holds.",
+      "title": "Phoenix Wright: Ace Attorney Trilogy"
+    },
+    {
+      "id": "P004",
+      "case_title": "The Fern Has Retained Counsel",
+      "scene": [
+        "I opened a botanical branch of the Bureau with one fern and an intimidating brass label. Tank asked its name. 'Executive Verdance.' Rosa turned the pot around. The nursery label said Dave. 'Dave has seniority,' she told me. The fern immediately looked more difficult to dismiss.",
+        "Strange Horticulture offered a much better reason to keep plants on a desk: their identities and effects mattered to an unfolding occult mystery. I attempted to identify Dave from his expression. Shawna supplied the relevant correction: plants do not become poisonous because they disapprove of management. Mercedes said this was fortunate for everyone in the room.",
+        "The actual attraction was the little act of matching an observed detail to a book, then seeing where that knowledge led. I reached for another label. Rosa stopped me. 'Find out what it is first.' We wrote that on the Bureau's purchasing forms. Several departments ceased to exist overnight."
+      ],
+      "pleasure": "A rain-soaked plant shop provides a recurring home base, curious customers, and an occult story. Identifying specimens connects looking closely with useful decisions, while letters and map clues gradually widen the world beyond the counter.",
+      "burden": "Books, plants, labels, letters, and a map can create substantial cross-referencing. Desk objects use dragging; a developer patch added a double-click sticky-drag alternative, whose own double-click demand needs testing. Wrong answers raise Rising Dread and can lead to a recovery puzzle. Calm presentation is not simplicity.",
+      "first": "Identify one customer’s plant with the reference book. Compare ordinary dragging with the documented sticky option before adding map exploration or several simultaneous questions to the desk.",
+      "ruling": "Filed under interesting plants, with a separate order forbidding me from granting a fern executive authority before checking its species.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "occult",
+        "atmospheric"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1574580/",
+        "https://steamdb.info/patchnotes/8300183/",
+        "https://www.gamesradar.com/have-you-tried-strange-horticulture/"
+      ],
+      "source_note": "Publisher premise inspected; developer patch mirrored on SteamDB supports sticky dragging. No-customer-deadline observation is secondary, not full-path verification.",
+      "title": "Strange Horticulture"
+    },
+    {
+      "id": "P005",
+      "case_title": "A Statue With No Respect for the Seating Chart",
+      "scene": [
+        "The Golden Idol file arrived beside my gold stamp, and for a moment I enjoyed the resemblance. Then Shawna read the part about strange deaths. I moved the stamp farther away. Tank moved his chair farther away from both. Nobody appreciated my explanation that mine was merely expensive, not cursed.",
+        "I staged a practice scene using three paper figures and a fallen biscuit. Mercedes was asked to determine the motive. 'You wanted everyone looking at your statue.' 'The biscuit could have been politically significant.' She assigned it to the snack column. The clarity of her reasoning was becoming a professional problem.",
+        "A frozen scene was an inviting proposition: look again, compare the objects, reconsider who did what. It did not promise that the deduction would be easy. Shawna made that distinction before I could declare myself a genius for identifying the biscuit. Then Tank ate the murder weapon and our reconstruction acquired a second suspect."
+      ],
+      "pleasure": "Static scenes of suspicious deaths become a larger conspiracy as names, objects, and motives connect. The reward is constructing an explanation that fits the evidence, with visual detail and social relationships doing much of the storytelling.",
+      "burden": "Later cases add many names, roles, and possible words. Murder imagery is deliberate, and the grotesque art may not be welcoming. This card concerns the original game with its current Redux edition, not Rise. Check exact word-placement, text size, and hint controls rather than assuming every release behaves identically.",
+      "first": "Study the first scene and identify the people before attempting its full explanation. Try moving one word into a deduction slot, then inspect the hint interface if curiosity has turned into bookkeeping.",
+      "ruling": "Suitable for an evening of suspicious objects, provided my gold stamp is kept outside the evidence room and preferably outside the building.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "macabre",
+        "deduction"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1677770/",
+        "https://steamcommunity.com/app/1677770/allnews/"
+      ],
+      "source_note": "Publisher describes freely investigated freeze-frame scenes; current-edition announcements establish Redux. Drag/hold behavior and full completion were not playtested.",
+      "title": "The Case of the Golden Idol"
+    },
+    {
+      "id": "P006",
+      "case_title": "The Business Trip That Refused to End at Lunch",
+      "scene": [
+        "Kate Walker travels to arrange a factory sale. I understood immediately: arrive, sign something, discover a machine with a personality, and accidentally become responsible for an entire journey. Tank said I had managed the same result buying a table. I told him my transaction had international significance. He held up the assembly instructions in six languages.",
+        "Syberia's automata appealed to my standards of office equipment. A machine should have dignity. It should also perform a recognizable task, a requirement our printer had been evading with artistic confidence. Shawna pointed out that Kate's journey mattered because her priorities changed, not because she bought a more impressive machine.",
+        "I prepared an itinerary titled QUICK STOP. Mercedes asked why it contained a train, an inventor, and half a continent. 'Flexibility.' She crossed out quick. We kept the journey and lost the sales pitch. That seemed closer to the game's promise, and considerably kinder to anyone reading my travel arrangements."
+      ],
+      "pleasure": "The original Syberia follows a lawyer into an unusual European world of mechanical wonders and unfinished lives. Kate's changing sense of what matters gives the travel emotional momentum beyond collecting the next useful object.",
+      "burden": "This is the 2002 PC original, not the remaster. Click movement removes a separate look control, but fixed camera cuts, small hotspots, dialogue topics, inventory, and repeated travel can still frustrate. The publisher walkthrough's late sections use ordinary interactions; that is not an exhaustive no-timer guarantee.",
+      "first": "Explore the opening hotel, speak with one person, and test the inventory and save route. Let one useful object establish whether the older interface is inviting before committing to a long journey.",
+      "ruling": "Recommended when a peculiar train sounds more appealing than a realistic business meeting, which is a demanding but reasonable standard for an evening.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "melancholy",
+        "journey"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/46500/",
+        "https://support.microids.com/fr/support/solutions/articles/23000009217-solutions-syberia-1-et-2"
+      ],
+      "source_note": "Inspected original-game publisher description and seven-page official walkthrough, including late sequences. Original PC control scope only; no full playtest.",
+      "title": "Syberia"
+    },
+    {
+      "id": "P007",
+      "case_title": "My Companions Demand a Better Selection Screen",
+      "scene": [
+        "Unavowed offers companions with different talents. I announced that the Bureau already possessed the ideal team. Shawna could distinguish a fact from my enthusiasm, Rosa could feed people without founding an empire, Mercedes could end a foolish speech with one eyebrow, and Tank could carry the empire to the recycling bin. My own talent was leadership. Nobody wrote that down.",
+        "I tried selecting the day's party by arranging their photographs on the desk. Mercedes picked hers up. 'Ask.' 'This is a strategic interface.' 'Ask strategically.' So I asked who wanted to investigate a hidden supernatural New York. The conversation improved once the photographs stopped pretending to make decisions.",
+        "What caught me was the possibility of learning about people through the problems they solve together. Then Shawna read the content warning and the companion-ability demands. We placed both beside the promise. A rich ensemble could be worth the work, but even my department could not turn darkness into a light snack by changing the folder color."
+      ],
+      "pleasure": "An urban-fantasy investigation puts companions, their histories, and their abilities at the center of puzzle solving. Origins and branching situations give the ensemble room to react differently, making the people a reason to explore the next case.",
+      "burden": "Inventory plus companion abilities creates more to remember than a simple conversation game. Violence, possession, death, and strong language are substantial. Ordinary PC interaction is pointer-based, but urgent scenes and every branch's timing or holding demands have not been fully audited.",
+      "first": "Choose an origin because it sounds interesting, meet the opening companions, and try one interaction. Verify text waiting and pause on the actual edition before relying on the adventure's slower ordinary rhythm.",
+      "ruling": "Granted an ensemble permit because four interesting companions can justify a longer story; they cannot justify my attempt to assign friendship through office photographs.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "dark",
+        "ensemble"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/336140/",
+        "https://gamecritics.com/gc-staff/unavowed-review/"
+      ],
+      "source_note": "Primary publisher premise and companion features inspected. PC interaction and content detail supported by review; zero timed inputs across branches remains unverified.",
+      "title": "Unavowed"
+    },
+    {
+      "id": "P008",
+      "case_title": "The Search Term Was Not My Name",
+      "scene": [
+        "Her Story places an interview archive in front of the player. I entered my own name into our practice database, expecting relevance to recognize me. It returned a receipt for seventeen brass drawer handles. Tank leaned over. 'Strong opening. Motive established.' I suggested a more glamorous search term. Shawna suggested reading the result.",
+        "The game's unusual invitation was to notice a word, search it, and let another fragment change the question. Mercedes liked that the story did not need me to march a little man through a hallway before listening to a woman speak. I objected to the little man characterization. She clarified that she meant me.",
+        "I began creating a wall of theories. Rosa removed three arrows that all pointed to my photograph. We kept one question on a card instead. A story assembled from fragments could be compelling; it could also become a pile of names. The Bureau had produced enough piles to respect the distinction."
+      ],
+      "pleasure": "A live-action police interview mystery lets a noticed word become the next direction of exploration. Performance, contradiction, and interpretation supply the interest; there is no avatar or separate look camera between the player and the testimony.",
+      "burden": "Typing, names, nonlinear clips, and remembering what a phrase referred to can be demanding. Convenient video pausing is unverified: player reports describe holding the slider to freeze a clip. Do not assume search-at-your-own-pace means hands-free pause during playback. Crime and relationship material is mature.",
+      "first": "On desktop, watch one returned clip, test how it stops or replays, and follow one promising word. Keep a short question nearby only if it helps preserve the thread.",
+      "ruling": "Accepted because the next useful clue may be a word rather than a key, and because the archive is under no obligation to admire my drawer handles.",
+      "input": "text",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "adult",
+        "ambiguous"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/368370/",
+        "https://steamcommunity.com/app/368370/discussions/0/530645446312998268/"
+      ],
+      "source_note": "Primary publisher describes search/watch loop. Pause limitation is dated secondary user evidence, not verified current behavior; Telling Lies controls must not be substituted.",
+      "title": "Her Story"
+    },
+    {
+      "id": "P009",
+      "case_title": "A Very Poor Location for the Staff Picnic",
+      "scene": [
+        "I saw an atmospheric Yorkshire village and proposed a Bureau retreat. Rosa asked what the trip involved. 'History. Countryside. A burial mound.' She stopped packing the picnic basket. Tank asked whether the mound had parking. Mercedes asked whether it had a reason to stay buried. Shawna read the words folk horror aloud until my brochure began to look dishonest.",
+        "The Excavation of Hob's Barrow interested me precisely because its landscape and people withheld an easy answer. Thomasina arrives to investigate, and the invitation does not become less peculiar when she reaches it. I respected a story with the confidence to make a village feel like an unresolved question.",
+        "I changed the excursion form from relaxing getaway to dark story for those who want one. Rosa put the basket away. 'Better.' Tank kept one sandwich for emergency research. We could appreciate atmosphere without pretending dread was a hospitality feature. My proposed lantern budget remained excellent, but irrelevant."
+      ],
+      "pleasure": "Victorian folk horror gives its investigation a strong sense of place: moors, suspicious villagers, an antiquarian, and a burial mound. For someone who enjoys unease, the slow accumulation of wrongness may be as engaging as solving the inventory puzzles.",
+      "burden": "Bleak horror, violence, and abrupt audiovisual moments can create pressure without a reflex timer. PC descriptions include inventory dragging. A Switch accessibility assessment reports low pressure and optional holds, but that does not prove hold-free PC play. Later puzzle chains still require remembering information.",
+      "first": "Try the opening village and one conversation. Test an inventory action and text advance on the exact edition; leave if the atmosphere itself is unpleasant, even if the controls behave perfectly.",
+      "ruling": "Issued a lantern rather than a cozy stamp: suitable only when suspicious soil sounds like an invitation instead of a reason to choose another room.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "folk_horror",
+        "bleak"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1182310/",
+        "https://www.nintendolife.com/reviews/switch-eshop/the-excavation-of-hobs-barrow",
+        "https://as.com/meristation/2022/09/28/analisis/1664375021_208084.html"
+      ],
+      "source_note": "Publisher horror premise inspected. Switch low-pressure panel and PC drag description are secondary and edition-specific; no blanket control guarantee.",
+      "title": "The Excavation of Hob's Barrow"
+    },
+    {
+      "id": "P010",
+      "case_title": "The Meeting That Consumed Tuesday",
+      "scene": [
+        "Pentiment made me nostalgic for a time when an important man could spend an afternoon discussing art and call it work. Shawna said I had done that yesterday while choosing the border on my nameplate. 'Historical continuity,' I explained. She opened the receipt and found the extra charge for historical continuity.",
+        "The game's community changes through relationships and decisions, and investigating one lead can mean leaving another behind. I attempted to solve this by scheduling every conversation simultaneously. Tank attended a meeting with three empty chairs and a bowl of nuts. He reported unanimous agreement that the bowl should be larger.",
+        "There was no need to race a button press to find this sort of choice weighty. Mercedes crossed out my phrase perfectly relaxing. She replaced it with interesting if consequential decisions appeal. I protested that this was less marketable. 'Good,' she said. 'Now it tells somebody something.' The nameplate border survived, but the sales pitch did not."
+      ],
+      "pleasure": "A richly drawn historical community makes art, class, faith, and personal loyalties part of the investigation. People and consequences unfold over years, offering conversation and interpretation rather than a constant demand for quick physical reactions.",
+      "burden": "Developer accessibility notes state there are no timed inputs or QTEs. Investigation time still advances through chosen activities, which creates decision pressure. Reading is extensive, movement may require holding, and names and relationships accumulate. Narration support differs by platform; do not assume every line is spoken.",
+      "first": "Try walking and one early conversation with readable text settings. Notice whether choosing a lead feels intriguing or burdensome before promising yourself an entire investigation or an optimal outcome.",
+      "ruling": "Registered for readers who enjoy a community with arguments worth hearing, subject to the finding that my calendar cannot make two afternoons out of one.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "historical",
+        "consequential"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://pentiment.obsidian.net/",
+        "https://www.mmorpg.com/interviews/the-rpg-files-building-obsidians-pentiment-interview-with-game-director-josh-sawyer-2000126821"
+      ],
+      "source_note": "Inspected developer accessibility notes and first-hand interview on activity-based investigation time. Turn pacing differs from decision pressure; actual movement setup untested.",
+      "title": "Pentiment"
+    },
+    {
+      "id": "P011",
+      "case_title": "Yesterday Is Outside the Refund Window",
+      "scene": [
+        "I wanted a time-travel department for one specific purpose: canceling the table order before Shawna saw it. Tank said we could also retrieve the pastry he dropped that morning. Mercedes proposed returning to the exact second before I founded the department. I began to suspect our historical priorities were incompatible.",
+        "Old Skies assigns Fia Quinn the job of supervising paying travelers through the past. This sounded alarmingly like customer service with consequences larger than a bad review. I composed a waiver. Shawna read the first line, which excused me from responsibility for the nineteenth century, and put it in the shredder.",
+        "The attraction was not simply visiting different dates. It was encountering people with reasons to go back, then dealing with what those reasons meant. I had been thinking about furniture; the game had unfinished lives in mind. Tank quietly removed his pastry request, although he asked whether crumbs counted as a historical record."
+      ],
+      "pleasure": "A time agent's work provides seven historical settings and travelers with different motives. Temporal puzzles and a voiced ensemble connect the speculative premise to questions about regret, curiosity, and the consequences of changing what already happened.",
+      "burden": "The publisher explicitly says the player can die and try again. That is a meaningful failure-state warning, not proof of harmless pacing. Temporal cause and effect can increase memory demands, and later timing, dragging, and dialogue advance need an edition-specific check. Some historical settings carry serious emotional weight.",
+      "first": "Meet Fia and inspect the first assignment before promising a complete excursion. Test ordinary object interaction and the pause/save route; treat any stressful sequence as a reason to reconsider, not an examination to pass.",
+      "ruling": "Authorized for curiosity about yesterday, with a strict prohibition on using the past to conceal my perfectly traceable furniture expenditure.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "science_fiction",
+        "mystery",
+        "regret"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1346360/"
+      ],
+      "source_note": "Inspected publisher description: time-agent premise, historical eras, temporal puzzles, and retryable death. No declared absence of timed sequences established.",
+      "title": "Old Skies"
+    },
+    {
+      "id": "P012",
+      "case_title": "The Printer Discovers Religion",
+      "scene": [
+        "Primordia concerns robots living among the remains of humanity. I explained this premise to our printer, hoping it would develop perspective. It requested magenta. Tank said perhaps that was its sacred text. I opened the maintenance panel and found enough paper dust to establish a small archaeological site.",
+        "Horatio and Crispin's search for a stolen power core struck me as a sensible beginning for a much larger question. Who made this world? What did its makers leave behind? Why does every office possess a cable that fits nothing? Shawna told me the last question was ours, not the game's, and handed me another useless cable.",
+        "I liked the contrast between a solitary, principled machine and a companion willing to answer back. Mercedes said we already had that dynamic, except I was neither solitary nor a machine and my principles came with accessories. The printer hummed. For the first time I thought it might be laughing at the correct person."
+      ],
+      "pleasure": "A robot partnership explores a post-human landscape and a city whose history changes the meaning of the initial theft. Mechanical decay, belief, independence, and companion banter make its world distinctive rather than merely another collection of locked doors.",
+      "burden": "Environmental and inventory puzzles still ask for connections and returning to details. Optional puzzles exist, but optional extras do not make the main path effortless. The inspected storefront does not certify zero timers, no holds, or a particular text-wait setting; those remain checks, not benefits to assume.",
+      "first": "Spend an opening scene with Horatio and Crispin. Try examining one object and following one concrete problem, then decide whether the world's mood and puzzle language invite another visit.",
+      "ruling": "Entered because a philosophical robot may provide better company than an actual office printer, despite both having strong opinions about power supplies.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "science_fiction",
+        "melancholy",
+        "banter"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/227000/"
+      ],
+      "source_note": "Inspected exact-game publisher description for robots, stolen core, Metropol and optional puzzles. Control and complete-path timing guarantees were not found in that record.",
+      "title": "Primordia"
+    },
+    {
+      "id": "P013",
+      "case_title": "The Carnival Fails Its Hospitality Inspection",
+      "scene": [
+        "I suggested a carnival theme for the Bureau's open evening. Rosa asked what attractions I had in mind. I showed her Strangeland: a nightmare park, unsettling inhabitants, and a mystery connected to a woman's repeated death. She returned my proposed welcome banner face down. 'You need to say horror before you say outing.'",
+        "The game interested Mercedes because its strange images had something to mean, not simply something to startle. I attempted a profound interpretation of our broken copier. She unplugged it. 'Some metaphors are just broken equipment.' Tank had already named the snack cabinet the Furnace of Endless Want. We allowed that one to stand.",
+        "There could be pleasure in deciphering this disturbing world, provided disturbing was what somebody actually wanted. We replaced the carnival invitation with a clear description. No smiley sticker made it gentler. I kept one balloon for myself. It deflated during my explanation of symbolism, which seemed unnecessarily editorial."
+      ],
+      "pleasure": "A surreal carnival turns identity, grief, and interpretation into an adventure's setting and puzzles. The publisher describes different solutions and meanings, a voiced cast, and an optional in-character hint system, giving the strange inhabitants more purpose than decoration.",
+      "burden": "Suicide imagery, repeated death, grotesque bodies, and horror are central. Alternative puzzle solutions do not establish a fully reaction-free path; the publisher itself contrasts a shooting approach with another solution. Inventory reasoning and symbolic interpretation can also be substantial. Verify actual interaction before relying on a particular route.",
+      "first": "Read the premise and look at the opening atmosphere before beginning an investigation. If that is appealing, try one conversation and locate the optional hint system; no need to demonstrate tolerance for distressing imagery.",
+      "ruling": "A permit for the deliberately uncanny, withdrawn immediately if the desired carnival contains ordinary popcorn and no existential furnace.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "horror",
+        "surreal",
+        "grief"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1369520/"
+      ],
+      "source_note": "Inspected publisher description explicitly covers nightmare imagery, multiple solutions and hints. No universal timing or hold exemption inferred from those alternatives.",
+      "title": "Strangeland"
+    },
+    {
+      "id": "P014",
+      "case_title": "The Stamp Cannot Distribute Hope",
+      "scene": [
+        "Shardlight's city is ruled by people controlling scarce resources. I immediately hid the Bureau's snack ledger. Rosa found it anyway. 'This says executive biscuits.' 'A quality distinction.' 'It says everyone else may apply.' Tank had filled out three applications under different names, all with the same mustard fingerprint.",
+        "Amy Wellard's search for a cure was a different scale of story entirely: a person trying to act inside an unjust system rather than waiting for it to become kind. I took the gold stamp off the table. Some premises do not need management jokes at the center of their explanation. The joke could stay where it belonged, on my ridiculous ledger.",
+        "Mercedes opened the cupboard and redistributed the biscuits without commissioning a reform paper. Shawna wrote down the game's bleakness beside its appeal. A determined heroine and a troubled world might be engrossing, but nobody had asked us to disguise disease and deprivation as a pleasant afternoon in a village."
+      ],
+      "pleasure": "Amy's investigation gives an oppressive post-apocalyptic world a personal point of entry. The premise puts inequality, loyalty, and the search for a cure into the story, offering a protagonist with a concrete reason to keep asking difficult questions.",
+      "burden": "Disease, hunger, death, and coercive government are explicit parts of the setting. They can make the experience emotionally heavy even during quiet interaction. Adventure puzzles bring inventory and clue demands. The source inspected here does not establish all-path timing, holding, or dialogue-wait behavior; those require a specific check.",
+      "first": "Try the opening conversation and one stated task only if the setting appeals. Test an inventory interaction and find save/quit before taking on the wider investigation or its darker consequences.",
+      "ruling": "Chosen for a heroine willing to challenge the people controlling the cupboard; the Bureau's executive biscuit classification has consequently been abolished.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "dystopian",
+        "mystery",
+        "bleak"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/336130/"
+      ],
+      "source_note": "Exact publisher premise inspected, including deprivation and vaccine lottery. Pointer-adventure classification is editorial; no complete-path control verification claimed.",
+      "title": "Shardlight"
+    },
+    {
+      "id": "P015",
+      "case_title": "Central Has Denied My Password Request",
+      "scene": [
+        "Technobabylon's future includes an omnipresent city AI. I offered our printer the position on a temporary basis. It went offline. Mercedes said this was the clearest policy decision the Bureau had received all morning. Tank asked whether the AI could locate his headphones. They were around his neck; he requested that this remain classified.",
+        "The game's three perspectives interested me more than the impressive machinery. People inside the same system could have sharply different loyalties, vulnerabilities, and reasons for breaking its rules. Shawna liked that distinction. I tried adding it to the department charter. The charter immediately exceeded the stapler's capacity.",
+        "We put the cyberpunk file beside the words mature themes, not under the category shiny future. I had once assumed a good interface could solve any institutional problem. Then I remembered the lunch-order spreadsheet I built with seventeen required fields. Rosa brought me a sandwich and refused to call it a workflow improvement."
+      ],
+      "pleasure": "Interwoven perspectives bring a cyberpunk city's systems down to individual choices and loyalties. A police conspiracy, virtual experience, and complicated personal stakes can supply a rich story for someone who enjoys gradually discovering how a speculative society works.",
+      "burden": "Three protagonists, unfamiliar terms, inventory solutions, and layered motives increase the amount to track. The publisher warns of mature themes and violence. Point-and-click presentation does not establish that every later confrontation waits indefinitely, nor that every interaction avoids holds; the inspected source leaves those questions open.",
+      "first": "Follow one opening character and one immediate objective. Check text advance, ordinary interaction, and saving before deciding whether learning this future feels interesting rather than like another system to administer.",
+      "ruling": "Filed for readers who want to question a powerful computer without spending the entire evening explaining to my printer that it is already connected.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "science_fiction",
+        "noir",
+        "conspiracy"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/307580/"
+      ],
+      "source_note": "Inspected publisher account of three protagonists, Central, Trance, conspiracy and mature content. Exact late-game input demands remain unverified.",
+      "title": "Technobabylon"
+    },
+    {
+      "id": "P016",
+      "case_title": "The Department Purchases a Saxophone Alibi",
+      "scene": [
+        "Blackwell Unbound begins its invitation with 1973 New York and an ethereal saxophone. I decided the Bureau required a more atmospheric entrance. Tank found a recording on his phone. Unfortunately an advertisement for patio furniture interrupted the haunting. The room became melancholy about discounted cushions.",
+        "Lauren Blackwell and Joey investigate connections ordinary people have missed. I liked a mystery built from a sound in one place and suspicious trouble elsewhere. Shawna asked whether our new saxophone budget connected to my recent interest in wearing a long coat indoors. I said the evidence was circumstantial. Mercedes said the coat still had the tag on it.",
+        "We distinguished this earlier-set story from Rosa's first adventure instead of pretending a sequel number explained everything. Familiarity could help, but it was not an admission requirement set by me. Rosa switched off the advert. The quiet that followed was excellent, and unlike the coat, it had cost us nothing."
+      ],
+      "pleasure": "An earlier Blackwell investigation changes the central human partner while retaining Joey's sardonic presence. Period New York, a ghostly musician, and apparently separate incidents provide a contained supernatural mystery with a different emotional texture from Legacy.",
+      "burden": "Clues, names, dialogue topics, and switching attention between the living and the dead can still require tracking. This title's publisher record does not certify the same manual-speech patch behavior as another Blackwell game. Do not transfer Legacy's review-based timing assurance or Ctrl+P setup without checking this edition.",
+      "first": "Meet Lauren and Joey, listen to the first lead, and inspect the actual text and interaction settings. Continue because their relationship interests you, not because a series order has become another obligation.",
+      "ruling": "Issued a period-appropriate file for anyone tempted by a supernatural saxophone, with the Bureau's patio-furniture advertisement removed from the atmosphere.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "supernatural",
+        "melancholy"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/80340/"
+      ],
+      "source_note": "Inspected publisher description establishes Lauren, Joey, 1973 and connected incidents. Input settings and no-timer claims are not inherited from other series entries.",
+      "title": "Blackwell Unbound"
+    },
+    {
+      "id": "P017",
+      "case_title": "The Empty Office Has a Better Lease Than We Do",
+      "scene": [
+        "Blackwell Convergence offers an empty uptown office, a troubled film, an artist, and an investor. I liked the empty office best until Shawna reminded me that it was evidence, not available workspace. I had already measured where the table might go. Tank asked whether a haunting reduced the deposit.",
+        "A story drawing separate city lives together suited the Bureau's finest habit: suspecting that everything was connected. Mercedes pointed out that our missing labels and our jammed printer were connected because I had fed the labels into the wrong tray. Not every conspiracy required a corkboard. Some required reading the arrow on a box.",
+        "Still, there was pleasure in seeing a familiar partnership follow a new set of threads. We placed the game beside its predecessors without claiming that returning characters eliminated every burden. I crossed out my property inquiry. Shawna kept the measuring tape, correctly anticipating that I would mistake another mysterious room for a branch office."
+      ],
+      "pleasure": "Rosa and Joey return to a city mystery whose apparently separate people and locations conceal a larger connection. Familiar characters can make another investigation attractive after an earlier entry, while the art, film, and finance setting gives it a specific flavor.",
+      "burden": "This is a later series entry, so character history and supernatural rules add context to the clues. Inventory and conversational deductions remain work. The inspected publisher description establishes the premise, not a guarantee about timed scenes, held inputs, or current dialogue controls on every version.",
+      "first": "If the partnership already appeals, investigate one opening location and one lead. Check text waiting and item use on this installation rather than relying on remembered settings from a different Blackwell title.",
+      "ruling": "Accepted for the pleasure of discovering why strangers share a secret, with an explicit ban on converting an unoccupied crime scene into my executive suite.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "supernatural",
+        "urban"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/80350/"
+      ],
+      "source_note": "Publisher premise inspected for connected film, office, artist and investor story. Later-series burden is editorial judgment; control guarantees remain unverified.",
+      "title": "Blackwell Convergence"
+    },
+    {
+      "id": "P018",
+      "case_title": "The Fortune Teller Predicts a Rejected Expense Claim",
+      "scene": [
+        "I set up a neon sign promising wealth, happiness, and a correctly sorted game shelf. Mercedes asked which promise I could substantiate. I demonstrated the sign's excellent electrical workmanship. She unplugged it. The future became darker but more accurate.",
+        "Blackwell Deception concerns people exploiting hope, and the spirits left behind when their victims die. That made the distinction between an entertaining mystery and an actual promise particularly useful. Shawna took my APPROVED stamp away from the recommendation column. 'Nobody gets guaranteed happiness from stationery.' Tank asked whether the guarantee included the neon sign's return policy.",
+        "Rosa and Joey's investigation could still be inviting: clubs, apartments, a yacht, and secrets with personal consequences. I pictured myself arriving discreetly at the yacht. Everyone pictured the opposite. We left the game to its detectives and the sign to its box. On the box, Tank wrote FUTURE PENDING REFUND in very clear letters."
+      ],
+      "pleasure": "A mystery about fraudulent psychics lets an established supernatural partnership investigate both exploitation and personal secrets. Contrasting city settings and Joey's buried history may reward someone already curious about these characters rather than only the next puzzle solution.",
+      "burden": "Death and manipulation of vulnerable hopes are central themes. Existing series relationships, dialogue, and clue connections can accumulate. The publisher premise does not establish an all-path absence of timed inputs or holds. Current text advance and inventory behavior should be checked independently of earlier Blackwell editions.",
+      "first": "Try one conversation and one lead if Rosa and Joey are welcome company. Notice the tone as well as the controls; interest in supernatural mysteries does not require enjoying every kind of darker subject.",
+      "ruling": "Granted investigation rights because a story can question false promises while offering good company; my neon happiness guarantee has been removed from service.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "supernatural",
+        "deception"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/80360/"
+      ],
+      "source_note": "Inspected exact-game publisher description of psychic fraud and Joey's secrets. No unsupported transfer of input or timing features from another Blackwell game.",
+      "title": "Blackwell Deception"
+    },
+    {
+      "id": "P019",
+      "case_title": "The Blizzard Is Not a Seasonal Decoration",
+      "scene": [
+        "I requested snow for the Bureau's winter mystery display. The supplier asked how much. 'Enough to suggest depth.' Tank read Blackwell Epiphany's premise and said we should start by suggesting a coat. Shawna pointed to the threat against the dead themselves. I quietly removed the phrase festive chills from the welcome card.",
+        "A series reaching a grave question about its own supernatural world could be powerful precisely because the characters had become familiar. Mercedes said that was different from requiring everyone to begin with the finale. I had been about to announce a shortcut through four games. Apparently emotional context could not be expedited by courier.",
+        "We placed the file near the earlier investigations, with room for someone to choose the beginning instead. Tank put the artificial snow back in its carton. One handful remained on my chair. When I sat down, a glittering cloud rose around the director, providing all the seasonal foolishness the room actually needed."
+      ],
+      "pleasure": "The final Blackwell story raises the stakes around Rosa, Joey, and the nature of the spirits they help. For someone already attached to the partnership, the larger mystery offers emotional continuity and the possibility of a meaningful series conclusion.",
+      "burden": "Destruction of souls, death, and a bleak winter atmosphere make this a darker choice. It is a later entry with accumulated character history, not necessarily the best introduction. The publisher's story description does not verify every timed, held-input, or text-advance behavior; inspect this edition directly.",
+      "first": "Consider whether earlier Blackwell stories sound more inviting before opening the finale. If continuing an enjoyed series, try the opening investigation and verify dialogue waiting and saving without committing to finishing its darker arc.",
+      "ruling": "Reserved for an existing attachment to these two investigators, not for my theory that putting snow on a folder makes tragedy suitable for a holiday party.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "supernatural",
+        "dark"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/236930/"
+      ],
+      "source_note": "Inspected publisher description of the central threat. Series-position recommendation is editorial; no complete-path control or emotional-fit guarantee.",
+      "title": "Blackwell Epiphany"
+    },
+    {
+      "id": "P020",
+      "case_title": "The Donation Arrives With a Question Mark",
+      "scene": [
+        "An unexpected payment arrived at the Bureau, and I immediately planned a second nameplate. Shawna checked the envelope. It was a refund for a canceled nameplate. Tank said the department had finally discovered a renewable source of disappointment.",
+        "The Shivah begins with a financially troubled rabbi receiving money from a dead former congregant and being unable to simply take the windfall at face value. The interesting part was conscience making an apparently convenient answer insufficient. I understood that in principle. In practice, I had already selected the second nameplate's lettering.",
+        "Mercedes asked what I would do if the money carried a difficult history. 'Investigate.' 'Before buying the sign?' I took a moment to demonstrate thoughtfulness. Rosa set a plain handwritten label on my desk. It said AIDEN, in ordinary ink, and performed the entire job. We gave the fictional rabbi his moral question and left my stationery problem at an appropriately smaller scale."
+      ],
+      "pleasure": "A short-form mystery places conscience, faith, and doubt inside a specific New York community. Russell Stone's reason to investigate is personal and ethical, giving the conversations an appeal beyond collecting evidence for an abstract case.",
+      "burden": "This card specifies the Kosher Edition, whose publisher lists revised presentation, voiced dialogue, multiple endings, and a distinctive conversation/combat system. That last feature requires checking rather than assuming all point-and-click interaction is relaxed. Death, cynicism, and moral decisions also give it a serious tone.",
+      "first": "Meet Rabbi Stone and hear the premise. Preview how a conversation choice works and how to save or leave; do not use the early calm as proof that the later confrontation has no timing demands.",
+      "ruling": "Accepted when an inconvenient moral question sounds more interesting than an uncomplicated windfall; the Bureau will investigate its refund before ordering anything engraved.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "moral",
+        "serious"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://wadjeteyegames.com/games/the-shivah/"
+      ],
+      "source_note": "Inspected publisher's explicitly titled Kosher Edition page, including conversation/combat and endings. Timing and holds not verified; unrelated or unresolved store matches excluded.",
+      "title": "The Shivah: Kosher Edition"
+    },
+    {
+      "id": "P021",
+      "case_title": "Four Witnesses, One Deeply Suspicious Whiteboard",
+      "scene": [
+        "I announced that our investigation now required four simultaneous versions of me. Shawna asked whether one reliable version might be a cheaper pilot. I explained that Resonance followed four people whose lives converged around dangerous scientific work. Clearly, a man with my range should cover at least three of them. Tank put four mugs on the desk and watched me lose track of which one contained tea.",
+        "The whiteboard was divided into LONG-TERM MEMORY, SHORT-TERM MEMORY, and THINGS AIDEN SAID WITH CONFIDENCE. Mercedes drew a thick border around the last section. 'Separate evidentiary standard.' I connected the tea mugs with red string, which made the drinking arrangements considerably worse without advancing particle physics.",
+        "When Rosa asked what the actual appeal was, I said secrets, intersecting lives, and the pleasure of noticing connections. 'Good,' she said. 'Leave that on the board.' The rest came down, including the string attached to my watch."
+      ],
+      "pleasure": "Four playable characters approach a science-fiction conspiracy from different lives and loyalties. The unusual memory system lets remembered subjects become conversation material, giving investigation more texture than simply collecting objects and exhausting a fixed list of questions.",
+      "burden": "Character switching, separate knowledge, inventory and two kinds of stored memory create substantial bookkeeping. The developer's dramatic race-against-the-clock wording does not establish which passages use actual timers. Required late action and held-input demands remain unverified; this is a conditional mystery, not a no-rush certification.",
+      "first": "Explore one character's first available conversation and inspect how a remembered subject becomes a question. Keep a short note with that character's name and immediate objective before considering a second viewpoint.",
+      "ruling": "Admit when connecting four suspicious lives sounds enjoyable; decline if the Bureau's four-mug incident already resembles an unpaid administrative position.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "conspiracy"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://wadjeteyegames.com/games/resonance/"
+      ],
+      "source_note": "Developer page supports four playable characters and the long-/short-term memory system. It does not verify a wholly untimed path. This is Wadjet Eye's adventure, not another product with Resonance in its name.",
+      "title": "Resonance"
+    },
+    {
+      "id": "P022",
+      "case_title": "The Raincoat Does Not Remove the Gunfight",
+      "scene": [
+        "I wore a raincoat into the Bureau to establish noir credibility. The ceiling was dry. Tank supplied a small watering can and asked whether authenticity should include the paperwork. Gemini Rue looked exactly like the sort of rain-soaked, compromised future in which I could deliver an excellent monologue beside a broken neon sign.",
+        "Mercedes read the file. 'There's combat.' I continued gazing mournfully through the window. 'A troubled man confronts his past.' 'And combat.' I adjusted the collar. 'Two lives, fractured identity, institutional secrets.' She placed the word COMBAT directly over the portrait I had clipped to the dossier.",
+        "Shawna explained that atmosphere and input were separate questions. That was inconveniently correct. I surrendered the raincoat and kept the recommendation in the detour drawer, where an interesting story could remain interesting without pretending its gunfights were merely enthusiastic conversations. Tank watered the office plant instead. It immediately looked more qualified for detective work."
+      ],
+      "pleasure": "Azriel's search on a bleak colony world intertwines with an amnesiac captive's story. The attraction is adult science-fiction noir: damaged identities, oppressive institutions, rain, and uncertainty about how two apparently separate lives connect.",
+      "burden": "This adventure includes required combat, so ordinary point-and-click investigation does not describe the complete experience. The PC interface also uses contextual actions. A publisher announcement discusses redesigned combat for a mobile port; that port's accommodations must not be assumed present on PC. A no-rush route is not established.",
+      "first": "If the atmosphere appeals, inspect an early investigation scene while someone checks the PC combat requirements separately. Do not treat a comfortable conversation as evidence that the later action will suit.",
+      "ruling": "Keep for a deliberate noir detour or shared viewing, with the gunfight warning attached more firmly than my decorative detective badge ever was.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "moderate",
+      "tone": [
+        "noir",
+        "science fiction",
+        "violence"
+      ],
+      "native_coop": "no",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://store.steampowered.com/app/80310/",
+        "https://wadjeteyegames.com/2013/04/11/gemini-rue-now-on-the-app-store/"
+      ],
+      "source_note": "PC store supports the dual-character premise; the developer's mobile announcement explicitly confirms a combat system. Mobile redesign claims are not transferred to the PC edition. Complete PC control/timing accommodations are unverified.",
+      "title": "Gemini Rue"
+    },
+    {
+      "id": "P023",
+      "case_title": "The Emerald City Has Retained Counsel",
+      "scene": [
+        "The moment I heard Oz had a private investigator, I prepared my testimony. Mercedes asked what crime I was confessing to. 'None. I am a valuable witness to my own importance.' She opened a fresh notebook under the heading MOTIVE. Emerald City Confidential offered familiar storybook figures wearing the moral weather of a detective film, which struck me as an overdue improvement to civic tourism.",
+        "Tank arrived with a green desk lamp and a receipt charging it to Magical Infrastructure. I approved the expense until Shawna pointed out that this meant our missing stapler now qualified as a metropolitan corruption case. The lamp cast a sinister glow over its perfectly ordinary position beside my elbow.",
+        "Rosa suggested we let Petra, the actual detective, conduct her own inquiry. I agreed, provided the city recognized my consulting status. Mercedes wrote CONSULTING STATUS: UNRECOGNIZED. For a supposedly enchanted place, Oz had acquired excellent standards."
+      ],
+      "pleasure": "Petra investigates an Oz recast as a noir city, meeting altered versions of recognizable figures. The pleasure lies in the friction between childhood storybook associations and a mystery full of suspects, witnesses and complicated motives.",
+      "burden": "Recognizable characters do not make the investigation childish or mechanically effortless. Expect dialogue, clues and puzzle connections across locations. The inspected publisher material establishes the mystery structure but does not settle every timed sequence, drag gesture or later input requirement. Treat those as checks, not absent features.",
+      "first": "Meet Petra and follow one early conversation far enough to decide whether the reimagined Oz feels intriguing. Inspect one clue deliberately before opening a larger chain of objectives or consulting a walkthrough.",
+      "ruling": "Approve if a fairy-tale city hiring a tired detective is your kind of absurdity; the green lamp confers atmosphere, no professional qualifications and absolutely no jurisdiction over snacks.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "noir",
+        "fantasy",
+        "mystery"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/37260/",
+        "https://wadjeteyegames.com/games/emerald-city-confidential/"
+      ],
+      "source_note": "Publisher descriptions support Petra, the Oz reinterpretation, voiced characters and investigation across five chapters. No blanket no-timer or hold-free claim is established.",
+      "title": "Emerald City Confidential"
+    },
+    {
+      "id": "P024",
+      "case_title": "Submarine Reservations for a Man Who Cannot Pack Light",
+      "scene": [
+        "I booked the Bureau an imaginary submarine excursion because a murder aboard a peculiar vessel deserved maritime expertise. Tank looked at the six trunks I had assembled. 'Which one contains the expertise?' I pointed to the smallest. It contained cufflinks, a compass-shaped biscuit and a photograph of me beside a boat that had never left its restaurant.",
+        "Grimoire and Sally were investigating the Mortuga. I proposed joining as Chief Surface Consultant. Shawna explained that a locked-room mystery did not improve when an extra man arrived carrying a portable lectern. Mercedes added that the submarine was already suspicious enough without my luggage manifest.",
+        "We inspected the game instead. Strange crew, detailed objects, an impossible death: at last, a vessel with something better to offer than my nautical speech. Rosa unpacked the biscuit. My compass was eaten before it could lead anybody astray, which counts as an unusually successful voyage."
+      ],
+      "pleasure": "Grimoire and Sally investigate a captain's death aboard an eccentric submarine. Voiced suspects, an elaborate locked-room setup and objects to examine offer a richly theatrical detective outing, with the investigators' partnership anchoring the weirdness.",
+      "burden": "The current PC listing declares play without timed input, mouse-only play and saving at any time. Those are developer declarations, not a personal control trial. Inspectable three-dimensional clues may still involve gestures worth testing; dialogue, case-file relationships and deductions retain a meaningful memory load.",
+      "first": "Enter an early conversation, inspect a clue, then test how its view changes and how the case file records it. Judge those operations before committing to solving the whole submarine's personnel problems.",
+      "ruling": "Strongly consider for a strange, characterful mystery whose official pacing declaration is encouraging. Bring curiosity; leave the six-trunk consulting practice on the dock where it belongs.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "eccentric",
+        "comic"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/1696770/",
+        "https://www.sfbgames.com/"
+      ],
+      "source_note": "Exact current Steam game and SFB site confirm release, premise and developer-declared Mouse Only, Playable without Timed Input and Save Anytime. Released July 16, 2026. Object-manipulation comfort is not independently verified.",
+      "title": "The Mermaid Mask"
+    },
+    {
+      "id": "P025",
+      "case_title": "The Tourist Who Filed a Conspiracy Expense Claim",
+      "scene": [
+        "Paris seemed an excellent place to expand the Bureau. I imagined a tasteful office above a cafe, my name on the glass, and an expense account capable of understanding pastries. George Stobbart's holiday apparently took a different direction. Shawna described the Templar mystery. I crossed out LEISURE and wrote RESEARCH in the same expensive pen.",
+        "Mercedes asked why every item on my itinerary was edible. 'Local intelligence.' Tank held up a croissant. 'Then this source is flaky.' I considered dismissing him until Rosa pointed out that his report was both accurate and already paid for.",
+        "Broken Sword's attraction was the journey: George and Nico, places with history, questions that grow beyond one incident. I tried to appoint myself Third Lead. Mercedes assigned me the more practical role of Person Who Remembers Where We Put the Mouse. It was demanding work, but for once the appointment addressed an actual vacancy."
+      ],
+      "pleasure": "George Stobbart and journalist Nico Collard follow a Templar conspiracy through a classic travel adventure. Reforged presents the first Broken Sword in a modern visual edition, retaining the appeal of conversation, places, objects and a mystery expanding beyond an ordinary trip.",
+      "burden": "Classic inventory logic and returning to locations can require notes or outside hints. The inspected Reforged page does not establish an entirely untimed, hold-free completion path. Verify troublesome set pieces in this exact edition before recommending it for a strict no-rush requirement; older versions are not interchangeable evidence.",
+      "first": "Try an early safe conversation and inspect a nearby object, watching whether the interface makes available actions clear. Stop after that small investigation and decide whether the travel-mystery tone earns further checking.",
+      "ruling": "Admit provisionally for people who enjoy a holiday acquiring historical complications. My pastry receipts remain excluded from the evidence because somebody has eaten the exhibits and the margins.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "adventure",
+        "conspiracy",
+        "wry"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://revolution.co.uk/games_catalog/broken-sword-1/"
+      ],
+      "source_note": "Revolution's page identifies the 2024 Reforged edition and supports premise and adventure structure. Full-path timing and held-input details remain unverified; no older-edition accommodation is assumed.",
+      "title": "Broken Sword - Shadow of the Templars: Reforged"
+    },
+    {
+      "id": "P026",
+      "case_title": "An Obsidian Artifact Versus My Gift-Shop Magnet",
+      "scene": [
+        "An obsidian artifact can apparently begin a vast international mystery. I put our souvenir fridge magnet into an evidence bag and waited for the same professional momentum. Mercedes read its inscription: I WENT TO THE BEACH. 'The conspiracy is concealing very little.' I told her that obviousness was often the first layer.",
+        "Broken Sword's second case reunited George and Nico around a dangerous discovery. I reunited Tank and Rosa around the problem of my evidence bag being the last clean sandwich bag. Rosa resolved that conflict in favor of lunch. The magnet resumed its civilian employment holding up a shopping list.",
+        "Shawna reminded me that this was the Remastered second game, not a fresh copy of the first one's guarantees. I said the Bureau loved precision. She turned my dossier around. I had written BROKEN SPOON. In my defense, the kitchen had recently suffered an unrelated incident and deserved its own investigation."
+      ],
+      "pleasure": "George and Nico return in a second globe-spanning mystery involving an artifact, criminal entanglements and a larger historical threat. The attraction is their continuing partnership and the traditional pleasure of turning an apparently isolated discovery into a much stranger story.",
+      "burden": "The Remastered edition must be assessed on its own. Inventory puzzles, revisiting places and remembering what each person knows can become demanding. Its adventure label does not prove that every hazardous scene waits indefinitely; the inspected developer page leaves complete timing and hold requirements unresolved.",
+      "first": "Inspect the actual controls and one early interaction before investing in a long session. If the opening danger itself feels unwelcome, switch games rather than treating endurance as the price of seeing the later mystery.",
+      "ruling": "File beside the first adventure for readers who want more of this particular partnership, with its own control questions attached. Do not substitute the beach magnet for a second source.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "adventure",
+        "mystery",
+        "danger"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://revolution.co.uk/games_catalog/broken-sword-2/"
+      ],
+      "source_note": "Revolution identifies the second game's Remastered edition and artifact-led story. No edition-specific complete no-timer/no-hold route was verified.",
+      "title": "Broken Sword 2 - the Smoking Mirror: Remastered"
+    },
+    {
+      "id": "P027",
+      "case_title": "The Gallery Has Rejected My Self-Portrait",
+      "scene": [
+        "A stolen painting brought George and Nico back to work. I understood immediately. My own portrait had vanished from the Bureau reception area that morning. I assembled the staff, dimmed the lights and demanded to know who benefited from my disappearance. 'The reception area,' Mercedes said. Even Shawna looked away to hide a smile.",
+        "Tank produced the painting from behind a chair. He had moved it because its frame blocked the thermostat. I explained that art often challenged comfort. Rosa explained that visitors should not have to roast beneath my painted expression of modest achievement.",
+        "The Serpent's Curse offered a more substantial gallery crime than our heating dispute: murder, a missing work and a conspiracy. I restored the room to normal and wrote one excellent question at the top of the file. Why that painting? Mercedes nodded. 'See? You can investigate something without making it a referendum on your cheekbones.'"
+      ],
+      "pleasure": "The fifth Broken Sword begins with a Paris gallery robbery and murder, then follows George and Nico into a conspiracy. Fully voiced characters and classic point-and-click investigation make it an invitation to follow people, motives and a troublesome work of art.",
+      "burden": "Expect inventory reasoning and an expanding cast. Revolution lists extra interface features under a separate Definitive Edition heading; this card does not assume that those features exist in the selected PC release. Required timing, holds and speech-advance behavior need checking in the installed edition.",
+      "first": "Follow the first available witness exchange and inspect a piece of gallery evidence. Notice whether dialogue pace and object selection feel comfortable before adding a second location or a page of speculative connections.",
+      "ruling": "Recommend conditionally when a cultured theft turning into an uncultured conspiracy sounds appealing. Portraits of Bureau personnel are not acceptable substitutes for checking which edition is actually installed.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "conspiracy",
+        "wry"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://revolution.co.uk/games_catalog/broken-sword-5/"
+      ],
+      "source_note": "Developer page supports gallery theft/murder and classic point-and-click structure. Its Definitive Edition feature list is explicitly not transferred to the unspecified complete PC edition; full timing remains unverified.",
+      "title": "Broken Sword 5 - the Serpent's Curse"
+    },
+    {
+      "id": "P028",
+      "case_title": "The City Computer Wants My Expense Password",
+      "scene": [
+        "A city governed by a sinister artificial intelligence seemed an appropriate place to submit my expense account. Surely a machine would appreciate the mathematical inevitability of a gold-plated stamp. Shawna said that an oppressive computer and a competent accountant were different problems, and mine could be solved by either one saying no.",
+        "Robert Foster arrived in Union City with a robot friend's circuit board and a much more serious reason to distrust authority. I arrived with a printer cartridge and a petty grievance. Tank suggested that, should we be abducted into a dystopia, my first priority ought to be escape rather than requesting a corner office.",
+        "Mercedes placed our office rules beside the game file. There were forty-seven. Rosa removed forty-six, leaving ASK BEFORE BORROWING SOMEONE'S CHAIR. I considered this a dangerous weakening of institutional power. Everyone sat down more happily, which made my position surprisingly difficult to defend."
+      ],
+      "pleasure": "This is the original 1994 adventure: Robert Foster is taken into a city under authoritarian machine control, accompanied by the circuit board of his robot friend. Its appeal is a bleak science-fiction setting with room for satirical personality and practical investigation.",
+      "burden": "This older adventure's interface, object logic and navigation deserve a direct trial. Abduction, violence and oppressive institutions shape the story. The developer page does not establish a death-free or untimed complete path, and its mobile release details must not be transferred to the original PC game.",
+      "first": "Inspect the first accessible environment and identify the immediate objective without trying to cover the whole city. Check how examining and using an object differ, then decide whether that interaction makes sense in practice.",
+      "ruling": "Admit for a taste of dystopian mystery when old adventure conventions sound interesting. Deny any city computer permission to interpret my stationery budget as a model for civilization.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "dystopian",
+        "science fiction",
+        "dark humor"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://revolution.co.uk/games_catalog/beneath-a-steel-sky/"
+      ],
+      "source_note": "Revolution identifies original release 1994, Foster, Union City and the AI premise. The card targets original PC, not the later mobile edition or Beyond a Steel Sky. Complete timing/death/hold behavior remains unverified.",
+      "title": "Beneath a Steel Sky"
+    },
+    {
+      "id": "P029",
+      "case_title": "Journalism Has Asked to See My Sources",
+      "scene": [
+        "Kathy Rain had a motorcycle, a notebook and a family mystery. I had a swivel chair, a monogrammed pen and a theory about who kept lowering my chair. The similarities were obvious until Mercedes asked whether I had interviewed anybody other than myself. I said that narrowing the source pool reduced inconsistency.",
+        "Shawna raised the chair. 'There. Investigative breakthrough.' I lowered my voice and explained that the chair might be a symptom of a much larger pattern. Rosa handed me Kathy's file, where a grandfather's death and the past of a small town actually justified serious questions.",
+        "The notebook appealed to me. Evidence should have somewhere to live besides the back of a shopping receipt. Tank supplied a clean one, then confiscated my proposed cover: TRUTHS TOO LARGE FOR ORDINARY PEOPLE. He wrote NOTES. I protested that the title lacked atmosphere. 'It leaves space for facts,' he said."
+      ],
+      "pleasure": "Kathy's investigation connects her grandfather's death, family history and the secrets of a small town. The Director's Cut expands the original mystery and advertises a single-click mouse interface, making the combination of investigative conversation and a clear protagonist worth examining.",
+      "burden": "A simpler click interface does not remove puzzle memory or emotional intensity. Family trauma and disturbing material matter here. The source does not settle every late chase, timer or held-input requirement. This is specifically Director's Cut, not an assumption that the 2016 original behaves identically.",
+      "first": "Read the initial context and try one conversation with Kathy's notebook close at hand. Assess both the single-click interaction and whether this family mystery feels compelling today; neither decision requires completing a case.",
+      "ruling": "Consider when a sharp, adult protagonist and a troubled hometown sound like good company. The Bureau authorizes an ordinary notebook and withdraws my twelve-word title from circulation immediately.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "dark",
+        "family history"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1395030/"
+      ],
+      "source_note": "Exact Director's Cut listing supports single-click interface, expanded story and family investigation. It is not a full-path accessibility audit; late required timing and holds remain unverified.",
+      "title": "Kathy Rain: Director's Cut"
+    },
+    {
+      "id": "P030",
+      "case_title": "My Personality Upgrade Requires a Reboot",
+      "scene": [
+        "Vera's abilities responded to her approach to people, which I considered an excellent argument for equipping me with advanced investigative technology. Mercedes asked which upgrade corresponded to making a speech while someone else fixed the problem. 'Strategic presence,' I said. She searched the imaginary menu and found nothing.",
+        "Whispers of a Machine offered a cybernetic investigator whose choices could change how she solved things. I announced my three available approaches: Magnificent, Extremely Magnificent, and Waiting for Applause. Shawna added a fourth: LISTEN. This generated more applause than I had budgeted for.",
+        "Tank brought me a headset made from two paper cups. 'Prototype empathy augmentation.' I put it on and heard Rosa asking whether anybody wanted tea. For once I answered the actual question before developing a theory about it. The technology was crude, but the results suggested a promising future for the entire institution."
+      ],
+      "pleasure": "Vera investigates murders in a Nordic science-fiction world where forbidden technology and personal history intersect. Her responses influence the augmentations available for solving problems, connecting the detective's character to the practical shape of the investigation.",
+      "burden": "Different abilities, dialogue approaches and possible solutions create more to remember than a single straightforward clue chain. The premise includes violence and grief. The inspected listing does not establish every required timer or held gesture, so character depth should not be mistaken for a simple interface promise.",
+      "first": "Follow an early conversation and choose the response that feels natural, then inspect how the game explains Vera's available abilities. Write down one ability in plain language instead of trying to optimize an entire personality.",
+      "ruling": "Admit if the idea of a detective's temperament influencing her methods sounds intriguing. Paper-cup empathy upgrades remain available in the lobby, provided I stop talking long enough for them to work.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "science fiction",
+        "noir",
+        "grief"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/631570/"
+      ],
+      "source_note": "Publisher listing supports Vera, cybernetic abilities shaped by responses, voiced dialogue and multiple puzzle solutions. Memory rating is editorial; full-path timing and input requirements are unverified.",
+      "title": "Whispers of a Machine"
+    },
+    {
+      "id": "P031",
+      "case_title": "The Detective Budget Has Finally Found a Plot",
+      "scene": [
+        "Kathy Rain's next investigation began with a financial problem, which made her immediately relatable to the Bureau's treasurer. I explained that our deficit was an investment in future authority. Shawna pointed at the invoice for embossed folders. 'Your future authority has ordered the wrong size.' I called that a bold rejection of conventional filing.",
+        "The Soothsayer case promised Kathy a way out of money trouble and into something considerably worse. Mercedes asked whether I could distinguish a compelling fictional predicament from a sensible household budgeting strategy. I could, although the distinction did damage to my proposed detective-reward revenue forecast.",
+        "Rosa slid a plain envelope across the desk. It contained enough for ordinary paper and a note saying NO MORE GOLD EDGES. I found the restraint moving. Tank found the arithmetic easier. We gave Kathy the dangerous case and gave me the equally appropriate challenge of operating within one envelope."
+      ],
+      "pleasure": "The sequel follows Kathy in 1998 as a private investigator drawn into the Soothsayer serial-killer case. Its appeal is an established adult lead facing a larger city, new people and a case that ties professional ambition to immediate financial stakes.",
+      "burden": "A larger investigation means more names, locations and clues, even with a notebook to organize them. Serial murder brings dark material. The inspected store page establishes the story and notebook, not a guarantee about all late timing or input sequences. Director's Cut findings do not automatically apply to this sequel.",
+      "first": "Read Kathy's opening situation and investigate one available lead. Use the notebook to summarize what the lead means, then judge whether the sequel's mood and interface invite another conversation rather than another obligation.",
+      "ruling": "Consider when you want to follow Kathy into a bigger case, not because a larger budget promises simpler play. My envelope system remains available at a much smaller dramatic scale.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "mystery",
+        "serial crime",
+        "noir"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/1466390/"
+      ],
+      "source_note": "Exact 2025 sequel listing supports 1998 setting, financial premise, Soothsayer investigation and notebook. All-path timing and held inputs remain unverified.",
+      "title": "Kathy Rain 2: Soothsayer"
+    },
+    {
+      "id": "P032",
+      "case_title": "The Painting Would Like a Lawyer",
+      "scene": [
+        "A murder mystery in which a painted figure appeared to be implicated seemed designed to rehabilitate my reception portrait. 'At last,' I told Mercedes, 'proof that artwork can possess agency.' She said the only agency my portrait possessed was making people choose a different chair. I filed that as a hostile witness statement.",
+        "Tangle Tower supplied a strange mansion, a peculiar family and a very inconvenient crime scene. I supplied a tiny paper lawyer to stand beside my frame. Shawna asked why the lawyer looked like me. I explained that legal representation required trust. 'Then your painting needs a second opinion.'",
+        "Tank turned the portrait toward the wall while Rosa opened the actual mystery. The painted suspects had better expressions, the investigators had better questions, and the mansion had better lighting. I withdrew my objection. A detective game should be permitted to outshine the office decor without triggering a constitutional crisis."
+      ],
+      "pleasure": "Grimoire and Sally investigate Freya Fellow's death in a mansion where a painting appears entangled in the crime. A fully voiced, animated cast and richly drawn rooms make conversation and character observation a large part of the appeal.",
+      "burden": "The current PC listing declares mouse-only play, play without timed input and saving at any time. Those declarations are useful but do not establish comfortable dragging or manipulation of every puzzle object. Remembering family relationships and comparing testimony still require attention; an untimed mystery can be a substantial mystery.",
+      "first": "Speak with one suspect and inspect one object closely enough to test selection and any manipulation. Decide whether the voices, expressions and room details make you want to ask a second question.",
+      "ruling": "A promising first stop for an eccentric, theatrical investigation with encouraging declared pacing. The painting may retain counsel; my self-portrait must continue representing itself on a strictly unpaid basis.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "eccentric",
+        "comic"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/359510/"
+      ],
+      "source_note": "Exact PC listing supports premise, voices and developer-declared Mouse Only, Playable without Timed Input and Save Anytime. Gesture comfort and complete-path suitability have not been independently tested.",
+      "title": "Tangle Tower"
+    },
+    {
+      "id": "P033",
+      "case_title": "The Swamp Monster Has Better Visitor Facilities",
+      "scene": [
+        "I proposed that the Bureau open a swamp attraction. Tank asked whether the swamp existed. I pointed to the damp patch beneath my abandoned noir raincoat. 'We start small.' Mercedes said that charging admission to an office maintenance problem was an unusually pure expression of my business instincts.",
+        "Detective Grimoire's case concerned a real attraction within its fictional swamp, a dead owner and a creature everybody seemed ready to suspect. I admired the efficiency of a community arriving with its own suspect. Shawna admired nothing about that sentence and made me read the word EVIDENCE aloud.",
+        "Rosa shut our attraction before opening day by hanging up the raincoat. I protested that a unique cultural opportunity had been lost. Tank placed a paper sign beside the dry floor: MONSTER NOT CONFIRMED. It was the most honest advertising the Bureau had produced all week, and therefore completely unsuitable for my original campaign."
+      ],
+      "pleasure": "The commercial 2014 Detective Grimoire builds a compact murder investigation around an odd swamp attraction and its inhabitants. Interviews and assembled conclusions give the detective's reasoning a visible role, while the creature rumors invite questions about what people assume and why.",
+      "burden": "This is the paid standalone game, not the earlier browser title. Its mouse/touch-oriented design still involves connecting ideas and handling puzzle interfaces. The inspected listing does not explicitly verify that every sequence is untimed or that no drag-and-hold gesture is required; check the actual build before treating it as a sure fit.",
+      "first": "Meet an early witness and try forming one small conclusion from the available ideas. Observe whether selecting and joining those ideas feels natural, without imposing a deadline for reaching the correct answer.",
+      "ruling": "Consider when an eccentric little suspect community sounds appealing. Any swamp attraction founded by me requires independent plumbing inspection before the Bureau will permit the word tourism on its paperwork.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "mystery",
+        "comic",
+        "eccentric"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/272600/"
+      ],
+      "source_note": "The 2014 commercial game's Steam listing supports the swamp case, voiced cast, conclusion system and mouse/touch design. Complete timing and held-gesture requirements are not verified.",
+      "title": "Detective Grimoire"
+    },
+    {
+      "id": "P034",
+      "case_title": "A Family Tree with a Very Ambitious Root",
+      "scene": [
+        "I began our genealogy session by placing my own photograph at the top of the family tree. Shawna asked whether I was claiming to be everyone's ancestor. 'Symbolically.' Mercedes moved the photograph to a separate sheet titled UNRELATED FUNDING APPLICANT. This was hostile, but the diagram became easier to read.",
+        "The Roottrees investigation involved inheritance, blood relationships and an early internet full of clues. I offered to improve the family's public image for a modest fictional retainer. Rosa pointed out that identifying a person and liking a person were different tasks. Tank pointed out that my retainer consisted of the last chocolate biscuit.",
+        "We started with one confirmed relationship instead of my forty-seven speculative branches. Suddenly the tree looked like evidence rather than a climbing frame for my ego. I reclaimed the biscuit under a newly discovered legal principle: if nobody hires the consultant, he may still eat his own lunch."
+      ],
+      "pleasure": "The 2025 remake turns a wealthy family's genealogy into an investigation through a simulated 1998 internet. Photographs, articles and other fragments gradually identify people and their relationships, making the central reward the moment scattered information clicks into a coherent family tree.",
+      "burden": "Names, generations, visual identification and search terms create a heavy memory and reading load. Typing and navigating the information interface matter more than reflexes in the described core activity, but that does not certify every input as effortless. This remake differs from the free 2023 browser original.",
+      "first": "Identify one person using one clearly connected source, then place or record that single relationship. A separate scratch note can hold a name while you test the search and family-tree interface without filling the whole chart.",
+      "ruling": "Admit for someone who enjoys following documentary threads and can tolerate a busy evidence web. Reject my attempt to inherit merely by occupying the diagram's largest available rectangle with confidence.",
+      "input": "text",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "genealogical mystery",
+        "investigative"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/2754380/"
+      ],
+      "source_note": "Exact 2025 Steam remake listing supports early-internet research, family-tree deduction and rebuilt interface. The memory assessment is editorial; no universal timing/hold guarantee is inferred from the genre.",
+      "title": "The Roottrees are Dead"
+    },
+    {
+      "id": "P035",
+      "case_title": "The Seventies Have Requested a Wider Collar",
+      "scene": [
+        "I wore a large-collared shirt to receive The Rise of the Golden Idol. Mercedes said the collar entered the room several seconds before I did. I told her historical immersion required commitment. Tank asked whether the shirt needed its own chair. It did, but I refused to dignify the question with a seating chart.",
+        "The game's strange chain of crimes and coincidences belonged to the 1970s, two centuries beyond its predecessor. I proposed that my shirt was therefore valid primary evidence. Shawna said clothing could establish a mood without establishing a fact, a distinction that ruined at least half my public appearances.",
+        "Rosa put one case before us. One scene, some people, something that did not add up. My collar stopped being the most interesting object in the room. This was a severe institutional setback and an excellent sign for the game, which had achieved it without appointing a single wardrobe committee."
+      ],
+      "pleasure": "A new era gives the Golden Idol deduction format fresh social scenery: investigators piece together strange events involving crime, belief and institutional ambition. The game invites close reading of scenes and reconstructing what happened rather than steering an action hero through them.",
+      "burden": "The publisher explicitly describes exploring scenes at your own pace. That supports unhurried observation, not low complexity: names, collected words, connections across cases and chapter-level deductions can become dense. Input comfort and any required dragging still need a local check; dark crime scenes are central.",
+      "first": "Open the first case, inspect a small cluster of connected clues, and try stating aloud what seems to have happened before filling every answer. Leave the broader conspiracy for another sitting if the first scene is enough.",
+      "ruling": "A promising choice for patient deduction when a puzzle-rich mystery sounds pleasurable. The Bureau accepts no claim that a wider shirt collar provides a wider evidentiary perspective or additional deduction slots.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "crime",
+        "conspiracy",
+        "darkly comic"
+      ],
+      "native_coop": "no",
+      "fit_tier": "promising",
+      "source_urls": [
+        "https://store.steampowered.com/app/2716400/"
+      ],
+      "source_note": "Publisher description supports 1970s setting, twenty cases and exploration at the player's pace. The waits label refers to scene investigation, not a tested blanket guarantee about every input or comfort need.",
+      "title": "The Rise of the Golden Idol"
+    },
+    {
+      "id": "P036",
+      "case_title": "The Bookshop Owner Declines My Autobiography",
+      "scene": [
+        "A novelist running a bookshop while investigating sinister murders struck me as a man with the correct number of simultaneous occupations. I offered Gabriel Knight my autobiography for his shelves. Mercedes asked whether it had an ending. 'History is ongoing.' She said this was also a problem with my staff meetings.",
+        "New Orleans supplied a setting full of atmosphere, while the mystery drew Gabriel toward his family's past. I supplied a stack of imaginary signed copies. Tank used them to level the wobbly table. For the first time my collected wisdom had produced an immediate, measurable improvement to somebody's day.",
+        "Shawna insisted we identify the exact game: the twentieth-anniversary remake, not the old release with assumptions taped over it. Rosa added that a dark story could be compelling without becoming tonight's obligation. I agreed and shortened my book signing to no books, no queue and one grateful table."
+      ],
+      "pleasure": "Gabriel's investigation of ritual murders draws a writer and bookshop owner into a family mystery in New Orleans. The twentieth-anniversary edition retells the first game with rebuilt presentation and additional material, offering a strong dose of place, conversation and supernatural noir.",
+      "burden": "The story includes murder, horror and fictionalized religious material. Adventure puzzles can demand inventory reasoning and remembered conversations. This remake's complete path has not been checked for every dangerous or timed passage; do not assume its modern presentation removes the original design's possible pressure points.",
+      "first": "Try one early conversation or bookshop interaction and see whether Gabriel's personality and the setting appeal. Check the interface at the same time, keeping the first objective small rather than committing to the entire supernatural history.",
+      "ruling": "Admit conditionally for an atmospheric adult mystery with literary ambitions. My autobiography may remain beneath the table until it proves a more useful clue than a furniture repair technique ever should.",
+      "input": "pointer",
+      "pace": "unknown",
+      "memory": "moderate",
+      "tone": [
+        "supernatural noir",
+        "horror",
+        "mystery"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/262000/"
+      ],
+      "source_note": "Exact twentieth-anniversary Steam edition supports Gabriel, New Orleans, murders and added remake material. Complete timing and held-input requirements remain unverified; fictional portrayals are not presented as cultural research.",
+      "title": "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition"
+    },
+    {
+      "id": "P037",
+      "case_title": "Two Investigators and One Unqualified Art Critic",
+      "scene": [
+        "I thought Still Life might qualify as a pleasant afternoon discussing fruit bowls. Mercedes opened the dossier. 'Serial murder.' I turned my proposed wine-and-cheese reception into a much quieter tea service. A title, it appeared, could not be trusted to perform the entire work of content screening for me.",
+        "The investigation crossed between Victoria in Chicago and an earlier case involving her grandfather in Prague. I constructed a family timeline with two photographs and an extremely expensive piece of string. Shawna asked why the string was expensive. I explained that it had been sold as exhibition cord. She explained that it remained string.",
+        "Rosa read the later control warning and kept it attached to the front. The grim crime story and the timing-dependent robot puzzle belonged in the same recommendation. I wanted a tidier verdict. Tank said a tidy verdict purchased by hiding the awkward part was just my usual filing system with better stationery."
+      ],
+      "pleasure": "Two related investigations in different places and eras create the appeal: a contemporary FBI case and a grandfather's earlier work gradually echo one another. This is a dark serial-crime adventure for someone specifically interested in disturbing mysteries and historical connections.",
+      "burden": "A contemporary review describes a required robot-and-laser puzzle that depends on timing even though it is not a simple countdown. That materially conflicts with a strict no-rush preference. Graphic crime material and layered puzzle logic add further demands; this is a clearly marked detour, not an easy recommendation.",
+      "first": "Start by considering the subject matter and the documented later timing obstacle. If both are acceptable with a chosen helper or shared-viewing arrangement, inspect an early investigation scene without interpreting it as the whole game's control profile.",
+      "ruling": "Retain for deliberate dark-mystery browsing only, with the laser warning visible. The Bureau's fruit-bowl reception is cancelled, and its title-screen assumptions have been placed under professional supervision for the afternoon.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "heavy",
+      "tone": [
+        "serial crime",
+        "dark",
+        "disturbing"
+      ],
+      "native_coop": "no",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://store.steampowered.com/app/46480/",
+        "https://www.gameboomers.com/reviews/Ss/Stilllifebynickie.htm"
+      ],
+      "source_note": "Publisher listing establishes the original game's dual-era crime premise. GameBoomers' contemporary review specifically reports timing-dependent robot/laser movement. No claim that this obstacle has an accessible skip is made.",
+      "title": "Still Life"
+    },
+    {
+      "id": "P038",
+      "case_title": "The Department of Death Has a Better Travel Desk",
+      "scene": [
+        "Manny Calavera sold travel arrangements for the dead, which suggested a clientele less likely to complain about my opening speeches. Rosa asked whether I had learned anything at all from hospitality. I clarified that I admired the dramatic premise, not the business opportunity. Mercedes wrote that clarification down in case I needed it again.",
+        "Grim Fandango's afterlife bureaucracy had stylish suits and a corruption problem. Our Bureau had an ill-fitting blazer and a laminator. I proposed a merger on the grounds of shared institutional themes. Shawna said the game already contained enough compromised administrators without importing one whose main scandal involved commemorative coasters.",
+        "Tank played an imaginary trumpet flourish as I put the merger file away. The music, the noir atmosphere, the strange journey: these were actual reasons to look at Manny's world. I allowed them to speak for themselves, a management innovation so radical that Rosa checked whether I had a sore throat."
+      ],
+      "pleasure": "Manny's journey through a noir-inflected land of the dead combines memorable characters, an unusual visual world and a rich musical identity. The remaster refreshes presentation while preserving the adventure's central pleasure: a compromised little job opening into a much larger story.",
+      "burden": "Traditional inventory puzzles and indirect solution logic can require considerable memory and hints. The developer confirms additional control schemes, but that alone does not establish comfortable movement or every timing requirement. Check the PC controls in practice; do not import PlayStation button instructions or assume remaster means simplified puzzles.",
+      "first": "Explore Manny's first available workplace interactions, compare the installed control choices, and test movement between two nearby points. Let the voice and atmosphere win your interest before agreeing to carry a long inventory of unsolved errands.",
+      "ruling": "Consider for a stylish, characterful adventure when unusual puzzle logic sounds welcome. Deny the Bureau's merger proposal: the afterlife has enough paperwork without my commemorative stationery subsidiary seeking permanent office space.",
+      "input": "mixed",
+      "pace": "unknown",
+      "memory": "heavy",
+      "tone": [
+        "noir",
+        "comic",
+        "fantastical"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/316790/",
+        "https://www.doublefine.com/news/grim-fandango-remastered-pre-orders-now-available"
+      ],
+      "source_note": "PC listing supports premise and remastered presentation; Double Fine confirms additional control schemes. Full control comfort and all-path timing are unverified. No native co-op is inferred from Remote Play Together metadata.",
+      "title": "Grim Fandango Remastered"
+    },
+    {
+      "id": "P039",
+      "case_title": "The Town Where Everybody Deserves a Separate Folder",
+      "scene": [
+        "Thimbleweed Park offered five playable people in a town with more secrets than ordinary municipal planning would recommend. I issued five folders. Mercedes opened hers and found my photograph in all of them. 'A filing error,' I said. Shawna said it was a consistent filing policy and therefore worse.",
+        "A strange town, a dead body, a haunted hotel and an abandoned circus gave the investigation plenty to work with. I suggested adding a Bureau visitor center. Tank asked whether it would contain a bathroom or simply a sixth suspicious man. I promised an informative brochure, which answered neither question.",
+        "Rosa selected the idea of a smaller first task and made me put the other folders aside. One character could inspect one place before we tried to understand an entire town. This struck me as offensively sensible. I preserved the five-folder set for later, after removing the portrait inserts and the unnecessary ribbon."
+      ],
+      "pleasure": "An eccentric 1987 town ties together five playable characters and an increasingly strange mystery. The attraction is ensemble comedy, peculiar locations and the satisfaction of uncovering connections while a traditional adventure keeps revealing another layer of oddness.",
+      "burden": "The publisher offers Casual and Hard modes and describes exploration at your own pace. Casual is the more relevant first trial, but it does not make five characters, inventories and ongoing objectives trivial. Interface gestures and any exceptional sequence still need checking; selecting a difficulty is not a universal no-hold guarantee.",
+      "first": "Choose Casual and follow one character's immediate objective. Try one conversation and one object interaction, noting whether the action interface is clear before switching people or collecting a large list of unfinished tasks.",
+      "ruling": "Consider for a strange ensemble mystery with a useful lower-puzzle-load starting choice. The Bureau may issue multiple folders only after proving that each one contains somebody other than me this time.",
+      "input": "pointer",
+      "pace": "waits",
+      "memory": "heavy",
+      "tone": [
+        "comic mystery",
+        "surreal",
+        "ensemble"
+      ],
+      "native_coop": "no",
+      "fit_tier": "conditional",
+      "source_urls": [
+        "https://store.steampowered.com/app/569860/"
+      ],
+      "source_note": "Publisher listing supports five playable characters, Casual/Hard modes and exploring at one's pace. Casual is an editorial first-trial choice, not proof that every interaction or entire path meets all preferences.",
+      "title": "Thimbleweed Park"
+    },
+    {
+      "id": "P040",
+      "case_title": "The Motorcycle Cannot Be Driven by Reputation",
+      "scene": [
+        "I borrowed a leather jacket to introduce Full Throttle. Tank asked whether I could ride a motorcycle. I said I possessed the bearing. He placed a kitchen stool in front of me and requested a safe demonstration of mounting it. The jacket caught on the armrest. My bearing required assistance.",
+        "Ben and the Polecats inhabited a tale of motorcycles, corporate trouble and murder. I inhabited a tale of one sleeve refusing to release me. Mercedes watched Shawna untangle it and said this was an unusually faithful preview of why style and mechanical demands needed separate paragraphs.",
+        "The game had action sequences, including its road material, alongside adventure puzzles. Rosa kept that fact beside the glorious engine noise. I finally stood up, returned the jacket and approved a detour label. A person could admire a biker story without being recruited into its driving requirements, particularly after the stool had won the opening encounter decisively."
+      ],
+      "pleasure": "Ben's trouble with powerful interests unfolds through a compact biker adventure full of distinctive characters, visual attitude and rock music. The remaster restores the original game's presentation and adds archival material, preserving a very particular kind of animated road-movie energy.",
+      "burden": "This is not solely unhurried conversation and inventory work. Its remastered road sequences retain active gameplay, and the adventure includes action demands. A complete no-reflex route or universal skip has not been verified here. Treat it as a deliberate detour if required timing is unwelcome.",
+      "first": "Watch or try an early quiet conversation to judge the tone, while keeping the later action warning visible. Decide separately whether someone wants to handle those sequences; shared help is an arrangement, not native cooperative play.",
+      "ruling": "Keep when the cast and biker atmosphere justify a consciously chosen detour. A leather jacket, however persuasive, cannot satisfy the control check or overturn the kitchen stool's recorded victory in single combat.",
+      "input": "mixed",
+      "pace": "mixed",
+      "memory": "moderate",
+      "tone": [
+        "biker adventure",
+        "comic",
+        "violence"
+      ],
+      "native_coop": "no",
+      "fit_tier": "detour",
+      "source_urls": [
+        "https://www.doublefine.com/games/full-throttle-remastered",
+        "https://blog.playstation.com/archive/2017/01/13/how-double-fine-is-tuning-up-full-throttle-remastered-for-ps4/"
+      ],
+      "source_note": "Double Fine supports the remastered game's premise; the platform interview with Tim Schafer confirms the playable Mine Road sequence's preservation. No unverified skip/no-action route is claimed.",
+      "title": "Full Throttle Remastered"
+    }
+  ],
+  "interludes": [
+    {
+      "title": "The Evidence Has Been Eating the Evidence",
+      "paragraphs": [
+        "By midday, the Bureau had solved three minor administrative mysteries and created a fourth. The missing pencils were behind my ear, the missing coffee was in Tank, and the printer's complaint about paper size was apparently a complaint about paper size. I had assumed a deeper motive. The fourth mystery concerned a packet labeled URGENT. Inside were six perfectly ordinary crackers and a note from Rosa: not everything in a red envelope is an emergency.",
+        "I convened a hearing. ‘The department has been misled.’ ‘By color?’ Mercedes asked. ‘By presentation.’ Shawna turned the packet over. ‘It also says crackers.’ ‘Fine print.’ ‘It's larger than urgent.’ Tank ate one while the evidence was being discussed. I asked him to preserve the chain of custody. He held out the remaining packet. ‘Chain starts here. Ends here.’ He pointed to his mouth. I entered his explanation into the record under deeply unhelpful and completely accurate.",
+        "We had reached the portion of the work where a phrase like point-and-click began trying to do too many jobs. It told us something about a game's ordinary interaction. It did not tell us whether an item had to be dragged, whether dialogue waited, whether a late confrontation demanded a quick response, or whether the inventory contained three things or half a hardware store. Shawna put separate tabs on those questions. I had bought tabs in twelve colors. For the first time all day, a purchase of mine became useful without modification.",
+        "The printer produced an extra copy of the same page. I held it up. ‘Independent corroboration.’ ‘Same printer,’ said Mercedes. ‘Same page,’ said Rosa. ‘Same expensive idiot,’ said Tank, very quietly, because he still wanted access to the snack cabinet. We did not count duplicated claims as fresh evidence. We also did not turn an absent warning into a promise. Some cards had a clear statement from the publisher; some had a specific review; some still needed a check on the actual edition. A blank space stayed a blank space.",
+        "Then the gold stamp disappeared. For nine minutes I pursued a theory involving international rivals, a forged signature, and the service elevator. Shawna found it beside the kettle, holding down a curling recipe card. ‘I needed something heavy.’ ‘That seal represents my judgment.’ ‘Then it's found appropriate work.’ She left it there. I was permitted to keep the handle, provided I did not call it an official accessibility certification. Tank wrote KETTLE DIVISION on a fresh label and applied it to my nameplate.",
+        "We returned to the cases with less stationery and better questions. Which world looked worth entering? What would your hands actually do? What might pile up in memory? Did a game let the player wait, or did we merely hope it did? There was no humiliation in deciding against a promising story because its interface was unpleasant. The Bureau's job was to offer possibilities. The visitor's job, if any, was to enjoy the evening. Mine was apparently to stop standing in front of the tea bags."
+      ]
+    }
+  ],
+  "ending": [
+    {
+      "title": "The Case of the Guest Who Simply Picked Something",
+      "paragraphs": [
+        "I had prepared a closing ceremony. There would be a ribbon, a brief speech, and a photograph in which I appeared to have personally invented leisure. Tank had practiced releasing a handful of paper stars from behind the filing cabinet. He had practiced too enthusiastically. We were finding stars in the sandwich tray, the printer, and one of the mystery files. ‘Atmosphere,’ he said. Rosa removed a silver star from a tomato. ‘Paper.’ He considered this distinction without conceding it.",
+        "Shawna reviewed the ceremony. ‘Where does someone actually choose a game?’ I showed her the final box on the flowchart. ‘After the remarks.’ ‘How long are the remarks?’ ‘Depends how the audience responds.’ Mercedes took the chart and drew a new arrow from the entrance directly to a chair. ‘There.’ ‘That bypasses the whole department.’ ‘I know. Beautiful work.’ The arrow was not gold. It had no embossed border. It performed its function with humiliating economy.",
+        "What mattered had become embarrassingly clear. One person might want a ghost who talks too much; another might prefer a courtroom contradiction, a strange plant, or a lawyer whose business trip goes spectacularly off schedule. Even the right premise could meet the wrong evening. A short first encounter was enough to learn something. A control check could reveal a catch before the story became a commitment. A decision to stop did not require a report, a reason, or an apology to the folder.",
+        "I put the flowchart away. Not because Mercedes had won. Because, after careful leadership, I had decided that her idea should be allowed to resemble my policy. Tank asked whether the closing speech was canceled. I said postponed. ‘Until what?’ ‘Until an appropriate occasion.’ ‘Printer jam?’ ‘Possibly.’ He nodded. He had learned the diplomatic art of leaving a man one harmless illusion while unplugging the microphone.",
+        "The room grew quieter. Somebody opened a game. A line appeared, somebody laughed, and the table stopped being the most interesting thing in it. I watched for a moment without interrupting. Shawna rested her hand on my shoulder. ‘You found some good possibilities.’ That pleased me more than the photograph would have. I nearly said so. Then the printer made a grinding noise and delivered the first page of my canceled speech across the floor.",
+        "Tank picked it up. ‘Distinguished delegates of pleasure—’ ‘Private draft.’ ‘—through my tireless leadership—’ ‘Give me that.’ Rosa took the page, turned it over, and wrote the next useful question on the blank side: what sounded fun? She set it where everyone could reach it. No timer, no required sequence, no demand to justify an answer. A question small enough to belong on one piece of paper. I had built a department around it. My friends, with considerable difficulty, had let the question survive."
+      ]
+    }
+  ]
+}

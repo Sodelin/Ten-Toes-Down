@@ -1,0 +1,25 @@
+{
+  "id": "P024",
+  "status": "matched",
+  "title": "The Mermaid Mask",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/1696770/",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

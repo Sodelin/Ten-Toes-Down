@@ -1,0 +1,994 @@
+{
+  "volumes": [
+    {
+      "number": 1,
+      "games": [
+        {
+          "id": "P001",
+          "edition": "PC original game; current publisher patch must be recorded"
+        },
+        {
+          "id": "P002",
+          "edition": "PC first game; current accessibility build must be recorded"
+        },
+        {
+          "id": "P003",
+          "edition": "2019 PC compilation; post-November 2025 update scope"
+        },
+        {
+          "id": "P004",
+          "edition": "PC current release"
+        },
+        {
+          "id": "P005",
+          "edition": "PC 2022 game with current Redux edition; not The Rise of the Golden Idol"
+        },
+        {
+          "id": "P006",
+          "edition": "2002 PC original; not Syberia Remastered"
+        },
+        {
+          "id": "P007",
+          "edition": "PC release"
+        },
+        {
+          "id": "P008",
+          "edition": "PC release"
+        },
+        {
+          "id": "P009",
+          "edition": "PC release"
+        },
+        {
+          "id": "P010",
+          "edition": "PC release"
+        },
+        {
+          "id": "P011",
+          "edition": "PC release"
+        },
+        {
+          "id": "P012",
+          "edition": "PC release"
+        },
+        {
+          "id": "P013",
+          "edition": "PC release"
+        },
+        {
+          "id": "P014",
+          "edition": "PC release"
+        },
+        {
+          "id": "P015",
+          "edition": "PC release"
+        },
+        {
+          "id": "P016",
+          "edition": "PC release"
+        },
+        {
+          "id": "P017",
+          "edition": "PC release"
+        },
+        {
+          "id": "P018",
+          "edition": "PC release"
+        },
+        {
+          "id": "P019",
+          "edition": "PC release"
+        },
+        {
+          "id": "P020",
+          "edition": "PC Kosher Edition"
+        },
+        {
+          "id": "P021",
+          "edition": "PC release"
+        },
+        {
+          "id": "P022",
+          "edition": "PC release"
+        },
+        {
+          "id": "P023",
+          "edition": "PC release"
+        },
+        {
+          "id": "P024",
+          "edition": "PC release; current release status verify"
+        },
+        {
+          "id": "P025",
+          "edition": "PC Reforged edition"
+        },
+        {
+          "id": "P026",
+          "edition": "PC Remastered edition"
+        },
+        {
+          "id": "P027",
+          "edition": "PC complete release"
+        },
+        {
+          "id": "P028",
+          "edition": "1994 PC original"
+        },
+        {
+          "id": "P029",
+          "edition": "PC Director's Cut"
+        },
+        {
+          "id": "P030",
+          "edition": "PC release"
+        },
+        {
+          "id": "P031",
+          "edition": "PC release"
+        },
+        {
+          "id": "P032",
+          "edition": "PC release"
+        },
+        {
+          "id": "P033",
+          "edition": "2014 PC commercial game; not Flash original"
+        },
+        {
+          "id": "P034",
+          "edition": "2025 Steam remake; not free browser original"
+        },
+        {
+          "id": "P035",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P036",
+          "edition": "PC 20th Anniversary Edition"
+        },
+        {
+          "id": "P037",
+          "edition": "2005 PC original"
+        },
+        {
+          "id": "P038",
+          "edition": "PC Remastered edition"
+        },
+        {
+          "id": "P039",
+          "edition": "PC release"
+        },
+        {
+          "id": "P040",
+          "edition": "PC Remastered edition"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "games": [
+        {
+          "id": "P041",
+          "edition": "PC base game, no expansion requirement"
+        },
+        {
+          "id": "P042",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P043",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P044",
+          "edition": "PC Advanced Edition update"
+        },
+        {
+          "id": "P045",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P046",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P047",
+          "edition": "Nintendo Switch compilation"
+        },
+        {
+          "id": "P048",
+          "edition": "Nintendo Switch base game"
+        },
+        {
+          "id": "P049",
+          "edition": "Nintendo Switch base game"
+        },
+        {
+          "id": "P050",
+          "edition": "Nintendo Switch base game"
+        },
+        {
+          "id": "P051",
+          "edition": "Nintendo Switch base game"
+        },
+        {
+          "id": "P052",
+          "edition": "PC base game; not Enemy Within expansion"
+        },
+        {
+          "id": "P053",
+          "edition": "PC base game; not War of the Chosen expansion"
+        },
+        {
+          "id": "P054",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P055",
+          "edition": "PC original release"
+        },
+        {
+          "id": "P056",
+          "edition": "PC Director's Cut"
+        },
+        {
+          "id": "P057",
+          "edition": "PC Extended Edition"
+        },
+        {
+          "id": "P058",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P059",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P060",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P061",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P062",
+          "edition": "PC release"
+        },
+        {
+          "id": "P063",
+          "edition": "PC Reborn edition"
+        },
+        {
+          "id": "P064",
+          "edition": "PC Enhanced version proposed for later assessment"
+        },
+        {
+          "id": "P065",
+          "edition": "PC Complete edition"
+        },
+        {
+          "id": "P066",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P067",
+          "edition": "PC release"
+        },
+        {
+          "id": "P068",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P069",
+          "edition": "PC release"
+        },
+        {
+          "id": "P070",
+          "edition": "PC Definitive Edition"
+        },
+        {
+          "id": "P071",
+          "edition": "PC Royal edition"
+        },
+        {
+          "id": "P072",
+          "edition": "PC release"
+        },
+        {
+          "id": "P073",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P074",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P075",
+          "edition": "PC release"
+        },
+        {
+          "id": "P076",
+          "edition": "PC release"
+        },
+        {
+          "id": "P077",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P078",
+          "edition": "PC release"
+        },
+        {
+          "id": "P079",
+          "edition": "PC release"
+        },
+        {
+          "id": "P080",
+          "edition": "Nintendo Switch; individual games must be assessed separately"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "games": [
+        {
+          "id": "P081",
+          "edition": "PC current release"
+        },
+        {
+          "id": "P082",
+          "edition": "PC release"
+        },
+        {
+          "id": "P083",
+          "edition": "PC release; Creative mode is a separate assessment target"
+        },
+        {
+          "id": "P084",
+          "edition": "PC release"
+        },
+        {
+          "id": "P085",
+          "edition": "PC release"
+        },
+        {
+          "id": "P086",
+          "edition": "PC release"
+        },
+        {
+          "id": "P087",
+          "edition": "PC release"
+        },
+        {
+          "id": "P088",
+          "edition": "PC release"
+        },
+        {
+          "id": "P089",
+          "edition": "PC release"
+        },
+        {
+          "id": "P090",
+          "edition": "PC release"
+        },
+        {
+          "id": "P091",
+          "edition": "PC release"
+        },
+        {
+          "id": "P092",
+          "edition": "PC release"
+        },
+        {
+          "id": "P093",
+          "edition": "PC release"
+        },
+        {
+          "id": "P094",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P095",
+          "edition": "PC release"
+        },
+        {
+          "id": "P096",
+          "edition": "PC release"
+        },
+        {
+          "id": "P097",
+          "edition": "PC release"
+        },
+        {
+          "id": "P098",
+          "edition": "PC release"
+        },
+        {
+          "id": "P099",
+          "edition": "PC release"
+        },
+        {
+          "id": "P100",
+          "edition": "PC release"
+        },
+        {
+          "id": "P101",
+          "edition": "PC release"
+        },
+        {
+          "id": "P102",
+          "edition": "PC release"
+        },
+        {
+          "id": "P103",
+          "edition": "PC Landmark Edition"
+        },
+        {
+          "id": "P104",
+          "edition": "PC release"
+        },
+        {
+          "id": "P105",
+          "edition": "PC release"
+        },
+        {
+          "id": "P106",
+          "edition": "PC release"
+        },
+        {
+          "id": "P107",
+          "edition": "PC release"
+        },
+        {
+          "id": "P108",
+          "edition": "PC Ultra Deluxe"
+        },
+        {
+          "id": "P109",
+          "edition": "PC release"
+        },
+        {
+          "id": "P110",
+          "edition": "PC Redux edition"
+        },
+        {
+          "id": "P111",
+          "edition": "PC complete game"
+        },
+        {
+          "id": "P112",
+          "edition": "PC release"
+        },
+        {
+          "id": "P113",
+          "edition": "2021 PC remake; not the 1993 original"
+        },
+        {
+          "id": "P114",
+          "edition": "2024 PC remake; not the 1997 original"
+        },
+        {
+          "id": "P115",
+          "edition": "PC non-VR mode proposed for assessment"
+        },
+        {
+          "id": "P116",
+          "edition": "PC release"
+        },
+        {
+          "id": "P117",
+          "edition": "PC original release; not Reawakened"
+        },
+        {
+          "id": "P118",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P119",
+          "edition": "PC release"
+        },
+        {
+          "id": "P120",
+          "edition": "PC base game; expansion assessed separately"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "games": [
+        {
+          "id": "P121",
+          "edition": "PC release"
+        },
+        {
+          "id": "P122",
+          "edition": "PC release"
+        },
+        {
+          "id": "P123",
+          "edition": "PC release"
+        },
+        {
+          "id": "P124",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P125",
+          "edition": "PC separate prequel game"
+        },
+        {
+          "id": "P126",
+          "edition": "PC release"
+        },
+        {
+          "id": "P127",
+          "edition": "PC release"
+        },
+        {
+          "id": "P128",
+          "edition": "PC release"
+        },
+        {
+          "id": "P129",
+          "edition": "PC release"
+        },
+        {
+          "id": "P130",
+          "edition": "PC release"
+        },
+        {
+          "id": "P131",
+          "edition": "PC Anniversary Edition"
+        },
+        {
+          "id": "P132",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P133",
+          "edition": "PC sequel"
+        },
+        {
+          "id": "P134",
+          "edition": "PC non-VR mode proposed for assessment"
+        },
+        {
+          "id": "P135",
+          "edition": "PC release"
+        },
+        {
+          "id": "P136",
+          "edition": "PC release"
+        },
+        {
+          "id": "P137",
+          "edition": "PC Panoramic Edition"
+        },
+        {
+          "id": "P138",
+          "edition": "PC Panoramic Edition"
+        },
+        {
+          "id": "P139",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P140",
+          "edition": "PC release"
+        },
+        {
+          "id": "P141",
+          "edition": "PC release"
+        },
+        {
+          "id": "P142",
+          "edition": "PC release"
+        },
+        {
+          "id": "P143",
+          "edition": "PC release"
+        },
+        {
+          "id": "P144",
+          "edition": "PC release"
+        },
+        {
+          "id": "P145",
+          "edition": "PC release"
+        },
+        {
+          "id": "P146",
+          "edition": "PC release"
+        },
+        {
+          "id": "P147",
+          "edition": "PC release"
+        },
+        {
+          "id": "P148",
+          "edition": "PC release"
+        },
+        {
+          "id": "P149",
+          "edition": "PC release"
+        },
+        {
+          "id": "P150",
+          "edition": "PC release"
+        },
+        {
+          "id": "P151",
+          "edition": "PC release"
+        },
+        {
+          "id": "P152",
+          "edition": "PC original game"
+        },
+        {
+          "id": "P153",
+          "edition": "PC release"
+        },
+        {
+          "id": "P154",
+          "edition": "1992 SNES original; SNES Mouse input"
+        },
+        {
+          "id": "P155",
+          "edition": "1993 NES original"
+        },
+        {
+          "id": "P156",
+          "edition": "1995 Windows original"
+        },
+        {
+          "id": "P157",
+          "edition": "PC Special Edition"
+        },
+        {
+          "id": "P158",
+          "edition": "PC Deluxe edition"
+        },
+        {
+          "id": "P159",
+          "edition": "1997 PC original"
+        },
+        {
+          "id": "P160",
+          "edition": "2015 PC remake of Logical Journey of the Zoombinis"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "games": [
+        {
+          "id": "P161",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P162",
+          "edition": "PC sequel"
+        },
+        {
+          "id": "P163",
+          "edition": "PC release"
+        },
+        {
+          "id": "P164",
+          "edition": "PC release"
+        },
+        {
+          "id": "P165",
+          "edition": "PC release"
+        },
+        {
+          "id": "P166",
+          "edition": "PC release"
+        },
+        {
+          "id": "P167",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P168",
+          "edition": "PC sequel"
+        },
+        {
+          "id": "P169",
+          "edition": "PC Final Cut"
+        },
+        {
+          "id": "P170",
+          "edition": "PC release"
+        },
+        {
+          "id": "P171",
+          "edition": "PC complete five-act edition"
+        },
+        {
+          "id": "P172",
+          "edition": "PC release"
+        },
+        {
+          "id": "P173",
+          "edition": "PC release"
+        },
+        {
+          "id": "P174",
+          "edition": "PC release"
+        },
+        {
+          "id": "P175",
+          "edition": "PC release"
+        },
+        {
+          "id": "P176",
+          "edition": "PC release"
+        },
+        {
+          "id": "P177",
+          "edition": "PC release"
+        },
+        {
+          "id": "P178",
+          "edition": "PC release"
+        },
+        {
+          "id": "P179",
+          "edition": "PC original release"
+        },
+        {
+          "id": "P180",
+          "edition": "PC release"
+        },
+        {
+          "id": "P181",
+          "edition": "PC release"
+        },
+        {
+          "id": "P182",
+          "edition": "PC release"
+        },
+        {
+          "id": "P183",
+          "edition": "PC release"
+        },
+        {
+          "id": "P184",
+          "edition": "PC Full Bloom Edition"
+        },
+        {
+          "id": "P185",
+          "edition": "PC release"
+        },
+        {
+          "id": "P186",
+          "edition": "PC release"
+        },
+        {
+          "id": "P187",
+          "edition": "PC release"
+        },
+        {
+          "id": "P188",
+          "edition": "PC release"
+        },
+        {
+          "id": "P189",
+          "edition": "PC release"
+        },
+        {
+          "id": "P190",
+          "edition": "PC release"
+        },
+        {
+          "id": "P191",
+          "edition": "PC base game; Kingdom of Rizia expansion separate"
+        },
+        {
+          "id": "P192",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P193",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P194",
+          "edition": "PC sequel"
+        },
+        {
+          "id": "P195",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P196",
+          "edition": "PC release"
+        },
+        {
+          "id": "P197",
+          "edition": "PC release"
+        },
+        {
+          "id": "P198",
+          "edition": "PC release"
+        },
+        {
+          "id": "P199",
+          "edition": "PC Pristine Cut"
+        },
+        {
+          "id": "P200",
+          "edition": "PC episodic release; current completion status must be checked"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "games": [
+        {
+          "id": "P201",
+          "edition": "1993 SNES original / Collection of Mana on Switch; not 2018 remake"
+        },
+        {
+          "id": "P202",
+          "edition": "PC Farewell Edition"
+        },
+        {
+          "id": "P203",
+          "edition": "Nintendo Switch release"
+        },
+        {
+          "id": "P204",
+          "edition": "PC current release; platform and version must be recorded"
+        },
+        {
+          "id": "P205",
+          "edition": "Java & Bedrock Edition for PC; editions need separate control profiles"
+        },
+        {
+          "id": "P206",
+          "edition": "Nintendo Switch base game"
+        },
+        {
+          "id": "P207",
+          "edition": "PC release"
+        },
+        {
+          "id": "P208",
+          "edition": "PC release with two-player update"
+        },
+        {
+          "id": "P209",
+          "edition": "PC release"
+        },
+        {
+          "id": "P210",
+          "edition": "PC release"
+        },
+        {
+          "id": "P211",
+          "edition": "PC release; two devices required"
+        },
+        {
+          "id": "P212",
+          "edition": "2022 Nintendo Switch original; not Switch 2 Star-Crossed World edition"
+        },
+        {
+          "id": "P213",
+          "edition": "Nintendo Switch Deluxe edition"
+        },
+        {
+          "id": "P214",
+          "edition": "Nintendo Switch release"
+        },
+        {
+          "id": "P215",
+          "edition": "PC release; two-device format"
+        },
+        {
+          "id": "P216",
+          "edition": "Nintendo Switch version"
+        },
+        {
+          "id": "P217",
+          "edition": "Nintendo Switch release"
+        },
+        {
+          "id": "P218",
+          "edition": "Nintendo Switch base game; Plus expansion separate"
+        },
+        {
+          "id": "P219",
+          "edition": "PC release"
+        },
+        {
+          "id": "P220",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P221",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P222",
+          "edition": "PC release"
+        },
+        {
+          "id": "P223",
+          "edition": "PC release; co-op levels separate from solo story"
+        },
+        {
+          "id": "P224",
+          "edition": "PC release"
+        },
+        {
+          "id": "P225",
+          "edition": "PC release"
+        },
+        {
+          "id": "P226",
+          "edition": "PC release"
+        },
+        {
+          "id": "P227",
+          "edition": "PC release"
+        },
+        {
+          "id": "P228",
+          "edition": "PC release"
+        },
+        {
+          "id": "P229",
+          "edition": "2017 PC release; not original Wii U edition"
+        },
+        {
+          "id": "P230",
+          "edition": "PC base game"
+        },
+        {
+          "id": "P231",
+          "edition": "PC release; Creative mode separate"
+        },
+        {
+          "id": "P232",
+          "edition": "PC release"
+        },
+        {
+          "id": "P233",
+          "edition": "PC Remastered edition"
+        },
+        {
+          "id": "P234",
+          "edition": "PC Enchanted Edition"
+        },
+        {
+          "id": "P235",
+          "edition": "PC digital game; not the board game"
+        },
+        {
+          "id": "P236",
+          "edition": "Original PC release"
+        },
+        {
+          "id": "P237",
+          "edition": "PC complete two-act release"
+        },
+        {
+          "id": "P238",
+          "edition": "PC release; current version status must be checked"
+        },
+        {
+          "id": "P239",
+          "edition": "PC first game"
+        },
+        {
+          "id": "P240",
+          "edition": "PC release"
+        }
+      ]
+    }
+  ]
+}

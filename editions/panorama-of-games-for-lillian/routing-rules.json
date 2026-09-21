@@ -1,0 +1,264 @@
+{
+  "departments": [
+    {
+      "number": 1,
+      "title": "The Bureau of Suspiciously Interesting People"
+    },
+    {
+      "number": 2,
+      "title": "The Committee for Taking One's Turn"
+    },
+    {
+      "number": 3,
+      "title": "The Ministry of Looking Around Before Doing Anything"
+    },
+    {
+      "number": 4,
+      "title": "The Department of Things That Fit Into Other Things"
+    },
+    {
+      "number": 5,
+      "title": "The Office of People Who Have Something to Tell You"
+    },
+    {
+      "number": 6,
+      "title": "The Joint Commission for Bringing a Friend"
+    }
+  ],
+  "moods": [
+    "Quietly curious",
+    "Ready for conversation",
+    "Willing to inspect a thing",
+    "Here for the atmosphere",
+    "Open to a wildcard"
+  ],
+  "emblems": [
+    "Envelope",
+    "Key",
+    "Plant",
+    "Map",
+    "Teacup",
+    "Spare chair",
+    "Gold stamp",
+    "Clock"
+  ],
+  "aspects": [
+    [
+      "Two Detectives, One Sandwich",
+      "Mysteries to discuss together; a single-player game can support shared theorizing without claiming native co-op."
+    ],
+    [
+      "The Map Can Come to Me",
+      "Prefer a desk, static scenes or fixed framing; inspect the actual navigation demands."
+    ],
+    [
+      "I Keep Receipts for Ghosts",
+      "Supernatural investigations; check horror and emotional tone as well as controls."
+    ],
+    [
+      "A Small World with Large Opinions",
+      "A compact place can still offer interesting people; size and depth are separate."
+    ],
+    [
+      "Let Me Finish My Turn",
+      "Look at turn-based candidates, then check menu and planning demands."
+    ],
+    [
+      "Two Chairs, Two Useful Jobs",
+      "Seek actual co-op and examine whether both roles offer the kinds of agency you want."
+    ],
+    [
+      "The Plant Is Lying",
+      "Observation, classification and occult mysteries; watch for cross-referencing burden."
+    ],
+    [
+      "I Would Like to Build a Thing",
+      "Toys, creative modes and construction; check whether a quiet mode is actually available."
+    ],
+    [
+      "People Before Equipment",
+      "Character stories over gear optimization; reading and choice pressure still matter."
+    ],
+    [
+      "I Want a Place to Remember",
+      "Exploration with a strong setting; navigation and camera controls need their own check."
+    ],
+    [
+      "The Puzzle Can Wait for Me",
+      "Look for stated untimed behavior; genre labels alone do not establish this."
+    ],
+    [
+      "No Committee Can Tell Me My Taste",
+      "Choose a title directly. This trait defeats every arbitrary rule in this book without a roll."
+    ]
+  ],
+  "incidents": [
+    [
+      "The printer requests representation",
+      "It has printed “PC LOAD LETTER” on a page already containing a letter. Give it no further work; choose your row."
+    ],
+    [
+      "Tank finds the purchase order",
+      "The gold stamp cost more than the table. This changes no game controls. Choose your row while Aiden explains shipping."
+    ],
+    [
+      "The plant has filed an appeal",
+      "Its complaint is that every mystery assumes the plant knows something. You may hear it or choose your row."
+    ],
+    [
+      "Shawna removes a paragraph",
+      "Nobody can find a practical consequence. The book is shorter. Choose your row in celebration."
+    ],
+    [
+      "The spare chair becomes a department",
+      "It already offers more support than the committee. Sit if you want; then choose your row."
+    ],
+    [
+      "Mercedes selects a game directly",
+      "The ceremony has been outperformed by a preference. Follow her example or choose your row."
+    ],
+    [
+      "The stapler goes missing",
+      "Rosa is using it to hold two useful pages together. The suspected coup is stationery doing its job."
+    ],
+    [
+      "Aiden wins an award he commissioned",
+      "Tank asks who finished second. The certificate refuses to answer. Continue without a speech."
+    ],
+    [
+      "The map is upside down",
+      "Turn the paper, not the room. Camera comfort remains a separate issue."
+    ],
+    [
+      "The snacks are promoted",
+      "A biscuit is now Deputy Minister of Being Here. Its term ends when somebody actually wants it."
+    ],
+    [
+      "A mysterious envelope arrives",
+      "Inside is the same menu with bigger writing. This may be the only productive committee decision so far."
+    ],
+    [
+      "The clock is asked to leave",
+      "No timer has been added to the book. The clock can remain if everybody likes knowing what time dinner is."
+    ]
+  ],
+  "rules": [
+    [
+      "Article 1. Enter through any door you like",
+      [
+        "Choose a department by what you want to do. Book I investigates suspicious people. Book II lets a turn wait for you. Book III looks around. Book IV moves ideas and objects into place. Book V listens to characters. Book VI brings company. A game belongs to one shelf in this Panorama so the count stays honest; its pleasures can overlap several shelves.",
+        "Aiden originally proposed a seventh department to determine whether the first six were departments. Tank asked whether it had a chair. I said it had principles. He said that was why everybody was standing. The seventh department was abolished and its chair returned to the kitchen.",
+        "For the practical route, choose two titles from a shelf, read the catch, and try the more appealing opening. For the ceremonial route, continue below. The ceremony does not know better than you do."
+      ]
+    ],
+    [
+      "Article 2. Name what the evening needs",
+      [
+        "Write or say up to three actual preferences: no required rush; no separate camera steering; avoid held input; few menus; light reading; little clue tracking; or native co-op. Add any theme you do not want. You can choose fewer than three or add your own.",
+        "These are boundaries for the selection, not traits assigned to a person. They can change next time. The record should read “tonight, no camera wrestling,” not an assessment of somebody’s capabilities. One is useful information. The other is a stranger wearing a clipboard.",
+        "A source gap is not permission to promise a feature. If we have not established how a game handles a requirement, its card is a question to check or a reason to choose another game. The optional web finder treats strict feature filters conservatively. The printed cards put the concrete catch beside the temptation.",
+        "“What if the game gets a very good score?” I asked.",
+        "Shawna took the score away.",
+        "“What if it gets a gold score?”",
+        "She took the gold pen too."
+      ]
+    ],
+    [
+      "Article 3. Choose a row, because the binder demands coordinates",
+      [
+        "Each department has forty cases. Pick one of five rows: 1, Quietly Curious; 2, Ready for a Conversation; 3, Willing to Inspect a Thing; 4, Here for the Atmosphere; 5, Open to a Wildcard. These are ceremonial mood names. They do not certify that every game on a row meets that mood; the actual card and preferences decide that.",
+        "Choose a row freely. If you want dice, roll one ordinary six-sided die. Results 1–5 select that row. On a 6, visit the Incident Desk once and then choose a row yourself. There is no recursive reroll trap. The Incident Desk has had its authority to extend the evening revoked.",
+        "The office briefly tried measuring Quiet Curiosity in centimeters. Rosa came in, saw Tank holding a ruler beside a cup of tea, and asked which of us had paid for training. Nobody answered. We now use row numbers."
+      ]
+    ],
+    [
+      "Article 4. Select the object whose paperwork you distrust",
+      [
+        "Choose an emblem, or roll an eight-sided die: 1 Envelope, 2 Key, 3 Plant, 4 Map, 5 Teacup, 6 Spare Chair, 7 Gold Stamp, 8 Clock. Read the corresponding column of the department’s five-by-eight route grid.",
+        "The grid gives a case number. For example, department 1, row 2, emblem 3 gives local case 11, P011. Department 6 at those same coordinates gives P211. The same coordinates in different departments lead to different games. This is either a filing system or a multiverse, depending on whether you are speaking to Shawna or me.",
+        "The forty cases are arranged in catalogue order, not ranked from easy to hard. The object is an amusing way to choose where to look. A plant is not scientific evidence of compatibility. Strange Horticulture is permitted to look smug about this."
+      ]
+    ],
+    [
+      "Article 5. Optional: give the evening an outrageously specific title",
+      [
+        "Write one short session trait. Examples: “Two Detectives, One Sandwich”; “The Map Can Come to Me”; “I Want to Know What She Meant by That”; “A House with Excellent Stopping Places”; “The Plant Is Lying”; “My Friend Has the Other Controller.” A trait describes a taste or a situation, not a diagnosis.",
+        "Whenever it helps explain why a title sounds interesting, point to it. That explanation is already useful. You do not need a numeric bonus to care about a haunted town or a witness with a suspicious alibi.",
+        "If you enjoy the extra machinery, begin with three Stamp Tokens. Spend one token to add two to the optional paperwork total, or reroll the four paperwork dice once. Spend at most one token per selection. Refusing a game is always free. Tokens never buy exceptions to preferences. They exist because I ordered a bowl that said TOKENS before deciding what tokens did."
+      ]
+    ],
+    [
+      "Article 6. Optional: four dice acquire office jobs",
+      [
+        "Roll four ordinary six-sided dice. Each 1 or 2 means minus one, each 3 or 4 means zero, and each 5 or 6 means plus one. Add the four values. Your paperwork total is between minus four and plus four. This optional layer draws on Fate’s familiar signed-dice idea; the surrounding selection rules are original Panorama rules.",
+        "A negative result is not failure. It moves you backward in a circular shelf. A positive result moves you forward. A zero result means four dice have attended a meeting and declined to change anything. Aiden considers this a promotion opportunity.",
+        "If you spend a Stamp Token, either add two or reroll all four dice once and use the new total. You cannot buy a second modification on this selection. Reset to three tokens whenever you begin a new browsing session; no ledger needs to survive dinner.",
+        "“What is the maximum possible result?” Tank asked.",
+        "“Distinction.”",
+        "“A number, Aiden.”",
+        "“Plus six if you rolled plus four and spent a token for plus two.”",
+        "“See? We can say things.”"
+      ]
+    ],
+    [
+      "Article 7. Optional: the snack amendment",
+      [
+        "Record a separate snack adjustment: one if somebody has already brought the drink they wanted, plus one if wanted snacks are within reach and no one is expected to fetch them. The maximum snack adjustment is two. Keep it separate from the dice-and-stamp paperwork total; Article 8 adds it exactly once. If these conditions are irrelevant, use zero. This arithmetic is a joke about hospitality; nobody needs to eat or drink anything to participate.",
+        "I attempted to claim an additional bonus because the plate was expensive. Mercedes turned it over and found the price sticker. Tank said the sticker had more authority than the plate. We removed the proposed Wealth of Crockery modifier and carried on.",
+        "Do not delay choosing a game to qualify for this amendment. Do not make a snack score into a task for somebody else. The best possible snack state is people having what they actually want."
+      ]
+    ],
+    [
+      "Article 8. The entirely unnecessary formula",
+      [
+        "First find the local case from the grid: eight times (row minus one), plus emblem. Add the paperwork total and the snack adjustment, if you used them. If the result exceeds forty, subtract forty until it is 1–40. If it is below one, add forty until it is 1–40. Otherwise keep it. The final local case number is always between 1 and 40.",
+        "Then add forty times (department minus one) to get the complete P-number. Department 3, row 1, emblem 2 starts at local case 2. A paperwork total of minus three and a snack adjustment of one gives zero. Wrap zero to forty. In department 3, local case forty is P120.",
+        "This is a shelf address. It is not a probability of enjoyment, a cognitive score, a ranking, or an instruction to buy something. It chooses a page to consider. Read that page’s ordinary fields before treating it as a candidate.",
+        "I wrote the formula on a whiteboard. Tank copied it onto a napkin. Shawna chose a game from the index while we were still discussing which version looked more official. All three methods reached a page. Only one required cleaning a whiteboard."
+      ]
+    ],
+    [
+      "Article 9. Read the ruling, then check the real game",
+      [
+        "Every case has two voices doing different jobs. Aiden’s scene and ceremonial ruling provide the comedy. The ordinary pleasure, actual catch and first action provide the useful selection information. A funny reason is not a source for a game feature.",
+        "Check the exact edition and platform. A remake can change movement, menus and saves. A touch port can differ from a desktop pointer. A Steam store date may be the port’s date rather than the original release. Local co-op, online co-op and two people discussing a single-player game are not interchangeable.",
+        "If the card conflicts with a real preference, reject the candidate. If it is promising but has an unresolved operation, check that specific operation before investing in it. “Can we select this inventory object comfortably?” is more useful than “Is this an easy game?”",
+        "The stamp says PROVISIONALLY INTERESTING. I wanted DESTINY CONFIRMED. Rosa explained that destiny could come over and set up the controller if it felt that strongly."
+      ]
+    ],
+    [
+      "Article 10. The appeals court",
+      [
+        "You may make one ceremonial appeal or skip the ceremony entirely. To appeal, choose a neighbor: the previous local case, the next local case, or the same local case in another department. Wrap case 1 backward to 40 and case 40 forward to 1. Check the new card as usual.",
+        "After that one appeal, stop calculating. Choose either candidate, browse the direct index or close the book. Every route ends with a human decision; there is no compulsory loop, escalating fee or penalty for declining both.",
+        "Aiden’s right of appeal is limited to thirty seconds of dramatic silence. The book does not actually time that silence. Tank usually fills it by asking who wants the last biscuit.",
+        "If the perfect result is “we would rather talk,” the system has located an activity. It will not print a certificate unless you ask. I have already designed the certificate."
+      ]
+    ],
+    [
+      "Article 11. A genuinely useful first session",
+      [
+        "Load the chosen edition before introducing its controls. Show one meaningful action. Keep a reminder if wanted. Find pause, save or exit so leaving feels ordinary. Do not turn a trial into a lesson with a hidden passing grade.",
+        "For a mystery, that might mean one conversation or one clue. For an exploration game, a nearby path and a place to stop. For a turn-based game, one decision with the menus already explained. For co-op, agree who wants which role and whether the roles have equal kinds of action.",
+        "Stop, change games or take a break whenever wanted. A day off makes room for leisure; it does not require a whole day of screen time. The useful note afterward is a sentence about what was enjoyable and where to resume.",
+        "“How will we know it worked?” I asked.",
+        "Mercedes glanced at the enormous binder.",
+        "“If they forget about this for a while.”",
+        "I accepted the compliment after modifying its tone internally."
+      ]
+    ],
+    [
+      "Article 12. What these departments are allowed to claim",
+      [
+        "This is a researched, source-linked candidate catalogue with original comic writing. Game descriptions were checked against publisher, developer, platform or identified supporting sources. Control classifications and first-trial suggestions are editorial judgments unless tied to an explicit declaration. No card claims a complete-path playtest.",
+        "The catalogue deliberately contains different levels of complexity. Turn-based strategy and elaborate deduction belong here only for readers who want those specific demands. The direct index and catches let you pass them by. “There are two hundred and forty games” does not mean “all two hundred and forty will suit the same evening.”",
+        "The offline finder uses the same case IDs as the books. It makes no network requests and does not inspect your library. Marking a title interesting does not install or buy it. Its strict feature filters require stated evidence; an unknown is not silently accepted.",
+        "The final authority remains the person playing. The opening scene, the next conversation, the wish to continue: those are results the printed research cannot manufacture. I can commission a gold seal. I cannot make somebody like a fishing minigame. Several fisheries have been unnecessarily involved in establishing this distinction."
+      ]
+    ]
+  ],
+  "stamp_tokens": 3,
+  "max_modification_actions_per_selection": 1,
+  "max_appeals_per_selection": 1,
+  "veto_is_free": true
+}

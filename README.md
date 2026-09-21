@@ -1,5 +1,13 @@
 # Ten Toes Down
 
+## The Panorama of Games for Lillian
+
+**240 real games · six comic catalogue volumes · 310 reading pages.** Aiden creates an extravagantly unnecessary game-selection administration, complete with dice, imaginary stamps, a snack amendment and an appeals court. Lillian can ignore all of it and choose directly.
+
+[Open the Panorama](editions/panorama-of-games-for-lillian/) · [Complete PDF](editions/panorama-of-games-for-lillian/Panorama-Complete-Omnibus.pdf) · [EPUB](editions/panorama-of-games-for-lillian/Ten-Toes-Down-Panorama.epub) · [Offline reader bundle](editions/panorama-of-games-for-lillian/Panorama-Reader-Bundle.zip)
+
+Original companion prose by ChatGPT under Nolan's creative direction. Includes 86,073 words of comic scenes, game descriptions and original selection rules; 106,435 words in the full manuscript with headings, metadata and source notes. Game demands and edition-specific catches are stated beside the comedy. The existing novels remain intact.
+
 ## Google Docs: books and listening parts
 
 [Choose an edition and book](GOOGLE-DOCS.md) · [Open the Start Here index](https://docs.google.com/document/d/1TfSuhI79CTpGRgRYYLrmTI3HI7PYsQTZ4eVS9cubUw0)

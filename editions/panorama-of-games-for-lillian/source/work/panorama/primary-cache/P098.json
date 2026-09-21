@@ -1,0 +1,26 @@
+{
+  "id": "P098",
+  "status": "matched",
+  "title": "Journey",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/638230/",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}

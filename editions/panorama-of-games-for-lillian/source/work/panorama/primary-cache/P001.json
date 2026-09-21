@@ -1,0 +1,19 @@
+{
+  "id": "P001",
+  "status": "matched",
+  "title": "The Blackwell Legacy",
+  "type": "game",
+  "source_url": "https://store.steampowered.com/app/80330/",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Cloud",
+    "Commentary available",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "checked": "2026-09-20"
+}
