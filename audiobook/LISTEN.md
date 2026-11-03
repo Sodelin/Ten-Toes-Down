@@ -95,7 +95,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 17/22 recordings uploaded
+## Book 4 — 18/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -116,7 +116,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 15. Rich Niggas Float Differently | [MP3 · 12.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-15.mp3) | [Read](chapters/book-04/chapter-15/script.md) |
 | 16. Nigga, That's My Dance Partner | [MP3 · 12.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-16.mp3) | [Read](chapters/book-04/chapter-16/script.md) |
 | 17. Every City Sent a Key | [MP3 · 9.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-17.mp3) | [Read](chapters/book-04/chapter-17/script.md) |
-| 18. The Night the Flags Changed | ready | [Read](chapters/book-04/chapter-18/script.md) |
+| 18. The Night the Flags Changed | [MP3 · 9.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-18.mp3) | [Read](chapters/book-04/chapter-18/script.md) |
 | 19. Twenty Champions and the Nigga They Were Chasing | ready | [Read](chapters/book-04/chapter-19/script.md) |
 | 20. The Last Thing the General Learned | ready | [Read](chapters/book-04/chapter-20/script.md) |
 | 21. Nigga, We Found the Other Rich | ready | [Read](chapters/book-04/chapter-21/script.md) |
