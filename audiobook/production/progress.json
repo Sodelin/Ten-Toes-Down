@@ -2114,7 +2114,7 @@
       "segments": 64,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T23:37:50.282793+00:00",
+      "updated_at": "2026-11-03T23:38:07.894134+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-02.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2129,7 +2129,7 @@
       "id": "b05-c03",
       "book": 5,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-03",
       "release_tag": "audiobook-book-05",
       "title": "3. Eleven Years Undefeated Until I Took My Shirt Off",
@@ -2138,7 +2138,17 @@
       "narrator": "TICKET",
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T23:43:00.824793+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "7b792b99c880bfe637b9736b3dc5b853023e92f4e59bdd83b7e49702a0e649ec",
+        "duration_seconds": 1237.087,
+        "uploaded_at": "2026-11-03T23:43:14.816058+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c04",
