@@ -1764,7 +1764,7 @@
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:11:54.814764+00:00",
+      "updated_at": "2026-11-03T22:12:11.042171+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-10.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1779,7 +1779,7 @@
       "id": "b04-c11",
       "book": 4,
       "chapter": 11,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-11",
       "release_tag": "audiobook-book-04",
       "title": "11. A Gunfight with Excellent Manners",
@@ -1788,7 +1788,17 @@
       "narrator": "TICKET",
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:18:02.430196+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-11.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "a3e8f215367fd8e6a8854b60da0d12e26bda3e64ff854ebec34312e42f82dd3d",
+        "duration_seconds": 719.94125,
+        "uploaded_at": "2026-11-03T22:18:12.279378+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c12",
