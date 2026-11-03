@@ -127,7 +127,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 4 playlist](books/book-04.m3u)
 
 
-## Book 5 — 5/23 recordings uploaded
+## Book 5 — 6/23 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -136,7 +136,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 3. Eleven Years Undefeated Until I Took My Shirt Off | [MP3 · 20.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-03.mp3) | [Read](chapters/book-05/chapter-03/script.md) |
 | 4. My Wife Wore Blue to a Black-Tie War | [MP3 · 21.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-04.mp3) | [Read](chapters/book-05/chapter-04/script.md) |
 | 5. The Nigga on the Hood Was Me | [MP3 · 16.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-05.mp3) | [Read](chapters/book-05/chapter-05/script.md) |
-| 6. The Woman in the Red Coat | ready | [Read](chapters/book-05/chapter-06/script.md) |
+| 6. The Woman in the Red Coat | [MP3 · 16.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-06.mp3) | [Read](chapters/book-05/chapter-06/script.md) |
 | 7. We Chose Each Other and Took Both Cars | ready | [Read](chapters/book-05/chapter-07/script.md) |
 | 8. The King Behind the Wall | ready | [Read](chapters/book-05/chapter-08/script.md) |
 | 9. I Bought the Auctioneer's Car While He Was Still in It | ready | [Read](chapters/book-05/chapter-09/script.md) |

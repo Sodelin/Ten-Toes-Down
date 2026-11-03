@@ -2189,7 +2189,7 @@
       "segments": 45,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T23:52:32.924043+00:00",
+      "updated_at": "2026-11-03T23:52:48.298433+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-05.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2204,7 +2204,7 @@
       "id": "b05-c06",
       "book": 5,
       "chapter": 6,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-06",
       "release_tag": "audiobook-book-05",
       "title": "6. The Woman in the Red Coat",
@@ -2213,7 +2213,17 @@
       "narrator": "TICKET",
       "segments": 46,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T23:56:46.786732+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-06.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "189885461fa44cbb2bc2a2badb1f7199b4b414aaf05c578ad57f7a780e1abee1",
+        "duration_seconds": 970.8199166666667,
+        "uploaded_at": "2026-11-03T23:56:58.805166+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c07",
