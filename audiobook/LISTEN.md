@@ -95,7 +95,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 21/22 recordings uploaded
+## Book 4 — 22/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -120,7 +120,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 19. Twenty Champions and the Nigga They Were Chasing | [MP3 · 14.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-19.mp3) | [Read](chapters/book-04/chapter-19/script.md) |
 | 20. The Last Thing the General Learned | [MP3 · 14.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-20.mp3) | [Read](chapters/book-04/chapter-20/script.md) |
 | 21. Nigga, We Found the Other Rich | [MP3 · 11.1 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-21.mp3) | [Read](chapters/book-04/chapter-21/script.md) |
-| 22. A Nigga Leaves with More Than He Brought | ready | [Read](chapters/book-04/chapter-22/script.md) |
+| 22. A Nigga Leaves with More Than He Brought | [MP3 · 12.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-22.mp3) | [Read](chapters/book-04/chapter-22/script.md) |
 
 [Book 4 playlist](books/book-04.m3u)
 

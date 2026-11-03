@@ -2039,7 +2039,7 @@
       "segments": 30,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T23:14:49.666152+00:00",
+      "updated_at": "2026-11-03T23:15:02.980488+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-21.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -2054,7 +2054,7 @@
       "id": "b04-c22",
       "book": 4,
       "chapter": 22,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-22",
       "release_tag": "audiobook-book-04",
       "title": "22. A Nigga Leaves with More Than He Brought",
@@ -2063,7 +2063,17 @@
       "narrator": "TICKET",
       "segments": 36,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T23:18:05.569516+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-22.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "5a9f3be95d0990b2f70e237b8c4cbb03ba8c370422312a89c368022afd839b7b",
+        "duration_seconds": 775.199625,
+        "uploaded_at": "2026-11-03T23:18:16.375738+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c01",
