@@ -1839,7 +1839,7 @@
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:31:33.502088+00:00",
+      "updated_at": "2026-11-03T22:31:48.319237+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-13.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1854,7 +1854,7 @@
       "id": "b04-c14",
       "book": 4,
       "chapter": 14,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-14",
       "release_tag": "audiobook-book-04",
       "title": "14. The Nigga Who Wanted to Go Home",
@@ -1863,7 +1863,17 @@
       "narrator": "TICKET",
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:37:08.300878+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-14.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "0a80ee5e6d83ab355dde6db089a8a9c96cd80a6e6fc758c9d3ebc08904eefa70",
+        "duration_seconds": 666.7547916666666,
+        "uploaded_at": "2026-11-03T22:37:18.185635+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c15",
