@@ -2089,7 +2089,7 @@
       "segments": 71,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T23:31:50.307376+00:00",
+      "updated_at": "2026-11-03T23:32:12.982615+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-01.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2104,7 +2104,7 @@
       "id": "b05-c02",
       "book": 5,
       "chapter": 2,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-02",
       "release_tag": "audiobook-book-05",
       "title": "2. I Arrested the Man Who Paid for Dinner",
@@ -2113,7 +2113,17 @@
       "narrator": "TICKET",
       "segments": 64,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T23:37:50.282793+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-02.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "e5895a60cdd155c01e4feffd81e9d129a7a70dec7feda46fc673e793a53949e5",
+        "duration_seconds": 1363.8287916666666,
+        "uploaded_at": "2026-11-03T23:38:04.571548+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c03",
