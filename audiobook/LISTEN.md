@@ -95,7 +95,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 11/22 recordings uploaded
+## Book 4 — 12/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -110,7 +110,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 9. My Brother Put a Ring on the Whole Damn Night | [MP3 · 13.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-09.mp3) | [Read](chapters/book-04/chapter-09/script.md) |
 | 10. Nigga, I Fed the Navy | [MP3 · 14.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-10.mp3) | [Read](chapters/book-04/chapter-10/script.md) |
 | 11. A Gunfight with Excellent Manners | [MP3 · 12.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-11.mp3) | [Read](chapters/book-04/chapter-11/script.md) |
-| 12. The Movie Could Barely Afford Me | ready | [Read](chapters/book-04/chapter-12/script.md) |
+| 12. The Movie Could Barely Afford Me | [MP3 · 15.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-12.mp3) | [Read](chapters/book-04/chapter-12/script.md) |
 | 13. Even the Horse Knew Who the Fuck I Was | ready | [Read](chapters/book-04/chapter-13/script.md) |
 | 14. The Nigga Who Wanted to Go Home | ready | [Read](chapters/book-04/chapter-14/script.md) |
 | 15. Rich Niggas Float Differently | ready | [Read](chapters/book-04/chapter-15/script.md) |
