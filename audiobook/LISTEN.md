@@ -95,7 +95,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 3 playlist](books/book-03.m3u)
 
 
-## Book 4 — 8/22 recordings uploaded
+## Book 4 — 9/22 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -107,7 +107,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 6. Nigga, I Also Know the Answer | [MP3 · 16.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-06.mp3) | [Read](chapters/book-04/chapter-06/script.md) |
 | 7. She Stole the Pearl and I Stole the Show | [MP3 · 14.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-07.mp3) | [Read](chapters/book-04/chapter-07/script.md) |
 | 8. The Floor Got Jealous of My Feet | [MP3 · 17.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-08.mp3) | [Read](chapters/book-04/chapter-08/script.md) |
-| 9. My Brother Put a Ring on the Whole Damn Night | ready | [Read](chapters/book-04/chapter-09/script.md) |
+| 9. My Brother Put a Ring on the Whole Damn Night | [MP3 · 13.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-09.mp3) | [Read](chapters/book-04/chapter-09/script.md) |
 | 10. Nigga, I Fed the Navy | ready | [Read](chapters/book-04/chapter-10/script.md) |
 | 11. A Gunfight with Excellent Manners | ready | [Read](chapters/book-04/chapter-11/script.md) |
 | 12. The Movie Could Barely Afford Me | ready | [Read](chapters/book-04/chapter-12/script.md) |
