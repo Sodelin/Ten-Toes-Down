@@ -97,6 +97,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 4 — 22/22 recordings uploaded
 
+[Complete Book 4 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The City Pulled Me Over to Thank Me | [MP3 · 19.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-01.mp3) | [Read](chapters/book-04/chapter-01/script.md) |
