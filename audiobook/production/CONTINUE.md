@@ -1,3 +1,5 @@
+> **2026-11-03 authentication recovery:** GitHub identity is verified as Sodelin. Book IV chapters 7 and 8 passed preserved-output and current source checks in TICKET / am_michael at speed 0.95. Chapter 7 is reset to rendered under state.locked_progress for a bounded publication retry; chapter 8 remains rendered. The authentication STOP is archived in work/production-logs/recovery-20261103T2153Z. After Chapter 7 publishes successfully, resume exactly one existing worker. The prior restart hold was resolved by the user on 2026-09-25, and the authentication hold is now resolved. Do not transfer desktop credentials; that rejected route remains prohibited.
+
 # Current production checkpoint
 
 The user changed direction: use ONE narrator for every remaining chapter, specifically the funeral ticket man, the second voice in the pilot. This is TICKET, Kokoro am_michael at speed 0.95. Do not return to Aiden/Tank synthesis or multi-character casting. Keep every book word for word.
