@@ -1739,7 +1739,7 @@
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:04:31.305320+00:00",
+      "updated_at": "2026-11-03T22:04:45.755935+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-09.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1754,7 +1754,7 @@
       "id": "b04-c10",
       "book": 4,
       "chapter": 10,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-10",
       "release_tag": "audiobook-book-04",
       "title": "10. Nigga, I Fed the Navy",
@@ -1763,7 +1763,17 @@
       "narrator": "TICKET",
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:11:54.814764+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-10.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "b8b01c013aade4959b17d72fffc3109b64017f9d7d05e4b19a70369f4c66155b",
+        "duration_seconds": 878.5925833333333,
+        "uploaded_at": "2026-11-03T22:12:06.603685+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c11",
