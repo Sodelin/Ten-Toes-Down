@@ -1889,7 +1889,7 @@
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:43:32.568898+00:00",
+      "updated_at": "2026-11-03T22:43:47.488707+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-15.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1904,7 +1904,7 @@
       "id": "b04-c16",
       "book": 4,
       "chapter": 16,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-16",
       "release_tag": "audiobook-book-04",
       "title": "16. Nigga, That's My Dance Partner",
@@ -1913,7 +1913,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:49:55.362313+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-16.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "e47cab9707d91124f32b90afbcc05f43c18c67f159e47ab9ceff7f61b7bb8479",
+        "duration_seconds": 757.9588333333334,
+        "uploaded_at": "2026-11-03T22:50:05.975459+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c17",
