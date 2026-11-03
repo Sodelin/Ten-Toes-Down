@@ -1914,7 +1914,7 @@
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:49:55.362313+00:00",
+      "updated_at": "2026-11-03T22:50:09.742718+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-16.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1929,7 +1929,7 @@
       "id": "b04-c17",
       "book": 4,
       "chapter": 17,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-17",
       "release_tag": "audiobook-book-04",
       "title": "17. Every City Sent a Key",
@@ -1938,7 +1938,17 @@
       "narrator": "TICKET",
       "segments": 28,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:54:51.797731+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-17.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "5ef5b425b3a5a9543d8404b12a877f13efd97f65ecb3a13886b5271ab64fb9f1",
+        "duration_seconds": 576.4324583333333,
+        "uploaded_at": "2026-11-03T22:55:01.369817+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c18",
