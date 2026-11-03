@@ -1814,7 +1814,7 @@
       "segments": 43,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-03T22:25:47.494810+00:00",
+      "updated_at": "2026-11-03T22:26:04.327002+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
@@ -1829,7 +1829,7 @@
       "id": "b04-c13",
       "book": 4,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-04/chapter-13",
       "release_tag": "audiobook-book-04",
       "title": "13. Even the Horse Knew Who the Fuck I Was",
@@ -1838,7 +1838,17 @@
       "narrator": "TICKET",
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-03T22:31:33.502088+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-04",
+        "audio_sha256": "c0773174576683749c29eac4bacaef94a6cfa02149c84dc5f4561ec235143917",
+        "duration_seconds": 684.3595,
+        "uploaded_at": "2026-11-03T22:31:43.442481+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b04-c14",
