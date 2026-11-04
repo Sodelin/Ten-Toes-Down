@@ -2939,7 +2939,7 @@
       "segments": 29,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:05:33.149050+00:00",
+      "updated_at": "2026-11-04T05:05:46.186977+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2954,7 +2954,7 @@
       "id": "b06-c13",
       "book": 6,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-13",
       "release_tag": "audiobook-book-06",
       "title": "13. Put the Crown on the Correct Nigga",
@@ -2963,7 +2963,17 @@
       "narrator": "TICKET",
       "segments": 34,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:08:49.086115+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "fd31da852e2c426d6947ce4635a1558ab6c019d49d30c7a07f69ece664041ee1",
+        "duration_seconds": 748.746625,
+        "uploaded_at": "2026-11-04T05:08:59.049796+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c14",
