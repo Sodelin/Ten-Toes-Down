@@ -3089,7 +3089,7 @@
       "segments": 60,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:25:39.252888+00:00",
+      "updated_at": "2026-11-04T05:25:57.643357+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-18.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -3104,7 +3104,7 @@
       "id": "b06-c19",
       "book": 6,
       "chapter": 19,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-19",
       "release_tag": "audiobook-book-06",
       "title": "19. Keys for Everybody I Love",
@@ -3113,7 +3113,17 @@
       "narrator": "TICKET",
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:28:53.595789+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-19.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "29c0a04846c669bba3e076772e3abcd576468bbafb119af0877a2e0563641400",
+        "duration_seconds": 699.5413333333333,
+        "uploaded_at": "2026-11-04T05:29:03.354048+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c20",
