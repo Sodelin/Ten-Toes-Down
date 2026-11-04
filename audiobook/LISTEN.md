@@ -127,7 +127,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 4 playlist](books/book-04.m3u)
 
 
-## Book 5 — 15/23 recordings uploaded
+## Book 5 — 16/23 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -146,7 +146,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 13. The Wedding I Ruined Beautifully | [MP3 · 12.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-13.mp3) | [Read](chapters/book-05/chapter-13/script.md) |
 | 14. The Horse Came Into the Club Because I Needed Him | [MP3 · 13.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-14.mp3) | [Read](chapters/book-05/chapter-14/script.md) |
 | 15. Rusk Wrote My Name Too Large for the Door | [MP3 · 10.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-15.mp3) | [Read](chapters/book-05/chapter-15/script.md) |
-| 16. The Emperor Finally Invited Me to Sit Down | ready | [Read](chapters/book-05/chapter-16/script.md) |
+| 16. The Emperor Finally Invited Me to Sit Down | [MP3 · 11.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-16.mp3) | [Read](chapters/book-05/chapter-16/script.md) |
 | 17. I Stole the Yacht Before the Coronation | ready | [Read](chapters/book-05/chapter-17/script.md) |
 | 18. They Crowned Me While I Was Looking for My Horse | ready | [Read](chapters/book-05/chapter-18/script.md) |
 | 19. Seven Points and One Beautiful Head | ready | [Read](chapters/book-05/chapter-19/script.md) |

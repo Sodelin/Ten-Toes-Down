@@ -2439,7 +2439,7 @@
       "segments": 29,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:32:32.176361+00:00",
+      "updated_at": "2026-11-04T00:32:46.811713+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-15.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2454,7 +2454,7 @@
       "id": "b05-c16",
       "book": 5,
       "chapter": 16,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-16",
       "release_tag": "audiobook-book-05",
       "title": "16. The Emperor Finally Invited Me to Sit Down",
@@ -2463,7 +2463,17 @@
       "narrator": "TICKET",
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:35:24.754455+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-16.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "df5cf39402eaf1d94142a7dd3c647d2e4a96878b796f2a1167d524bf28d316f3",
+        "duration_seconds": 681.4288333333334,
+        "uploaded_at": "2026-11-04T00:35:34.643148+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c17",
