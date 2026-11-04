@@ -2264,7 +2264,7 @@
       "segments": 46,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:05:20.914577+00:00",
+      "updated_at": "2026-11-04T00:05:37.754046+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-08.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2279,7 +2279,7 @@
       "id": "b05-c09",
       "book": 5,
       "chapter": 9,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-09",
       "release_tag": "audiobook-book-05",
       "title": "9. I Bought the Auctioneer's Car While He Was Still in It",
@@ -2288,7 +2288,17 @@
       "narrator": "TICKET",
       "segments": 40,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:09:16.768847+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-09.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "c8d2a2bfa32c6175434907cc6d6133ad5b3456ec6d2812122d0ba881270d7d15",
+        "duration_seconds": 918.19,
+        "uploaded_at": "2026-11-04T00:09:27.861205+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c10",
