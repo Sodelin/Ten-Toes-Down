@@ -2314,7 +2314,7 @@
       "segments": 50,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:13:41.054929+00:00",
+      "updated_at": "2026-11-04T00:14:02.909715+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-10.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2329,7 +2329,7 @@
       "id": "b05-c11",
       "book": 5,
       "chapter": 11,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-11",
       "release_tag": "audiobook-book-05",
       "title": "11. My Wife Sang Through the Whole Damn Thing",
@@ -2338,7 +2338,17 @@
       "narrator": "TICKET",
       "segments": 53,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:18:10.417542+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-11.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "b8e716137a40fad4bb596f10a14436d3e8c056725e55a167ee208e3f05875809",
+        "duration_seconds": 1105.8248333333333,
+        "uploaded_at": "2026-11-04T00:18:22.719599+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c12",
