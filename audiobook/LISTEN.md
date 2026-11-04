@@ -127,7 +127,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 4 playlist](books/book-04.m3u)
 
 
-## Book 5 — 9/23 recordings uploaded
+## Book 5 — 10/23 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -140,7 +140,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 7. We Chose Each Other and Took Both Cars | [MP3 · 16.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-07.mp3) | [Read](chapters/book-05/chapter-07/script.md) |
 | 8. The King Behind the Wall | [MP3 · 17.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-08.mp3) | [Read](chapters/book-05/chapter-08/script.md) |
 | 9. I Bought the Auctioneer's Car While He Was Still in It | [MP3 · 15.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-09.mp3) | [Read](chapters/book-05/chapter-09/script.md) |
-| 10. The Prince Learned to Carry Something | ready | [Read](chapters/book-05/chapter-10/script.md) |
+| 10. The Prince Learned to Carry Something | [MP3 · 17.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-10.mp3) | [Read](chapters/book-05/chapter-10/script.md) |
 | 11. My Wife Sang Through the Whole Damn Thing | ready | [Read](chapters/book-05/chapter-11/script.md) |
 | 12. Mercedes and Porsche Took the Wheel | ready | [Read](chapters/book-05/chapter-12/script.md) |
 | 13. The Wedding I Ruined Beautifully | ready | [Read](chapters/book-05/chapter-13/script.md) |

@@ -2289,7 +2289,7 @@
       "segments": 40,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:09:16.768847+00:00",
+      "updated_at": "2026-11-04T00:09:31.340218+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-09.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2304,7 +2304,7 @@
       "id": "b05-c10",
       "book": 5,
       "chapter": 10,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-10",
       "release_tag": "audiobook-book-05",
       "title": "10. The Prince Learned to Carry Something",
@@ -2313,7 +2313,17 @@
       "narrator": "TICKET",
       "segments": 50,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:13:41.054929+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-10.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "9d035ad7a8708d941f045ebc44804d511ea0e9ebe28ba830e5a01ac9762ca2e0",
+        "duration_seconds": 1072.543875,
+        "uploaded_at": "2026-11-04T00:13:57.252183+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c11",
