@@ -2364,7 +2364,7 @@
       "segments": 58,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:23:14.855422+00:00",
+      "updated_at": "2026-11-04T00:23:31.272951+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-12.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2379,7 +2379,7 @@
       "id": "b05-c13",
       "book": 5,
       "chapter": 13,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-13",
       "release_tag": "audiobook-book-05",
       "title": "13. The Wedding I Ruined Beautifully",
@@ -2388,7 +2388,17 @@
       "narrator": "TICKET",
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:26:26.928365+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-13.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "9f503bcfafcc8d545df53b967f36ea6e8b6e5f1a5b6759fa668c0d351f8c533f",
+        "duration_seconds": 738.0749583333334,
+        "uploaded_at": "2026-11-04T00:26:36.607867+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c14",

@@ -127,7 +127,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 4 playlist](books/book-04.m3u)
 
 
-## Book 5 — 12/23 recordings uploaded
+## Book 5 — 13/23 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -143,7 +143,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 10. The Prince Learned to Carry Something | [MP3 · 17.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-10.mp3) | [Read](chapters/book-05/chapter-10/script.md) |
 | 11. My Wife Sang Through the Whole Damn Thing | [MP3 · 18.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-11.mp3) | [Read](chapters/book-05/chapter-11/script.md) |
 | 12. Mercedes and Porsche Took the Wheel | [MP3 · 20.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-12.mp3) | [Read](chapters/book-05/chapter-12/script.md) |
-| 13. The Wedding I Ruined Beautifully | ready | [Read](chapters/book-05/chapter-13/script.md) |
+| 13. The Wedding I Ruined Beautifully | [MP3 · 12.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-13.mp3) | [Read](chapters/book-05/chapter-13/script.md) |
 | 14. The Horse Came Into the Club Because I Needed Him | ready | [Read](chapters/book-05/chapter-14/script.md) |
 | 15. Rusk Wrote My Name Too Large for the Door | ready | [Read](chapters/book-05/chapter-15/script.md) |
 | 16. The Emperor Finally Invited Me to Sit Down | ready | [Read](chapters/book-05/chapter-16/script.md) |
