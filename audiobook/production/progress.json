@@ -2564,7 +2564,7 @@
       "segments": 37,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:49:00.876485+00:00",
+      "updated_at": "2026-11-04T00:49:15.269522+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-20.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2579,7 +2579,7 @@
       "id": "b05-c21",
       "book": 5,
       "chapter": 21,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-21",
       "release_tag": "audiobook-book-05",
       "title": "21. The Last Palace in the Way",
@@ -2588,7 +2588,17 @@
       "narrator": "TICKET",
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:52:51.699535+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-21.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "023af43bc4900e7e2a70edb624a0535a54d8a6a44a43f2820ccd0799a95db259",
+        "duration_seconds": 938.639375,
+        "uploaded_at": "2026-11-04T00:53:03.517178+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c22",
