@@ -2889,7 +2889,7 @@
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T04:59:41.354449+00:00",
+      "updated_at": "2026-11-04T04:59:55.089883+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-10.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2904,7 +2904,7 @@
       "id": "b06-c11",
       "book": 6,
       "chapter": 11,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-11",
       "release_tag": "audiobook-book-06",
       "title": "11. The Traffic Stop Heard Around the World",
@@ -2913,7 +2913,17 @@
       "narrator": "TICKET",
       "segments": 30,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:02:40.523628+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-11.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "fa3c463e352c9f17dbf6fab956ed3d1e993f89d4f1f0d99f12b0c3a05b65a45a",
+        "duration_seconds": 656.1042083333333,
+        "uploaded_at": "2026-11-04T05:02:49.917565+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c12",
