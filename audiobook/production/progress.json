@@ -2514,7 +2514,7 @@
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:42:33.454712+00:00",
+      "updated_at": "2026-11-04T00:42:47.381175+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-18.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2529,7 +2529,7 @@
       "id": "b05-c19",
       "book": 5,
       "chapter": 19,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-19",
       "release_tag": "audiobook-book-05",
       "title": "19. Seven Points and One Beautiful Head",
@@ -2538,7 +2538,17 @@
       "narrator": "TICKET",
       "segments": 36,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:45:43.052307+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-19.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "6e232dc80121bb400b2c1b8b47b7c6269c8c4c363b94692b0c1087fe551fe24c",
+        "duration_seconds": 781.5032916666667,
+        "uploaded_at": "2026-11-04T00:45:53.327685+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c20",
