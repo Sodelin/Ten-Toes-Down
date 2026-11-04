@@ -3039,7 +3039,7 @@
       "segments": 29,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:17:00.435521+00:00",
+      "updated_at": "2026-11-04T05:17:14.521931+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-16.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -3054,7 +3054,7 @@
       "id": "b06-c17",
       "book": 6,
       "chapter": 17,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-17",
       "release_tag": "audiobook-book-06",
       "title": "17. Vegas Had Been Practicing My Name",
@@ -3063,7 +3063,17 @@
       "narrator": "TICKET",
       "segments": 32,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:20:10.975954+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-17.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "80c8ee79b4976829d5b2d2e6d4525b140f6a9d5fd0a2d308b3c506fd6150ef37",
+        "duration_seconds": 731.5235,
+        "uploaded_at": "2026-11-04T05:20:21.712545+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c18",

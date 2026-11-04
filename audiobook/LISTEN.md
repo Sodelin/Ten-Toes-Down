@@ -160,7 +160,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 16/24 recordings uploaded
+## Book 6 — 17/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -180,7 +180,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 14. The Last Road Out | [MP3 · 10.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-14.mp3) | [Read](chapters/book-06/chapter-14/script.md) |
 | 15. The Last Nigga Who Thought He Could | [MP3 · 10.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-15.mp3) | [Read](chapters/book-06/chapter-15/script.md) |
 | 16. The Emperor Left Me a Receipt | [MP3 · 10.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-16.mp3) | [Read](chapters/book-06/chapter-16/script.md) |
-| 17. Vegas Had Been Practicing My Name | ready | [Read](chapters/book-06/chapter-17/script.md) |
+| 17. Vegas Had Been Practicing My Name | [MP3 · 12.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-17.mp3) | [Read](chapters/book-06/chapter-17/script.md) |
 | 18. The Valedictorian Came Back for His People | ready | [Read](chapters/book-06/chapter-18/script.md) |
 | 19. Keys for Everybody I Love | ready | [Read](chapters/book-06/chapter-19/script.md) |
 | 20. The Bachelor Party with the Wrong Speech | ready | [Read](chapters/book-06/chapter-20/script.md) |
