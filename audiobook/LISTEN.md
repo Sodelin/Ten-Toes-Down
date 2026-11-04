@@ -160,7 +160,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 11/24 recordings uploaded
+## Book 6 — 12/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -175,7 +175,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 9. Every Nigga I Brought with Me | [MP3 · 13.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-09.mp3) | [Read](chapters/book-06/chapter-09/script.md) |
 | 10. My Wife Said Get Down from There | [MP3 · 12.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-10.mp3) | [Read](chapters/book-06/chapter-10/script.md) |
 | 11. The Traffic Stop Heard Around the World | [MP3 · 10.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-11.mp3) | [Read](chapters/book-06/chapter-11/script.md) |
-| 12. The Captain Who Wouldn't Kneel | ready | [Read](chapters/book-06/chapter-12/script.md) |
+| 12. The Captain Who Wouldn't Kneel | [MP3 · 10.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-12.mp3) | [Read](chapters/book-06/chapter-12/script.md) |
 | 13. Put the Crown on the Correct Nigga | ready | [Read](chapters/book-06/chapter-13/script.md) |
 | 14. The Last Road Out | ready | [Read](chapters/book-06/chapter-14/script.md) |
 | 15. The Last Nigga Who Thought He Could | ready | [Read](chapters/book-06/chapter-15/script.md) |
