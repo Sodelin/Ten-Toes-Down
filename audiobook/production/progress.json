@@ -3189,7 +3189,7 @@
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:39:47.604435+00:00",
+      "updated_at": "2026-11-04T05:40:01.907480+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-22.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -3204,7 +3204,7 @@
       "id": "b06-c23",
       "book": 6,
       "chapter": 23,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-23",
       "release_tag": "audiobook-book-06",
       "title": "23. Niggalicious",
@@ -3213,7 +3213,17 @@
       "narrator": "TICKET",
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:43:37.282162+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-23.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "016f8f92338fa60c2cefff0f2f83d055d338b00fe8cbc7e93cf14cc6aba54952",
+        "duration_seconds": 834.3419166666666,
+        "uploaded_at": "2026-11-04T05:43:47.776150+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c24",
