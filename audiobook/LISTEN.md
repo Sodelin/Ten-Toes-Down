@@ -129,6 +129,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 5 — 23/23 recordings uploaded
 
+[Complete Book 5 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The City That Stayed Up for Me | [MP3 · 25.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-01.mp3) | [Read](chapters/book-05/chapter-01/script.md) |

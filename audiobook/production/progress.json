@@ -2639,7 +2639,7 @@
       "segments": 44,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T03:13:47.365988+00:00",
+      "updated_at": "2026-11-04T03:14:03.718021+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-23.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -3054,6 +3054,16 @@
       "duration_seconds": 18811.611083333333,
       "sample_rate": 24000,
       "chapters": 22
+    },
+    "book-05": {
+      "status": "published",
+      "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05.m4b",
+      "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+      "sha256": "9800bbc27c6fe66eea2a9126119c5efceaf73992e9fdae63f9054d9a4dad4300",
+      "size": 290673857,
+      "duration_seconds": 22585.85241666667,
+      "sample_rate": 24000,
+      "chapters": 23
     }
   }
 }
