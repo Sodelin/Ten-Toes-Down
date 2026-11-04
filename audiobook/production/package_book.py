@@ -243,7 +243,7 @@ def upload_asset(repo: Path, tag: str, asset: Path) -> tuple[str, str]:
     return remote["browser_download_url"], release["html_url"]
 
 
-def package_book(config: dict, book_number: int) -> None:
+def package_book(config: dict, book_number: int, *, reuse_existing: bool = False) -> None:
     package = config["package_root"]
     repo = config["repo_root"]
     progress_path = package / "production" / "progress.json"
@@ -256,23 +256,27 @@ def package_book(config: dict, book_number: int) -> None:
     books = package / "books"
     books.mkdir(parents=True, exist_ok=True)
     output = books / f"book-{book_number:02}.m4b"
-    temporary_output = output.with_suffix(".part.m4b")
-    temporary_output.unlink(missing_ok=True)
-    with tempfile.TemporaryDirectory(prefix=f"book-{book_number:02}-", dir=config["log_root"]) as temporary_name:
-        temporary = Path(temporary_name)
-        concat_path = temporary / "chapters.ffconcat"
-        metadata_path = temporary / "chapters.ffmetadata"
-        write_concat(concat_path, package, chapters)
-        write_metadata(metadata_path, book_number, boundaries, sample_rate)
-        run_ffmpeg([
-            "-y", "-f", "concat", "-safe", "0", "-i", str(concat_path),
-            "-f", "ffmetadata", "-i", str(metadata_path), "-map", "0:a:0",
-            "-map_metadata", "1", "-map_chapters", "1", "-c:a", "aac",
-            "-b:a", "96k", "-ac", "1", "-ar", "24000", "-movflags", "+faststart",
-            "-f", "ipod", str(temporary_output),
-        ])
-    duration, verified_boundaries = verify_m4b(temporary_output, boundaries, sample_rate, total_frames)
-    temporary_output.replace(output)
+    if reuse_existing:
+        # Resume publication after an interruption without replacing the saved audio.
+        duration, verified_boundaries = verify_m4b(output, boundaries, sample_rate, total_frames)
+    else:
+        temporary_output = output.with_suffix(".part.m4b")
+        temporary_output.unlink(missing_ok=True)
+        with tempfile.TemporaryDirectory(prefix=f"book-{book_number:02}-", dir=config["log_root"]) as temporary_name:
+            temporary = Path(temporary_name)
+            concat_path = temporary / "chapters.ffconcat"
+            metadata_path = temporary / "chapters.ffmetadata"
+            write_concat(concat_path, package, chapters)
+            write_metadata(metadata_path, book_number, boundaries, sample_rate)
+            run_ffmpeg([
+                "-y", "-f", "concat", "-safe", "0", "-i", str(concat_path),
+                "-f", "ffmetadata", "-i", str(metadata_path), "-map", "0:a:0",
+                "-map_metadata", "1", "-map_chapters", "1", "-c:a", "aac",
+                "-b:a", "96k", "-ac", "1", "-ar", "24000", "-movflags", "+faststart",
+                "-f", "ipod", str(temporary_output),
+            ])
+        duration, verified_boundaries = verify_m4b(temporary_output, boundaries, sample_rate, total_frames)
+        temporary_output.replace(output)
 
     inventory_after = {chapter["id"]: source_inventory(safe_job(package, chapter["path"]), source_commit) for chapter in chapters}
     if inventory_after != inventory_before:
@@ -354,13 +358,14 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--config", type=Path, required=True)
     parser.add_argument("--book", type=int, required=True)
+    parser.add_argument("--reuse-existing", action="store_true", help="Verify the saved M4B and resume its publication without encoding it again.")
     args = parser.parse_args()
     if args.book <= 0:
         raise ValueError("--book must be a positive integer.")
     config = resolve_config(args.config)
     config["log_root"].mkdir(parents=True, exist_ok=True)
     with publication_lock(config["log_root"]):
-        package_book(config, args.book)
+        package_book(config, args.book, reuse_existing=args.reuse_existing)
 
 
 if __name__ == "__main__":

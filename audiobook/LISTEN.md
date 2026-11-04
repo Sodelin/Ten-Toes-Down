@@ -162,6 +162,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 
 ## Book 6 — 24/24 recordings uploaded
 
+[Complete Book 6 · chaptered M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06.m4b)
+
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The City That Had Never Met Me | [MP3 · 22.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-01.mp3) | [Read](chapters/book-06/chapter-01/script.md) |
