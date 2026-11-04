@@ -2489,7 +2489,7 @@
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:39:10.995239+00:00",
+      "updated_at": "2026-11-04T00:39:25.965142+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-17.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2504,7 +2504,7 @@
       "id": "b05-c18",
       "book": 5,
       "chapter": 18,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-18",
       "release_tag": "audiobook-book-05",
       "title": "18. They Crowned Me While I Was Looking for My Horse",
@@ -2513,7 +2513,17 @@
       "narrator": "TICKET",
       "segments": 38,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:42:33.454712+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-18.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "8afdcc31e3e02adee3f1205090b48b2e37961266c8272483e79b6cc762ca81e4",
+        "duration_seconds": 834.8982916666666,
+        "uploaded_at": "2026-11-04T00:42:43.839405+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c19",
