@@ -2839,7 +2839,7 @@
       "segments": 37,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T04:52:43.393166+00:00",
+      "updated_at": "2026-11-04T04:52:58.919365+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-08.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2854,7 +2854,7 @@
       "id": "b06-c09",
       "book": 6,
       "chapter": 9,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-09",
       "release_tag": "audiobook-book-06",
       "title": "9. Every Nigga I Brought with Me",
@@ -2863,7 +2863,17 @@
       "narrator": "TICKET",
       "segments": 35,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T04:56:16.473494+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-09.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "6485c3eb661cd8659de7a92dd5727baa0d65ed7f99fd647d9c3ab747e11d29b8",
+        "duration_seconds": 803.6457083333333,
+        "uploaded_at": "2026-11-04T04:56:27.222285+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c10",
