@@ -27,8 +27,13 @@ def save(path,value):
     path.write_text(json.dumps(value,indent=2,ensure_ascii=False)+'\n',encoding='utf-8',newline='\n')
 
 def write_index(package,progress):
+    complete=(len(progress.get('chapters',[]))==130
+              and all(row.get('status')=='published' for row in progress['chapters'])
+              and all(progress.get('books',{}).get(f'book-{book:02}',{}).get('status')=='published' for book in range(1,7)))
+    introduction=('All 130 chapter recordings and all six complete, chaptered book packages are published.' if complete
+                  else 'Chapter recordings are being produced in book order with verbatim source scripts.')
     lines=['# Listen to The Niggatorial Tellings','',
-           'Chapter recordings are being produced in book order with verbatim source scripts. From Book I chapter 2 onward, the funeral ticket man narrates every part in one voice; Chapter 1 retains its earlier cast. This page distinguishes published audio from chapters still in preparation.','',
+           introduction+' From Book I chapter 2 onward, the funeral ticket man narrates every part in one voice; Chapter 1 retains its earlier cast. All recordings use verbatim source scripts.','',
            '[Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)','']
     for book in range(1,7):
         jobs=[j for j in progress['chapters'] if j['book']==book]

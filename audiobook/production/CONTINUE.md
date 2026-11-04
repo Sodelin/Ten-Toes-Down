@@ -1,27 +1,37 @@
-> **2026-11-04 final package recovery:** All 130 chapters are published. The system rebooted at 06:05 UTC after Book VI encoding and validation but before its M4B publication finished. No production worker or packager is running. The saved book-06.m4b is preserved (SHA-256 2db379ebd952db951d5d8bc8b68bce894a9f857e12ba5cb7868fe697446460f6; 272823571 bytes). Resume only the saved package with package_book.py --config <absolute config> --book 6 --reuse-existing; this rechecks sources, masters, decoding and boundaries before publication and never re-encodes the saved M4B. Check live processes and the final package recovery log before any retry. Recovery backup: work/production-logs/book-06-recovery-20261104T061514Z. Stop production and remove the completed heartbeat only after all six book packages are verified published.
+# Production complete
 
-> **2026-11-04 production resumed with memory guards:** The bounded b05-c23 cache recovery succeeded, reusing 37 saved segments. Complete Book V (23 chapters) is published and its local/GitHub SHA-256, size, and chapter metadata are verified; its completion delivery is recorded in work/audio-deliveries.json. One existing serial worker resumed at b06-c01 after memory reserves recovered. There were 106 published chapters and 24 pending Book VI chapters at resume. Always check worker.py --status and live processes before restarting; never duplicate a worker. The worker checks 3072 MiB free RAM and 4096 MiB free Windows commit before each render and writes STOP after the first failed chapter. Preserve any new STOP/user hold and inspect the log before a bounded retry. b06-c02 retains 30/56 cached segments. Recovery evidence is in work/production-logs/memory-recovery-20261104T0212Z. Keep TICKET / am_michael / 0.95 and preserve all published assets and canonical sources.
+Verified 2026-11-04T06:20:19.581603+00:00. All **130 chapters** and all **six complete chaptered M4B book packages** are published at Sodelin/Ten-Toes-Down. No rendering, chapter publication, or book packaging work remains.
 
-> **2026-11-03 production resumed:** GitHub identity is verified as Sodelin. Book IV chapters 7 and 8 are fully published from their preserved recordings; remote MP3/manifest/caption hashes and sizes and the GitHub index commit were verified. The existing serial worker resumed at chapter 9. Before any restart, check worker.py --status and live processes; never start a duplicate. The authentication STOP and prior checkpoint are archived in work/production-logs/recovery-20261103T2153Z. The earlier restart and authentication holds are resolved. The rejected desktop-credential-transfer route remains prohibited.
+The production worker is stopped, no production processes are running, and work/production-logs/STOP records completion. The completed hourly heartbeat ten-toes-down-chapter-recordings was deleted through the Codex automation tool. Do not restart production or recreate the heartbeat automatically.
 
-# Current production checkpoint
+All 129 chapters after the original Book I Chapter 1 use TICKET, the funeral ticket man: Kokoro am_michael at speed 0.95 for narration and dialogue. The original published Book I Chapter 1 recording is preserved (SHA-256 450044553da3befee461c6e205e0707ab587dbc176c3f23b64ae64b034ff3837).
 
-The user changed direction: use ONE narrator for every remaining chapter, specifically the funeral ticket man, the second voice in the pilot. This is TICKET, Kokoro am_michael at speed 0.95. Do not return to Aiden/Tank synthesis or multi-character casting. Keep every book word for word.
+Canonical source revision: 3f16cb8dc89171439167297d744e623d6b16df25. The six canonical source books remain unchanged against the published repository. Every saved chapter script and source excerpt matches its recorded source-check hash. No paid synthesis services or Amazon/YouTube uploads were used.
 
-All 129 unpublished chapter scripts have been converted and passed mandatory source verification. Book I chapter 1 remains available as the previously published multi-voice edition; do not overwrite its release assets. The immediate requested deliveries are Chapters 2 and 3 in the ticket voice. The earlier multi-voice script maps are backed up in work/multivoice-script-backup. Canonical novels and chapter source excerpts are unchanged.
+## Completed books
 
-Workspace: C:/Users/nolan/Documents/Codex/2026-09-13/yo-yo-yo-my-nigga-nigga.
-Config: work/production-config.json (absolute path required by worker).
-Python: work/qwen-runtime/Scripts/python.exe for the worker/publisher; worker uses work/audio-runtime/Scripts/python.exe for CPU Kokoro synthesis.
-Worker: outputs/ten-toes-down-audio/production/worker.py.
-Progress: outputs/ten-toes-down-audio/production/progress.json.
-Logs: work/production-logs, including chapter logs and worker-state.json.
-Git checkout: work/audio-repository; remote Sodelin/Ten-Toes-Down.
+| Book | Chapters | Duration | Complete audio |
+|---|---:|---:|---|
+| 1 | 17 | 5:57:56 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-01/book-01.m4b) |
+| 2 | 20 | 5:37:10 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-02/book-02.m4b) |
+| 3 | 24 | 5:47:10 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-03/book-03.m4b) |
+| 4 | 22 | 5:13:32 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-04/book-04.m4b) |
+| 5 | 23 | 6:16:26 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05.m4b) |
+| 6 | 24 | 5:53:16 | [M4B](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06.m4b) |
 
-First run worker.py --config <absolute config> --status. Do not start a duplicate worker. The new single-voice worker performs rendering, chapter publication and completed-book M4B packaging automatically. No further speaker-attribution passes or agents are needed. All unpublished chapters are ready in book order.
+## Verification and local records
 
-If a job fails, inspect its log. Fix the concrete error and reset it under state.locked_progress: ready for a rendering retry, rendered for a publication retry after valid audio exists. Preserve caches. Never replace a different existing GitHub release asset; use explicit versioned retakes. Book/chapter publishing shares a publication lock. Local master WAVs and MP3s remain in outputs, release downloads hold the published audio, and Git stores scripts/manifests/index.
+- work/audiobook-completion.json: completion, source preservation, worker stop, and automation deletion receipt.
+- work/production-logs/book-06-recovery-20261104T061514Z/completion-audit.json: local versus GitHub SHA-256 and size verification for all 396 chapter audio, manifest, caption, and complete-book assets.
+- work/audio-deliveries.json: Chapters 2 and 3, all six book completions, and full completion delivery receipts. Do not repeat those notifications.
+- outputs/ten-toes-down-audio/chapters: preserved chapter masters, MP3s, scripts, captions, and manifests.
+- outputs/ten-toes-down-audio/books: six complete M4B files, chapter metadata, and playlists.
+- LISTEN.md: complete catalog of book and chapter downloads.
 
-The existing hourly heartbeat ten-toes-down-chapter-recordings is attached to this task. Do not duplicate it. Deliver Chapters 2 and 3 here with local audio players and GitHub links when published, recording that notification locally. Otherwise notify only for book completion, an actionable failure, or all work complete. No paid services or Amazon/YouTube uploads. Pause the heartbeat and stop the worker after all requested chapters/book packages finish. Automated input matching is not human listening certification.
+Automated source matching, chapter audio integrity, M4B decoding, duration, chapter boundaries, and remote asset hashes passed. Human listening review remains pending.
 
-Delivery receipts are stored locally in work/audio-deliveries.json. Read that file before posting completed Chapters 2 and 3, and update it after delivering them.
+## Recovery history
+
+Book VI encoding and validation had finished when the system rebooted at 2026-11-04 06:05 UTC, interrupting its upload. The saved book-06.m4b (SHA-256 2db379ebd952db951d5d8bc8b68bce894a9f857e12ba5cb7868fe697446460f6; 272823571 bytes) was verified and published with the explicit --reuse-existing option, without reencoding or replacing it. Backups and the recovery log are in work/production-logs/book-06-recovery-20261104T061514Z.
+
+Earlier authentication and memory recovery checkpoints remain in work/production-logs/recovery-20261103T2153Z and work/production-logs/memory-recovery-20261104T0212Z. Saved segment caches, source files, historical scripts, and published assets are preserved. The rejected desktop-credential-transfer route remains prohibited.

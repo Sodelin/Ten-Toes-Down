@@ -1,6 +1,6 @@
 # Listen to The Niggatorial Tellings
 
-Chapter recordings are being produced in book order with verbatim source scripts. From Book I chapter 2 onward, the funeral ticket man narrates every part in one voice; Chapter 1 retains its earlier cast. This page distinguishes published audio from chapters still in preparation.
+All 130 chapter recordings and all six complete, chaptered book packages are published. From Book I chapter 2 onward, the funeral ticket man narrates every part in one voice; Chapter 1 retains its earlier cast. All recordings use verbatim source scripts.
 
 [Three-minute cast pilot](pilot/funeral-new-voices.mp3) · [Production workflow](production/README.md) · [Cast directory](production/cast-inventory.md)
 
