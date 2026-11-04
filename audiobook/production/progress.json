@@ -2664,7 +2664,7 @@
       "segments": 61,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T04:22:02.501612+00:00",
+      "updated_at": "2026-11-04T04:22:22.164932+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-01.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2679,7 +2679,7 @@
       "id": "b06-c02",
       "book": 6,
       "chapter": 2,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-02",
       "release_tag": "audiobook-book-06",
       "title": "2. Two Queens and a Stolen Ballroom",
@@ -2689,7 +2689,16 @@
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T02:17:24.259415+00:00"
+      "updated_at": "2026-11-04T04:24:56.533507+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-02.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "a3bb5624993d89361e4063d91897a7752a003ffd1f3b85da7443c7068c7de6c1",
+        "duration_seconds": 1279.7838333333334,
+        "uploaded_at": "2026-11-04T04:25:10.139276+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c03",
