@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import contextlib
+import ctypes
 import hashlib
 import json
 import os
@@ -332,6 +333,51 @@ def process_alive(pid) -> bool:
         return False
 
 
+def available_memory_mb() -> dict:
+    """Read physical RAM and Windows commit headroom before loading Kokoro."""
+    class MemoryStatus(ctypes.Structure):
+        _fields_ = [("length", ctypes.c_uint32), ("load", ctypes.c_uint32)] + [
+            (name, ctypes.c_uint64) for name in (
+                "total_phys", "avail_phys", "total_commit", "avail_commit",
+                "total_virtual", "avail_virtual", "avail_extended_virtual",
+            )
+        ]
+
+    status = MemoryStatus()
+    status.length = ctypes.sizeof(status)
+    kernel = ctypes.WinDLL("kernel32", use_last_error=True)
+    kernel.GlobalMemoryStatusEx.argtypes = [ctypes.POINTER(MemoryStatus)]
+    kernel.GlobalMemoryStatusEx.restype = ctypes.c_int
+    if not kernel.GlobalMemoryStatusEx(ctypes.byref(status)):
+        raise ctypes.WinError(ctypes.get_last_error())
+    return {
+        "ram_available_mb": status.avail_phys // (1024 * 1024),
+        "commit_available_mb": status.avail_commit // (1024 * 1024),
+    }
+
+
+def pause_if_memory_low(config: dict, stop_path: Path) -> bool:
+    memory = available_memory_mb()
+    required_ram = int(config.get("minimum_free_ram_mb", 3072))
+    required_commit = int(config.get("minimum_free_commit_mb", 4096))
+    if memory["ram_available_mb"] >= required_ram and memory["commit_available_mb"] >= required_commit:
+        return False
+    reason = {
+        "reason": "Insufficient memory to start the next chapter; caches preserved.",
+        "time": now(), **memory,
+        "minimum_free_ram_mb": required_ram,
+        "minimum_free_commit_mb": required_commit,
+    }
+    try:
+        with stop_path.open("x", encoding="utf-8") as handle:
+            json.dump(reason, handle, indent=2)
+            handle.write("\n")
+    except FileExistsError:
+        pass  # Preserve a concurrent user-directed STOP.
+    print(json.dumps({"status": "paused", **reason}), flush=True)
+    return True
+
+
 def print_status(config: dict, progress_path: Path, state_path: Path) -> None:
     progress = load_progress(progress_path)
     counts = {status: 0 for status in sorted(VALID_STATUSES)}
@@ -387,10 +433,21 @@ def main() -> int:
                     break
                 time.sleep(30)
                 continue
+            if chapter["status"] == "ready" and pause_if_memory_low(config, stop_path):
+                write_state(state_path, started, None)
+                break
             write_state(state_path, started, chapter["id"])
             process_job(config, progress_path, chapter, stop_path)
             processed += 1
             write_state(state_path, started, None)
+            current = next(row for row in load_progress(progress_path)["chapters"] if row["id"] == chapter["id"])
+            if current["status"] == "failed":
+                try:
+                    with stop_path.open("x", encoding="utf-8") as handle:
+                        handle.write(f"Chapter {chapter['id']} failed; inspect its log before retrying. Caches preserved.\n")
+                except FileExistsError:
+                    pass
+                break  # Do not skip a failed chapter and continue out of book order.
             if args.once:
                 break
         write_state(state_path, started, None)
