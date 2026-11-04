@@ -2689,7 +2689,7 @@
       "segments": 56,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T04:24:56.533507+00:00",
+      "updated_at": "2026-11-04T04:25:13.517821+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-02.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2704,7 +2704,7 @@
       "id": "b06-c03",
       "book": 6,
       "chapter": 3,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-03",
       "release_tag": "audiobook-book-06",
       "title": "3. Captain of the Whole Fucking Sky",
@@ -2713,7 +2713,17 @@
       "narrator": "TICKET",
       "segments": 60,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T04:30:37.414398+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-03.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "9bf66d51adac1c3c30dc991685d72411c4bc22a57d88de3bcc18464a9ec94796",
+        "duration_seconds": 1321.5475,
+        "uploaded_at": "2026-11-04T04:30:52.220239+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c04",

@@ -160,13 +160,13 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 2/24 recordings uploaded
+## Book 6 — 3/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
 | 1. The City That Had Never Met Me | [MP3 · 22.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-01.mp3) | [Read](chapters/book-06/chapter-01/script.md) |
 | 2. Two Queens and a Stolen Ballroom | [MP3 · 21.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-02.mp3) | [Read](chapters/book-06/chapter-02/script.md) |
-| 3. Captain of the Whole Fucking Sky | ready | [Read](chapters/book-06/chapter-03/script.md) |
+| 3. Captain of the Whole Fucking Sky | [MP3 · 22.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-03.mp3) | [Read](chapters/book-06/chapter-03/script.md) |
 | 4. Dinner with the Wrong Motherfucker | ready | [Read](chapters/book-06/chapter-04/script.md) |
 | 5. The Fastest Funeral Procession in History | ready | [Read](chapters/book-06/chapter-05/script.md) |
 | 6. The Man They Put on Every Stage | ready | [Read](chapters/book-06/chapter-06/script.md) |
