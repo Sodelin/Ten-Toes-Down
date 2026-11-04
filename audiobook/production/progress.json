@@ -2339,7 +2339,7 @@
       "segments": 53,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:18:10.417542+00:00",
+      "updated_at": "2026-11-04T00:18:26.217925+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-11.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2354,7 +2354,7 @@
       "id": "b05-c12",
       "book": 5,
       "chapter": 12,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-12",
       "release_tag": "audiobook-book-05",
       "title": "12. Mercedes and Porsche Took the Wheel",
@@ -2363,7 +2363,17 @@
       "narrator": "TICKET",
       "segments": 58,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:23:14.855422+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-12.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "e6ab99811418fea3b1d98a4d9d81329cd619e73ed5838b7fb83ca688f040419f",
+        "duration_seconds": 1251.0915,
+        "uploaded_at": "2026-11-04T00:23:27.884717+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c13",
