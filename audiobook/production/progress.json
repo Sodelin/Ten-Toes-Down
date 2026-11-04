@@ -2239,7 +2239,7 @@
       "segments": 45,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:00:56.818948+00:00",
+      "updated_at": "2026-11-04T00:01:14.911588+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-07.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2254,7 +2254,7 @@
       "id": "b05-c08",
       "book": 5,
       "chapter": 8,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-08",
       "release_tag": "audiobook-book-05",
       "title": "8. The King Behind the Wall",
@@ -2263,7 +2263,17 @@
       "narrator": "TICKET",
       "segments": 46,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:05:20.914577+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-08.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "5fcb98134ab80eeb6157a91ae74d43c373434af093d6e671303c846541981b96",
+        "duration_seconds": 1050.0712916666666,
+        "uploaded_at": "2026-11-04T00:05:33.052979+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c09",
