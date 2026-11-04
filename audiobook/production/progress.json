@@ -2589,7 +2589,7 @@
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:52:51.699535+00:00",
+      "updated_at": "2026-11-04T00:53:06.978947+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-21.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2604,7 +2604,7 @@
       "id": "b05-c22",
       "book": 5,
       "chapter": 22,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-22",
       "release_tag": "audiobook-book-05",
       "title": "22. The Palace Was Too Small for the Housewarming",
@@ -2613,7 +2613,17 @@
       "narrator": "TICKET",
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:56:05.796827+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-22.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "9709027bebdc0107013a292d12f896950dfdd32ccb38148e58135f2ede4bf44e",
+        "duration_seconds": 692.3600833333334,
+        "uploaded_at": "2026-11-04T00:56:15.409164+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c23",

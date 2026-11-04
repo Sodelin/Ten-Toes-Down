@@ -127,7 +127,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 4 playlist](books/book-04.m3u)
 
 
-## Book 5 — 21/23 recordings uploaded
+## Book 5 — 22/23 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -152,7 +152,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 19. Seven Points and One Beautiful Head | [MP3 · 13.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-19.mp3) | [Read](chapters/book-05/chapter-19/script.md) |
 | 20. The Nigga Brought an Army to My Wife's Encore | [MP3 · 13.3 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-20.mp3) | [Read](chapters/book-05/chapter-20/script.md) |
 | 21. The Last Palace in the Way | [MP3 · 15.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-21.mp3) | [Read](chapters/book-05/chapter-21/script.md) |
-| 22. The Palace Was Too Small for the Housewarming | ready | [Read](chapters/book-05/chapter-22/script.md) |
+| 22. The Palace Was Too Small for the Housewarming | [MP3 · 11.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-22.mp3) | [Read](chapters/book-05/chapter-22/script.md) |
 | 23. Every Road Had Heard About Me | ready | [Read](chapters/book-05/chapter-23/script.md) |
 
 [Book 5 playlist](books/book-05.m3u)
