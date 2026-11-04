@@ -2739,7 +2739,7 @@
       "segments": 52,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T04:36:04.891809+00:00",
+      "updated_at": "2026-11-04T04:36:22.257953+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-04.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -2754,7 +2754,7 @@
       "id": "b06-c05",
       "book": 6,
       "chapter": 5,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-05",
       "release_tag": "audiobook-book-06",
       "title": "5. The Fastest Funeral Procession in History",
@@ -2763,7 +2763,17 @@
       "narrator": "TICKET",
       "segments": 46,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T04:40:36.504556+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-05.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "8fe574b20aa234409ea672f091af5a6f631575140eee44c06e08b183e9a44ffe",
+        "duration_seconds": 1015.5095416666667,
+        "uploaded_at": "2026-11-04T04:40:48.552728+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c06",
