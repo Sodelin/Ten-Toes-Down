@@ -2464,7 +2464,7 @@
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:35:24.754455+00:00",
+      "updated_at": "2026-11-04T00:35:38.459094+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-16.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2479,7 +2479,7 @@
       "id": "b05-c17",
       "book": 5,
       "chapter": 17,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-17",
       "release_tag": "audiobook-book-05",
       "title": "17. I Stole the Yacht Before the Coronation",
@@ -2488,7 +2488,17 @@
       "narrator": "TICKET",
       "segments": 42,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:39:10.995239+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-17.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "0e58a4cabb7afc4eecbbd5b2d8b8ce17012fd57a34ab8b55b21bc25cd2b6b72f",
+        "duration_seconds": 925.3521666666667,
+        "uploaded_at": "2026-11-04T00:39:22.548132+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c18",
