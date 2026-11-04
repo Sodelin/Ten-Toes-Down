@@ -160,7 +160,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 14/24 recordings uploaded
+## Book 6 — 15/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -178,7 +178,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 12. The Captain Who Wouldn't Kneel | [MP3 · 10.6 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-12.mp3) | [Read](chapters/book-06/chapter-12/script.md) |
 | 13. Put the Crown on the Correct Nigga | [MP3 · 12.5 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-13.mp3) | [Read](chapters/book-06/chapter-13/script.md) |
 | 14. The Last Road Out | [MP3 · 10.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-14.mp3) | [Read](chapters/book-06/chapter-14/script.md) |
-| 15. The Last Nigga Who Thought He Could | ready | [Read](chapters/book-06/chapter-15/script.md) |
+| 15. The Last Nigga Who Thought He Could | [MP3 · 10.8 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-15.mp3) | [Read](chapters/book-06/chapter-15/script.md) |
 | 16. The Emperor Left Me a Receipt | ready | [Read](chapters/book-06/chapter-16/script.md) |
 | 17. Vegas Had Been Practicing My Name | ready | [Read](chapters/book-06/chapter-17/script.md) |
 | 18. The Valedictorian Came Back for His People | ready | [Read](chapters/book-06/chapter-18/script.md) |
