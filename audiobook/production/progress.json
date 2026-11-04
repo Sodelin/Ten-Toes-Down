@@ -2539,7 +2539,7 @@
       "segments": 36,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T00:45:43.052307+00:00",
+      "updated_at": "2026-11-04T00:45:56.690813+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-19.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
@@ -2554,7 +2554,7 @@
       "id": "b05-c20",
       "book": 5,
       "chapter": 20,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-05/chapter-20",
       "release_tag": "audiobook-book-05",
       "title": "20. The Nigga Brought an Army to My Wife's Encore",
@@ -2563,7 +2563,17 @@
       "narrator": "TICKET",
       "segments": 37,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T00:49:00.876485+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-05/book-05-chapter-20.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-05",
+        "audio_sha256": "90693f74e3140085bf59b1fbde02d153ae228f4f4c36c1ba35770c5372de7cbf",
+        "duration_seconds": 796.3815,
+        "uploaded_at": "2026-11-04T00:49:11.830040+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b05-c21",
