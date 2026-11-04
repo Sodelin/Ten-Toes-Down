@@ -160,7 +160,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 19/24 recordings uploaded
+## Book 6 — 20/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -183,7 +183,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 17. Vegas Had Been Practicing My Name | [MP3 · 12.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-17.mp3) | [Read](chapters/book-06/chapter-17/script.md) |
 | 18. The Valedictorian Came Back for His People | [MP3 · 21.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-18.mp3) | [Read](chapters/book-06/chapter-18/script.md) |
 | 19. Keys for Everybody I Love | [MP3 · 11.7 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-19.mp3) | [Read](chapters/book-06/chapter-19/script.md) |
-| 20. The Bachelor Party with the Wrong Speech | ready | [Read](chapters/book-06/chapter-20/script.md) |
+| 20. The Bachelor Party with the Wrong Speech | [MP3 · 14.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-20.mp3) | [Read](chapters/book-06/chapter-20/script.md) |
 | 21. Something Old, Something Loud | ready | [Read](chapters/book-06/chapter-21/script.md) |
 | 22. Two Weddings and the Whole Fucking World | ready | [Read](chapters/book-06/chapter-22/script.md) |
 | 23. Niggalicious | ready | [Read](chapters/book-06/chapter-23/script.md) |

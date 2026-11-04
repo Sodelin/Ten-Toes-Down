@@ -3114,7 +3114,7 @@
       "segments": 33,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:28:53.595789+00:00",
+      "updated_at": "2026-11-04T05:29:06.710254+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-19.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -3129,7 +3129,7 @@
       "id": "b06-c20",
       "book": 6,
       "chapter": 20,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-20",
       "release_tag": "audiobook-book-06",
       "title": "20. The Bachelor Party with the Wrong Speech",
@@ -3138,7 +3138,17 @@
       "narrator": "TICKET",
       "segments": 40,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:32:49.648367+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-20.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "884a830036329f9f0fe961b39101fca3bf0a190bf6c88fddcb56491a84298ff8",
+        "duration_seconds": 864.184,
+        "uploaded_at": "2026-11-04T05:33:01.641944+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c21",
