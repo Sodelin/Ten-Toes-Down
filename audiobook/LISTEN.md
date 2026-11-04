@@ -160,7 +160,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 23/24 recordings uploaded
+## Book 6 — 24/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
@@ -187,7 +187,7 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 21. Something Old, Something Loud | [MP3 · 11.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-21.mp3) | [Read](chapters/book-06/chapter-21/script.md) |
 | 22. Two Weddings and the Whole Fucking World | [MP3 · 14.4 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-22.mp3) | [Read](chapters/book-06/chapter-22/script.md) |
 | 23. Niggalicious | [MP3 · 13.9 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-23.mp3) | [Read](chapters/book-06/chapter-23/script.md) |
-| 24. Ten Toes Down, and Then Breakfast | ready | [Read](chapters/book-06/chapter-24/script.md) |
+| 24. Ten Toes Down, and Then Breakfast | [MP3 · 16.0 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-24.mp3) | [Read](chapters/book-06/chapter-24/script.md) |
 
 [Book 6 playlist](books/book-06.m3u)
 
