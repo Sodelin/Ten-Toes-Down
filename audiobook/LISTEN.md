@@ -160,11 +160,11 @@ Chapter recordings are being produced in book order with verbatim source scripts
 [Book 5 playlist](books/book-05.m3u)
 
 
-## Book 6 — 0/24 recordings uploaded
+## Book 6 — 1/24 recordings uploaded
 
 | Chapter | Recording | Script |
 |---|---|---|
-| 1. The City That Had Never Met Me | ready | [Read](chapters/book-06/chapter-01/script.md) |
+| 1. The City That Had Never Met Me | [MP3 · 22.2 min](https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-01.mp3) | [Read](chapters/book-06/chapter-01/script.md) |
 | 2. Two Queens and a Stolen Ballroom | ready | [Read](chapters/book-06/chapter-02/script.md) |
 | 3. Captain of the Whole Fucking Sky | ready | [Read](chapters/book-06/chapter-03/script.md) |
 | 4. Dinner with the Wrong Motherfucker | ready | [Read](chapters/book-06/chapter-04/script.md) |
@@ -188,5 +188,8 @@ Chapter recordings are being produced in book order with verbatim source scripts
 | 22. Two Weddings and the Whole Fucking World | ready | [Read](chapters/book-06/chapter-22/script.md) |
 | 23. Niggalicious | ready | [Read](chapters/book-06/chapter-23/script.md) |
 | 24. Ten Toes Down, and Then Breakfast | ready | [Read](chapters/book-06/chapter-24/script.md) |
+
+[Book 6 playlist](books/book-06.m3u)
+
 
 Source matching and audio integrity are checked automatically. Published does not mean a human has listened to every syllable. The source novels are unchanged.
