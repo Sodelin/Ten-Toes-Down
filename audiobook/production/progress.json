@@ -3164,7 +3164,7 @@
       "segments": 31,
       "source_check": "PASS: script matches the source excerpt verbatim",
       "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
-      "updated_at": "2026-11-04T05:35:50.184770+00:00",
+      "updated_at": "2026-11-04T05:36:02.487298+00:00",
       "publication": {
         "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-21.mp3",
         "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
@@ -3179,7 +3179,7 @@
       "id": "b06-c22",
       "book": 6,
       "chapter": 22,
-      "status": "ready",
+      "status": "published",
       "path": "chapters/book-06/chapter-22",
       "release_tag": "audiobook-book-06",
       "title": "22. Two Weddings and the Whole Fucking World",
@@ -3188,7 +3188,17 @@
       "narrator": "TICKET",
       "segments": 39,
       "source_check": "PASS: script matches the source excerpt verbatim",
-      "speaker_review": "Single narrator selected by user; no dialogue attribution required."
+      "speaker_review": "Single narrator selected by user; no dialogue attribution required.",
+      "updated_at": "2026-11-04T05:39:47.604435+00:00",
+      "publication": {
+        "audio_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/download/audiobook-book-06/book-06-chapter-22.mp3",
+        "release_url": "https://github.com/Sodelin/Ten-Toes-Down/releases/tag/audiobook-book-06",
+        "audio_sha256": "bbd35417272f6640f2d3c524409a92c65f55cd56d4939a5436217eee167d8d70",
+        "duration_seconds": 865.1354583333333,
+        "uploaded_at": "2026-11-04T05:39:58.493692+00:00",
+        "checks": "verbatim input, audio integrity and remote asset hashes passed",
+        "listening_review": "pending"
+      }
     },
     {
       "id": "b06-c23",
